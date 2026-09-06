@@ -4,28 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-001",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "recall addition facts",
+    "skill": "addition recall",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, what is 7 + 5?",
-    "audioPrompt": "During the bird count, what is 7 + 5?",
-    "visual": "During the bird count: 7 counters beside 5 counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: 7 counters beside 5 counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-001\"></use></svg>",
+    "question": "Find 8 + 9.",
+    "audioPrompt": "Find 8 + 9.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-001",
-      "alt_text": "During the bird count: 7 counters beside 5 counters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "11",
-      "12",
-      "13"
+      "17",
+      "16",
+      "18"
     ],
-    "correct": 1,
-    "explanation": "7 and 5 make 12.\nHint: Start with 7 and count on 5.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Eight plus 9 equals 17.\nHint: Use 9+9 minus 1.",
     "structuredExplanation": {
-      "summary": "7 and 5 make 12.",
-      "hint": "Start with 7 and count on 5."
+      "summary": "Eight plus 9 equals 17.",
+      "hint": "Use 9+9 minus 1."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-002",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "use related subtraction",
+    "skill": "double fact",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, what is 12 − 7?",
-    "audioPrompt": "During the bird count, what is 12 − 7?",
-    "visual": "During the bird count: Part-part-whole model with 7 and a missing part making 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: Part-part-whole model with 7 and a missing part making 12.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-002\"></use></svg>",
+    "question": "Which is a doubles fact?",
+    "audioPrompt": "Which is a doubles fact?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-002",
-      "alt_text": "During the bird count: Part-part-whole model with 7 and a missing part making 12."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "7",
-      "6",
-      "5"
+      "7 + 8 = 15",
+      "7 + 7 = 14",
+      "6 + 8 = 14"
     ],
-    "correct": 2,
-    "explanation": "12 has parts 7 and 5, so 12 − 7 = 5.\nHint: Think: 7 plus what makes 12?",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "A doubles fact has equal addends.\nHint: Compare the two parts.",
     "structuredExplanation": {
-      "summary": "12 has parts 7 and 5, so 12 − 7 = 5.",
-      "hint": "Think: 7 plus what makes 12?"
+      "summary": "A doubles fact has equal addends.",
+      "hint": "Compare the two parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-003",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "connect fact family",
+    "skill": "near double",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, which subtraction fact belongs with 7 + 5 = 12?",
-    "audioPrompt": "During the bird count, which subtraction fact belongs with 7 + 5 = 12?",
-    "visual": "During the bird count: Fact triangle with parts 7 and 5, and whole 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: Fact triangle with parts 7 and 5, and whole 12.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-003\"></use></svg>",
+    "question": "Use 8 + 8 to find 8 + 9.",
+    "audioPrompt": "Use 8 + 8 to find 8 + 9.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-003",
-      "alt_text": "During the bird count: Fact triangle with parts 7 and 5, and whole 12."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "12 − 7 = 5",
-      "12 − 5 = 8",
-      "7 − 5 = 2"
+      "16",
+      "18",
+      "17"
     ],
-    "correct": 0,
-    "explanation": "The same whole and parts make 12 − 7 = 5.\nHint: The largest number is the whole. Start subtraction with it.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Near double 8+9 is one more than 16.\nHint: Add one to the double.",
     "structuredExplanation": {
-      "summary": "The same whole and parts make 12 − 7 = 5.",
-      "hint": "The largest number is the whole. Start subtraction with it."
+      "summary": "Near double 8+9 is one more than 16.",
+      "hint": "Add one to the double."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-004",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "use make ten",
+    "skill": "make ten",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, use make ten. What is 9 + 7?",
-    "audioPrompt": "During the bird count, use make ten. What is 9 + 7?",
-    "visual": "During the bird count: A make-ten model for 9 plus 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: A make-ten model for 9 plus 7.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-004\"></use></svg>",
+    "question": "Which calculation shows making ten for 9 + 7?",
+    "audioPrompt": "Which calculation shows making ten for 9 + 7?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-004",
-      "alt_text": "During the bird count: A make-ten model for 9 plus 7."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "17",
-      "16",
-      "15"
+      "10 + 6",
+      "9 + 6",
+      "10 + 7"
     ],
-    "correct": 1,
-    "explanation": "9 needs 1 to make 10. Add the rest to get 16.\nHint: Move 1 from 7 to make 10 first.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Move 1 from 7 to 9, leaving 6.\nHint: Preserve the total.",
     "structuredExplanation": {
-      "summary": "9 needs 1 to make 10. Add the rest to get 16.",
-      "hint": "Move 1 from 7 to make 10 first."
+      "summary": "Move 1 from 7 to 9, leaving 6.",
+      "hint": "Preserve the total."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-005",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "use near doubles",
+    "skill": "missing addend",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, you know 7 + 7 = 14. What is 7 + 8?",
-    "audioPrompt": "During the bird count, you know 7 + 7 = 14. What is 7 + 8?",
-    "visual": "During the bird count: Two groups: one has 7 counters and one has 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: Two groups: one has 7 counters and one has 8.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-005\"></use></svg>",
+    "question": "Complete: __ + 7 = 20.",
+    "audioPrompt": "Complete: __ + 7 = 20.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-005",
-      "alt_text": "During the bird count: Two groups: one has 7 counters and one has 8."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "14",
-      "16",
-      "15"
+      "12",
+      "13",
+      "14"
     ],
-    "correct": 2,
-    "explanation": "7 + 8 is one more than the double 7 + 7.\nHint: Use the double, then add one.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Thirteen plus 7 equals 20.\nHint: Use 20 − 7.",
     "structuredExplanation": {
-      "summary": "7 + 8 is one more than the double 7 + 7.",
-      "hint": "Use the double, then add one."
+      "summary": "Thirteen plus 7 equals 20.",
+      "hint": "Use 20 − 7."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-006",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "choose related fact",
+    "skill": "related addition",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, which fact helps you solve 12 − 5?",
-    "audioPrompt": "During the bird count, which fact helps you solve 12 − 5?",
-    "visual": "During the bird count: A whole of 12 split into 5 and 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: A whole of 12 split into 5 and 7.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-006\"></use></svg>",
+    "question": "What is related to 12 + 6 = 18?",
+    "audioPrompt": "What is related to 12 + 6 = 18?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-006",
-      "alt_text": "During the bird count: A whole of 12 split into 5 and 7."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "5 + 7 = 12",
-      "5 + 12 = 17",
-      "12 + 7 = 19"
+      "18 + 6 = 24",
+      "12 − 6 = 18",
+      "6 + 12 = 18"
     ],
-    "correct": 0,
-    "explanation": "The related addition fact is 5 + 7 = 12.\nHint: Use the same two parts and whole.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Addition works in either order.\nHint: Swap only the addends.",
     "structuredExplanation": {
-      "summary": "The related addition fact is 5 + 7 = 12.",
-      "hint": "Use the same two parts and whole."
+      "summary": "Addition works in either order.",
+      "hint": "Swap only the addends."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-007",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "apply addition fact",
+    "skill": "subtraction recall",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, Mia has 7 shells and finds 5 more. How many shells does she have now?",
-    "audioPrompt": "During the bird count, Mia has 7 shells and finds 5 more. How many shells does she have now?",
-    "visual": "During the bird count: 7 shells and 5 more shells shown in two groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: 7 shells and 5 more shells shown in two groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-007\"></use></svg>",
+    "question": "Find 18 − 7.",
+    "audioPrompt": "Find 18 − 7.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-007",
-      "alt_text": "During the bird count: 7 shells and 5 more shells shown in two groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "2",
-      "12",
-      "13"
+      "11",
+      "10",
+      "12"
     ],
-    "correct": 1,
-    "explanation": "The shells join, so 7 + 5 = 12.\nHint: The word “more” tells you to join the groups.",
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Eighteen minus 7 leaves 11.\nHint: Check with 11+7.",
     "structuredExplanation": {
-      "summary": "The shells join, so 7 + 5 = 12.",
-      "hint": "The word “more” tells you to join the groups."
+      "summary": "Eighteen minus 7 leaves 11.",
+      "hint": "Check with 11+7."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-008",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "apply subtraction fact",
+    "skill": "use ten",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, there are 15 birds. 5 fly away. How many birds stay?",
-    "audioPrompt": "During the bird count, there are 15 birds. 5 fly away. How many birds stay?",
-    "visual": "During the bird count: 15 birds with 5 shown flying away.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: 15 birds with 5 shown flying away.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-008\"></use></svg>",
+    "question": "For 16 − 9, which split of 9 reaches ten first?",
+    "audioPrompt": "For 16 − 9, which split of 9 reaches ten first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-008",
-      "alt_text": "During the bird count: 15 birds with 5 shown flying away."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "20",
-      "9",
-      "10"
+      "5 and 4",
+      "6 and 3",
+      "7 and 2"
     ],
-    "correct": 2,
-    "explanation": "The birds leave, so 15 − 5 = 10.\nHint: Start with all the birds and take away the ones that flew away.",
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Subtract 6 from 16 to reach 10, then subtract 3.\nHint: Find the distance from 16 to 10.",
     "structuredExplanation": {
-      "summary": "The birds leave, so 15 − 5 = 10.",
-      "hint": "Start with all the birds and take away the ones that flew away."
+      "summary": "Subtract 6 from 16 to reach 10, then subtract 3.",
+      "hint": "Find the distance from 16 to 10."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-009",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "recall addition facts",
+    "skill": "count on",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, what is 8 + 6?",
-    "audioPrompt": "At the sticker station, what is 8 + 6?",
-    "visual": "At the sticker station: 8 counters beside 6 counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: 8 counters beside 6 counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-009\"></use></svg>",
+    "question": "Use counting on to find 17 − 14.",
+    "audioPrompt": "Use counting on to find 17 − 14.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-009",
-      "alt_text": "At the sticker station: 8 counters beside 6 counters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "14",
-      "13",
-      "15"
+      "31",
+      "2",
+      "3"
     ],
-    "correct": 0,
-    "explanation": "8 and 6 make 14.\nHint: Start with 8 and count on 6.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "It takes three steps—15, 16, 17—to get from 14 to 17.\nHint: Count the steps.",
     "structuredExplanation": {
-      "summary": "8 and 6 make 14.",
-      "hint": "Start with 8 and count on 6."
+      "summary": "It takes three steps—15, 16, 17—to get from 14 to 17.",
+      "hint": "Count the steps."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-010",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "use related subtraction",
+    "skill": "missing subtrahend",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, what is 14 − 8?",
-    "audioPrompt": "At the sticker station, what is 14 − 8?",
-    "visual": "At the sticker station: Part-part-whole model with 8 and a missing part making 14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: Part-part-whole model with 8 and a missing part making 14.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-010\"></use></svg>",
+    "question": "Complete: 20 − __ = 12.",
+    "audioPrompt": "Complete: 20 − __ = 12.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-010",
-      "alt_text": "At the sticker station: Part-part-whole model with 8 and a missing part making 14."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       "8",
-      "6",
-      "7"
+      "7",
+      "9"
     ],
-    "correct": 1,
-    "explanation": "14 has parts 8 and 6, so 14 − 8 = 6.\nHint: Think: 8 plus what makes 14?",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Twenty minus 8 equals 12.\nHint: Use 12+8=20.",
     "structuredExplanation": {
-      "summary": "14 has parts 8 and 6, so 14 − 8 = 6.",
-      "hint": "Think: 8 plus what makes 14?"
+      "summary": "Twenty minus 8 equals 12.",
+      "hint": "Use 12+8=20."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-011",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "connect fact family",
+    "skill": "related subtraction",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, which subtraction fact belongs with 8 + 6 = 14?",
-    "audioPrompt": "At the sticker station, which subtraction fact belongs with 8 + 6 = 14?",
-    "visual": "At the sticker station: Fact triangle with parts 8 and 6, and whole 14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: Fact triangle with parts 8 and 6, and whole 14.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-011\"></use></svg>",
+    "question": "Which belongs with 19 − 8 = 11?",
+    "audioPrompt": "Which belongs with 19 − 8 = 11?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-011",
-      "alt_text": "At the sticker station: Fact triangle with parts 8 and 6, and whole 14."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "14 − 6 = 9",
-      "8 − 6 = 2",
-      "14 − 8 = 6"
+      "11 − 8 = 3",
+      "19 − 11 = 8",
+      "19 + 8 = 27"
     ],
-    "correct": 2,
-    "explanation": "The same whole and parts make 14 − 8 = 6.\nHint: The largest number is the whole. Start subtraction with it.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Related subtraction facts keep 19 as the whole.\nHint: Swap the subtracted part and difference.",
     "structuredExplanation": {
-      "summary": "The same whole and parts make 14 − 8 = 6.",
-      "hint": "The largest number is the whole. Start subtraction with it."
+      "summary": "Related subtraction facts keep 19 as the whole.",
+      "hint": "Swap the subtracted part and difference."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-012",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "use make ten",
+    "skill": "number line mixed",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, use make ten. What is 8 + 8?",
-    "audioPrompt": "At the sticker station, use make ten. What is 8 + 8?",
-    "visual": "At the sticker station: A make-ten model for 8 plus 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: A make-ten model for 8 plus 8.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-012\"></use></svg>",
+    "question": "A number line starts at 13 and ends at 19 after forward jumps. Which equation matches?",
+    "audioPrompt": "A number line starts at 13 and ends at 19 after forward jumps. Which equation matches?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-012",
-      "alt_text": "At the sticker station: A make-ten model for 8 plus 8."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "16",
-      "18",
-      "15"
+      "19 − 13 = 32",
+      "13 − 6 = 19",
+      "13 + 6 = 19"
     ],
-    "correct": 0,
-    "explanation": "8 needs 2 to make 10. Add the rest to get 16.\nHint: Move 2 from 8 to make 10 first.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Six forward jumps represent adding 6.\nHint: Use the direction and endpoints.",
     "structuredExplanation": {
-      "summary": "8 needs 2 to make 10. Add the rest to get 16.",
-      "hint": "Move 2 from 8 to make 10 first."
+      "summary": "Six forward jumps represent adding 6.",
+      "hint": "Use the direction and endpoints."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-013",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "use near doubles",
+    "skill": "fact family",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, you know 8 + 8 = 16. What is 8 + 9?",
-    "audioPrompt": "At the sticker station, you know 8 + 8 = 16. What is 8 + 9?",
-    "visual": "At the sticker station: Two groups: one has 8 counters and one has 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: Two groups: one has 8 counters and one has 9.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-013\"></use></svg>",
+    "question": "Which set uses one fact family?",
+    "audioPrompt": "Which set uses one fact family?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-013",
-      "alt_text": "At the sticker station: Two groups: one has 8 counters and one has 9."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "16",
-      "17",
-      "18"
+      "4+15=19, 15+4=19, 19−4=15, 19−15=4",
+      "4+15=19, 19−4=14, 15−4=11",
+      "4+19=23, 19−15=4, 15+4=19"
     ],
-    "correct": 1,
-    "explanation": "8 + 9 is one more than the double 8 + 8.\nHint: Use the double, then add one.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "All four facts use the same parts 4 and 15 and whole 19.\nHint: Check every number and operation.",
     "structuredExplanation": {
-      "summary": "8 + 9 is one more than the double 8 + 8.",
-      "hint": "Use the double, then add one."
+      "summary": "All four facts use the same parts 4 and 15 and whole 19.",
+      "hint": "Check every number and operation."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-014",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "choose related fact",
+    "skill": "diagnose near double",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, which fact helps you solve 14 − 6?",
-    "audioPrompt": "At the sticker station, which fact helps you solve 14 − 6?",
-    "visual": "At the sticker station: A whole of 14 split into 6 and 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: A whole of 14 split into 6 and 8.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-014\"></use></svg>",
+    "question": "A student says 6+7 equals double 6, which is 12. What was missed?",
+    "audioPrompt": "A student says 6+7 equals double 6, which is 12. What was missed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-014",
-      "alt_text": "At the sticker station: A whole of 14 split into 6 and 8."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6 + 14 = 20",
-      "14 + 8 = 22",
-      "6 + 8 = 14"
+      "The double should be 7+7 only",
+      "The extra 1 in the 7",
+      "Six cannot be doubled"
     ],
-    "correct": 2,
-    "explanation": "The related addition fact is 6 + 8 = 14.\nHint: Use the same two parts and whole.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Seven is one more than 6, so the sum is 13.\nHint: Near doubles need a one adjustment.",
     "structuredExplanation": {
-      "summary": "The related addition fact is 6 + 8 = 14.",
-      "hint": "Use the same two parts and whole."
+      "summary": "Seven is one more than 6, so the sum is 13.",
+      "hint": "Near doubles need a one adjustment."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +438,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-015",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "apply addition fact",
+    "skill": "choose efficient strategy",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, Mia has 8 shells and finds 6 more. How many shells does she have now?",
-    "audioPrompt": "At the sticker station, Mia has 8 shells and finds 6 more. How many shells does she have now?",
-    "visual": "At the sticker station: 8 shells and 6 more shells shown in two groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: 8 shells and 6 more shells shown in two groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-015\"></use></svg>",
+    "question": "Which strategy is efficient for 8 + 6?",
+    "audioPrompt": "Which strategy is efficient for 8 + 6?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-015",
-      "alt_text": "At the sticker station: 8 shells and 6 more shells shown in two groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "14",
-      "2",
-      "15"
+      "Count all 14 objects from 1",
+      "Subtract 6 from 8",
+      "Make 10: 8+2+4"
     ],
-    "correct": 0,
-    "explanation": "The shells join, so 8 + 6 = 14.\nHint: The word “more” tells you to join the groups.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Making ten reduces the calculation to 10+4.\nHint: Look for a friendly ten.",
     "structuredExplanation": {
-      "summary": "The shells join, so 8 + 6 = 14.",
-      "hint": "The word “more” tells you to join the groups."
+      "summary": "Making ten reduces the calculation to 10+4.",
+      "hint": "Look for a friendly ten."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +469,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a02-t-016",
     "curriculumCode": "AC9M2A02",
     "bank": "test",
-    "skill": "apply subtraction fact",
+    "skill": "reason equivalence",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, there are 17 birds. 6 fly away. How many birds stay?",
-    "audioPrompt": "At the sticker station, there are 17 birds. 6 fly away. How many birds stay?",
-    "visual": "At the sticker station: 17 birds with 6 shown flying away.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: 17 birds with 6 shown flying away.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-016\"></use></svg>",
+    "question": "Why do 14−6 and 14−8 give answers that add to 14?",
+    "audioPrompt": "Why do 14−6 and 14−8 give answers that add to 14?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-016",
-      "alt_text": "At the sticker station: 17 birds with 6 shown flying away."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "23",
-      "11",
-      "10"
+      "Six and eight are the two parts of 14",
+      "Subtraction always gives equal answers",
+      "Both answers are 14"
     ],
-    "correct": 1,
-    "explanation": "The birds leave, so 17 − 6 = 11.\nHint: Start with all the birds and take away the ones that flew away.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "The related differences are 8 and 6, the same two parts.\nHint: Use the fact family 6+8=14.",
     "structuredExplanation": {
-      "summary": "The birds leave, so 17 − 6 = 11.",
-      "hint": "Start with all the birds and take away the ones that flew away."
+      "summary": "The related differences are 8 and 6, the same two parts.",
+      "hint": "Use the fact family 6+8=14."
     },
     "qualitySchema": "production-v1"
   }

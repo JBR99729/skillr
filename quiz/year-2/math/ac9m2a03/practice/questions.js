@@ -4,31 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-001",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "multiply by two",
+    "skill": "pairs model",
     "printable": true,
     "type": "single",
-    "question": "At the sock table, how many counters are in 3 pairs?",
-    "audioPrompt": "At the sock table, how many counters are in 3 pairs?",
-    "visual": "At the sock table: 3 equal groups with 2 counters in each group.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sock table: 3 equal groups with 2 counters in each group.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-001\"></use></svg>",
+    "question": "Four pairs of gloves contain how many gloves?",
+    "audioPrompt": "Four pairs of gloves contain how many gloves?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-001",
-      "alt_text": "At the sock table: 3 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "3",
       "8",
-      "6"
+      "6",
+      "16"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "3 pairs means 3 groups of 2, so there are 6.\nHint: Skip-count by twos 3 times.",
+    "correct": 0,
+    "explanation": "Four groups of 2 make 8.\nHint: Count by twos four times.",
     "structuredExplanation": {
-      "summary": "3 pairs means 3 groups of 2, so there are 6.",
-      "hint": "Skip-count by twos 3 times."
+      "summary": "Four groups of 2 make 8.",
+      "hint": "Count by twos four times."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,31 +35,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-002",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "double number",
+    "skill": "multiply by two",
     "printable": true,
     "type": "single",
-    "question": "At the sock table, what is double 5?",
-    "audioPrompt": "At the sock table, what is double 5?",
-    "visual": "At the sock table: Two equal groups of 5 counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sock table: Two equal groups of 5 counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-002\"></use></svg>",
+    "question": "Find 2 × 6.",
+    "audioPrompt": "Find 2 × 6.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-002",
-      "alt_text": "At the sock table: Two equal groups of 5 counters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "10",
-      "5",
-      "9"
+      "8",
+      "12",
+      "14"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Double means two equal groups. 5 + 5 = 10.\nHint: Say the number twice, then add.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Two groups of 6 make 12; equivalently, double 6.\nHint: Double the other factor.",
     "structuredExplanation": {
-      "summary": "Double means two equal groups. 5 + 5 = 10.",
-      "hint": "Say the number twice, then add."
+      "summary": "Two groups of 6 make 12; equivalently, double 6.",
+      "hint": "Double the other factor."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,31 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-003",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "halve even number",
+    "skill": "twos fact",
     "printable": true,
     "type": "single",
-    "question": "At the sock table, what is half of 10?",
-    "audioPrompt": "At the sock table, what is half of 10?",
-    "visual": "At the sock table: 10 counters shared equally between 2 groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sock table: 10 counters shared equally between 2 groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-003\"></use></svg>",
+    "question": "Complete: 7 × 2 = __.",
+    "audioPrompt": "Complete: 7 × 2 = __.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-003",
-      "alt_text": "At the sock table: 10 counters shared equally between 2 groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "8",
-      "5",
-      "6"
+      "9",
+      "12",
+      "14"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Half means split 10 into 2 equal groups. Each group has 5.\nHint: Share one at a time into two groups.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Seven pairs contain 14 objects.\nHint: Skip-count by 2 seven times.",
     "structuredExplanation": {
-      "summary": "Half means split 10 into 2 equal groups. Each group has 5.",
-      "hint": "Share one at a time into two groups."
+      "summary": "Seven pairs contain 14 objects.",
+      "hint": "Skip-count by 2 seven times."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,31 +97,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-004",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "connect twos and division",
+    "skill": "array model",
     "printable": true,
     "type": "single",
-    "question": "At the sock table, which division fact matches 3 × 2 = 6?",
-    "audioPrompt": "At the sock table, which division fact matches 3 × 2 = 6?",
-    "visual": "At the sock table: A fact family showing 3, 2 and 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sock table: A fact family showing 3, 2 and 6.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-004\"></use></svg>",
+    "question": "An array has 2 rows of 8 dots. How many dots are there?",
+    "audioPrompt": "An array has 2 rows of 8 dots. How many dots are there?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-004",
-      "alt_text": "At the sock table: A fact family showing 3, 2 and 6."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6 ÷ 3 = 3",
-      "6 − 2 = 4",
-      "6 ÷ 2 = 3"
+      "16",
+      "10",
+      "18"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "6 shared into 2 equal groups gives 3 in each group.\nHint: Use the total 6, then divide it into 2 groups.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Two rows of 8 show double 8, which is 16.\nHint: Add 8+8.",
     "structuredExplanation": {
-      "summary": "6 shared into 2 equal groups gives 3 in each group.",
-      "hint": "Use the total 6, then divide it into 2 groups."
+      "summary": "Two rows of 8 show double 8, which is 16.",
+      "hint": "Add 8+8."
     },
     "qualitySchema": "production-v1"
   },
@@ -132,30 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-005",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "skip count by two",
+    "skill": "number line twos",
     "printable": true,
     "type": "single",
-    "question": "At the sock table, count by twos: 2, 4, 6, 8, __. What comes next?",
-    "audioPrompt": "At the sock table, count by twos: 2, 4, 6, 8, __. What comes next?",
-    "visual": "At the sock table: An even-number sequence ending with a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sock table: An even-number sequence ending with a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-005\"></use></svg>",
+    "question": "Starting at 0, five jumps of 2 end at what number?",
+    "audioPrompt": "Starting at 0, five jumps of 2 end at what number?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-005",
-      "alt_text": "At the sock table: An even-number sequence ending with a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      "7",
       "10",
-      "9",
       "12"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Counting by twos adds 2. After 8 comes 10.\nHint: Say the next even number.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Five equal jumps of 2 total 10.\nHint: Count 2,4,6,8,10.",
     "structuredExplanation": {
-      "summary": "Counting by twos adds 2. After 8 comes 10.",
-      "hint": "Say the next even number."
+      "summary": "Five equal jumps of 2 total 10.",
+      "hint": "Count 2,4,6,8,10."
     },
     "qualitySchema": "production-v1"
   },
@@ -163,31 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-006",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "make pairs",
+    "skill": "missing factor",
     "printable": true,
     "type": "single",
-    "question": "At the sock table, 10 socks make pairs. How many pairs are there?",
-    "audioPrompt": "At the sock table, 10 socks make pairs. How many pairs are there?",
-    "visual": "At the sock table: 10 socks arranged as 5 pairs.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sock table: 10 socks arranged as 5 pairs.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-006\"></use></svg>",
+    "question": "Complete: __ × 2 = 18.",
+    "audioPrompt": "Complete: __ × 2 = 18.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-006",
-      "alt_text": "At the sock table: 10 socks arranged as 5 pairs."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      "8",
       "10",
-      "5",
-      "7"
+      "9"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Each pair uses 2 socks, so 10 ÷ 2 = 5 pairs.\nHint: Circle the socks two at a time.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Nine groups of 2 make 18.\nHint: Count the number of pairs.",
     "structuredExplanation": {
-      "summary": "Each pair uses 2 socks, so 10 ÷ 2 = 5 pairs.",
-      "hint": "Circle the socks two at a time."
+      "summary": "Nine groups of 2 make 18.",
+      "hint": "Count the number of pairs."
     },
     "qualitySchema": "production-v1"
   },
@@ -195,31 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-007",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "solve twos context",
+    "skill": "double connection",
     "printable": true,
     "type": "single",
-    "question": "At the sock table, there are 4 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audioPrompt": "At the sock table, there are 4 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "visual": "At the sock table: 4 bikes represented by groups of 2 wheels.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sock table: 4 bikes represented by groups of 2 wheels.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-007\"></use></svg>",
+    "question": "Which double helps solve 2 × 7?",
+    "audioPrompt": "Which double helps solve 2 × 7?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-007",
-      "alt_text": "At the sock table: 4 bikes represented by groups of 2 wheels."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "9",
-      "8"
+      "7 + 7",
+      "2 + 7",
+      "2 + 2 + 2 + 2 + 2 + 2"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "4 groups of 2 wheels make 8 wheels.\nHint: Draw 2 wheels for each bike, then count them.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Multiplying by 2 is doubling the other factor.\nHint: A double has two equal addends.",
     "structuredExplanation": {
-      "summary": "4 groups of 2 wheels make 8 wheels.",
-      "hint": "Draw 2 wheels for each bike, then count them."
+      "summary": "Multiplying by 2 is doubling the other factor.",
+      "hint": "A double has two equal addends."
     },
     "qualitySchema": "production-v1"
   },
@@ -227,31 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-008",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "recognise equal halves",
+    "skill": "commutative twos",
     "printable": true,
     "type": "single",
-    "question": "At the sock table, which shows half of 12?",
-    "audioPrompt": "At the sock table, which shows half of 12?",
-    "visual": "At the sock table: 12 counters shown in two equal groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sock table: 12 counters shown in two equal groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-008\"></use></svg>",
+    "question": "Why do 2 × 9 and 9 × 2 have the same total?",
+    "audioPrompt": "Why do 2 × 9 and 9 × 2 have the same total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-008",
-      "alt_text": "At the sock table: 12 counters shown in two equal groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6 and 6",
-      "5 and 7",
-      "12 and 12"
+      "Both have nine rows of nine",
+      "Both represent 18 objects arranged in different orientations",
+      "Multiplication changes the number of objects"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Two equal parts of 6 make 12.\nHint: Halves must be equal and join to make the whole.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Turning a 2-by-9 array swaps rows and columns but keeps 18 objects.\nHint: No objects are added or removed.",
     "structuredExplanation": {
-      "summary": "Two equal parts of 6 make 12.",
-      "hint": "Halves must be equal and join to make the whole."
+      "summary": "Turning a 2-by-9 array swaps rows and columns but keeps 18 objects.",
+      "hint": "No objects are added or removed."
     },
     "qualitySchema": "production-v1"
   },
@@ -259,31 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-009",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "multiply by two",
+    "skill": "halve even set",
     "printable": true,
     "type": "single",
-    "question": "With the bike cards, how many counters are in 4 pairs?",
-    "audioPrompt": "With the bike cards, how many counters are in 4 pairs?",
-    "visual": "With the bike cards: 4 equal groups with 2 counters in each group.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the bike cards: 4 equal groups with 2 counters in each group.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-009\"></use></svg>",
+    "question": "Half of 16 is __.",
+    "audioPrompt": "Half of 16 is __.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-009",
-      "alt_text": "With the bike cards: 4 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "8",
-      "10"
+      "7",
+      "32",
+      "8"
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "4 pairs means 4 groups of 2, so there are 8.\nHint: Skip-count by twos 4 times.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Sixteen split into 2 equal groups gives 8 in each.\nHint: Use 2×8=16.",
     "structuredExplanation": {
-      "summary": "4 pairs means 4 groups of 2, so there are 8.",
-      "hint": "Skip-count by twos 4 times."
+      "summary": "Sixteen split into 2 equal groups gives 8 in each.",
+      "hint": "Use 2×8=16."
     },
     "qualitySchema": "production-v1"
   },
@@ -291,30 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-010",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "double number",
+    "skill": "divide by two",
     "printable": true,
     "type": "single",
-    "question": "With the bike cards, what is double 6?",
-    "audioPrompt": "With the bike cards, what is double 6?",
-    "visual": "With the bike cards: Two equal groups of 6 counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the bike cards: Two equal groups of 6 counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-010\"></use></svg>",
+    "question": "Find 14 ÷ 2.",
+    "audioPrompt": "Find 14 ÷ 2.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-010",
-      "alt_text": "With the bike cards: Two equal groups of 6 counters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      "7",
       "6",
-      "11",
-      "12"
+      "8"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Double means two equal groups. 6 + 6 = 12.\nHint: Say the number twice, then add.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Fourteen shared between 2 equal groups gives 7 each.\nHint: Use the related twos fact.",
     "structuredExplanation": {
-      "summary": "Double means two equal groups. 6 + 6 = 12.",
-      "hint": "Say the number twice, then add."
+      "summary": "Fourteen shared between 2 equal groups gives 7 each.",
+      "hint": "Use the related twos fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -322,30 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-011",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "halve even number",
+    "skill": "pair grouping",
     "printable": true,
     "type": "single",
-    "question": "With the bike cards, what is half of 12?",
-    "audioPrompt": "With the bike cards, what is half of 12?",
-    "visual": "With the bike cards: 12 counters shared equally between 2 groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the bike cards: 12 counters shared equally between 2 groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-011\"></use></svg>",
+    "question": "How many pairs can be made from 18 socks?",
+    "audioPrompt": "How many pairs can be made from 18 socks?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-011",
-      "alt_text": "With the bike cards: 12 counters shared equally between 2 groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6",
-      "10",
-      "7"
+      "8",
+      "9",
+      "16"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Half means split 12 into 2 equal groups. Each group has 6.\nHint: Share one at a time into two groups.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Eighteen contains nine groups of 2.\nHint: Count by twos to 18.",
     "structuredExplanation": {
-      "summary": "Half means split 12 into 2 equal groups. Each group has 6.",
-      "hint": "Share one at a time into two groups."
+      "summary": "Eighteen contains nine groups of 2.",
+      "hint": "Count by twos to 18."
     },
     "qualitySchema": "production-v1"
   },
@@ -353,30 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-012",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "connect twos and division",
+    "skill": "sharing two groups",
     "printable": true,
     "type": "single",
-    "question": "With the bike cards, which division fact matches 4 × 2 = 8?",
-    "audioPrompt": "With the bike cards, which division fact matches 4 × 2 = 8?",
-    "visual": "With the bike cards: A fact family showing 4, 2 and 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the bike cards: A fact family showing 4, 2 and 8.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-012\"></use></svg>",
+    "question": "Twenty counters are shared equally into 2 groups. How many are in each group?",
+    "audioPrompt": "Twenty counters are shared equally into 2 groups. How many are in each group?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-012",
-      "alt_text": "With the bike cards: A fact family showing 4, 2 and 8."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "8 ÷ 4 = 4",
-      "8 ÷ 2 = 4",
-      "8 − 2 = 6"
+      "18",
+      "22",
+      "10"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "8 shared into 2 equal groups gives 4 in each group.\nHint: Use the total 8, then divide it into 2 groups.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Halving 20 gives 10 in each group.\nHint: Both groups must be equal.",
     "structuredExplanation": {
-      "summary": "8 shared into 2 equal groups gives 4 in each group.",
-      "hint": "Use the total 8, then divide it into 2 groups."
+      "summary": "Halving 20 gives 10 in each group.",
+      "hint": "Both groups must be equal."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,30 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-013",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "skip count by two",
+    "skill": "related division",
     "printable": true,
     "type": "single",
-    "question": "With the bike cards, count by twos: 4, 6, 8, 10, __. What comes next?",
-    "audioPrompt": "With the bike cards, count by twos: 4, 6, 8, 10, __. What comes next?",
-    "visual": "With the bike cards: An even-number sequence ending with a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the bike cards: An even-number sequence ending with a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-013\"></use></svg>",
+    "question": "If 8 × 2 = 16, which related division fact finds the number of pairs?",
+    "audioPrompt": "If 8 × 2 = 16, which related division fact finds the number of pairs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-013",
-      "alt_text": "With the bike cards: An even-number sequence ending with a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "11",
-      "14",
-      "12"
+      "16 ÷ 2 = 8",
+      "16 ÷ 8 = 2 pairs",
+      "8 ÷ 2 = 16"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Counting by twos adds 2. After 10 comes 12.\nHint: Say the next even number.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "Sixteen divided into groups of 2 makes 8 groups.\nHint: Start with the total.",
     "structuredExplanation": {
-      "summary": "Counting by twos adds 2. After 10 comes 12.",
-      "hint": "Say the next even number."
+      "summary": "Sixteen divided into groups of 2 makes 8 groups.",
+      "hint": "Start with the total."
     },
     "qualitySchema": "production-v1"
   },
@@ -415,30 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-014",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "make pairs",
+    "skill": "missing dividend",
     "printable": true,
     "type": "single",
-    "question": "With the bike cards, 12 socks make pairs. How many pairs are there?",
-    "audioPrompt": "With the bike cards, 12 socks make pairs. How many pairs are there?",
-    "visual": "With the bike cards: 12 socks arranged as 6 pairs.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the bike cards: 12 socks arranged as 6 pairs.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-014\"></use></svg>",
+    "question": "Complete: __ ÷ 2 = 6.",
+    "audioPrompt": "Complete: __ ÷ 2 = 6.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-014",
-      "alt_text": "With the bike cards: 12 socks arranged as 6 pairs."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6",
+      "8",
       "12",
-      "8"
+      "3"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Each pair uses 2 socks, so 12 ÷ 2 = 6 pairs.\nHint: Circle the socks two at a time.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Twelve divided into 2 equal groups gives 6.\nHint: Double the quotient.",
     "structuredExplanation": {
-      "summary": "Each pair uses 2 socks, so 12 ÷ 2 = 6 pairs.",
-      "hint": "Circle the socks two at a time."
+      "summary": "Twelve divided into 2 equal groups gives 6.",
+      "hint": "Double the quotient."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,30 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-015",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "solve twos context",
+    "skill": "missing quotient",
     "printable": true,
     "type": "single",
-    "question": "With the bike cards, there are 5 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audioPrompt": "With the bike cards, there are 5 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "visual": "With the bike cards: 5 bikes represented by groups of 2 wheels.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the bike cards: 5 bikes represented by groups of 2 wheels.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-015\"></use></svg>",
+    "question": "Complete: 20 ÷ 2 = __.",
+    "audioPrompt": "Complete: 20 ÷ 2 = __.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-015",
-      "alt_text": "With the bike cards: 5 bikes represented by groups of 2 wheels."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "5",
-      "10",
-      "11"
+      "9",
+      "18",
+      "10"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "5 groups of 2 wheels make 10 wheels.\nHint: Draw 2 wheels for each bike, then count them.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Half of 20 is 10.\nHint: Use 2×10=20.",
     "structuredExplanation": {
-      "summary": "5 groups of 2 wheels make 10 wheels.",
-      "hint": "Draw 2 wheels for each bike, then count them."
+      "summary": "Half of 20 is 10.",
+      "hint": "Use 2×10=20."
     },
     "qualitySchema": "production-v1"
   },
@@ -477,30 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-016",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "recognise equal halves",
+    "skill": "identify even total",
     "printable": true,
     "type": "single",
-    "question": "With the bike cards, which shows half of 14?",
-    "audioPrompt": "With the bike cards, which shows half of 14?",
-    "visual": "With the bike cards: 14 counters shown in two equal groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the bike cards: 14 counters shown in two equal groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-016\"></use></svg>",
+    "question": "Which total can be divided into 2 equal whole-number groups?",
+    "audioPrompt": "Which total can be divided into 2 equal whole-number groups?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-016",
-      "alt_text": "With the bike cards: 14 counters shown in two equal groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6 and 8",
-      "14 and 14",
-      "7 and 7"
+      "18",
+      "17",
+      "19"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Two equal parts of 7 make 14.\nHint: Halves must be equal and join to make the whole.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "Eighteen is 9+9, so it halves evenly.\nHint: Look for a number made of complete pairs.",
     "structuredExplanation": {
-      "summary": "Two equal parts of 7 make 14.",
-      "hint": "Halves must be equal and join to make the whole."
+      "summary": "Eighteen is 9+9, so it halves evenly.",
+      "hint": "Look for a number made of complete pairs."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,30 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-017",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "multiply by two",
+    "skill": "choose representation",
     "printable": true,
     "type": "single",
-    "question": "In the counter game, how many counters are in 5 pairs?",
-    "audioPrompt": "In the counter game, how many counters are in 5 pairs?",
-    "visual": "In the counter game: 5 equal groups with 2 counters in each group.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the counter game: 5 equal groups with 2 counters in each group.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-017\"></use></svg>",
+    "question": "Which represents 6 × 2?",
+    "audioPrompt": "Which represents 6 × 2?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-017",
-      "alt_text": "In the counter game: 5 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "10",
-      "5",
-      "12"
+      "One group with 8",
+      "Six equal groups with 2 in each",
+      "Two unequal groups with 6 and 2"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "5 pairs means 5 groups of 2, so there are 10.\nHint: Skip-count by twos 5 times.",
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Six groups of 2 preserve both factors.\nHint: Identify groups and group size.",
     "structuredExplanation": {
-      "summary": "5 pairs means 5 groups of 2, so there are 10.",
-      "hint": "Skip-count by twos 5 times."
+      "summary": "Six groups of 2 preserve both factors.",
+      "hint": "Identify groups and group size."
     },
     "qualitySchema": "production-v1"
   },
@@ -539,30 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-018",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "double number",
+    "skill": "interpret quotient",
     "printable": true,
     "type": "single",
-    "question": "In the counter game, what is double 7?",
-    "audioPrompt": "In the counter game, what is double 7?",
-    "visual": "In the counter game: Two equal groups of 7 counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the counter game: Two equal groups of 7 counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-018\"></use></svg>",
+    "question": "For 12 pencils shared equally between 2 children, what does 6 mean?",
+    "audioPrompt": "For 12 pencils shared equally between 2 children, what does 6 mean?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-018",
-      "alt_text": "In the counter game: Two equal groups of 7 counters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "7",
-      "14",
-      "13"
+      "There are 6 children",
+      "Six pencils are left over",
+      "Each child receives 6 pencils"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Double means two equal groups. 7 + 7 = 14.\nHint: Say the number twice, then add.",
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "The quotient is the amount in each equal share.\nHint: Connect the answer to the story.",
     "structuredExplanation": {
-      "summary": "Double means two equal groups. 7 + 7 = 14.",
-      "hint": "Say the number twice, then add."
+      "summary": "The quotient is the amount in each equal share.",
+      "hint": "Connect the answer to the story."
     },
     "qualitySchema": "production-v1"
   },
@@ -570,30 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-019",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "halve even number",
+    "skill": "double then halve",
     "printable": true,
     "type": "single",
-    "question": "In the counter game, what is half of 14?",
-    "audioPrompt": "In the counter game, what is half of 14?",
-    "visual": "In the counter game: 14 counters shared equally between 2 groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the counter game: 14 counters shared equally between 2 groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-019\"></use></svg>",
+    "question": "A number is doubled to make 18. What was the number?",
+    "audioPrompt": "A number is doubled to make 18. What was the number?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-019",
-      "alt_text": "In the counter game: 14 counters shared equally between 2 groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "12",
-      "8",
-      "7"
+      "9",
+      "16",
+      "36"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Half means split 14 into 2 equal groups. Each group has 7.\nHint: Share one at a time into two groups.",
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": 0,
+    "explanation": "Halving 18 undoes doubling and gives 9.\nHint: Use inverse operations.",
     "structuredExplanation": {
-      "summary": "Half means split 14 into 2 equal groups. Each group has 7.",
-      "hint": "Share one at a time into two groups."
+      "summary": "Halving 18 undoes doubling and gives 9.",
+      "hint": "Use inverse operations."
     },
     "qualitySchema": "production-v1"
   },
@@ -601,30 +593,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-020",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "connect twos and division",
+    "skill": "fact link",
     "printable": true,
     "type": "single",
-    "question": "In the counter game, which division fact matches 5 × 2 = 10?",
-    "audioPrompt": "In the counter game, which division fact matches 5 × 2 = 10?",
-    "visual": "In the counter game: A fact family showing 5, 2 and 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the counter game: A fact family showing 5, 2 and 10.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-020\"></use></svg>",
+    "question": "Which pair of equations shows a twos fact and its related division fact?",
+    "audioPrompt": "Which pair of equations shows a twos fact and its related division fact?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-020",
-      "alt_text": "In the counter game: A fact family showing 5, 2 and 10."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "10 ÷ 2 = 5",
-      "10 ÷ 5 = 5",
-      "10 − 2 = 8"
+      "9×2=18 and 18−2=16",
+      "9×2=18 and 18÷2=9",
+      "9+2=11 and 11÷2=9"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "10 shared into 2 equal groups gives 5 in each group.\nHint: Use the total 10, then divide it into 2 groups.",
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "Both equations use the same factor, 2, total 18 and other factor 9.\nHint: Keep the same three numbers.",
     "structuredExplanation": {
-      "summary": "10 shared into 2 equal groups gives 5 in each group.",
-      "hint": "Use the total 10, then divide it into 2 groups."
+      "summary": "Both equations use the same factor, 2, total 18 and other factor 9.",
+      "hint": "Keep the same three numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -632,30 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-021",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "skip count by two",
+    "skill": "diagnose pair error",
     "printable": true,
     "type": "single",
-    "question": "In the counter game, count by twos: 6, 8, 10, 12, __. What comes next?",
-    "audioPrompt": "In the counter game, count by twos: 6, 8, 10, 12, __. What comes next?",
-    "visual": "In the counter game: An even-number sequence ending with a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the counter game: An even-number sequence ending with a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-021\"></use></svg>",
+    "question": "Kai says 7 pairs contain 9 objects because 7+2=9. What should Kai do?",
+    "audioPrompt": "Kai says 7 pairs contain 9 objects because 7+2=9. What should Kai do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-021",
-      "alt_text": "In the counter game: An even-number sequence ending with a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "13",
-      "14",
-      "16"
+      "Add 7 and 2 again to get 18",
+      "Divide 7 by 2",
+      "Add 2 seven times to get 14"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Counting by twos adds 2. After 12 comes 14.\nHint: Say the next even number.",
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Seven pairs are seven equal groups of 2.\nHint: Represent every pair.",
     "structuredExplanation": {
-      "summary": "Counting by twos adds 2. After 12 comes 14.",
-      "hint": "Say the next even number."
+      "summary": "Seven pairs are seven equal groups of 2.",
+      "hint": "Represent every pair."
     },
     "qualitySchema": "production-v1"
   },
@@ -663,30 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-022",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "make pairs",
+    "skill": "diagnose halving error",
     "printable": true,
     "type": "single",
-    "question": "In the counter game, 14 socks make pairs. How many pairs are there?",
-    "audioPrompt": "In the counter game, 14 socks make pairs. How many pairs are there?",
-    "visual": "In the counter game: 14 socks arranged as 7 pairs.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the counter game: 14 socks arranged as 7 pairs.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-022\"></use></svg>",
+    "question": "A student halves 18 and gets 8. What check shows the error?",
+    "audioPrompt": "A student halves 18 and gets 8. What check shows the error?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-022",
-      "alt_text": "In the counter game: 14 socks arranged as 7 pairs."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "14",
-      "9",
-      "7"
+      "2 × 8 = 16, not 18",
+      "18 − 8 = 10",
+      "8 + 2 = 10"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Each pair uses 2 socks, so 14 ÷ 2 = 7 pairs.\nHint: Circle the socks two at a time.",
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": 0,
+    "explanation": "A correct half doubled must return to 18; the half is 9.\nHint: Undo halving by doubling.",
     "structuredExplanation": {
-      "summary": "Each pair uses 2 socks, so 14 ÷ 2 = 7 pairs.",
-      "hint": "Circle the socks two at a time."
+      "summary": "A correct half doubled must return to 18; the half is 9.",
+      "hint": "Undo halving by doubling."
     },
     "qualitySchema": "production-v1"
   },
@@ -694,30 +686,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-023",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "solve twos context",
+    "skill": "compare twos facts",
     "printable": true,
     "type": "single",
-    "question": "In the counter game, there are 6 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audioPrompt": "In the counter game, there are 6 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "visual": "In the counter game: 6 bikes represented by groups of 2 wheels.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the counter game: 6 bikes represented by groups of 2 wheels.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-023\"></use></svg>",
+    "question": "How much greater is 9 × 2 than 6 × 2?",
+    "audioPrompt": "How much greater is 9 × 2 than 6 × 2?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-023",
-      "alt_text": "In the counter game: 6 bikes represented by groups of 2 wheels."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "12",
+      "3",
       "6",
-      "13"
+      "12"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "6 groups of 2 wheels make 12 wheels.\nHint: Draw 2 wheels for each bike, then count them.",
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": 1,
+    "explanation": "The difference is three groups of 2, which is 6.\nHint: Compare the number of extra pairs.",
     "structuredExplanation": {
-      "summary": "6 groups of 2 wheels make 12 wheels.",
-      "hint": "Draw 2 wheels for each bike, then count them."
+      "summary": "The difference is three groups of 2, which is 6.",
+      "hint": "Compare the number of extra pairs."
     },
     "qualitySchema": "production-v1"
   },
@@ -725,702 +717,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a03-p-024",
     "curriculumCode": "AC9M2A03",
     "bank": "practice",
-    "skill": "recognise equal halves",
+    "skill": "reason inverse",
     "printable": true,
     "type": "single",
-    "question": "In the counter game, which shows half of 16?",
-    "audioPrompt": "In the counter game, which shows half of 16?",
-    "visual": "In the counter game: 16 counters shown in two equal groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the counter game: 16 counters shown in two equal groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-024\"></use></svg>",
+    "question": "Why does knowing 2 × 10 = 20 help find 20 ÷ 2?",
+    "audioPrompt": "Why does knowing 2 × 10 = 20 help find 20 ÷ 2?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-024",
-      "alt_text": "In the counter game: 16 counters shown in two equal groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "7 and 9",
-      "8 and 8",
-      "16 and 16"
+      "Division always adds 2",
+      "Twenty is ten more than 10",
+      "Multiplication and division use the same equal groups in reverse"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Two equal parts of 8 make 16.\nHint: Halves must be equal and join to make the whole.",
-    "structuredExplanation": {
-      "summary": "Two equal parts of 8 make 16.",
-      "hint": "Halves must be equal and join to make the whole."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-025",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the school garden what is",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, what is double 2?",
-    "audioPrompt": "At the school garden, what is double 2?",
-    "visual": "At the school garden, what is double 2?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, what is double 2?"
-    },
-    "answers": [
-      "4",
-      "2",
-      "6"
-    ],
-    "correct": 0,
-    "explanation": "Double 2 means 2 + 2.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Double 2 means 2 + 2.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-026",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during maths groups half of 12",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, half of 12 is?",
-    "audioPrompt": "During maths groups, half of 12 is?",
-    "visual": "During maths groups, half of 12 is?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, half of 12 is?"
-    },
-    "answers": [
-      "10",
-      "7",
-      "6"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "Half of 12 is 6.\nHint: Use the information in the question to check your answer.",
+    "explanation": "The product becomes the division total and the missing factor becomes the quotient.\nHint: Use the same array in reverse.",
     "structuredExplanation": {
-      "summary": "Half of 12 is 6.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-027",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the art table 4 pairs",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, 4 pairs of socks have how many socks?",
-    "audioPrompt": "At the art table, 4 pairs of socks have how many socks?",
-    "visual": "At the art table, 4 pairs of socks have how many socks?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, 4 pairs of socks have how many socks?"
-    },
-    "answers": [
-      "9",
-      "8",
-      "4"
-    ],
-    "correct": 1,
-    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-028",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "in the playground what is double",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, what is double 5?",
-    "audioPrompt": "In the playground, what is double 5?",
-    "visual": "In the playground, what is double 5?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, what is double 5?"
-    },
-    "answers": [
-      "10",
-      "5",
-      "12"
-    ],
-    "correct": 0,
-    "explanation": "Double 5 means 5 + 5.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Double 5 means 5 + 5.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-029",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the library half of 18",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, half of 18 is?",
-    "audioPrompt": "At the library, half of 18 is?",
-    "visual": "At the library, half of 18 is?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, half of 18 is?"
-    },
-    "answers": [
-      "16",
-      "10",
-      "9"
-    ],
-    "correct": 2,
-    "explanation": "Half of 18 is 9.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Half of 18 is 9.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-030",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during sport 7 pairs of socks",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, 7 pairs of socks have how many socks?",
-    "audioPrompt": "During sport, 7 pairs of socks have how many socks?",
-    "visual": "During sport, 7 pairs of socks have how many socks?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, 7 pairs of socks have how many socks?"
-    },
-    "answers": [
-      "15",
-      "14",
-      "7"
-    ],
-    "correct": 1,
-    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-031",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the class shop what is",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, what is double 8?",
-    "audioPrompt": "At the class shop, what is double 8?",
-    "visual": "At the class shop, what is double 8?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, what is double 8?"
-    },
-    "answers": [
-      "16",
-      "8",
-      "18"
-    ],
-    "correct": 0,
-    "explanation": "Double 8 means 8 + 8.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Double 8 means 8 + 8.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-032",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "on the picnic rug half of",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, half of 12 is?",
-    "audioPrompt": "On the picnic rug, half of 12 is?",
-    "visual": "On the picnic rug, half of 12 is?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, half of 12 is?"
-    },
-    "answers": [
-      "10",
-      "7",
-      "6"
-    ],
-    "correct": 2,
-    "explanation": "Half of 12 is 6.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Half of 12 is 6.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-033",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the block table 10 pairs",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, 10 pairs of socks have how many socks?",
-    "audioPrompt": "At the block table, 10 pairs of socks have how many socks?",
-    "visual": "At the block table, 10 pairs of socks have how many socks?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, 10 pairs of socks have how many socks?"
-    },
-    "answers": [
-      "21",
-      "20",
-      "10"
-    ],
-    "correct": 1,
-    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-034",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "in the lunch area what is",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, what is double 11?",
-    "audioPrompt": "In the lunch area, what is double 11?",
-    "visual": "In the lunch area, what is double 11?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, what is double 11?"
-    },
-    "answers": [
-      "22",
-      "11",
-      "24"
-    ],
-    "correct": 0,
-    "explanation": "Double 11 means 11 + 11.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Double 11 means 11 + 11.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-035",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the science table half of",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, half of 18 is?",
-    "audioPrompt": "At the science table, half of 18 is?",
-    "visual": "At the science table, half of 18 is?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, half of 18 is?"
-    },
-    "answers": [
-      "16",
-      "10",
-      "9"
-    ],
-    "correct": 2,
-    "explanation": "Half of 18 is 9.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Half of 18 is 9.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-036",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during a card game 3 pairs",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, 3 pairs of socks have how many socks?",
-    "audioPrompt": "During a card game, 3 pairs of socks have how many socks?",
-    "visual": "During a card game, 3 pairs of socks have how many socks?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, 3 pairs of socks have how many socks?"
-    },
-    "answers": [
-      "7",
-      "6",
-      "3"
-    ],
-    "correct": 1,
-    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-037",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the school garden what is",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, what is double 4?",
-    "audioPrompt": "At the school garden, what is double 4?",
-    "visual": "At the school garden, what is double 4?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, what is double 4?"
-    },
-    "answers": [
-      "8",
-      "4",
-      "10"
-    ],
-    "correct": 0,
-    "explanation": "Double 4 means 4 + 4.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Double 4 means 4 + 4.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-038",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during maths groups half of 12",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, half of 12 is?",
-    "audioPrompt": "During maths groups, half of 12 is?",
-    "visual": "During maths groups, half of 12 is?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, half of 12 is?"
-    },
-    "answers": [
-      "10",
-      "7",
-      "6"
-    ],
-    "correct": 2,
-    "explanation": "Half of 12 is 6.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Half of 12 is 6.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-039",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the art table 6 pairs",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, 6 pairs of socks have how many socks?",
-    "audioPrompt": "At the art table, 6 pairs of socks have how many socks?",
-    "visual": "At the art table, 6 pairs of socks have how many socks?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, 6 pairs of socks have how many socks?"
-    },
-    "answers": [
-      "13",
-      "12",
-      "6"
-    ],
-    "correct": 1,
-    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-040",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "in the playground what is double",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, what is double 7?",
-    "audioPrompt": "In the playground, what is double 7?",
-    "visual": "In the playground, what is double 7?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, what is double 7?"
-    },
-    "answers": [
-      "14",
-      "7",
-      "16"
-    ],
-    "correct": 0,
-    "explanation": "Double 7 means 7 + 7.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Double 7 means 7 + 7.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-041",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the library half of 18",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, half of 18 is?",
-    "audioPrompt": "At the library, half of 18 is?",
-    "visual": "At the library, half of 18 is?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, half of 18 is?"
-    },
-    "answers": [
-      "16",
-      "10",
-      "9"
-    ],
-    "correct": 2,
-    "explanation": "Half of 18 is 9.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Half of 18 is 9.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-042",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during sport 9 pairs of socks",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, 9 pairs of socks have how many socks?",
-    "audioPrompt": "During sport, 9 pairs of socks have how many socks?",
-    "visual": "During sport, 9 pairs of socks have how many socks?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, 9 pairs of socks have how many socks?"
-    },
-    "answers": [
-      "19",
-      "18",
-      "9"
-    ],
-    "correct": 1,
-    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-043",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the class shop what is",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, what is double 10?",
-    "audioPrompt": "At the class shop, what is double 10?",
-    "visual": "At the class shop, what is double 10?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, what is double 10?"
-    },
-    "answers": [
-      "20",
-      "10",
-      "22"
-    ],
-    "correct": 0,
-    "explanation": "Double 10 means 10 + 10.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Double 10 means 10 + 10.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-044",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "on the picnic rug half of",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, half of 12 is?",
-    "audioPrompt": "On the picnic rug, half of 12 is?",
-    "visual": "On the picnic rug, half of 12 is?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, half of 12 is?"
-    },
-    "answers": [
-      "10",
-      "7",
-      "6"
-    ],
-    "correct": 2,
-    "explanation": "Half of 12 is 6.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Half of 12 is 6.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-045",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the block table 2 pairs",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, 2 pairs of socks have how many socks?",
-    "audioPrompt": "At the block table, 2 pairs of socks have how many socks?",
-    "visual": "At the block table, 2 pairs of socks have how many socks?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, 2 pairs of socks have how many socks?"
-    },
-    "answers": [
-      "5",
-      "4",
-      "2"
-    ],
-    "correct": 1,
-    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-046",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "in the lunch area what is",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, what is double 3?",
-    "audioPrompt": "In the lunch area, what is double 3?",
-    "visual": "In the lunch area, what is double 3?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, what is double 3?"
-    },
-    "answers": [
-      "6",
-      "3",
-      "8"
-    ],
-    "correct": 0,
-    "explanation": "Double 3 means 3 + 3.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Double 3 means 3 + 3.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-047",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at the science table half of",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, half of 18 is?",
-    "audioPrompt": "At the science table, half of 18 is?",
-    "visual": "At the science table, half of 18 is?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, half of 18 is?"
-    },
-    "answers": [
-      "16",
-      "10",
-      "9"
-    ],
-    "correct": 2,
-    "explanation": "Half of 18 is 9.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Half of 18 is 9.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a03-p-048",
-    "curriculumCode": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during a card game 5 pairs",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, 5 pairs of socks have how many socks?",
-    "audioPrompt": "During a card game, 5 pairs of socks have how many socks?",
-    "visual": "During a card game, 5 pairs of socks have how many socks?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, 5 pairs of socks have how many socks?"
-    },
-    "answers": [
-      "11",
-      "10",
-      "5"
-    ],
-    "correct": 1,
-    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "The product becomes the division total and the missing factor becomes the quotient.",
+      "hint": "Use the same array in reverse."
     },
     "qualitySchema": "production-v1"
   }

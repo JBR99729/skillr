@@ -5,36 +5,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "recall_addition_facts",
+    "skill": "recall_addition",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-001",
-      "alt_text": "In the shell game: 4 counters beside 5 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the shell game, what is 4 + 5?",
-    "audio_prompt": "In the shell game, what is 4 + 5?",
+    "question": "What is 7 + 8?",
+    "audio_prompt": "What is 7 + 8?",
     "answers": [
       {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "9",
+        "text": "15",
         "is_correct": true
       },
       {
-        "text": "10",
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "16",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "4 and 5 make 9.",
-      "hint": "Start with 4 and count on 5."
+      "summary": "Seven and eight make 15.",
+      "hint": "Use a known fact or make ten."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-002",
@@ -42,36 +47,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "use_related_subtraction",
+    "skill": "doubles",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-002",
-      "alt_text": "In the shell game: Part-part-whole model with 4 and a missing part making 9."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the shell game, what is 9 − 4?",
-    "audio_prompt": "In the shell game, what is 9 − 4?",
+    "question": "Find 6 + 6.",
+    "audio_prompt": "Find 6 + 6.",
     "answers": [
       {
-        "text": "4",
+        "text": "11",
         "is_correct": false
       },
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "5",
+        "text": "12",
         "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "9 has parts 4 and 5, so 9 − 4 = 5.",
-      "hint": "Think: 4 plus what makes 9?"
+      "summary": "The double of 6 is 12.",
+      "hint": "Both addends are equal."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-003",
@@ -79,36 +89,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "connect_fact_family",
+    "skill": "complete_double",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-003",
-      "alt_text": "In the shell game: Fact triangle with parts 4 and 5, and whole 9."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the shell game, which subtraction fact belongs with 4 + 5 = 9?",
-    "audio_prompt": "In the shell game, which subtraction fact belongs with 4 + 5 = 9?",
+    "question": "Complete the doubles fact: 16 = __ + __.",
+    "audio_prompt": "Complete the doubles fact: 16 = __ + __.",
     "answers": [
       {
-        "text": "9 − 4 = 5",
+        "text": "7 + 9",
+        "is_correct": false
+      },
+      {
+        "text": "6 + 10",
+        "is_correct": false
+      },
+      {
+        "text": "8 + 8",
         "is_correct": true
-      },
-      {
-        "text": "9 − 5 = 5",
-        "is_correct": false
-      },
-      {
-        "text": "4 − 5 = 1",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The same whole and parts make 9 − 4 = 5.",
-      "hint": "The largest number is the whole. Start subtraction with it."
+      "summary": "Sixteen splits into two equal parts of 8.",
+      "hint": "A double uses equal addends."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-004",
@@ -116,36 +131,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "use_make_ten",
+    "skill": "near_double",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-004",
-      "alt_text": "In the shell game: A make-ten model for 8 plus 4."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the shell game, use make ten. What is 8 + 4?",
-    "audio_prompt": "In the shell game, use make ten. What is 8 + 4?",
+    "question": "Use 7 + 7 = 14 to find 7 + 8.",
+    "audio_prompt": "Use 7 + 7 = 14 to find 7 + 8.",
     "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
       {
         "text": "14",
         "is_correct": false
       },
       {
-        "text": "12",
-        "is_correct": true
-      },
-      {
-        "text": "11",
+        "text": "16",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "8 needs 2 to make 10. Add the rest to get 12.",
-      "hint": "Move 2 from 4 to make 10 first."
+      "summary": "Seven plus 8 is one more than double 7.",
+      "hint": "Use double 7, then add one."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-005",
@@ -153,35 +173,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "use_near_doubles",
+    "skill": "number_line_add",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-005",
-      "alt_text": "In the shell game: Two groups: one has 4 counters and one has 5."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the shell game, you know 4 + 4 = 8. What is 4 + 5?",
-    "audio_prompt": "In the shell game, you know 4 + 4 = 8. What is 4 + 5?",
+    "question": "A number line starts at 9 and makes five +1 jumps. Where does it end?",
+    "audio_prompt": "A number line starts at 9 and makes five +1 jumps. Where does it end?",
     "answers": [
       {
-        "text": "8",
+        "text": "13",
         "is_correct": false
       },
       {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "9",
+        "text": "14",
         "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "4 + 5 is one more than the double 4 + 4.",
-      "hint": "Use the double, then add one."
+      "summary": "Counting on five from 9 ends at 14.",
+      "hint": "Count the jumps, not the marks."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-006",
@@ -189,36 +215,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "choose_related_fact",
+    "skill": "count_on",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-006",
-      "alt_text": "In the shell game: A whole of 9 split into 5 and 4."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the shell game, which fact helps you solve 9 − 5?",
-    "audio_prompt": "In the shell game, which fact helps you solve 9 − 5?",
+    "question": "To find 6 + 9 by counting on, which start is more efficient?",
+    "audio_prompt": "To find 6 + 9 by counting on, which start is more efficient?",
     "answers": [
       {
-        "text": "5 + 4 = 9",
+        "text": "Start at 0 and count to 15",
+        "is_correct": false
+      },
+      {
+        "text": "Start at 6 and count on 9",
+        "is_correct": false
+      },
+      {
+        "text": "Start at 9 and count on 6",
         "is_correct": true
-      },
-      {
-        "text": "5 + 9 = 14",
-        "is_correct": false
-      },
-      {
-        "text": "9 + 4 = 13",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The related addition fact is 5 + 4 = 9.",
-      "hint": "Use the same two parts and whole."
+      "summary": "Starting from the larger addend requires fewer counts.",
+      "hint": "Addition can be reordered."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-007",
@@ -226,36 +257,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "apply_addition_fact",
+    "skill": "make_ten",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-007",
-      "alt_text": "In the shell game: 4 shells and 5 more shells shown in two groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the shell game, Mia has 4 shells and finds 5 more. How many shells does she have now?",
-    "audio_prompt": "In the shell game, Mia has 4 shells and finds 5 more. How many shells does she have now?",
+    "question": "Which split helps calculate 8 + 7 by making ten?",
+    "audio_prompt": "Which split helps calculate 8 + 7 by making ten?",
     "answers": [
       {
-        "text": "1",
-        "is_correct": false
-      },
-      {
-        "text": "9",
+        "text": "Split 7 into 2 and 5",
         "is_correct": true
       },
       {
-        "text": "10",
+        "text": "Split 7 into 3 and 4",
+        "is_correct": false
+      },
+      {
+        "text": "Split 8 into 5 and 3, then stop",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The shells join, so 4 + 5 = 9.",
-      "hint": "The word “more” tells you to join the groups."
+      "summary": "Eight needs 2 to reach 10; 5 remains.",
+      "hint": "Ask how much the first addend needs to make 10."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-008",
@@ -263,36 +299,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "apply_subtraction_fact",
+    "skill": "missing_addend",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-008",
-      "alt_text": "In the shell game: 12 birds with 5 shown flying away."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the shell game, there are 12 birds. 5 fly away. How many birds stay?",
-    "audio_prompt": "In the shell game, there are 12 birds. 5 fly away. How many birds stay?",
+    "question": "Complete: 9 + __ = 17.",
+    "audio_prompt": "Complete: 9 + __ = 17.",
     "answers": [
       {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
         "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
         "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The birds leave, so 12 − 5 = 7.",
-      "hint": "Start with all the birds and take away the ones that flew away."
+      "summary": "Nine plus 8 equals 17.",
+      "hint": "Count on from 9 to 17."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-009",
@@ -300,36 +341,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "recall_addition_facts",
+    "skill": "true_addition",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-009",
-      "alt_text": "At the ten-frame table: 5 counters beside 6 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the ten-frame table, what is 5 + 6?",
-    "audio_prompt": "At the ten-frame table, what is 5 + 6?",
+    "question": "Which addition equation is true?",
+    "audio_prompt": "Which addition equation is true?",
     "answers": [
       {
-        "text": "11",
+        "text": "7 + 9 = 15",
+        "is_correct": false
+      },
+      {
+        "text": "8 + 6 = 15",
+        "is_correct": false
+      },
+      {
+        "text": "6 + 9 = 15",
         "is_correct": true
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "5 and 6 make 11.",
-      "hint": "Start with 5 and count on 6."
+      "summary": "Six plus 9 equals 15.",
+      "hint": "Evaluate each sum."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-010",
@@ -337,35 +383,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "use_related_subtraction",
+    "skill": "related_addition",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-010",
-      "alt_text": "At the ten-frame table: Part-part-whole model with 5 and a missing part making 11."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the ten-frame table, what is 11 − 5?",
-    "audio_prompt": "At the ten-frame table, what is 11 − 5?",
+    "question": "Which fact is related to 5 + 13 = 18?",
+    "audio_prompt": "Which fact is related to 5 + 13 = 18?",
     "answers": [
       {
-        "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "6",
+        "text": "13 + 5 = 18",
         "is_correct": true
       },
       {
-        "text": "7",
+        "text": "18 + 5 = 23",
+        "is_correct": false
+      },
+      {
+        "text": "13 + 18 = 31",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "11 has parts 5 and 6, so 11 − 5 = 6.",
-      "hint": "Think: 5 plus what makes 11?"
+      "summary": "Swapping the addends keeps the same sum.",
+      "hint": "Use the same three numbers."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-011",
@@ -373,35 +425,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "connect_fact_family",
+    "skill": "subtract_double",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-011",
-      "alt_text": "At the ten-frame table: Fact triangle with parts 5 and 6, and whole 11."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the ten-frame table, which subtraction fact belongs with 5 + 6 = 11?",
-    "audio_prompt": "At the ten-frame table, which subtraction fact belongs with 5 + 6 = 11?",
+    "question": "Use double 8 to find 16 − 8.",
+    "audio_prompt": "Use double 8 to find 16 − 8.",
     "answers": [
       {
-        "text": "11 − 6 = 6",
+        "text": "7",
         "is_correct": false
       },
       {
-        "text": "5 − 6 = 1",
-        "is_correct": false
-      },
-      {
-        "text": "11 − 5 = 6",
+        "text": "8",
         "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The same whole and parts make 11 − 5 = 6.",
-      "hint": "The largest number is the whole. Start subtraction with it."
+      "summary": "Because 8 + 8 = 16, 16 − 8 = 8.",
+      "hint": "Think of the related double."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-012",
@@ -409,35 +467,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "use_make_ten",
+    "skill": "number_line_subtract",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-012",
-      "alt_text": "At the ten-frame table: A make-ten model for 9 plus 5."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the ten-frame table, use make ten. What is 9 + 5?",
-    "audio_prompt": "At the ten-frame table, use make ten. What is 9 + 5?",
+    "question": "A number line starts at 17 and moves back 6 steps. Where does it land?",
+    "audio_prompt": "A number line starts at 17 and moves back 6 steps. Where does it land?",
     "answers": [
       {
-        "text": "14",
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "11",
         "is_correct": true
-      },
-      {
-        "text": "15",
-        "is_correct": false
-      },
-      {
-        "text": "13",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "9 needs 1 to make 10. Add the rest to get 14.",
-      "hint": "Move 1 from 5 to make 10 first."
+      "summary": "Seventeen minus 6 is 11.",
+      "hint": "Count back exactly six jumps."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-013",
@@ -445,19 +509,14 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "use_near_doubles",
+    "skill": "count_back",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-013",
-      "alt_text": "At the ten-frame table: Two groups: one has 5 counters and one has 6."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the ten-frame table, you know 5 + 5 = 10. What is 5 + 6?",
-    "audio_prompt": "At the ten-frame table, you know 5 + 5 = 10. What is 5 + 6?",
+    "question": "What is 14 − 3?",
+    "audio_prompt": "What is 14 − 3?",
     "answers": [
-      {
-        "text": "10",
-        "is_correct": false
-      },
       {
         "text": "11",
         "is_correct": true
@@ -465,15 +524,26 @@
       {
         "text": "12",
         "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "5 + 6 is one more than the double 5 + 5.",
-      "hint": "Use the double, then add one."
+      "summary": "Counting back three from 14 gives 11.",
+      "hint": "Say 13, 12, 11."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-014",
@@ -481,35 +551,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "choose_related_fact",
+    "skill": "use_ten_subtract",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-014",
-      "alt_text": "At the ten-frame table: A whole of 11 split into 6 and 5."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the ten-frame table, which fact helps you solve 11 − 6?",
-    "audio_prompt": "At the ten-frame table, which fact helps you solve 11 − 6?",
+    "question": "Which first step helps find 15 − 7 using ten?",
+    "audio_prompt": "Which first step helps find 15 − 7 using ten?",
     "answers": [
       {
-        "text": "6 + 11 = 17",
+        "text": "Subtract 7 to reach 8 and stop",
         "is_correct": false
       },
       {
-        "text": "11 + 5 = 16",
-        "is_correct": false
-      },
-      {
-        "text": "6 + 5 = 11",
+        "text": "Subtract 5 to reach 10",
         "is_correct": true
+      },
+      {
+        "text": "Add 5 to reach 20",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The related addition fact is 6 + 5 = 11.",
-      "hint": "Use the same two parts and whole."
+      "summary": "First reach 10, then subtract the remaining 2.",
+      "hint": "Split 7 into 5 and 2."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-015",
@@ -517,35 +593,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "apply_addition_fact",
+    "skill": "count_on_subtract",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-015",
-      "alt_text": "At the ten-frame table: 5 shells and 6 more shells shown in two groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the ten-frame table, Mia has 5 shells and finds 6 more. How many shells does she have now?",
-    "audio_prompt": "At the ten-frame table, Mia has 5 shells and finds 6 more. How many shells does she have now?",
+    "question": "To find 18 − 16 by counting on, how many steps are needed?",
+    "audio_prompt": "To find 18 − 16 by counting on, how many steps are needed?",
     "answers": [
       {
-        "text": "11",
-        "is_correct": true
+        "text": "34",
+        "is_correct": false
       },
       {
         "text": "1",
         "is_correct": false
       },
       {
-        "text": "12",
-        "is_correct": false
+        "text": "2",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The shells join, so 5 + 6 = 11.",
-      "hint": "The word “more” tells you to join the groups."
+      "summary": "Count 17, 18: two steps from 16 to 18.",
+      "hint": "The difference is the gap."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-016",
@@ -553,35 +635,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "apply_subtraction_fact",
+    "skill": "subtract_zero_all",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-016",
-      "alt_text": "At the ten-frame table: 14 birds with 6 shown flying away."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the ten-frame table, there are 14 birds. 6 fly away. How many birds stay?",
-    "audio_prompt": "At the ten-frame table, there are 14 birds. 6 fly away. How many birds stay?",
+    "question": "Which statement is true?",
+    "audio_prompt": "Which statement is true?",
     "answers": [
       {
-        "text": "20",
-        "is_correct": false
-      },
-      {
-        "text": "8",
+        "text": "13 − 13 = 0",
         "is_correct": true
       },
       {
-        "text": "7",
+        "text": "13 − 0 = 0",
+        "is_correct": false
+      },
+      {
+        "text": "0 − 13 = 13",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The birds leave, so 14 − 6 = 8.",
-      "hint": "Start with all the birds and take away the ones that flew away."
+      "summary": "A number minus itself leaves zero.",
+      "hint": "Distinguish subtracting zero from subtracting all."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-017",
@@ -589,35 +677,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "recall_addition_facts",
+    "skill": "recall_subtraction",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-017",
-      "alt_text": "With the number cards: 6 counters beside 7 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the number cards, what is 6 + 7?",
-    "audio_prompt": "With the number cards, what is 6 + 7?",
+    "question": "Find 19 − 8.",
+    "audio_prompt": "Find 19 − 8.",
     "answers": [
       {
         "text": "12",
         "is_correct": false
       },
       {
-        "text": "14",
-        "is_correct": false
+        "text": "11",
+        "is_correct": true
       },
       {
-        "text": "13",
-        "is_correct": true
+        "text": "10",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "6 and 7 make 13.",
-      "hint": "Start with 6 and count on 7."
+      "summary": "Nineteen minus 8 equals 11; check 11 + 8 = 19.",
+      "hint": "Use a related addition fact."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-018",
@@ -625,35 +719,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "use_related_subtraction",
+    "skill": "missing_subtrahend",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-018",
-      "alt_text": "With the number cards: Part-part-whole model with 6 and a missing part making 13."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the number cards, what is 13 − 6?",
-    "audio_prompt": "With the number cards, what is 13 − 6?",
+    "question": "Complete: 18 − __ = 9.",
+    "audio_prompt": "Complete: 18 − __ = 9.",
     "answers": [
-      {
-        "text": "7",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
       {
         "text": "8",
         "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "13 has parts 6 and 7, so 13 − 6 = 7.",
-      "hint": "Think: 6 plus what makes 13?"
+      "summary": "Eighteen minus 9 equals 9.",
+      "hint": "Use the double 9 fact."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-019",
@@ -661,35 +761,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "connect_fact_family",
+    "skill": "true_subtraction",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-019",
-      "alt_text": "With the number cards: Fact triangle with parts 6 and 7, and whole 13."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the number cards, which subtraction fact belongs with 6 + 7 = 13?",
-    "audio_prompt": "With the number cards, which subtraction fact belongs with 6 + 7 = 13?",
+    "question": "Which subtraction equation is true?",
+    "audio_prompt": "Which subtraction equation is true?",
     "answers": [
       {
-        "text": "13 − 7 = 7",
-        "is_correct": false
-      },
-      {
-        "text": "13 − 6 = 7",
+        "text": "17 − 8 = 9",
         "is_correct": true
       },
       {
-        "text": "6 − 7 = 1",
+        "text": "17 − 7 = 9",
+        "is_correct": false
+      },
+      {
+        "text": "16 − 8 = 9",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The same whole and parts make 13 − 6 = 7.",
-      "hint": "The largest number is the whole. Start subtraction with it."
+      "summary": "Seventeen minus 8 leaves 9.",
+      "hint": "Check by addition."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-020",
@@ -697,35 +803,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "use_make_ten",
+    "skill": "related_subtraction",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-020",
-      "alt_text": "With the number cards: A make-ten model for 8 plus 6."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the number cards, use make ten. What is 8 + 6?",
-    "audio_prompt": "With the number cards, use make ten. What is 8 + 6?",
+    "question": "Which fact is related to 15 − 6 = 9?",
+    "audio_prompt": "Which fact is related to 15 − 6 = 9?",
     "answers": [
       {
-        "text": "16",
+        "text": "15 + 9 = 24",
         "is_correct": false
       },
       {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "14",
+        "text": "15 − 9 = 6",
         "is_correct": true
+      },
+      {
+        "text": "9 − 6 = 15",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "8 needs 2 to make 10. Add the rest to get 14.",
-      "hint": "Move 2 from 6 to make 10 first."
+      "summary": "The same whole 15 can lose either part to leave the other.",
+      "hint": "Keep the same whole and parts."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-021",
@@ -733,35 +845,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "use_near_doubles",
+    "skill": "mixed_operation",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-021",
-      "alt_text": "With the number cards: Two groups: one has 6 counters and one has 7."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the number cards, you know 6 + 6 = 12. What is 6 + 7?",
-    "audio_prompt": "With the number cards, you know 6 + 6 = 12. What is 6 + 7?",
+    "question": "Choose the operation that makes this true: 12 __ 7 = 19.",
+    "audio_prompt": "Choose the operation that makes this true: 12 __ 7 = 19.",
     "answers": [
       {
-        "text": "13",
+        "text": "−",
+        "is_correct": false
+      },
+      {
+        "text": "÷",
+        "is_correct": false
+      },
+      {
+        "text": "+",
         "is_correct": true
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "14",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "6 + 7 is one more than the double 6 + 6.",
-      "hint": "Use the double, then add one."
+      "summary": "Twelve plus 7 equals 19.",
+      "hint": "Decide whether the result is greater or smaller."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-022",
@@ -769,35 +887,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "choose_related_fact",
+    "skill": "make_number",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-022",
-      "alt_text": "With the number cards: A whole of 13 split into 7 and 6."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the number cards, which fact helps you solve 13 − 7?",
-    "audio_prompt": "With the number cards, which fact helps you solve 13 − 7?",
+    "question": "Which is not equal to 18?",
+    "audio_prompt": "Which is not equal to 18?",
     "answers": [
       {
-        "text": "7 + 13 = 20",
-        "is_correct": false
-      },
-      {
-        "text": "7 + 6 = 13",
+        "text": "16 − 0",
         "is_correct": true
       },
       {
-        "text": "13 + 6 = 19",
+        "text": "9 + 9",
+        "is_correct": false
+      },
+      {
+        "text": "20 − 2",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The related addition fact is 7 + 6 = 13.",
-      "hint": "Use the same two parts and whole."
+      "summary": "Sixteen minus zero remains 16, not 18.",
+      "hint": "Calculate every option."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-023",
@@ -805,35 +929,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "apply_addition_fact",
+    "skill": "fact_family",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-023",
-      "alt_text": "With the number cards: 6 shells and 7 more shells shown in two groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the number cards, Mia has 6 shells and finds 7 more. How many shells does she have now?",
-    "audio_prompt": "With the number cards, Mia has 6 shells and finds 7 more. How many shells does she have now?",
+    "question": "Which fact completes the family 7+11=18, 11+7=18, 18−7=11?",
+    "audio_prompt": "Which fact completes the family 7+11=18, 11+7=18, 18−7=11?",
     "answers": [
       {
-        "text": "1",
+        "text": "11 − 7 = 4",
         "is_correct": false
       },
       {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "13",
+        "text": "18 − 11 = 7",
         "is_correct": true
+      },
+      {
+        "text": "18 + 7 = 25",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The shells join, so 6 + 7 = 13.",
-      "hint": "The word “more” tells you to join the groups."
+      "summary": "The other subtraction removes 11 from the whole 18.",
+      "hint": "A fact family uses two additions and two subtractions."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A02-P-024",
@@ -841,826 +971,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "practice",
-    "skill": "apply_subtraction_fact",
+    "skill": "strategy_reasoning",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-p-024",
-      "alt_text": "With the number cards: 16 birds with 7 shown flying away."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the number cards, there are 16 birds. 7 fly away. How many birds stay?",
-    "audio_prompt": "With the number cards, there are 16 birds. 7 fly away. How many birds stay?",
+    "question": "Why is 9 + 6 = 10 + 5 useful?",
+    "audio_prompt": "Why is 9 + 6 = 10 + 5 useful?",
     "answers": [
       {
-        "text": "9",
+        "text": "It adds one extra to the total",
+        "is_correct": false
+      },
+      {
+        "text": "It changes addition into subtraction",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a ten without changing the total",
         "is_correct": true
-      },
-      {
-        "text": "23",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The birds leave, so 16 − 7 = 9.",
-      "hint": "Start with all the birds and take away the ones that flew away."
+      "summary": "Moving 1 from 6 to 9 creates 10 while preserving 15.",
+      "hint": "Track the amount moved."
     },
     "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2A02-P-025",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_school_garden_mia_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, Mia has 6 stickers and gets 4 more. How many stickers now?"
-    },
-    "question": "At the school garden, Mia has 6 stickers and gets 4 more. How many stickers now?",
-    "audio_prompt": "At the school garden, Mia has 6 stickers and gets 4 more. How many stickers now?",
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "6 + 4 = 10.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-026",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "during_maths_groups_there_are_12",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, there are 12 shells. 5 are taken away. How many are left?"
-    },
-    "question": "During maths groups, there are 12 shells. 5 are taken away. How many are left?",
-    "audio_prompt": "During maths groups, there are 12 shells. 5 are taken away. How many are left?",
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "12 - 5 = 7.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-027",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_art_table_which_fact",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, which fact helps solve 14 - 6?"
-    },
-    "question": "At the art table, which fact helps solve 14 - 6?",
-    "audio_prompt": "At the art table, which fact helps solve 14 - 6?",
-    "answers": [
-      {
-        "text": "8 - 6",
-        "is_correct": false
-      },
-      {
-        "text": "8 + 6 = 14",
-        "is_correct": true
-      },
-      {
-        "text": "14 + 6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A related addition fact can check subtraction.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-028",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "in_the_playground_mia_has_9",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, Mia has 9 stickers and gets 7 more. How many stickers now?"
-    },
-    "question": "In the playground, Mia has 9 stickers and gets 7 more. How many stickers now?",
-    "audio_prompt": "In the playground, Mia has 9 stickers and gets 7 more. How many stickers now?",
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": true
-      },
-      {
-        "text": "15",
-        "is_correct": false
-      },
-      {
-        "text": "17",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "9 + 7 = 16.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-029",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_library_there_are_18",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, there are 18 shells. 8 are taken away. How many are left?"
-    },
-    "question": "At the library, there are 18 shells. 8 are taken away. How many are left?",
-    "audio_prompt": "At the library, there are 18 shells. 8 are taken away. How many are left?",
-    "answers": [
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "18 - 8 = 10.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-030",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "during_sport_which_fact_helps_solve",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, which fact helps solve 20 - 9?"
-    },
-    "question": "During sport, which fact helps solve 20 - 9?",
-    "audio_prompt": "During sport, which fact helps solve 20 - 9?",
-    "answers": [
-      {
-        "text": "11 - 9",
-        "is_correct": false
-      },
-      {
-        "text": "11 + 9 = 20",
-        "is_correct": true
-      },
-      {
-        "text": "20 + 9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A related addition fact can check subtraction.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-031",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_class_shop_mia_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, Mia has 10 stickers and gets 10 more. How many stickers now?"
-    },
-    "question": "At the class shop, Mia has 10 stickers and gets 10 more. How many stickers now?",
-    "audio_prompt": "At the class shop, Mia has 10 stickers and gets 10 more. How many stickers now?",
-    "answers": [
-      {
-        "text": "20",
-        "is_correct": true
-      },
-      {
-        "text": "19",
-        "is_correct": false
-      },
-      {
-        "text": "21",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "10 + 10 = 20.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-032",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_there_are",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, there are 17 shells. 4 are taken away. How many are left?"
-    },
-    "question": "On the picnic rug, there are 17 shells. 4 are taken away. How many are left?",
-    "audio_prompt": "On the picnic rug, there are 17 shells. 4 are taken away. How many are left?",
-    "answers": [
-      {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "13",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "17 - 4 = 13.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-033",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_block_table_which_fact",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, which fact helps solve 19 - 5?"
-    },
-    "question": "At the block table, which fact helps solve 19 - 5?",
-    "audio_prompt": "At the block table, which fact helps solve 19 - 5?",
-    "answers": [
-      {
-        "text": "14 - 5",
-        "is_correct": false
-      },
-      {
-        "text": "14 + 5 = 19",
-        "is_correct": true
-      },
-      {
-        "text": "19 + 5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A related addition fact can check subtraction.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-034",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_mia_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, Mia has 6 stickers and gets 6 more. How many stickers now?"
-    },
-    "question": "In the lunch area, Mia has 6 stickers and gets 6 more. How many stickers now?",
-    "audio_prompt": "In the lunch area, Mia has 6 stickers and gets 6 more. How many stickers now?",
-    "answers": [
-      {
-        "text": "12",
-        "is_correct": true
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "13",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "6 + 6 = 12.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-035",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_science_table_there_are",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, there are 14 shells. 7 are taken away. How many are left?"
-    },
-    "question": "At the science table, there are 14 shells. 7 are taken away. How many are left?",
-    "audio_prompt": "At the science table, there are 14 shells. 7 are taken away. How many are left?",
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "14 - 7 = 7.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-036",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "during_a_card_game_which_fact",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, which fact helps solve 16 - 8?"
-    },
-    "question": "During a card game, which fact helps solve 16 - 8?",
-    "audio_prompt": "During a card game, which fact helps solve 16 - 8?",
-    "answers": [
-      {
-        "text": "8 - 8",
-        "is_correct": false
-      },
-      {
-        "text": "8 + 8 = 16",
-        "is_correct": true
-      },
-      {
-        "text": "16 + 8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A related addition fact can check subtraction.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-037",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_school_garden_mia_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, Mia has 9 stickers and gets 9 more. How many stickers now?"
-    },
-    "question": "At the school garden, Mia has 9 stickers and gets 9 more. How many stickers now?",
-    "audio_prompt": "At the school garden, Mia has 9 stickers and gets 9 more. How many stickers now?",
-    "answers": [
-      {
-        "text": "18",
-        "is_correct": true
-      },
-      {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "19",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "9 + 9 = 18.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-038",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "during_maths_groups_there_are_20",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, there are 20 shells. 10 are taken away. How many are left?"
-    },
-    "question": "During maths groups, there are 20 shells. 10 are taken away. How many are left?",
-    "audio_prompt": "During maths groups, there are 20 shells. 10 are taken away. How many are left?",
-    "answers": [
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "20 - 10 = 10.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-039",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_art_table_which_fact",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, which fact helps solve 15 - 4?"
-    },
-    "question": "At the art table, which fact helps solve 15 - 4?",
-    "audio_prompt": "At the art table, which fact helps solve 15 - 4?",
-    "answers": [
-      {
-        "text": "11 - 4",
-        "is_correct": false
-      },
-      {
-        "text": "11 + 4 = 15",
-        "is_correct": true
-      },
-      {
-        "text": "15 + 4",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A related addition fact can check subtraction.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-040",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "in_the_playground_mia_has_12",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, Mia has 12 stickers and gets 5 more. How many stickers now?"
-    },
-    "question": "In the playground, Mia has 12 stickers and gets 5 more. How many stickers now?",
-    "audio_prompt": "In the playground, Mia has 12 stickers and gets 5 more. How many stickers now?",
-    "answers": [
-      {
-        "text": "17",
-        "is_correct": true
-      },
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "18",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "12 + 5 = 17.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-041",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_library_there_are_19",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, there are 19 shells. 6 are taken away. How many are left?"
-    },
-    "question": "At the library, there are 19 shells. 6 are taken away. How many are left?",
-    "audio_prompt": "At the library, there are 19 shells. 6 are taken away. How many are left?",
-    "answers": [
-      {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "13",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "19 - 6 = 13.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-042",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "during_sport_which_fact_helps_solve",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, which fact helps solve 20 - 7?"
-    },
-    "question": "During sport, which fact helps solve 20 - 7?",
-    "audio_prompt": "During sport, which fact helps solve 20 - 7?",
-    "answers": [
-      {
-        "text": "13 - 7",
-        "is_correct": false
-      },
-      {
-        "text": "13 + 7 = 20",
-        "is_correct": true
-      },
-      {
-        "text": "20 + 7",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A related addition fact can check subtraction.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-043",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_class_shop_mia_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, Mia has 6 stickers and gets 8 more. How many stickers now?"
-    },
-    "question": "At the class shop, Mia has 6 stickers and gets 8 more. How many stickers now?",
-    "audio_prompt": "At the class shop, Mia has 6 stickers and gets 8 more. How many stickers now?",
-    "answers": [
-      {
-        "text": "14",
-        "is_correct": true
-      },
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "6 + 8 = 14.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-044",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_there_are",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, there are 16 shells. 9 are taken away. How many are left?"
-    },
-    "question": "On the picnic rug, there are 16 shells. 9 are taken away. How many are left?",
-    "audio_prompt": "On the picnic rug, there are 16 shells. 9 are taken away. How many are left?",
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "16 - 9 = 7.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-045",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_block_table_which_fact",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, which fact helps solve 18 - 10?"
-    },
-    "question": "At the block table, which fact helps solve 18 - 10?",
-    "audio_prompt": "At the block table, which fact helps solve 18 - 10?",
-    "answers": [
-      {
-        "text": "8 - 10",
-        "is_correct": false
-      },
-      {
-        "text": "8 + 10 = 18",
-        "is_correct": true
-      },
-      {
-        "text": "18 + 10",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A related addition fact can check subtraction.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-046",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_mia_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, Mia has 9 stickers and gets 4 more. How many stickers now?"
-    },
-    "question": "In the lunch area, Mia has 9 stickers and gets 4 more. How many stickers now?",
-    "audio_prompt": "In the lunch area, Mia has 9 stickers and gets 4 more. How many stickers now?",
-    "answers": [
-      {
-        "text": "13",
-        "is_correct": true
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "14",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "9 + 4 = 13.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-047",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "at_the_science_table_there_are",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, there are 15 shells. 5 are taken away. How many are left?"
-    },
-    "question": "At the science table, there are 15 shells. 5 are taken away. How many are left?",
-    "audio_prompt": "At the science table, there are 15 shells. 5 are taken away. How many are left?",
-    "answers": [
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "15 - 5 = 10.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A02-P-048",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A02",
-    "bank": "practice",
-    "skill": "during_a_card_game_which_fact",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, which fact helps solve 17 - 6?"
-    },
-    "question": "During a card game, which fact helps solve 17 - 6?",
-    "audio_prompt": "During a card game, which fact helps solve 17 - 6?",
-    "answers": [
-      {
-        "text": "11 - 6",
-        "is_correct": false
-      },
-      {
-        "text": "11 + 6 = 17",
-        "is_correct": true
-      },
-      {
-        "text": "17 + 6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A related addition fact can check subtraction.",
-      "hint": "Use the information in the question to check your answer."
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1669,32 +1013,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "recall_addition_facts",
+    "skill": "addition_recall",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-001",
-      "alt_text": "During the bird count: 7 counters beside 5 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the bird count, what is 7 + 5?",
-    "audio_prompt": "During the bird count, what is 7 + 5?",
+    "question": "Find 8 + 9.",
+    "audio_prompt": "Find 8 + 9.",
     "answers": [
       {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "12",
+        "text": "17",
         "is_correct": true
       },
       {
-        "text": "13",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "18",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "7 and 5 make 12.",
-      "hint": "Start with 7 and count on 5."
+      "summary": "Eight plus 9 equals 17.",
+      "hint": "Use 9+9 minus 1."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1703,32 +1055,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "use_related_subtraction",
+    "skill": "double_fact",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-002",
-      "alt_text": "During the bird count: Part-part-whole model with 7 and a missing part making 12."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the bird count, what is 12 − 7?",
-    "audio_prompt": "During the bird count, what is 12 − 7?",
+    "question": "Which is a doubles fact?",
+    "audio_prompt": "Which is a doubles fact?",
     "answers": [
       {
-        "text": "7",
+        "text": "7 + 8 = 15",
         "is_correct": false
       },
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "5",
+        "text": "7 + 7 = 14",
         "is_correct": true
+      },
+      {
+        "text": "6 + 8 = 14",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "12 has parts 7 and 5, so 12 − 7 = 5.",
-      "hint": "Think: 7 plus what makes 12?"
+      "summary": "A doubles fact has equal addends.",
+      "hint": "Compare the two parts."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1737,32 +1097,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "connect_fact_family",
+    "skill": "near_double",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-003",
-      "alt_text": "During the bird count: Fact triangle with parts 7 and 5, and whole 12."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the bird count, which subtraction fact belongs with 7 + 5 = 12?",
-    "audio_prompt": "During the bird count, which subtraction fact belongs with 7 + 5 = 12?",
+    "question": "Use 8 + 8 to find 8 + 9.",
+    "audio_prompt": "Use 8 + 8 to find 8 + 9.",
     "answers": [
       {
-        "text": "12 − 7 = 5",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "17",
         "is_correct": true
-      },
-      {
-        "text": "12 − 5 = 8",
-        "is_correct": false
-      },
-      {
-        "text": "7 − 5 = 2",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The same whole and parts make 12 − 7 = 5.",
-      "hint": "The largest number is the whole. Start subtraction with it."
+      "summary": "Near double 8+9 is one more than 16.",
+      "hint": "Add one to the double."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1771,32 +1139,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "use_make_ten",
+    "skill": "make_ten",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-004",
-      "alt_text": "During the bird count: A make-ten model for 9 plus 7."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the bird count, use make ten. What is 9 + 7?",
-    "audio_prompt": "During the bird count, use make ten. What is 9 + 7?",
+    "question": "Which calculation shows making ten for 9 + 7?",
+    "audio_prompt": "Which calculation shows making ten for 9 + 7?",
     "answers": [
       {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "16",
+        "text": "10 + 6",
         "is_correct": true
       },
       {
-        "text": "15",
+        "text": "9 + 6",
+        "is_correct": false
+      },
+      {
+        "text": "10 + 7",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "9 needs 1 to make 10. Add the rest to get 16.",
-      "hint": "Move 1 from 7 to make 10 first."
+      "summary": "Move 1 from 7 to 9, leaving 6.",
+      "hint": "Preserve the total."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1805,32 +1181,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "use_near_doubles",
+    "skill": "missing_addend",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-005",
-      "alt_text": "During the bird count: Two groups: one has 7 counters and one has 8."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the bird count, you know 7 + 7 = 14. What is 7 + 8?",
-    "audio_prompt": "During the bird count, you know 7 + 7 = 14. What is 7 + 8?",
+    "question": "Complete: __ + 7 = 20.",
+    "audio_prompt": "Complete: __ + 7 = 20.",
     "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": true
+      },
       {
         "text": "14",
         "is_correct": false
-      },
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "7 + 8 is one more than the double 7 + 7.",
-      "hint": "Use the double, then add one."
+      "summary": "Thirteen plus 7 equals 20.",
+      "hint": "Use 20 − 7."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1839,32 +1223,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "choose_related_fact",
+    "skill": "related_addition",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-006",
-      "alt_text": "During the bird count: A whole of 12 split into 5 and 7."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the bird count, which fact helps you solve 12 − 5?",
-    "audio_prompt": "During the bird count, which fact helps you solve 12 − 5?",
+    "question": "What is related to 12 + 6 = 18?",
+    "audio_prompt": "What is related to 12 + 6 = 18?",
     "answers": [
       {
-        "text": "5 + 7 = 12",
+        "text": "18 + 6 = 24",
+        "is_correct": false
+      },
+      {
+        "text": "12 − 6 = 18",
+        "is_correct": false
+      },
+      {
+        "text": "6 + 12 = 18",
         "is_correct": true
-      },
-      {
-        "text": "5 + 12 = 17",
-        "is_correct": false
-      },
-      {
-        "text": "12 + 7 = 19",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The related addition fact is 5 + 7 = 12.",
-      "hint": "Use the same two parts and whole."
+      "summary": "Addition works in either order.",
+      "hint": "Swap only the addends."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1873,32 +1265,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "apply_addition_fact",
+    "skill": "subtraction_recall",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-007",
-      "alt_text": "During the bird count: 7 shells and 5 more shells shown in two groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the bird count, Mia has 7 shells and finds 5 more. How many shells does she have now?",
-    "audio_prompt": "During the bird count, Mia has 7 shells and finds 5 more. How many shells does she have now?",
+    "question": "Find 18 − 7.",
+    "audio_prompt": "Find 18 − 7.",
     "answers": [
       {
-        "text": "2",
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "10",
         "is_correct": false
       },
       {
         "text": "12",
-        "is_correct": true
-      },
-      {
-        "text": "13",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The shells join, so 7 + 5 = 12.",
-      "hint": "The word “more” tells you to join the groups."
+      "summary": "Eighteen minus 7 leaves 11.",
+      "hint": "Check with 11+7."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1907,32 +1307,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "apply_subtraction_fact",
+    "skill": "use_ten",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-008",
-      "alt_text": "During the bird count: 15 birds with 5 shown flying away."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the bird count, there are 15 birds. 5 fly away. How many birds stay?",
-    "audio_prompt": "During the bird count, there are 15 birds. 5 fly away. How many birds stay?",
+    "question": "For 16 − 9, which split of 9 reaches ten first?",
+    "audio_prompt": "For 16 − 9, which split of 9 reaches ten first?",
     "answers": [
       {
-        "text": "20",
+        "text": "5 and 4",
         "is_correct": false
       },
       {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "10",
+        "text": "6 and 3",
         "is_correct": true
+      },
+      {
+        "text": "7 and 2",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The birds leave, so 15 − 5 = 10.",
-      "hint": "Start with all the birds and take away the ones that flew away."
+      "summary": "Subtract 6 from 16 to reach 10, then subtract 3.",
+      "hint": "Find the distance from 16 to 10."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1941,32 +1349,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "recall_addition_facts",
+    "skill": "count_on",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-009",
-      "alt_text": "At the sticker station: 8 counters beside 6 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sticker station, what is 8 + 6?",
-    "audio_prompt": "At the sticker station, what is 8 + 6?",
+    "question": "Use counting on to find 17 − 14.",
+    "audio_prompt": "Use counting on to find 17 − 14.",
     "answers": [
       {
-        "text": "14",
+        "text": "31",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
         "is_correct": true
-      },
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "8 and 6 make 14.",
-      "hint": "Start with 8 and count on 6."
+      "summary": "It takes three steps—15, 16, 17—to get from 14 to 17.",
+      "hint": "Count the steps."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1975,32 +1391,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "use_related_subtraction",
+    "skill": "missing_subtrahend",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-010",
-      "alt_text": "At the sticker station: Part-part-whole model with 8 and a missing part making 14."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sticker station, what is 14 − 8?",
-    "audio_prompt": "At the sticker station, what is 14 − 8?",
+    "question": "Complete: 20 − __ = 12.",
+    "audio_prompt": "Complete: 20 − __ = 12.",
     "answers": [
       {
         "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "6",
         "is_correct": true
       },
       {
         "text": "7",
         "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "14 has parts 8 and 6, so 14 − 8 = 6.",
-      "hint": "Think: 8 plus what makes 14?"
+      "summary": "Twenty minus 8 equals 12.",
+      "hint": "Use 12+8=20."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2009,32 +1433,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "connect_fact_family",
+    "skill": "related_subtraction",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-011",
-      "alt_text": "At the sticker station: Fact triangle with parts 8 and 6, and whole 14."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sticker station, which subtraction fact belongs with 8 + 6 = 14?",
-    "audio_prompt": "At the sticker station, which subtraction fact belongs with 8 + 6 = 14?",
+    "question": "Which belongs with 19 − 8 = 11?",
+    "audio_prompt": "Which belongs with 19 − 8 = 11?",
     "answers": [
       {
-        "text": "14 − 6 = 9",
+        "text": "11 − 8 = 3",
         "is_correct": false
       },
       {
-        "text": "8 − 6 = 2",
-        "is_correct": false
-      },
-      {
-        "text": "14 − 8 = 6",
+        "text": "19 − 11 = 8",
         "is_correct": true
+      },
+      {
+        "text": "19 + 8 = 27",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The same whole and parts make 14 − 8 = 6.",
-      "hint": "The largest number is the whole. Start subtraction with it."
+      "summary": "Related subtraction facts keep 19 as the whole.",
+      "hint": "Swap the subtracted part and difference."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2043,32 +1475,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "use_make_ten",
+    "skill": "number_line_mixed",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-012",
-      "alt_text": "At the sticker station: A make-ten model for 8 plus 8."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sticker station, use make ten. What is 8 + 8?",
-    "audio_prompt": "At the sticker station, use make ten. What is 8 + 8?",
+    "question": "A number line starts at 13 and ends at 19 after forward jumps. Which equation matches?",
+    "audio_prompt": "A number line starts at 13 and ends at 19 after forward jumps. Which equation matches?",
     "answers": [
       {
-        "text": "16",
+        "text": "19 − 13 = 32",
+        "is_correct": false
+      },
+      {
+        "text": "13 − 6 = 19",
+        "is_correct": false
+      },
+      {
+        "text": "13 + 6 = 19",
         "is_correct": true
-      },
-      {
-        "text": "18",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "8 needs 2 to make 10. Add the rest to get 16.",
-      "hint": "Move 2 from 8 to make 10 first."
+      "summary": "Six forward jumps represent adding 6.",
+      "hint": "Use the direction and endpoints."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2077,32 +1517,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "use_near_doubles",
+    "skill": "fact_family",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-013",
-      "alt_text": "At the sticker station: Two groups: one has 8 counters and one has 9."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sticker station, you know 8 + 8 = 16. What is 8 + 9?",
-    "audio_prompt": "At the sticker station, you know 8 + 8 = 16. What is 8 + 9?",
+    "question": "Which set uses one fact family?",
+    "audio_prompt": "Which set uses one fact family?",
     "answers": [
       {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "17",
+        "text": "4+15=19, 15+4=19, 19−4=15, 19−15=4",
         "is_correct": true
       },
       {
-        "text": "18",
+        "text": "4+15=19, 19−4=14, 15−4=11",
+        "is_correct": false
+      },
+      {
+        "text": "4+19=23, 19−15=4, 15+4=19",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "8 + 9 is one more than the double 8 + 8.",
-      "hint": "Use the double, then add one."
+      "summary": "All four facts use the same parts 4 and 15 and whole 19.",
+      "hint": "Check every number and operation."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2111,32 +1559,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "choose_related_fact",
+    "skill": "diagnose_near_double",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-014",
-      "alt_text": "At the sticker station: A whole of 14 split into 6 and 8."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sticker station, which fact helps you solve 14 − 6?",
-    "audio_prompt": "At the sticker station, which fact helps you solve 14 − 6?",
+    "question": "A student says 6+7 equals double 6, which is 12. What was missed?",
+    "audio_prompt": "A student says 6+7 equals double 6, which is 12. What was missed?",
     "answers": [
       {
-        "text": "6 + 14 = 20",
+        "text": "The double should be 7+7 only",
         "is_correct": false
       },
       {
-        "text": "14 + 8 = 22",
-        "is_correct": false
-      },
-      {
-        "text": "6 + 8 = 14",
+        "text": "The extra 1 in the 7",
         "is_correct": true
+      },
+      {
+        "text": "Six cannot be doubled",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The related addition fact is 6 + 8 = 14.",
-      "hint": "Use the same two parts and whole."
+      "summary": "Seven is one more than 6, so the sum is 13.",
+      "hint": "Near doubles need a one adjustment."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2145,32 +1601,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "apply_addition_fact",
+    "skill": "choose_efficient_strategy",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-015",
-      "alt_text": "At the sticker station: 8 shells and 6 more shells shown in two groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sticker station, Mia has 8 shells and finds 6 more. How many shells does she have now?",
-    "audio_prompt": "At the sticker station, Mia has 8 shells and finds 6 more. How many shells does she have now?",
+    "question": "Which strategy is efficient for 8 + 6?",
+    "audio_prompt": "Which strategy is efficient for 8 + 6?",
     "answers": [
       {
-        "text": "14",
+        "text": "Count all 14 objects from 1",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 6 from 8",
+        "is_correct": false
+      },
+      {
+        "text": "Make 10: 8+2+4",
         "is_correct": true
-      },
-      {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The shells join, so 8 + 6 = 14.",
-      "hint": "The word “more” tells you to join the groups."
+      "summary": "Making ten reduces the calculation to 10+4.",
+      "hint": "Look for a friendly ten."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2179,32 +1643,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A02",
     "bank": "test",
-    "skill": "apply_subtraction_fact",
+    "skill": "reason_equivalence",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-016",
-      "alt_text": "At the sticker station: 17 birds with 6 shown flying away."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sticker station, there are 17 birds. 6 fly away. How many birds stay?",
-    "audio_prompt": "At the sticker station, there are 17 birds. 6 fly away. How many birds stay?",
+    "question": "Why do 14−6 and 14−8 give answers that add to 14?",
+    "audio_prompt": "Why do 14−6 and 14−8 give answers that add to 14?",
     "answers": [
       {
-        "text": "23",
-        "is_correct": false
-      },
-      {
-        "text": "11",
+        "text": "Six and eight are the two parts of 14",
         "is_correct": true
       },
       {
-        "text": "10",
+        "text": "Subtraction always gives equal answers",
+        "is_correct": false
+      },
+      {
+        "text": "Both answers are 14",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The birds leave, so 17 − 6 = 11.",
-      "hint": "Start with all the birds and take away the ones that flew away."
+      "summary": "The related differences are 8 and 6, the same two parts.",
+      "hint": "Use the fact family 6+8=14."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   }
 ]

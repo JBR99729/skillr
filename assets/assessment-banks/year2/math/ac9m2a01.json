@@ -5,36 +5,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue_additive_pattern",
+    "skill": "identify_constant_change",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-001",
-      "alt_text": "At the bead table: 3, 5, 7, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the bead table, the bead pattern is 3, 5, 7, __. What comes next?",
-    "audio_prompt": "At the bead table, the bead pattern is 3, 5, 7, __. What comes next?",
+    "question": "Which number pattern increases by the same amount each time?",
+    "audio_prompt": "Which number pattern increases by the same amount each time?",
     "answers": [
       {
-        "text": "9",
+        "text": "4, 7, 10, 13",
         "is_correct": true
       },
       {
-        "text": "7",
+        "text": "4, 7, 9, 13",
         "is_correct": false
       },
       {
-        "text": "11",
+        "text": "4, 8, 11, 15",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pattern adds 2 each time, so the next number is 9.",
-      "hint": "Check the jump between each pair of numbers."
+      "summary": "Each term is 3 more than the term before it.",
+      "hint": "Compare every neighbouring pair."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-002",
@@ -42,36 +47,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "find_missing_pattern_term",
+    "skill": "continue_increasing_pattern",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-002",
-      "alt_text": "At the bead table: 3, blank, 7, 9."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the bead table, what number is missing? 3, __, 7, 9.",
-    "audio_prompt": "At the bead table, what number is missing? 3, __, 7, 9.",
+    "question": "Continue the pattern: 12, 17, 22, __.",
+    "audio_prompt": "Continue the pattern: 12, 17, 22, __.",
     "answers": [
       {
-        "text": "4",
+        "text": "26",
         "is_correct": false
       },
       {
-        "text": "5",
+        "text": "27",
         "is_correct": true
       },
       {
-        "text": "7",
+        "text": "28",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Every number increases by 2. The missing number is 5.",
-      "hint": "Start at 3 and add 2."
+      "summary": "The constant change is +5, so 22 + 5 = 27.",
+      "hint": "Find the change between the first two terms."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-003",
@@ -79,35 +89,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "describe_additive_rule",
+    "skill": "continue_decreasing_pattern",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-003",
-      "alt_text": "At the bead table: A number pattern that rises by 2 each step."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the bead table, what is the rule for 3, 5, 7, 9?",
-    "audio_prompt": "At the bead table, what is the rule for 3, 5, 7, 9?",
+    "question": "What comes next: 35, 31, 27, 23, __?",
+    "audio_prompt": "What comes next: 35, 31, 27, 23, __?",
     "answers": [
       {
-        "text": "Add 3",
+        "text": "20",
         "is_correct": false
       },
       {
-        "text": "Take away 2",
+        "text": "18",
         "is_correct": false
       },
       {
-        "text": "Add 2",
+        "text": "19",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Each term is 2 more than the one before it.",
-      "hint": "Work out one jump, then check the other jumps."
+      "summary": "The pattern subtracts 4 each time; 23 − 4 = 19.",
+      "hint": "Keep the direction and amount unchanged."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-004",
@@ -115,36 +131,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue_decreasing_pattern",
+    "skill": "identify_rule",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-004",
-      "alt_text": "At the bead table: 32, 30, 28, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the bead table, the countdown is 32, 30, 28, __. What comes next?",
-    "audio_prompt": "At the bead table, the countdown is 32, 30, 28, __. What comes next?",
+    "question": "What is the rule for 6, 10, 14, 18?",
+    "audio_prompt": "What is the rule for 6, 10, 14, 18?",
     "answers": [
       {
-        "text": "26",
+        "text": "Add 4",
         "is_correct": true
       },
       {
-        "text": "27",
+        "text": "Add 6",
         "is_correct": false
       },
       {
-        "text": "30",
+        "text": "Subtract 4",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pattern takes away 2 each time, so 26 comes next.",
-      "hint": "Check how much each number decreases."
+      "summary": "Every step increases by 4.",
+      "hint": "Subtract one term from the next."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-005",
@@ -152,36 +173,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify_constant_change",
+    "skill": "identify_decreasing_rule",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-005",
-      "alt_text": "At the bead table: Three number patterns to compare for a constant increase of 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the bead table, which pattern adds 2 every time?",
-    "audio_prompt": "At the bead table, which pattern adds 2 every time?",
+    "question": "What is the rule for 48, 41, 34, 27?",
+    "audio_prompt": "What is the rule for 48, 41, 34, 27?",
     "answers": [
       {
-        "text": "3, 5, 8",
+        "text": "Subtract 6",
         "is_correct": false
       },
       {
-        "text": "3, 5, 7",
+        "text": "Subtract 7",
         "is_correct": true
       },
       {
-        "text": "3, 1, -1",
+        "text": "Add 7",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Only 3, 5, 7 has the same +2 jump each time.",
-      "hint": "Check both jumps in every choice."
+      "summary": "Each term is 7 less than the previous term.",
+      "hint": "Check the rule on more than one step."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-006",
@@ -189,36 +215,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "generate_additive_pattern",
+    "skill": "missing_middle_term",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-006",
-      "alt_text": "At the bead table: Start at 4 and make two jumps of 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the bead table, a pattern starts at 4 and adds 2. Which number is the third term?",
-    "audio_prompt": "At the bead table, a pattern starts at 4 and adds 2. Which number is the third term?",
+    "question": "Find the missing number: 9, 13, __, 21, 25.",
+    "audio_prompt": "Find the missing number: 9, 13, __, 21, 25.",
     "answers": [
       {
-        "text": "6",
+        "text": "16",
         "is_correct": false
       },
       {
-        "text": "10",
+        "text": "18",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "17",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The terms are 4, 6, 8.",
-      "hint": "The starting number is the first term. Add 2 twice."
+      "summary": "Adding 4 to 13 gives 17, and adding 4 again gives 21.",
+      "hint": "The missing value must fit on both sides."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-007",
@@ -226,35 +257,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify_pattern_error",
+    "skill": "missing_first_term",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-007",
-      "alt_text": "At the bead table: A pattern with one number that breaks the constant rule."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the bead table, which number doesn't belong in 3, 5, 8, 9?",
-    "audio_prompt": "At the bead table, which number doesn't belong in 3, 5, 8, 9?",
+    "question": "Find the missing first term: __, 18, 24, 30.",
+    "audio_prompt": "Find the missing first term: __, 18, 24, 30.",
     "answers": [
       {
-        "text": "8",
+        "text": "12",
         "is_correct": true
       },
       {
-        "text": "5",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "9",
+        "text": "14",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "8 breaks the add-2 rule. It should be 7.",
-      "hint": "Predict each term using the rule."
+      "summary": "The rule is +6, so the term before 18 is 18 − 6 = 12.",
+      "hint": "Work backwards using the opposite operation."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-008",
@@ -262,36 +299,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "connect_shape_and_number_patterns",
+    "skill": "missing_decreasing_term",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-008",
-      "alt_text": "At the bead table: Three dot groups containing 2, 4 and 6 dots, growing by 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the bead table, the dot pattern is 2, 4, 6. What comes next?",
-    "audio_prompt": "At the bead table, the dot pattern is 2, 4, 6. What comes next?",
+    "question": "Complete: 70, 62, 54, __, 38.",
+    "audio_prompt": "Complete: 70, 62, 54, __, 38.",
     "answers": [
       {
-        "text": "7",
+        "text": "48",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "46",
         "is_correct": true
       },
       {
-        "text": "9",
+        "text": "44",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The number of dots grows by 2, so 8 dots come next.",
-      "hint": "Count how many new dots are added each time."
+      "summary": "Subtracting 8 from 54 gives 46, then 46 − 8 = 38.",
+      "hint": "Check both gaps around the blank."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-009",
@@ -299,36 +341,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue_additive_pattern",
+    "skill": "shape_growth_count",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-009",
-      "alt_text": "On the number steps: 7, 10, 13, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "On the number steps, the step pattern is 7, 10, 13, __. What comes next?",
-    "audio_prompt": "On the number steps, the step pattern is 7, 10, 13, __. What comes next?",
+    "question": "A shape pattern uses 2 squares, then 5 squares, then 8 squares. How many squares are in the next shape?",
+    "audio_prompt": "A shape pattern uses 2 squares, then 5 squares, then 8 squares. How many squares are in the next shape?",
     "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
       {
         "text": "13",
         "is_correct": false
       },
       {
-        "text": "19",
-        "is_correct": false
-      },
-      {
-        "text": "16",
+        "text": "11",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The pattern adds 3 each time, so the next number is 16.",
-      "hint": "Check the jump between each pair of numbers."
+      "summary": "The number of squares grows by 3 each step, so 8 + 3 = 11.",
+      "hint": "Count the constant growth."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-010",
@@ -336,17 +383,16 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "find_missing_pattern_term",
+    "skill": "object_decrease",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-010",
-      "alt_text": "On the number steps: 7, blank, 13, 16."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "On the number steps, what number is missing? 7, __, 13, 16.",
-    "audio_prompt": "On the number steps, what number is missing? 7, __, 13, 16.",
+    "question": "Four displays contain 20, 17, 14 and 11 counters. How many counters should the next display contain?",
+    "audio_prompt": "Four displays contain 20, 17, 14 and 11 counters. How many counters should the next display contain?",
     "answers": [
       {
-        "text": "10",
+        "text": "8",
         "is_correct": true
       },
       {
@@ -354,18 +400,24 @@
         "is_correct": false
       },
       {
-        "text": "13",
+        "text": "7",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Every number increases by 3. The missing number is 10.",
-      "hint": "Start at 7 and add 3."
+      "summary": "Each display has 3 fewer counters; 11 − 3 = 8.",
+      "hint": "Describe what changes from display to display."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-011",
@@ -373,35 +425,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "describe_additive_rule",
+    "skill": "match_object_rule",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-011",
-      "alt_text": "On the number steps: A number pattern that rises by 3 each step."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "On the number steps, what is the rule for 7, 10, 13, 16?",
-    "audio_prompt": "On the number steps, what is the rule for 7, 10, 13, 16?",
+    "question": "A tower pattern has 3 blocks, 7 blocks, 11 blocks and 15 blocks. Which rule matches it?",
+    "audio_prompt": "A tower pattern has 3 blocks, 7 blocks, 11 blocks and 15 blocks. Which rule matches it?",
     "answers": [
       {
-        "text": "Add 4",
+        "text": "Start at 3 and add 3",
         "is_correct": false
       },
       {
-        "text": "Add 3",
+        "text": "Start at 3 and add 4",
         "is_correct": true
       },
       {
-        "text": "Take away 3",
+        "text": "Start at 4 and add 3",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Each term is 3 more than the one before it.",
-      "hint": "Work out one jump, then check the other jumps."
+      "summary": "The counts 3, 7, 11 and 15 increase by 4.",
+      "hint": "Test the rule against every tower."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-012",
@@ -409,35 +467,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue_decreasing_pattern",
+    "skill": "predict_later_term",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-012",
-      "alt_text": "On the number steps: 37, 34, 31, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "On the number steps, the countdown is 37, 34, 31, __. What comes next?",
-    "audio_prompt": "On the number steps, the countdown is 37, 34, 31, __. What comes next?",
+    "question": "A pattern starts 5, 8, 11, 14. What is the sixth term?",
+    "audio_prompt": "A pattern starts 5, 8, 11, 14. What is the sixth term?",
     "answers": [
       {
-        "text": "29",
+        "text": "17",
         "is_correct": false
       },
       {
-        "text": "34",
+        "text": "23",
         "is_correct": false
       },
       {
-        "text": "28",
+        "text": "20",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The pattern takes away 3 each time, so 28 comes next.",
-      "hint": "Check how much each number decreases."
+      "summary": "The fifth term is 17 and the sixth is 20 because the rule is +3.",
+      "hint": "Do not stop after finding only the next term."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-013",
@@ -445,35 +509,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify_constant_change",
+    "skill": "addition_table_output",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-013",
-      "alt_text": "On the number steps: Three number patterns to compare for a constant increase of 3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "On the number steps, which pattern adds 3 every time?",
-    "audio_prompt": "On the number steps, which pattern adds 3 every time?",
+    "question": "A number machine adds 6. What is the output for an input of 13?",
+    "audio_prompt": "A number machine adds 6. What is the output for an input of 13?",
     "answers": [
       {
-        "text": "7, 10, 13",
+        "text": "19",
         "is_correct": true
       },
       {
-        "text": "7, 10, 14",
+        "text": "7",
         "is_correct": false
       },
       {
-        "text": "7, 4, 1",
+        "text": "18",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Only 7, 10, 13 has the same +3 jump each time.",
-      "hint": "Check both jumps in every choice."
+      "summary": "Apply the constant rule: 13 + 6 = 19.",
+      "hint": "Use the same change for every input."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-014",
@@ -481,35 +551,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "generate_additive_pattern",
+    "skill": "subtraction_table_output",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-014",
-      "alt_text": "On the number steps: Start at 8 and make two jumps of 3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "On the number steps, a pattern starts at 8 and adds 3. Which number is the third term?",
-    "audio_prompt": "On the number steps, a pattern starts at 8 and adds 3. Which number is the third term?",
+    "question": "A number machine subtracts 5. What is the output for 24?",
+    "audio_prompt": "A number machine subtracts 5. What is the output for 24?",
     "answers": [
       {
-        "text": "11",
+        "text": "29",
         "is_correct": false
       },
       {
-        "text": "14",
+        "text": "19",
         "is_correct": true
       },
       {
-        "text": "17",
+        "text": "20",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The terms are 8, 11, 14.",
-      "hint": "The starting number is the first term. Add 3 twice."
+      "summary": "The output is 24 − 5 = 19.",
+      "hint": "The rule decreases the input."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-015",
@@ -517,35 +593,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify_pattern_error",
+    "skill": "infer_addition_rule",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-015",
-      "alt_text": "On the number steps: A pattern with one number that breaks the constant rule."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "On the number steps, which number doesn't belong in 7, 10, 14, 16?",
-    "audio_prompt": "On the number steps, which number doesn't belong in 7, 10, 14, 16?",
+    "question": "A table maps 3→10, 6→13 and 12→19. What is its rule?",
+    "audio_prompt": "A table maps 3→10, 6→13 and 12→19. What is its rule?",
     "answers": [
       {
-        "text": "10",
+        "text": "Add 6",
         "is_correct": false
       },
       {
-        "text": "16",
+        "text": "Subtract 7",
         "is_correct": false
       },
       {
-        "text": "14",
+        "text": "Add 7",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "14 breaks the add-3 rule. It should be 13.",
-      "hint": "Predict each term using the rule."
+      "summary": "Each output is 7 greater than its input.",
+      "hint": "Compare input and output in several rows."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-016",
@@ -553,35 +635,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "connect_shape_and_number_patterns",
+    "skill": "infer_subtraction_rule",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-016",
-      "alt_text": "On the number steps: Three dot groups containing 3, 5 and 7 dots, growing by 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "On the number steps, the dot pattern is 3, 5, 7. What comes next?",
-    "audio_prompt": "On the number steps, the dot pattern is 3, 5, 7. What comes next?",
+    "question": "A table maps 18→14, 25→21 and 40→36. What is its rule?",
+    "audio_prompt": "A table maps 18→14, 25→21 and 40→36. What is its rule?",
     "answers": [
       {
-        "text": "9",
+        "text": "Subtract 4",
         "is_correct": true
       },
       {
-        "text": "8",
+        "text": "Add 4",
         "is_correct": false
       },
       {
-        "text": "10",
+        "text": "Subtract 5",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The number of dots grows by 2, so 9 dots come next.",
-      "hint": "Count how many new dots are added each time."
+      "summary": "Every output is 4 less than its input.",
+      "hint": "Check the direction of the change."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-017",
@@ -589,35 +677,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue_additive_pattern",
+    "skill": "complete_table_pair",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-017",
-      "alt_text": "With the shell cards: 11, 15, 19, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the shell cards, the shell pattern is 11, 15, 19, __. What comes next?",
-    "audio_prompt": "With the shell cards, the shell pattern is 11, 15, 19, __. What comes next?",
+    "question": "The rule is add 9. Which input-output pair belongs in the table?",
+    "audio_prompt": "The rule is add 9. Which input-output pair belongs in the table?",
     "answers": [
       {
-        "text": "19",
+        "text": "16→24",
         "is_correct": false
       },
       {
-        "text": "23",
+        "text": "16→25",
         "is_correct": true
       },
       {
-        "text": "27",
+        "text": "25→16",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The pattern adds 4 each time, so the next number is 23.",
-      "hint": "Check the jump between each pair of numbers."
+      "summary": "Sixteen plus 9 equals 25.",
+      "hint": "Apply the stated rule to the input."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-018",
@@ -625,35 +719,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "find_missing_pattern_term",
+    "skill": "find_table_input",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-018",
-      "alt_text": "With the shell cards: 11, blank, 19, 23."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the shell cards, what number is missing? 11, __, 19, 23.",
-    "audio_prompt": "With the shell cards, what number is missing? 11, __, 19, 23.",
+    "question": "A machine adds 8 and produces 31. What number went in?",
+    "audio_prompt": "A machine adds 8 and produces 31. What number went in?",
     "answers": [
       {
-        "text": "14",
+        "text": "39",
         "is_correct": false
       },
       {
-        "text": "19",
+        "text": "24",
         "is_correct": false
       },
       {
-        "text": "15",
+        "text": "23",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every number increases by 4. The missing number is 15.",
-      "hint": "Start at 11 and add 4."
+      "summary": "Undo +8 with subtraction: 31 − 8 = 23.",
+      "hint": "Work backwards from the output."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-019",
@@ -661,35 +761,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "describe_additive_rule",
+    "skill": "compare_pattern_rules",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-019",
-      "alt_text": "With the shell cards: A number pattern that rises by 4 each step."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the shell cards, what is the rule for 11, 15, 19, 23?",
-    "audio_prompt": "With the shell cards, what is the rule for 11, 15, 19, 23?",
+    "question": "Pattern A is 10, 14, 18. Pattern B is 10, 16, 22. How do their rules differ?",
+    "audio_prompt": "Pattern A is 10, 14, 18. Pattern B is 10, 16, 22. How do their rules differ?",
     "answers": [
       {
-        "text": "Add 4",
+        "text": "A adds 4; B adds 6",
         "is_correct": true
       },
       {
-        "text": "Add 5",
+        "text": "A adds 6; B adds 4",
         "is_correct": false
       },
       {
-        "text": "Take away 4",
+        "text": "Both add 4",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Each term is 4 more than the one before it.",
-      "hint": "Work out one jump, then check the other jumps."
+      "summary": "The constant changes are 4 and 6 respectively.",
+      "hint": "Find each pattern’s change separately."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-020",
@@ -697,35 +803,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue_decreasing_pattern",
+    "skill": "diagnose_nonconstant_pattern",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-020",
-      "alt_text": "With the shell cards: 42, 38, 34, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the shell cards, the countdown is 42, 38, 34, __. What comes next?",
-    "audio_prompt": "With the shell cards, the countdown is 42, 38, 34, __. What comes next?",
+    "question": "Why is 7, 11, 15, 20 not a constant additive pattern?",
+    "audio_prompt": "Why is 7, 11, 15, 20 not a constant additive pattern?",
     "answers": [
       {
-        "text": "31",
+        "text": "It contains an even number",
         "is_correct": false
       },
       {
-        "text": "30",
+        "text": "The last change is +5 instead of +4",
         "is_correct": true
       },
       {
-        "text": "38",
+        "text": "It increases rather than decreases",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The pattern takes away 4 each time, so 30 comes next.",
-      "hint": "Check how much each number decreases."
+      "summary": "The changes are +4, +4 and +5, so they are not constant.",
+      "hint": "List every change."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-021",
@@ -733,35 +845,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify_constant_change",
+    "skill": "repair_pattern",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-021",
-      "alt_text": "With the shell cards: Three number patterns to compare for a constant increase of 4."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the shell cards, which pattern adds 4 every time?",
-    "audio_prompt": "With the shell cards, which pattern adds 4 every time?",
+    "question": "The rule is subtract 6. Which term needs changing in 50, 44, 38, 33, 26?",
+    "audio_prompt": "The rule is subtract 6. Which term needs changing in 50, 44, 38, 33, 26?",
     "answers": [
       {
-        "text": "11, 15, 20",
+        "text": "44 should be 45",
         "is_correct": false
       },
       {
-        "text": "11, 7, 3",
+        "text": "26 should be 27",
         "is_correct": false
       },
       {
-        "text": "11, 15, 19",
+        "text": "33 should be 32",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Only 11, 15, 19 has the same +4 jump each time.",
-      "hint": "Check both jumps in every choice."
+      "summary": "After 38, subtracting 6 gives 32; then 32 − 6 = 26.",
+      "hint": "Generate the pattern from the start."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-022",
@@ -769,35 +887,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "generate_additive_pattern",
+    "skill": "reason_from_two_terms",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-022",
-      "alt_text": "With the shell cards: Start at 12 and make two jumps of 4."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the shell cards, a pattern starts at 12 and adds 4. Which number is the third term?",
-    "audio_prompt": "With the shell cards, a pattern starts at 12 and adds 4. Which number is the third term?",
+    "question": "A constant additive pattern has 22 followed by 29. Which number must follow 29?",
+    "audio_prompt": "A constant additive pattern has 22 followed by 29. Which number must follow 29?",
     "answers": [
       {
-        "text": "20",
+        "text": "36",
         "is_correct": true
       },
       {
-        "text": "16",
+        "text": "35",
         "is_correct": false
       },
       {
-        "text": "24",
+        "text": "37",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The terms are 12, 16, 20.",
-      "hint": "The starting number is the first term. Add 4 twice."
+      "summary": "The change is +7, so 29 + 7 = 36.",
+      "hint": "Use the difference between the known consecutive terms."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A01-P-023",
@@ -805,35 +929,46 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify_pattern_error",
+    "skill": "create_number_pattern",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-023",
-      "alt_text": "With the shell cards: A pattern with one number that breaks the constant rule."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the shell cards, which number doesn't belong in 11, 15, 20, 23?",
-    "audio_prompt": "With the shell cards, which number doesn't belong in 11, 15, 20, 23?",
+    "question": "Create a six-term number pattern that starts at 17 and decreases by 3. State the rule.",
+    "audio_prompt": "Create a six-term number pattern that starts at 17 and decreases by 3. State the rule.",
     "answers": [
       {
-        "text": "15",
+        "text": "Needs revision",
         "is_correct": false
       },
       {
-        "text": "20",
+        "text": "Completed response",
         "is_correct": true
       },
       {
-        "text": "23",
+        "text": "Not attempted",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "20 breaks the add-4 rule. It should be 19.",
-      "hint": "Predict each term using the rule."
+      "summary": "17, 14, 11, 8, 5, 2; rule: subtract 3 each time.",
+      "hint": "Accept the six correct terms and an explicit subtract-3 rule."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "17, 14, 11, 8, 5, 2; rule: subtract 3 each time.",
+    "acceptance_note": "Accept the six correct terms and an explicit subtract-3 rule.",
+    "response_instructions": "Write all six terms and name the constant change.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2A01-P-024",
@@ -841,827 +976,46 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "practice",
-    "skill": "connect_shape_and_number_patterns",
+    "skill": "create_object_pattern",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-024",
-      "alt_text": "With the shell cards: Three dot groups containing 4, 6 and 8 dots, growing by 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the shell cards, the dot pattern is 4, 6, 8. What comes next?",
-    "audio_prompt": "With the shell cards, the dot pattern is 4, 6, 8. What comes next?",
+    "question": "Draw or describe four groups of objects whose counts form a pattern starting at 2 and increasing by 4.",
+    "audio_prompt": "Draw or describe four groups of objects whose counts form a pattern starting at 2 and increasing by 4.",
     "answers": [
       {
-        "text": "9",
+        "text": "Needs revision",
         "is_correct": false
       },
       {
-        "text": "11",
+        "text": "Not attempted",
         "is_correct": false
       },
       {
-        "text": "10",
+        "text": "Completed response",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The number of dots grows by 2, so 10 dots come next.",
-      "hint": "Count how many new dots are added each time."
+      "summary": "Valid group counts are 2, 6, 10 and 14 objects; the rule is add 4.",
+      "hint": "The objects may differ, but each group count and the +4 rule must be clear."
     },
     "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2A01-P-025",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_school_garden_the_pattern",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, the pattern is 4, 6, 8, __. What comes next?"
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     },
-    "question": "At the school garden, the pattern is 4, 6, 8, __. What comes next?",
-    "audio_prompt": "At the school garden, the pattern is 4, 6, 8, __. What comes next?",
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-026",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during_maths_groups_what_number_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, what number is missing? 7, __, 13, 16."
-    },
-    "question": "During maths groups, what number is missing? 7, __, 13, 16.",
-    "audio_prompt": "During maths groups, what number is missing? 7, __, 13, 16.",
-    "answers": [
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Add 3 from 7 to get 10.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-027",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_art_table_which_rule",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, which rule matches 12, 17, 22?"
-    },
-    "question": "At the art table, which rule matches 12, 17, 22?",
-    "audio_prompt": "At the art table, which rule matches 12, 17, 22?",
-    "answers": [
-      {
-        "text": "Take away 5",
-        "is_correct": false
-      },
-      {
-        "text": "Add 5",
-        "is_correct": true
-      },
-      {
-        "text": "Add 6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-028",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "in_the_playground_which_number_does",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, which number does not belong? 18, 28, 39, 48."
-    },
-    "question": "In the playground, which number does not belong? 18, 28, 39, 48.",
-    "audio_prompt": "In the playground, which number does not belong? 18, 28, 39, 48.",
-    "answers": [
-      {
-        "text": "39",
-        "is_correct": true
-      },
-      {
-        "text": "28",
-        "is_correct": false
-      },
-      {
-        "text": "48",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-029",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_library_the_pattern_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, the pattern is 25, 27, 29, __. What comes next?"
-    },
-    "question": "At the library, the pattern is 25, 27, 29, __. What comes next?",
-    "audio_prompt": "At the library, the pattern is 25, 27, 29, __. What comes next?",
-    "answers": [
-      {
-        "text": "29",
-        "is_correct": false
-      },
-      {
-        "text": "32",
-        "is_correct": false
-      },
-      {
-        "text": "31",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-030",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during_sport_what_number_is_missing",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, what number is missing? 31, __, 37, 40."
-    },
-    "question": "During sport, what number is missing? 31, __, 37, 40.",
-    "audio_prompt": "During sport, what number is missing? 31, __, 37, 40.",
-    "answers": [
-      {
-        "text": "31",
-        "is_correct": false
-      },
-      {
-        "text": "34",
-        "is_correct": true
-      },
-      {
-        "text": "35",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Add 3 from 31 to get 34.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-031",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_class_shop_which_rule",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, which rule matches 4, 9, 14?"
-    },
-    "question": "At the class shop, which rule matches 4, 9, 14?",
-    "audio_prompt": "At the class shop, which rule matches 4, 9, 14?",
-    "answers": [
-      {
-        "text": "Add 5",
-        "is_correct": true
-      },
-      {
-        "text": "Add 6",
-        "is_correct": false
-      },
-      {
-        "text": "Take away 5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-032",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_which_number",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, which number does not belong? 7, 17, 28, 37."
-    },
-    "question": "On the picnic rug, which number does not belong? 7, 17, 28, 37.",
-    "audio_prompt": "On the picnic rug, which number does not belong? 7, 17, 28, 37.",
-    "answers": [
-      {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "37",
-        "is_correct": false
-      },
-      {
-        "text": "28",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-033",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_block_table_the_pattern",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, the pattern is 12, 14, 16, __. What comes next?"
-    },
-    "question": "At the block table, the pattern is 12, 14, 16, __. What comes next?",
-    "audio_prompt": "At the block table, the pattern is 12, 14, 16, __. What comes next?",
-    "answers": [
-      {
-        "text": "19",
-        "is_correct": false
-      },
-      {
-        "text": "18",
-        "is_correct": true
-      },
-      {
-        "text": "16",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-034",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_what_number",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, what number is missing? 18, __, 24, 27."
-    },
-    "question": "In the lunch area, what number is missing? 18, __, 24, 27.",
-    "audio_prompt": "In the lunch area, what number is missing? 18, __, 24, 27.",
-    "answers": [
-      {
-        "text": "21",
-        "is_correct": true
-      },
-      {
-        "text": "22",
-        "is_correct": false
-      },
-      {
-        "text": "18",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Add 3 from 18 to get 21.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-035",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_science_table_which_rule",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, which rule matches 25, 30, 35?"
-    },
-    "question": "At the science table, which rule matches 25, 30, 35?",
-    "audio_prompt": "At the science table, which rule matches 25, 30, 35?",
-    "answers": [
-      {
-        "text": "Add 6",
-        "is_correct": false
-      },
-      {
-        "text": "Take away 5",
-        "is_correct": false
-      },
-      {
-        "text": "Add 5",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-036",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during_a_card_game_which_number",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, which number does not belong? 31, 41, 52, 61."
-    },
-    "question": "During a card game, which number does not belong? 31, 41, 52, 61.",
-    "audio_prompt": "During a card game, which number does not belong? 31, 41, 52, 61.",
-    "answers": [
-      {
-        "text": "61",
-        "is_correct": false
-      },
-      {
-        "text": "52",
-        "is_correct": true
-      },
-      {
-        "text": "41",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-037",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_school_garden_the_pattern",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, the pattern is 4, 6, 8, __. What comes next?"
-    },
-    "question": "At the school garden, the pattern is 4, 6, 8, __. What comes next?",
-    "audio_prompt": "At the school garden, the pattern is 4, 6, 8, __. What comes next?",
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-038",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during_maths_groups_what_number_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, what number is missing? 7, __, 13, 16."
-    },
-    "question": "During maths groups, what number is missing? 7, __, 13, 16.",
-    "audio_prompt": "During maths groups, what number is missing? 7, __, 13, 16.",
-    "answers": [
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Add 3 from 7 to get 10.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-039",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_art_table_which_rule",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, which rule matches 12, 17, 22?"
-    },
-    "question": "At the art table, which rule matches 12, 17, 22?",
-    "audio_prompt": "At the art table, which rule matches 12, 17, 22?",
-    "answers": [
-      {
-        "text": "Take away 5",
-        "is_correct": false
-      },
-      {
-        "text": "Add 5",
-        "is_correct": true
-      },
-      {
-        "text": "Add 6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-040",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "in_the_playground_which_number_does",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, which number does not belong? 18, 28, 39, 48."
-    },
-    "question": "In the playground, which number does not belong? 18, 28, 39, 48.",
-    "audio_prompt": "In the playground, which number does not belong? 18, 28, 39, 48.",
-    "answers": [
-      {
-        "text": "39",
-        "is_correct": true
-      },
-      {
-        "text": "28",
-        "is_correct": false
-      },
-      {
-        "text": "48",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-041",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_library_the_pattern_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, the pattern is 25, 27, 29, __. What comes next?"
-    },
-    "question": "At the library, the pattern is 25, 27, 29, __. What comes next?",
-    "audio_prompt": "At the library, the pattern is 25, 27, 29, __. What comes next?",
-    "answers": [
-      {
-        "text": "29",
-        "is_correct": false
-      },
-      {
-        "text": "32",
-        "is_correct": false
-      },
-      {
-        "text": "31",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-042",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during_sport_what_number_is_missing",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, what number is missing? 31, __, 37, 40."
-    },
-    "question": "During sport, what number is missing? 31, __, 37, 40.",
-    "audio_prompt": "During sport, what number is missing? 31, __, 37, 40.",
-    "answers": [
-      {
-        "text": "31",
-        "is_correct": false
-      },
-      {
-        "text": "34",
-        "is_correct": true
-      },
-      {
-        "text": "35",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Add 3 from 31 to get 34.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-043",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_class_shop_which_rule",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, which rule matches 4, 9, 14?"
-    },
-    "question": "At the class shop, which rule matches 4, 9, 14?",
-    "audio_prompt": "At the class shop, which rule matches 4, 9, 14?",
-    "answers": [
-      {
-        "text": "Add 5",
-        "is_correct": true
-      },
-      {
-        "text": "Add 6",
-        "is_correct": false
-      },
-      {
-        "text": "Take away 5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-044",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_which_number",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, which number does not belong? 7, 17, 28, 37."
-    },
-    "question": "On the picnic rug, which number does not belong? 7, 17, 28, 37.",
-    "audio_prompt": "On the picnic rug, which number does not belong? 7, 17, 28, 37.",
-    "answers": [
-      {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "37",
-        "is_correct": false
-      },
-      {
-        "text": "28",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-045",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_block_table_the_pattern",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, the pattern is 12, 14, 16, __. What comes next?"
-    },
-    "question": "At the block table, the pattern is 12, 14, 16, __. What comes next?",
-    "audio_prompt": "At the block table, the pattern is 12, 14, 16, __. What comes next?",
-    "answers": [
-      {
-        "text": "19",
-        "is_correct": false
-      },
-      {
-        "text": "18",
-        "is_correct": true
-      },
-      {
-        "text": "16",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-046",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_what_number",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, what number is missing? 18, __, 24, 27."
-    },
-    "question": "In the lunch area, what number is missing? 18, __, 24, 27.",
-    "audio_prompt": "In the lunch area, what number is missing? 18, __, 24, 27.",
-    "answers": [
-      {
-        "text": "21",
-        "is_correct": true
-      },
-      {
-        "text": "22",
-        "is_correct": false
-      },
-      {
-        "text": "18",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Add 3 from 18 to get 21.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-047",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at_the_science_table_which_rule",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, which rule matches 25, 30, 35?"
-    },
-    "question": "At the science table, which rule matches 25, 30, 35?",
-    "audio_prompt": "At the science table, which rule matches 25, 30, 35?",
-    "answers": [
-      {
-        "text": "Add 6",
-        "is_correct": false
-      },
-      {
-        "text": "Take away 5",
-        "is_correct": false
-      },
-      {
-        "text": "Add 5",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A01-P-048",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during_a_card_game_which_number",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, which number does not belong? 31, 41, 52, 61."
-    },
-    "question": "During a card game, which number does not belong? 31, 41, 52, 61.",
-    "audio_prompt": "During a card game, which number does not belong? 31, 41, 52, 61.",
-    "answers": [
-      {
-        "text": "61",
-        "is_correct": false
-      },
-      {
-        "text": "52",
-        "is_correct": true
-      },
-      {
-        "text": "41",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    }
+    "grading_mode": "adult-review",
+    "model_answer": "Valid group counts are 2, 6, 10 and 14 objects; the rule is add 4.",
+    "acceptance_note": "The objects may differ, but each group count and the +4 rule must be clear.",
+    "response_instructions": "Show four groups, label their counts and state the rule.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2A01-T-001",
@@ -1669,32 +1023,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "continue_additive_pattern",
+    "skill": "constant_change",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-001",
-      "alt_text": "At the block station: 15, 20, 25, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the block station, the block pattern is 15, 20, 25, __. What comes next?",
-    "audio_prompt": "At the block station, the block pattern is 15, 20, 25, __. What comes next?",
+    "question": "Which pattern has a constant change of +6?",
+    "audio_prompt": "Which pattern has a constant change of +6?",
     "answers": [
       {
-        "text": "30",
+        "text": "7, 13, 19, 25",
         "is_correct": true
       },
       {
-        "text": "25",
+        "text": "7, 12, 19, 25",
         "is_correct": false
       },
       {
-        "text": "35",
+        "text": "6, 12, 19, 25",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pattern adds 5 each time, so the next number is 30.",
-      "hint": "Check the jump between each pair of numbers."
+      "summary": "Each next term is 6 greater.",
+      "hint": "Check every step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1703,32 +1065,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "find_missing_pattern_term",
+    "skill": "continue_pattern",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-002",
-      "alt_text": "At the block station: 15, blank, 25, 30."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the block station, what number is missing? 15, __, 25, 30.",
-    "audio_prompt": "At the block station, what number is missing? 15, __, 25, 30.",
+    "question": "Continue: 18, 25, 32, __.",
+    "audio_prompt": "Continue: 18, 25, 32, __.",
     "answers": [
       {
-        "text": "19",
+        "text": "38",
         "is_correct": false
       },
       {
-        "text": "20",
+        "text": "39",
         "is_correct": true
       },
       {
-        "text": "25",
+        "text": "40",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Every number increases by 5. The missing number is 20.",
-      "hint": "Start at 15 and add 5."
+      "summary": "The rule is add 7, giving 39.",
+      "hint": "Find the constant difference."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1737,32 +1107,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "describe_additive_rule",
+    "skill": "decreasing_pattern",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-003",
-      "alt_text": "At the block station: A number pattern that rises by 5 each step."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the block station, what is the rule for 15, 20, 25, 30?",
-    "audio_prompt": "At the block station, what is the rule for 15, 20, 25, 30?",
+    "question": "What comes next: 63, 58, 53, 48?",
+    "audio_prompt": "What comes next: 63, 58, 53, 48?",
     "answers": [
       {
-        "text": "Add 6",
+        "text": "42",
         "is_correct": false
       },
       {
-        "text": "Take away 5",
+        "text": "44",
         "is_correct": false
       },
       {
-        "text": "Add 5",
+        "text": "43",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Each term is 5 more than the one before it.",
-      "hint": "Work out one jump, then check the other jumps."
+      "summary": "Subtract 5 from 48 to get 43.",
+      "hint": "Continue the same decrease."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1771,32 +1149,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "continue_decreasing_pattern",
+    "skill": "missing_term",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-004",
-      "alt_text": "At the block station: 47, 42, 37, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the block station, the countdown is 47, 42, 37, __. What comes next?",
-    "audio_prompt": "At the block station, the countdown is 47, 42, 37, __. What comes next?",
+    "question": "Find the blank: 16, 22, __, 34.",
+    "audio_prompt": "Find the blank: 16, 22, __, 34.",
     "answers": [
       {
-        "text": "32",
+        "text": "28",
         "is_correct": true
       },
       {
-        "text": "33",
+        "text": "27",
         "is_correct": false
       },
       {
-        "text": "42",
+        "text": "29",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pattern takes away 5 each time, so 32 comes next.",
-      "hint": "Check how much each number decreases."
+      "summary": "The pattern adds 6, so the missing term is 28.",
+      "hint": "It must be 6 from both neighbours."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1805,32 +1191,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "identify_constant_change",
+    "skill": "missing_start",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-005",
-      "alt_text": "At the block station: Three number patterns to compare for a constant increase of 5."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the block station, which pattern adds 5 every time?",
-    "audio_prompt": "At the block station, which pattern adds 5 every time?",
+    "question": "Complete: __, 42, 36, 30.",
+    "audio_prompt": "Complete: __, 42, 36, 30.",
     "answers": [
       {
-        "text": "15, 20, 26",
+        "text": "46",
         "is_correct": false
       },
       {
-        "text": "15, 20, 25",
+        "text": "48",
         "is_correct": true
       },
       {
-        "text": "15, 10, 5",
+        "text": "50",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Only 15, 20, 25 has the same +5 jump each time.",
-      "hint": "Check both jumps in every choice."
+      "summary": "The rule is subtract 6; working back gives 48.",
+      "hint": "Reverse the rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1839,32 +1233,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "generate_additive_pattern",
+    "skill": "shape_count",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-006",
-      "alt_text": "At the block station: Start at 16 and make two jumps of 5."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the block station, a pattern starts at 16 and adds 5. Which number is the third term?",
-    "audio_prompt": "At the block station, a pattern starts at 16 and adds 5. Which number is the third term?",
+    "question": "Successive figures contain 4, 9 and 14 triangles. How many triangles should figure 4 contain?",
+    "audio_prompt": "Successive figures contain 4, 9 and 14 triangles. How many triangles should figure 4 contain?",
     "answers": [
       {
-        "text": "21",
+        "text": "18",
         "is_correct": false
       },
       {
-        "text": "31",
+        "text": "20",
         "is_correct": false
       },
       {
-        "text": "26",
+        "text": "19",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The terms are 16, 21, 26.",
-      "hint": "The starting number is the first term. Add 5 twice."
+      "summary": "The figures gain 5 triangles each time.",
+      "hint": "Use the change in the counts."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1873,32 +1275,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "identify_pattern_error",
+    "skill": "object_pattern_rule",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-007",
-      "alt_text": "At the block station: A pattern with one number that breaks the constant rule."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the block station, which number doesn't belong in 15, 20, 26, 30?",
-    "audio_prompt": "At the block station, which number doesn't belong in 15, 20, 26, 30?",
+    "question": "Rows hold 30, 26, 22 and 18 beads. What is the rule?",
+    "audio_prompt": "Rows hold 30, 26, 22 and 18 beads. What is the rule?",
     "answers": [
       {
-        "text": "26",
+        "text": "Subtract 4",
         "is_correct": true
       },
       {
-        "text": "20",
+        "text": "Subtract 8",
         "is_correct": false
       },
       {
-        "text": "30",
+        "text": "Add 4",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "26 breaks the add-5 rule. It should be 25.",
-      "hint": "Predict each term using the rule."
+      "summary": "Each row has 4 fewer beads.",
+      "hint": "Compare neighbouring rows."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1907,32 +1317,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "connect_shape_and_number_patterns",
+    "skill": "table_output",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-008",
-      "alt_text": "At the block station: Three dot groups containing 5, 7 and 9 dots, growing by 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the block station, the dot pattern is 5, 7, 9. What comes next?",
-    "audio_prompt": "At the block station, the dot pattern is 5, 7, 9. What comes next?",
+    "question": "A machine subtracts 12. What output follows input 47?",
+    "audio_prompt": "A machine subtracts 12. What output follows input 47?",
     "answers": [
       {
-        "text": "10",
+        "text": "59",
         "is_correct": false
       },
       {
-        "text": "11",
+        "text": "35",
         "is_correct": true
       },
       {
-        "text": "12",
+        "text": "36",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The number of dots grows by 2, so 11 dots come next.",
-      "hint": "Count how many new dots are added each time."
+      "summary": "47 − 12 = 35.",
+      "hint": "Apply the rule once."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1941,32 +1359,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "continue_additive_pattern",
+    "skill": "infer_table_rule",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-009",
-      "alt_text": "In the flag game: 19, 21, 23, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the flag game, the flag pattern is 19, 21, 23, __. What comes next?",
-    "audio_prompt": "In the flag game, the flag pattern is 19, 21, 23, __. What comes next?",
+    "question": "The pairs are 8→17, 15→24 and 31→40. What is the rule?",
+    "audio_prompt": "The pairs are 8→17, 15→24 and 31→40. What is the rule?",
     "answers": [
       {
-        "text": "23",
+        "text": "Add 8",
         "is_correct": false
       },
       {
-        "text": "27",
+        "text": "Subtract 9",
         "is_correct": false
       },
       {
-        "text": "25",
+        "text": "Add 9",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The pattern adds 2 each time, so the next number is 25.",
-      "hint": "Check the jump between each pair of numbers."
+      "summary": "Each output exceeds its input by 9.",
+      "hint": "Compare more than one pair."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1975,32 +1401,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "find_missing_pattern_term",
+    "skill": "find_input",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-010",
-      "alt_text": "In the flag game: 19, blank, 23, 25."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the flag game, what number is missing? 19, __, 23, 25.",
-    "audio_prompt": "In the flag game, what number is missing? 19, __, 23, 25.",
+    "question": "A subtract-7 machine gives output 28. What was the input?",
+    "audio_prompt": "A subtract-7 machine gives output 28. What was the input?",
     "answers": [
       {
-        "text": "21",
+        "text": "35",
         "is_correct": true
       },
       {
-        "text": "20",
+        "text": "21",
         "is_correct": false
       },
       {
-        "text": "23",
+        "text": "34",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Every number increases by 2. The missing number is 21.",
-      "hint": "Start at 19 and add 2."
+      "summary": "The input is 7 more than 28: 35.",
+      "hint": "Undo subtraction with addition."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2009,32 +1443,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "describe_additive_rule",
+    "skill": "predict_term",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-011",
-      "alt_text": "In the flag game: A number pattern that rises by 2 each step."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the flag game, what is the rule for 19, 21, 23, 25?",
-    "audio_prompt": "In the flag game, what is the rule for 19, 21, 23, 25?",
+    "question": "A pattern is 9, 13, 17, 21. What is its seventh term?",
+    "audio_prompt": "A pattern is 9, 13, 17, 21. What is its seventh term?",
     "answers": [
       {
-        "text": "Add 3",
+        "text": "29",
         "is_correct": false
       },
       {
-        "text": "Add 2",
+        "text": "33",
         "is_correct": true
       },
       {
-        "text": "Take away 2",
+        "text": "37",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Each term is 2 more than the one before it.",
-      "hint": "Work out one jump, then check the other jumps."
+      "summary": "Terms 5, 6 and 7 are 25, 29 and 33.",
+      "hint": "Continue the +4 rule three more times."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2043,32 +1485,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "continue_decreasing_pattern",
+    "skill": "compare_rules",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-012",
-      "alt_text": "In the flag game: 52, 50, 48, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the flag game, the countdown is 52, 50, 48, __. What comes next?",
-    "audio_prompt": "In the flag game, the countdown is 52, 50, 48, __. What comes next?",
+    "question": "Both patterns start at 12. P adds 3; Q adds 5. What are their fourth terms?",
+    "audio_prompt": "Both patterns start at 12. P adds 3; Q adds 5. What are their fourth terms?",
     "answers": [
       {
-        "text": "47",
+        "text": "P: 24; Q: 32",
         "is_correct": false
       },
       {
-        "text": "50",
+        "text": "P: 18; Q: 22",
         "is_correct": false
       },
       {
-        "text": "46",
+        "text": "P: 21; Q: 27",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The pattern takes away 2 each time, so 46 comes next.",
-      "hint": "Check how much each number decreases."
+      "summary": "Three changes give 12+9=21 and 12+15=27.",
+      "hint": "The starting value is term 1."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2077,32 +1527,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "identify_constant_change",
+    "skill": "identify_error",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-013",
-      "alt_text": "In the flag game: Three number patterns to compare for a constant increase of 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the flag game, which pattern adds 2 every time?",
-    "audio_prompt": "In the flag game, which pattern adds 2 every time?",
+    "question": "Mia follows add 8: 5, 13, 21, 28. What is the correction?",
+    "audio_prompt": "Mia follows add 8: 5, 13, 21, 28. What is the correction?",
     "answers": [
       {
-        "text": "19, 21, 23",
+        "text": "Replace 28 with 29",
         "is_correct": true
       },
       {
-        "text": "19, 21, 24",
+        "text": "Replace 21 with 20",
         "is_correct": false
       },
       {
-        "text": "19, 17, 15",
+        "text": "Replace 13 with 12",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Only 19, 21, 23 has the same +2 jump each time.",
-      "hint": "Check both jumps in every choice."
+      "summary": "Twenty-one plus 8 is 29.",
+      "hint": "Apply the rule to the term before the error."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2111,32 +1569,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "generate_additive_pattern",
+    "skill": "choose_missing_object_count",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-014",
-      "alt_text": "In the flag game: Start at 20 and make two jumps of 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the flag game, a pattern starts at 20 and adds 2. Which number is the third term?",
-    "audio_prompt": "In the flag game, a pattern starts at 20 and adds 2. Which number is the third term?",
+    "question": "A growing display follows +3 and has 6, 9, __, 15 counters. What fills the gap?",
+    "audio_prompt": "A growing display follows +3 and has 6, 9, __, 15 counters. What fills the gap?",
     "answers": [
       {
-        "text": "22",
+        "text": "11",
         "is_correct": false
       },
       {
-        "text": "24",
+        "text": "12",
         "is_correct": true
       },
       {
-        "text": "26",
+        "text": "13",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The terms are 20, 22, 24.",
-      "hint": "The starting number is the first term. Add 2 twice."
+      "summary": "Nine plus 3 is 12 and 12 plus 3 is 15.",
+      "hint": "Check both sides."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2145,33 +1611,46 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "identify_pattern_error",
+    "skill": "create_and_explain",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-015",
-      "alt_text": "In the flag game: A pattern with one number that breaks the constant rule."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the flag game, which number doesn't belong in 19, 21, 24, 25?",
-    "audio_prompt": "In the flag game, which number doesn't belong in 19, 21, 24, 25?",
+    "question": "Create five terms of an additive pattern beginning at 40 with constant change −7, then explain how you checked it.",
+    "audio_prompt": "Create five terms of an additive pattern beginning at 40 with constant change −7, then explain how you checked it.",
     "answers": [
       {
-        "text": "21",
+        "text": "Needs revision",
         "is_correct": false
       },
       {
-        "text": "25",
+        "text": "Not attempted",
         "is_correct": false
       },
       {
-        "text": "24",
+        "text": "Completed response",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "24 breaks the add-2 rule. It should be 23.",
-      "hint": "Predict each term using the rule."
-    }
+      "summary": "40, 33, 26, 19, 12. Each neighbouring difference is −7.",
+      "hint": "Accept equivalent wording that supplies all terms and verifies every change."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "40, 33, 26, 19, 12. Each neighbouring difference is −7.",
+    "acceptance_note": "Accept equivalent wording that supplies all terms and verifies every change.",
+    "response_instructions": "Write the terms, rule and one checking sentence.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2A01-T-016",
@@ -2179,32 +1658,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A01",
     "bank": "test",
-    "skill": "connect_shape_and_number_patterns",
+    "skill": "distinguish_repeat_from_additive",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-016",
-      "alt_text": "In the flag game: Three dot groups containing 6, 8 and 10 dots, growing by 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the flag game, the dot pattern is 6, 8, 10. What comes next?",
-    "audio_prompt": "In the flag game, the dot pattern is 6, 8, 10. What comes next?",
+    "question": "Why does red, blue, red, blue not by itself show an additive pattern?",
+    "audio_prompt": "Why does red, blue, red, blue not by itself show an additive pattern?",
     "answers": [
       {
-        "text": "12",
+        "text": "It repeats categories but gives no numerical constant change",
         "is_correct": true
       },
       {
-        "text": "11",
+        "text": "It has too many colours",
         "is_correct": false
       },
       {
-        "text": "13",
+        "text": "Additive patterns must always decrease",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The number of dots grows by 2, so 12 dots come next.",
-      "hint": "Count how many new dots are added each time."
+      "summary": "An additive pattern needs quantities that change by a constant amount.",
+      "hint": "Separate repeating order from changing quantity."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   }
 ]

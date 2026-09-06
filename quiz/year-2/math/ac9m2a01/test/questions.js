@@ -4,28 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-001",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "continue additive pattern",
+    "skill": "constant change",
     "printable": true,
     "type": "single",
-    "question": "At the block station, the block pattern is 15, 20, 25, __. What comes next?",
-    "audioPrompt": "At the block station, the block pattern is 15, 20, 25, __. What comes next?",
-    "visual": "At the block station: 15, 20, 25, then a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the block station: 15, 20, 25, then a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-001\"></use></svg>",
+    "question": "Which pattern has a constant change of +6?",
+    "audioPrompt": "Which pattern has a constant change of +6?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-001",
-      "alt_text": "At the block station: 15, 20, 25, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "30",
-      "25",
-      "35"
+      "7, 13, 19, 25",
+      "7, 12, 19, 25",
+      "6, 12, 19, 25"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "The pattern adds 5 each time, so the next number is 30.\nHint: Check the jump between each pair of numbers.",
+    "explanation": "Each next term is 6 greater.\nHint: Check every step.",
     "structuredExplanation": {
-      "summary": "The pattern adds 5 each time, so the next number is 30.",
-      "hint": "Check the jump between each pair of numbers."
+      "summary": "Each next term is 6 greater.",
+      "hint": "Check every step."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-002",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "find missing pattern term",
+    "skill": "continue pattern",
     "printable": true,
     "type": "single",
-    "question": "At the block station, what number is missing? 15, __, 25, 30.",
-    "audioPrompt": "At the block station, what number is missing? 15, __, 25, 30.",
-    "visual": "At the block station: 15, blank, 25, 30.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the block station: 15, blank, 25, 30.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-002\"></use></svg>",
+    "question": "Continue: 18, 25, 32, __.",
+    "audioPrompt": "Continue: 18, 25, 32, __.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-002",
-      "alt_text": "At the block station: 15, blank, 25, 30."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "19",
-      "20",
-      "25"
+      "38",
+      "39",
+      "40"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Every number increases by 5. The missing number is 20.\nHint: Start at 15 and add 5.",
+    "explanation": "The rule is add 7, giving 39.\nHint: Find the constant difference.",
     "structuredExplanation": {
-      "summary": "Every number increases by 5. The missing number is 20.",
-      "hint": "Start at 15 and add 5."
+      "summary": "The rule is add 7, giving 39.",
+      "hint": "Find the constant difference."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-003",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "describe additive rule",
+    "skill": "decreasing pattern",
     "printable": true,
     "type": "single",
-    "question": "At the block station, what is the rule for 15, 20, 25, 30?",
-    "audioPrompt": "At the block station, what is the rule for 15, 20, 25, 30?",
-    "visual": "At the block station: A number pattern that rises by 5 each step.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the block station: A number pattern that rises by 5 each step.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-003\"></use></svg>",
+    "question": "What comes next: 63, 58, 53, 48?",
+    "audioPrompt": "What comes next: 63, 58, 53, 48?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-003",
-      "alt_text": "At the block station: A number pattern that rises by 5 each step."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add 6",
-      "Take away 5",
-      "Add 5"
+      "42",
+      "44",
+      "43"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Each term is 5 more than the one before it.\nHint: Work out one jump, then check the other jumps.",
+    "explanation": "Subtract 5 from 48 to get 43.\nHint: Continue the same decrease.",
     "structuredExplanation": {
-      "summary": "Each term is 5 more than the one before it.",
-      "hint": "Work out one jump, then check the other jumps."
+      "summary": "Subtract 5 from 48 to get 43.",
+      "hint": "Continue the same decrease."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-004",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "continue decreasing pattern",
+    "skill": "missing term",
     "printable": true,
     "type": "single",
-    "question": "At the block station, the countdown is 47, 42, 37, __. What comes next?",
-    "audioPrompt": "At the block station, the countdown is 47, 42, 37, __. What comes next?",
-    "visual": "At the block station: 47, 42, 37, then a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the block station: 47, 42, 37, then a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-004\"></use></svg>",
+    "question": "Find the blank: 16, 22, __, 34.",
+    "audioPrompt": "Find the blank: 16, 22, __, 34.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-004",
-      "alt_text": "At the block station: 47, 42, 37, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "32",
-      "33",
-      "42"
+      "28",
+      "27",
+      "29"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "The pattern takes away 5 each time, so 32 comes next.\nHint: Check how much each number decreases.",
+    "explanation": "The pattern adds 6, so the missing term is 28.\nHint: It must be 6 from both neighbours.",
     "structuredExplanation": {
-      "summary": "The pattern takes away 5 each time, so 32 comes next.",
-      "hint": "Check how much each number decreases."
+      "summary": "The pattern adds 6, so the missing term is 28.",
+      "hint": "It must be 6 from both neighbours."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-005",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "identify constant change",
+    "skill": "missing start",
     "printable": true,
     "type": "single",
-    "question": "At the block station, which pattern adds 5 every time?",
-    "audioPrompt": "At the block station, which pattern adds 5 every time?",
-    "visual": "At the block station: Three number patterns to compare for a constant increase of 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the block station: Three number patterns to compare for a constant increase of 5.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-005\"></use></svg>",
+    "question": "Complete: __, 42, 36, 30.",
+    "audioPrompt": "Complete: __, 42, 36, 30.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-005",
-      "alt_text": "At the block station: Three number patterns to compare for a constant increase of 5."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "15, 20, 26",
-      "15, 20, 25",
-      "15, 10, 5"
+      "46",
+      "48",
+      "50"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "Only 15, 20, 25 has the same +5 jump each time.\nHint: Check both jumps in every choice.",
+    "explanation": "The rule is subtract 6; working back gives 48.\nHint: Reverse the rule.",
     "structuredExplanation": {
-      "summary": "Only 15, 20, 25 has the same +5 jump each time.",
-      "hint": "Check both jumps in every choice."
+      "summary": "The rule is subtract 6; working back gives 48.",
+      "hint": "Reverse the rule."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-006",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "generate additive pattern",
+    "skill": "shape count",
     "printable": true,
     "type": "single",
-    "question": "At the block station, a pattern starts at 16 and adds 5. Which number is the third term?",
-    "audioPrompt": "At the block station, a pattern starts at 16 and adds 5. Which number is the third term?",
-    "visual": "At the block station: Start at 16 and make two jumps of 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the block station: Start at 16 and make two jumps of 5.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-006\"></use></svg>",
+    "question": "Successive figures contain 4, 9 and 14 triangles. How many triangles should figure 4 contain?",
+    "audioPrompt": "Successive figures contain 4, 9 and 14 triangles. How many triangles should figure 4 contain?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-006",
-      "alt_text": "At the block station: Start at 16 and make two jumps of 5."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "21",
-      "31",
-      "26"
+      "18",
+      "20",
+      "19"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "The terms are 16, 21, 26.\nHint: The starting number is the first term. Add 5 twice.",
+    "explanation": "The figures gain 5 triangles each time.\nHint: Use the change in the counts.",
     "structuredExplanation": {
-      "summary": "The terms are 16, 21, 26.",
-      "hint": "The starting number is the first term. Add 5 twice."
+      "summary": "The figures gain 5 triangles each time.",
+      "hint": "Use the change in the counts."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-007",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "identify pattern error",
+    "skill": "object pattern rule",
     "printable": true,
     "type": "single",
-    "question": "At the block station, which number doesn't belong in 15, 20, 26, 30?",
-    "audioPrompt": "At the block station, which number doesn't belong in 15, 20, 26, 30?",
-    "visual": "At the block station: A pattern with one number that breaks the constant rule.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the block station: A pattern with one number that breaks the constant rule.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-007\"></use></svg>",
+    "question": "Rows hold 30, 26, 22 and 18 beads. What is the rule?",
+    "audioPrompt": "Rows hold 30, 26, 22 and 18 beads. What is the rule?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-007",
-      "alt_text": "At the block station: A pattern with one number that breaks the constant rule."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "26",
-      "20",
-      "30"
+      "Subtract 4",
+      "Subtract 8",
+      "Add 4"
     ],
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "26 breaks the add-5 rule. It should be 25.\nHint: Predict each term using the rule.",
+    "explanation": "Each row has 4 fewer beads.\nHint: Compare neighbouring rows.",
     "structuredExplanation": {
-      "summary": "26 breaks the add-5 rule. It should be 25.",
-      "hint": "Predict each term using the rule."
+      "summary": "Each row has 4 fewer beads.",
+      "hint": "Compare neighbouring rows."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-008",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "connect shape and number patterns",
+    "skill": "table output",
     "printable": true,
     "type": "single",
-    "question": "At the block station, the dot pattern is 5, 7, 9. What comes next?",
-    "audioPrompt": "At the block station, the dot pattern is 5, 7, 9. What comes next?",
-    "visual": "At the block station: Three dot groups containing 5, 7 and 9 dots, growing by 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the block station: Three dot groups containing 5, 7 and 9 dots, growing by 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-008\"></use></svg>",
+    "question": "A machine subtracts 12. What output follows input 47?",
+    "audioPrompt": "A machine subtracts 12. What output follows input 47?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-008",
-      "alt_text": "At the block station: Three dot groups containing 5, 7 and 9 dots, growing by 2."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "10",
-      "11",
-      "12"
+      "59",
+      "35",
+      "36"
     ],
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "The number of dots grows by 2, so 11 dots come next.\nHint: Count how many new dots are added each time.",
+    "explanation": "47 − 12 = 35.\nHint: Apply the rule once.",
     "structuredExplanation": {
-      "summary": "The number of dots grows by 2, so 11 dots come next.",
-      "hint": "Count how many new dots are added each time."
+      "summary": "47 − 12 = 35.",
+      "hint": "Apply the rule once."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-009",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "continue additive pattern",
+    "skill": "infer table rule",
     "printable": true,
     "type": "single",
-    "question": "In the flag game, the flag pattern is 19, 21, 23, __. What comes next?",
-    "audioPrompt": "In the flag game, the flag pattern is 19, 21, 23, __. What comes next?",
-    "visual": "In the flag game: 19, 21, 23, then a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the flag game: 19, 21, 23, then a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-009\"></use></svg>",
+    "question": "The pairs are 8→17, 15→24 and 31→40. What is the rule?",
+    "audioPrompt": "The pairs are 8→17, 15→24 and 31→40. What is the rule?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-009",
-      "alt_text": "In the flag game: 19, 21, 23, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "23",
-      "27",
-      "25"
+      "Add 8",
+      "Subtract 9",
+      "Add 9"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "The pattern adds 2 each time, so the next number is 25.\nHint: Check the jump between each pair of numbers.",
+    "explanation": "Each output exceeds its input by 9.\nHint: Compare more than one pair.",
     "structuredExplanation": {
-      "summary": "The pattern adds 2 each time, so the next number is 25.",
-      "hint": "Check the jump between each pair of numbers."
+      "summary": "Each output exceeds its input by 9.",
+      "hint": "Compare more than one pair."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-010",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "find missing pattern term",
+    "skill": "find input",
     "printable": true,
     "type": "single",
-    "question": "In the flag game, what number is missing? 19, __, 23, 25.",
-    "audioPrompt": "In the flag game, what number is missing? 19, __, 23, 25.",
-    "visual": "In the flag game: 19, blank, 23, 25.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the flag game: 19, blank, 23, 25.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-010\"></use></svg>",
+    "question": "A subtract-7 machine gives output 28. What was the input?",
+    "audioPrompt": "A subtract-7 machine gives output 28. What was the input?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-010",
-      "alt_text": "In the flag game: 19, blank, 23, 25."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      "35",
       "21",
-      "20",
-      "23"
+      "34"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Every number increases by 2. The missing number is 21.\nHint: Start at 19 and add 2.",
+    "explanation": "The input is 7 more than 28: 35.\nHint: Undo subtraction with addition.",
     "structuredExplanation": {
-      "summary": "Every number increases by 2. The missing number is 21.",
-      "hint": "Start at 19 and add 2."
+      "summary": "The input is 7 more than 28: 35.",
+      "hint": "Undo subtraction with addition."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-011",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "describe additive rule",
+    "skill": "predict term",
     "printable": true,
     "type": "single",
-    "question": "In the flag game, what is the rule for 19, 21, 23, 25?",
-    "audioPrompt": "In the flag game, what is the rule for 19, 21, 23, 25?",
-    "visual": "In the flag game: A number pattern that rises by 2 each step.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the flag game: A number pattern that rises by 2 each step.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-011\"></use></svg>",
+    "question": "A pattern is 9, 13, 17, 21. What is its seventh term?",
+    "audioPrompt": "A pattern is 9, 13, 17, 21. What is its seventh term?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-011",
-      "alt_text": "In the flag game: A number pattern that rises by 2 each step."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add 3",
-      "Add 2",
-      "Take away 2"
+      "29",
+      "33",
+      "37"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Each term is 2 more than the one before it.\nHint: Work out one jump, then check the other jumps.",
+    "explanation": "Terms 5, 6 and 7 are 25, 29 and 33.\nHint: Continue the +4 rule three more times.",
     "structuredExplanation": {
-      "summary": "Each term is 2 more than the one before it.",
-      "hint": "Work out one jump, then check the other jumps."
+      "summary": "Terms 5, 6 and 7 are 25, 29 and 33.",
+      "hint": "Continue the +4 rule three more times."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-012",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "continue decreasing pattern",
+    "skill": "compare rules",
     "printable": true,
     "type": "single",
-    "question": "In the flag game, the countdown is 52, 50, 48, __. What comes next?",
-    "audioPrompt": "In the flag game, the countdown is 52, 50, 48, __. What comes next?",
-    "visual": "In the flag game: 52, 50, 48, then a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the flag game: 52, 50, 48, then a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-012\"></use></svg>",
+    "question": "Both patterns start at 12. P adds 3; Q adds 5. What are their fourth terms?",
+    "audioPrompt": "Both patterns start at 12. P adds 3; Q adds 5. What are their fourth terms?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-012",
-      "alt_text": "In the flag game: 52, 50, 48, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "47",
-      "50",
-      "46"
+      "P: 24; Q: 32",
+      "P: 18; Q: 22",
+      "P: 21; Q: 27"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "The pattern takes away 2 each time, so 46 comes next.\nHint: Check how much each number decreases.",
+    "explanation": "Three changes give 12+9=21 and 12+15=27.\nHint: The starting value is term 1.",
     "structuredExplanation": {
-      "summary": "The pattern takes away 2 each time, so 46 comes next.",
-      "hint": "Check how much each number decreases."
+      "summary": "Three changes give 12+9=21 and 12+15=27.",
+      "hint": "The starting value is term 1."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-013",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "identify constant change",
+    "skill": "identify error",
     "printable": true,
     "type": "single",
-    "question": "In the flag game, which pattern adds 2 every time?",
-    "audioPrompt": "In the flag game, which pattern adds 2 every time?",
-    "visual": "In the flag game: Three number patterns to compare for a constant increase of 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the flag game: Three number patterns to compare for a constant increase of 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-013\"></use></svg>",
+    "question": "Mia follows add 8: 5, 13, 21, 28. What is the correction?",
+    "audioPrompt": "Mia follows add 8: 5, 13, 21, 28. What is the correction?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-013",
-      "alt_text": "In the flag game: Three number patterns to compare for a constant increase of 2."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "19, 21, 23",
-      "19, 21, 24",
-      "19, 17, 15"
+      "Replace 28 with 29",
+      "Replace 21 with 20",
+      "Replace 13 with 12"
     ],
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Only 19, 21, 23 has the same +2 jump each time.\nHint: Check both jumps in every choice.",
+    "explanation": "Twenty-one plus 8 is 29.\nHint: Apply the rule to the term before the error.",
     "structuredExplanation": {
-      "summary": "Only 19, 21, 23 has the same +2 jump each time.",
-      "hint": "Check both jumps in every choice."
+      "summary": "Twenty-one plus 8 is 29.",
+      "hint": "Apply the rule to the term before the error."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-014",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "generate additive pattern",
+    "skill": "choose missing object count",
     "printable": true,
     "type": "single",
-    "question": "In the flag game, a pattern starts at 20 and adds 2. Which number is the third term?",
-    "audioPrompt": "In the flag game, a pattern starts at 20 and adds 2. Which number is the third term?",
-    "visual": "In the flag game: Start at 20 and make two jumps of 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the flag game: Start at 20 and make two jumps of 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-014\"></use></svg>",
+    "question": "A growing display follows +3 and has 6, 9, __, 15 counters. What fills the gap?",
+    "audioPrompt": "A growing display follows +3 and has 6, 9, __, 15 counters. What fills the gap?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-014",
-      "alt_text": "In the flag game: Start at 20 and make two jumps of 2."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "22",
-      "24",
-      "26"
+      "11",
+      "12",
+      "13"
     ],
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "The terms are 20, 22, 24.\nHint: The starting number is the first term. Add 2 twice.",
+    "explanation": "Nine plus 3 is 12 and 12 plus 3 is 15.\nHint: Check both sides.",
     "structuredExplanation": {
-      "summary": "The terms are 20, 22, 24.",
-      "hint": "The starting number is the first term. Add 2 twice."
+      "summary": "Nine plus 3 is 12 and 12 plus 3 is 15.",
+      "hint": "Check both sides."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +438,36 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-015",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "identify pattern error",
+    "skill": "create and explain",
     "printable": true,
-    "type": "single",
-    "question": "In the flag game, which number doesn't belong in 19, 21, 24, 25?",
-    "audioPrompt": "In the flag game, which number doesn't belong in 19, 21, 24, 25?",
-    "visual": "In the flag game: A pattern with one number that breaks the constant rule.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the flag game: A pattern with one number that breaks the constant rule.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "40, 33, 26, 19, 12. Each neighbouring difference is −7.",
+    "acceptanceNote": "Accept equivalent wording that supplies all terms and verifies every change.",
+    "responseInstructions": "Write the terms, rule and one checking sentence.",
+    "completionLabel": "Ready for adult review",
+    "question": "Create five terms of an additive pattern beginning at 40 with constant change −7, then explain how you checked it.",
+    "audioPrompt": "Create five terms of an additive pattern beginning at 40 with constant change −7, then explain how you checked it.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-015",
-      "alt_text": "In the flag game: A pattern with one number that breaks the constant rule."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "21",
-      "25",
-      "24"
+      "Needs revision",
+      "Not attempted",
+      "Completed response"
     ],
-    "correct": 2,
-    "explanation": "24 breaks the add-2 rule. It should be 23.\nHint: Predict each term using the rule.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": "40, 33, 26, 19, 12. Each neighbouring difference is −7.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "24 breaks the add-2 rule. It should be 23.",
-      "hint": "Predict each term using the rule."
+      "summary": "40, 33, 26, 19, 12. Each neighbouring difference is −7.",
+      "hint": "Accept equivalent wording that supplies all terms and verifies every change."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +475,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a01-t-016",
     "curriculumCode": "AC9M2A01",
     "bank": "test",
-    "skill": "connect shape and number patterns",
+    "skill": "distinguish repeat from additive",
     "printable": true,
     "type": "single",
-    "question": "In the flag game, the dot pattern is 6, 8, 10. What comes next?",
-    "audioPrompt": "In the flag game, the dot pattern is 6, 8, 10. What comes next?",
-    "visual": "In the flag game: Three dot groups containing 6, 8 and 10 dots, growing by 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the flag game: Three dot groups containing 6, 8 and 10 dots, growing by 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-016\"></use></svg>",
+    "question": "Why does red, blue, red, blue not by itself show an additive pattern?",
+    "audioPrompt": "Why does red, blue, red, blue not by itself show an additive pattern?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-016",
-      "alt_text": "In the flag game: Three dot groups containing 6, 8 and 10 dots, growing by 2."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "12",
-      "11",
-      "13"
+      "It repeats categories but gives no numerical constant change",
+      "It has too many colours",
+      "Additive patterns must always decrease"
     ],
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "The number of dots grows by 2, so 12 dots come next.\nHint: Count how many new dots are added each time.",
+    "explanation": "An additive pattern needs quantities that change by a constant amount.\nHint: Separate repeating order from changing quantity.",
     "structuredExplanation": {
-      "summary": "The number of dots grows by 2, so 12 dots come next.",
-      "hint": "Count how many new dots are added each time."
+      "summary": "An additive pattern needs quantities that change by a constant amount.",
+      "hint": "Separate repeating order from changing quantity."
     },
     "qualitySchema": "production-v1"
   }

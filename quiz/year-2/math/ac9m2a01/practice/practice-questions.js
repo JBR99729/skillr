@@ -4,31 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-001",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue additive pattern",
+    "skill": "identify constant change",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, the bead pattern is 3, 5, 7, __. What comes next?",
-    "audioPrompt": "At the bead table, the bead pattern is 3, 5, 7, __. What comes next?",
-    "visual": "At the bead table: 3, 5, 7, then a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: 3, 5, 7, then a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-001\"></use></svg>",
+    "question": "Which number pattern increases by the same amount each time?",
+    "audioPrompt": "Which number pattern increases by the same amount each time?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-001",
-      "alt_text": "At the bead table: 3, 5, 7, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "9",
-      "7",
-      "11"
+      "4, 7, 10, 13",
+      "4, 7, 9, 13",
+      "4, 8, 11, 15"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
     "correct": 0,
-    "explanation": "The pattern adds 2 each time, so the next number is 9.\nHint: Check the jump between each pair of numbers.",
+    "explanation": "Each term is 3 more than the term before it.\nHint: Compare every neighbouring pair.",
     "structuredExplanation": {
-      "summary": "The pattern adds 2 each time, so the next number is 9.",
-      "hint": "Check the jump between each pair of numbers."
+      "summary": "Each term is 3 more than the term before it.",
+      "hint": "Compare every neighbouring pair."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,31 +35,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-002",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "find missing pattern term",
+    "skill": "continue increasing pattern",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, what number is missing? 3, __, 7, 9.",
-    "audioPrompt": "At the bead table, what number is missing? 3, __, 7, 9.",
-    "visual": "At the bead table: 3, blank, 7, 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: 3, blank, 7, 9.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-002\"></use></svg>",
+    "question": "Continue the pattern: 12, 17, 22, __.",
+    "audioPrompt": "Continue the pattern: 12, 17, 22, __.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-002",
-      "alt_text": "At the bead table: 3, blank, 7, 9."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "5",
-      "7"
+      "26",
+      "27",
+      "28"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Every number increases by 2. The missing number is 5.\nHint: Start at 3 and add 2.",
+    "explanation": "The constant change is +5, so 22 + 5 = 27.\nHint: Find the change between the first two terms.",
     "structuredExplanation": {
-      "summary": "Every number increases by 2. The missing number is 5.",
-      "hint": "Start at 3 and add 2."
+      "summary": "The constant change is +5, so 22 + 5 = 27.",
+      "hint": "Find the change between the first two terms."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,30 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-003",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "describe additive rule",
+    "skill": "continue decreasing pattern",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, what is the rule for 3, 5, 7, 9?",
-    "audioPrompt": "At the bead table, what is the rule for 3, 5, 7, 9?",
-    "visual": "At the bead table: A number pattern that rises by 2 each step.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: A number pattern that rises by 2 each step.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-003\"></use></svg>",
+    "question": "What comes next: 35, 31, 27, 23, __?",
+    "audioPrompt": "What comes next: 35, 31, 27, 23, __?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-003",
-      "alt_text": "At the bead table: A number pattern that rises by 2 each step."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add 3",
-      "Take away 2",
-      "Add 2"
+      "20",
+      "18",
+      "19"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Each term is 2 more than the one before it.\nHint: Work out one jump, then check the other jumps.",
+    "explanation": "The pattern subtracts 4 each time; 23 − 4 = 19.\nHint: Keep the direction and amount unchanged.",
     "structuredExplanation": {
-      "summary": "Each term is 2 more than the one before it.",
-      "hint": "Work out one jump, then check the other jumps."
+      "summary": "The pattern subtracts 4 each time; 23 − 4 = 19.",
+      "hint": "Keep the direction and amount unchanged."
     },
     "qualitySchema": "production-v1"
   },
@@ -99,31 +97,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-004",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue decreasing pattern",
+    "skill": "identify rule",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, the countdown is 32, 30, 28, __. What comes next?",
-    "audioPrompt": "At the bead table, the countdown is 32, 30, 28, __. What comes next?",
-    "visual": "At the bead table: 32, 30, 28, then a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: 32, 30, 28, then a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-004\"></use></svg>",
+    "question": "What is the rule for 6, 10, 14, 18?",
+    "audioPrompt": "What is the rule for 6, 10, 14, 18?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-004",
-      "alt_text": "At the bead table: 32, 30, 28, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "26",
-      "27",
-      "30"
+      "Add 4",
+      "Add 6",
+      "Subtract 4"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "The pattern takes away 2 each time, so 26 comes next.\nHint: Check how much each number decreases.",
+    "explanation": "Every step increases by 4.\nHint: Subtract one term from the next.",
     "structuredExplanation": {
-      "summary": "The pattern takes away 2 each time, so 26 comes next.",
-      "hint": "Check how much each number decreases."
+      "summary": "Every step increases by 4.",
+      "hint": "Subtract one term from the next."
     },
     "qualitySchema": "production-v1"
   },
@@ -131,31 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-005",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify constant change",
+    "skill": "identify decreasing rule",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, which pattern adds 2 every time?",
-    "audioPrompt": "At the bead table, which pattern adds 2 every time?",
-    "visual": "At the bead table: Three number patterns to compare for a constant increase of 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: Three number patterns to compare for a constant increase of 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-005\"></use></svg>",
+    "question": "What is the rule for 48, 41, 34, 27?",
+    "audioPrompt": "What is the rule for 48, 41, 34, 27?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-005",
-      "alt_text": "At the bead table: Three number patterns to compare for a constant increase of 2."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "3, 5, 8",
-      "3, 5, 7",
-      "3, 1, -1"
+      "Subtract 6",
+      "Subtract 7",
+      "Add 7"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "Only 3, 5, 7 has the same +2 jump each time.\nHint: Check both jumps in every choice.",
+    "explanation": "Each term is 7 less than the previous term.\nHint: Check the rule on more than one step.",
     "structuredExplanation": {
-      "summary": "Only 3, 5, 7 has the same +2 jump each time.",
-      "hint": "Check both jumps in every choice."
+      "summary": "Each term is 7 less than the previous term.",
+      "hint": "Check the rule on more than one step."
     },
     "qualitySchema": "production-v1"
   },
@@ -163,31 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-006",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "generate additive pattern",
+    "skill": "missing middle term",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, a pattern starts at 4 and adds 2. Which number is the third term?",
-    "audioPrompt": "At the bead table, a pattern starts at 4 and adds 2. Which number is the third term?",
-    "visual": "At the bead table: Start at 4 and make two jumps of 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: Start at 4 and make two jumps of 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-006\"></use></svg>",
+    "question": "Find the missing number: 9, 13, __, 21, 25.",
+    "audioPrompt": "Find the missing number: 9, 13, __, 21, 25.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-006",
-      "alt_text": "At the bead table: Start at 4 and make two jumps of 2."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6",
-      "10",
-      "8"
+      "16",
+      "18",
+      "17"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "The terms are 4, 6, 8.\nHint: The starting number is the first term. Add 2 twice.",
+    "explanation": "Adding 4 to 13 gives 17, and adding 4 again gives 21.\nHint: The missing value must fit on both sides.",
     "structuredExplanation": {
-      "summary": "The terms are 4, 6, 8.",
-      "hint": "The starting number is the first term. Add 2 twice."
+      "summary": "Adding 4 to 13 gives 17, and adding 4 again gives 21.",
+      "hint": "The missing value must fit on both sides."
     },
     "qualitySchema": "production-v1"
   },
@@ -195,30 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-007",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify pattern error",
+    "skill": "missing first term",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, which number doesn't belong in 3, 5, 8, 9?",
-    "audioPrompt": "At the bead table, which number doesn't belong in 3, 5, 8, 9?",
-    "visual": "At the bead table: A pattern with one number that breaks the constant rule.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: A pattern with one number that breaks the constant rule.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-007\"></use></svg>",
+    "question": "Find the missing first term: __, 18, 24, 30.",
+    "audioPrompt": "Find the missing first term: __, 18, 24, 30.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-007",
-      "alt_text": "At the bead table: A pattern with one number that breaks the constant rule."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "8",
-      "5",
-      "9"
+      "12",
+      "10",
+      "14"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "8 breaks the add-2 rule. It should be 7.\nHint: Predict each term using the rule.",
+    "explanation": "The rule is +6, so the term before 18 is 18 − 6 = 12.\nHint: Work backwards using the opposite operation.",
     "structuredExplanation": {
-      "summary": "8 breaks the add-2 rule. It should be 7.",
-      "hint": "Predict each term using the rule."
+      "summary": "The rule is +6, so the term before 18 is 18 − 6 = 12.",
+      "hint": "Work backwards using the opposite operation."
     },
     "qualitySchema": "production-v1"
   },
@@ -226,31 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-008",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "connect shape and number patterns",
+    "skill": "missing decreasing term",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, the dot pattern is 2, 4, 6. What comes next?",
-    "audioPrompt": "At the bead table, the dot pattern is 2, 4, 6. What comes next?",
-    "visual": "At the bead table: Three dot groups containing 2, 4 and 6 dots, growing by 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: Three dot groups containing 2, 4 and 6 dots, growing by 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-008\"></use></svg>",
+    "question": "Complete: 70, 62, 54, __, 38.",
+    "audioPrompt": "Complete: 70, 62, 54, __, 38.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-008",
-      "alt_text": "At the bead table: Three dot groups containing 2, 4 and 6 dots, growing by 2."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "7",
-      "8",
-      "9"
+      "48",
+      "46",
+      "44"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "The number of dots grows by 2, so 8 dots come next.\nHint: Count how many new dots are added each time.",
+    "explanation": "Subtracting 8 from 54 gives 46, then 46 − 8 = 38.\nHint: Check both gaps around the blank.",
     "structuredExplanation": {
-      "summary": "The number of dots grows by 2, so 8 dots come next.",
-      "hint": "Count how many new dots are added each time."
+      "summary": "Subtracting 8 from 54 gives 46, then 46 − 8 = 38.",
+      "hint": "Check both gaps around the blank."
     },
     "qualitySchema": "production-v1"
   },
@@ -258,31 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-009",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue additive pattern",
+    "skill": "shape growth count",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, the step pattern is 7, 10, 13, __. What comes next?",
-    "audioPrompt": "On the number steps, the step pattern is 7, 10, 13, __. What comes next?",
-    "visual": "On the number steps: 7, 10, 13, then a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: 7, 10, 13, then a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-009\"></use></svg>",
+    "question": "A shape pattern uses 2 squares, then 5 squares, then 8 squares. How many squares are in the next shape?",
+    "audioPrompt": "A shape pattern uses 2 squares, then 5 squares, then 8 squares. How many squares are in the next shape?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-009",
-      "alt_text": "On the number steps: 7, 10, 13, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      "10",
       "13",
-      "19",
-      "16"
+      "11"
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "The pattern adds 3 each time, so the next number is 16.\nHint: Check the jump between each pair of numbers.",
+    "explanation": "The number of squares grows by 3 each step, so 8 + 3 = 11.\nHint: Count the constant growth.",
     "structuredExplanation": {
-      "summary": "The pattern adds 3 each time, so the next number is 16.",
-      "hint": "Check the jump between each pair of numbers."
+      "summary": "The number of squares grows by 3 each step, so 8 + 3 = 11.",
+      "hint": "Count the constant growth."
     },
     "qualitySchema": "production-v1"
   },
@@ -290,31 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-010",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "find missing pattern term",
+    "skill": "object decrease",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, what number is missing? 7, __, 13, 16.",
-    "audioPrompt": "On the number steps, what number is missing? 7, __, 13, 16.",
-    "visual": "On the number steps: 7, blank, 13, 16.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: 7, blank, 13, 16.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-010\"></use></svg>",
+    "question": "Four displays contain 20, 17, 14 and 11 counters. How many counters should the next display contain?",
+    "audioPrompt": "Four displays contain 20, 17, 14 and 11 counters. How many counters should the next display contain?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-010",
-      "alt_text": "On the number steps: 7, blank, 13, 16."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "10",
+      "8",
       "9",
-      "13"
+      "7"
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Every number increases by 3. The missing number is 10.\nHint: Start at 7 and add 3.",
+    "explanation": "Each display has 3 fewer counters; 11 − 3 = 8.\nHint: Describe what changes from display to display.",
     "structuredExplanation": {
-      "summary": "Every number increases by 3. The missing number is 10.",
-      "hint": "Start at 7 and add 3."
+      "summary": "Each display has 3 fewer counters; 11 − 3 = 8.",
+      "hint": "Describe what changes from display to display."
     },
     "qualitySchema": "production-v1"
   },
@@ -322,30 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-011",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "describe additive rule",
+    "skill": "match object rule",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, what is the rule for 7, 10, 13, 16?",
-    "audioPrompt": "On the number steps, what is the rule for 7, 10, 13, 16?",
-    "visual": "On the number steps: A number pattern that rises by 3 each step.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: A number pattern that rises by 3 each step.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-011\"></use></svg>",
+    "question": "A tower pattern has 3 blocks, 7 blocks, 11 blocks and 15 blocks. Which rule matches it?",
+    "audioPrompt": "A tower pattern has 3 blocks, 7 blocks, 11 blocks and 15 blocks. Which rule matches it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-011",
-      "alt_text": "On the number steps: A number pattern that rises by 3 each step."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add 4",
-      "Add 3",
-      "Take away 3"
+      "Start at 3 and add 3",
+      "Start at 3 and add 4",
+      "Start at 4 and add 3"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Each term is 3 more than the one before it.\nHint: Work out one jump, then check the other jumps.",
+    "explanation": "The counts 3, 7, 11 and 15 increase by 4.\nHint: Test the rule against every tower.",
     "structuredExplanation": {
-      "summary": "Each term is 3 more than the one before it.",
-      "hint": "Work out one jump, then check the other jumps."
+      "summary": "The counts 3, 7, 11 and 15 increase by 4.",
+      "hint": "Test the rule against every tower."
     },
     "qualitySchema": "production-v1"
   },
@@ -353,30 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-012",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue decreasing pattern",
+    "skill": "predict later term",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, the countdown is 37, 34, 31, __. What comes next?",
-    "audioPrompt": "On the number steps, the countdown is 37, 34, 31, __. What comes next?",
-    "visual": "On the number steps: 37, 34, 31, then a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: 37, 34, 31, then a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-012\"></use></svg>",
+    "question": "A pattern starts 5, 8, 11, 14. What is the sixth term?",
+    "audioPrompt": "A pattern starts 5, 8, 11, 14. What is the sixth term?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-012",
-      "alt_text": "On the number steps: 37, 34, 31, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "29",
-      "34",
-      "28"
+      "17",
+      "23",
+      "20"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "The pattern takes away 3 each time, so 28 comes next.\nHint: Check how much each number decreases.",
+    "explanation": "The fifth term is 17 and the sixth is 20 because the rule is +3.\nHint: Do not stop after finding only the next term.",
     "structuredExplanation": {
-      "summary": "The pattern takes away 3 each time, so 28 comes next.",
-      "hint": "Check how much each number decreases."
+      "summary": "The fifth term is 17 and the sixth is 20 because the rule is +3.",
+      "hint": "Do not stop after finding only the next term."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,30 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-013",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify constant change",
+    "skill": "addition table output",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, which pattern adds 3 every time?",
-    "audioPrompt": "On the number steps, which pattern adds 3 every time?",
-    "visual": "On the number steps: Three number patterns to compare for a constant increase of 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: Three number patterns to compare for a constant increase of 3.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-013\"></use></svg>",
+    "question": "A number machine adds 6. What is the output for an input of 13?",
+    "audioPrompt": "A number machine adds 6. What is the output for an input of 13?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-013",
-      "alt_text": "On the number steps: Three number patterns to compare for a constant increase of 3."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "7, 10, 13",
-      "7, 10, 14",
-      "7, 4, 1"
+      "19",
+      "7",
+      "18"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Only 7, 10, 13 has the same +3 jump each time.\nHint: Check both jumps in every choice.",
+    "explanation": "Apply the constant rule: 13 + 6 = 19.\nHint: Use the same change for every input.",
     "structuredExplanation": {
-      "summary": "Only 7, 10, 13 has the same +3 jump each time.",
-      "hint": "Check both jumps in every choice."
+      "summary": "Apply the constant rule: 13 + 6 = 19.",
+      "hint": "Use the same change for every input."
     },
     "qualitySchema": "production-v1"
   },
@@ -415,30 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-014",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "generate additive pattern",
+    "skill": "subtraction table output",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, a pattern starts at 8 and adds 3. Which number is the third term?",
-    "audioPrompt": "On the number steps, a pattern starts at 8 and adds 3. Which number is the third term?",
-    "visual": "On the number steps: Start at 8 and make two jumps of 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: Start at 8 and make two jumps of 3.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-014\"></use></svg>",
+    "question": "A number machine subtracts 5. What is the output for 24?",
+    "audioPrompt": "A number machine subtracts 5. What is the output for 24?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-014",
-      "alt_text": "On the number steps: Start at 8 and make two jumps of 3."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "11",
-      "14",
-      "17"
+      "29",
+      "19",
+      "20"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "The terms are 8, 11, 14.\nHint: The starting number is the first term. Add 3 twice.",
+    "explanation": "The output is 24 − 5 = 19.\nHint: The rule decreases the input.",
     "structuredExplanation": {
-      "summary": "The terms are 8, 11, 14.",
-      "hint": "The starting number is the first term. Add 3 twice."
+      "summary": "The output is 24 − 5 = 19.",
+      "hint": "The rule decreases the input."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,30 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-015",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify pattern error",
+    "skill": "infer addition rule",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, which number doesn't belong in 7, 10, 14, 16?",
-    "audioPrompt": "On the number steps, which number doesn't belong in 7, 10, 14, 16?",
-    "visual": "On the number steps: A pattern with one number that breaks the constant rule.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: A pattern with one number that breaks the constant rule.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-015\"></use></svg>",
+    "question": "A table maps 3→10, 6→13 and 12→19. What is its rule?",
+    "audioPrompt": "A table maps 3→10, 6→13 and 12→19. What is its rule?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-015",
-      "alt_text": "On the number steps: A pattern with one number that breaks the constant rule."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "10",
-      "16",
-      "14"
+      "Add 6",
+      "Subtract 7",
+      "Add 7"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "14 breaks the add-3 rule. It should be 13.\nHint: Predict each term using the rule.",
+    "explanation": "Each output is 7 greater than its input.\nHint: Compare input and output in several rows.",
     "structuredExplanation": {
-      "summary": "14 breaks the add-3 rule. It should be 13.",
-      "hint": "Predict each term using the rule."
+      "summary": "Each output is 7 greater than its input.",
+      "hint": "Compare input and output in several rows."
     },
     "qualitySchema": "production-v1"
   },
@@ -477,30 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-016",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "connect shape and number patterns",
+    "skill": "infer subtraction rule",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, the dot pattern is 3, 5, 7. What comes next?",
-    "audioPrompt": "On the number steps, the dot pattern is 3, 5, 7. What comes next?",
-    "visual": "On the number steps: Three dot groups containing 3, 5 and 7 dots, growing by 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: Three dot groups containing 3, 5 and 7 dots, growing by 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-016\"></use></svg>",
+    "question": "A table maps 18→14, 25→21 and 40→36. What is its rule?",
+    "audioPrompt": "A table maps 18→14, 25→21 and 40→36. What is its rule?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-016",
-      "alt_text": "On the number steps: Three dot groups containing 3, 5 and 7 dots, growing by 2."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "9",
-      "8",
-      "10"
+      "Subtract 4",
+      "Add 4",
+      "Subtract 5"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "The number of dots grows by 2, so 9 dots come next.\nHint: Count how many new dots are added each time.",
+    "explanation": "Every output is 4 less than its input.\nHint: Check the direction of the change.",
     "structuredExplanation": {
-      "summary": "The number of dots grows by 2, so 9 dots come next.",
-      "hint": "Count how many new dots are added each time."
+      "summary": "Every output is 4 less than its input.",
+      "hint": "Check the direction of the change."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,30 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-017",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue additive pattern",
+    "skill": "complete table pair",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, the shell pattern is 11, 15, 19, __. What comes next?",
-    "audioPrompt": "With the shell cards, the shell pattern is 11, 15, 19, __. What comes next?",
-    "visual": "With the shell cards: 11, 15, 19, then a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: 11, 15, 19, then a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-017\"></use></svg>",
+    "question": "The rule is add 9. Which input-output pair belongs in the table?",
+    "audioPrompt": "The rule is add 9. Which input-output pair belongs in the table?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-017",
-      "alt_text": "With the shell cards: 11, 15, 19, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "19",
-      "23",
-      "27"
+      "16→24",
+      "16→25",
+      "25→16"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "The pattern adds 4 each time, so the next number is 23.\nHint: Check the jump between each pair of numbers.",
+    "explanation": "Sixteen plus 9 equals 25.\nHint: Apply the stated rule to the input.",
     "structuredExplanation": {
-      "summary": "The pattern adds 4 each time, so the next number is 23.",
-      "hint": "Check the jump between each pair of numbers."
+      "summary": "Sixteen plus 9 equals 25.",
+      "hint": "Apply the stated rule to the input."
     },
     "qualitySchema": "production-v1"
   },
@@ -539,30 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-018",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "find missing pattern term",
+    "skill": "find table input",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, what number is missing? 11, __, 19, 23.",
-    "audioPrompt": "With the shell cards, what number is missing? 11, __, 19, 23.",
-    "visual": "With the shell cards: 11, blank, 19, 23.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: 11, blank, 19, 23.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-018\"></use></svg>",
+    "question": "A machine adds 8 and produces 31. What number went in?",
+    "audioPrompt": "A machine adds 8 and produces 31. What number went in?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-018",
-      "alt_text": "With the shell cards: 11, blank, 19, 23."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "14",
-      "19",
-      "15"
+      "39",
+      "24",
+      "23"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Every number increases by 4. The missing number is 15.\nHint: Start at 11 and add 4.",
+    "explanation": "Undo +8 with subtraction: 31 − 8 = 23.\nHint: Work backwards from the output.",
     "structuredExplanation": {
-      "summary": "Every number increases by 4. The missing number is 15.",
-      "hint": "Start at 11 and add 4."
+      "summary": "Undo +8 with subtraction: 31 − 8 = 23.",
+      "hint": "Work backwards from the output."
     },
     "qualitySchema": "production-v1"
   },
@@ -570,30 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-019",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "describe additive rule",
+    "skill": "compare pattern rules",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, what is the rule for 11, 15, 19, 23?",
-    "audioPrompt": "With the shell cards, what is the rule for 11, 15, 19, 23?",
-    "visual": "With the shell cards: A number pattern that rises by 4 each step.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: A number pattern that rises by 4 each step.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-019\"></use></svg>",
+    "question": "Pattern A is 10, 14, 18. Pattern B is 10, 16, 22. How do their rules differ?",
+    "audioPrompt": "Pattern A is 10, 14, 18. Pattern B is 10, 16, 22. How do their rules differ?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-019",
-      "alt_text": "With the shell cards: A number pattern that rises by 4 each step."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add 4",
-      "Add 5",
-      "Take away 4"
+      "A adds 4; B adds 6",
+      "A adds 6; B adds 4",
+      "Both add 4"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "Each term is 4 more than the one before it.\nHint: Work out one jump, then check the other jumps.",
+    "explanation": "The constant changes are 4 and 6 respectively.\nHint: Find each pattern’s change separately.",
     "structuredExplanation": {
-      "summary": "Each term is 4 more than the one before it.",
-      "hint": "Work out one jump, then check the other jumps."
+      "summary": "The constant changes are 4 and 6 respectively.",
+      "hint": "Find each pattern’s change separately."
     },
     "qualitySchema": "production-v1"
   },
@@ -601,30 +593,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-020",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "continue decreasing pattern",
+    "skill": "diagnose nonconstant pattern",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, the countdown is 42, 38, 34, __. What comes next?",
-    "audioPrompt": "With the shell cards, the countdown is 42, 38, 34, __. What comes next?",
-    "visual": "With the shell cards: 42, 38, 34, then a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: 42, 38, 34, then a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-020\"></use></svg>",
+    "question": "Why is 7, 11, 15, 20 not a constant additive pattern?",
+    "audioPrompt": "Why is 7, 11, 15, 20 not a constant additive pattern?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-020",
-      "alt_text": "With the shell cards: 42, 38, 34, then a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "31",
-      "30",
-      "38"
+      "It contains an even number",
+      "The last change is +5 instead of +4",
+      "It increases rather than decreases"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "The pattern takes away 4 each time, so 30 comes next.\nHint: Check how much each number decreases.",
+    "explanation": "The changes are +4, +4 and +5, so they are not constant.\nHint: List every change.",
     "structuredExplanation": {
-      "summary": "The pattern takes away 4 each time, so 30 comes next.",
-      "hint": "Check how much each number decreases."
+      "summary": "The changes are +4, +4 and +5, so they are not constant.",
+      "hint": "List every change."
     },
     "qualitySchema": "production-v1"
   },
@@ -632,30 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-021",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify constant change",
+    "skill": "repair pattern",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, which pattern adds 4 every time?",
-    "audioPrompt": "With the shell cards, which pattern adds 4 every time?",
-    "visual": "With the shell cards: Three number patterns to compare for a constant increase of 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: Three number patterns to compare for a constant increase of 4.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-021\"></use></svg>",
+    "question": "The rule is subtract 6. Which term needs changing in 50, 44, 38, 33, 26?",
+    "audioPrompt": "The rule is subtract 6. Which term needs changing in 50, 44, 38, 33, 26?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-021",
-      "alt_text": "With the shell cards: Three number patterns to compare for a constant increase of 4."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "11, 15, 20",
-      "11, 7, 3",
-      "11, 15, 19"
+      "44 should be 45",
+      "26 should be 27",
+      "33 should be 32"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "Only 11, 15, 19 has the same +4 jump each time.\nHint: Check both jumps in every choice.",
+    "explanation": "After 38, subtracting 6 gives 32; then 32 − 6 = 26.\nHint: Generate the pattern from the start.",
     "structuredExplanation": {
-      "summary": "Only 11, 15, 19 has the same +4 jump each time.",
-      "hint": "Check both jumps in every choice."
+      "summary": "After 38, subtracting 6 gives 32; then 32 − 6 = 26.",
+      "hint": "Generate the pattern from the start."
     },
     "qualitySchema": "production-v1"
   },
@@ -663,30 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-022",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "generate additive pattern",
+    "skill": "reason from two terms",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, a pattern starts at 12 and adds 4. Which number is the third term?",
-    "audioPrompt": "With the shell cards, a pattern starts at 12 and adds 4. Which number is the third term?",
-    "visual": "With the shell cards: Start at 12 and make two jumps of 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: Start at 12 and make two jumps of 4.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-022\"></use></svg>",
+    "question": "A constant additive pattern has 22 followed by 29. Which number must follow 29?",
+    "audioPrompt": "A constant additive pattern has 22 followed by 29. Which number must follow 29?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-022",
-      "alt_text": "With the shell cards: Start at 12 and make two jumps of 4."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "20",
-      "16",
-      "24"
+      "36",
+      "35",
+      "37"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "The terms are 12, 16, 20.\nHint: The starting number is the first term. Add 4 twice.",
+    "explanation": "The change is +7, so 29 + 7 = 36.\nHint: Use the difference between the known consecutive terms.",
     "structuredExplanation": {
-      "summary": "The terms are 12, 16, 20.",
-      "hint": "The starting number is the first term. Add 4 twice."
+      "summary": "The change is +7, so 29 + 7 = 36.",
+      "hint": "Use the difference between the known consecutive terms."
     },
     "qualitySchema": "production-v1"
   },
@@ -694,30 +686,36 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-023",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "identify pattern error",
+    "skill": "create number pattern",
     "printable": true,
-    "type": "single",
-    "question": "With the shell cards, which number doesn't belong in 11, 15, 20, 23?",
-    "audioPrompt": "With the shell cards, which number doesn't belong in 11, 15, 20, 23?",
-    "visual": "With the shell cards: A pattern with one number that breaks the constant rule.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: A pattern with one number that breaks the constant rule.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-023\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "17, 14, 11, 8, 5, 2; rule: subtract 3 each time.",
+    "acceptanceNote": "Accept the six correct terms and an explicit subtract-3 rule.",
+    "responseInstructions": "Write all six terms and name the constant change.",
+    "completionLabel": "Ready for adult review",
+    "question": "Create a six-term number pattern that starts at 17 and decreases by 3. State the rule.",
+    "audioPrompt": "Create a six-term number pattern that starts at 17 and decreases by 3. State the rule.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-023",
-      "alt_text": "With the shell cards: A pattern with one number that breaks the constant rule."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "15",
-      "20",
-      "23"
+      "Needs revision",
+      "Completed response",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "20 breaks the add-4 rule. It should be 19.\nHint: Predict each term using the rule.",
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "17, 14, 11, 8, 5, 2; rule: subtract 3 each time.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "20 breaks the add-4 rule. It should be 19.",
-      "hint": "Predict each term using the rule."
+      "summary": "17, 14, 11, 8, 5, 2; rule: subtract 3 each time.",
+      "hint": "Accept the six correct terms and an explicit subtract-3 rule."
     },
     "qualitySchema": "production-v1"
   },
@@ -725,702 +723,36 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2a01-p-024",
     "curriculumCode": "AC9M2A01",
     "bank": "practice",
-    "skill": "connect shape and number patterns",
+    "skill": "create object pattern",
     "printable": true,
-    "type": "single",
-    "question": "With the shell cards, the dot pattern is 4, 6, 8. What comes next?",
-    "audioPrompt": "With the shell cards, the dot pattern is 4, 6, 8. What comes next?",
-    "visual": "With the shell cards: Three dot groups containing 4, 6 and 8 dots, growing by 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: Three dot groups containing 4, 6 and 8 dots, growing by 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-024\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Valid group counts are 2, 6, 10 and 14 objects; the rule is add 4.",
+    "acceptanceNote": "The objects may differ, but each group count and the +4 rule must be clear.",
+    "responseInstructions": "Show four groups, label their counts and state the rule.",
+    "completionLabel": "Ready for adult review",
+    "question": "Draw or describe four groups of objects whose counts form a pattern starting at 2 and increasing by 4.",
+    "audioPrompt": "Draw or describe four groups of objects whose counts form a pattern starting at 2 and increasing by 4.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-p-024",
-      "alt_text": "With the shell cards: Three dot groups containing 4, 6 and 8 dots, growing by 2."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "9",
-      "11",
-      "10"
+      "Needs revision",
+      "Not attempted",
+      "Completed response"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "The number of dots grows by 2, so 10 dots come next.\nHint: Count how many new dots are added each time.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Valid group counts are 2, 6, 10 and 14 objects; the rule is add 4.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The number of dots grows by 2, so 10 dots come next.",
-      "hint": "Count how many new dots are added each time."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-025",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the school garden the pattern",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, the pattern is 4, 6, 8, __. What comes next?",
-    "audioPrompt": "At the school garden, the pattern is 4, 6, 8, __. What comes next?",
-    "visual": "At the school garden, the pattern is 4, 6, 8, __. What comes next?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, the pattern is 4, 6, 8, __. What comes next?"
-    },
-    "answers": [
-      "10",
-      "8",
-      "11"
-    ],
-    "correct": 0,
-    "explanation": "The pattern adds 2 each time.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-026",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during maths groups what number is",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, what number is missing? 7, __, 13, 16.",
-    "audioPrompt": "During maths groups, what number is missing? 7, __, 13, 16.",
-    "visual": "During maths groups, what number is missing? 7, __, 13, 16.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, what number is missing? 7, __, 13, 16."
-    },
-    "answers": [
-      "11",
-      "7",
-      "10"
-    ],
-    "correct": 2,
-    "explanation": "Add 3 from 7 to get 10.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Add 3 from 7 to get 10.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-027",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the art table which rule",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, which rule matches 12, 17, 22?",
-    "audioPrompt": "At the art table, which rule matches 12, 17, 22?",
-    "visual": "At the art table, which rule matches 12, 17, 22?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, which rule matches 12, 17, 22?"
-    },
-    "answers": [
-      "Take away 5",
-      "Add 5",
-      "Add 6"
-    ],
-    "correct": 1,
-    "explanation": "Each number is 5 more than the last.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-028",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "in the playground which number does",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, which number does not belong? 18, 28, 39, 48.",
-    "audioPrompt": "In the playground, which number does not belong? 18, 28, 39, 48.",
-    "visual": "In the playground, which number does not belong? 18, 28, 39, 48.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, which number does not belong? 18, 28, 39, 48."
-    },
-    "answers": [
-      "39",
-      "28",
-      "48"
-    ],
-    "correct": 0,
-    "explanation": "One number breaks the pattern.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-029",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the library the pattern is",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, the pattern is 25, 27, 29, __. What comes next?",
-    "audioPrompt": "At the library, the pattern is 25, 27, 29, __. What comes next?",
-    "visual": "At the library, the pattern is 25, 27, 29, __. What comes next?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, the pattern is 25, 27, 29, __. What comes next?"
-    },
-    "answers": [
-      "29",
-      "32",
-      "31"
-    ],
-    "correct": 2,
-    "explanation": "The pattern adds 2 each time.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-030",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during sport what number is missing",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, what number is missing? 31, __, 37, 40.",
-    "audioPrompt": "During sport, what number is missing? 31, __, 37, 40.",
-    "visual": "During sport, what number is missing? 31, __, 37, 40.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, what number is missing? 31, __, 37, 40."
-    },
-    "answers": [
-      "31",
-      "34",
-      "35"
-    ],
-    "correct": 1,
-    "explanation": "Add 3 from 31 to get 34.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Add 3 from 31 to get 34.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-031",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the class shop which rule",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, which rule matches 4, 9, 14?",
-    "audioPrompt": "At the class shop, which rule matches 4, 9, 14?",
-    "visual": "At the class shop, which rule matches 4, 9, 14?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, which rule matches 4, 9, 14?"
-    },
-    "answers": [
-      "Add 5",
-      "Add 6",
-      "Take away 5"
-    ],
-    "correct": 0,
-    "explanation": "Each number is 5 more than the last.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-032",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "on the picnic rug which number",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, which number does not belong? 7, 17, 28, 37.",
-    "audioPrompt": "On the picnic rug, which number does not belong? 7, 17, 28, 37.",
-    "visual": "On the picnic rug, which number does not belong? 7, 17, 28, 37.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, which number does not belong? 7, 17, 28, 37."
-    },
-    "answers": [
-      "17",
-      "37",
-      "28"
-    ],
-    "correct": 2,
-    "explanation": "One number breaks the pattern.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-033",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the block table the pattern",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, the pattern is 12, 14, 16, __. What comes next?",
-    "audioPrompt": "At the block table, the pattern is 12, 14, 16, __. What comes next?",
-    "visual": "At the block table, the pattern is 12, 14, 16, __. What comes next?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, the pattern is 12, 14, 16, __. What comes next?"
-    },
-    "answers": [
-      "19",
-      "18",
-      "16"
-    ],
-    "correct": 1,
-    "explanation": "The pattern adds 2 each time.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-034",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "in the lunch area what number",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, what number is missing? 18, __, 24, 27.",
-    "audioPrompt": "In the lunch area, what number is missing? 18, __, 24, 27.",
-    "visual": "In the lunch area, what number is missing? 18, __, 24, 27.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, what number is missing? 18, __, 24, 27."
-    },
-    "answers": [
-      "21",
-      "22",
-      "18"
-    ],
-    "correct": 0,
-    "explanation": "Add 3 from 18 to get 21.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Add 3 from 18 to get 21.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-035",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the science table which rule",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, which rule matches 25, 30, 35?",
-    "audioPrompt": "At the science table, which rule matches 25, 30, 35?",
-    "visual": "At the science table, which rule matches 25, 30, 35?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, which rule matches 25, 30, 35?"
-    },
-    "answers": [
-      "Add 6",
-      "Take away 5",
-      "Add 5"
-    ],
-    "correct": 2,
-    "explanation": "Each number is 5 more than the last.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-036",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during a card game which number",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, which number does not belong? 31, 41, 52, 61.",
-    "audioPrompt": "During a card game, which number does not belong? 31, 41, 52, 61.",
-    "visual": "During a card game, which number does not belong? 31, 41, 52, 61.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, which number does not belong? 31, 41, 52, 61."
-    },
-    "answers": [
-      "61",
-      "52",
-      "41"
-    ],
-    "correct": 1,
-    "explanation": "One number breaks the pattern.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-037",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the school garden the pattern",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, the pattern is 4, 6, 8, __. What comes next?",
-    "audioPrompt": "At the school garden, the pattern is 4, 6, 8, __. What comes next?",
-    "visual": "At the school garden, the pattern is 4, 6, 8, __. What comes next?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, the pattern is 4, 6, 8, __. What comes next?"
-    },
-    "answers": [
-      "10",
-      "8",
-      "11"
-    ],
-    "correct": 0,
-    "explanation": "The pattern adds 2 each time.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-038",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during maths groups what number is",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, what number is missing? 7, __, 13, 16.",
-    "audioPrompt": "During maths groups, what number is missing? 7, __, 13, 16.",
-    "visual": "During maths groups, what number is missing? 7, __, 13, 16.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, what number is missing? 7, __, 13, 16."
-    },
-    "answers": [
-      "11",
-      "7",
-      "10"
-    ],
-    "correct": 2,
-    "explanation": "Add 3 from 7 to get 10.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Add 3 from 7 to get 10.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-039",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the art table which rule",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, which rule matches 12, 17, 22?",
-    "audioPrompt": "At the art table, which rule matches 12, 17, 22?",
-    "visual": "At the art table, which rule matches 12, 17, 22?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, which rule matches 12, 17, 22?"
-    },
-    "answers": [
-      "Take away 5",
-      "Add 5",
-      "Add 6"
-    ],
-    "correct": 1,
-    "explanation": "Each number is 5 more than the last.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-040",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "in the playground which number does",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, which number does not belong? 18, 28, 39, 48.",
-    "audioPrompt": "In the playground, which number does not belong? 18, 28, 39, 48.",
-    "visual": "In the playground, which number does not belong? 18, 28, 39, 48.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, which number does not belong? 18, 28, 39, 48."
-    },
-    "answers": [
-      "39",
-      "28",
-      "48"
-    ],
-    "correct": 0,
-    "explanation": "One number breaks the pattern.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-041",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the library the pattern is",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, the pattern is 25, 27, 29, __. What comes next?",
-    "audioPrompt": "At the library, the pattern is 25, 27, 29, __. What comes next?",
-    "visual": "At the library, the pattern is 25, 27, 29, __. What comes next?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, the pattern is 25, 27, 29, __. What comes next?"
-    },
-    "answers": [
-      "29",
-      "32",
-      "31"
-    ],
-    "correct": 2,
-    "explanation": "The pattern adds 2 each time.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-042",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during sport what number is missing",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, what number is missing? 31, __, 37, 40.",
-    "audioPrompt": "During sport, what number is missing? 31, __, 37, 40.",
-    "visual": "During sport, what number is missing? 31, __, 37, 40.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, what number is missing? 31, __, 37, 40."
-    },
-    "answers": [
-      "31",
-      "34",
-      "35"
-    ],
-    "correct": 1,
-    "explanation": "Add 3 from 31 to get 34.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Add 3 from 31 to get 34.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-043",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the class shop which rule",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, which rule matches 4, 9, 14?",
-    "audioPrompt": "At the class shop, which rule matches 4, 9, 14?",
-    "visual": "At the class shop, which rule matches 4, 9, 14?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, which rule matches 4, 9, 14?"
-    },
-    "answers": [
-      "Add 5",
-      "Add 6",
-      "Take away 5"
-    ],
-    "correct": 0,
-    "explanation": "Each number is 5 more than the last.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-044",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "on the picnic rug which number",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, which number does not belong? 7, 17, 28, 37.",
-    "audioPrompt": "On the picnic rug, which number does not belong? 7, 17, 28, 37.",
-    "visual": "On the picnic rug, which number does not belong? 7, 17, 28, 37.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, which number does not belong? 7, 17, 28, 37."
-    },
-    "answers": [
-      "17",
-      "37",
-      "28"
-    ],
-    "correct": 2,
-    "explanation": "One number breaks the pattern.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-045",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the block table the pattern",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, the pattern is 12, 14, 16, __. What comes next?",
-    "audioPrompt": "At the block table, the pattern is 12, 14, 16, __. What comes next?",
-    "visual": "At the block table, the pattern is 12, 14, 16, __. What comes next?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, the pattern is 12, 14, 16, __. What comes next?"
-    },
-    "answers": [
-      "19",
-      "18",
-      "16"
-    ],
-    "correct": 1,
-    "explanation": "The pattern adds 2 each time.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-046",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "in the lunch area what number",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, what number is missing? 18, __, 24, 27.",
-    "audioPrompt": "In the lunch area, what number is missing? 18, __, 24, 27.",
-    "visual": "In the lunch area, what number is missing? 18, __, 24, 27.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, what number is missing? 18, __, 24, 27."
-    },
-    "answers": [
-      "21",
-      "22",
-      "18"
-    ],
-    "correct": 0,
-    "explanation": "Add 3 from 18 to get 21.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Add 3 from 18 to get 21.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-047",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "at the science table which rule",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, which rule matches 25, 30, 35?",
-    "audioPrompt": "At the science table, which rule matches 25, 30, 35?",
-    "visual": "At the science table, which rule matches 25, 30, 35?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, which rule matches 25, 30, 35?"
-    },
-    "answers": [
-      "Add 6",
-      "Take away 5",
-      "Add 5"
-    ],
-    "correct": 2,
-    "explanation": "Each number is 5 more than the last.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Each number is 5 more than the last.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2a01-p-048",
-    "curriculumCode": "AC9M2A01",
-    "bank": "practice",
-    "skill": "during a card game which number",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, which number does not belong? 31, 41, 52, 61.",
-    "audioPrompt": "During a card game, which number does not belong? 31, 41, 52, 61.",
-    "visual": "During a card game, which number does not belong? 31, 41, 52, 61.",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, which number does not belong? 31, 41, 52, 61."
-    },
-    "answers": [
-      "61",
-      "52",
-      "41"
-    ],
-    "correct": 1,
-    "explanation": "One number breaks the pattern.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "One number breaks the pattern.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "Valid group counts are 2, 6, 10 and 14 objects; the rule is add 4.",
+      "hint": "The objects may differ, but each group count and the +4 rule must be clear."
     },
     "qualitySchema": "production-v1"
   }

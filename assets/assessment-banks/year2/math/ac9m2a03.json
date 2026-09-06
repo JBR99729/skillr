@@ -5,36 +5,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "multiply_by_two",
+    "skill": "pairs_model",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-001",
-      "alt_text": "At the sock table: 3 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sock table, how many counters are in 3 pairs?",
-    "audio_prompt": "At the sock table, how many counters are in 3 pairs?",
+    "question": "Four pairs of gloves contain how many gloves?",
+    "audio_prompt": "Four pairs of gloves contain how many gloves?",
     "answers": [
       {
-        "text": "3",
-        "is_correct": false
-      },
-      {
         "text": "8",
-        "is_correct": false
+        "is_correct": true
       },
       {
         "text": "6",
-        "is_correct": true
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "3 pairs means 3 groups of 2, so there are 6.",
-      "hint": "Skip-count by twos 3 times."
+      "summary": "Four groups of 2 make 8.",
+      "hint": "Count by twos four times."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-002",
@@ -42,36 +47,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "double_number",
+    "skill": "multiply_by_two",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-002",
-      "alt_text": "At the sock table: Two equal groups of 5 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sock table, what is double 5?",
-    "audio_prompt": "At the sock table, what is double 5?",
+    "question": "Find 2 × 6.",
+    "audio_prompt": "Find 2 × 6.",
     "answers": [
       {
-        "text": "10",
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "12",
         "is_correct": true
       },
       {
-        "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "9",
+        "text": "14",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Double means two equal groups. 5 + 5 = 10.",
-      "hint": "Say the number twice, then add."
+      "summary": "Two groups of 6 make 12; equivalently, double 6.",
+      "hint": "Double the other factor."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-003",
@@ -79,36 +89,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "halve_even_number",
+    "skill": "twos_fact",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-003",
-      "alt_text": "At the sock table: 10 counters shared equally between 2 groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sock table, what is half of 10?",
-    "audio_prompt": "At the sock table, what is half of 10?",
+    "question": "Complete: 7 × 2 = __.",
+    "audio_prompt": "Complete: 7 × 2 = __.",
     "answers": [
       {
-        "text": "8",
+        "text": "9",
         "is_correct": false
       },
       {
-        "text": "5",
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "14",
         "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Half means split 10 into 2 equal groups. Each group has 5.",
-      "hint": "Share one at a time into two groups."
+      "summary": "Seven pairs contain 14 objects.",
+      "hint": "Skip-count by 2 seven times."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-004",
@@ -116,36 +131,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "connect_twos_and_division",
+    "skill": "array_model",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-004",
-      "alt_text": "At the sock table: A fact family showing 3, 2 and 6."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sock table, which division fact matches 3 × 2 = 6?",
-    "audio_prompt": "At the sock table, which division fact matches 3 × 2 = 6?",
+    "question": "An array has 2 rows of 8 dots. How many dots are there?",
+    "audio_prompt": "An array has 2 rows of 8 dots. How many dots are there?",
     "answers": [
       {
-        "text": "6 ÷ 3 = 3",
-        "is_correct": false
-      },
-      {
-        "text": "6 − 2 = 4",
-        "is_correct": false
-      },
-      {
-        "text": "6 ÷ 2 = 3",
+        "text": "16",
         "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "6 shared into 2 equal groups gives 3 in each group.",
-      "hint": "Use the total 6, then divide it into 2 groups."
+      "summary": "Two rows of 8 show double 8, which is 16.",
+      "hint": "Add 8+8."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-005",
@@ -153,35 +173,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "skip_count_by_two",
+    "skill": "number_line_twos",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-005",
-      "alt_text": "At the sock table: An even-number sequence ending with a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sock table, count by twos: 2, 4, 6, 8, __. What comes next?",
-    "audio_prompt": "At the sock table, count by twos: 2, 4, 6, 8, __. What comes next?",
+    "question": "Starting at 0, five jumps of 2 end at what number?",
+    "audio_prompt": "Starting at 0, five jumps of 2 end at what number?",
     "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
       {
         "text": "10",
         "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
       },
       {
         "text": "12",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Counting by twos adds 2. After 8 comes 10.",
-      "hint": "Say the next even number."
+      "summary": "Five equal jumps of 2 total 10.",
+      "hint": "Count 2,4,6,8,10."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-006",
@@ -189,36 +215,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "make_pairs",
+    "skill": "missing_factor",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-006",
-      "alt_text": "At the sock table: 10 socks arranged as 5 pairs."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sock table, 10 socks make pairs. How many pairs are there?",
-    "audio_prompt": "At the sock table, 10 socks make pairs. How many pairs are there?",
+    "question": "Complete: __ × 2 = 18.",
+    "audio_prompt": "Complete: __ × 2 = 18.",
     "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
       {
         "text": "10",
         "is_correct": false
       },
       {
-        "text": "5",
+        "text": "9",
         "is_correct": true
-      },
-      {
-        "text": "7",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Each pair uses 2 socks, so 10 ÷ 2 = 5 pairs.",
-      "hint": "Circle the socks two at a time."
+      "summary": "Nine groups of 2 make 18.",
+      "hint": "Count the number of pairs."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-007",
@@ -226,36 +257,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "solve_twos_context",
+    "skill": "double_connection",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-007",
-      "alt_text": "At the sock table: 4 bikes represented by groups of 2 wheels."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sock table, there are 4 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audio_prompt": "At the sock table, there are 4 bikes. Each bike has 2 wheels. How many wheels are there?",
+    "question": "Which double helps solve 2 × 7?",
+    "audio_prompt": "Which double helps solve 2 × 7?",
     "answers": [
       {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "8",
+        "text": "7 + 7",
         "is_correct": true
+      },
+      {
+        "text": "2 + 7",
+        "is_correct": false
+      },
+      {
+        "text": "2 + 2 + 2 + 2 + 2 + 2",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "4 groups of 2 wheels make 8 wheels.",
-      "hint": "Draw 2 wheels for each bike, then count them."
+      "summary": "Multiplying by 2 is doubling the other factor.",
+      "hint": "A double has two equal addends."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-008",
@@ -263,36 +299,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "recognise_equal_halves",
+    "skill": "commutative_twos",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-008",
-      "alt_text": "At the sock table: 12 counters shown in two equal groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sock table, which shows half of 12?",
-    "audio_prompt": "At the sock table, which shows half of 12?",
+    "question": "Why do 2 × 9 and 9 × 2 have the same total?",
+    "audio_prompt": "Why do 2 × 9 and 9 × 2 have the same total?",
     "answers": [
       {
-        "text": "6 and 6",
+        "text": "Both have nine rows of nine",
+        "is_correct": false
+      },
+      {
+        "text": "Both represent 18 objects arranged in different orientations",
         "is_correct": true
       },
       {
-        "text": "5 and 7",
-        "is_correct": false
-      },
-      {
-        "text": "12 and 12",
+        "text": "Multiplication changes the number of objects",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Two equal parts of 6 make 12.",
-      "hint": "Halves must be equal and join to make the whole."
+      "summary": "Turning a 2-by-9 array swaps rows and columns but keeps 18 objects.",
+      "hint": "No objects are added or removed."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-009",
@@ -300,36 +341,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "multiply_by_two",
+    "skill": "halve_even_set",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-009",
-      "alt_text": "With the bike cards: 4 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the bike cards, how many counters are in 4 pairs?",
-    "audio_prompt": "With the bike cards, how many counters are in 4 pairs?",
+    "question": "Half of 16 is __.",
+    "audio_prompt": "Half of 16 is __.",
     "answers": [
       {
-        "text": "4",
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "32",
         "is_correct": false
       },
       {
         "text": "8",
         "is_correct": true
-      },
-      {
-        "text": "10",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "4 pairs means 4 groups of 2, so there are 8.",
-      "hint": "Skip-count by twos 4 times."
+      "summary": "Sixteen split into 2 equal groups gives 8 in each.",
+      "hint": "Use 2×8=16."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-010",
@@ -337,35 +383,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "double_number",
+    "skill": "divide_by_two",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-010",
-      "alt_text": "With the bike cards: Two equal groups of 6 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the bike cards, what is double 6?",
-    "audio_prompt": "With the bike cards, what is double 6?",
+    "question": "Find 14 ÷ 2.",
+    "audio_prompt": "Find 14 ÷ 2.",
     "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
       {
         "text": "6",
         "is_correct": false
       },
       {
-        "text": "11",
+        "text": "8",
         "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Double means two equal groups. 6 + 6 = 12.",
-      "hint": "Say the number twice, then add."
+      "summary": "Fourteen shared between 2 equal groups gives 7 each.",
+      "hint": "Use the related twos fact."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-011",
@@ -373,35 +425,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "halve_even_number",
+    "skill": "pair_grouping",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-011",
-      "alt_text": "With the bike cards: 12 counters shared equally between 2 groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the bike cards, what is half of 12?",
-    "audio_prompt": "With the bike cards, what is half of 12?",
+    "question": "How many pairs can be made from 18 socks?",
+    "audio_prompt": "How many pairs can be made from 18 socks?",
     "answers": [
       {
-        "text": "6",
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
         "is_correct": true
       },
       {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "7",
+        "text": "16",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Half means split 12 into 2 equal groups. Each group has 6.",
-      "hint": "Share one at a time into two groups."
+      "summary": "Eighteen contains nine groups of 2.",
+      "hint": "Count by twos to 18."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-012",
@@ -409,35 +467,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "connect_twos_and_division",
+    "skill": "sharing_two_groups",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-012",
-      "alt_text": "With the bike cards: A fact family showing 4, 2 and 8."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the bike cards, which division fact matches 4 × 2 = 8?",
-    "audio_prompt": "With the bike cards, which division fact matches 4 × 2 = 8?",
+    "question": "Twenty counters are shared equally into 2 groups. How many are in each group?",
+    "audio_prompt": "Twenty counters are shared equally into 2 groups. How many are in each group?",
     "answers": [
       {
-        "text": "8 ÷ 4 = 4",
+        "text": "18",
         "is_correct": false
       },
       {
-        "text": "8 ÷ 2 = 4",
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "10",
         "is_correct": true
-      },
-      {
-        "text": "8 − 2 = 6",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "8 shared into 2 equal groups gives 4 in each group.",
-      "hint": "Use the total 8, then divide it into 2 groups."
+      "summary": "Halving 20 gives 10 in each group.",
+      "hint": "Both groups must be equal."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-013",
@@ -445,35 +509,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "skip_count_by_two",
+    "skill": "related_division",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-013",
-      "alt_text": "With the bike cards: An even-number sequence ending with a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the bike cards, count by twos: 4, 6, 8, 10, __. What comes next?",
-    "audio_prompt": "With the bike cards, count by twos: 4, 6, 8, 10, __. What comes next?",
+    "question": "If 8 × 2 = 16, which related division fact finds the number of pairs?",
+    "audio_prompt": "If 8 × 2 = 16, which related division fact finds the number of pairs?",
     "answers": [
       {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "12",
+        "text": "16 ÷ 2 = 8",
         "is_correct": true
+      },
+      {
+        "text": "16 ÷ 8 = 2 pairs",
+        "is_correct": false
+      },
+      {
+        "text": "8 ÷ 2 = 16",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Counting by twos adds 2. After 10 comes 12.",
-      "hint": "Say the next even number."
+      "summary": "Sixteen divided into groups of 2 makes 8 groups.",
+      "hint": "Start with the total."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-014",
@@ -481,35 +551,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "make_pairs",
+    "skill": "missing_dividend",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-014",
-      "alt_text": "With the bike cards: 12 socks arranged as 6 pairs."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the bike cards, 12 socks make pairs. How many pairs are there?",
-    "audio_prompt": "With the bike cards, 12 socks make pairs. How many pairs are there?",
+    "question": "Complete: __ ÷ 2 = 6.",
+    "audio_prompt": "Complete: __ ÷ 2 = 6.",
     "answers": [
-      {
-        "text": "6",
-        "is_correct": true
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
       {
         "text": "8",
         "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Each pair uses 2 socks, so 12 ÷ 2 = 6 pairs.",
-      "hint": "Circle the socks two at a time."
+      "summary": "Twelve divided into 2 equal groups gives 6.",
+      "hint": "Double the quotient."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-015",
@@ -517,35 +593,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "solve_twos_context",
+    "skill": "missing_quotient",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-015",
-      "alt_text": "With the bike cards: 5 bikes represented by groups of 2 wheels."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the bike cards, there are 5 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audio_prompt": "With the bike cards, there are 5 bikes. Each bike has 2 wheels. How many wheels are there?",
+    "question": "Complete: 20 ÷ 2 = __.",
+    "audio_prompt": "Complete: 20 ÷ 2 = __.",
     "answers": [
       {
-        "text": "5",
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "18",
         "is_correct": false
       },
       {
         "text": "10",
         "is_correct": true
-      },
-      {
-        "text": "11",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "5 groups of 2 wheels make 10 wheels.",
-      "hint": "Draw 2 wheels for each bike, then count them."
+      "summary": "Half of 20 is 10.",
+      "hint": "Use 2×10=20."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-016",
@@ -553,35 +635,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "recognise_equal_halves",
+    "skill": "identify_even_total",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-016",
-      "alt_text": "With the bike cards: 14 counters shown in two equal groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the bike cards, which shows half of 14?",
-    "audio_prompt": "With the bike cards, which shows half of 14?",
+    "question": "Which total can be divided into 2 equal whole-number groups?",
+    "audio_prompt": "Which total can be divided into 2 equal whole-number groups?",
     "answers": [
       {
-        "text": "6 and 8",
-        "is_correct": false
-      },
-      {
-        "text": "14 and 14",
-        "is_correct": false
-      },
-      {
-        "text": "7 and 7",
+        "text": "18",
         "is_correct": true
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "19",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Two equal parts of 7 make 14.",
-      "hint": "Halves must be equal and join to make the whole."
+      "summary": "Eighteen is 9+9, so it halves evenly.",
+      "hint": "Look for a number made of complete pairs."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-017",
@@ -589,35 +677,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "multiply_by_two",
+    "skill": "choose_representation",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-017",
-      "alt_text": "In the counter game: 5 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the counter game, how many counters are in 5 pairs?",
-    "audio_prompt": "In the counter game, how many counters are in 5 pairs?",
+    "question": "Which represents 6 × 2?",
+    "audio_prompt": "Which represents 6 × 2?",
     "answers": [
       {
-        "text": "10",
+        "text": "One group with 8",
+        "is_correct": false
+      },
+      {
+        "text": "Six equal groups with 2 in each",
         "is_correct": true
       },
       {
-        "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "12",
+        "text": "Two unequal groups with 6 and 2",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "5 pairs means 5 groups of 2, so there are 10.",
-      "hint": "Skip-count by twos 5 times."
+      "summary": "Six groups of 2 preserve both factors.",
+      "hint": "Identify groups and group size."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-018",
@@ -625,35 +719,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "double_number",
+    "skill": "interpret_quotient",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-018",
-      "alt_text": "In the counter game: Two equal groups of 7 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the counter game, what is double 7?",
-    "audio_prompt": "In the counter game, what is double 7?",
+    "question": "For 12 pencils shared equally between 2 children, what does 6 mean?",
+    "audio_prompt": "For 12 pencils shared equally between 2 children, what does 6 mean?",
     "answers": [
       {
-        "text": "7",
+        "text": "There are 6 children",
         "is_correct": false
       },
       {
-        "text": "14",
+        "text": "Six pencils are left over",
+        "is_correct": false
+      },
+      {
+        "text": "Each child receives 6 pencils",
         "is_correct": true
-      },
-      {
-        "text": "13",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Double means two equal groups. 7 + 7 = 14.",
-      "hint": "Say the number twice, then add."
+      "summary": "The quotient is the amount in each equal share.",
+      "hint": "Connect the answer to the story."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-019",
@@ -661,35 +761,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "halve_even_number",
+    "skill": "double_then_halve",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-019",
-      "alt_text": "In the counter game: 14 counters shared equally between 2 groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the counter game, what is half of 14?",
-    "audio_prompt": "In the counter game, what is half of 14?",
+    "question": "A number is doubled to make 18. What was the number?",
+    "audio_prompt": "A number is doubled to make 18. What was the number?",
     "answers": [
       {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "7",
+        "text": "9",
         "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Half means split 14 into 2 equal groups. Each group has 7.",
-      "hint": "Share one at a time into two groups."
+      "summary": "Halving 18 undoes doubling and gives 9.",
+      "hint": "Use inverse operations."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-020",
@@ -697,35 +803,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "connect_twos_and_division",
+    "skill": "fact_link",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-020",
-      "alt_text": "In the counter game: A fact family showing 5, 2 and 10."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the counter game, which division fact matches 5 × 2 = 10?",
-    "audio_prompt": "In the counter game, which division fact matches 5 × 2 = 10?",
+    "question": "Which pair of equations shows a twos fact and its related division fact?",
+    "audio_prompt": "Which pair of equations shows a twos fact and its related division fact?",
     "answers": [
       {
-        "text": "10 ÷ 2 = 5",
+        "text": "9×2=18 and 18−2=16",
+        "is_correct": false
+      },
+      {
+        "text": "9×2=18 and 18÷2=9",
         "is_correct": true
       },
       {
-        "text": "10 ÷ 5 = 5",
-        "is_correct": false
-      },
-      {
-        "text": "10 − 2 = 8",
+        "text": "9+2=11 and 11÷2=9",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "10 shared into 2 equal groups gives 5 in each group.",
-      "hint": "Use the total 10, then divide it into 2 groups."
+      "summary": "Both equations use the same factor, 2, total 18 and other factor 9.",
+      "hint": "Keep the same three numbers."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-021",
@@ -733,35 +845,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "skip_count_by_two",
+    "skill": "diagnose_pair_error",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-021",
-      "alt_text": "In the counter game: An even-number sequence ending with a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the counter game, count by twos: 6, 8, 10, 12, __. What comes next?",
-    "audio_prompt": "In the counter game, count by twos: 6, 8, 10, 12, __. What comes next?",
+    "question": "Kai says 7 pairs contain 9 objects because 7+2=9. What should Kai do?",
+    "audio_prompt": "Kai says 7 pairs contain 9 objects because 7+2=9. What should Kai do?",
     "answers": [
       {
-        "text": "13",
+        "text": "Add 7 and 2 again to get 18",
         "is_correct": false
       },
       {
-        "text": "14",
+        "text": "Divide 7 by 2",
+        "is_correct": false
+      },
+      {
+        "text": "Add 2 seven times to get 14",
         "is_correct": true
-      },
-      {
-        "text": "16",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Counting by twos adds 2. After 12 comes 14.",
-      "hint": "Say the next even number."
+      "summary": "Seven pairs are seven equal groups of 2.",
+      "hint": "Represent every pair."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-022",
@@ -769,35 +887,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "make_pairs",
+    "skill": "diagnose_halving_error",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-022",
-      "alt_text": "In the counter game: 14 socks arranged as 7 pairs."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the counter game, 14 socks make pairs. How many pairs are there?",
-    "audio_prompt": "In the counter game, 14 socks make pairs. How many pairs are there?",
+    "question": "A student halves 18 and gets 8. What check shows the error?",
+    "audio_prompt": "A student halves 18 and gets 8. What check shows the error?",
     "answers": [
       {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "7",
+        "text": "2 × 8 = 16, not 18",
         "is_correct": true
+      },
+      {
+        "text": "18 − 8 = 10",
+        "is_correct": false
+      },
+      {
+        "text": "8 + 2 = 10",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Each pair uses 2 socks, so 14 ÷ 2 = 7 pairs.",
-      "hint": "Circle the socks two at a time."
+      "summary": "A correct half doubled must return to 18; the half is 9.",
+      "hint": "Undo halving by doubling."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-023",
@@ -805,35 +929,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "solve_twos_context",
+    "skill": "compare_twos_facts",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-023",
-      "alt_text": "In the counter game: 6 bikes represented by groups of 2 wheels."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the counter game, there are 6 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audio_prompt": "In the counter game, there are 6 bikes. Each bike has 2 wheels. How many wheels are there?",
+    "question": "How much greater is 9 × 2 than 6 × 2?",
+    "audio_prompt": "How much greater is 9 × 2 than 6 × 2?",
     "answers": [
       {
-        "text": "12",
-        "is_correct": true
+        "text": "3",
+        "is_correct": false
       },
       {
         "text": "6",
-        "is_correct": false
+        "is_correct": true
       },
       {
-        "text": "13",
+        "text": "12",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "6 groups of 2 wheels make 12 wheels.",
-      "hint": "Draw 2 wheels for each bike, then count them."
+      "summary": "The difference is three groups of 2, which is 6.",
+      "hint": "Compare the number of extra pairs."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2A03-P-024",
@@ -841,826 +971,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
-    "skill": "recognise_equal_halves",
+    "skill": "reason_inverse",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-024",
-      "alt_text": "In the counter game: 16 counters shown in two equal groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the counter game, which shows half of 16?",
-    "audio_prompt": "In the counter game, which shows half of 16?",
+    "question": "Why does knowing 2 × 10 = 20 help find 20 ÷ 2?",
+    "audio_prompt": "Why does knowing 2 × 10 = 20 help find 20 ÷ 2?",
     "answers": [
       {
-        "text": "7 and 9",
+        "text": "Division always adds 2",
         "is_correct": false
       },
       {
-        "text": "8 and 8",
+        "text": "Twenty is ten more than 10",
+        "is_correct": false
+      },
+      {
+        "text": "Multiplication and division use the same equal groups in reverse",
         "is_correct": true
-      },
-      {
-        "text": "16 and 16",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Two equal parts of 8 make 16.",
-      "hint": "Halves must be equal and join to make the whole."
+      "summary": "The product becomes the division total and the missing factor becomes the quotient.",
+      "hint": "Use the same array in reverse."
     },
     "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2A03-P-025",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_school_garden_what_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, what is double 2?"
-    },
-    "question": "At the school garden, what is double 2?",
-    "audio_prompt": "At the school garden, what is double 2?",
-    "answers": [
-      {
-        "text": "4",
-        "is_correct": true
-      },
-      {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Double 2 means 2 + 2.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-026",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during_maths_groups_half_of_12",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, half of 12 is?"
-    },
-    "question": "During maths groups, half of 12 is?",
-    "audio_prompt": "During maths groups, half of 12 is?",
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Half of 12 is 6.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-027",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_art_table_4_pairs",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, 4 pairs of socks have how many socks?"
-    },
-    "question": "At the art table, 4 pairs of socks have how many socks?",
-    "audio_prompt": "At the art table, 4 pairs of socks have how many socks?",
-    "answers": [
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": true
-      },
-      {
-        "text": "4",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-028",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "in_the_playground_what_is_double",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, what is double 5?"
-    },
-    "question": "In the playground, what is double 5?",
-    "audio_prompt": "In the playground, what is double 5?",
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": true
-      },
-      {
-        "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Double 5 means 5 + 5.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-029",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_library_half_of_18",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, half of 18 is?"
-    },
-    "question": "At the library, half of 18 is?",
-    "audio_prompt": "At the library, half of 18 is?",
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Half of 18 is 9.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-030",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during_sport_7_pairs_of_socks",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, 7 pairs of socks have how many socks?"
-    },
-    "question": "During sport, 7 pairs of socks have how many socks?",
-    "audio_prompt": "During sport, 7 pairs of socks have how many socks?",
-    "answers": [
-      {
-        "text": "15",
-        "is_correct": false
-      },
-      {
-        "text": "14",
-        "is_correct": true
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-031",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_class_shop_what_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, what is double 8?"
-    },
-    "question": "At the class shop, what is double 8?",
-    "audio_prompt": "At the class shop, what is double 8?",
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "18",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Double 8 means 8 + 8.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-032",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_half_of",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, half of 12 is?"
-    },
-    "question": "On the picnic rug, half of 12 is?",
-    "audio_prompt": "On the picnic rug, half of 12 is?",
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Half of 12 is 6.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-033",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_block_table_10_pairs",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, 10 pairs of socks have how many socks?"
-    },
-    "question": "At the block table, 10 pairs of socks have how many socks?",
-    "audio_prompt": "At the block table, 10 pairs of socks have how many socks?",
-    "answers": [
-      {
-        "text": "21",
-        "is_correct": false
-      },
-      {
-        "text": "20",
-        "is_correct": true
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-034",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_what_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, what is double 11?"
-    },
-    "question": "In the lunch area, what is double 11?",
-    "audio_prompt": "In the lunch area, what is double 11?",
-    "answers": [
-      {
-        "text": "22",
-        "is_correct": true
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "24",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Double 11 means 11 + 11.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-035",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_science_table_half_of",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, half of 18 is?"
-    },
-    "question": "At the science table, half of 18 is?",
-    "audio_prompt": "At the science table, half of 18 is?",
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Half of 18 is 9.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-036",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during_a_card_game_3_pairs",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, 3 pairs of socks have how many socks?"
-    },
-    "question": "During a card game, 3 pairs of socks have how many socks?",
-    "audio_prompt": "During a card game, 3 pairs of socks have how many socks?",
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-037",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_school_garden_what_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, what is double 4?"
-    },
-    "question": "At the school garden, what is double 4?",
-    "audio_prompt": "At the school garden, what is double 4?",
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": true
-      },
-      {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Double 4 means 4 + 4.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-038",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during_maths_groups_half_of_12",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, half of 12 is?"
-    },
-    "question": "During maths groups, half of 12 is?",
-    "audio_prompt": "During maths groups, half of 12 is?",
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Half of 12 is 6.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-039",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_art_table_6_pairs",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, 6 pairs of socks have how many socks?"
-    },
-    "question": "At the art table, 6 pairs of socks have how many socks?",
-    "audio_prompt": "At the art table, 6 pairs of socks have how many socks?",
-    "answers": [
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-040",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "in_the_playground_what_is_double",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, what is double 7?"
-    },
-    "question": "In the playground, what is double 7?",
-    "audio_prompt": "In the playground, what is double 7?",
-    "answers": [
-      {
-        "text": "14",
-        "is_correct": true
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "16",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Double 7 means 7 + 7.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-041",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_library_half_of_18",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, half of 18 is?"
-    },
-    "question": "At the library, half of 18 is?",
-    "audio_prompt": "At the library, half of 18 is?",
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Half of 18 is 9.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-042",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during_sport_9_pairs_of_socks",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, 9 pairs of socks have how many socks?"
-    },
-    "question": "During sport, 9 pairs of socks have how many socks?",
-    "audio_prompt": "During sport, 9 pairs of socks have how many socks?",
-    "answers": [
-      {
-        "text": "19",
-        "is_correct": false
-      },
-      {
-        "text": "18",
-        "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-043",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_class_shop_what_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, what is double 10?"
-    },
-    "question": "At the class shop, what is double 10?",
-    "audio_prompt": "At the class shop, what is double 10?",
-    "answers": [
-      {
-        "text": "20",
-        "is_correct": true
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "22",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Double 10 means 10 + 10.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-044",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_half_of",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, half of 12 is?"
-    },
-    "question": "On the picnic rug, half of 12 is?",
-    "audio_prompt": "On the picnic rug, half of 12 is?",
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Half of 12 is 6.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-045",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_block_table_2_pairs",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, 2 pairs of socks have how many socks?"
-    },
-    "question": "At the block table, 2 pairs of socks have how many socks?",
-    "audio_prompt": "At the block table, 2 pairs of socks have how many socks?",
-    "answers": [
-      {
-        "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "4",
-        "is_correct": true
-      },
-      {
-        "text": "2",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-046",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_what_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, what is double 3?"
-    },
-    "question": "In the lunch area, what is double 3?",
-    "audio_prompt": "In the lunch area, what is double 3?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Double 3 means 3 + 3.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-047",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "at_the_science_table_half_of",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, half of 18 is?"
-    },
-    "question": "At the science table, half of 18 is?",
-    "audio_prompt": "At the science table, half of 18 is?",
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Half of 18 is 9.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2A03-P-048",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2A03",
-    "bank": "practice",
-    "skill": "during_a_card_game_5_pairs",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, 5 pairs of socks have how many socks?"
-    },
-    "question": "During a card game, 5 pairs of socks have how many socks?",
-    "audio_prompt": "During a card game, 5 pairs of socks have how many socks?",
-    "answers": [
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": true
-      },
-      {
-        "text": "5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each pair has 2 socks, so count by twos.",
-      "hint": "Use the information in the question to check your answer."
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1669,32 +1013,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "multiply_by_two",
+    "skill": "twos_recall",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-001",
-      "alt_text": "At the doubles station: 6 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the doubles station, how many counters are in 6 pairs?",
-    "audio_prompt": "At the doubles station, how many counters are in 6 pairs?",
+    "question": "Find 8 × 2.",
+    "audio_prompt": "Find 8 × 2.",
     "answers": [
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "12",
+        "text": "16",
         "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "6 pairs means 6 groups of 2, so there are 12.",
-      "hint": "Skip-count by twos 6 times."
+      "summary": "Eight groups of 2 make 16.",
+      "hint": "Double 8."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1703,32 +1055,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "double_number",
+    "skill": "pairs_context",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-002",
-      "alt_text": "At the doubles station: Two equal groups of 8 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the doubles station, what is double 8?",
-    "audio_prompt": "At the doubles station, what is double 8?",
+    "question": "Six bicycles have how many wheels altogether?",
+    "audio_prompt": "Six bicycles have how many wheels altogether?",
     "answers": [
-      {
-        "text": "16",
-        "is_correct": true
-      },
       {
         "text": "8",
         "is_correct": false
       },
       {
-        "text": "15",
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "36",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Double means two equal groups. 8 + 8 = 16.",
-      "hint": "Say the number twice, then add."
+      "summary": "Six pairs of wheels make 12.",
+      "hint": "Count two wheels per bicycle."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1737,32 +1097,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "halve_even_number",
+    "skill": "array_twos",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-003",
-      "alt_text": "At the doubles station: 16 counters shared equally between 2 groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the doubles station, what is half of 16?",
-    "audio_prompt": "At the doubles station, what is half of 16?",
+    "question": "An array has 9 rows with 2 stars in each row. What is the total?",
+    "audio_prompt": "An array has 9 rows with 2 stars in each row. What is the total?",
     "answers": [
       {
-        "text": "14",
+        "text": "11",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "18",
         "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Half means split 16 into 2 equal groups. Each group has 8.",
-      "hint": "Share one at a time into two groups."
+      "summary": "Nine equal rows of 2 contain 18 stars.",
+      "hint": "Use 9×2."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1771,32 +1139,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "connect_twos_and_division",
+    "skill": "missing_factor",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-004",
-      "alt_text": "At the doubles station: A fact family showing 6, 2 and 12."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the doubles station, which division fact matches 6 × 2 = 12?",
-    "audio_prompt": "At the doubles station, which division fact matches 6 × 2 = 12?",
+    "question": "Complete: __ × 2 = 20.",
+    "audio_prompt": "Complete: __ × 2 = 20.",
     "answers": [
       {
-        "text": "12 ÷ 6 = 6",
-        "is_correct": false
-      },
-      {
-        "text": "12 − 2 = 10",
-        "is_correct": false
-      },
-      {
-        "text": "12 ÷ 2 = 6",
+        "text": "10",
         "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "12 shared into 2 equal groups gives 6 in each group.",
-      "hint": "Use the total 12, then divide it into 2 groups."
+      "summary": "Ten pairs make 20.",
+      "hint": "Halve 20."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1805,32 +1181,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "skip_count_by_two",
+    "skill": "halve",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-005",
-      "alt_text": "At the doubles station: An even-number sequence ending with a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the doubles station, count by twos: 8, 10, 12, 14, __. What comes next?",
-    "audio_prompt": "At the doubles station, count by twos: 8, 10, 12, 14, __. What comes next?",
+    "question": "What is half of 14?",
+    "audio_prompt": "What is half of 14?",
     "answers": [
       {
-        "text": "16",
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
         "is_correct": true
       },
       {
-        "text": "15",
-        "is_correct": false
-      },
-      {
-        "text": "18",
+        "text": "8",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Counting by twos adds 2. After 14 comes 16.",
-      "hint": "Say the next even number."
+      "summary": "Fourteen splits into 7 and 7.",
+      "hint": "Use the double of 7."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1839,32 +1223,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "make_pairs",
+    "skill": "divide_two",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-006",
-      "alt_text": "At the doubles station: 16 socks arranged as 8 pairs."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the doubles station, 16 socks make pairs. How many pairs are there?",
-    "audio_prompt": "At the doubles station, 16 socks make pairs. How many pairs are there?",
+    "question": "Find 18 ÷ 2.",
+    "audio_prompt": "Find 18 ÷ 2.",
     "answers": [
       {
-        "text": "16",
-        "is_correct": false
-      },
-      {
         "text": "8",
-        "is_correct": true
+        "is_correct": false
       },
       {
         "text": "10",
         "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Each pair uses 2 socks, so 16 ÷ 2 = 8 pairs.",
-      "hint": "Circle the socks two at a time."
+      "summary": "Eighteen shared into 2 equal groups gives 9.",
+      "hint": "Use 9×2=18."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1873,32 +1265,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "solve_twos_context",
+    "skill": "count_pairs",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-007",
-      "alt_text": "At the doubles station: 7 bikes represented by groups of 2 wheels."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the doubles station, there are 7 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audio_prompt": "At the doubles station, there are 7 bikes. Each bike has 2 wheels. How many wheels are there?",
+    "question": "How many pairs are in 16 objects?",
+    "audio_prompt": "How many pairs are in 16 objects?",
     "answers": [
       {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": false
+        "text": "8",
+        "is_correct": true
       },
       {
         "text": "14",
-        "is_correct": true
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "7 groups of 2 wheels make 14 wheels.",
-      "hint": "Draw 2 wheels for each bike, then count them."
+      "summary": "Sixteen contains eight groups of 2.",
+      "hint": "Count by twos."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1907,32 +1307,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "recognise_equal_halves",
+    "skill": "share_between_two",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-008",
-      "alt_text": "At the doubles station: 18 counters shown in two equal groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the doubles station, which shows half of 18?",
-    "audio_prompt": "At the doubles station, which shows half of 18?",
+    "question": "Twelve cards are shared equally between 2 players. How many cards each?",
+    "audio_prompt": "Twelve cards are shared equally between 2 players. How many cards each?",
     "answers": [
       {
-        "text": "9 and 9",
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "8 and 10",
-        "is_correct": false
-      },
-      {
-        "text": "18 and 18",
+        "text": "24",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Two equal parts of 9 make 18.",
-      "hint": "Halves must be equal and join to make the whole."
+      "summary": "Half of 12 is 6.",
+      "hint": "Make two equal shares."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1941,32 +1349,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "multiply_by_two",
+    "skill": "related_fact",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-009",
-      "alt_text": "During the pair challenge: 7 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the pair challenge, how many counters are in 7 pairs?",
-    "audio_prompt": "During the pair challenge, how many counters are in 7 pairs?",
+    "question": "Which division fact is related to 7 × 2 = 14?",
+    "audio_prompt": "Which division fact is related to 7 × 2 = 14?",
     "answers": [
       {
-        "text": "7",
+        "text": "14 ÷ 7 = 7",
         "is_correct": false
       },
       {
-        "text": "14",
+        "text": "7 ÷ 2 = 14",
+        "is_correct": false
+      },
+      {
+        "text": "14 ÷ 2 = 7",
         "is_correct": true
-      },
-      {
-        "text": "16",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "7 pairs means 7 groups of 2, so there are 14.",
-      "hint": "Skip-count by twos 7 times."
+      "summary": "Fourteen divided into pairs gives 7 pairs.",
+      "hint": "Use the same three numbers."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1975,32 +1391,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "double_number",
+    "skill": "missing_total",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-010",
-      "alt_text": "During the pair challenge: Two equal groups of 9 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the pair challenge, what is double 9?",
-    "audio_prompt": "During the pair challenge, what is double 9?",
+    "question": "Complete: __ ÷ 2 = 8.",
+    "audio_prompt": "Complete: __ ÷ 2 = 8.",
     "answers": [
       {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "18",
+        "text": "16",
         "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Double means two equal groups. 9 + 9 = 18.",
-      "hint": "Say the number twice, then add."
+      "summary": "Double 8 to recover the total 16.",
+      "hint": "Division by 2 is halving."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2009,32 +1433,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "halve_even_number",
+    "skill": "model_choice",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-011",
-      "alt_text": "During the pair challenge: 18 counters shared equally between 2 groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the pair challenge, what is half of 18?",
-    "audio_prompt": "During the pair challenge, what is half of 18?",
+    "question": "Which model correctly shows 5 × 2?",
+    "audio_prompt": "Which model correctly shows 5 × 2?",
     "answers": [
       {
-        "text": "9",
+        "text": "Two rows with 5 and 6 counters",
+        "is_correct": false
+      },
+      {
+        "text": "Five rows with 2 counters in each",
         "is_correct": true
       },
       {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "10",
+        "text": "One row with 7 counters",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Half means split 18 into 2 equal groups. Each group has 9.",
-      "hint": "Share one at a time into two groups."
+      "summary": "Multiplication requires five equal groups of 2.",
+      "hint": "Check both group count and size."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2043,32 +1475,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "connect_twos_and_division",
+    "skill": "interpret_division",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-012",
-      "alt_text": "During the pair challenge: A fact family showing 7, 2 and 14."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the pair challenge, which division fact matches 7 × 2 = 14?",
-    "audio_prompt": "During the pair challenge, which division fact matches 7 × 2 = 14?",
+    "question": "Ten mittens are placed into pairs. What does 10 ÷ 2 = 5 tell us?",
+    "audio_prompt": "Ten mittens are placed into pairs. What does 10 ÷ 2 = 5 tell us?",
     "answers": [
       {
-        "text": "14 ÷ 7 = 7",
+        "text": "Each pair has 5 mittens",
         "is_correct": false
       },
       {
-        "text": "14 ÷ 2 = 7",
+        "text": "There are 2 mittens left",
+        "is_correct": false
+      },
+      {
+        "text": "There are 5 pairs",
         "is_correct": true
-      },
-      {
-        "text": "14 − 2 = 12",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "14 shared into 2 equal groups gives 7 in each group.",
-      "hint": "Use the total 14, then divide it into 2 groups."
+      "summary": "The quotient counts complete groups of 2.",
+      "hint": "State what is being counted."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2077,32 +1517,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "skip_count_by_two",
+    "skill": "inverse_check",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-013",
-      "alt_text": "During the pair challenge: An even-number sequence ending with a blank."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the pair challenge, count by twos: 10, 12, 14, 16, __. What comes next?",
-    "audio_prompt": "During the pair challenge, count by twos: 10, 12, 14, 16, __. What comes next?",
+    "question": "A student says 20 ÷ 2 = 12. Which check corrects the answer?",
+    "audio_prompt": "A student says 20 ÷ 2 = 12. Which check corrects the answer?",
     "answers": [
       {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "20",
-        "is_correct": false
-      },
-      {
-        "text": "18",
+        "text": "2 × 10 = 20, so the quotient is 10",
         "is_correct": true
+      },
+      {
+        "text": "12 + 2 = 14",
+        "is_correct": false
+      },
+      {
+        "text": "20 − 2 = 18",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Counting by twos adds 2. After 16 comes 18.",
-      "hint": "Say the next even number."
+      "summary": "The related multiplication fact identifies 10 as the missing factor.",
+      "hint": "Multiply the proposed quotient by 2."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2111,32 +1559,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "make_pairs",
+    "skill": "compare_pairs",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-014",
-      "alt_text": "During the pair challenge: 18 socks arranged as 9 pairs."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the pair challenge, 18 socks make pairs. How many pairs are there?",
-    "audio_prompt": "During the pair challenge, 18 socks make pairs. How many pairs are there?",
+    "question": "A box has 4 pairs and another has 9 pairs. How many more objects are in the second box?",
+    "audio_prompt": "A box has 4 pairs and another has 9 pairs. How many more objects are in the second box?",
     "answers": [
       {
-        "text": "9",
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "10",
         "is_correct": true
       },
       {
-        "text": "18",
-        "is_correct": false
-      },
-      {
-        "text": "11",
+        "text": "13",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Each pair uses 2 socks, so 18 ÷ 2 = 9 pairs.",
-      "hint": "Circle the socks two at a time."
+      "summary": "The second has five extra pairs; five groups of 2 make 10.",
+      "hint": "Compare pairs, then convert to objects."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2145,32 +1601,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "solve_twos_context",
+    "skill": "reason_halving",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-015",
-      "alt_text": "During the pair challenge: 8 bikes represented by groups of 2 wheels."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the pair challenge, there are 8 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audio_prompt": "During the pair challenge, there are 8 bikes. Each bike has 2 wheels. How many wheels are there?",
+    "question": "Why must the two groups in 16 ÷ 2 each contain 8?",
+    "audio_prompt": "Why must the two groups in 16 ÷ 2 each contain 8?",
     "answers": [
       {
-        "text": "8",
+        "text": "One group may have 7 and the other 9",
         "is_correct": false
       },
       {
-        "text": "16",
+        "text": "Division by 2 means remove 2",
+        "is_correct": false
+      },
+      {
+        "text": "Eight and eight are equal and total 16",
         "is_correct": true
-      },
-      {
-        "text": "17",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "8 groups of 2 wheels make 16 wheels.",
-      "hint": "Draw 2 wheels for each bike, then count them."
+      "summary": "Equal sharing requires equal groups whose total is 16.",
+      "hint": "Check equality and total."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2179,32 +1643,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
-    "skill": "recognise_equal_halves",
+    "skill": "connect_operations",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-016",
-      "alt_text": "During the pair challenge: 20 counters shown in two equal groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the pair challenge, which shows half of 20?",
-    "audio_prompt": "During the pair challenge, which shows half of 20?",
+    "question": "Which statement correctly links doubling and halving?",
+    "audio_prompt": "Which statement correctly links doubling and halving?",
     "answers": [
       {
-        "text": "9 and 11",
-        "is_correct": false
-      },
-      {
-        "text": "20 and 20",
-        "is_correct": false
-      },
-      {
-        "text": "10 and 10",
+        "text": "Doubling 9 gives 18, and halving 18 returns 9",
         "is_correct": true
+      },
+      {
+        "text": "Doubling 9 gives 11, and halving 11 returns 9",
+        "is_correct": false
+      },
+      {
+        "text": "Halving 18 gives 16",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Two equal parts of 10 make 20.",
-      "hint": "Halves must be equal and join to make the whole."
+      "summary": "The operations undo each other for this twos fact.",
+      "hint": "Follow both operations in order."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
     }
   }
 ]

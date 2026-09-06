@@ -4,28 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-001",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "multiply by two",
+    "skill": "twos recall",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, how many counters are in 6 pairs?",
-    "audioPrompt": "At the doubles station, how many counters are in 6 pairs?",
-    "visual": "At the doubles station: 6 equal groups with 2 counters in each group.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 6 equal groups with 2 counters in each group.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-001\"></use></svg>",
+    "question": "Find 8 × 2.",
+    "audioPrompt": "Find 8 × 2.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-001",
-      "alt_text": "At the doubles station: 6 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6",
-      "14",
-      "12"
+      "16",
+      "10",
+      "18"
     ],
-    "correct": 2,
-    "explanation": "6 pairs means 6 groups of 2, so there are 12.\nHint: Skip-count by twos 6 times.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Eight groups of 2 make 16.\nHint: Double 8.",
     "structuredExplanation": {
-      "summary": "6 pairs means 6 groups of 2, so there are 12.",
-      "hint": "Skip-count by twos 6 times."
+      "summary": "Eight groups of 2 make 16.",
+      "hint": "Double 8."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-002",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "double number",
+    "skill": "pairs context",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, what is double 8?",
-    "audioPrompt": "At the doubles station, what is double 8?",
-    "visual": "At the doubles station: Two equal groups of 8 counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: Two equal groups of 8 counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-002\"></use></svg>",
+    "question": "Six bicycles have how many wheels altogether?",
+    "audioPrompt": "Six bicycles have how many wheels altogether?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-002",
-      "alt_text": "At the doubles station: Two equal groups of 8 counters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "16",
       "8",
-      "15"
+      "12",
+      "36"
     ],
-    "correct": 0,
-    "explanation": "Double means two equal groups. 8 + 8 = 16.\nHint: Say the number twice, then add.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Six pairs of wheels make 12.\nHint: Count two wheels per bicycle.",
     "structuredExplanation": {
-      "summary": "Double means two equal groups. 8 + 8 = 16.",
-      "hint": "Say the number twice, then add."
+      "summary": "Six pairs of wheels make 12.",
+      "hint": "Count two wheels per bicycle."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-003",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "halve even number",
+    "skill": "array twos",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, what is half of 16?",
-    "audioPrompt": "At the doubles station, what is half of 16?",
-    "visual": "At the doubles station: 16 counters shared equally between 2 groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 16 counters shared equally between 2 groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-003\"></use></svg>",
+    "question": "An array has 9 rows with 2 stars in each row. What is the total?",
+    "audioPrompt": "An array has 9 rows with 2 stars in each row. What is the total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-003",
-      "alt_text": "At the doubles station: 16 counters shared equally between 2 groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "14",
-      "8",
-      "9"
+      "11",
+      "16",
+      "18"
     ],
-    "correct": 1,
-    "explanation": "Half means split 16 into 2 equal groups. Each group has 8.\nHint: Share one at a time into two groups.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Nine equal rows of 2 contain 18 stars.\nHint: Use 9×2.",
     "structuredExplanation": {
-      "summary": "Half means split 16 into 2 equal groups. Each group has 8.",
-      "hint": "Share one at a time into two groups."
+      "summary": "Nine equal rows of 2 contain 18 stars.",
+      "hint": "Use 9×2."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-004",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "connect twos and division",
+    "skill": "missing factor",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, which division fact matches 6 × 2 = 12?",
-    "audioPrompt": "At the doubles station, which division fact matches 6 × 2 = 12?",
-    "visual": "At the doubles station: A fact family showing 6, 2 and 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: A fact family showing 6, 2 and 12.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-004\"></use></svg>",
+    "question": "Complete: __ × 2 = 20.",
+    "audioPrompt": "Complete: __ × 2 = 20.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-004",
-      "alt_text": "At the doubles station: A fact family showing 6, 2 and 12."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "12 ÷ 6 = 6",
-      "12 − 2 = 10",
-      "12 ÷ 2 = 6"
+      "10",
+      "9",
+      "18"
     ],
-    "correct": 2,
-    "explanation": "12 shared into 2 equal groups gives 6 in each group.\nHint: Use the total 12, then divide it into 2 groups.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Ten pairs make 20.\nHint: Halve 20.",
     "structuredExplanation": {
-      "summary": "12 shared into 2 equal groups gives 6 in each group.",
-      "hint": "Use the total 12, then divide it into 2 groups."
+      "summary": "Ten pairs make 20.",
+      "hint": "Halve 20."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-005",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "skip count by two",
+    "skill": "halve",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, count by twos: 8, 10, 12, 14, __. What comes next?",
-    "audioPrompt": "At the doubles station, count by twos: 8, 10, 12, 14, __. What comes next?",
-    "visual": "At the doubles station: An even-number sequence ending with a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: An even-number sequence ending with a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-005\"></use></svg>",
+    "question": "What is half of 14?",
+    "audioPrompt": "What is half of 14?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-005",
-      "alt_text": "At the doubles station: An even-number sequence ending with a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "16",
-      "15",
-      "18"
+      "6",
+      "7",
+      "8"
     ],
-    "correct": 0,
-    "explanation": "Counting by twos adds 2. After 14 comes 16.\nHint: Say the next even number.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Fourteen splits into 7 and 7.\nHint: Use the double of 7.",
     "structuredExplanation": {
-      "summary": "Counting by twos adds 2. After 14 comes 16.",
-      "hint": "Say the next even number."
+      "summary": "Fourteen splits into 7 and 7.",
+      "hint": "Use the double of 7."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-006",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "make pairs",
+    "skill": "divide two",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, 16 socks make pairs. How many pairs are there?",
-    "audioPrompt": "At the doubles station, 16 socks make pairs. How many pairs are there?",
-    "visual": "At the doubles station: 16 socks arranged as 8 pairs.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 16 socks arranged as 8 pairs.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-006\"></use></svg>",
+    "question": "Find 18 ÷ 2.",
+    "audioPrompt": "Find 18 ÷ 2.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-006",
-      "alt_text": "At the doubles station: 16 socks arranged as 8 pairs."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "16",
       "8",
-      "10"
+      "10",
+      "9"
     ],
-    "correct": 1,
-    "explanation": "Each pair uses 2 socks, so 16 ÷ 2 = 8 pairs.\nHint: Circle the socks two at a time.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Eighteen shared into 2 equal groups gives 9.\nHint: Use 9×2=18.",
     "structuredExplanation": {
-      "summary": "Each pair uses 2 socks, so 16 ÷ 2 = 8 pairs.",
-      "hint": "Circle the socks two at a time."
+      "summary": "Eighteen shared into 2 equal groups gives 9.",
+      "hint": "Use 9×2=18."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-007",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "solve twos context",
+    "skill": "count pairs",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, there are 7 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audioPrompt": "At the doubles station, there are 7 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "visual": "At the doubles station: 7 bikes represented by groups of 2 wheels.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 7 bikes represented by groups of 2 wheels.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-007\"></use></svg>",
+    "question": "How many pairs are in 16 objects?",
+    "audioPrompt": "How many pairs are in 16 objects?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-007",
-      "alt_text": "At the doubles station: 7 bikes represented by groups of 2 wheels."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "7",
-      "15",
-      "14"
+      "8",
+      "14",
+      "32"
     ],
-    "correct": 2,
-    "explanation": "7 groups of 2 wheels make 14 wheels.\nHint: Draw 2 wheels for each bike, then count them.",
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Sixteen contains eight groups of 2.\nHint: Count by twos.",
     "structuredExplanation": {
-      "summary": "7 groups of 2 wheels make 14 wheels.",
-      "hint": "Draw 2 wheels for each bike, then count them."
+      "summary": "Sixteen contains eight groups of 2.",
+      "hint": "Count by twos."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-008",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "recognise equal halves",
+    "skill": "share between two",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, which shows half of 18?",
-    "audioPrompt": "At the doubles station, which shows half of 18?",
-    "visual": "At the doubles station: 18 counters shown in two equal groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 18 counters shown in two equal groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-008\"></use></svg>",
+    "question": "Twelve cards are shared equally between 2 players. How many cards each?",
+    "audioPrompt": "Twelve cards are shared equally between 2 players. How many cards each?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-008",
-      "alt_text": "At the doubles station: 18 counters shown in two equal groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "9 and 9",
-      "8 and 10",
-      "18 and 18"
+      "10",
+      "6",
+      "24"
     ],
-    "correct": 0,
-    "explanation": "Two equal parts of 9 make 18.\nHint: Halves must be equal and join to make the whole.",
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Half of 12 is 6.\nHint: Make two equal shares.",
     "structuredExplanation": {
-      "summary": "Two equal parts of 9 make 18.",
-      "hint": "Halves must be equal and join to make the whole."
+      "summary": "Half of 12 is 6.",
+      "hint": "Make two equal shares."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-009",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "multiply by two",
+    "skill": "related fact",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, how many counters are in 7 pairs?",
-    "audioPrompt": "During the pair challenge, how many counters are in 7 pairs?",
-    "visual": "During the pair challenge: 7 equal groups with 2 counters in each group.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 7 equal groups with 2 counters in each group.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-009\"></use></svg>",
+    "question": "Which division fact is related to 7 × 2 = 14?",
+    "audioPrompt": "Which division fact is related to 7 × 2 = 14?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-009",
-      "alt_text": "During the pair challenge: 7 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "7",
-      "14",
-      "16"
+      "14 ÷ 7 = 7",
+      "7 ÷ 2 = 14",
+      "14 ÷ 2 = 7"
     ],
-    "correct": 1,
-    "explanation": "7 pairs means 7 groups of 2, so there are 14.\nHint: Skip-count by twos 7 times.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Fourteen divided into pairs gives 7 pairs.\nHint: Use the same three numbers.",
     "structuredExplanation": {
-      "summary": "7 pairs means 7 groups of 2, so there are 14.",
-      "hint": "Skip-count by twos 7 times."
+      "summary": "Fourteen divided into pairs gives 7 pairs.",
+      "hint": "Use the same three numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-010",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "double number",
+    "skill": "missing total",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, what is double 9?",
-    "audioPrompt": "During the pair challenge, what is double 9?",
-    "visual": "During the pair challenge: Two equal groups of 9 counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: Two equal groups of 9 counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-010\"></use></svg>",
+    "question": "Complete: __ ÷ 2 = 8.",
+    "audioPrompt": "Complete: __ ÷ 2 = 8.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-010",
-      "alt_text": "During the pair challenge: Two equal groups of 9 counters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "9",
-      "17",
-      "18"
+      "16",
+      "10",
+      "4"
     ],
-    "correct": 2,
-    "explanation": "Double means two equal groups. 9 + 9 = 18.\nHint: Say the number twice, then add.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Double 8 to recover the total 16.\nHint: Division by 2 is halving.",
     "structuredExplanation": {
-      "summary": "Double means two equal groups. 9 + 9 = 18.",
-      "hint": "Say the number twice, then add."
+      "summary": "Double 8 to recover the total 16.",
+      "hint": "Division by 2 is halving."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-011",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "halve even number",
+    "skill": "model choice",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, what is half of 18?",
-    "audioPrompt": "During the pair challenge, what is half of 18?",
-    "visual": "During the pair challenge: 18 counters shared equally between 2 groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 18 counters shared equally between 2 groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-011\"></use></svg>",
+    "question": "Which model correctly shows 5 × 2?",
+    "audioPrompt": "Which model correctly shows 5 × 2?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-011",
-      "alt_text": "During the pair challenge: 18 counters shared equally between 2 groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "9",
-      "16",
-      "10"
+      "Two rows with 5 and 6 counters",
+      "Five rows with 2 counters in each",
+      "One row with 7 counters"
     ],
-    "correct": 0,
-    "explanation": "Half means split 18 into 2 equal groups. Each group has 9.\nHint: Share one at a time into two groups.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Multiplication requires five equal groups of 2.\nHint: Check both group count and size.",
     "structuredExplanation": {
-      "summary": "Half means split 18 into 2 equal groups. Each group has 9.",
-      "hint": "Share one at a time into two groups."
+      "summary": "Multiplication requires five equal groups of 2.",
+      "hint": "Check both group count and size."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-012",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "connect twos and division",
+    "skill": "interpret division",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, which division fact matches 7 × 2 = 14?",
-    "audioPrompt": "During the pair challenge, which division fact matches 7 × 2 = 14?",
-    "visual": "During the pair challenge: A fact family showing 7, 2 and 14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: A fact family showing 7, 2 and 14.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-012\"></use></svg>",
+    "question": "Ten mittens are placed into pairs. What does 10 ÷ 2 = 5 tell us?",
+    "audioPrompt": "Ten mittens are placed into pairs. What does 10 ÷ 2 = 5 tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-012",
-      "alt_text": "During the pair challenge: A fact family showing 7, 2 and 14."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "14 ÷ 7 = 7",
-      "14 ÷ 2 = 7",
-      "14 − 2 = 12"
+      "Each pair has 5 mittens",
+      "There are 2 mittens left",
+      "There are 5 pairs"
     ],
-    "correct": 1,
-    "explanation": "14 shared into 2 equal groups gives 7 in each group.\nHint: Use the total 14, then divide it into 2 groups.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The quotient counts complete groups of 2.\nHint: State what is being counted.",
     "structuredExplanation": {
-      "summary": "14 shared into 2 equal groups gives 7 in each group.",
-      "hint": "Use the total 14, then divide it into 2 groups."
+      "summary": "The quotient counts complete groups of 2.",
+      "hint": "State what is being counted."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-013",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "skip count by two",
+    "skill": "inverse check",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, count by twos: 10, 12, 14, 16, __. What comes next?",
-    "audioPrompt": "During the pair challenge, count by twos: 10, 12, 14, 16, __. What comes next?",
-    "visual": "During the pair challenge: An even-number sequence ending with a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: An even-number sequence ending with a blank.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-013\"></use></svg>",
+    "question": "A student says 20 ÷ 2 = 12. Which check corrects the answer?",
+    "audioPrompt": "A student says 20 ÷ 2 = 12. Which check corrects the answer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-013",
-      "alt_text": "During the pair challenge: An even-number sequence ending with a blank."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "17",
-      "20",
-      "18"
+      "2 × 10 = 20, so the quotient is 10",
+      "12 + 2 = 14",
+      "20 − 2 = 18"
     ],
-    "correct": 2,
-    "explanation": "Counting by twos adds 2. After 16 comes 18.\nHint: Say the next even number.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "The related multiplication fact identifies 10 as the missing factor.\nHint: Multiply the proposed quotient by 2.",
     "structuredExplanation": {
-      "summary": "Counting by twos adds 2. After 16 comes 18.",
-      "hint": "Say the next even number."
+      "summary": "The related multiplication fact identifies 10 as the missing factor.",
+      "hint": "Multiply the proposed quotient by 2."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-014",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "make pairs",
+    "skill": "compare pairs",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, 18 socks make pairs. How many pairs are there?",
-    "audioPrompt": "During the pair challenge, 18 socks make pairs. How many pairs are there?",
-    "visual": "During the pair challenge: 18 socks arranged as 9 pairs.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 18 socks arranged as 9 pairs.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-014\"></use></svg>",
+    "question": "A box has 4 pairs and another has 9 pairs. How many more objects are in the second box?",
+    "audioPrompt": "A box has 4 pairs and another has 9 pairs. How many more objects are in the second box?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-014",
-      "alt_text": "During the pair challenge: 18 socks arranged as 9 pairs."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "9",
-      "18",
-      "11"
+      "5",
+      "10",
+      "13"
     ],
-    "correct": 0,
-    "explanation": "Each pair uses 2 socks, so 18 ÷ 2 = 9 pairs.\nHint: Circle the socks two at a time.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The second has five extra pairs; five groups of 2 make 10.\nHint: Compare pairs, then convert to objects.",
     "structuredExplanation": {
-      "summary": "Each pair uses 2 socks, so 18 ÷ 2 = 9 pairs.",
-      "hint": "Circle the socks two at a time."
+      "summary": "The second has five extra pairs; five groups of 2 make 10.",
+      "hint": "Compare pairs, then convert to objects."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +438,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-015",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "solve twos context",
+    "skill": "reason halving",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, there are 8 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audioPrompt": "During the pair challenge, there are 8 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "visual": "During the pair challenge: 8 bikes represented by groups of 2 wheels.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 8 bikes represented by groups of 2 wheels.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-015\"></use></svg>",
+    "question": "Why must the two groups in 16 ÷ 2 each contain 8?",
+    "audioPrompt": "Why must the two groups in 16 ÷ 2 each contain 8?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-015",
-      "alt_text": "During the pair challenge: 8 bikes represented by groups of 2 wheels."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "8",
-      "16",
-      "17"
+      "One group may have 7 and the other 9",
+      "Division by 2 means remove 2",
+      "Eight and eight are equal and total 16"
     ],
-    "correct": 1,
-    "explanation": "8 groups of 2 wheels make 16 wheels.\nHint: Draw 2 wheels for each bike, then count them.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Equal sharing requires equal groups whose total is 16.\nHint: Check equality and total.",
     "structuredExplanation": {
-      "summary": "8 groups of 2 wheels make 16 wheels.",
-      "hint": "Draw 2 wheels for each bike, then count them."
+      "summary": "Equal sharing requires equal groups whose total is 16.",
+      "hint": "Check equality and total."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +469,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2a03-t-016",
     "curriculumCode": "AC9M2A03",
     "bank": "test",
-    "skill": "recognise equal halves",
+    "skill": "connect operations",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, which shows half of 20?",
-    "audioPrompt": "During the pair challenge, which shows half of 20?",
-    "visual": "During the pair challenge: 20 counters shown in two equal groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 20 counters shown in two equal groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-016\"></use></svg>",
+    "question": "Which statement correctly links doubling and halving?",
+    "audioPrompt": "Which statement correctly links doubling and halving?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-016",
-      "alt_text": "During the pair challenge: 20 counters shown in two equal groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "9 and 11",
-      "20 and 20",
-      "10 and 10"
+      "Doubling 9 gives 18, and halving 18 returns 9",
+      "Doubling 9 gives 11, and halving 11 returns 9",
+      "Halving 18 gives 16"
     ],
-    "correct": 2,
-    "explanation": "Two equal parts of 10 make 20.\nHint: Halves must be equal and join to make the whole.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "The operations undo each other for this twos fact.\nHint: Follow both operations in order.",
     "structuredExplanation": {
-      "summary": "Two equal parts of 10 make 20.",
-      "hint": "Halves must be equal and join to make the whole."
+      "summary": "The operations undo each other for this twos fact.",
+      "hint": "Follow both operations in order."
     },
     "qualitySchema": "production-v1"
   }
