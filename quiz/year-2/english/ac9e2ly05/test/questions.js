@@ -4,498 +4,640 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly05-t-001",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test connect to knowledge direct",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets?",
-    "audioPrompt": "A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audioPrompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Students wear jackets for every sport played on an oval.",
-      "Frost forms in very cold conditions.",
-      "Frost usually forms on the hottest, sunniest mornings."
+      {
+        "text": "Mira opened the box.",
+        "is_correct": true
+      },
+      {
+        "text": "Mira showed Dad.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira lost the shell.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Knowing frost signals cold conditions helps connect the two details.\nHint: Use relevant real-world knowledge that fits the text clue.",
-    "structuredExplanation": {
-      "summary": "Knowing frost signals cold conditions helps connect the two details.",
-      "hint": "Use relevant real-world knowledge that fits the text clue."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-002",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test revise prediction direct",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do?",
-    "audioPrompt": "At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audioPrompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Keep the shed prediction because a first prediction should not change.",
-      "Change the prediction to the roof because any new guess is a revision.",
-      "Change the prediction to fit the new clue."
+      {
+        "text": "Keep reading without thinking.",
+        "is_correct": false
+      },
+      {
+        "text": "Change every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread and self-correct the meaning.",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Readers revise predictions when later evidence points somewhere different.\nHint: A prediction should remain connected to the newest clues.",
-    "structuredExplanation": {
-      "summary": "Readers revise predictions when later evidence points somewhere different.",
-      "hint": "A prediction should remain connected to the newest clues."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-003",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test infer a cause direct",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred?",
-    "audioPrompt": "The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audioPrompt": "Liam packed a towel and sunscreen. Where might he be going?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "It is probably wet outside.",
-      "Someone probably spilled water on every coat inside.",
-      "It is probably hot and dry outside, so the windows fogged."
+      {
+        "text": "bed",
+        "is_correct": false
+      },
+      {
+        "text": "the beach",
+        "is_correct": true
+      },
+      {
+        "text": "the library",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 3,
-    "correct": 0,
-    "explanation": "Dripping coats, an umbrella and foggy windows together suggest wet weather.\nHint: Combine several clues to reach one reasonable idea.",
-    "structuredExplanation": {
-      "summary": "Dripping coats, an umbrella and foggy windows together suggest wet weather.",
-      "hint": "Combine several clues to reach one reasonable idea."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-004",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test main idea direct",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "A paragraph tells how roots hold a plant, take in water and store food. What is its main idea?",
-    "audioPrompt": "A paragraph tells how roots hold a plant, take in water and store food. What is its main idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "A summary should ___.",
+    "audioPrompt": "A summary should ___.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Roots take in water for a plant.",
-      "Roots do several important jobs for a plant.",
-      "Roots store food for a plant."
+      {
+        "text": "tell the main ideas briefly",
+        "is_correct": true
+      },
+      {
+        "text": "copy every word",
+        "is_correct": false
+      },
+      {
+        "text": "list only commas",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 4,
-    "correct": 1,
-    "explanation": "All supporting points explain useful jobs performed by roots.\nHint: Find the idea that covers every important sentence.",
-    "structuredExplanation": {
-      "summary": "All supporting points explain useful jobs performed by roots.",
-      "hint": "Find the idea that covers every important sentence."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-005",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test literal and inferred direct",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference?",
-    "audioPrompt": "The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audioPrompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Mika closed the window.",
-      "Mika pulled on a jumper.",
-      "Mika may be feeling cold."
+      {
+        "text": "Mira showed Dad.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira lost the shell.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira opened the box.",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 5,
-    "correct": 2,
-    "explanation": "Feeling cold is not stated but is supported by the two actions.\nHint: Choose an idea built from clues rather than copied directly.",
-    "structuredExplanation": {
-      "summary": "Feeling cold is not stated but is supported by the two actions.",
-      "hint": "Choose an idea built from clues rather than copied directly."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-006",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test monitor a word direct",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "A reader meets the word current in a passage about a river and thinks it means now. What should the reader check?",
-    "audioPrompt": "A reader meets the word current in a passage about a river and thinks it means now. What should the reader check?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audioPrompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "the nearby sentences to see which meaning fits",
-      "the familiar meaning now without rereading the sentence",
-      "the river picture alone without checking the nearby words"
+      {
+        "text": "Change every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread and self-correct the meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep reading without thinking.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 6,
-    "correct": 0,
-    "explanation": "Context can show that current means moving water in this river passage.\nHint: Words can have more than one meaning, so reread around the word.",
-    "structuredExplanation": {
-      "summary": "Context can show that current means moving water in this river passage.",
-      "hint": "Words can have more than one meaning, so reread around the word."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-007",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test visualise movement direct",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches?",
-    "audioPrompt": "Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audioPrompt": "Liam packed a towel and sunscreen. Where might he be going?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "a large ship resting on still sand",
-      "a small boat moving up and down on dark waves",
-      "a tiny boat tied inside a bright shed"
+      {
+        "text": "the beach",
+        "is_correct": true
+      },
+      {
+        "text": "the library",
+        "is_correct": false
+      },
+      {
+        "text": "bed",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 7,
-    "correct": 1,
-    "explanation": "Tiny, bobbed, dark and rolling build a specific mental image.\nHint: Use size, action and setting words together.",
-    "structuredExplanation": {
-      "summary": "Tiny, bobbed, dark and rolling build a specific mental image.",
-      "hint": "Use size, action and setting words together."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-008",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test question an inference direct",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference?",
-    "audioPrompt": "A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "A summary should ___.",
+    "audioPrompt": "A summary should ___.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "What words were written on the torn note?",
-      "When did another character first notice the tear?",
-      "Is there another clue showing Jaya touched or hid the note?"
+      {
+        "text": "copy every word",
+        "is_correct": false
+      },
+      {
+        "text": "list only commas",
+        "is_correct": false
+      },
+      {
+        "text": "tell the main ideas briefly",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 8,
-    "correct": 2,
-    "explanation": "The question seeks more relevant evidence before accepting the inference.\nHint: Ask for a clue that could support or challenge the inferred action.",
-    "structuredExplanation": {
-      "summary": "The question seeks more relevant evidence before accepting the inference.",
-      "hint": "Ask for a clue that could support or challenge the inferred action."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-009",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test connect to knowledge test-reason",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets? Which reason best supports the correct choice?",
-    "audioPrompt": "A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audioPrompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Knowing frost signals cold conditions helps connect the two details.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "Mira lost the shell.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira opened the box.",
+        "is_correct": true
+      },
+      {
+        "text": "Mira showed Dad.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 9,
-    "correct": 0,
-    "explanation": "Knowing frost signals cold conditions helps connect the two details.\nHint: Use relevant real-world knowledge that fits the text clue.",
-    "structuredExplanation": {
-      "summary": "Knowing frost signals cold conditions helps connect the two details.",
-      "hint": "Use relevant real-world knowledge that fits the text clue."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-010",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test revise prediction test-reason",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do? Which reason best supports the correct choice?",
-    "audioPrompt": "At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audioPrompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "Readers revise predictions when later evidence points somewhere different.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "Reread and self-correct the meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep reading without thinking.",
+        "is_correct": false
+      },
+      {
+        "text": "Change every word.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 10,
-    "correct": 1,
-    "explanation": "Readers revise predictions when later evidence points somewhere different.\nHint: A prediction should remain connected to the newest clues.",
-    "structuredExplanation": {
-      "summary": "Readers revise predictions when later evidence points somewhere different.",
-      "hint": "A prediction should remain connected to the newest clues."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-011",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test infer a cause test-reason",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred? Which reason best supports the correct choice?",
-    "audioPrompt": "The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audioPrompt": "Liam packed a towel and sunscreen. Where might he be going?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Dripping coats, an umbrella and foggy windows together suggest wet weather."
+      {
+        "text": "the library",
+        "is_correct": false
+      },
+      {
+        "text": "bed",
+        "is_correct": false
+      },
+      {
+        "text": "the beach",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 11,
-    "correct": 2,
-    "explanation": "Dripping coats, an umbrella and foggy windows together suggest wet weather.\nHint: Combine several clues to reach one reasonable idea.",
-    "structuredExplanation": {
-      "summary": "Dripping coats, an umbrella and foggy windows together suggest wet weather.",
-      "hint": "Combine several clues to reach one reasonable idea."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-012",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test main idea test-reason",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "A paragraph tells how roots hold a plant, take in water and store food. What is its main idea? Which reason best supports the correct choice?",
-    "audioPrompt": "A paragraph tells how roots hold a plant, take in water and store food. What is its main idea? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "A summary should ___.",
+    "audioPrompt": "A summary should ___.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "All supporting points explain useful jobs performed by roots.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "list only commas",
+        "is_correct": false
+      },
+      {
+        "text": "tell the main ideas briefly",
+        "is_correct": true
+      },
+      {
+        "text": "copy every word",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 12,
-    "correct": 0,
-    "explanation": "All supporting points explain useful jobs performed by roots.\nHint: Find the idea that covers every important sentence.",
-    "structuredExplanation": {
-      "summary": "All supporting points explain useful jobs performed by roots.",
-      "hint": "Find the idea that covers every important sentence."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-013",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test literal and inferred test-reason",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference? Which reason best supports the correct choice?",
-    "audioPrompt": "The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audioPrompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "Feeling cold is not stated but is supported by the two actions.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "Mira opened the box.",
+        "is_correct": true
+      },
+      {
+        "text": "Mira showed Dad.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira lost the shell.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 13,
-    "correct": 1,
-    "explanation": "Feeling cold is not stated but is supported by the two actions.\nHint: Choose an idea built from clues rather than copied directly.",
-    "structuredExplanation": {
-      "summary": "Feeling cold is not stated but is supported by the two actions.",
-      "hint": "Choose an idea built from clues rather than copied directly."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-014",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test monitor a word test-reason",
+    "skill": "reading comprehension",
     "printable": true,
-    "type": "single",
-    "question": "A reader meets the word current in a passage about a river and thinks it means now. What should the reader check? Which reason best supports the correct choice?",
-    "audioPrompt": "A reader meets the word current in a passage about a river and thinks it means now. What should the reader check? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audioPrompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Context can show that current means moving water in this river passage."
+      {
+        "text": "Keep reading without thinking.",
+        "is_correct": false
+      },
+      {
+        "text": "Change every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread and self-correct the meaning.",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 14,
-    "correct": 2,
-    "explanation": "Context can show that current means moving water in this river passage.\nHint: Words can have more than one meaning, so reread around the word.",
-    "structuredExplanation": {
-      "summary": "Context can show that current means moving water in this river passage.",
-      "hint": "Words can have more than one meaning, so reread around the word."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly05-t-015",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test visualise movement test-reason",
+    "skill": "explain concept",
     "printable": true,
-    "type": "single",
-    "question": "Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches? Which reason best supports the correct choice?",
-    "audioPrompt": "Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Write or say two sentences that show the main idea of AC9E2LY05. Use your own example.",
+    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY05. Use your own example.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Tiny, bobbed, dark and rolling build a specific mental image.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "Parent or teacher review needed",
+        "is_correct": true
+      },
+      {
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "A strong response explains the code idea and includes a correct original example for Comprehension Strategies.",
+    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "stretch",
     "sequencePriority": 15,
-    "correct": 0,
-    "explanation": "Tiny, bobbed, dark and rolling build a specific mental image.\nHint: Use size, action and setting words together.",
-    "structuredExplanation": {
-      "summary": "Tiny, bobbed, dark and rolling build a specific mental image.",
-      "hint": "Use size, action and setting words together."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "adult_review",
+    "gradingMode": "adult_review",
+    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Comprehension Strategies.",
+    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
+    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completionLabel": "Ready for adult review"
   },
   {
     "id": "ac9e2ly05-t-016",
     "curriculumCode": "AC9E2LY05",
     "bank": "test",
-    "skill": "test question an inference test-reason",
+    "skill": "apply concept",
     "printable": true,
-    "type": "single",
-    "question": "A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference? Which reason best supports the correct choice?",
-    "audioPrompt": "A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Create a short Year 2 example question for AC9E2LY05, then explain the answer.",
+    "audioPrompt": "Create a short Year 2 example question for AC9E2LY05, then explain the answer.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The question seeks more relevant evidence before accepting the inference.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "Parent or teacher review needed",
+        "is_correct": true
+      },
+      {
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "A strong response creates a clear example and explains why the answer works.",
+    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "stretch",
     "sequencePriority": 16,
-    "correct": 1,
-    "explanation": "The question seeks more relevant evidence before accepting the inference.\nHint: Ask for a clue that could support or challenge the inferred action.",
-    "structuredExplanation": {
-      "summary": "The question seeks more relevant evidence before accepting the inference.",
-      "hint": "Ask for a clue that could support or challenge the inferred action."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "adult_review",
+    "gradingMode": "adult_review",
+    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
+    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
+    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completionLabel": "Ready for adult review"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

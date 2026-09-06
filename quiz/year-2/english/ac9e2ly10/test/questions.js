@@ -4,498 +4,640 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly10-t-001",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test long vowel igh direct",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which word uses igh to represent a long i sound?",
-    "audioPrompt": "Which word uses igh to represent a long i sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Choose the word with the vowel digraph oa.",
+    "audioPrompt": "Choose the word with the vowel digraph oa.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "night",
-      "net",
-      "nit"
+      {
+        "text": "boat",
+        "is_correct": true
+      },
+      {
+        "text": "bat",
+        "is_correct": false
+      },
+      {
+        "text": "bite",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "The grapheme igh represents the long i sound in night.\nHint: Look for the three-letter vowel pattern in the middle.",
-    "structuredExplanation": {
-      "summary": "The grapheme igh represents the long i sound in night.",
-      "hint": "Look for the three-letter vowel pattern in the middle."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-002",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test long vowel ay direct",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which word means take part in a game on the oval?",
-    "audioPrompt": "Which word means take part in a game on the oval?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word has a silent letter?",
+    "audioPrompt": "Which word has a silent letter?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "ply",
-      "play",
-      "pla"
+      {
+        "text": "nest",
+        "is_correct": false
+      },
+      {
+        "text": "kite",
+        "is_correct": false
+      },
+      {
+        "text": "knee",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Play uses ay for the long a sound and fits the meaning.\nHint: Check the ending vowel pattern and the word meaning.",
-    "structuredExplanation": {
-      "summary": "Play uses ay for the long a sound and fits the meaning.",
-      "hint": "Check the ending vowel pattern and the word meaning."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-003",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test preserve spl cluster direct",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which spelling keeps all three starting sounds in splash?",
-    "audioPrompt": "Which spelling keeps all three starting sounds in splash?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word is a compound word?",
+    "audioPrompt": "Which word is a compound word?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "spash",
-      "plash",
-      "splash"
+      {
+        "text": "setting",
+        "is_correct": false
+      },
+      {
+        "text": "sunset",
+        "is_correct": true
+      },
+      {
+        "text": "sunny",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 3,
-    "correct": 2,
-    "explanation": "The starting cluster spl contains the s, p and l sounds.\nHint: Stretch the beginning before writing the rest of the word.",
-    "structuredExplanation": {
-      "summary": "The starting cluster spl contains the s, p and l sounds.",
-      "hint": "Stretch the beginning before writing the rest of the word."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-004",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test silent letter in lamb direct",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which letter is silent at the end of lamb?",
-    "audioPrompt": "Which letter is silent at the end of lamb?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Choose the word with final blend st.",
+    "audioPrompt": "Choose the word with final blend st.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "b",
-      "l",
-      "m"
+      {
+        "text": "nest",
+        "is_correct": true
+      },
+      {
+        "text": "net",
+        "is_correct": false
+      },
+      {
+        "text": "need",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 4,
-    "correct": 0,
-    "explanation": "Lamb is written with final mb, but the b is not pronounced.\nHint: Say the word and compare the final sound with the final letters.",
-    "structuredExplanation": {
-      "summary": "Lamb is written with final mb, but the b is not pronounced.",
-      "hint": "Say the word and compare the final sound with the final letters."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-005",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test compound playground direct",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which pair shows the meaningful parts of playground?",
-    "audioPrompt": "Which pair shows the meaningful parts of playground?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Choose the word with the vowel digraph oa.",
+    "audioPrompt": "Choose the word with the vowel digraph oa.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "pla + yground",
-      "play + ground",
-      "player + round"
+      {
+        "text": "bat",
+        "is_correct": false
+      },
+      {
+        "text": "bite",
+        "is_correct": false
+      },
+      {
+        "text": "boat",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 5,
-    "correct": 1,
-    "explanation": "Playground combines the complete words play and ground.\nHint: Find two smaller words whose meanings help explain the compound.",
-    "structuredExplanation": {
-      "summary": "Playground combines the complete words play and ground.",
-      "hint": "Find two smaller words whose meanings help explain the compound."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-006",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test multisyllable picnic direct",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which way helps read picnic by syllables?",
-    "audioPrompt": "Which way helps read picnic by syllables?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word has a silent letter?",
+    "audioPrompt": "Which word has a silent letter?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "p-i-c-n-i-c",
-      "pi-cni-c",
-      "pic-nic"
+      {
+        "text": "kite",
+        "is_correct": false
+      },
+      {
+        "text": "knee",
+        "is_correct": true
+      },
+      {
+        "text": "nest",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 6,
-    "correct": 2,
-    "explanation": "Picnic can be read in two spoken syllables, pic and nic.\nHint: Say the word and listen for its two natural beats.",
-    "structuredExplanation": {
-      "summary": "Picnic can be read in two spoken syllables, pic and nic.",
-      "hint": "Say the word and listen for its two natural beats."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-007",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test silent letters in light direct",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which letters are not pronounced separately in light?",
-    "audioPrompt": "Which letters are not pronounced separately in light?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word is a compound word?",
+    "audioPrompt": "Which word is a compound word?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "gh",
-      "l",
-      "t"
+      {
+        "text": "sunset",
+        "is_correct": true
+      },
+      {
+        "text": "sunny",
+        "is_correct": false
+      },
+      {
+        "text": "setting",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 7,
-    "correct": 0,
-    "explanation": "The pattern igh represents the long i sound, and gh has no separate sound.\nHint: Compare each written part with the sounds in the spoken word.",
-    "structuredExplanation": {
-      "summary": "The pattern igh represents the long i sound, and gh has no separate sound.",
-      "hint": "Compare each written part with the sounds in the spoken word."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-008",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test compound toothbrush direct",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which pair correctly builds toothbrush?",
-    "audioPrompt": "Which pair correctly builds toothbrush?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Choose the word with final blend st.",
+    "audioPrompt": "Choose the word with final blend st.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "toot + hbrush",
-      "tooth + brush",
-      "tooth + rush"
+      {
+        "text": "net",
+        "is_correct": false
+      },
+      {
+        "text": "need",
+        "is_correct": false
+      },
+      {
+        "text": "nest",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 8,
-    "correct": 1,
-    "explanation": "Toothbrush combines the complete meaningful words tooth and brush.\nHint: Look for two words that explain what the object is used with and what it is.",
-    "structuredExplanation": {
-      "summary": "Toothbrush combines the complete meaningful words tooth and brush.",
-      "hint": "Look for two words that explain what the object is used with and what it is."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-009",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test long vowel igh test-reason",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which word uses igh to represent a long i sound? Which reason best supports the correct choice?",
-    "audioPrompt": "Which word uses igh to represent a long i sound? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Choose the word with the vowel digraph oa.",
+    "audioPrompt": "Choose the word with the vowel digraph oa.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "The grapheme igh represents the long i sound in night."
+      {
+        "text": "bite",
+        "is_correct": false
+      },
+      {
+        "text": "boat",
+        "is_correct": true
+      },
+      {
+        "text": "bat",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 9,
-    "correct": 2,
-    "explanation": "The grapheme igh represents the long i sound in night.\nHint: Look for the three-letter vowel pattern in the middle.",
-    "structuredExplanation": {
-      "summary": "The grapheme igh represents the long i sound in night.",
-      "hint": "Look for the three-letter vowel pattern in the middle."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-010",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test long vowel ay test-reason",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which word means take part in a game on the oval? Which reason best supports the correct choice?",
-    "audioPrompt": "Which word means take part in a game on the oval? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word has a silent letter?",
+    "audioPrompt": "Which word has a silent letter?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Play uses ay for the long a sound and fits the meaning.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "knee",
+        "is_correct": true
+      },
+      {
+        "text": "nest",
+        "is_correct": false
+      },
+      {
+        "text": "kite",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 10,
-    "correct": 0,
-    "explanation": "Play uses ay for the long a sound and fits the meaning.\nHint: Check the ending vowel pattern and the word meaning.",
-    "structuredExplanation": {
-      "summary": "Play uses ay for the long a sound and fits the meaning.",
-      "hint": "Check the ending vowel pattern and the word meaning."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-011",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test preserve spl cluster test-reason",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which spelling keeps all three starting sounds in splash? Which reason best supports the correct choice?",
-    "audioPrompt": "Which spelling keeps all three starting sounds in splash? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word is a compound word?",
+    "audioPrompt": "Which word is a compound word?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The starting cluster spl contains the s, p and l sounds.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "sunny",
+        "is_correct": false
+      },
+      {
+        "text": "setting",
+        "is_correct": false
+      },
+      {
+        "text": "sunset",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 11,
-    "correct": 1,
-    "explanation": "The starting cluster spl contains the s, p and l sounds.\nHint: Stretch the beginning before writing the rest of the word.",
-    "structuredExplanation": {
-      "summary": "The starting cluster spl contains the s, p and l sounds.",
-      "hint": "Stretch the beginning before writing the rest of the word."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-012",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test silent letter in lamb test-reason",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which letter is silent at the end of lamb? Which reason best supports the correct choice?",
-    "audioPrompt": "Which letter is silent at the end of lamb? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Choose the word with final blend st.",
+    "audioPrompt": "Choose the word with final blend st.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Lamb is written with final mb, but the b is not pronounced."
+      {
+        "text": "need",
+        "is_correct": false
+      },
+      {
+        "text": "nest",
+        "is_correct": true
+      },
+      {
+        "text": "net",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 12,
-    "correct": 2,
-    "explanation": "Lamb is written with final mb, but the b is not pronounced.\nHint: Say the word and compare the final sound with the final letters.",
-    "structuredExplanation": {
-      "summary": "Lamb is written with final mb, but the b is not pronounced.",
-      "hint": "Say the word and compare the final sound with the final letters."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-013",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test compound playground test-reason",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which pair shows the meaningful parts of playground? Which reason best supports the correct choice?",
-    "audioPrompt": "Which pair shows the meaningful parts of playground? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Choose the word with the vowel digraph oa.",
+    "audioPrompt": "Choose the word with the vowel digraph oa.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Playground combines the complete words play and ground.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "boat",
+        "is_correct": true
+      },
+      {
+        "text": "bat",
+        "is_correct": false
+      },
+      {
+        "text": "bite",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 13,
-    "correct": 0,
-    "explanation": "Playground combines the complete words play and ground.\nHint: Find two smaller words whose meanings help explain the compound.",
-    "structuredExplanation": {
-      "summary": "Playground combines the complete words play and ground.",
-      "hint": "Find two smaller words whose meanings help explain the compound."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-014",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test multisyllable picnic test-reason",
+    "skill": "sound letter patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which way helps read picnic by syllables? Which reason best supports the correct choice?",
-    "audioPrompt": "Which way helps read picnic by syllables? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word has a silent letter?",
+    "audioPrompt": "Which word has a silent letter?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "Picnic can be read in two spoken syllables, pic and nic.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "nest",
+        "is_correct": false
+      },
+      {
+        "text": "kite",
+        "is_correct": false
+      },
+      {
+        "text": "knee",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 14,
-    "correct": 1,
-    "explanation": "Picnic can be read in two spoken syllables, pic and nic.\nHint: Say the word and listen for its two natural beats.",
-    "structuredExplanation": {
-      "summary": "Picnic can be read in two spoken syllables, pic and nic.",
-      "hint": "Say the word and listen for its two natural beats."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-t-015",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test silent letters in light test-reason",
+    "skill": "explain concept",
     "printable": true,
-    "type": "single",
-    "question": "Which letters are not pronounced separately in light? Which reason best supports the correct choice?",
-    "audioPrompt": "Which letters are not pronounced separately in light? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Write or say two sentences that show the main idea of AC9E2LY10. Use your own example.",
+    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY10. Use your own example.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "The pattern igh represents the long i sound, and gh has no separate sound."
+      {
+        "text": "Parent or teacher review needed",
+        "is_correct": true
+      },
+      {
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "A strong response explains the code idea and includes a correct original example for Sound-letter Patterns in Multisyllable Words.",
+    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "stretch",
     "sequencePriority": 15,
-    "correct": 2,
-    "explanation": "The pattern igh represents the long i sound, and gh has no separate sound.\nHint: Compare each written part with the sounds in the spoken word.",
-    "structuredExplanation": {
-      "summary": "The pattern igh represents the long i sound, and gh has no separate sound.",
-      "hint": "Compare each written part with the sounds in the spoken word."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "adult_review",
+    "gradingMode": "adult_review",
+    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Sound-letter Patterns in Multisyllable Words.",
+    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
+    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completionLabel": "Ready for adult review"
   },
   {
     "id": "ac9e2ly10-t-016",
     "curriculumCode": "AC9E2LY10",
     "bank": "test",
-    "skill": "test compound toothbrush test-reason",
+    "skill": "apply concept",
     "printable": true,
-    "type": "single",
-    "question": "Which pair correctly builds toothbrush? Which reason best supports the correct choice?",
-    "audioPrompt": "Which pair correctly builds toothbrush? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Create a short Year 2 example question for AC9E2LY10, then explain the answer.",
+    "audioPrompt": "Create a short Year 2 example question for AC9E2LY10, then explain the answer.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Toothbrush combines the complete meaningful words tooth and brush.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "Parent or teacher review needed",
+        "is_correct": true
+      },
+      {
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "A strong response creates a clear example and explains why the answer works.",
+    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "stretch",
     "sequencePriority": 16,
-    "correct": 0,
-    "explanation": "Toothbrush combines the complete meaningful words tooth and brush.\nHint: Look for two words that explain what the object is used with and what it is.",
-    "structuredExplanation": {
-      "summary": "Toothbrush combines the complete meaningful words tooth and brush.",
-      "hint": "Look for two words that explain what the object is used with and what it is."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "adult_review",
+    "gradingMode": "adult_review",
+    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
+    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
+    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completionLabel": "Ready for adult review"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

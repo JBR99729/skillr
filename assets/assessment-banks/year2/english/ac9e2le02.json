@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "identify_character_evidence_direct",
-    "question": "Niko returns a lost wallet to its owner. Which character feature does this show?",
-    "audio_prompt": "Niko returns a lost wallet to its owner. Which character feature does this show?",
+    "skill": "literary features",
+    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "carelessness",
-        "is_correct": false
-      },
-      {
-        "text": "selfishness",
-        "is_correct": false
-      },
-      {
-        "text": "honesty",
+        "text": "determined",
         "is_correct": true
+      },
+      {
+        "text": "bored",
+        "is_correct": false
+      },
+      {
+        "text": "greedy",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Returning the wallet is an action that shows Niko is honest.",
-      "hint": "Use what the character does as evidence."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "identify_setting_evidence_direct",
-    "question": "The story says, ‘Sand blew across the empty track.’ Which feature is being described?",
-    "audio_prompt": "The story says, ‘Sand blew across the empty track.’ Which feature is being described?",
+    "skill": "literary features",
+    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the setting",
+        "text": "busy",
+        "is_correct": false
+      },
+      {
+        "text": "sunny",
+        "is_correct": false
+      },
+      {
+        "text": "mysterious",
         "is_correct": true
-      },
-      {
-        "text": "the main problem",
-        "is_correct": false
-      },
-      {
-        "text": "a character's feelings",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The sand and empty track describe where the story happens.",
-      "hint": "Setting means the place and time of events."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "preference_with_character_reason_direct",
-    "question": "Which response gives a clear reason for preferring Lani?",
-    "audio_prompt": "Which response gives a clear reason for preferring Lani?",
+    "skill": "literary features",
+    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I preferred Lani because she is the main character.",
+        "text": "angry",
         "is_correct": false
       },
       {
-        "text": "I preferred Lani because she shared her lunch.",
+        "text": "kind",
         "is_correct": true
       },
       {
-        "text": "I preferred Lani because her lunch appears in a picture.",
+        "text": "forgetful",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response names a preference and supports it with the character's generous action.",
-      "hint": "Choose a reason based on a meaningful character detail."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "preference_with_setting_reason_direct",
-    "question": "Which response explains a preference for the beach setting?",
-    "audio_prompt": "Which response explains a preference for the beach setting?",
+    "skill": "literary features",
+    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I liked the beach because it is where the events happened.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the beach because the character wore blue there.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the beach setting because the rock pools were full of tiny creatures.",
+        "text": "setting affects events",
         "is_correct": true
+      },
+      {
+        "text": "title has commas",
+        "is_correct": false
+      },
+      {
+        "text": "word has a suffix",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response gives a specific setting detail and explains what interested the reader.",
-      "hint": "Look for a feature of the place that supports the preference."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "problem_as_literary_feature_direct",
-    "question": "A fox cannot cross the rushing river. What literary feature is this?",
-    "audio_prompt": "A fox cannot cross the rushing river. What literary feature is this?",
+    "skill": "literary features",
+    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a problem",
+        "text": "bored",
+        "is_correct": false
+      },
+      {
+        "text": "greedy",
+        "is_correct": false
+      },
+      {
+        "text": "determined",
         "is_correct": true
-      },
-      {
-        "text": "the resolution",
-        "is_correct": false
-      },
-      {
-        "text": "a character description",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The rushing river blocks the fox's goal, so it is a story problem.",
-      "hint": "Ask what is making the character's goal difficult."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "ending_preference_direct",
-    "question": "Which response supports a preference about the ending?",
-    "audio_prompt": "Which response supports a preference about the ending?",
+    "skill": "literary features",
+    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I liked the ending because endings come after the problem.",
+        "text": "sunny",
         "is_correct": false
       },
       {
-        "text": "I liked the ending because the lost dog found its family.",
+        "text": "mysterious",
         "is_correct": true
       },
       {
-        "text": "I liked the ending because the dog also appeared near the start.",
+        "text": "busy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The return of the dog resolves the story problem and explains the preference.",
-      "hint": "A strong reason refers to what happened in the ending and why it mattered."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "different_valid_preferences_direct",
-    "question": "Mia prefers the brave character. Sam prefers the funny setting. Can both responses be useful?",
-    "audio_prompt": "Mia prefers the brave character. Sam prefers the funny setting. Can both responses be useful?",
+    "skill": "literary features",
+    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "No, a brave character matters more than a funny setting.",
-        "is_correct": false
-      },
-      {
-        "text": "Yes, choosing different features is enough without giving reasons.",
-        "is_correct": false
-      },
-      {
-        "text": "Yes, if each gives a reason from the text.",
+        "text": "kind",
         "is_correct": true
+      },
+      {
+        "text": "forgetful",
+        "is_correct": false
+      },
+      {
+        "text": "angry",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Readers may prefer different literary features when they support their reasons.",
-      "hint": "Preferences can differ, but evidence still matters."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "compare_character_generosity_direct",
-    "question": "Tess shares her umbrella; Bo hides his. Which character does the evidence make seem more generous?",
-    "audio_prompt": "Tess shares her umbrella; Bo hides his. Which character does the evidence make seem more generous?",
+    "skill": "literary features",
+    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Tess",
+        "text": "title has commas",
+        "is_correct": false
+      },
+      {
+        "text": "word has a suffix",
+        "is_correct": false
+      },
+      {
+        "text": "setting affects events",
         "is_correct": true
-      },
-      {
-        "text": "Bo",
-        "is_correct": false
-      },
-      {
-        "text": "both characters equally",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Tess's action of sharing is evidence of generosity.",
-      "hint": "Compare what each character does with the umbrella."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "setting_mood_preference_direct",
-    "question": "The moonlit garden has soft wind and silver leaves. Which preference uses those details?",
-    "audio_prompt": "The moonlit garden has soft wind and silver leaves. Which preference uses those details?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I preferred it because moonlight makes every garden story peaceful.",
+        "text": "greedy",
         "is_correct": false
       },
       {
-        "text": "I preferred this setting because the details made it feel calm.",
+        "text": "determined",
         "is_correct": true
       },
       {
-        "text": "I preferred it because the soft wind and silver leaves made it feel busy and noisy.",
+        "text": "bored",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Soft wind and silver leaves support the reader's calm response.",
-      "hint": "Match the setting details with the feeling they create; avoid a broad rule."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "choose_a_preferred_story_feature_direct",
-    "question": "A reader enjoys guessing who left the muddy footprints. Which feature does the reader prefer?",
-    "audio_prompt": "A reader enjoys guessing who left the muddy footprints. Which feature does the reader prefer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the outdoor setting where the footprints appear",
-        "is_correct": false
-      },
-      {
-        "text": "the final solution revealed after the guessing ends",
-        "is_correct": false
-      },
-      {
-        "text": "the mystery problem about the unknown footprints",
+        "text": "mysterious",
         "is_correct": true
+      },
+      {
+        "text": "busy",
+        "is_correct": false
+      },
+      {
+        "text": "sunny",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The unknown owner of the footprints creates the mystery problem the reader enjoys.",
-      "hint": "Identify the story feature that causes the enjoyment."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "identify_character_evidence_explain",
-    "question": "Niko returns a lost wallet to its owner. Which character feature does this show? Why is “honesty” the best answer?",
-    "audio_prompt": "Niko returns a lost wallet to its owner. Which character feature does this show? Why is “honesty” the best answer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Returning the wallet is an action that shows Niko is honest.",
+        "text": "forgetful",
+        "is_correct": false
+      },
+      {
+        "text": "angry",
+        "is_correct": false
+      },
+      {
+        "text": "kind",
         "is_correct": true
-      },
-      {
-        "text": "It is best only because it is longer than “carelessness”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Returning the wallet is an action that shows Niko is honest.",
-      "hint": "Use what the character does as evidence."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "identify_setting_evidence_explain",
-    "question": "The story says, ‘Sand blew across the empty track.’ Which feature is being described? Why is “the setting” the best answer?",
-    "audio_prompt": "The story says, ‘Sand blew across the empty track.’ Which feature is being described? Why is “the setting” the best answer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “the main problem”.",
+        "text": "word has a suffix",
         "is_correct": false
       },
       {
-        "text": "The sand and empty track describe where the story happens.",
+        "text": "setting affects events",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "title has commas",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The sand and empty track describe where the story happens.",
-      "hint": "Setting means the place and time of events."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "preference_with_character_reason_explain",
-    "question": "Which response gives a clear reason for preferring Lani? Why is “I preferred Lani because she shared her lunch.” the best answer?",
-    "audio_prompt": "Which response gives a clear reason for preferring Lani? Why is “I preferred Lani because she shared her lunch.” the best answer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “I preferred Lani because she is the main character.”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "The response names a preference and supports it with the character's generous action.",
+        "text": "determined",
         "is_correct": true
+      },
+      {
+        "text": "bored",
+        "is_correct": false
+      },
+      {
+        "text": "greedy",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response names a preference and supports it with the character's generous action.",
-      "hint": "Choose a reason based on a meaningful character detail."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "preference_with_setting_reason_explain",
-    "question": "Which response explains a preference for the beach setting? Why is “I liked the beach setting because the rock pools were full of tiny creatures.” the best answer?",
-    "audio_prompt": "Which response explains a preference for the beach setting? Why is “I liked the beach setting because the rock pools were full of tiny creatures.” the best answer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response gives a specific setting detail and explains what interested the reader.",
+        "text": "busy",
+        "is_correct": false
+      },
+      {
+        "text": "sunny",
+        "is_correct": false
+      },
+      {
+        "text": "mysterious",
         "is_correct": true
-      },
-      {
-        "text": "It is best only because it is longer than “I liked the beach because it is where the events happened.”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The response gives a specific setting detail and explains what interested the reader.",
-      "hint": "Look for a feature of the place that supports the preference."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "problem_as_literary_feature_explain",
-    "question": "A fox cannot cross the rushing river. What literary feature is this? Why is “a problem” the best answer?",
-    "audio_prompt": "A fox cannot cross the rushing river. What literary feature is this? Why is “a problem” the best answer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “the resolution”.",
+        "text": "angry",
         "is_correct": false
       },
       {
-        "text": "The rushing river blocks the fox's goal, so it is a story problem.",
+        "text": "kind",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "forgetful",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The rushing river blocks the fox's goal, so it is a story problem.",
-      "hint": "Ask what is making the character's goal difficult."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "ending_preference_explain",
-    "question": "Which response supports a preference about the ending? Why is “I liked the ending because the lost dog found its family.” the best answer?",
-    "audio_prompt": "Which response supports a preference about the ending? Why is “I liked the ending because the lost dog found its family.” the best answer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “I liked the ending because endings come after the problem.”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "The return of the dog resolves the story problem and explains the preference.",
+        "text": "setting affects events",
         "is_correct": true
+      },
+      {
+        "text": "title has commas",
+        "is_correct": false
+      },
+      {
+        "text": "word has a suffix",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The return of the dog resolves the story problem and explains the preference.",
-      "hint": "A strong reason refers to what happened in the ending and why it mattered."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "different_valid_preferences_explain",
-    "question": "Mia prefers the brave character. Sam prefers the funny setting. Can both responses be useful? Why is “Yes, if each gives a reason from the text.” the best answer?",
-    "audio_prompt": "Mia prefers the brave character. Sam prefers the funny setting. Can both responses be useful? Why is “Yes, if each gives a reason from the text.” the best answer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Readers may prefer different literary features when they support their reasons.",
+        "text": "bored",
+        "is_correct": false
+      },
+      {
+        "text": "greedy",
+        "is_correct": false
+      },
+      {
+        "text": "determined",
         "is_correct": true
-      },
-      {
-        "text": "It is best only because it is longer than “No, a brave character matters more than a funny setting.”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Readers may prefer different literary features when they support their reasons.",
-      "hint": "Preferences can differ, but evidence still matters."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 17,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "compare_character_generosity_explain",
-    "question": "Tess shares her umbrella; Bo hides his. Which character does the evidence make seem more generous? Why is “Tess” the best answer?",
-    "audio_prompt": "Tess shares her umbrella; Bo hides his. Which character does the evidence make seem more generous? Why is “Tess” the best answer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Bo”.",
+        "text": "sunny",
         "is_correct": false
       },
       {
-        "text": "Tess's action of sharing is evidence of generosity.",
+        "text": "mysterious",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "busy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Tess's action of sharing is evidence of generosity.",
-      "hint": "Compare what each character does with the umbrella."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 18,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "setting_mood_preference_explain",
-    "question": "The moonlit garden has soft wind and silver leaves. Which preference uses those details? Why is “I preferred this setting because the details made it feel calm.” the best answer?",
-    "audio_prompt": "The moonlit garden has soft wind and silver leaves. Which preference uses those details? Why is “I preferred this setting because the details made it feel calm.” the best answer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “I preferred it because moonlight makes every garden story peaceful.”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "Soft wind and silver leaves support the reader's calm response.",
+        "text": "kind",
         "is_correct": true
+      },
+      {
+        "text": "forgetful",
+        "is_correct": false
+      },
+      {
+        "text": "angry",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Soft wind and silver leaves support the reader's calm response.",
-      "hint": "Match the setting details with the feeling they create; avoid a broad rule."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 19,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "choose_a_preferred_story_feature_explain",
-    "question": "A reader enjoys guessing who left the muddy footprints. Which feature does the reader prefer? Why is “the mystery problem about the unknown footprints” the best answer?",
-    "audio_prompt": "A reader enjoys guessing who left the muddy footprints. Which feature does the reader prefer? Why is “the mystery problem about the unknown footprints” the best answer?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The unknown owner of the footprints creates the mystery problem the reader enjoys.",
+        "text": "title has commas",
+        "is_correct": false
+      },
+      {
+        "text": "word has a suffix",
+        "is_correct": false
+      },
+      {
+        "text": "setting affects events",
         "is_correct": true
-      },
-      {
-        "text": "It is best only because it is longer than “the outdoor setting where the footprints appear”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The unknown owner of the footprints creates the mystery problem the reader enjoys.",
-      "hint": "Identify the story feature that causes the enjoyment."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 20,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "preference_with_character_reason_discriminate",
-    "question": "Which response gives a clear reason for preferring Lani? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Which response gives a clear reason for preferring Lani? Which response is the clearest mix-up to avoid?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I preferred Lani because she shared her lunch.",
+        "text": "greedy",
         "is_correct": false
       },
       {
-        "text": "I preferred Lani because she is the main character.",
+        "text": "determined",
         "is_correct": true
       },
       {
-        "text": "I preferred Lani because her lunch appears in a picture.",
+        "text": "bored",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“I preferred Lani because she is the main character.” is the mix-up to avoid. Choose a reason based on a meaningful character detail.",
-      "hint": "Choose a reason based on a meaningful character detail."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 21,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "preference_with_setting_reason_discriminate",
-    "question": "Which response explains a preference for the beach setting? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Which response explains a preference for the beach setting? Which response is the clearest mix-up to avoid?",
+    "stage": "apply",
+    "skill": "literary features",
+    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I liked the beach setting because the rock pools were full of tiny creatures.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the beach because the character wore blue there.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the beach because it is where the events happened.",
+        "text": "mysterious",
         "is_correct": true
+      },
+      {
+        "text": "busy",
+        "is_correct": false
+      },
+      {
+        "text": "sunny",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“I liked the beach because it is where the events happened.” is the mix-up to avoid. Look for a feature of the place that supports the preference.",
-      "hint": "Look for a feature of the place that supports the preference."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 22,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-P-023",
@@ -841,37 +841,43 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "problem_as_literary_feature_discriminate",
-    "question": "A fox cannot cross the rushing river. What literary feature is this? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A fox cannot cross the rushing river. What literary feature is this? Which response is the clearest mix-up to avoid?",
+    "stage": "create",
+    "skill": "explain concept",
+    "question": "Write or say two sentences that show the main idea of AC9E2LE02. Use your own example.",
+    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LE02. Use your own example.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the resolution",
+        "text": "Parent or teacher review needed",
         "is_correct": true
       },
       {
-        "text": "a problem",
+        "text": "Needs more detail",
         "is_correct": false
       },
       {
-        "text": "a character description",
+        "text": "Off topic",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“the resolution” is the mix-up to avoid. Ask what is making the character's goal difficult.",
-      "hint": "Ask what is making the character's goal difficult."
+      "summary": "A strong response explains the code idea and includes a correct original example for Features and Preferences in Literary Texts.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response explains the code idea and includes a correct original example for Features and Preferences in Literary Texts.",
+    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LE02-P-024",
@@ -879,645 +885,43 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "ending_preference_discriminate",
-    "question": "Which response supports a preference about the ending? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Which response supports a preference about the ending? Which response is the clearest mix-up to avoid?",
+    "stage": "create",
+    "skill": "apply concept",
+    "question": "Create a short Year 2 example question for AC9E2LE02, then explain the answer.",
+    "audio_prompt": "Create a short Year 2 example question for AC9E2LE02, then explain the answer.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I liked the ending because the lost dog found its family.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the ending because endings come after the problem.",
+        "text": "Parent or teacher review needed",
         "is_correct": true
       },
       {
-        "text": "I liked the ending because the dog also appeared near the start.",
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“I liked the ending because endings come after the problem.” is the mix-up to avoid. A strong reason refers to what happened in the ending and why it mattered.",
-      "hint": "A strong reason refers to what happened in the ending and why it mattered."
+      "summary": "A strong response creates a clear example and explains why the answer works.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-025",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "different_valid_preferences_discriminate",
-    "question": "Mia prefers the brave character. Sam prefers the funny setting. Can both responses be useful? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Mia prefers the brave character. Sam prefers the funny setting. Can both responses be useful? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Yes, if each gives a reason from the text.",
-        "is_correct": false
-      },
-      {
-        "text": "Yes, choosing different features is enough without giving reasons.",
-        "is_correct": false
-      },
-      {
-        "text": "No, a brave character matters more than a funny setting.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "“No, a brave character matters more than a funny setting.” is the mix-up to avoid. Preferences can differ, but evidence still matters.",
-      "hint": "Preferences can differ, but evidence still matters."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 25,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-026",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "compare_character_generosity_discriminate",
-    "question": "Tess shares her umbrella; Bo hides his. Which character does the evidence make seem more generous? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Tess shares her umbrella; Bo hides his. Which character does the evidence make seem more generous? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Bo",
-        "is_correct": true
-      },
-      {
-        "text": "Tess",
-        "is_correct": false
-      },
-      {
-        "text": "both characters equally",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "“Bo” is the mix-up to avoid. Compare what each character does with the umbrella.",
-      "hint": "Compare what each character does with the umbrella."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 26,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-027",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "setting_mood_preference_discriminate",
-    "question": "The moonlit garden has soft wind and silver leaves. Which preference uses those details? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "The moonlit garden has soft wind and silver leaves. Which preference uses those details? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I preferred this setting because the details made it feel calm.",
-        "is_correct": false
-      },
-      {
-        "text": "I preferred it because moonlight makes every garden story peaceful.",
-        "is_correct": true
-      },
-      {
-        "text": "I preferred it because the soft wind and silver leaves made it feel busy and noisy.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "“I preferred it because moonlight makes every garden story peaceful.” is the mix-up to avoid. Match the setting details with the feeling they create; avoid a broad rule.",
-      "hint": "Match the setting details with the feeling they create; avoid a broad rule."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 27,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-028",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "choose_a_preferred_story_feature_discriminate",
-    "question": "A reader enjoys guessing who left the muddy footprints. Which feature does the reader prefer? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A reader enjoys guessing who left the muddy footprints. Which feature does the reader prefer? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "the mystery problem about the unknown footprints",
-        "is_correct": false
-      },
-      {
-        "text": "the final solution revealed after the guessing ends",
-        "is_correct": false
-      },
-      {
-        "text": "the outdoor setting where the footprints appear",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "“the outdoor setting where the footprints appear” is the mix-up to avoid. Identify the story feature that causes the enjoyment.",
-      "hint": "Identify the story feature that causes the enjoyment."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 28,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-029",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "supported_negative_preference_discriminate",
-    "question": "Which response respectfully explains why a reader did not prefer the ending? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Which response respectfully explains why a reader did not prefer the ending? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I did not prefer it because it was the final part of the story.",
-        "is_correct": true
-      },
-      {
-        "text": "I did not prefer it because the main problem was not solved.",
-        "is_correct": false
-      },
-      {
-        "text": "I did not prefer the ending, so other readers should not like it.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "“I did not prefer it because it was the final part of the story.” is the mix-up to avoid. Choose wording that gives a text-based reason without deciding for other readers.",
-      "hint": "Choose wording that gives a text-based reason without deciding for other readers."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 29,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-030",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "relevant_character_evidence_discriminate",
-    "question": "A reader says the main character is caring. Which event best supports the idea? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A reader says the main character is caring. Which event best supports the idea? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "She stays to help an injured bird.",
-        "is_correct": false
-      },
-      {
-        "text": "She notices the bird but continues along the path.",
-        "is_correct": true
-      },
-      {
-        "text": "She wears a shirt with a bird printed on it.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "“She notices the bird but continues along the path.” is the mix-up to avoid. Choose evidence about what the character does for another living thing.",
-      "hint": "Choose evidence about what the character does for another living thing."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 30,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-031",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "preference_with_character_reason_apply",
-    "question": "Use this clue: Choose a reason based on a meaningful character detail. Which response gives a clear reason for preferring Lani?",
-    "audio_prompt": "Use this clue: Choose a reason based on a meaningful character detail. Which response gives a clear reason for preferring Lani?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I preferred Lani because her lunch appears in a picture.",
-        "is_correct": false
-      },
-      {
-        "text": "I preferred Lani because she is the main character.",
-        "is_correct": false
-      },
-      {
-        "text": "I preferred Lani because she shared her lunch.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The response names a preference and supports it with the character's generous action.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 31,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-032",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "preference_with_setting_reason_apply",
-    "question": "Use this clue: Look for a feature of the place that supports the preference. Which response explains a preference for the beach setting?",
-    "audio_prompt": "Use this clue: Look for a feature of the place that supports the preference. Which response explains a preference for the beach setting?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I liked the beach setting because the rock pools were full of tiny creatures.",
-        "is_correct": true
-      },
-      {
-        "text": "I liked the beach because the character wore blue there.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the beach because it is where the events happened.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The response gives a specific setting detail and explains what interested the reader.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 32,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-033",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "problem_as_literary_feature_apply",
-    "question": "Use this clue: Ask what is making the character's goal difficult. A fox cannot cross the rushing river. What literary feature is this?",
-    "audio_prompt": "Use this clue: Ask what is making the character's goal difficult. A fox cannot cross the rushing river. What literary feature is this?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "a character description",
-        "is_correct": false
-      },
-      {
-        "text": "a problem",
-        "is_correct": true
-      },
-      {
-        "text": "the resolution",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The rushing river blocks the fox's goal, so it is a story problem.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 33,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-034",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "ending_preference_apply",
-    "question": "Use this clue: A strong reason refers to what happened in the ending and why it mattered. Which response supports a preference about the ending?",
-    "audio_prompt": "Use this clue: A strong reason refers to what happened in the ending and why it mattered. Which response supports a preference about the ending?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I liked the ending because the dog also appeared near the start.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the ending because endings come after the problem.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the ending because the lost dog found its family.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The return of the dog resolves the story problem and explains the preference.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 34,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-035",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "different_valid_preferences_apply",
-    "question": "Use this clue: Preferences can differ, but evidence still matters. Mia prefers the brave character. Sam prefers the funny setting. Can both responses be useful?",
-    "audio_prompt": "Use this clue: Preferences can differ, but evidence still matters. Mia prefers the brave character. Sam prefers the funny setting. Can both responses be useful?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Yes, if each gives a reason from the text.",
-        "is_correct": true
-      },
-      {
-        "text": "Yes, choosing different features is enough without giving reasons.",
-        "is_correct": false
-      },
-      {
-        "text": "No, a brave character matters more than a funny setting.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Readers may prefer different literary features when they support their reasons.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 35,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-036",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "compare_character_generosity_apply",
-    "question": "Use this clue: Compare what each character does with the umbrella. Tess shares her umbrella; Bo hides his. Which character does the evidence make seem more generous?",
-    "audio_prompt": "Use this clue: Compare what each character does with the umbrella. Tess shares her umbrella; Bo hides his. Which character does the evidence make seem more generous?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "both characters equally",
-        "is_correct": false
-      },
-      {
-        "text": "Tess",
-        "is_correct": true
-      },
-      {
-        "text": "Bo",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Tess's action of sharing is evidence of generosity.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 36,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-037",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "setting_mood_preference_apply",
-    "question": "Use this clue: Match the setting details with the feeling they create; avoid a broad rule. The moonlit garden has soft wind and silver leaves. Which preference uses those details?",
-    "audio_prompt": "Use this clue: Match the setting details with the feeling they create; avoid a broad rule. The moonlit garden has soft wind and silver leaves. Which preference uses those details?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I preferred it because the soft wind and silver leaves made it feel busy and noisy.",
-        "is_correct": false
-      },
-      {
-        "text": "I preferred it because moonlight makes every garden story peaceful.",
-        "is_correct": false
-      },
-      {
-        "text": "I preferred this setting because the details made it feel calm.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Soft wind and silver leaves support the reader's calm response.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 37,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-038",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "choose_a_preferred_story_feature_apply",
-    "question": "Use this clue: Identify the story feature that causes the enjoyment. A reader enjoys guessing who left the muddy footprints. Which feature does the reader prefer?",
-    "audio_prompt": "Use this clue: Identify the story feature that causes the enjoyment. A reader enjoys guessing who left the muddy footprints. Which feature does the reader prefer?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "the mystery problem about the unknown footprints",
-        "is_correct": true
-      },
-      {
-        "text": "the final solution revealed after the guessing ends",
-        "is_correct": false
-      },
-      {
-        "text": "the outdoor setting where the footprints appear",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The unknown owner of the footprints creates the mystery problem the reader enjoys.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 38,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-039",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "supported_negative_preference_apply",
-    "question": "Use this clue: Choose wording that gives a text-based reason without deciding for other readers. Which response respectfully explains why a reader did not prefer the ending?",
-    "audio_prompt": "Use this clue: Choose wording that gives a text-based reason without deciding for other readers. Which response respectfully explains why a reader did not prefer the ending?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I did not prefer the ending, so other readers should not like it.",
-        "is_correct": false
-      },
-      {
-        "text": "I did not prefer it because the main problem was not solved.",
-        "is_correct": true
-      },
-      {
-        "text": "I did not prefer it because it was the final part of the story.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The response focuses respectfully on an unresolved story feature.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 39,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LE02-P-040",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LE02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "relevant_character_evidence_apply",
-    "question": "Use this clue: Choose evidence about what the character does for another living thing. A reader says the main character is caring. Which event best supports the idea?",
-    "audio_prompt": "Use this clue: Choose evidence about what the character does for another living thing. A reader says the main character is caring. Which event best supports the idea?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "She wears a shirt with a bird printed on it.",
-        "is_correct": false
-      },
-      {
-        "text": "She notices the bird but continues along the path.",
-        "is_correct": false
-      },
-      {
-        "text": "She stays to help an injured bird.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Helping the injured bird is an action that shows care.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 40,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response creates a clear example and explains why the answer works.",
+    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LE02-T-001",
@@ -1525,37 +929,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "compare_supported_preferences_direct",
-    "question": "Which comparison explains two preferences clearly?",
-    "audio_prompt": "Which comparison explains two preferences clearly?",
+    "stage": "recognise",
+    "skill": "literary features",
+    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The first story is better because I chose it, while Ana chose the second.",
-        "is_correct": false
-      },
-      {
-        "text": "Ana and I preferred different books, so neither of us needs to give a reason.",
-        "is_correct": false
-      },
-      {
-        "text": "The funny character made me prefer the first story; the exciting forest chase made Ana prefer the second.",
+        "text": "determined",
         "is_correct": true
+      },
+      {
+        "text": "bored",
+        "is_correct": false
+      },
+      {
+        "text": "greedy",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response names each preference and explains it using a literary feature.",
-      "hint": "A clear comparison gives both choices and the reasons behind them."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-002",
@@ -1563,37 +967,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "preference_for_a_problem_direct",
-    "question": "A story character must return a baby bird to its nest before dark. Which response gives a reason for preferring the problem?",
-    "audio_prompt": "A story character must return a baby bird to its nest before dark. Which response gives a reason for preferring the problem?",
+    "stage": "recognise",
+    "skill": "literary features",
+    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I liked the problem because the time limit made the rescue exciting.",
+        "text": "busy",
+        "is_correct": false
+      },
+      {
+        "text": "sunny",
+        "is_correct": false
+      },
+      {
+        "text": "mysterious",
         "is_correct": true
-      },
-      {
-        "text": "I liked the problem because the nest was drawn on page five.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the problem because a baby bird appeared in the story.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The time limit is part of the story problem and explains why the reader found it exciting.",
-      "hint": "Use a feature of the problem and explain its effect on the reader."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-003",
@@ -1601,37 +1005,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "character_change_preference_direct",
-    "question": "At first, Leo refuses to help. Later, he works with the group. Which response is supported?",
-    "audio_prompt": "At first, Leo refuses to help. Later, he works with the group. Which response is supported?",
+    "stage": "recognise",
+    "skill": "literary features",
+    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I preferred Leo because he is named in both parts of the story.",
+        "text": "angry",
         "is_correct": false
       },
       {
-        "text": "I preferred Leo's change because he learned to cooperate.",
+        "text": "kind",
         "is_correct": true
       },
       {
-        "text": "Leo did not change because he remains the same character throughout.",
+        "text": "forgetful",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Leo's move from refusing to helping shows a meaningful character change.",
-      "hint": "Compare what the character does near the beginning and end."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-004",
@@ -1639,37 +1043,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "compare_two_settings_direct",
-    "question": "A reader prefers a quiet cabin to a noisy station. Which reason refers to the settings?",
-    "audio_prompt": "A reader prefers a quiet cabin to a noisy station. Which reason refers to the settings?",
+    "stage": "recognise",
+    "skill": "literary features",
+    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The cabin's crackling fire made the scene feel rushed and crowded.",
-        "is_correct": false
-      },
-      {
-        "text": "The cabin scene felt calmer because it appeared before the station scene.",
-        "is_correct": false
-      },
-      {
-        "text": "The cabin's crackling fire made the scene feel peaceful.",
+        "text": "setting affects events",
         "is_correct": true
+      },
+      {
+        "text": "title has commas",
+        "is_correct": false
+      },
+      {
+        "text": "word has a suffix",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The crackling fire is a setting detail that supports the reader's peaceful response.",
-      "hint": "Choose a reason based on what the place feels or sounds like."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-005",
@@ -1677,37 +1081,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "evidence_for_funny_character_direct",
-    "question": "A reader calls Pip the funniest character. Which event is the strongest reason?",
-    "audio_prompt": "A reader calls Pip the funniest character. Which event is the strongest reason?",
+    "stage": "recognise",
+    "skill": "literary features",
+    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Pip wears two pots as boots and slides across the kitchen.",
+        "text": "bored",
+        "is_correct": false
+      },
+      {
+        "text": "greedy",
+        "is_correct": false
+      },
+      {
+        "text": "determined",
         "is_correct": true
-      },
-      {
-        "text": "Pip puts on two ordinary shoes before entering the kitchen.",
-        "is_correct": false
-      },
-      {
-        "text": "Pip drops a pot, then carefully returns it to the cupboard.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The surprising pot-boots action directly supports the response that Pip is funny.",
-      "hint": "Choose an event that demonstrates the preferred character feature."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-006",
@@ -1715,37 +1119,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "preference_can_change_direct",
-    "question": "After rereading, Noor notices that the quiet character solved the mystery. What can Noor do with her first preference?",
-    "audio_prompt": "After rereading, Noor notices that the quiet character solved the mystery. What can Noor do with her first preference?",
+    "stage": "recognise",
+    "skill": "literary features",
+    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "keep it because a reader should not revise a first response",
+        "text": "sunny",
         "is_correct": false
       },
       {
-        "text": "change it and explain the new evidence",
+        "text": "mysterious",
         "is_correct": true
       },
       {
-        "text": "choose the loud character because that feature is easier to notice",
+        "text": "busy",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A reader may revise a preference when rereading reveals important evidence.",
-      "hint": "Preferences are personal, but reasons should fit what the text shows."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-007",
@@ -1753,37 +1157,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "language_feature_preference_direct",
-    "question": "A poem repeats ‘splash, splash’ whenever the whale appears. Which response is supported?",
-    "audio_prompt": "A poem repeats ‘splash, splash’ whenever the whale appears. Which response is supported?",
+    "stage": "recognise",
+    "skill": "literary features",
+    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I liked the repeated sound because it made the whale seem silent and still.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the whale because the repeated word described its colour.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the repeated sound because it made the whale's movement lively.",
+        "text": "kind",
         "is_correct": true
+      },
+      {
+        "text": "forgetful",
+        "is_correct": false
+      },
+      {
+        "text": "angry",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response names repetition and explains the lively effect it had for the reader.",
-      "hint": "Connect the repeated language feature with an effect supported by the sound word."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-008",
@@ -1791,37 +1195,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "respect_another_preference_direct",
-    "question": "Ivy prefers the surprising ending, but Max prefers the forest setting. What is the best way to discuss this?",
-    "audio_prompt": "Ivy prefers the surprising ending, but Max prefers the forest setting. What is the best way to discuss this?",
+    "stage": "recognise",
+    "skill": "literary features",
+    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Ask each reader to share a text detail that supports the preference.",
+        "text": "title has commas",
+        "is_correct": false
+      },
+      {
+        "text": "word has a suffix",
+        "is_correct": false
+      },
+      {
+        "text": "setting affects events",
         "is_correct": true
-      },
-      {
-        "text": "Decide that only the ending can be a valid preference.",
-        "is_correct": false
-      },
-      {
-        "text": "Count votes instead of listening to either reason.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Different preferences can be discussed by listening to the evidence behind each one.",
-      "hint": "A useful discussion respects both views and checks their reasons."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-009",
@@ -1830,36 +1234,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
     "stage": "apply",
-    "skill": "compare_supported_preferences_test-reason",
-    "question": "Which comparison explains two preferences clearly? Which reason best supports the correct choice?",
-    "audio_prompt": "Which comparison explains two preferences clearly? Which reason best supports the correct choice?",
+    "skill": "literary features",
+    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "greedy",
         "is_correct": false
       },
       {
-        "text": "The response names each preference and explains it using a literary feature.",
+        "text": "determined",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "bored",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response names each preference and explains it using a literary feature.",
-      "hint": "A clear comparison gives both choices and the reasons behind them."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-010",
@@ -1868,36 +1272,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
     "stage": "apply",
-    "skill": "preference_for_a_problem_test-reason",
-    "question": "A story character must return a baby bird to its nest before dark. Which response gives a reason for preferring the problem? Which reason best supports the correct choice?",
-    "audio_prompt": "A story character must return a baby bird to its nest before dark. Which response gives a reason for preferring the problem? Which reason best supports the correct choice?",
+    "skill": "literary features",
+    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The time limit is part of the story problem and explains why the reader found it exciting.",
+        "text": "mysterious",
         "is_correct": true
+      },
+      {
+        "text": "busy",
+        "is_correct": false
+      },
+      {
+        "text": "sunny",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The time limit is part of the story problem and explains why the reader found it exciting.",
-      "hint": "Use a feature of the problem and explain its effect on the reader."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-011",
@@ -1906,36 +1310,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
     "stage": "apply",
-    "skill": "character_change_preference_test-reason",
-    "question": "At first, Leo refuses to help. Later, he works with the group. Which response is supported? Which reason best supports the correct choice?",
-    "audio_prompt": "At first, Leo refuses to help. Later, he works with the group. Which response is supported? Which reason best supports the correct choice?",
+    "skill": "literary features",
+    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Leo's move from refusing to helping shows a meaningful character change.",
+        "text": "forgetful",
+        "is_correct": false
+      },
+      {
+        "text": "angry",
+        "is_correct": false
+      },
+      {
+        "text": "kind",
         "is_correct": true
-      },
-      {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Leo's move from refusing to helping shows a meaningful character change.",
-      "hint": "Compare what the character does near the beginning and end."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-012",
@@ -1944,36 +1348,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
     "stage": "apply",
-    "skill": "compare_two_settings_test-reason",
-    "question": "A reader prefers a quiet cabin to a noisy station. Which reason refers to the settings? Which reason best supports the correct choice?",
-    "audio_prompt": "A reader prefers a quiet cabin to a noisy station. Which reason refers to the settings? Which reason best supports the correct choice?",
+    "skill": "literary features",
+    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "word has a suffix",
         "is_correct": false
       },
       {
-        "text": "The crackling fire is a setting detail that supports the reader's peaceful response.",
+        "text": "setting affects events",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "title has commas",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The crackling fire is a setting detail that supports the reader's peaceful response.",
-      "hint": "Choose a reason based on what the place feels or sounds like."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-013",
@@ -1982,36 +1386,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
     "stage": "apply",
-    "skill": "evidence_for_funny_character_test-reason",
-    "question": "A reader calls Pip the funniest character. Which event is the strongest reason? Which reason best supports the correct choice?",
-    "audio_prompt": "A reader calls Pip the funniest character. Which event is the strongest reason? Which reason best supports the correct choice?",
+    "skill": "literary features",
+    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The surprising pot-boots action directly supports the response that Pip is funny.",
+        "text": "determined",
         "is_correct": true
+      },
+      {
+        "text": "bored",
+        "is_correct": false
+      },
+      {
+        "text": "greedy",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The surprising pot-boots action directly supports the response that Pip is funny.",
-      "hint": "Choose an event that demonstrates the preferred character feature."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-014",
@@ -2020,36 +1424,36 @@
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
     "stage": "apply",
-    "skill": "preference_can_change_test-reason",
-    "question": "After rereading, Noor notices that the quiet character solved the mystery. What can Noor do with her first preference? Which reason best supports the correct choice?",
-    "audio_prompt": "After rereading, Noor notices that the quiet character solved the mystery. What can Noor do with her first preference? Which reason best supports the correct choice?",
+    "skill": "literary features",
+    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A reader may revise a preference when rereading reveals important evidence.",
+        "text": "busy",
+        "is_correct": false
+      },
+      {
+        "text": "sunny",
+        "is_correct": false
+      },
+      {
+        "text": "mysterious",
         "is_correct": true
-      },
-      {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A reader may revise a preference when rereading reveals important evidence.",
-      "hint": "Preferences are personal, but reasons should fit what the text shows."
+      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LE02-T-015",
@@ -2057,37 +1461,43 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "language_feature_preference_test-reason",
-    "question": "A poem repeats ‘splash, splash’ whenever the whale appears. Which response is supported? Which reason best supports the correct choice?",
-    "audio_prompt": "A poem repeats ‘splash, splash’ whenever the whale appears. Which response is supported? Which reason best supports the correct choice?",
+    "stage": "create",
+    "skill": "explain concept",
+    "question": "Write or say two sentences that show the main idea of AC9E2LE02. Use your own example.",
+    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LE02. Use your own example.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The response names repetition and explains the lively effect it had for the reader.",
+        "text": "Parent or teacher review needed",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response names repetition and explains the lively effect it had for the reader.",
-      "hint": "Connect the repeated language feature with an effect supported by the sound word."
+      "summary": "A strong response explains the code idea and includes a correct original example for Features and Preferences in Literary Texts.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 15,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response explains the code idea and includes a correct original example for Features and Preferences in Literary Texts.",
+    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LE02-T-016",
@@ -2095,36 +1505,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "respect_another_preference_test-reason",
-    "question": "Ivy prefers the surprising ending, but Max prefers the forest setting. What is the best way to discuss this? Which reason best supports the correct choice?",
-    "audio_prompt": "Ivy prefers the surprising ending, but Max prefers the forest setting. What is the best way to discuss this? Which reason best supports the correct choice?",
+    "stage": "create",
+    "skill": "apply concept",
+    "question": "Create a short Year 2 example question for AC9E2LE02, then explain the answer.",
+    "audio_prompt": "Create a short Year 2 example question for AC9E2LE02, then explain the answer.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "Different preferences can be discussed by listening to the evidence behind each one.",
+        "text": "Parent or teacher review needed",
         "is_correct": true
+      },
+      {
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Different preferences can be discussed by listening to the evidence behind each one.",
-      "hint": "A useful discussion respects both views and checks their reasons."
+      "summary": "A strong response creates a clear example and explains why the answer works.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 16,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response creates a clear example and explains why the answer works.",
+    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   }
 ]

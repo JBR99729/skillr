@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
-  <title id="title">Three-day weather chart</title><desc id="desc">A chart records sunny weather on Monday and Tuesday and rainy weather on Wednesday.</desc>
-  <rect width="640" height="360" rx="24" fill="#f7fbff"/><rect x="55" y="50" width="530" height="260" rx="12" fill="#fff" stroke="#315f9d" stroke-width="6"/>
-  <path d="M55 120h530M232 50v260M409 50v260" stroke="#9eb9d8" stroke-width="5"/><text x="103" y="96" font-family="Arial,sans-serif" font-size="28" fill="#29445a">Monday</text><text x="273" y="96" font-family="Arial,sans-serif" font-size="28" fill="#29445a">Tuesday</text><text x="441" y="96" font-family="Arial,sans-serif" font-size="28" fill="#29445a">Wednesday</text>
-  <circle cx="144" cy="208" r="39" fill="#ffd34e"/><g stroke="#e6a900" stroke-width="7"><path d="M144 146v-22m0 168v-22m-62-62H60m168 0h-22m-106-44-16-16m120 120-16-16m16-88 16-16M100 252l-16 16"/></g>
-  <circle cx="321" cy="208" r="39" fill="#ffd34e"/><g stroke="#e6a900" stroke-width="7"><path d="M321 146v-22m0 168v-22m-62-62h-22m168 0h-22m-106-44-16-16m120 120-16-16m16-88 16-16m-120 120-16 16"/></g>
-  <path d="M447 206c3-33 36-48 60-31 25-19 64 0 60 33 22 8 20 42-7 45H456c-29-2-36-37-9-47Z" fill="#99abc2" stroke="#5e7088" stroke-width="6"/><path d="m470 272-10 22m50-22-10 22m50-22-10 22" stroke="#4b9ed4" stroke-width="7" stroke-linecap="round"/>
-</svg>

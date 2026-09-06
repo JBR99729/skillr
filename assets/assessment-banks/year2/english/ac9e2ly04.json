@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "phrase_a_sentence_direct",
-    "question": "Which reading sounds natural for the sentence ‘After lunch the class planted six seedlings’ ?",
-    "audio_prompt": "Which reading sounds natural for the sentence ‘After lunch the class planted six seedlings’ ?",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Pause briefly after lunch, then read the rest as one smooth idea.",
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "Pause after After, then pause again after the class.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       },
       {
-        "text": "Pause after planted, separating the action from six seedlings.",
+        "text": "Mira lost the shell.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A brief pause after the opening time phrase keeps the rest of the idea together.",
-      "hint": "Keep words together when they tell who acted and what they did."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "use_a_comma_direct",
-    "question": "How should a reader treat the comma in ‘Before the rain, we packed the tent’ ?",
-    "audio_prompt": "How should a reader treat the comma in ‘Before the rain, we packed the tent’ ?",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use a full-stop pause after rain, as if the idea has ended.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "Make a short pause after rain, then continue smoothly.",
+        "text": "Change every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
-      },
-      {
-        "text": "Read straight through rain without marking the phrase break.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A comma often guides a brief pause between meaningful parts.",
-      "hint": "Use punctuation to shape phrasing without breaking the meaning."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "monitor_meaning_direct",
-    "question": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do?",
-    "audio_prompt": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do?",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep reading and hope the next sentence makes sailed fit.",
+        "text": "bed",
         "is_correct": false
       },
       {
-        "text": "Change sailed to hopped because it makes sense, without checking the letters.",
-        "is_correct": false
-      },
-      {
-        "text": "Stop, reread and check the letters and sentence meaning.",
+        "text": "the beach",
         "is_correct": true
+      },
+      {
+        "text": "the library",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rereading and checking print plus meaning helps repair the misread word.",
-      "hint": "A correction must fit both the letters and the sentence."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "check_a_vowel_pattern_direct",
-    "question": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it?",
-    "audio_prompt": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it?",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The oa pattern and the meaning of sailing both point to boat.",
+        "text": "tell the main ideas briefly",
         "is_correct": true
       },
       {
-        "text": "The picture alone proves every word.",
+        "text": "copy every word",
         "is_correct": false
       },
       {
-        "text": "Any word beginning with b will fit.",
+        "text": "list only commas",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The letters oa and the sentence meaning work together to confirm boat.",
-      "hint": "Check the whole grapheme pattern as well as meaning."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "fluency_is_not_racing_direct",
-    "question": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first?",
-    "audio_prompt": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first?",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "speed, even if more words are missed",
+        "text": "Mira showed Dad.",
         "is_correct": false
       },
       {
-        "text": "accuracy, phrasing and attention to meaning",
+        "text": "Mira lost the shell.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira opened the box.",
         "is_correct": true
-      },
-      {
-        "text": "volume, while ignoring the printed words",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Fluent reading combines accurate words, meaningful phrasing and understanding.",
-      "hint": "Fast reading is not useful when words or meaning are lost."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "read_dialogue_with_expression_direct",
-    "question": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning?",
-    "audio_prompt": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning?",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use a quiet, calm tone because the line is short.",
+        "text": "Change every word.",
         "is_correct": false
       },
       {
-        "text": "Use an excited tone but pause after each word as separate ideas.",
-        "is_correct": false
-      },
-      {
-        "text": "Use an urgent tone with clear emphasis on wait.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
+      },
+      {
+        "text": "Keep reading without thinking.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "An urgent tone and emphasis communicate the character's call.",
-      "hint": "Let the words and punctuation guide the voice."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "self_correct_independently_direct",
-    "question": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action?",
-    "audio_prompt": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action?",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Go back, reread the sentence and fix the mismatched word.",
+        "text": "the beach",
         "is_correct": true
       },
       {
-        "text": "Check only the picture and change the word without rereading.",
+        "text": "the library",
         "is_correct": false
       },
       {
-        "text": "Keep reading and wait to see whether someone corrects it later.",
+        "text": "bed",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Returning to the print and repairing the error shows self-correction.",
-      "hint": "Strong readers respond when what they say does not make sense."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "use_a_full_stop_direct",
-    "question": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ?",
-    "audio_prompt": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ?",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use only a tiny comma pause and run the ideas together.",
+        "text": "copy every word",
         "is_correct": false
       },
       {
-        "text": "Finish the first idea, pause, then begin the next sentence.",
+        "text": "list only commas",
+        "is_correct": false
+      },
+      {
+        "text": "tell the main ideas briefly",
         "is_correct": true
-      },
-      {
-        "text": "Pause after rang, then restart from The bell rang again.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The full stop marks the end of one complete idea before the next begins.",
-      "hint": "Let sentence-ending punctuation guide a natural pause."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "decode_a_longer_word_direct",
-    "question": "A reader meets shimmered. Which approach uses word knowledge well?",
-    "audio_prompt": "A reader meets shimmered. Which approach uses word knowledge well?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the first letters sh and guess shivered.",
+        "text": "Mira lost the shell.",
         "is_correct": false
       },
       {
-        "text": "Read shimmer but leave off ed because the base is familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Read the known part shimmer, then add the ending ed.",
+        "text": "Mira opened the box.",
         "is_correct": true
+      },
+      {
+        "text": "Mira showed Dad.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Recognising the base and suffix reduces the longer word into useful parts.",
-      "hint": "Look for a familiar word inside the longer form."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "read_character_speech_direct",
-    "question": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag?",
-    "audio_prompt": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use a quiet voice while keeping the words clear.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       },
       {
-        "text": "Use a loud, excited voice because Chen found something.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "Use a normal speaking voice because dialogue tags do not guide volume.",
+        "text": "Change every word.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The verb whispered guides a quiet but understandable delivery.",
-      "hint": "Use the dialogue tag to choose tone and volume."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "phrase_a_sentence_explain",
-    "question": "Which reading sounds natural for the sentence ‘After lunch the class planted six seedlings’ ? Why is “Pause briefly after lunch, then read the rest as one smooth idea.” the best answer?",
-    "audio_prompt": "Which reading sounds natural for the sentence ‘After lunch the class planted six seedlings’ ? Why is “Pause briefly after lunch, then read the rest as one smooth idea.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Pause after After, then pause again after the class.”.",
+        "text": "the library",
         "is_correct": false
       },
       {
-        "text": "A brief pause after the opening time phrase keeps the rest of the idea together.",
+        "text": "bed",
+        "is_correct": false
+      },
+      {
+        "text": "the beach",
         "is_correct": true
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A brief pause after the opening time phrase keeps the rest of the idea together.",
-      "hint": "Keep words together when they tell who acted and what they did."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "use_a_comma_explain",
-    "question": "How should a reader treat the comma in ‘Before the rain, we packed the tent’ ? Why is “Make a short pause after rain, then continue smoothly.” the best answer?",
-    "audio_prompt": "How should a reader treat the comma in ‘Before the rain, we packed the tent’ ? Why is “Make a short pause after rain, then continue smoothly.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Use a full-stop pause after rain, as if the idea has ended.”.",
+        "text": "list only commas",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "A comma often guides a brief pause between meaningful parts.",
+        "text": "tell the main ideas briefly",
         "is_correct": true
+      },
+      {
+        "text": "copy every word",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A comma often guides a brief pause between meaningful parts.",
-      "hint": "Use punctuation to shape phrasing without breaking the meaning."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "monitor_meaning_explain",
-    "question": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do? Why is “Stop, reread and check the letters and sentence meaning.” the best answer?",
-    "audio_prompt": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do? Why is “Stop, reread and check the letters and sentence meaning.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Rereading and checking print plus meaning helps repair the misread word.",
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "It is best only because it is longer than “Keep reading and hope the next sentence makes sailed fit.”.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "Mira lost the shell.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Rereading and checking print plus meaning helps repair the misread word.",
-      "hint": "A correction must fit both the letters and the sentence."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "check_a_vowel_pattern_explain",
-    "question": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it? Why is “The oa pattern and the meaning of sailing both point to boat.” the best answer?",
-    "audio_prompt": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it? Why is “The oa pattern and the meaning of sailing both point to boat.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “The picture alone proves every word.”.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "The letters oa and the sentence meaning work together to confirm boat.",
+        "text": "Change every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The letters oa and the sentence meaning work together to confirm boat.",
-      "hint": "Check the whole grapheme pattern as well as meaning."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "fluency_is_not_racing_explain",
-    "question": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first? Why is “accuracy, phrasing and attention to meaning” the best answer?",
-    "audio_prompt": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first? Why is “accuracy, phrasing and attention to meaning” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “speed, even if more words are missed”.",
+        "text": "bed",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "Fluent reading combines accurate words, meaningful phrasing and understanding.",
+        "text": "the beach",
         "is_correct": true
+      },
+      {
+        "text": "the library",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Fluent reading combines accurate words, meaningful phrasing and understanding.",
-      "hint": "Fast reading is not useful when words or meaning are lost."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "read_dialogue_with_expression_explain",
-    "question": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning? Why is “Use an urgent tone with clear emphasis on wait.” the best answer?",
-    "audio_prompt": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning? Why is “Use an urgent tone with clear emphasis on wait.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "An urgent tone and emphasis communicate the character's call.",
+        "text": "tell the main ideas briefly",
         "is_correct": true
       },
       {
-        "text": "It is best only because it is longer than “Use a quiet, calm tone because the line is short.”.",
+        "text": "copy every word",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "list only commas",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "An urgent tone and emphasis communicate the character's call.",
-      "hint": "Let the words and punctuation guide the voice."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "self_correct_independently_explain",
-    "question": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action? Why is “Go back, reread the sentence and fix the mismatched word.” the best answer?",
-    "audio_prompt": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action? Why is “Go back, reread the sentence and fix the mismatched word.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Check only the picture and change the word without rereading.”.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       },
       {
-        "text": "Returning to the print and repairing the error shows self-correction.",
+        "text": "Mira lost the shell.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira opened the box.",
         "is_correct": true
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Returning to the print and repairing the error shows self-correction.",
-      "hint": "Strong readers respond when what they say does not make sense."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 17,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "use_a_full_stop_explain",
-    "question": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ? Why is “Finish the first idea, pause, then begin the next sentence.” the best answer?",
-    "audio_prompt": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ? Why is “Finish the first idea, pause, then begin the next sentence.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Use only a tiny comma pause and run the ideas together.”.",
+        "text": "Change every word.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "The full stop marks the end of one complete idea before the next begins.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
+      },
+      {
+        "text": "Keep reading without thinking.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The full stop marks the end of one complete idea before the next begins.",
-      "hint": "Let sentence-ending punctuation guide a natural pause."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 18,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "decode_a_longer_word_explain",
-    "question": "A reader meets shimmered. Which approach uses word knowledge well? Why is “Read the known part shimmer, then add the ending ed.” the best answer?",
-    "audio_prompt": "A reader meets shimmered. Which approach uses word knowledge well? Why is “Read the known part shimmer, then add the ending ed.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Recognising the base and suffix reduces the longer word into useful parts.",
+        "text": "the beach",
         "is_correct": true
       },
       {
-        "text": "It is best only because it is longer than “Use the first letters sh and guess shivered.”.",
+        "text": "the library",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "bed",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Recognising the base and suffix reduces the longer word into useful parts.",
-      "hint": "Look for a familiar word inside the longer form."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 19,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "read_character_speech_explain",
-    "question": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag? Why is “Use a quiet voice while keeping the words clear.” the best answer?",
-    "audio_prompt": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag? Why is “Use a quiet voice while keeping the words clear.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Use a loud, excited voice because Chen found something.”.",
+        "text": "copy every word",
         "is_correct": false
       },
       {
-        "text": "The verb whispered guides a quiet but understandable delivery.",
+        "text": "list only commas",
+        "is_correct": false
+      },
+      {
+        "text": "tell the main ideas briefly",
         "is_correct": true
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The verb whispered guides a quiet but understandable delivery.",
-      "hint": "Use the dialogue tag to choose tone and volume."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 20,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "monitor_meaning_discriminate",
-    "question": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do? Which response is the clearest mix-up to avoid?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Stop, reread and check the letters and sentence meaning.",
+        "text": "Mira lost the shell.",
         "is_correct": false
       },
       {
-        "text": "Change sailed to hopped because it makes sense, without checking the letters.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep reading and hope the next sentence makes sailed fit.",
+        "text": "Mira opened the box.",
         "is_correct": true
+      },
+      {
+        "text": "Mira showed Dad.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“Keep reading and hope the next sentence makes sailed fit.” is the mix-up to avoid. A correction must fit both the letters and the sentence.",
-      "hint": "A correction must fit both the letters and the sentence."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 21,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "check_a_vowel_pattern_discriminate",
-    "question": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it? Which response is the clearest mix-up to avoid?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The picture alone proves every word.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       },
       {
-        "text": "The oa pattern and the meaning of sailing both point to boat.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "Any word beginning with b will fit.",
+        "text": "Change every word.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“The picture alone proves every word.” is the mix-up to avoid. Check the whole grapheme pattern as well as meaning.",
-      "hint": "Check the whole grapheme pattern as well as meaning."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 22,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-P-023",
@@ -841,37 +841,43 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "fluency_is_not_racing_discriminate",
-    "question": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first? Which response is the clearest mix-up to avoid?",
+    "stage": "create",
+    "skill": "explain concept",
+    "question": "Write or say two sentences that show the main idea of AC9E2LY04. Use your own example.",
+    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY04. Use your own example.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "accuracy, phrasing and attention to meaning",
-        "is_correct": false
-      },
-      {
-        "text": "speed, even if more words are missed",
+        "text": "Parent or teacher review needed",
         "is_correct": true
       },
       {
-        "text": "volume, while ignoring the printed words",
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“speed, even if more words are missed” is the mix-up to avoid. Fast reading is not useful when words or meaning are lost.",
-      "hint": "Fast reading is not useful when words or meaning are lost."
+      "summary": "A strong response explains the code idea and includes a correct original example for Fluent Reading and Self Correction.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response explains the code idea and includes a correct original example for Fluent Reading and Self Correction.",
+    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LY04-P-024",
@@ -879,645 +885,43 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "read_dialogue_with_expression_discriminate",
-    "question": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning? Which response is the clearest mix-up to avoid?",
+    "stage": "create",
+    "skill": "apply concept",
+    "question": "Create a short Year 2 example question for AC9E2LY04, then explain the answer.",
+    "audio_prompt": "Create a short Year 2 example question for AC9E2LY04, then explain the answer.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use an urgent tone with clear emphasis on wait.",
-        "is_correct": false
-      },
-      {
-        "text": "Use an excited tone but pause after each word as separate ideas.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a quiet, calm tone because the line is short.",
+        "text": "Parent or teacher review needed",
         "is_correct": true
+      },
+      {
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“Use a quiet, calm tone because the line is short.” is the mix-up to avoid. Let the words and punctuation guide the voice.",
-      "hint": "Let the words and punctuation guide the voice."
+      "summary": "A strong response creates a clear example and explains why the answer works.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-025",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "self_correct_independently_discriminate",
-    "question": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Check only the picture and change the word without rereading.",
-        "is_correct": true
-      },
-      {
-        "text": "Go back, reread the sentence and fix the mismatched word.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep reading and wait to see whether someone corrects it later.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "“Check only the picture and change the word without rereading.” is the mix-up to avoid. Strong readers respond when what they say does not make sense.",
-      "hint": "Strong readers respond when what they say does not make sense."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 25,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-026",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "use_a_full_stop_discriminate",
-    "question": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Finish the first idea, pause, then begin the next sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "Use only a tiny comma pause and run the ideas together.",
-        "is_correct": true
-      },
-      {
-        "text": "Pause after rang, then restart from The bell rang again.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "“Use only a tiny comma pause and run the ideas together.” is the mix-up to avoid. Let sentence-ending punctuation guide a natural pause.",
-      "hint": "Let sentence-ending punctuation guide a natural pause."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 26,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-027",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "decode_a_longer_word_discriminate",
-    "question": "A reader meets shimmered. Which approach uses word knowledge well? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A reader meets shimmered. Which approach uses word knowledge well? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Read the known part shimmer, then add the ending ed.",
-        "is_correct": false
-      },
-      {
-        "text": "Read shimmer but leave off ed because the base is familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the first letters sh and guess shivered.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "“Use the first letters sh and guess shivered.” is the mix-up to avoid. Look for a familiar word inside the longer form.",
-      "hint": "Look for a familiar word inside the longer form."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 27,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-028",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "read_character_speech_discriminate",
-    "question": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use a loud, excited voice because Chen found something.",
-        "is_correct": true
-      },
-      {
-        "text": "Use a quiet voice while keeping the words clear.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a normal speaking voice because dialogue tags do not guide volume.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "“Use a loud, excited voice because Chen found something.” is the mix-up to avoid. Use the dialogue tag to choose tone and volume.",
-      "hint": "Use the dialogue tag to choose tone and volume."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 28,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-029",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "check_two_possible_words_discriminate",
-    "question": "A reader says, ‘We followed the forest train,’ but the printed word is trail. What should the reader compare? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A reader says, ‘We followed the forest train,’ but the printed word is trail. What should the reader compare? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "the final letter and which word makes sense in the sentence",
-        "is_correct": false
-      },
-      {
-        "text": "only the shared first letters in trail and train",
-        "is_correct": true
-      },
-      {
-        "text": "only which object appears in the nearby picture",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "“only the shared first letters in trail and train” is the mix-up to avoid. Use complete print information and context together.",
-      "hint": "Use complete print information and context together."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 29,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-030",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "phrase_a_list_discriminate",
-    "question": "How should ‘We packed hats, water and maps’ be phrased? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "How should ‘We packed hats, water and maps’ be phrased? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Keep each listed item clear, with brief pauses at the comma and before the last item.",
-        "is_correct": false
-      },
-      {
-        "text": "Treat the whole list as one phrase with no change at the comma.",
-        "is_correct": false
-      },
-      {
-        "text": "Pause after hats but run water and maps into one unclear item.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "“Pause after hats but run water and maps into one unclear item.” is the mix-up to avoid. Use list punctuation to group rather than chop the sentence.",
-      "hint": "Use list punctuation to group rather than chop the sentence."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 30,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-031",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "monitor_meaning_apply",
-    "question": "Use this clue: A correction must fit both the letters and the sentence. A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do?",
-    "audio_prompt": "Use this clue: A correction must fit both the letters and the sentence. A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Stop, reread and check the letters and sentence meaning.",
-        "is_correct": true
-      },
-      {
-        "text": "Change sailed to hopped because it makes sense, without checking the letters.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep reading and hope the next sentence makes sailed fit.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Rereading and checking print plus meaning helps repair the misread word.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 31,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-032",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "check_a_vowel_pattern_apply",
-    "question": "Use this clue: Check the whole grapheme pattern as well as meaning. The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it?",
-    "audio_prompt": "Use this clue: Check the whole grapheme pattern as well as meaning. The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Any word beginning with b will fit.",
-        "is_correct": false
-      },
-      {
-        "text": "The oa pattern and the meaning of sailing both point to boat.",
-        "is_correct": true
-      },
-      {
-        "text": "The picture alone proves every word.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The letters oa and the sentence meaning work together to confirm boat.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 32,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-033",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "fluency_is_not_racing_apply",
-    "question": "Use this clue: Fast reading is not useful when words or meaning are lost. Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first?",
-    "audio_prompt": "Use this clue: Fast reading is not useful when words or meaning are lost. Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "volume, while ignoring the printed words",
-        "is_correct": false
-      },
-      {
-        "text": "speed, even if more words are missed",
-        "is_correct": false
-      },
-      {
-        "text": "accuracy, phrasing and attention to meaning",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Fluent reading combines accurate words, meaningful phrasing and understanding.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 33,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-034",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "read_dialogue_with_expression_apply",
-    "question": "Use this clue: Let the words and punctuation guide the voice. The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning?",
-    "audio_prompt": "Use this clue: Let the words and punctuation guide the voice. The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use an urgent tone with clear emphasis on wait.",
-        "is_correct": true
-      },
-      {
-        "text": "Use an excited tone but pause after each word as separate ideas.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a quiet, calm tone because the line is short.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "An urgent tone and emphasis communicate the character's call.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 34,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-035",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "self_correct_independently_apply",
-    "question": "Use this clue: Strong readers respond when what they say does not make sense. A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action?",
-    "audio_prompt": "Use this clue: Strong readers respond when what they say does not make sense. A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Keep reading and wait to see whether someone corrects it later.",
-        "is_correct": false
-      },
-      {
-        "text": "Go back, reread the sentence and fix the mismatched word.",
-        "is_correct": true
-      },
-      {
-        "text": "Check only the picture and change the word without rereading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Returning to the print and repairing the error shows self-correction.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 35,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-036",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "use_a_full_stop_apply",
-    "question": "Use this clue: Let sentence-ending punctuation guide a natural pause. How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ?",
-    "audio_prompt": "Use this clue: Let sentence-ending punctuation guide a natural pause. How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Pause after rang, then restart from The bell rang again.",
-        "is_correct": false
-      },
-      {
-        "text": "Use only a tiny comma pause and run the ideas together.",
-        "is_correct": false
-      },
-      {
-        "text": "Finish the first idea, pause, then begin the next sentence.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The full stop marks the end of one complete idea before the next begins.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 36,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-037",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "decode_a_longer_word_apply",
-    "question": "Use this clue: Look for a familiar word inside the longer form. A reader meets shimmered. Which approach uses word knowledge well?",
-    "audio_prompt": "Use this clue: Look for a familiar word inside the longer form. A reader meets shimmered. Which approach uses word knowledge well?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Read the known part shimmer, then add the ending ed.",
-        "is_correct": true
-      },
-      {
-        "text": "Read shimmer but leave off ed because the base is familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the first letters sh and guess shivered.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Recognising the base and suffix reduces the longer word into useful parts.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 37,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-038",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "read_character_speech_apply",
-    "question": "Use this clue: Use the dialogue tag to choose tone and volume. The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag?",
-    "audio_prompt": "Use this clue: Use the dialogue tag to choose tone and volume. The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use a normal speaking voice because dialogue tags do not guide volume.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a quiet voice while keeping the words clear.",
-        "is_correct": true
-      },
-      {
-        "text": "Use a loud, excited voice because Chen found something.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The verb whispered guides a quiet but understandable delivery.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 38,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-039",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "check_two_possible_words_apply",
-    "question": "Use this clue: Use complete print information and context together. A reader says, ‘We followed the forest train,’ but the printed word is trail. What should the reader compare?",
-    "audio_prompt": "Use this clue: Use complete print information and context together. A reader says, ‘We followed the forest train,’ but the printed word is trail. What should the reader compare?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "only which object appears in the nearby picture",
-        "is_correct": false
-      },
-      {
-        "text": "only the shared first letters in trail and train",
-        "is_correct": false
-      },
-      {
-        "text": "the final letter and which word makes sense in the sentence",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The final letter plus sentence meaning distinguish trail from train.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 39,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY04-P-040",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "phrase_a_list_apply",
-    "question": "Use this clue: Use list punctuation to group rather than chop the sentence. How should ‘We packed hats, water and maps’ be phrased?",
-    "audio_prompt": "Use this clue: Use list punctuation to group rather than chop the sentence. How should ‘We packed hats, water and maps’ be phrased?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Keep each listed item clear, with brief pauses at the comma and before the last item.",
-        "is_correct": true
-      },
-      {
-        "text": "Treat the whole list as one phrase with no change at the comma.",
-        "is_correct": false
-      },
-      {
-        "text": "Pause after hats but run water and maps into one unclear item.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Natural brief pauses help listeners hear the separate items.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 40,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response creates a clear example and explains why the answer works.",
+    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LY04-T-001",
@@ -1525,37 +929,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_question_punctuation_direct",
-    "question": "How should ‘Where did the silver key go?’ be read?",
-    "audio_prompt": "How should ‘Where did the silver key go?’ be read?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "as one smooth question with the voice lifting naturally at the end",
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "as a flat statement with the voice dropping at the end",
+        "text": "Mira showed Dad.",
         "is_correct": false
       },
       {
-        "text": "as a question that pauses after key and rushes the final word",
+        "text": "Mira lost the shell.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The question mark and sentence meaning guide a natural questioning tone.",
-      "hint": "Identify the sentence type before choosing the voice."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-002",
@@ -1563,37 +967,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_choose_phrase_breaks_direct",
-    "question": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ?",
-    "audio_prompt": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Pause after Under, then pause again after two.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "Pause briefly after bridge, then read two ducks rested quietly together.",
+        "text": "Change every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
-      },
-      {
-        "text": "Pause after old and after rested, breaking both ideas apart.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The opening place phrase stays together before a brief pause and the main idea.",
-      "hint": "Keep words together when they form one chunk of meaning."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-003",
@@ -1601,37 +1005,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_repair_with_context_direct",
-    "question": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first?",
-    "audio_prompt": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the, because it is the shortest word in the sentence",
+        "text": "bed",
         "is_correct": false
       },
       {
-        "text": "horse, because the first content word should be checked first",
-        "is_correct": false
-      },
-      {
-        "text": "house, because it does not fit the sentence meaning",
+        "text": "the beach",
         "is_correct": true
+      },
+      {
+        "text": "the library",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "House makes the sentence nonsensical and may be a misreading of grass.",
-      "hint": "Notice the word that breaks the meaning, then check its letters."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-004",
@@ -1639,37 +1043,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_suitable_pace_direct",
-    "question": "A passage explains three steps for a science test. Which pace best supports listeners?",
-    "audio_prompt": "A passage explains three steps for a science test. Which pace best supports listeners?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "steady enough for each step to be understood",
+        "text": "tell the main ideas briefly",
         "is_correct": true
       },
       {
-        "text": "so fast that step words run together",
+        "text": "copy every word",
         "is_correct": false
       },
       {
-        "text": "so slow that every sound is separated from its word",
+        "text": "list only commas",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A steady pace helps the audience follow ordered information.",
-      "hint": "Match pace to clarity and the purpose of the passage."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-005",
@@ -1677,37 +1081,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_use_word_parts_direct",
-    "question": "A reader knows play and sees played. What can help read the longer word accurately?",
-    "audio_prompt": "A reader knows play and sees played. What can help read the longer word accurately?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the picture to guess played without checking all its letters.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       },
       {
-        "text": "Read the known base play, then add the ending ed.",
+        "text": "Mira lost the shell.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira opened the box.",
         "is_correct": true
-      },
-      {
-        "text": "Read the familiar base play and treat ed as a silent ending.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Recognising the base and ending supports accurate word reading.",
-      "hint": "Look for familiar word parts before guessing."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-006",
@@ -1715,37 +1119,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_repeated_reading_direct",
-    "question": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show?",
-    "audio_prompt": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Her reading improved only because the second attempt was faster.",
+        "text": "Change every word.",
         "is_correct": false
       },
       {
-        "text": "Her phrasing improved, but correcting word errors is not part of fluency.",
-        "is_correct": false
-      },
-      {
-        "text": "Her accuracy and phrasing have improved.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
+      },
+      {
+        "text": "Keep reading without thinking.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Correcting errors and improving phrasing are signs of stronger fluency.",
-      "hint": "Compare the quality of the two readings, not just their speed."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-007",
@@ -1753,37 +1157,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_repair_a_final_consonant_direct",
-    "question": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction?",
-    "audio_prompt": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Coal ends with l, and coal can keep a fire warm.",
+        "text": "the beach",
         "is_correct": true
       },
       {
-        "text": "Coat and coal begin with co, so either word must be correct.",
+        "text": "the library",
         "is_correct": false
       },
       {
-        "text": "The fire picture decides the word without checking its final letter.",
+        "text": "bed",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The final consonant and sentence meaning together confirm coal.",
-      "hint": "Check the part of the word that differs and test it in context."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-008",
@@ -1791,37 +1195,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_perform_a_suspense_line_direct",
-    "question": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning?",
-    "audio_prompt": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Read slowly at first, then rush through began to turn.",
+        "text": "copy every word",
         "is_correct": false
       },
       {
-        "text": "Read at a controlled slower pace and pause at the ending.",
+        "text": "list only commas",
+        "is_correct": false
+      },
+      {
+        "text": "tell the main ideas briefly",
         "is_correct": true
-      },
-      {
-        "text": "Use an even, cheerful tone while pausing only after slowly.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A slower pace and final pause support the suspense created by the words.",
-      "hint": "Match pace and pause to the mood of the sentence."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-009",
@@ -1830,36 +1234,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_question_punctuation_test-reason",
-    "question": "How should ‘Where did the silver key go?’ be read? Which reason best supports the correct choice?",
-    "audio_prompt": "How should ‘Where did the silver key go?’ be read? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "Mira lost the shell.",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The question mark and sentence meaning guide a natural questioning tone.",
+        "text": "Mira opened the box.",
         "is_correct": true
+      },
+      {
+        "text": "Mira showed Dad.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The question mark and sentence meaning guide a natural questioning tone.",
-      "hint": "Identify the sentence type before choosing the voice."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-010",
@@ -1868,36 +1272,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_choose_phrase_breaks_test-reason",
-    "question": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ? Which reason best supports the correct choice?",
-    "audio_prompt": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The opening place phrase stays together before a brief pause and the main idea.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       },
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Change every word.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The opening place phrase stays together before a brief pause and the main idea.",
-      "hint": "Keep words together when they form one chunk of meaning."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-011",
@@ -1906,36 +1310,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_repair_with_context_test-reason",
-    "question": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first? Which reason best supports the correct choice?",
-    "audio_prompt": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "the library",
         "is_correct": false
       },
       {
-        "text": "House makes the sentence nonsensical and may be a misreading of grass.",
+        "text": "bed",
+        "is_correct": false
+      },
+      {
+        "text": "the beach",
         "is_correct": true
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "House makes the sentence nonsensical and may be a misreading of grass.",
-      "hint": "Notice the word that breaks the meaning, then check its letters."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-012",
@@ -1944,36 +1348,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_suitable_pace_test-reason",
-    "question": "A passage explains three steps for a science test. Which pace best supports listeners? Which reason best supports the correct choice?",
-    "audio_prompt": "A passage explains three steps for a science test. Which pace best supports listeners? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "list only commas",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "A steady pace helps the audience follow ordered information.",
+        "text": "tell the main ideas briefly",
         "is_correct": true
+      },
+      {
+        "text": "copy every word",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A steady pace helps the audience follow ordered information.",
-      "hint": "Match pace to clarity and the purpose of the passage."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-013",
@@ -1982,36 +1386,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_use_word_parts_test-reason",
-    "question": "A reader knows play and sees played. What can help read the longer word accurately? Which reason best supports the correct choice?",
-    "audio_prompt": "A reader knows play and sees played. What can help read the longer word accurately? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Recognising the base and ending supports accurate word reading.",
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Mira lost the shell.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Recognising the base and ending supports accurate word reading.",
-      "hint": "Look for familiar word parts before guessing."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-014",
@@ -2020,36 +1424,36 @@
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_repeated_reading_test-reason",
-    "question": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show? Which reason best supports the correct choice?",
-    "audio_prompt": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "Correcting errors and improving phrasing are signs of stronger fluency.",
+        "text": "Change every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Correcting errors and improving phrasing are signs of stronger fluency.",
-      "hint": "Compare the quality of the two readings, not just their speed."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY04-T-015",
@@ -2057,37 +1461,43 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "test_repair_a_final_consonant_test-reason",
-    "question": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction? Which reason best supports the correct choice?",
-    "audio_prompt": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction? Which reason best supports the correct choice?",
+    "stage": "create",
+    "skill": "explain concept",
+    "question": "Write or say two sentences that show the main idea of AC9E2LY04. Use your own example.",
+    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY04. Use your own example.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The final consonant and sentence meaning together confirm coal.",
+        "text": "Parent or teacher review needed",
         "is_correct": true
+      },
+      {
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The final consonant and sentence meaning together confirm coal.",
-      "hint": "Check the part of the word that differs and test it in context."
+      "summary": "A strong response explains the code idea and includes a correct original example for Fluent Reading and Self Correction.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 15,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response explains the code idea and includes a correct original example for Fluent Reading and Self Correction.",
+    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LY04-T-016",
@@ -2095,36 +1505,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "test_perform_a_suspense_line_test-reason",
-    "question": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning? Which reason best supports the correct choice?",
-    "audio_prompt": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning? Which reason best supports the correct choice?",
+    "stage": "create",
+    "skill": "apply concept",
+    "question": "Create a short Year 2 example question for AC9E2LY04, then explain the answer.",
+    "audio_prompt": "Create a short Year 2 example question for AC9E2LY04, then explain the answer.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A slower pace and final pause support the suspense created by the words.",
+        "text": "Parent or teacher review needed",
         "is_correct": true
       },
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "Needs more detail",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Off topic",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A slower pace and final pause support the suspense created by the words.",
-      "hint": "Match pace and pause to the mood of the sentence."
+      "summary": "A strong response creates a clear example and explains why the answer works.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 16,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response creates a clear example and explains why the answer works.",
+    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   }
 ]

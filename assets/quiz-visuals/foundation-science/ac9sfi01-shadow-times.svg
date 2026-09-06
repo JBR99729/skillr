@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
-  <title id="title">A shadow at two times</title><desc id="desc">A short shadow beside a post in the morning and a longer shadow beside the same post in the afternoon.</desc>
-  <rect width="640" height="360" rx="24" fill="#eef8ff"/><path d="M40 278h560" stroke="#6ca75d" stroke-width="12"/>
-  <circle cx="95" cy="75" r="37" fill="#ffd34e"/><path d="M190 275V130" stroke="#714b2d" stroke-width="24"/><path d="M190 275 92 306" stroke="#617183" stroke-width="24" stroke-linecap="round" opacity=".7"/>
-  <circle cx="522" cy="104" r="37" fill="#ffd34e"/><path d="M430 275V130" stroke="#714b2d" stroke-width="24"/><path d="M430 275 586 320" stroke="#617183" stroke-width="24" stroke-linecap="round" opacity=".7"/>
-  <path d="M320 42v278" stroke="#b9cede" stroke-width="4"/><text x="119" y="342" font-family="Arial,sans-serif" font-size="28" fill="#29445a">morning</text><text x="394" y="342" font-family="Arial,sans-serif" font-size="28" fill="#29445a">afternoon</text>
-</svg>
