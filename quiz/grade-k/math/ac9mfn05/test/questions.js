@@ -4,380 +4,512 @@ window.skillrTestQuestions = [
     "id": "ac9mfn05-t-001",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "joining situation",
+    "skill": "unknown joining change",
     "printable": true,
-    "type": "number",
-    "question": "5 ducks are in a pond. 1 more swim in. How many ducks are there now?",
-    "visual": "Before: ▲ ▲ ▲ ▲ ▲\nJoin:   ▲",
-    "correct": "6",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "The collection grows: 5+1=6.",
-    "modelAnswer": "6"
+    "type": "single",
+    "question": "There were 4 blocks. Now there are 5. How many blocks joined?",
+    "visual": "Before: ■ ■ ■ ■\nAfter:  ■ ■ ■ ■ ■",
+    "answers": [
+      "5",
+      "4",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "Count on from 4 to 5. The missing joining part is 1.",
+    "structuredExplanation": {
+      "summary": "Count on from 4 to 5. The missing joining part is 1.",
+      "hint": "Find the change between before and after."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-002",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "separating situation",
+    "skill": "mixed add or subtract",
     "printable": true,
-    "type": "number",
-    "question": "7 blocks are on the mat. 2 are taken away. How many remain?",
-    "visual": "Start: ■ ■ ■ ■ ■ ■ ■\nTaken: × ×",
-    "correct": "5",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Remove 2 from 7; 5 remain.",
-    "modelAnswer": "5"
+    "type": "single",
+    "question": "A plate had 10 berries. After snack time, 7 berries were left. What happened?",
+    "visual": "",
+    "answers": [
+      "3 berries were taken away",
+      "3 berries were added",
+      "10 berries were left"
+    ],
+    "correct": 0,
+    "explanation": "The number went down from 10 to 7, so 3 berries were taken away.",
+    "structuredExplanation": {
+      "summary": "The number went down from 10 to 7, so 3 berries were taken away.",
+      "hint": "A smaller after-number means some were removed."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-003",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "choose joining model",
+    "skill": "join collections",
     "printable": true,
     "type": "single",
-    "question": "Sam has 4 blocks. He gets 3 more. How many blocks does he have now?",
+    "question": "Ava has 3 blocks. 4 more blocks join the group. How many blocks are there now?",
+    "visual": "Start: ● ● ●\nJoin:  ■ ■ ■ ■",
     "answers": [
+      "3",
       "7",
-      "4",
-      "8"
+      "4"
     ],
-    "correct": 0,
-    "explanation": "Joining combines the starting group and the new group."
+    "correct": 1,
+    "explanation": "Joining means count both parts: 3 + 4 = 7.",
+    "structuredExplanation": {
+      "summary": "Joining means count both parts: 3 + 4 = 7.",
+      "hint": "The collection gets larger when more objects join."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-004",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "choose separating model",
+    "skill": "take away from a collection",
     "printable": true,
     "type": "single",
-    "question": "Sam has 5 blocks. He gets 1 more. How many blocks does he have now?",
+    "question": "6 shells are on a mat. 5 are taken away. How many stay on the mat?",
+    "visual": "Start: ● ● ● ● ● ●\nTaken away: × × × × ×",
     "answers": [
-      "6",
       "5",
-      "7"
+      "6",
+      "1"
     ],
-    "correct": 0,
-    "explanation": "Leaving makes the collection smaller."
+    "correct": 2,
+    "explanation": "Taking away makes the collection smaller: 6 - 5 = 1.",
+    "structuredExplanation": {
+      "summary": "Taking away makes the collection smaller: 6 - 5 = 1.",
+      "hint": "Count the objects that are not taken away."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-005",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "match addition statement",
+    "skill": "choose operation from story",
     "printable": true,
     "type": "single",
-    "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
+    "question": "Which number sentence matches this story? 1 shells are in a basket and 3 more are added.",
+    "visual": "",
     "answers": [
-      "8",
-      "6",
-      "9"
+      "1 + 3 = 4",
+      "4 - 3 = 1",
+      "1 - 3 = 0"
     ],
     "correct": 0,
-    "explanation": "The plus sign represents joining."
+    "explanation": "The word added tells us to join the groups, so the matching sentence is 1 + 3 = 4.",
+    "structuredExplanation": {
+      "summary": "The word added tells us to join the groups, so the matching sentence is 1 + 3 = 4.",
+      "hint": "Added means use addition."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-006",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "match subtraction statement",
+    "skill": "complete subtraction sentence",
     "printable": true,
     "type": "single",
-    "question": "Sam has 2 blocks. He gets 3 more. How many blocks does he have now?",
+    "question": "Complete the sentence for the picture: 8 - 2 = __",
+    "visual": "● ● ● ● ● ●   Taken away: × ×",
     "answers": [
-      "5",
-      "2",
-      "6"
+      "8",
+      "6",
+      "2"
     ],
-    "correct": 0,
-    "explanation": "The subtraction sentence shows the starting amount, removal and result."
+    "correct": 1,
+    "explanation": "Start with 8, remove 2, and 6 remain.",
+    "structuredExplanation": {
+      "summary": "Start with 8, remove 2, and 6 remain.",
+      "hint": "The answer is what stays, not what was removed."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-007",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "count on strategy",
+    "skill": "unknown joining change",
     "printable": true,
     "type": "single",
-    "question": "Lina starts at 6 and counts on 3 numbers. Where does the count finish?",
+    "question": "There were 6 blocks. Now there are 8. How many blocks joined?",
+    "visual": "Before: ■ ■ ■ ■ ■ ■\nAfter:  ■ ■ ■ ■ ■ ■ ■ ■",
     "answers": [
-      "9",
+      "8",
       "6",
-      "8"
+      "2"
     ],
-    "correct": 0,
-    "explanation": "Counting on 3 from 6 reaches 9."
+    "correct": 2,
+    "explanation": "Count on from 6 to 8. The missing joining part is 2.",
+    "structuredExplanation": {
+      "summary": "Count on from 6 to 8. The missing joining part is 2.",
+      "hint": "Find the change between before and after."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-008",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "count what remains",
+    "skill": "mixed add or subtract",
     "printable": true,
     "type": "single",
-    "question": "Cross out 1 from the collection. How many are not crossed out?",
-    "visual": "× ● ● ● ● ● ● ● ● ●",
+    "question": "A plate had 10 berries. After snack time, 6 berries were left. What happened?",
+    "visual": "",
     "answers": [
-      "9",
-      "1",
-      "10"
+      "4 berries were taken away",
+      "4 berries were added",
+      "10 berries were left"
     ],
     "correct": 0,
-    "explanation": "10-1=9."
+    "explanation": "The number went down from 10 to 6, so 4 berries were taken away.",
+    "structuredExplanation": {
+      "summary": "The number went down from 10 to 6, so 4 berries were taken away.",
+      "hint": "A smaller after-number means some were removed."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-009",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "unknown joining change",
+    "skill": "join collections",
     "printable": true,
-    "type": "number",
-    "question": "There were 4 toy cars. Now there are 7. How many joined?",
-    "visual": "Before: ■ ■ ■ ■\nAfter:  ■ ■ ■ ■ ■ ■ ■",
-    "correct": "3",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "The change is 7-4=3.",
-    "modelAnswer": "3"
+    "type": "single",
+    "question": "Mia has 5 counters. 1 more counters join the group. How many counters are there now?",
+    "visual": "Start: ● ● ● ● ●\nJoin:  ■",
+    "answers": [
+      "5",
+      "6",
+      "1"
+    ],
+    "correct": 1,
+    "explanation": "Joining means count both parts: 5 + 1 = 6.",
+    "structuredExplanation": {
+      "summary": "Joining means count both parts: 5 + 1 = 6.",
+      "hint": "The collection gets larger when more objects join."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-010",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "unknown separating change",
+    "skill": "take away from a collection",
     "printable": true,
-    "type": "number",
-    "question": "There were 8 apples. Now there are 5. How many were removed?",
-    "visual": "Before: ● ● ● ● ● ● ● ●\nAfter:  ● ● ● ● ●",
-    "correct": "3",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "8-3=5.",
-    "modelAnswer": "3"
+    "type": "single",
+    "question": "6 buttons are on a mat. 1 are taken away. How many stay on the mat?",
+    "visual": "Start: ● ● ● ● ● ●\nTaken away: ×",
+    "answers": [
+      "1",
+      "6",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "Taking away makes the collection smaller: 6 - 1 = 5.",
+    "structuredExplanation": {
+      "summary": "Taking away makes the collection smaller: 6 - 1 = 5.",
+      "hint": "Count the objects that are not taken away."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-011",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "distinguish operation",
+    "skill": "choose operation from story",
     "printable": true,
     "type": "single",
-    "question": "4 birds are on a fence. 1 birds fly away. Which action should you use?",
+    "question": "Which number sentence matches this story? 3 shells are in a basket and 4 more are added.",
+    "visual": "",
     "answers": [
-      "Separate or subtract",
-      "Join or add",
-      "Partition a fixed whole without change"
+      "3 + 4 = 7",
+      "7 - 4 = 3",
+      "3 - 4 = 0"
     ],
     "correct": 0,
-    "explanation": "The number of birds decreases because some leave."
+    "explanation": "The word added tells us to join the groups, so the matching sentence is 3 + 4 = 7.",
+    "structuredExplanation": {
+      "summary": "The word added tells us to join the groups, so the matching sentence is 3 + 4 = 7.",
+      "hint": "Added means use addition."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-012",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "distinguish operation",
+    "skill": "complete subtraction sentence",
     "printable": true,
     "type": "single",
-    "question": "4 children are playing. 2 more arrive. Which action should you use?",
+    "question": "Complete the sentence for the picture: 8 - 3 = __",
+    "visual": "● ● ● ● ●   Taken away: × × ×",
     "answers": [
-      "Join or add",
-      "Separate or subtract",
-      "Ignore the new children"
+      "8",
+      "5",
+      "3"
     ],
-    "correct": 0,
-    "explanation": "The collection increases because more children arrive."
+    "correct": 1,
+    "explanation": "Start with 8, remove 3, and 5 remain.",
+    "structuredExplanation": {
+      "summary": "Start with 8, remove 3, and 5 remain.",
+      "hint": "The answer is what stays, not what was removed."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-013",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "strategy comparison",
+    "skill": "unknown joining change",
     "printable": true,
     "type": "single",
-    "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
+    "question": "There were 2 blocks. Now there are 5. How many blocks joined?",
+    "visual": "Before: ■ ■\nAfter:  ■ ■ ■ ■ ■",
     "answers": [
-      "8",
-      "6",
-      "9"
+      "5",
+      "2",
+      "3"
     ],
-    "correct": 0,
-    "explanation": "Different sensible strategies can reach the same result."
+    "correct": 2,
+    "explanation": "Count on from 2 to 5. The missing joining part is 3.",
+    "structuredExplanation": {
+      "summary": "Count on from 2 to 5. The missing joining part is 3.",
+      "hint": "Find the change between before and after."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-014",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "infer event from change",
+    "skill": "mixed add or subtract",
     "printable": true,
     "type": "single",
-    "question": "There were 7 counters. Now there are 5. Which event could explain the change?",
+    "question": "A plate had 10 berries. After snack time, 5 berries were left. What happened?",
+    "visual": "",
     "answers": [
-      "2 counters were removed",
-      "2 counters joined",
-      "The counters were spread out"
+      "5 berries were taken away",
+      "5 berries were added",
+      "10 berries were left"
     ],
     "correct": 0,
-    "explanation": "The quantity decreased by 2."
+    "explanation": "The number went down from 10 to 5, so 5 berries were taken away.",
+    "structuredExplanation": {
+      "summary": "The number went down from 10 to 5, so 5 berries were taken away.",
+      "hint": "A smaller after-number means some were removed."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-015",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "keyword misconception",
+    "skill": "join collections",
     "printable": true,
     "type": "single",
-    "question": "Sam has 3 blocks. He gets 1 more. How many blocks does he have now?",
+    "question": "Lina has 1 stars. 2 more stars join the group. How many stars are there now?",
+    "visual": "Start: ●\nJoin:  ■ ■",
     "answers": [
-      "4",
+      "1",
       "3",
-      "5"
+      "2"
     ],
-    "correct": 0,
-    "explanation": "Use the meaning of the situation: did objects join, leave or stay the same?"
+    "correct": 1,
+    "explanation": "Joining means count both parts: 1 + 2 = 3.",
+    "structuredExplanation": {
+      "summary": "Joining means count both parts: 1 + 2 = 3.",
+      "hint": "The collection gets larger when more objects join."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn05-t-016",
     "curriculumCode": "AC9MFN05",
     "bank": "test",
-    "skill": "equivalent joining representations",
+    "skill": "take away from a collection",
     "printable": true,
     "type": "single",
-    "question": "Sam has 4 blocks. He gets 2 more. How many blocks does he have now?",
+    "question": "6 cups are on a mat. 2 are taken away. How many stay on the mat?",
+    "visual": "Start: ● ● ● ● ● ●\nTaken away: × ×",
     "answers": [
-      "6",
-      "4",
-      "7"
-    ],
-    "correct": 0,
-    "explanation": "The words and the addition sentence describe the same change."
-  },
-  {
-    "id": "ac9mfn05-t-017",
-    "curriculumCode": "AC9MFN05",
-    "bank": "test",
-    "skill": "joining situation",
-    "printable": true,
-    "type": "number",
-    "question": "3 ducks are in a pond. 1 more swim in. How many ducks are there now?",
-    "visual": "Before: ▲ ▲ ▲\nJoin:   ▲",
-    "correct": "4",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "The collection grows: 3+1=4.",
-    "modelAnswer": "4"
-  },
-  {
-    "id": "ac9mfn05-t-018",
-    "curriculumCode": "AC9MFN05",
-    "bank": "test",
-    "skill": "separating situation",
-    "printable": true,
-    "type": "number",
-    "question": "8 blocks are on the mat. 2 are taken away. How many remain?",
-    "visual": "Start: ■ ■ ■ ■ ■ ■ ■ ■\nTaken: × ×",
-    "correct": "6",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Remove 2 from 8; 6 remain.",
-    "modelAnswer": "6"
-  },
-  {
-    "id": "ac9mfn05-t-019",
-    "curriculumCode": "AC9MFN05",
-    "bank": "test",
-    "skill": "choose joining model",
-    "printable": true,
-    "type": "single",
-    "question": "Sam has 4 blocks. He gets 3 more. How many blocks does he have now?",
-    "answers": [
-      "7",
-      "4",
-      "8"
-    ],
-    "correct": 0,
-    "explanation": "Joining combines the starting group and the new group."
-  },
-  {
-    "id": "ac9mfn05-t-020",
-    "curriculumCode": "AC9MFN05",
-    "bank": "test",
-    "skill": "choose separating model",
-    "printable": true,
-    "type": "single",
-    "question": "Sam has 5 blocks. He gets 1 more. How many blocks does he have now?",
-    "answers": [
-      "6",
-      "5",
-      "7"
-    ],
-    "correct": 0,
-    "explanation": "Leaving makes the collection smaller."
-  },
-  {
-    "id": "ac9mfn05-t-021",
-    "curriculumCode": "AC9MFN05",
-    "bank": "test",
-    "skill": "match addition statement",
-    "printable": true,
-    "type": "single",
-    "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
-    "answers": [
-      "8",
-      "6",
-      "9"
-    ],
-    "correct": 0,
-    "explanation": "The plus sign represents joining."
-  },
-  {
-    "id": "ac9mfn05-t-022",
-    "curriculumCode": "AC9MFN05",
-    "bank": "test",
-    "skill": "match subtraction statement",
-    "printable": true,
-    "type": "single",
-    "question": "Sam has 2 blocks. He gets 3 more. How many blocks does he have now?",
-    "answers": [
-      "5",
       "2",
-      "6"
+      "6",
+      "4"
     ],
-    "correct": 0,
-    "explanation": "The subtraction sentence shows the starting amount, removal and result."
-  },
-  {
-    "id": "ac9mfn05-t-023",
-    "curriculumCode": "AC9MFN05",
-    "bank": "test",
-    "skill": "count on strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Lina starts at 7 and counts on 1 numbers. Where does the count finish?",
-    "answers": [
-      "8",
-      "7",
-      "9"
-    ],
-    "correct": 0,
-    "explanation": "Counting on 1 from 7 reaches 8."
-  },
-  {
-    "id": "ac9mfn05-t-024",
-    "curriculumCode": "AC9MFN05",
-    "bank": "test",
-    "skill": "count what remains",
-    "printable": true,
-    "type": "single",
-    "question": "Cross out 2 from the collection. How many are not crossed out?",
-    "visual": "× × ● ● ● ● ● ● ● ●",
-    "answers": [
-      "8",
-      "2",
-      "10"
-    ],
-    "correct": 0,
-    "explanation": "10-2=8."
+    "correct": 2,
+    "explanation": "Taking away makes the collection smaller: 6 - 2 = 4.",
+    "structuredExplanation": {
+      "summary": "Taking away makes the collection smaller: 6 - 2 = 4.",
+      "hint": "Count the objects that are not taken away."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   }
 ];
