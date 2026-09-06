@@ -4,457 +4,416 @@ window.skillrTestQuestions = [
     "id": "ac9m1n04-t-001",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "combine quantities",
+    "skill": "addition and subtraction within 20",
+    "question": "What is 6 + 5?",
+    "explanation": "6 + 4 makes 10, then 1 more makes 11.",
     "printable": true,
     "type": "single",
-    "question": "What total is shown by 9 counters and 4 counters?",
-    "audioPrompt": "What total is shown by 9 counters and 4 counters?",
-    "visual": "What total is shown by 9 counters and 4 counters?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What total is shown by 9 counters and 4 counters?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-001\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-001",
-      "alt_text": "What total is shown by 9 counters and 4 counters?"
-    },
     "answers": [
-      "13",
-      "4",
-      "22"
+      {
+        "text": "10",
+        "correct": false
+      },
+      {
+        "text": "11",
+        "correct": true
+      },
+      {
+        "text": "12",
+        "correct": false
+      }
     ],
-    "correct": 0,
-    "explanation": "9 + 4 = 13. Make 10, then add 3.\nHint: Start with the first amount and count on the second amount.",
-    "structuredExplanation": {
-      "summary": "9 + 4 = 13. Make 10, then add 3.",
-      "hint": "Start with the first amount and count on the second amount."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Bridge through ten: 6 + 4 + 1.",
+    "visualCue": "ten-frame icon"
   },
   {
     "id": "ac9m1n04-t-002",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "subtract remaining",
+    "skill": "addition and subtraction within 20",
+    "question": "What is 9 + 3?",
+    "explanation": "9 + 1 makes 10, then 2 more makes 12.",
     "printable": true,
     "type": "single",
-    "question": "Seventeen counters are shown. Eight are removed. How many remain?",
-    "audioPrompt": "Seventeen counters are shown. Eight are removed. How many remain?",
-    "visual": "Seventeen counters are shown. Eight are removed. How many remain?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Seventeen counters are shown. Eight are removed. How many remain?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-002\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-002",
-      "alt_text": "Seventeen counters are shown. Eight are removed. How many remain?"
-    },
     "answers": [
-      "8",
-      "9",
-      "10"
+      {
+        "text": "12",
+        "correct": true
+      },
+      {
+        "text": "11",
+        "correct": false
+      },
+      {
+        "text": "13",
+        "correct": false
+      }
     ],
-    "correct": 1,
-    "explanation": "17 − 8 = 9.\nHint: Show the starting amount, take away the given part, then count what remains.",
-    "structuredExplanation": {
-      "summary": "17 − 8 = 9.",
-      "hint": "Show the starting amount, take away the given part, then count what remains."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Make ten from nine.",
+    "visualCue": "bridge ten icon"
   },
   {
     "id": "ac9m1n04-t-003",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "make ten",
+    "skill": "addition and subtraction within 20",
+    "question": "What is 8 + 6?",
+    "explanation": "8 + 2 makes 10, then 4 more makes 14.",
     "printable": true,
     "type": "single",
-    "question": "Which calculation correctly shows 8 + 6 using make ten?",
-    "audioPrompt": "Which calculation correctly shows 8 + 6 using make ten?",
-    "visual": "Which calculation correctly shows 8 + 6 using make ten?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which calculation correctly shows 8 + 6 using make ten?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-003\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-003",
-      "alt_text": "Which calculation correctly shows 8 + 6 using make ten?"
-    },
     "answers": [
-      "8 + 6 + 2 = 16",
-      "10 + 6 = 16",
-      "8 + 2 + 4 = 14"
+      {
+        "text": "13",
+        "correct": false
+      },
+      {
+        "text": "15",
+        "correct": false
+      },
+      {
+        "text": "14",
+        "correct": true
+      }
     ],
-    "correct": 2,
-    "explanation": "Split 6 into 2 and 4: 8 + 2 + 4 = 14.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Split 6 into 2 and 4: 8 + 2 + 4 = 14.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Bridge through ten.",
+    "visualCue": "number bond icon"
   },
   {
     "id": "ac9m1n04-t-004",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "near double",
+    "skill": "addition and subtraction within 20",
+    "question": "What is 7 + 7?",
+    "explanation": "Double 7 is 14.",
     "printable": true,
     "type": "single",
-    "question": "Use a near double to solve 7 + 8.",
-    "audioPrompt": "Use a near double to solve 7 + 8.",
-    "visual": "Use a near double to solve 7 + 8.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Use a near double to solve 7 + 8.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-004",
-      "alt_text": "Use a near double to solve 7 + 8."
-    },
     "answers": [
-      "15",
-      "14",
-      "16"
+      {
+        "text": "13",
+        "correct": false
+      },
+      {
+        "text": "14",
+        "correct": true
+      },
+      {
+        "text": "15",
+        "correct": false
+      }
     ],
-    "correct": 0,
-    "explanation": "Double 7 is 14, then add 1 to get 15.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Double 7 is 14, then add 1 to get 15.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Double seven.",
+    "visualCue": "doubles dice icon"
   },
   {
     "id": "ac9m1n04-t-005",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "find missing part",
+    "skill": "addition and subtraction within 20",
+    "question": "What is 10 + 8?",
+    "explanation": "10 and 8 more is 18.",
     "printable": true,
     "type": "single",
-    "question": "The whole is 19. One part is 12. What is the other part?",
-    "audioPrompt": "The whole is 19. One part is 12. What is the other part?",
-    "visual": "The whole is 19. One part is 12. What is the other part?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The whole is 19. One part is 12. What is the other part?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-005\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-005",
-      "alt_text": "The whole is 19. One part is 12. What is the other part?"
-    },
     "answers": [
-      "6",
-      "7",
-      "8"
+      {
+        "text": "17",
+        "correct": false
+      },
+      {
+        "text": "19",
+        "correct": false
+      },
+      {
+        "text": "18",
+        "correct": true
+      }
     ],
-    "correct": 1,
-    "explanation": "19 − 12 = 7.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "19 − 12 = 7.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Ten and eight more.",
+    "visualCue": "ten plus counters icon"
   },
   {
     "id": "ac9m1n04-t-006",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "compare amounts",
+    "skill": "addition and subtraction within 20",
+    "question": "Take away 3 from 13. What is the answer?",
+    "explanation": "13 take away 3 leaves 10.",
     "printable": true,
     "type": "single",
-    "question": "A green strip is 15 cubes long and a yellow strip is 9 cubes long. What is the difference?",
-    "audioPrompt": "A green strip is 15 cubes long and a yellow strip is 9 cubes long. What is the difference?",
-    "visual": "A green strip is 15 cubes long and a yellow strip is 9 cubes long. What is the difference?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A green strip is 15 cubes long and a yellow strip is 9 cubes long. What is the difference?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-006\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-006",
-      "alt_text": "A green strip is 15 cubes long and a yellow strip is 9 cubes long. What is the difference?"
-    },
     "answers": [
-      "5",
-      "7",
-      "6"
+      {
+        "text": "9",
+        "correct": false
+      },
+      {
+        "text": "11",
+        "correct": false
+      },
+      {
+        "text": "10",
+        "correct": true
+      }
     ],
-    "correct": 2,
-    "explanation": "15 − 9 = 6.\nHint: Show the starting amount, take away the given part, then count what remains.",
-    "structuredExplanation": {
-      "summary": "15 − 9 = 6.",
-      "hint": "Show the starting amount, take away the given part, then count what remains."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Take away three.",
+    "visualCue": "counters crossed out icon"
   },
   {
     "id": "ac9m1n04-t-007",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "read number line",
+    "skill": "addition and subtraction within 20",
+    "question": "What is 16 - 4?",
+    "explanation": "Count back 4 from 16: 15, 14, 13, 12.",
     "printable": true,
     "type": "single",
-    "question": "[Show number-line jumps: 7 → 10 → 16.] Where does it finish?",
-    "audioPrompt": "[Show number-line jumps: 7 → 10 → 16.] Where does it finish?",
     "answers": [
-      "16",
-      "15",
-      "17"
+      {
+        "text": "12",
+        "correct": true
+      },
+      {
+        "text": "13",
+        "correct": false
+      },
+      {
+        "text": "11",
+        "correct": false
+      }
     ],
-    "correct": 0,
-    "explanation": "The jumps add 3 and 6, which is 9 altogether: 7 + 9 = 16.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "The jumps add 3 and 6, which is 9 altogether: 7 + 9 = 16.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Count back four.",
+    "visualCue": "number line back icon"
   },
   {
     "id": "ac9m1n04-t-008",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "balance equation",
+    "skill": "addition and subtraction within 20",
+    "question": "What is 18 - 6?",
+    "explanation": "18 take away 6 leaves 12.",
     "printable": true,
     "type": "single",
-    "question": "Complete: 9 + 5 = 10 + ___.",
-    "audioPrompt": "Complete: 9 + 5 = 10 + ___.",
-    "visual": "Complete: 9 + 5 = 10 + ___.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete: 9 + 5 = 10 + ___.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-008\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-008",
-      "alt_text": "Complete: 9 + 5 = 10 + ___."
-    },
     "answers": [
-      "3",
-      "4",
-      "5"
+      {
+        "text": "11",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": true
+      },
+      {
+        "text": "13",
+        "correct": false
+      }
     ],
-    "correct": 1,
-    "explanation": "Both sides equal 14, so 10 + 4 = 14.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Both sides equal 14, so 10 + 4 = 14.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Take away six.",
+    "visualCue": "part-whole icon"
   },
   {
     "id": "ac9m1n04-t-009",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "solve subtraction story",
+    "skill": "addition and subtraction within 20",
+    "question": "What is 20 - 5?",
+    "explanation": "20 take away 5 leaves 15.",
     "printable": true,
     "type": "single",
-    "question": "Twenty shells are in a tray. Seven are taken out. How many shells stay in the tray?",
-    "audioPrompt": "Twenty shells are in a tray. Seven are taken out. How many shells stay in the tray?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "12",
-      "14",
-      "13"
+      {
+        "text": "14",
+        "correct": false
+      },
+      {
+        "text": "16",
+        "correct": false
+      },
+      {
+        "text": "15",
+        "correct": true
+      }
     ],
-    "correct": 2,
-    "explanation": "The collection decreases: 20 − 7 = 13.\nHint: Show the starting amount, take away the given part, then count what remains.",
-    "structuredExplanation": {
-      "summary": "The collection decreases: 20 − 7 = 13.",
-      "hint": "Show the starting amount, take away the given part, then count what remains."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Take five from twenty.",
+    "visualCue": "twenty-frame icon"
   },
   {
     "id": "ac9m1n04-t-010",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "use inverse fact",
+    "skill": "addition and subtraction within 20",
+    "question": "2 + __ = 10. What is missing?",
+    "explanation": "2 and 8 make 10.",
     "printable": true,
     "type": "single",
-    "question": "Which addition fact checks 16 − 9 = 7?",
-    "audioPrompt": "Which addition fact checks 16 − 9 = 7?",
-    "visual": "Which addition fact checks 16 − 9 = 7?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which addition fact checks 16 − 9 = 7?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-010\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-010",
-      "alt_text": "Which addition fact checks 16 − 9 = 7?"
-    },
     "answers": [
-      "7 + 9 = 16",
-      "16 + 9 = 25",
-      "9 − 7 = 2"
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": false
+      },
+      {
+        "text": "8",
+        "correct": true
+      }
     ],
-    "correct": 0,
-    "explanation": "Add the difference and the removed part: 7 + 9 = 16.\nHint: Start with the first amount and count on the second amount.",
-    "structuredExplanation": {
-      "summary": "Add the difference and the removed part: 7 + 9 = 16.",
-      "hint": "Start with the first amount and count on the second amount."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "What joins 2 to make ten?",
+    "visualCue": "number bond frame icon"
   },
   {
     "id": "ac9m1n04-t-011",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "diagnose misconception",
+    "skill": "addition and subtraction within 20",
+    "question": "5 + __ = 10. What is missing?",
+    "explanation": "5 and 5 make 10.",
     "printable": true,
     "type": "single",
-    "question": "Luca solves 18 − 7 as 18 − 8 = 10. What correction is needed?",
-    "audioPrompt": "Luca solves 18 − 7 as 18 − 8 = 10. What correction is needed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "Subtract 1 more to get 9",
-      "Add 1 back to get 11",
-      "Add 7 to get 25"
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      }
     ],
-    "correct": 1,
-    "explanation": "Seven is one less than eight, so subtracting 8 goes one too far. Add 1 back: 11.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Seven is one less than eight, so subtracting 8 goes one too far. Add 1 back: 11.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "What joins 5 to make ten?",
+    "visualCue": "ten-frame icon"
   },
   {
     "id": "ac9m1n04-t-012",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "select strategy",
+    "skill": "addition and subtraction within 20",
+    "question": "Which fact helps solve 14 - 4?",
+    "explanation": "If 10 + 4 = 14, then 14 - 4 = 10.",
     "printable": true,
     "type": "single",
-    "question": "Which strategy best fits 10 + 6?",
-    "audioPrompt": "Which strategy best fits 10 + 6?",
-    "visual": "Which strategy best fits 10 + 6?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which strategy best fits 10 + 6?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-012\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-012",
-      "alt_text": "Which strategy best fits 10 + 6?"
-    },
     "answers": [
-      "Count 16 objects from one",
-      "Subtract 6 from 10",
-      "Use the known ten and add 6"
+      {
+        "text": "10 + 4 = 14",
+        "correct": true
+      },
+      {
+        "text": "14 + 4 = 18",
+        "correct": false
+      },
+      {
+        "text": "4 - 14 = 10",
+        "correct": false
+      }
     ],
-    "correct": 2,
-    "explanation": "10 + 6 is already arranged as a ten and six ones, so the total is 16.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "10 + 6 is already arranged as a ten and six ones, so the total is 16.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Use the related part-whole fact.",
+    "visualCue": "fact family icon"
   },
   {
     "id": "ac9m1n04-t-013",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "combine quantities",
+    "skill": "addition and subtraction within 20",
+    "question": "Which addition makes 16?",
+    "explanation": "8 + 8 is 16.",
     "printable": true,
     "type": "single",
-    "question": "Mia has 8 stickers. Sam gives her 6 more. How many stickers does Mia have now?",
-    "audioPrompt": "Mia has 8 stickers. Sam gives her 6 more. How many stickers does Mia have now?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "14",
-      "12",
-      "16"
+      {
+        "text": "9 + 6",
+        "correct": false
+      },
+      {
+        "text": "8 + 8",
+        "correct": true
+      },
+      {
+        "text": "7 + 8",
+        "correct": false
+      }
     ],
-    "correct": 0,
-    "explanation": "8 + 6 = 14. You can make 10 with 8 + 2, then add 4 more.\nHint: Start with the first amount and count on the second amount.",
-    "structuredExplanation": {
-      "summary": "8 + 6 = 14. You can make 10 with 8 + 2, then add 4 more.",
-      "hint": "Start with the first amount and count on the second amount."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Which doubles fact makes sixteen?",
+    "visualCue": "doubles dice icon"
   },
   {
     "id": "ac9m1n04-t-014",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "subtract remaining",
+    "skill": "addition and subtraction within 20",
+    "question": "Which subtraction leaves 9?",
+    "explanation": "15 take away 6 leaves 9.",
     "printable": true,
     "type": "single",
-    "question": "There are 15 apples. Nine apples are eaten. How many apples are left?",
-    "audioPrompt": "There are 15 apples. Nine apples are eaten. How many apples are left?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "24",
-      "6",
-      "9"
+      {
+        "text": "14 - 6",
+        "correct": false
+      },
+      {
+        "text": "15 - 6",
+        "correct": true
+      },
+      {
+        "text": "16 - 6",
+        "correct": false
+      }
     ],
-    "correct": 1,
-    "explanation": "This is a take-away problem: 15 - 9 = 6.\nHint: Show the starting amount, take away the given part, then count what remains.",
-    "structuredExplanation": {
-      "summary": "This is a take-away problem: 15 - 9 = 6.",
-      "hint": "Show the starting amount, take away the given part, then count what remains."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Which subtraction leaves nine?",
+    "visualCue": "remove counters icon"
   },
   {
     "id": "ac9m1n04-t-015",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "find missing part",
+    "skill": "addition and subtraction within 20",
+    "question": "Which addition matches 12 + 3?",
+    "explanation": "Addition can be turned around: 12 + 3 is the same as 3 + 12.",
     "printable": true,
     "type": "single",
-    "question": "The whole is 18. One part is 11. What is the missing part?",
-    "audioPrompt": "The whole is 18. One part is 11. What is the missing part?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "8",
-      "29",
-      "7"
+      {
+        "text": "3 + 12",
+        "correct": true
+      },
+      {
+        "text": "12 - 3",
+        "correct": false
+      },
+      {
+        "text": "3 - 12",
+        "correct": false
+      }
     ],
-    "correct": 2,
-    "explanation": "Find the missing part by subtracting: 18 - 11 = 7.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Find the missing part by subtracting: 18 - 11 = 7.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Turn the addition around.",
+    "visualCue": "turn-around arrows icon"
   },
   {
     "id": "ac9m1n04-t-016",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "make ten",
+    "skill": "addition and subtraction within 20",
+    "question": "Which makes 20?",
+    "explanation": "10 and 10 make 20.",
     "printable": true,
     "type": "single",
-    "question": "Which idea helps solve 9 + 7?",
-    "audioPrompt": "Which idea helps solve 9 + 7?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "9 + 1 + 6 = 16",
-      "9 + 7 = 15",
-      "9 - 1 + 7 = 15"
+      {
+        "text": "10 + 9",
+        "correct": false
+      },
+      {
+        "text": "10 + 10",
+        "correct": true
+      },
+      {
+        "text": "10 + 8",
+        "correct": false
+      }
     ],
-    "correct": 0,
-    "explanation": "Move 1 from 7 to make 10. Then 10 + 6 = 16.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Move 1 from 7 to make 10. Then 10 + 6 = 16.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Which parts make twenty?",
+    "visualCue": "twenty frame icon"
   }
 ];
