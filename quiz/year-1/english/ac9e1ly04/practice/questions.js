@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly04-p-001",
+    "id": "ac9e1ly04-er4-p-001",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Blend the sounds: /c/ /a/ /t/. Which word?",
-    "audioPrompt": "Blend the sounds: /c/ /a/ /t/. Which word?",
+    "question": "Read: 'The hen is in the pen.' Where is the hen?",
+    "audioPrompt": "Read: 'The hen is in the pen.' Where is the hen?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,29 +16,92 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hat",
-      "dog",
-      "cat"
+      "In the pen",
+      "In the pan",
+      "On the pin"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Read the middle letter in pen carefully; the sentence places the hen in the pen.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Read the middle letter in pen carefully; the sentence places the hen in the pen.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-002",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the word that fits: 'The hen laid an ___.'",
+    "audioPrompt": "Choose the word that fits: 'The hen laid an ___.'",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "elf",
+      "egg",
+      "end"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Egg names what a hen lays; reading all the letters distinguishes the three short words.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Egg names what a hen lays; reading all the letters distinguishes the three short words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-003",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'Tim hid the lid.' What did Tim hide?",
+    "audioPrompt": "Read: 'Tim hid the lid.' What did Tim hide?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The lad",
+      "The log",
+      "The lid"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "cat is the best answer.",
+    "explanation": "The word lid names what Tim hid; the other choices change the vowel or ending.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "cat is the best answer."
+      "summary": "The word lid names what Tim hid; the other choices change the vowel or ending.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-002",
+    "id": "ac9e1ly04-er4-p-004",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Read: “The dog can hop.” Which word names the animal?",
-    "audioPrompt": "Read: “The dog can hop.” Which word names the animal?",
+    "question": "Which word completes the sentence? 'The duck can ___ in the pond.'",
+    "audioPrompt": "Which word completes the sentence? 'The duck can ___ in the pond.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,29 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hop",
-      "dog",
-      "can"
+      "swim",
+      "swam",
+      "swum"
     ],
-    "correct": 1,
-    "explanation": "dog is the best answer.",
-    "structuredExplanation": {
-      "summary": "dog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "After can we use swim, so both the word's meaning and the sentence grammar fit.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "After can we use swim, so both the word's meaning and the sentence grammar fit.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-003",
+    "id": "ac9e1ly04-er4-p-005",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Read: “Sam put on a cup.” What did Sam put on?",
-    "audioPrompt": "Read: “Sam put on a cup.” What did Sam put on?",
+    "question": "Read: 'The crab is on a rock.' Which animal is named?",
+    "audioPrompt": "Read: 'The crab is on a rock.' Which animal is named?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -76,29 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "farm",
-      "cup",
-      "hen"
+      "crib",
+      "crab",
+      "cab"
     ],
-    "correct": 1,
-    "explanation": "cup is the best answer.",
-    "structuredExplanation": {
-      "summary": "cup is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 3
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Read the whole beginning blend cr and the vowel a to identify crab.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Read the whole beginning blend cr and the vowel a to identify crab.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-004",
+    "id": "ac9e1ly04-er4-p-006",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which word completes the sentence? “The fox can ___.”",
-    "audioPrompt": "Which word completes the sentence? “The fox can ___.”",
+    "question": "Read: 'She shut the shed.' What did she shut?",
+    "audioPrompt": "Read: 'She shut the shed.' What did she shut?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -106,29 +171,92 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "red",
-      "run",
+      "The ship",
+      "The shop",
+      "The shed"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "The letters sh start all three words, so the rest of the word must also be read.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The letters sh start all three words, so the rest of the word must also be read.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-007",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the word that fits: 'The ___ has ten toes.'",
+    "audioPrompt": "Choose the word that fits: 'The ___ has ten toes.'",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "child",
+      "chill",
+      "chin"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Child names a person who can have ten toes; the other similar-looking words do not fit.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Child names a person who can have ten toes; the other similar-looking words do not fit.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-008",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'The goat ate the hay.' What did the goat eat?",
+    "audioPrompt": "Read: 'The goat ate the hay.' What did the goat eat?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "hit",
+      "hay",
       "hat"
     ],
-    "correct": 1,
-    "explanation": "run is the best answer.",
-    "structuredExplanation": {
-      "summary": "run is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 4
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The ay in hay helps identify the food; checking every letter prevents a similar-word guess.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The ay in hay helps identify the food; checking every letter prevents a similar-word guess.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-005",
+    "id": "ac9e1ly04-er4-p-009",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Read: “A red frog sat.” Which word tells the colour?",
-    "audioPrompt": "Read: “A red frog sat.” Which word tells the colour?",
+    "question": "Read: 'The red van is at the shop. Dad gets in it.' What does 'it' mean here?",
+    "audioPrompt": "Read: 'The red van is at the shop. Dad gets in it.' What does 'it' mean here?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -136,59 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "frog",
-      "red",
-      "sat"
+      "The shop",
+      "Dad",
+      "The van"
     ],
-    "correct": 1,
-    "explanation": "red is the best answer.",
-    "structuredExplanation": {
-      "summary": "red is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1ly04-p-006",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence makes sense?",
-    "audioPrompt": "Which sentence makes sense?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Can the the.",
-      "The eat can duck.",
-      "The duck can eat."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "The duck can eat. is the best answer.",
+    "explanation": "The second sentence refers back to the van that Dad gets into.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The duck can eat. is the best answer."
+      "summary": "The second sentence refers back to the van that Dad gets into.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-007",
+    "id": "ac9e1ly04-er4-p-010",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Read aloud: “Zoe sees a fish.” Where should your voice pause?",
-    "audioPrompt": "Read aloud: “Zoe sees a fish.” Where should your voice pause?",
+    "question": "Choose the word that fits both meaning and grammar: 'Yesterday, we ___ to the park.'",
+    "audioPrompt": "Choose the word that fits both meaning and grammar: 'Yesterday, we ___ to the park.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -196,89 +295,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "after every letter",
-      "at the full stop",
-      "before the name"
+      "went",
+      "go",
+      "going"
     ],
-    "correct": 1,
-    "explanation": "at the full stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "at the full stop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1ly04-p-008",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "If “The goat can fly” does not make sense, what should you do?",
-    "audioPrompt": "If “The goat can fly” does not make sense, what should you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "skip every word",
-      "read it again",
-      "change all letters"
-    ],
-    "correct": 1,
-    "explanation": "read it again is the best answer.",
-    "structuredExplanation": {
-      "summary": "read it again is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1ly04-p-009",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Blend the sounds: /c/ /a/ /t/. Which word?",
-    "audioPrompt": "Blend the sounds: /c/ /a/ /t/. Which word?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "cat",
-      "dog",
-      "hat"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "cat is the best answer.",
+    "explanation": "Yesterday signals a past event, and went makes the sentence grammatically complete.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "cat is the best answer."
+      "summary": "Yesterday signals a past event, and went makes the sentence grammatically complete.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-010",
+    "id": "ac9e1ly04-er4-p-011",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Read: “The fox can hop.” Which word names the animal?",
-    "audioPrompt": "Read: “The fox can hop.” Which word names the animal?",
+    "question": "Read: 'Meg put the cups on the tray.' A child reads 'traps' instead of 'tray'. Which word is actually printed?",
+    "audioPrompt": "Read: 'Meg put the cups on the tray.' A child reads 'traps' instead of 'tray'. Which word is actually printed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,59 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "can",
-      "hop",
-      "fox"
+      "train",
+      "tray",
+      "traps"
     ],
-    "correct": 2,
-    "explanation": "fox is the best answer.",
-    "structuredExplanation": {
-      "summary": "fox is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10
-  },
-  {
-    "id": "ac9e1ly04-p-011",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Kim put on a kite.” What did Kim put on?",
-    "audioPrompt": "Read: “Kim put on a kite.” What did Kim put on?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "frog",
-      "kite",
-      "zoo"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "kite is the best answer.",
+    "explanation": "Check the complete printed word: tray ends in ay, not ps or in.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "kite is the best answer."
+      "summary": "Check the complete printed word: tray ends in ay, not ps or in.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-012",
+    "id": "ac9e1ly04-er4-p-012",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which word completes the sentence? “The duck can ___.”",
-    "audioPrompt": "Which word completes the sentence? “The duck can ___.”",
+    "question": "Read: 'The frog sat on a log. It then leapt off.' Which happened first?",
+    "audioPrompt": "Read: 'The frog sat on a log. It then leapt off.' Which happened first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "run",
-      "red",
-      "hat"
+      "The frog leapt off.",
+      "The frog went to sleep.",
+      "The frog sat on the log."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Reading both sentences and the word then shows that sitting came before leaping.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Reading both sentences and the word then shows that sitting came before leaping.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-013",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the word that fits: 'I can hear the bell ___.'",
+    "audioPrompt": "Choose the word that fits: 'I can hear the bell ___.'",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "ring",
+      "rang",
+      "rung"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "run is the best answer.",
+    "explanation": "Ring completes the sentence naturally after hear the bell, unlike the other verb forms.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "run is the best answer."
+      "summary": "Ring completes the sentence naturally after hear the bell, unlike the other verb forms.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-013",
+    "id": "ac9e1ly04-er4-p-014",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Read: “A red fish sat.” Which word tells the colour?",
-    "audioPrompt": "Read: “A red fish sat.” Which word tells the colour?",
+    "question": "Read: 'The gate is shut, but the shed is open.' Which place is open?",
+    "audioPrompt": "Read: 'The gate is shut, but the shed is open.' Which place is open?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -376,59 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sat",
-      "fish",
-      "red"
+      "Both places",
+      "The shed",
+      "The gate"
     ],
-    "correct": 2,
-    "explanation": "red is the best answer.",
-    "structuredExplanation": {
-      "summary": "red is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
-  },
-  {
-    "id": "ac9e1ly04-p-014",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence makes sense?",
-    "audioPrompt": "Which sentence makes sense?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The eat can goat.",
-      "The goat can eat.",
-      "Can the the."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "The goat can eat. is the best answer.",
+    "explanation": "The word but links two different states; the second part says the shed is open.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The goat can eat. is the best answer."
+      "summary": "The word but links two different states; the second part says the shed is open.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-015",
+    "id": "ac9e1ly04-er4-p-015",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Read aloud: “Max sees a cat.” Where should your voice pause?",
-    "audioPrompt": "Read aloud: “Max sees a cat.” Where should your voice pause?",
+    "question": "Read: 'Please bring the green bag, not the red one.' Which bag is wanted?",
+    "audioPrompt": "Read: 'Please bring the green bag, not the red one.' Which bag is wanted?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +450,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "at the full stop",
-      "after every letter",
-      "before the name"
+      "The red bag",
+      "Both bags",
+      "The green bag"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Read through not before deciding; it rules out the red bag.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Read through not before deciding; it rules out the red bag.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-016",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'When the rain stops, we can play.' When can they play?",
+    "audioPrompt": "Read: 'When the rain stops, we can play.' When can they play?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "After the rain stops",
+      "Before the rain starts to stop",
+      "Only while it is raining"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "at the full stop is the best answer.",
+    "explanation": "The first part gives the condition for playing: the rain needs to stop.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "at the full stop is the best answer."
+      "summary": "The first part gives the condition for playing: the rain needs to stop.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-016",
+    "id": "ac9e1ly04-er4-p-017",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "If “The dog can fly” does not make sense, what should you do?",
-    "audioPrompt": "If “The dog can fly” does not make sense, what should you do?",
+    "question": "Read: 'The ship is at the dock.' A child reads 'shop'. What should they check first?",
+    "audioPrompt": "Read: 'The ship is at the dock.' A child reads 'shop'. What should they check first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,29 +512,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "skip every word",
-      "change all letters",
-      "read it again"
+      "The size of the printed letters",
+      "The middle vowel in ship",
+      "Only the first letter s"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Ship and shop share other letters, so checking i rather than o resolves the misreading.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Ship and shop share other letters, so checking i rather than o resolves the misreading.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-018",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'The dog ran past the gate.' A child reads 'pant' for 'past'. Which word matches all the printed letters?",
+    "audioPrompt": "Read: 'The dog ran past the gate.' A child reads 'pant' for 'past'. Which word matches all the printed letters?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "pant",
+      "part",
+      "past"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "read it again is the best answer.",
+    "explanation": "Past has s before t; reading all the letters distinguishes it from the similar words.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "read it again is the best answer."
+      "summary": "Past has s before t; reading all the letters distinguishes it from the similar words.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-017",
+    "id": "ac9e1ly04-er4-p-019",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Blend the sounds: /c/ /a/ /t/. Which word?",
-    "audioPrompt": "Blend the sounds: /c/ /a/ /t/. Which word?",
+    "question": "Read: 'At the end of the path, we sat down.' Which group of words belongs together as the opening phrase?",
+    "audioPrompt": "Read: 'At the end of the path, we sat down.' Which group of words belongs together as the opening phrase?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,59 +574,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "dog",
-      "hat",
-      "cat"
+      "At the end of the path",
+      "At the end of the",
+      "At the"
     ],
-    "correct": 2,
-    "explanation": "cat is the best answer.",
-    "structuredExplanation": {
-      "summary": "cat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
-  },
-  {
-    "id": "ac9e1ly04-p-018",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The duck can hop.” Which word names the animal?",
-    "audioPrompt": "Read: “The duck can hop.” Which word names the animal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "duck",
-      "can",
-      "hop"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "duck is the best answer.",
+    "explanation": "The full opening phrase tells where the action happens and can be read as one meaningful group.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "duck is the best answer."
+      "summary": "The full opening phrase tells where the action happens and can be read as one meaningful group.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-019",
+    "id": "ac9e1ly04-er4-p-020",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ava put on a hat.” What did Ava put on?",
-    "audioPrompt": "Read: “Ava put on a hat.” What did Ava put on?",
+    "question": "Read: 'The cats are sleeping.' Which sentence keeps the same meaning?",
+    "audioPrompt": "Read: 'The cats are sleeping.' Which sentence keeps the same meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "school",
-      "hat",
-      "fish"
+      "The cats have just woken up.",
+      "More than one cat is asleep.",
+      "One cat is about to sleep."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "hat is the best answer.",
+    "explanation": "The s in cats and the word are show more than one; sleeping tells their current state.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "hat is the best answer."
+      "summary": "The s in cats and the word are show more than one; sleeping tells their current state.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-020",
+    "id": "ac9e1ly04-er4-p-021",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which word completes the sentence? “The goat can ___.”",
-    "audioPrompt": "Which word completes the sentence? “The goat can ___.”",
+    "question": "Read: 'I thought the box was empty, but a bell was inside.' Why must you read to the end?",
+    "audioPrompt": "Read: 'I thought the box was empty, but a bell was inside.' Why must you read to the end?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "run",
-      "hat",
-      "red"
+      "The first part already tells everything correctly",
+      "The ending only repeats that it was empty",
+      "The ending changes what we learn about the box"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "But introduces information that corrects the speaker's first thought.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "But introduces information that corrects the speaker's first thought.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-022",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'The snail slid under the leaf.' A child says 'over' because it seems possible. What is the better way to check?",
+    "audioPrompt": "Read: 'The snail slid under the leaf.' A child says 'over' because it seems possible. What is the better way to check?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Read the printed word under and its letters",
+      "Choose whichever position is easier to imagine",
+      "Ignore the position word"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "run is the best answer.",
+    "explanation": "Meaning helps check reading, but it does not replace reading the word actually printed.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "run is the best answer."
+      "summary": "Meaning helps check reading, but it does not replace reading the word actually printed.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-021",
+    "id": "ac9e1ly04-er4-p-023",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Read: “A red cat sat.” Which word tells the colour?",
-    "audioPrompt": "Read: “A red cat sat.” Which word tells the colour?",
+    "question": "Read: 'Stop! The ball is in the road.' What does the exclamation mark help show?",
+    "audioPrompt": "Read: 'Stop! The ball is in the road.' What does the exclamation mark help show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sat",
-      "red",
-      "cat"
+      "The reader should leave out the word Stop",
+      "The first word needs a strong, urgent reading",
+      "The whole text should be read as a question"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "red is the best answer.",
+    "explanation": "The exclamation mark and road warning support urgency; they do not change the printed words.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "red is the best answer."
+      "summary": "The exclamation mark and road warning support urgency; they do not change the printed words.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-022",
+    "id": "ac9e1ly04-er4-p-024",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which sentence makes sense?",
-    "audioPrompt": "Which sentence makes sense?",
+    "question": "Read: 'We can go after lunch.' Which reading keeps the words and meaning together?",
+    "audioPrompt": "Read: 'We can go after lunch.' Which reading keeps the words and meaning together?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,798 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The eat can dog.",
-      "Can the the.",
-      "The dog can eat."
+      "We can / go after / lunch after.",
+      "We can go / before lunch.",
+      "We can go / after lunch."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "The dog can eat. is the best answer.",
+    "explanation": "The first choice preserves all the words and groups the time phrase naturally.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The dog can eat. is the best answer."
+      "summary": "The first choice preserves all the words and groups the time phrase naturally.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
-  },
-  {
-    "id": "ac9e1ly04-p-023",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read aloud: “Mia sees a hen.” Where should your voice pause?",
-    "audioPrompt": "Read aloud: “Mia sees a hen.” Where should your voice pause?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "after every letter",
-      "at the full stop",
-      "before the name"
-    ],
-    "correct": 1,
-    "explanation": "at the full stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "at the full stop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1ly04-p-024",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "If “The fox can fly” does not make sense, what should you do?",
-    "audioPrompt": "If “The fox can fly” does not make sense, what should you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "skip every word",
-      "read it again",
-      "change all letters"
-    ],
-    "correct": 1,
-    "explanation": "read it again is the best answer.",
-    "structuredExplanation": {
-      "summary": "read it again is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1ly04-p-025",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Blend the sounds: /c/ /a/ /t/. Which word?",
-    "audioPrompt": "Read and choose: Blend the sounds: /c/ /a/ /t/. Which word?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hat",
-      "dog",
-      "cat"
-    ],
-    "correct": 2,
-    "explanation": "cat is the best answer.",
-    "structuredExplanation": {
-      "summary": "cat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1ly04-p-026",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The goat can hop.” Which word names the animal?",
-    "audioPrompt": "Read: “The goat can hop.” Which word names the animal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hop",
-      "goat",
-      "can"
-    ],
-    "correct": 1,
-    "explanation": "goat is the best answer.",
-    "structuredExplanation": {
-      "summary": "goat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1ly04-p-027",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Leo put on a book.” What did Leo put on?",
-    "audioPrompt": "Read: “Leo put on a book.” What did Leo put on?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "cat",
-      "shop",
-      "book"
-    ],
-    "correct": 2,
-    "explanation": "book is the best answer.",
-    "structuredExplanation": {
-      "summary": "book is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1ly04-p-028",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes the sentence? “The dog can ___.”",
-    "audioPrompt": "Which word completes the sentence? “The dog can ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "run",
-      "hat",
-      "red"
-    ],
-    "correct": 0,
-    "explanation": "run is the best answer.",
-    "structuredExplanation": {
-      "summary": "run is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
-  },
-  {
-    "id": "ac9e1ly04-p-029",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A red hen sat.” Which word tells the colour?",
-    "audioPrompt": "Read: “A red hen sat.” Which word tells the colour?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sat",
-      "hen",
-      "red"
-    ],
-    "correct": 2,
-    "explanation": "red is the best answer.",
-    "structuredExplanation": {
-      "summary": "red is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1ly04-p-030",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence makes sense?",
-    "audioPrompt": "Which sentence makes sense?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The eat can fox.",
-      "The fox can eat.",
-      "Can the the."
-    ],
-    "correct": 1,
-    "explanation": "The fox can eat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The fox can eat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
-  },
-  {
-    "id": "ac9e1ly04-p-031",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read aloud: “Ben sees a frog.” Where should your voice pause?",
-    "audioPrompt": "Read aloud: “Ben sees a frog.” Where should your voice pause?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "at the full stop",
-      "before the name",
-      "after every letter"
-    ],
-    "correct": 0,
-    "explanation": "at the full stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "at the full stop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
-  },
-  {
-    "id": "ac9e1ly04-p-032",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "If “The duck can fly” does not make sense, what should you do?",
-    "audioPrompt": "If “The duck can fly” does not make sense, what should you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "skip every word",
-      "change all letters",
-      "read it again"
-    ],
-    "correct": 2,
-    "explanation": "read it again is the best answer.",
-    "structuredExplanation": {
-      "summary": "read it again is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1ly04-p-033",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Blend the sounds: /c/ /a/ /t/. Which word?",
-    "audioPrompt": "Blend the sounds: /c/ /a/ /t/. Which word?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "dog",
-      "cat",
-      "hat"
-    ],
-    "correct": 1,
-    "explanation": "cat is the best answer.",
-    "structuredExplanation": {
-      "summary": "cat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
-  },
-  {
-    "id": "ac9e1ly04-p-034",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The dog can hop.” Which word names the animal?",
-    "audioPrompt": "Read: “The dog can hop.” Which word names the animal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "dog",
-      "can",
-      "hop"
-    ],
-    "correct": 0,
-    "explanation": "dog is the best answer.",
-    "structuredExplanation": {
-      "summary": "dog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
-  },
-  {
-    "id": "ac9e1ly04-p-035",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Zoe put on a sock.” What did Zoe put on?",
-    "audioPrompt": "Read: “Zoe put on a sock.” What did Zoe put on?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "camp",
-      "sock",
-      "hen"
-    ],
-    "correct": 1,
-    "explanation": "sock is the best answer.",
-    "structuredExplanation": {
-      "summary": "sock is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
-  },
-  {
-    "id": "ac9e1ly04-p-036",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes the sentence? “The fox can ___.”",
-    "audioPrompt": "Which word completes the sentence? “The fox can ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hat",
-      "run",
-      "red"
-    ],
-    "correct": 1,
-    "explanation": "run is the best answer.",
-    "structuredExplanation": {
-      "summary": "run is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1ly04-p-037",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A red frog sat.” Which word tells the colour?",
-    "audioPrompt": "Read: “A red frog sat.” Which word tells the colour?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "red",
-      "frog",
-      "sat"
-    ],
-    "correct": 0,
-    "explanation": "red is the best answer.",
-    "structuredExplanation": {
-      "summary": "red is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1ly04-p-038",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence makes sense?",
-    "audioPrompt": "Which sentence makes sense?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Can the the.",
-      "The duck can eat.",
-      "The eat can duck."
-    ],
-    "correct": 1,
-    "explanation": "The duck can eat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The duck can eat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1ly04-p-039",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read aloud: “Sam sees a fish.” Where should your voice pause?",
-    "audioPrompt": "Read aloud: “Sam sees a fish.” Where should your voice pause?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "before the name",
-      "after every letter",
-      "at the full stop"
-    ],
-    "correct": 2,
-    "explanation": "at the full stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "at the full stop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1ly04-p-040",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: If “The goat can fly” does not make sense, what should you do?",
-    "audioPrompt": "Read and choose: If “The goat can fly” does not make sense, what should you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "skip every word",
-      "read it again",
-      "change all letters"
-    ],
-    "correct": 1,
-    "explanation": "read it again is the best answer.",
-    "structuredExplanation": {
-      "summary": "read it again is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly04-p-041",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Blend the sounds: /c/ /a/ /t/. Which word?",
-    "audioPrompt": "Look and choose: Blend the sounds: /c/ /a/ /t/. Which word?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hat",
-      "dog",
-      "cat"
-    ],
-    "correct": 2,
-    "explanation": "cat is the best answer.",
-    "structuredExplanation": {
-      "summary": "cat is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-042",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The fox can hop.” Which word names the animal?",
-    "audioPrompt": "Read: “The fox can hop.” Which word names the animal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hop",
-      "can",
-      "fox"
-    ],
-    "correct": 2,
-    "explanation": "fox is the best answer.",
-    "structuredExplanation": {
-      "summary": "fox is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-043",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Max put on a bag.” What did Max put on?",
-    "audioPrompt": "Read: “Max put on a bag.” What did Max put on?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bag",
-      "beach",
-      "frog"
-    ],
-    "correct": 0,
-    "explanation": "bag is the best answer.",
-    "structuredExplanation": {
-      "summary": "bag is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-044",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes the sentence? “The duck can ___.”",
-    "audioPrompt": "Which word completes the sentence? “The duck can ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "red",
-      "hat",
-      "run"
-    ],
-    "correct": 2,
-    "explanation": "run is the best answer.",
-    "structuredExplanation": {
-      "summary": "run is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-045",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A red fish sat.” Which word tells the colour?",
-    "audioPrompt": "Read: “A red fish sat.” Which word tells the colour?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "red",
-      "fish",
-      "sat"
-    ],
-    "correct": 0,
-    "explanation": "red is the best answer.",
-    "structuredExplanation": {
-      "summary": "red is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-046",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence makes sense?",
-    "audioPrompt": "Which sentence makes sense?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The eat can goat.",
-      "Can the the.",
-      "The goat can eat."
-    ],
-    "correct": 2,
-    "explanation": "The goat can eat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The goat can eat. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-047",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "Read aloud: “Kim sees a cat.” Where should your voice pause?",
-    "audioPrompt": "Read aloud: “Kim sees a cat.” Where should your voice pause?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "before the name",
-      "at the full stop",
-      "after every letter"
-    ],
-    "correct": 1,
-    "explanation": "at the full stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "at the full stop is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-048",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
-    "printable": true,
-    "type": "single",
-    "question": "If “The dog can fly” does not make sense, what should you do?",
-    "audioPrompt": "If “The dog can fly” does not make sense, what should you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "change all letters",
-      "skip every word",
-      "read it again"
-    ],
-    "correct": 2,
-    "explanation": "read it again is the best answer.",
-    "structuredExplanation": {
-      "summary": "read it again is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

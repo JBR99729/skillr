@@ -9,8 +9,9 @@ const read = p => fs.readFileSync(path.join(root,p),'utf8');
 const tick = () => new Promise(r=>setImmediate(r));
 const batch2 = process.argv.includes('--batch2');
 const batch3 = process.argv.includes('--batch3');
-const codes = batch3 ? ['ac9e1le01','ac9e1le02','ac9e1le03','ac9e1le04','ac9e1le05'] : batch2 ? ['ac9e1la06','ac9e1la07','ac9e1la08','ac9e1la09','ac9e1la10'] : ['ac9e1la01','ac9e1la02','ac9e1la03','ac9e1la04','ac9e1la05'];
-const tag = batch3 ? 'er3' : batch2 ? 'er2' : 'er1';
+const batch4 = process.argv.includes('--batch4');
+const codes = batch4 ? ['ac9e1ly01','ac9e1ly02','ac9e1ly03','ac9e1ly04','ac9e1ly05'] : batch3 ? ['ac9e1le01','ac9e1le02','ac9e1le03','ac9e1le04','ac9e1le05'] : batch2 ? ['ac9e1la06','ac9e1la07','ac9e1la08','ac9e1la09','ac9e1la10'] : ['ac9e1la01','ac9e1la02','ac9e1la03','ac9e1la04','ac9e1la05'];
+const tag = batch4 ? 'er4' : batch3 ? 'er3' : batch2 ? 'er2' : 'er1';
 let rendered = 0, visualCount = 0;
 (async()=>{
  for(const code of codes) {

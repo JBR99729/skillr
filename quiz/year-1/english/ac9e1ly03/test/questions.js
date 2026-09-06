@@ -1,14 +1,14 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e1ly03-t-001",
+    "id": "ac9e1ly03-er4-t-001",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
+    "skill": "comparing imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "question": "Text A: 'The chair flew to the seaside.' Text B: 'The chair stood beside the desk.' Which event could happen in real life?",
+    "audioPrompt": "Text A: 'The chair flew to the seaside.' Text B: 'The chair stood beside the desk.' Which event could happen in real life?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,29 +16,61 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a made-up story",
-      "a recount",
-      "an opinion"
+      "B",
+      "A",
+      "Neither"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "A chair can stand beside a desk, but cannot fly itself to the seaside.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A chair can stand beside a desk, but cannot fly itself to the seaside.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-er4-t-002",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'Choose our class song. Its chorus is easy to learn.' What is its main purpose?",
+    "audioPrompt": "Read: 'Choose our class song. Its chorus is easy to learn.' What is its main purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Explain how sound travels",
+      "Persuade someone to choose the song",
+      "Tell a story about a singer"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "a recount is the best answer.",
+    "explanation": "The recommendation and supporting reason aim to influence a choice.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a recount is the best answer."
+      "summary": "The recommendation and supporting reason aim to influence a choice.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-t-002",
+    "id": "ac9e1ly03-er4-t-003",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
+    "skill": "comparing imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Read: “A duck needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A duck needs food and water. It is a living thing.” What is this text for?",
+    "question": "Text A: 'Ants have six legs.' Text B: 'An ant opened a shop for elephants.' Which gives information about real ants?",
+    "audioPrompt": "Text A: 'Ants have six legs.' Text B: 'An ant opened a shop for elephants.' Which gives information about real ants?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,29 +78,92 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "to tell a joke",
-      "to give facts",
-      "to give an order"
+      "B",
+      "Both",
+      "A"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Six legs is a real ant feature, while the shop event is imagined.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Six legs is a real ant feature, while the shop event is imagined.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-er4-t-004",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'Jin dropped his ticket. He searched his pockets, then found it under the seat.' Why is this a story excerpt?",
+    "audioPrompt": "Read: 'Jin dropped his ticket. He searched his pockets, then found it under the seat.' Why is this a story excerpt?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A character faces and solves a problem",
+      "It asks readers to buy tickets",
+      "It lists facts about seats"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "The linked events create a small problem and resolution for the character.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The linked events create a small problem and resolution for the character.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-er4-t-005",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "printable": true,
+    "type": "single",
+    "question": "Text A: 'The beach has sand and rocks.' Text B: 'Let's visit the beach; we can explore the rock pools.' Which asks for an action?",
+    "audioPrompt": "Text A: 'The beach has sand and rocks.' Text B: 'Let's visit the beach; we can explore the rock pools.' Which asks for an action?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Neither",
+      "B",
+      "A"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "to give facts is the best answer.",
+    "explanation": "Let's visit proposes an action and the rock pools provide a reason.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "to give facts is the best answer."
+      "summary": "Let's visit proposes an action and the rock pools provide a reason.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-t-003",
+    "id": "ac9e1ly03-er4-t-006",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
+    "skill": "comparing imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Read: “I think the park is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the park is best because it is fun.” What does this text give?",
+    "question": "A story and a fact page are both about frogs. Which detail would clearly belong to fantasy?",
+    "audioPrompt": "A story and a fact page are both about frogs. Which detail would clearly belong to fantasy?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -76,29 +171,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a recipe",
-      "a greeting",
-      "an opinion"
+      "A frog sat on a wet leaf.",
+      "A frog jumped into a pond.",
+      "A frog knitted a jumper for the moon."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "an opinion is the best answer.",
+    "explanation": "Knitting for the moon gives the frog an impossible human-like story action.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "an opinion is the best answer."
+      "summary": "Knitting for the moon gives the frog an impossible human-like story action.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-t-004",
+    "id": "ac9e1ly03-er4-t-007",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
+    "skill": "comparing imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Read: “The tiny goat flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny goat flew to the moon.” What kind of text is this?",
+    "question": "Text A: 'The tree swayed in the wind.' Text B: 'The tree pulled on boots and marched away.' Which comparison is correct?",
+    "audioPrompt": "Text A: 'The tree swayed in the wind.' Text B: 'The tree pulled on boots and marched away.' Which comparison is correct?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -106,59 +202,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a fact report",
-      "a list",
-      "a made-up story"
+      "A could happen; B is an imagined impossible event",
+      "Both show ordinary things trees do",
+      "A is persuasive because it mentions wind"
     ],
-    "correct": 2,
-    "explanation": "a made-up story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1ly03-t-005",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
-    "printable": true,
-    "type": "single",
-    "question": "Which text would have steps and numbered instructions?",
-    "audioPrompt": "Which text would have steps and numbered instructions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a how-to text",
-      "a poem",
-      "a story"
-    ],
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "a how-to text is the best answer.",
+    "explanation": "Wind can move branches, but a tree cannot put on boots and walk away.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
+      "summary": "Wind can move branches, but a tree cannot put on boots and walk away.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-t-006",
+    "id": "ac9e1ly03-er4-t-008",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
+    "skill": "comparing imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Which text often has characters and a problem?",
-    "audioPrompt": "Which text often has characters and a problem?",
+    "question": "Read: 'A calendar shows days and months.' Is this mainly informative or persuasive?",
+    "audioPrompt": "Read: 'A calendar shows days and months.' Is this mainly informative or persuasive?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -166,119 +233,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a story",
-      "a label",
-      "a fact list"
+      "A story, because a calendar is a character",
+      "Informative, because it explains what a calendar shows",
+      "Persuasive, because it tells us to buy one"
     ],
-    "correct": 0,
-    "explanation": "a story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1ly03-t-007",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read and choose: Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "question",
-      "opinion",
-      "fact"
-    ],
-    "correct": 2,
-    "explanation": "fact is the best answer.",
-    "structuredExplanation": {
-      "summary": "fact is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1ly03-t-008",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Please choose our new bag. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new bag. It is the best!” What is the writer trying to do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "give directions",
-      "tell a story",
-      "persuade"
-    ],
-    "correct": 2,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1ly03-t-009",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "an opinion",
-      "a recount",
-      "a made-up story"
-    ],
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "a recount is the best answer.",
+    "explanation": "The sentence supplies information without asking for a choice or following a character.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a recount is the best answer."
+      "summary": "The sentence supplies information without asking for a choice or following a character.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-t-010",
+    "id": "ac9e1ly03-er4-t-009",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
+    "skill": "comparing imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Read: “A goat needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A goat needs food and water. It is a living thing.” What is this text for?",
+    "question": "Text A: 'Save water; turn off the tap while you brush.' Text B: 'A tap controls the flow of water.' What do both mention?",
+    "audioPrompt": "Text A: 'Save water; turn off the tap while you brush.' Text B: 'A tap controls the flow of water.' What do both mention?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +264,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "to give an order",
-      "to tell a joke",
-      "to give facts"
+      "A character solving a problem",
+      "A request to turn off the tap",
+      "Water and a tap"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "to give facts is the best answer.",
+    "explanation": "The topic overlaps, but only A asks readers to take an action.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "to give facts is the best answer."
+      "summary": "The topic overlaps, but only A asks readers to take an action.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-t-011",
+    "id": "ac9e1ly03-er4-t-010",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
+    "skill": "comparing imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Read: “I think the pond is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the pond is best because it is fun.” What does this text give?",
+    "question": "A child says a text must be a fact page because it includes the true fact 'Birds have feathers.' What should they check?",
+    "audioPrompt": "A child says a text must be a fact page because it includes the true fact 'Birds have feathers.' What should they check?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,89 +295,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a greeting",
-      "a recipe",
-      "an opinion"
+      "What the whole text is doing",
+      "Whether feathers is a long word",
+      "Whether the text is printed in black"
     ],
-    "correct": 2,
-    "explanation": "an opinion is the best answer.",
-    "structuredExplanation": {
-      "summary": "an opinion is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 11
-  },
-  {
-    "id": "ac9e1ly03-t-012",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The tiny dog flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny dog flew to the moon.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a fact report",
-      "a list",
-      "a made-up story"
-    ],
-    "correct": 2,
-    "explanation": "a made-up story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1ly03-t-013",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which text would have steps and numbered instructions?",
-    "audioPrompt": "Look and choose: Which text would have steps and numbered instructions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a how-to text",
-      "a story",
-      "a poem"
-    ],
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "a how-to text is the best answer.",
+    "explanation": "A true fact may appear in a story or persuasive text, so the whole purpose matters.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
+      "summary": "A true fact may appear in a story or persuasive text, so the whole purpose matters.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-t-014",
+    "id": "ac9e1ly03-er4-t-011",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
+    "skill": "comparing imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Which text often has characters and a problem?",
-    "audioPrompt": "Which text often has characters and a problem?",
+    "question": "Text A: 'The kitten curled up in a basket.' Text B: 'Adopt this kitten; it needs a home.' How are they different?",
+    "audioPrompt": "Text A: 'The kitten curled up in a basket.' Text B: 'Adopt this kitten; it needs a home.' How are they different?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +326,92 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a story",
-      "a fact list",
-      "a label"
+      "Both ask readers to adopt the kitten",
+      "A describes an event; B encourages an action",
+      "A explains kitten anatomy; B tells a magical story"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Only the second addresses the reader with a request and supporting reason.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Only the second addresses the reader with a request and supporting reason.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-er4-t-012",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "printable": true,
+    "type": "single",
+    "question": "An invented story is set in a real town. Does that alone make it an informative report?",
+    "audioPrompt": "An invented story is set in a real town. Does that alone make it an informative report?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Yes, real places can only appear in reports",
+      "Yes, any text naming a town is factual",
+      "No, invented events can happen in a real setting"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The setting can be real while characters or events are invented by the author.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The setting can be real while characters or events are invented by the author.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-er4-t-013",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "printable": true,
+    "type": "single",
+    "question": "Text A lists facts about a garden. Text B tells an adventure in that garden. Which similarity is supported?",
+    "audioPrompt": "Text A lists facts about a garden. Text B tells an adventure in that garden. Which similarity is supported?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Both use the garden as their topic or setting",
+      "Both must have the same purpose",
+      "Both must ask readers to plant flowers"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "a story is the best answer.",
+    "explanation": "Texts can share a place while using it for different purposes.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a story is the best answer."
+      "summary": "Texts can share a place while using it for different purposes.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-t-015",
+    "id": "ac9e1ly03-er4-t-014",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
+    "skill": "comparing imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "question": "Read: 'Walk to school if you can. Walking gives you exercise.' How does the information help the writer?",
+    "audioPrompt": "Read: 'Walk to school if you can. Walking gives you exercise.' How does the information help the writer?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +419,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "opinion",
-      "question",
-      "fact"
+      "It tells the reader the exact route",
+      "It gives a reason for the suggested action",
+      "It changes the text into a fantasy story"
     ],
-    "correct": 2,
-    "explanation": "fact is the best answer.",
-    "structuredExplanation": {
-      "summary": "fact is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 15
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The exercise benefit supports the request to walk, making the message persuasive.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The exercise benefit supports the request to walk, making the message persuasive.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-t-016",
+    "id": "ac9e1ly03-er4-t-015",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
+    "skill": "comparing imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Read: “Please choose our new ball. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new ball. It is the best!” What is the writer trying to do?",
+    "question": "Text A: 'A little boat wished it could climb a mountain.' Text B: 'Boats float on water.' Which clue best separates them?",
+    "audioPrompt": "Text A: 'A little boat wished it could climb a mountain.' Text B: 'Boats float on water.' Which clue best separates them?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,18 +450,52 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "tell a story",
-      "give directions",
-      "persuade"
+      "A and B both mention boats",
+      "Both contain a short sentence",
+      "A gives a boat thoughts; B states information"
     ],
-    "correct": 2,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 16
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Giving an object thoughts is an imaginative feature, unlike the general fact in B.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Giving an object thoughts is an imaginative feature, unlike the general fact in B.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-er4-t-016",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "printable": true,
+    "type": "single",
+    "question": "Two texts both have pictures and short sentences. One explains spiders; one asks readers to protect them. What shows the difference in purpose?",
+    "audioPrompt": "Two texts both have pictures and short sentences. One explains spiders; one asks readers to protect them. What shows the difference in purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Explaining features compared with encouraging an action",
+      "The presence of pictures",
+      "The use of short sentences"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "Format can be shared; what the words explain or ask reveals the difference.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Format can be shared; what the words explain or ask reveals the difference.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

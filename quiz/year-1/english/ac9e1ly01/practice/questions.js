@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly01-p-001",
+    "id": "ac9e1ly01-er4-p-001",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "question": "Read: 'Mix the oats and milk. Stir well.' What is this text mainly for?",
+    "audioPrompt": "Read: 'Mix the oats and milk. Stir well.' What is this text mainly for?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "an opinion",
-      "a made-up story",
-      "a recount"
+      "Showing how to prepare food",
+      "Telling a story about oats",
+      "Inviting someone to a meal"
     ],
-    "correct": 2,
-    "explanation": "a recount is the best answer.",
-    "structuredExplanation": {
-      "summary": "a recount is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1ly01-p-002",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A dog needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A dog needs food and water. It is a living thing.” What is this text for?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "to tell a joke",
-      "to give facts",
-      "to give an order"
-    ],
-    "correct": 1,
-    "explanation": "to give facts is the best answer.",
-    "structuredExplanation": {
-      "summary": "to give facts is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1ly01-p-003",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “I think the farm is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the farm is best because it is fun.” What does this text give?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a greeting",
-      "an opinion",
-      "a recipe"
-    ],
-    "correct": 1,
-    "explanation": "an opinion is the best answer.",
-    "structuredExplanation": {
-      "summary": "an opinion is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1ly01-p-004",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The tiny fox flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny fox flew to the moon.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a fact report",
-      "a made-up story",
-      "a list"
-    ],
-    "correct": 1,
-    "explanation": "a made-up story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1ly01-p-005",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Which text would have steps and numbered instructions?",
-    "audioPrompt": "Which text would have steps and numbered instructions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a story",
-      "a how-to text",
-      "a poem"
-    ],
-    "correct": 1,
-    "explanation": "a how-to text is the best answer.",
-    "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1ly01-p-006",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Which text often has characters and a problem?",
-    "audioPrompt": "Which text often has characters and a problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a fact list",
-      "a label",
-      "a story"
-    ],
-    "correct": 2,
-    "explanation": "a story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1ly01-p-007",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "opinion",
-      "fact",
-      "question"
-    ],
-    "correct": 1,
-    "explanation": "fact is the best answer.",
-    "structuredExplanation": {
-      "summary": "fact is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1ly01-p-008",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Please choose our new map. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new map. It is the best!” What is the writer trying to do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tell a story",
-      "persuade",
-      "give directions"
-    ],
-    "correct": 1,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1ly01-p-009",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a recount",
-      "a made-up story",
-      "an opinion"
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "a recount is the best answer.",
+    "explanation": "The action words Mix and Stir give steps for preparing food.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a recount is the best answer."
+      "summary": "The action words Mix and Stir give steps for preparing food.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly01-er4-p-002",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "skill": "text features indicating purposes",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'Come to our picnic! Saturday at 12, beside the lake.' Why are the time and place included?",
+    "audioPrompt": "Read: 'Come to our picnic! Saturday at 12, beside the lake.' Why are the time and place included?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "To describe what a picnic tastes like",
+      "To help guests know when and where to go",
+      "To explain how lakes are formed"
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "An invitation gives a time and place so guests can attend the event.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "An invitation gives a time and place so guests can attend the event.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-010",
+    "id": "ac9e1ly01-er4-p-003",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “A fox needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A fox needs food and water. It is a living thing.” What is this text for?",
+    "question": "Read: 'A snail has a soft body and a shell.' What is the main purpose?",
+    "audioPrompt": "Read: 'A snail has a soft body and a shell.' What is the main purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "to give an order",
-      "to tell a joke",
-      "to give facts"
+      "To ask someone to buy a snail",
+      "To tell a snail adventure",
+      "To give information about snails"
     ],
-    "correct": 2,
-    "explanation": "to give facts is the best answer.",
-    "structuredExplanation": {
-      "summary": "to give facts is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The sentence gives facts about a snail's body rather than a story or request.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The sentence gives facts about a snail's body rather than a story or request.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-011",
+    "id": "ac9e1ly01-er4-p-004",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “I think the zoo is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the zoo is best because it is fun.” What does this text give?",
+    "question": "Read: 'Please choose our park for the trip. It has room for games.' What is the writer trying to do?",
+    "audioPrompt": "Read: 'Please choose our park for the trip. It has room for games.' What is the writer trying to do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a recipe",
-      "an opinion",
-      "a greeting"
+      "Get the reader to choose the park",
+      "Explain how to play a game",
+      "Tell when the park was built"
     ],
-    "correct": 1,
-    "explanation": "an opinion is the best answer.",
-    "structuredExplanation": {
-      "summary": "an opinion is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "The writer asks for a choice and gives a reason to support that choice.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The writer asks for a choice and gives a reason to support that choice.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-012",
+    "id": "ac9e1ly01-er4-p-005",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “The tiny duck flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny duck flew to the moon.” What kind of text is this?",
+    "question": "Read: 'Milo opened the tiny door. A dragon sneezed inside.' What is this opening mainly doing?",
+    "audioPrompt": "Read: 'Milo opened the tiny door. A dragon sneezed inside.' What is this opening mainly doing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,29 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a made-up story",
-      "a fact report",
-      "a list"
+      "Giving directions to a shop",
+      "Starting a story",
+      "Listing facts about doors"
     ],
-    "correct": 0,
-    "explanation": "a made-up story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "A character discovers something surprising, which begins a story event.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A character discovers something surprising, which begins a story event.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-013",
+    "id": "ac9e1ly01-er4-p-006",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which text would have steps and numbered instructions?",
-    "audioPrompt": "Which text would have steps and numbered instructions?",
+    "question": "Read: 'Library closed today. Open again on Monday.' What does this notice help readers know?",
+    "audioPrompt": "Read: 'Library closed today. Open again on Monday.' What does this notice help readers know?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -376,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a poem",
-      "a story",
-      "a how-to text"
+      "Which story they should read",
+      "How to write a library book",
+      "When they can use the library"
     ],
-    "correct": 2,
-    "explanation": "a how-to text is the best answer.",
-    "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "The notice gives opening information so readers can plan a visit.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The notice gives opening information so readers can plan a visit.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-014",
+    "id": "ac9e1ly01-er4-p-007",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which text often has characters and a problem?",
-    "audioPrompt": "Which text often has characters and a problem?",
+    "question": "Read: 'Dear Jo, thank you for helping me carry my bag. From Ali.' Why was this note written?",
+    "audioPrompt": "Read: 'Dear Jo, thank you for helping me carry my bag. From Ali.' Why was this note written?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a label",
-      "a story",
-      "a fact list"
+      "To thank Jo",
+      "To invite Jo to a party",
+      "To explain how bags are made"
     ],
-    "correct": 1,
-    "explanation": "a story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "The words thank you and the named helpful action show the note's purpose.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The words thank you and the named helpful action show the note's purpose.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-015",
+    "id": "ac9e1ly01-er4-p-008",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "question": "Read: 'LOST: small red scarf. Please give it to the school office.' What does the writer want?",
+    "audioPrompt": "Read: 'LOST: small red scarf. Please give it to the school office.' What does the writer want?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "fact",
-      "opinion",
-      "question"
+      "Advice about washing scarves",
+      "Help getting the scarf back",
+      "Someone to buy a new scarf"
     ],
-    "correct": 0,
-    "explanation": "fact is the best answer.",
-    "structuredExplanation": {
-      "summary": "fact is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The description helps people recognise the lost scarf and return it.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The description helps people recognise the lost scarf and return it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-016",
+    "id": "ac9e1ly01-er4-p-009",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “Please choose our new cup. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new cup. It is the best!” What is the writer trying to do?",
+    "question": "A page says 'You need: paper, glue. 1. Fold the paper. 2. Glue the edges.' Which feature helps you follow the task in order?",
+    "audioPrompt": "A page says 'You need: paper, glue. 1. Fold the paper. 2. Glue the edges.' Which feature helps you follow the task in order?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "tell a story",
-      "give directions",
-      "persuade"
+      "The word paper appearing twice",
+      "The short title of the page",
+      "The numbered steps"
     ],
-    "correct": 2,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1ly01-p-017",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a made-up story",
-      "an opinion",
-      "a recount"
-    ],
-    "correct": 2,
-    "explanation": "a recount is the best answer.",
-    "structuredExplanation": {
-      "summary": "a recount is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Numbers show which action to do first and which action comes next.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Numbers show which action to do first and which action comes next.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-018",
+    "id": "ac9e1ly01-er4-p-010",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “A duck needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A duck needs food and water. It is a living thing.” What is this text for?",
+    "question": "A poster says 'Try our fruit cups! Fresh, sweet and ready to eat.' Which words most clearly encourage people to choose them?",
+    "audioPrompt": "A poster says 'Try our fruit cups! Fresh, sweet and ready to eat.' Which words most clearly encourage people to choose them?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +295,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "to give facts",
-      "to give an order",
-      "to tell a joke"
+      "Try our fruit cups!",
+      "Ready to eat",
+      "Fruit cups"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "to give facts is the best answer.",
+    "explanation": "Try is a direct invitation to choose the food, showing the poster's selling purpose.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "to give facts is the best answer."
+      "summary": "Try is a direct invitation to choose the food, showing the poster's selling purpose.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-019",
+    "id": "ac9e1ly01-er4-p-011",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “I think the school is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the school is best because it is fun.” What does this text give?",
+    "question": "A page labels a bird's 'wing', 'beak' and 'tail'. How do the labels help?",
+    "audioPrompt": "A page labels a bird's 'wing', 'beak' and 'tail'. How do the labels help?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a greeting",
-      "an opinion",
-      "a recipe"
+      "They ask the reader to keep a bird",
+      "They name parts of the bird",
+      "They tell a bird's adventure"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "an opinion is the best answer.",
+    "explanation": "Labels connect names with parts, helping a reader learn information.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "an opinion is the best answer."
+      "summary": "Labels connect names with parts, helping a reader learn information.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-020",
+    "id": "ac9e1ly01-er4-p-012",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “The tiny goat flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny goat flew to the moon.” What kind of text is this?",
+    "question": "You need to know what to bring to swimming. Which text would help most?",
+    "audioPrompt": "You need to know what to bring to swimming. Which text would help most?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a made-up story",
-      "a list",
-      "a fact report"
+      "A story about a seal learning to swim",
+      "A poster asking people to join a swimming club",
+      "A class note listing towel, swimmers and goggles"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The list tells you the equipment needed for your swimming session.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The list tells you the equipment needed for your swimming session.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly01-er4-p-013",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "skill": "text features indicating purposes",
+    "printable": true,
+    "type": "single",
+    "question": "You want friends to attend your show. Which detail belongs on your invitation?",
+    "audioPrompt": "You want friends to attend your show. Which detail belongs on your invitation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The day and starting time",
+      "A list of every show you have seen",
+      "Instructions for building the stage"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "a made-up story is the best answer.",
+    "explanation": "Guests need to know when to attend, so the day and time support the invitation.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
+      "summary": "Guests need to know when to attend, so the day and time support the invitation.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-021",
+    "id": "ac9e1ly01-er4-p-014",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which text would have steps and numbered instructions?",
-    "audioPrompt": "Which text would have steps and numbered instructions?",
+    "question": "Read: 'Walk past the hall. Turn left at the office.' What makes this useful as directions?",
+    "audioPrompt": "Read: 'Walk past the hall. Turn left at the office.' What makes this useful as directions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a poem",
-      "a how-to text",
-      "a story"
+      "It tells how the office was built",
+      "It names places and tells where to turn",
+      "It explains why the hall is popular"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "a how-to text is the best answer.",
+    "explanation": "Named landmarks and turning instructions help a reader follow a route.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
+      "summary": "Named landmarks and turning instructions help a reader follow a route.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-022",
+    "id": "ac9e1ly01-er4-p-015",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which text often has characters and a problem?",
-    "audioPrompt": "Which text often has characters and a problem?",
+    "question": "A book page says 'Contents: Bears 2; Frogs 6; Birds 10.' How does this feature help a reader?",
+    "audioPrompt": "A book page says 'Contents: Bears 2; Frogs 6; Birds 10.' How does this feature help a reader?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +450,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a label",
-      "a fact list",
-      "a story"
+      "Decide which animal is nicest",
+      "Learn every fact on page 6",
+      "Find the page for a topic"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "a story is the best answer.",
+    "explanation": "A contents list links topics to page numbers so information can be found.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a story is the best answer."
+      "summary": "A contents list links topics to page numbers so information can be found.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-023",
+    "id": "ac9e1ly01-er4-p-016",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read and choose: Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "question": "Read: 'No entry. The path is being repaired.' Why does the notice give a reason?",
+    "audioPrompt": "Read: 'No entry. The path is being repaired.' Why does the notice give a reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +481,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "opinion",
-      "fact",
-      "question"
+      "To explain why people must use another way",
+      "To begin a story about a path",
+      "To invite people to help with repairs"
     ],
-    "correct": 1,
-    "explanation": "fact is the best answer.",
-    "structuredExplanation": {
-      "summary": "fact is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1ly01-p-024",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Please choose our new kite. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new kite. It is the best!” What is the writer trying to do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tell a story",
-      "persuade",
-      "give directions"
-    ],
-    "correct": 1,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1ly01-p-025",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "an opinion",
-      "a made-up story",
-      "a recount"
-    ],
-    "correct": 2,
-    "explanation": "a recount is the best answer.",
-    "structuredExplanation": {
-      "summary": "a recount is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1ly01-p-026",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A goat needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A goat needs food and water. It is a living thing.” What is this text for?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "to tell a joke",
-      "to give facts",
-      "to give an order"
-    ],
-    "correct": 1,
-    "explanation": "to give facts is the best answer.",
-    "structuredExplanation": {
-      "summary": "to give facts is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1ly01-p-027",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “I think the shop is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the shop is best because it is fun.” What does this text give?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a recipe",
-      "a greeting",
-      "an opinion"
-    ],
-    "correct": 2,
-    "explanation": "an opinion is the best answer.",
-    "structuredExplanation": {
-      "summary": "an opinion is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1ly01-p-028",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The tiny dog flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny dog flew to the moon.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a made-up story",
-      "a list",
-      "a fact report"
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "a made-up story is the best answer.",
+    "explanation": "The reason explains the restriction and helps readers understand the notice.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
+      "summary": "The reason explains the restriction and helps readers understand the notice.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-029",
+    "id": "ac9e1ly01-er4-p-017",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which text would have steps and numbered instructions?",
-    "audioPrompt": "Read and choose: Which text would have steps and numbered instructions?",
+    "question": "Text A says 'First, plant the seed.' Text B says 'Please plant a tree; it gives shade.' How are their main purposes different?",
+    "audioPrompt": "Text A says 'First, plant the seed.' Text B says 'Please plant a tree; it gives shade.' How are their main purposes different?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a poem",
-      "a story",
-      "a how-to text"
+      "A tells a story; B gives a step",
+      "A gives a step; B encourages an action",
+      "A encourages buying; B tells a story"
     ],
-    "correct": 2,
-    "explanation": "a how-to text is the best answer.",
-    "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1ly01-p-030",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which text often has characters and a problem?",
-    "audioPrompt": "Read and choose: Which text often has characters and a problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a label",
-      "a story",
-      "a fact list"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "a story is the best answer.",
+    "explanation": "First introduces an instruction, while please and the reason encourage planting.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a story is the best answer."
+      "summary": "First introduces an instruction, while please and the reason encourage planting.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-031",
+    "id": "ac9e1ly01-er4-p-018",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "question": "A text is headed 'Come to the fair' but gives no date. What important part of its purpose is harder to achieve?",
+    "audioPrompt": "A text is headed 'Come to the fair' but gives no date. What important part of its purpose is harder to achieve?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +543,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "fact",
-      "question",
-      "opinion"
+      "Helping readers spell the word fair",
+      "Helping readers imagine a character",
+      "Helping readers know when to attend"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "An event invitation needs a date so readers can plan to come.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "An event invitation needs a date so readers can plan to come.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly01-er4-p-019",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "skill": "text features indicating purposes",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'The frog leapt into a silver boat and sailed to the moon.' A child says it must be a fact page because it names a frog. What is the best reply?",
+    "audioPrompt": "Read: 'The frog leapt into a silver boat and sailed to the moon.' A child says it must be a fact page because it names a frog. What is the best reply?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The impossible adventure is a story clue",
+      "All texts about frogs are fact pages",
+      "A fact page cannot mention an animal"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "fact is the best answer.",
+    "explanation": "Purpose depends on what the text does, not just its topic; this is an imagined adventure.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "fact is the best answer."
+      "summary": "Purpose depends on what the text does, not just its topic; this is an imagined adventure.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-032",
+    "id": "ac9e1ly01-er4-p-020",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “Please choose our new hat. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new hat. It is the best!” What is the writer trying to do?",
+    "question": "A sign says 'Please walk. The floor is wet.' Which feature best shows its purpose?",
+    "audioPrompt": "A sign says 'Please walk. The floor is wet.' Which feature best shows its purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "tell a story",
-      "give directions",
-      "persuade"
+      "It mentions a place indoors",
+      "It asks for an action and explains why",
+      "It has a word with three letters"
     ],
-    "correct": 2,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1ly01-p-033",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a made-up story",
-      "a recount",
-      "an opinion"
-    ],
-    "correct": 1,
-    "explanation": "a recount is the best answer.",
-    "structuredExplanation": {
-      "summary": "a recount is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "The request and reason show that the sign guides behaviour on the wet floor.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The request and reason show that the sign guides behaviour on the wet floor.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-034",
+    "id": "ac9e1ly01-er4-p-021",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “A dog needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A dog needs food and water. It is a living thing.” What is this text for?",
+    "question": "A recipe lists ingredients but no amounts. Which added detail would make it more useful?",
+    "audioPrompt": "A recipe lists ingredients but no amounts. Which added detail would make it more useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "to give facts",
-      "to give an order",
-      "to tell a joke"
+      "The writer's favourite plate colour",
+      "A story about a hungry mouse",
+      "How much of each ingredient to use"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Amounts help the reader prepare the food correctly, supporting the recipe's purpose.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Amounts help the reader prepare the food correctly, supporting the recipe's purpose.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly01-er4-p-022",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "skill": "text features indicating purposes",
+    "printable": true,
+    "type": "single",
+    "question": "Text A tells when the pool opens. Text B asks readers to try a pool lesson. Which question helps tell their purposes apart?",
+    "audioPrompt": "Text A tells when the pool opens. Text B asks readers to try a pool lesson. Which question helps tell their purposes apart?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Does it give visiting information or encourage joining?",
+      "Does it use the word pool?",
+      "Does it have a full stop?"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "to give facts is the best answer.",
+    "explanation": "Both can mention a pool and use punctuation; what each asks or tells reveals purpose.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "to give facts is the best answer."
+      "summary": "Both can mention a pool and use punctuation; what each asks or tells reveals purpose.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-035",
+    "id": "ac9e1ly01-er4-p-023",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “I think the camp is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the camp is best because it is fun.” What does this text give?",
+    "question": "Read: 'Our garden needs your help. Join us on Friday to plant seeds.' Why does this text include both a request and a day?",
+    "audioPrompt": "Read: 'Our garden needs your help. Join us on Friday to plant seeds.' Why does this text include both a request and a day?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1036,29 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a greeting",
-      "an opinion",
-      "a recipe"
+      "It explains every step for planting seeds",
+      "It encourages helping and tells when to come",
+      "It proves the garden has already been planted"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "an opinion is the best answer.",
+    "explanation": "A text can encourage an action and supply practical information for doing it.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "an opinion is the best answer."
+      "summary": "A text can encourage an action and supply practical information for doing it.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-036",
+    "id": "ac9e1ly01-er4-p-024",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Read: “The tiny fox flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny fox flew to the moon.” What kind of text is this?",
+    "question": "A page has numbered steps, but says '1. The fox woke. 2. It heard a knock.' Why should you read the words before calling it instructions?",
+    "audioPrompt": "A page has numbered steps, but says '1. The fox woke. 2. It heard a knock.' Why should you read the words before calling it instructions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1066,378 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a list",
-      "a made-up story",
-      "a fact report"
+      "Numbered texts always explain how to make things",
+      "Stories cannot have numbers",
+      "Numbers can also organise story events"
     ],
-    "correct": 1,
-    "explanation": "a made-up story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1ly01-p-037",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Which text would have steps and numbered instructions?",
-    "audioPrompt": "Which text would have steps and numbered instructions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a how-to text",
-      "a story",
-      "a poem"
-    ],
-    "correct": 0,
-    "explanation": "a how-to text is the best answer.",
-    "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1ly01-p-038",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Which text often has characters and a problem?",
-    "audioPrompt": "Which text often has characters and a problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a fact list",
-      "a story",
-      "a label"
-    ],
-    "correct": 1,
-    "explanation": "a story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1ly01-p-039",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "question",
-      "opinion",
-      "fact"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "fact is the best answer.",
+    "explanation": "The words describe events rather than tell the reader actions to carry out.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "fact is the best answer."
+      "summary": "The words describe events rather than tell the reader actions to carry out.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1ly01-p-040",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Please choose our new book. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new book. It is the best!” What is the writer trying to do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tell a story",
-      "persuade",
-      "give directions"
-    ],
-    "correct": 1,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly01-p-041",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Look and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "an opinion",
-      "a made-up story",
-      "a recount"
-    ],
-    "correct": 2,
-    "explanation": "a recount is the best answer.",
-    "structuredExplanation": {
-      "summary": "a recount is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-042",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A fox needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A fox needs food and water. It is a living thing.” What is this text for?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "to tell a joke",
-      "to give an order",
-      "to give facts"
-    ],
-    "correct": 2,
-    "explanation": "to give facts is the best answer.",
-    "structuredExplanation": {
-      "summary": "to give facts is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-043",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “I think the beach is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the beach is best because it is fun.” What does this text give?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "an opinion",
-      "a greeting",
-      "a recipe"
-    ],
-    "correct": 0,
-    "explanation": "an opinion is the best answer.",
-    "structuredExplanation": {
-      "summary": "an opinion is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-044",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The tiny duck flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny duck flew to the moon.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a fact report",
-      "a list",
-      "a made-up story"
-    ],
-    "correct": 2,
-    "explanation": "a made-up story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-045",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which text would have steps and numbered instructions?",
-    "audioPrompt": "Read and choose: Which text would have steps and numbered instructions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a how-to text",
-      "a story",
-      "a poem"
-    ],
-    "correct": 0,
-    "explanation": "a how-to text is the best answer.",
-    "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-046",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which text often has characters and a problem?",
-    "audioPrompt": "Read and choose: Which text often has characters and a problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a label",
-      "a fact list",
-      "a story"
-    ],
-    "correct": 2,
-    "explanation": "a story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a story is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-047",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "question",
-      "fact",
-      "opinion"
-    ],
-    "correct": 1,
-    "explanation": "fact is the best answer.",
-    "structuredExplanation": {
-      "summary": "fact is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-048",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "discuss different texts and identify some features that indicate their purposes",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Please choose our new sock. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new sock. It is the best!” What is the writer trying to do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "give directions",
-      "tell a story",
-      "persuade"
-    ],
-    "correct": 2,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

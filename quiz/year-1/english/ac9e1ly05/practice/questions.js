@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly05-p-001",
+    "id": "ac9e1ly05-er4-p-001",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Dark clouds filled the sky. Mia took an umbrella.” What may happen next?",
-    "audioPrompt": "Read: “Dark clouds filled the sky. Mia took an umbrella.” What may happen next?",
+    "question": "Read: 'I put the blue cup beside the tap and the red cup on the shelf.' Where is the blue cup?",
+    "audioPrompt": "Read: 'I put the blue cup beside the tap and the red cup on the shelf.' Where is the blue cup?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sun may sing.",
-      "It may snow indoors.",
-      "It may rain."
+      "Beside the tap",
+      "On the shelf",
+      "Under the table"
     ],
-    "correct": 2,
-    "explanation": "It may rain. is the best answer.",
-    "structuredExplanation": {
-      "summary": "It may rain. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1ly05-p-002",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The dog curled up on a soft mat.” What can you picture?",
-    "audioPrompt": "Read: “The dog curled up on a soft mat.” What can you picture?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a dog in a tree",
-      "a dog on a mat",
-      "an empty pond"
-    ],
-    "correct": 1,
-    "explanation": "a dog on a mat is the best answer.",
-    "structuredExplanation": {
-      "summary": "a dog on a mat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1ly05-p-003",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Sam packed a towel and bucket.” Where might Sam go?",
-    "audioPrompt": "Read: “Sam packed a towel and bucket.” Where might Sam go?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the library",
-      "the beach",
-      "the moon"
-    ],
-    "correct": 1,
-    "explanation": "the beach is the best answer.",
-    "structuredExplanation": {
-      "summary": "the beach is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1ly05-p-004",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
-    "audioPrompt": "Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A seed ran.",
-      "A seed grew.",
-      "The sun slept."
-    ],
-    "correct": 1,
-    "explanation": "A seed grew. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A seed grew. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1ly05-p-005",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ava heard a bark at the gate.” What useful question could you ask?",
-    "audioPrompt": "Read: “Ava heard a bark at the gate.” What useful question could you ask?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Is two plus two four?",
-      "Which dog barked?",
-      "What colour is music?"
-    ],
-    "correct": 1,
-    "explanation": "Which dog barked? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Which dog barked? is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1ly05-p-006",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Leo fed the duck, then filled its water bowl.” What did Leo do?",
-    "audioPrompt": "Read: “Leo fed the duck, then filled its water bowl.” What did Leo do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "drew the animal",
-      "lost the animal",
-      "cared for the animal"
-    ],
-    "correct": 2,
-    "explanation": "cared for the animal is the best answer.",
-    "structuredExplanation": {
-      "summary": "cared for the animal is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1ly05-p-007",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The path was wet.” What clue helps you think it rained?",
-    "audioPrompt": "Read: “The path was wet.” What clue helps you think it rained?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the word path",
-      "wet path",
-      "the full stop"
-    ],
-    "correct": 1,
-    "explanation": "wet path is the best answer.",
-    "structuredExplanation": {
-      "summary": "wet path is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1ly05-p-008",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Max smiled after opening the gift.” How did Max feel?",
-    "audioPrompt": "Read: “Max smiled after opening the gift.” How did Max feel?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "angry",
-      "happy",
-      "tired"
-    ],
-    "correct": 1,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1ly05-p-009",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Dark clouds filled the sky. Ben took an umbrella.” What may happen next?",
-    "audioPrompt": "Read: “Dark clouds filled the sky. Ben took an umbrella.” What may happen next?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It may rain.",
-      "It may snow indoors.",
-      "The sun may sing."
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "It may rain. is the best answer.",
+    "explanation": "The sentence directly places the blue cup beside the tap; the shelf belongs to the red cup.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "It may rain. is the best answer."
+      "summary": "The sentence directly places the blue cup beside the tap; the shelf belongs to the red cup.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly05-er4-p-002",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "literal meaning, inference and comprehension strategies",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'A tiny path curved between two tall trees.' Which picture would match the words?",
+    "audioPrompt": "Read: 'A tiny path curved between two tall trees.' Which picture would match the words?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A tree standing in the middle of a lake",
+      "A narrow curved path with a tall tree on each side",
+      "A straight wide road with no trees"
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Tiny, curved and between tell you the path's size, shape and position.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Tiny, curved and between tell you the path's size, shape and position.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-010",
+    "id": "ac9e1ly05-er4-p-003",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “The fox curled up on a soft mat.” What can you picture?",
-    "audioPrompt": "Read: “The fox curled up on a soft mat.” What can you picture?",
+    "question": "Read: 'Zoe packed a towel and goggles. Her swimming lesson started soon.' Where is Zoe most likely going?",
+    "audioPrompt": "Read: 'Zoe packed a towel and goggles. Her swimming lesson started soon.' Where is Zoe most likely going?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "an empty pond",
-      "a fox in a tree",
-      "a fox on a mat"
+      "To a library",
+      "To a farm",
+      "To a pool"
     ],
-    "correct": 2,
-    "explanation": "a fox on a mat is the best answer.",
-    "structuredExplanation": {
-      "summary": "a fox on a mat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The swimming lesson, towel and goggles all support the pool prediction.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The swimming lesson, towel and goggles all support the pool prediction.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-011",
+    "id": "ac9e1ly05-er4-p-004",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Kim packed a towel and bucket.” Where might Kim go?",
-    "audioPrompt": "Read: “Kim packed a towel and bucket.” Where might Kim go?",
+    "question": "Read: 'The children planted seeds, watered them and watched shoots appear.' What is the text mainly about?",
+    "audioPrompt": "Read: 'The children planted seeds, watered them and watched shoots appear.' What is the text mainly about?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the moon",
-      "the beach",
-      "the library"
+      "Growing plants from seeds",
+      "Choosing new watering cans",
+      "Playing beside a garden"
     ],
-    "correct": 1,
-    "explanation": "the beach is the best answer.",
-    "structuredExplanation": {
-      "summary": "the beach is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Planting, watering and seeing shoots are linked parts of growing plants.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Planting, watering and seeing shoots are linked parts of growing plants.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-012",
+    "id": "ac9e1ly05-er4-p-005",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
-    "audioPrompt": "Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
+    "question": "Read: 'A wet dog shook itself beside Amir. Drops landed on his shirt.' Why did Amir's shirt get wet?",
+    "audioPrompt": "Read: 'A wet dog shook itself beside Amir. Drops landed on his shirt.' Why did Amir's shirt get wet?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,29 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A seed grew.",
-      "A seed ran.",
-      "The sun slept."
+      "It says Amir jumped into a pool",
+      "The dog shook water onto it",
+      "Amir washed his shirt"
     ],
-    "correct": 0,
-    "explanation": "A seed grew. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A seed grew. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The nearby shaking dog and flying drops explain the wet shirt.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The nearby shaking dog and flying drops explain the wet shirt.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-013",
+    "id": "ac9e1ly05-er4-p-006",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Leo heard a bark at the gate.” What useful question could you ask?",
-    "audioPrompt": "Read: “Leo heard a bark at the gate.” What useful question could you ask?",
+    "question": "Read: 'Nina opened her lunchbox and found it empty.' Which question would help you understand this event better?",
+    "audioPrompt": "Read: 'Nina opened her lunchbox and found it empty.' Which question would help you understand this event better?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -376,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "What colour is music?",
-      "Is two plus two four?",
-      "Which dog barked?"
+      "What colour are Nina's shoes?",
+      "How many windows are in the room?",
+      "What happened to the lunch?"
     ],
-    "correct": 2,
-    "explanation": "Which dog barked? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Which dog barked? is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "The missing lunch is the important unexplained part of the event.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The missing lunch is the important unexplained part of the event.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-014",
+    "id": "ac9e1ly05-er4-p-007",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe fed the goat, then filled its water bowl.” What did Zoe do?",
-    "audioPrompt": "Read: “Zoe fed the goat, then filled its water bowl.” What did Zoe do?",
+    "question": "Read: 'The wind tugged at the flag until it stretched straight out.' What should you imagine?",
+    "audioPrompt": "Read: 'The wind tugged at the flag until it stretched straight out.' What should you imagine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "lost the animal",
-      "cared for the animal",
-      "drew the animal"
+      "A flag pulled out by strong wind",
+      "A flag lying still on the ground",
+      "A flag hidden inside a bag"
     ],
-    "correct": 1,
-    "explanation": "cared for the animal is the best answer.",
-    "structuredExplanation": {
-      "summary": "cared for the animal is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Tugged and stretched straight out describe the wind pulling the flag away from its pole.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Tugged and stretched straight out describe the wind pulling the flag away from its pole.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-015",
+    "id": "ac9e1ly05-er4-p-008",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “The path was wet.” What clue helps you think it rained?",
-    "audioPrompt": "Read: “The path was wet.” What clue helps you think it rained?",
+    "question": "Read: 'Leo checked under the bed, behind the door and inside his bag for his cap.' What is Leo doing?",
+    "audioPrompt": "Read: 'Leo checked under the bed, behind the door and inside his bag for his cap.' What is Leo doing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "wet path",
-      "the word path",
-      "the full stop"
+      "Cleaning every room",
+      "Searching for something missing",
+      "Packing for a holiday"
     ],
-    "correct": 0,
-    "explanation": "wet path is the best answer.",
-    "structuredExplanation": {
-      "summary": "wet path is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Checking several places for the cap shows that Leo is searching for it.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Checking several places for the cap shows that Leo is searching for it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-016",
+    "id": "ac9e1ly05-er4-p-009",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Mia smiled after opening the gift.” How did Mia feel?",
-    "audioPrompt": "Read: “Mia smiled after opening the gift.” How did Mia feel?",
+    "question": "Read: 'Mum set out flour, a bowl and a baking tray. She turned on the oven.' What is she most likely about to do?",
+    "audioPrompt": "Read: 'Mum set out flour, a bowl and a baking tray. She turned on the oven.' What is she most likely about to do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "angry",
-      "tired",
-      "happy"
+      "Wash the windows",
+      "Plant a tree",
+      "Bake something"
     ],
-    "correct": 2,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1ly05-p-017",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Dark clouds filled the sky. Sam took an umbrella.” What may happen next?",
-    "audioPrompt": "Read: “Dark clouds filled the sky. Sam took an umbrella.” What may happen next?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It may snow indoors.",
-      "The sun may sing.",
-      "It may rain."
-    ],
-    "correct": 2,
-    "explanation": "It may rain. is the best answer.",
-    "structuredExplanation": {
-      "summary": "It may rain. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "The ingredients, baking equipment and oven support a prediction about baking.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The ingredients, baking equipment and oven support a prediction about baking.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-018",
+    "id": "ac9e1ly05-er4-p-010",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “The duck curled up on a soft mat.” What can you picture?",
-    "audioPrompt": "Read: “The duck curled up on a soft mat.” What can you picture?",
+    "question": "Read: 'The path was covered in puddles. Ari took the longer dry path.' Why did Ari probably change route?",
+    "audioPrompt": "Read: 'The path was covered in puddles. Ari took the longer dry path.' Why did Ari probably change route?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +295,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a duck on a mat",
-      "an empty pond",
-      "a duck in a tree"
+      "To avoid walking through water",
+      "To find deeper puddles",
+      "To reach a place the text names as a shop"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "a duck on a mat is the best answer.",
+    "explanation": "The contrast between puddles and a dry path supports avoiding the water.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a duck on a mat is the best answer."
+      "summary": "The contrast between puddles and a dry path supports avoiding the water.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-019",
+    "id": "ac9e1ly05-er4-p-011",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ava packed a towel and bucket.” Where might Ava go?",
-    "audioPrompt": "Read: “Ava packed a towel and bucket.” Where might Ava go?",
+    "question": "Read: 'Mia's tower fell. She made the bottom wider and tried again.' Which past experience would help a reader understand Mia's change?",
+    "audioPrompt": "Read: 'Mia's tower fell. She made the bottom wider and tried again.' Which past experience would help a reader understand Mia's change?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the library",
-      "the beach",
-      "the moon"
+      "Learning the words of a song",
+      "Building something that tipped because its base was too small",
+      "Choosing a favourite paint colour"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "the beach is the best answer.",
+    "explanation": "A similar experience of an unstable base helps explain why Mia widened the bottom.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "the beach is the best answer."
+      "summary": "A similar experience of an unstable base helps explain why Mia widened the bottom.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-020",
+    "id": "ac9e1ly05-er4-p-012",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
-    "audioPrompt": "Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
+    "question": "Read: 'At first, Ben could not tie the knot. After many tries, it stayed tight.' Which summary fits?",
+    "audioPrompt": "Read: 'At first, Ben could not tie the knot. After many tries, it stayed tight.' Which summary fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A seed grew.",
-      "The sun slept.",
-      "A seed ran."
+      "Ben gave up before trying.",
+      "Ben taught everyone a new game.",
+      "Ben practised until he could tie the knot."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The summary includes the initial difficulty, repeated effort and successful result.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The summary includes the initial difficulty, repeated effort and successful result.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly05-er4-p-013",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "literal meaning, inference and comprehension strategies",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'The basket was light when empty. After Jo filled it with books, she used both hands.' What can you infer?",
+    "audioPrompt": "Read: 'The basket was light when empty. After Jo filled it with books, she used both hands.' What can you infer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The full basket was harder to carry",
+      "The books made the basket lighter",
+      "Jo had taken all the books out"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "A seed grew. is the best answer.",
+    "explanation": "Filling it with books and then using both hands suggest increased weight.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "A seed grew. is the best answer."
+      "summary": "Filling it with books and then using both hands suggest increased weight.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-021",
+    "id": "ac9e1ly05-er4-p-014",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe heard a bark at the gate.” What useful question could you ask?",
-    "audioPrompt": "Read: “Zoe heard a bark at the gate.” What useful question could you ask?",
+    "question": "Read: 'A low branch hung across the path. Finn bent his head as he walked under it.' Why did he bend?",
+    "audioPrompt": "Read: 'A low branch hung across the path. Finn bent his head as he walked under it.' Why did he bend?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "What colour is music?",
-      "Which dog barked?",
-      "Is two plus two four?"
+      "To reach a cloud",
+      "To avoid the branch",
+      "To see a bird above it"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "Which dog barked? is the best answer.",
+    "explanation": "The low branch gives a reason for lowering his head while passing underneath.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Which dog barked? is the best answer."
+      "summary": "The low branch gives a reason for lowering his head while passing underneath.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-022",
+    "id": "ac9e1ly05-er4-p-015",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Max fed the dog, then filled its water bowl.” What did Max do?",
-    "audioPrompt": "Read: “Max fed the dog, then filled its water bowl.” What did Max do?",
+    "question": "Read: 'Our class collected fallen leaves. We sorted them by shape and made a display.' What is the best title?",
+    "audioPrompt": "Read: 'Our class collected fallen leaves. We sorted them by shape and made a display.' What is the best title?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +450,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "lost the animal",
-      "drew the animal",
-      "cared for the animal"
+      "The Missing Lunch",
+      "How to Ride a Bike",
+      "Our Leaf Display"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "cared for the animal is the best answer.",
+    "explanation": "The title connects the collecting and sorting with the display they made.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "cared for the animal is the best answer."
+      "summary": "The title connects the collecting and sorting with the display they made.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-023",
+    "id": "ac9e1ly05-er4-p-016",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Read: “The path was wet.” What clue helps you think it rained?",
-    "audioPrompt": "Read and choose: Read: “The path was wet.” What clue helps you think it rained?",
+    "question": "Read: 'Rae pressed her ear to the closed door. She could hear a soft scratching.' Which question best follows the clue?",
+    "audioPrompt": "Read: 'Rae pressed her ear to the closed door. She could hear a soft scratching.' Which question best follows the clue?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +481,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the word path",
-      "wet path",
-      "the full stop"
+      "What is making the scratching sound?",
+      "What did Rae eat last week?",
+      "How many trees are outside?"
     ],
-    "correct": 1,
-    "explanation": "wet path is the best answer.",
-    "structuredExplanation": {
-      "summary": "wet path is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1ly05-p-024",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben smiled after opening the gift.” How did Ben feel?",
-    "audioPrompt": "Read: “Ben smiled after opening the gift.” How did Ben feel?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "angry",
-      "happy",
-      "tired"
-    ],
-    "correct": 1,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1ly05-p-025",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Dark clouds filled the sky. Kim took an umbrella.” What may happen next?",
-    "audioPrompt": "Read: “Dark clouds filled the sky. Kim took an umbrella.” What may happen next?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sun may sing.",
-      "It may snow indoors.",
-      "It may rain."
-    ],
-    "correct": 2,
-    "explanation": "It may rain. is the best answer.",
-    "structuredExplanation": {
-      "summary": "It may rain. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1ly05-p-026",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The goat curled up on a soft mat.” What can you picture?",
-    "audioPrompt": "Read: “The goat curled up on a soft mat.” What can you picture?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a goat in a tree",
-      "a goat on a mat",
-      "an empty pond"
-    ],
-    "correct": 1,
-    "explanation": "a goat on a mat is the best answer.",
-    "structuredExplanation": {
-      "summary": "a goat on a mat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1ly05-p-027",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Leo packed a towel and bucket.” Where might Leo go?",
-    "audioPrompt": "Read: “Leo packed a towel and bucket.” Where might Leo go?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the moon",
-      "the library",
-      "the beach"
-    ],
-    "correct": 2,
-    "explanation": "the beach is the best answer.",
-    "structuredExplanation": {
-      "summary": "the beach is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1ly05-p-028",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
-    "audioPrompt": "Read and choose: Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A seed grew.",
-      "The sun slept.",
-      "A seed ran."
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "A seed grew. is the best answer.",
+    "explanation": "The sound is the clue that raises a relevant question about what is behind the door.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "A seed grew. is the best answer."
+      "summary": "The sound is the clue that raises a relevant question about what is behind the door.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-029",
+    "id": "ac9e1ly05-er4-p-017",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Max heard a bark at the gate.” What useful question could you ask?",
-    "audioPrompt": "Read: “Max heard a bark at the gate.” What useful question could you ask?",
+    "question": "Read: 'Before the match, Kit's hands shook. When her friend waved, Kit smiled and took a deep breath.' Which inference is best supported?",
+    "audioPrompt": "Read: 'Before the match, Kit's hands shook. When her friend waved, Kit smiled and took a deep breath.' Which inference is best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "What colour is music?",
-      "Is two plus two four?",
-      "Which dog barked?"
+      "Kit has forgotten where she is",
+      "Kit may feel a little calmer after seeing her friend",
+      "Kit has certainly won the match already"
     ],
-    "correct": 2,
-    "explanation": "Which dog barked? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Which dog barked? is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1ly05-p-030",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Mia fed the fox, then filled its water bowl.” What did Mia do?",
-    "audioPrompt": "Read: “Mia fed the fox, then filled its water bowl.” What did Mia do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "lost the animal",
-      "cared for the animal",
-      "drew the animal"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "cared for the animal is the best answer.",
+    "explanation": "The smile and deep breath after the wave suggest reassurance, not a certain match result.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "cared for the animal is the best answer."
+      "summary": "The smile and deep breath after the wave suggest reassurance, not a certain match result.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-031",
+    "id": "ac9e1ly05-er4-p-018",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “The path was wet.” What clue helps you think it rained?",
-    "audioPrompt": "Read: “The path was wet.” What clue helps you think it rained?",
+    "question": "Read: 'Dark clouds gathered. We moved the washing inside. Soon rain hit the windows.' What explains the middle action?",
+    "audioPrompt": "Read: 'Dark clouds gathered. We moved the washing inside. Soon rain hit the windows.' What explains the middle action?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +543,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "wet path",
-      "the full stop",
-      "the word path"
+      "The washing was already on the windows",
+      "The rain had stopped for the day",
+      "The clouds suggested rain might come"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "Moving washing inside follows the warning from the clouds and comes before the rain.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Moving washing inside follows the warning from the clouds and comes before the rain.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly05-er4-p-019",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "literal meaning, inference and comprehension strategies",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'A rabbit nibbled the lettuce. A fence was put around the patch.' What will most likely happen if the fence keeps rabbits out?",
+    "audioPrompt": "Read: 'A rabbit nibbled the lettuce. A fence was put around the patch.' What will most likely happen if the fence keeps rabbits out?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "More lettuce will remain uneaten by rabbits",
+      "The rabbits will certainly stop eating all food",
+      "The lettuce will turn into a different plant"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "wet path is the best answer.",
+    "explanation": "Keeping rabbits out removes the source of nibbling described in the text.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "wet path is the best answer."
+      "summary": "Keeping rabbits out removes the source of nibbling described in the text.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-032",
+    "id": "ac9e1ly05-er4-p-020",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Sam smiled after opening the gift.” How did Sam feel?",
-    "audioPrompt": "Read: “Sam smiled after opening the gift.” How did Sam feel?",
+    "question": "Read: 'The old bench creaked as three children sat down.' Which detail is supported, rather than just a guess?",
+    "audioPrompt": "Read: 'The old bench creaked as three children sat down.' Which detail is supported, rather than just a guess?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "angry",
-      "tired",
-      "happy"
+      "The bench broke into pieces.",
+      "The bench made a sound.",
+      "The bench was painted yellow."
     ],
-    "correct": 2,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1ly05-p-033",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Dark clouds filled the sky. Ava took an umbrella.” What may happen next?",
-    "audioPrompt": "Read: “Dark clouds filled the sky. Ava took an umbrella.” What may happen next?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It may snow indoors.",
-      "It may rain.",
-      "The sun may sing."
-    ],
-    "correct": 1,
-    "explanation": "It may rain. is the best answer.",
-    "structuredExplanation": {
-      "summary": "It may rain. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "Creaked tells us about a sound; colour and breaking are not stated or required.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Creaked tells us about a sound; colour and breaking are not stated or required.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-034",
+    "id": "ac9e1ly05-er4-p-021",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “The dog curled up on a soft mat.” What can you picture?",
-    "audioPrompt": "Read: “The dog curled up on a soft mat.” What can you picture?",
+    "question": "Read: 'A sign said the path ended at the bridge. Ada wanted to reach the bridge.' What can Ada use to decide where to walk?",
+    "audioPrompt": "Read: 'A sign said the path ended at the bridge. Ada wanted to reach the bridge.' What can Ada use to decide where to walk?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a dog on a mat",
-      "an empty pond",
-      "a dog in a tree"
+      "A guess based only on her favourite direction",
+      "The colour of her own bag",
+      "The sign's information about where the path ends"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "The sign provides information connected directly to Ada's destination.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The sign provides information connected directly to Ada's destination.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly05-er4-p-022",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "literal meaning, inference and comprehension strategies",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'The first raft sank. We used wider pieces of wood. The next raft floated.' Which summary keeps the important change?",
+    "audioPrompt": "Read: 'The first raft sank. We used wider pieces of wood. The next raft floated.' Which summary keeps the important change?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Changing the wood helped the next raft float.",
+      "Both rafts sank in the same way.",
+      "The group only looked at wood."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "a dog on a mat is the best answer.",
+    "explanation": "The summary preserves the failed attempt, changed material and improved result.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a dog on a mat is the best answer."
+      "summary": "The summary preserves the failed attempt, changed material and improved result.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-035",
+    "id": "ac9e1ly05-er4-p-023",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe packed a towel and bucket.” Where might Zoe go?",
-    "audioPrompt": "Read: “Zoe packed a towel and bucket.” Where might Zoe go?",
+    "question": "Read: 'The room was silent until a spoon clattered onto the floor.' A child imagines loud music throughout. Which word should make them revise that image?",
+    "audioPrompt": "Read: 'The room was silent until a spoon clattered onto the floor.' A child imagines loud music throughout. Which word should make them revise that image?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1036,29 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the library",
-      "the beach",
-      "the moon"
+      "floor",
+      "silent",
+      "spoon"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "the beach is the best answer.",
+    "explanation": "Silent tells us there was no sound before the clatter, so continuous loud music does not fit.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "the beach is the best answer."
+      "summary": "Silent tells us there was no sound before the clatter, so continuous loud music does not fit.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly05-p-036",
+    "id": "ac9e1ly05-er4-p-024",
     "curriculumCode": "AC9E1LY05",
     "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
+    "skill": "literal meaning, inference and comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
-    "audioPrompt": "Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
+    "question": "Read: 'Tara thought the bag was lost. Then she saw its bright strap behind a chair.' What is the most reasonable next prediction?",
+    "audioPrompt": "Read: 'Tara thought the bag was lost. Then she saw its bright strap behind a chair.' What is the most reasonable next prediction?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1066,378 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sun slept.",
-      "A seed grew.",
-      "A seed ran."
+      "She will know the bag is on a bus.",
+      "She will stop looking because there is no clue.",
+      "She will check behind the chair for the bag."
     ],
-    "correct": 1,
-    "explanation": "A seed grew. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A seed grew. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1ly05-p-037",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Mia heard a bark at the gate.” What useful question could you ask?",
-    "audioPrompt": "Read: “Mia heard a bark at the gate.” What useful question could you ask?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Which dog barked?",
-      "Is two plus two four?",
-      "What colour is music?"
-    ],
-    "correct": 0,
-    "explanation": "Which dog barked? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Which dog barked? is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1ly05-p-038",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben fed the duck, then filled its water bowl.” What did Ben do?",
-    "audioPrompt": "Read: “Ben fed the duck, then filled its water bowl.” What did Ben do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "drew the animal",
-      "cared for the animal",
-      "lost the animal"
-    ],
-    "correct": 1,
-    "explanation": "cared for the animal is the best answer.",
-    "structuredExplanation": {
-      "summary": "cared for the animal is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1ly05-p-039",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The path was wet.” What clue helps you think it rained?",
-    "audioPrompt": "Read: “The path was wet.” What clue helps you think it rained?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the full stop",
-      "the word path",
-      "wet path"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "wet path is the best answer.",
+    "explanation": "The visible strap supplies new evidence pointing to the space behind the chair.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "wet path is the best answer."
+      "summary": "The visible strap supplies new evidence pointing to the space behind the chair.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1ly05-p-040",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Kim smiled after opening the gift.” How did Kim feel?",
-    "audioPrompt": "Read: “Kim smiled after opening the gift.” How did Kim feel?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "angry",
-      "happy",
-      "tired"
-    ],
-    "correct": 1,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly05-p-041",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Dark clouds filled the sky. Leo took an umbrella.” What may happen next?",
-    "audioPrompt": "Read: “Dark clouds filled the sky. Leo took an umbrella.” What may happen next?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sun may sing.",
-      "It may snow indoors.",
-      "It may rain."
-    ],
-    "correct": 2,
-    "explanation": "It may rain. is the best answer.",
-    "structuredExplanation": {
-      "summary": "It may rain. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly05-p-042",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The fox curled up on a soft mat.” What can you picture?",
-    "audioPrompt": "Read: “The fox curled up on a soft mat.” What can you picture?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a fox in a tree",
-      "an empty pond",
-      "a fox on a mat"
-    ],
-    "correct": 2,
-    "explanation": "a fox on a mat is the best answer.",
-    "structuredExplanation": {
-      "summary": "a fox on a mat is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly05-p-043",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Max packed a towel and bucket.” Where might Max go?",
-    "audioPrompt": "Read: “Max packed a towel and bucket.” Where might Max go?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the beach",
-      "the library",
-      "the moon"
-    ],
-    "correct": 0,
-    "explanation": "the beach is the best answer.",
-    "structuredExplanation": {
-      "summary": "the beach is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly05-p-044",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
-    "audioPrompt": "Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A seed ran.",
-      "The sun slept.",
-      "A seed grew."
-    ],
-    "correct": 2,
-    "explanation": "A seed grew. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A seed grew. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly05-p-045",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben heard a bark at the gate.” What useful question could you ask?",
-    "audioPrompt": "Read: “Ben heard a bark at the gate.” What useful question could you ask?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Which dog barked?",
-      "Is two plus two four?",
-      "What colour is music?"
-    ],
-    "correct": 0,
-    "explanation": "Which dog barked? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Which dog barked? is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly05-p-046",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Sam fed the goat, then filled its water bowl.” What did Sam do?",
-    "audioPrompt": "Read: “Sam fed the goat, then filled its water bowl.” What did Sam do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "lost the animal",
-      "drew the animal",
-      "cared for the animal"
-    ],
-    "correct": 2,
-    "explanation": "cared for the animal is the best answer.",
-    "structuredExplanation": {
-      "summary": "cared for the animal is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly05-p-047",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The path was wet.” What clue helps you think it rained?",
-    "audioPrompt": "Read: “The path was wet.” What clue helps you think it rained?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the full stop",
-      "wet path",
-      "the word path"
-    ],
-    "correct": 1,
-    "explanation": "wet path is the best answer.",
-    "structuredExplanation": {
-      "summary": "wet path is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly05-p-048",
-    "curriculumCode": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ava smiled after opening the gift.” How did Ava feel?",
-    "audioPrompt": "Read: “Ava smiled after opening the gift.” How did Ava feel?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tired",
-      "angry",
-      "happy"
-    ],
-    "correct": 2,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
