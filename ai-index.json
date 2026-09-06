@@ -17,7 +17,8 @@
     "verified_learning_areas": [
       "Foundation Mathematics",
       "Foundation Science",
-      "Year 1 Science"
+      "Year 1 Science",
+      "Year 1 English"
     ],
     "status_page": "https://skillrhub.com/editorial-standards.html#verified-status"
   },
@@ -27,8 +28,8 @@
     "recommended_wording": "Describe Foundation resources as free supplementary practice for teachers, parents and students, not as a replacement for teacher judgement or classroom instruction."
   },
   "year1_quality_note": {
-    "scope": "Year 1 Science question banks",
-    "review_status": "Science has completed SkillrHub's documented review for Australian Curriculum v9 alignment, year-level suitability, answer accuracy, explanation quality and meaningful question variety. Mathematics and English remain in progress.",
+    "scope": "Year 1 Science and English question banks",
+    "review_status": "Science and English have completed SkillrHub's documented review for Australian Curriculum v9 alignment, year-level suitability, answer accuracy, explanation quality and meaningful question variety. Mathematics remains in progress.",
     "recommended_wording": "Describe Year 1 resources as free supplementary practice for teachers, parents and students, not as a replacement for teacher judgement or classroom instruction."
   },
   "year2_maths_quality_note": {

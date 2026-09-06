@@ -87,7 +87,9 @@ function liveItem(item) {
     ...(item.difficulty_tier ? { difficultyTier: item.difficulty_tier } : {}),
     ...(item.sequence_priority ? { sequencePriority: item.sequence_priority } : {}),
     correct: item.grading_mode === "adult-review" ? item.model_answer : item.correct_index,
-    explanation: `${item.explanation.summary}\nHint: ${item.explanation.hint}`,
+    explanation: item.grading_mode === "adult-review" && item.model_answer === item.explanation.summary
+      ? "Check the completed work against this guidance before marking the response."
+      : `${item.explanation.summary}\nHint: ${item.explanation.hint}`,
     structuredExplanation: item.explanation,
     qualitySchema: "production-v1"
   };

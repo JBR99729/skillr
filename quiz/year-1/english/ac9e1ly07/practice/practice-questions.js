@@ -26,7 +26,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 1,
     "correct": "Accept a named toy, two relevant details and a clear closing preference. Listen for an audible, steady voice; the preference itself is not graded.",
-    "explanation": "Accept a named toy, two relevant details and a clear closing preference. Listen for an audible, steady voice; the preference itself is not graded.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a named toy, two relevant details and a clear closing preference. Listen for an audible, steady voice; the preference itself is not graded.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -59,7 +59,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 2,
     "correct": "Accept accurate or clearly framed observations, an opening and ending, and animal vocabulary such as beak, fur or crawl. Check clear delivery without requiring memorised wording.",
-    "explanation": "Accept accurate or clearly framed observations, an opening and ending, and animal vocabulary such as beak, fur or crawl. Check clear delivery without requiring memorised wording.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept accurate or clearly framed observations, an opening and ending, and animal vocabulary such as beak, fur or crawl. Check clear delivery without requiring memorised wording.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -92,7 +92,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 3,
     "correct": "Accept a coherent opening, relevant middle details and conclusion. The listener should be able to follow the talk at a comfortable volume and pace.",
-    "explanation": "Accept a coherent opening, relevant middle details and conclusion. The listener should be able to follow the talk at a comfortable volume and pace.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a coherent opening, relevant middle details and conclusion. The listener should be able to follow the talk at a comfortable volume and pace.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -125,7 +125,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 4,
     "correct": "Accept a relevant pointing gesture that matches the named part, a short explanation and a concluding statement. Do not require constant eye contact.",
-    "explanation": "Accept a relevant pointing gesture that matches the named part, a short explanation and a concluding statement. Do not require constant eye contact.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a relevant pointing gesture that matches the named part, a short explanation and a concluding statement. Do not require constant eye contact.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -158,7 +158,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 5,
     "correct": "Accept a named game, a clear relevant action and a closing preference. Listen for words suited to the game and an understandable pace.",
-    "explanation": "Accept a named game, a clear relevant action and a closing preference. Listen for words suited to the game and an understandable pace.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a named game, a clear relevant action and a closing preference. Listen for words suited to the game and an understandable pace.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -191,7 +191,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 6,
     "correct": "Accept observable details using plant vocabulary, an opening and a closing observation. Accuracy of the description matters more than knowing a species name.",
-    "explanation": "Accept observable details using plant vocabulary, an opening and a closing observation. Accuracy of the description matters more than knowing a species name.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept observable details using plant vocabulary, an opening and a closing observation. Accuracy of the description matters more than knowing a species name.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -224,7 +224,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 7,
     "correct": "Accept a clear topic, relevant making detail and result. Listen for material or tool vocabulary and understandable speech.",
-    "explanation": "Accept a clear topic, relevant making detail and result. Listen for material or tool vocabulary and understandable speech.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a clear topic, relevant making detail and result. Listen for material or tool vocabulary and understandable speech.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -257,7 +257,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 8,
     "correct": "Accept a drawing used meaningfully with the talk, two relevant descriptions and a clear ending. The home may be imagined; do not judge its size or resources.",
-    "explanation": "Accept a drawing used meaningfully with the talk, two relevant descriptions and a clear ending. The home may be imagined; do not judge its size or resources.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a drawing used meaningfully with the talk, two relevant descriptions and a clear ending. The home may be imagined; do not judge its size or resources.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -290,7 +290,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 9,
     "correct": "Accept three recognisable parts in order, relevant details and a clear closing thought. The child may use brief prompts rather than memorise the talk.",
-    "explanation": "Accept three recognisable parts in order, relevant details and a clear closing thought. The child may use brief prompts rather than memorise the talk.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept three recognisable parts in order, relevant details and a clear closing thought. The child may use brief prompts rather than memorise the talk.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -323,7 +323,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 10,
     "correct": "Accept practical care ideas, an opening and conclusion, and clear volume. The reason should connect with keeping books usable.",
-    "explanation": "Accept practical care ideas, an opening and conclusion, and clear volume. The reason should connect with keeping books usable.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept practical care ideas, an opening and conclusion, and clear volume. The reason should connect with keeping books usable.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -356,7 +356,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 11,
     "correct": "Accept a named destination, ordered events and a concluding statement. Support planning while checking that the child delivers the talk.",
-    "explanation": "Accept a named destination, ordered events and a concluding statement. Support planning while checking that the child delivers the talk.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a named destination, ordered events and a concluding statement. Support planning while checking that the child delivers the talk.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -389,7 +389,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 12,
     "correct": "Accept vocabulary relevant to the chosen activity, coherent organisation and a steady pace. The suggested words are examples, not a required list.",
-    "explanation": "Accept vocabulary relevant to the chosen activity, coherent organisation and a steady pace. The suggested words are examples, not a required list.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept vocabulary relevant to the chosen activity, coherent organisation and a steady pace. The suggested words are examples, not a required list.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -422,7 +422,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 13,
     "correct": "Accept accurate details, a useful gesture linking talk and object, and an opening and ending. Accept everyday descriptions such as pointed or wavy.",
-    "explanation": "Accept accurate details, a useful gesture linking talk and object, and an opening and ending. Accept everyday descriptions such as pointed or wavy.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept accurate details, a useful gesture linking talk and object, and an opening and ending. Accept everyday descriptions such as pointed or wavy.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -455,7 +455,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 14,
     "correct": "Accept relevant middle details and a clear closing thought. Different home routines are valid; check organisation and delivery rather than one preferred routine.",
-    "explanation": "Accept relevant middle details and a clear closing thought. Different home routines are valid; check organisation and delivery rather than one preferred routine.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept relevant middle details and a clear closing thought. Different home routines are valid; check organisation and delivery rather than one preferred routine.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -488,7 +488,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 15,
     "correct": "Accept a meaningful link between the pointed part and spoken explanation, clear structure and a concluding statement. A drawing is sufficient.",
-    "explanation": "Accept a meaningful link between the pointed part and spoken explanation, clear structure and a concluding statement. A drawing is sufficient.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a meaningful link between the pointed part and spoken explanation, clear structure and a concluding statement. A drawing is sufficient.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -521,7 +521,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 16,
     "correct": "Accept relevant details from the chosen book and a closing opinion. The child need not recall the exact title; check a clear opening and coherent middle.",
-    "explanation": "Accept relevant details from the chosen book and a closing opinion. The child need not recall the exact title; check a clear opening and coherent middle.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept relevant details from the chosen book and a closing opinion. The child need not recall the exact title; check a clear opening and coherent middle.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -554,7 +554,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 17,
     "correct": "Accept a structured initial talk and a useful volume adjustment in response to feedback. Louder is only better when it helps the listener hear comfortably.",
-    "explanation": "Accept a structured initial talk and a useful volume adjustment in response to feedback. Louder is only better when it helps the listener hear comfortably.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a structured initial talk and a useful volume adjustment in response to feedback. Louder is only better when it helps the listener hear comfortably.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -587,7 +587,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 18,
     "correct": "Accept a relevant gesture, matching spoken detail and clear structure. The gesture should help explain the picture, not simply occur during the talk.",
-    "explanation": "Accept a relevant gesture, matching spoken detail and clear structure. The gesture should help explain the picture, not simply occur during the talk.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a relevant gesture, matching spoken detail and clear structure. The gesture should help explain the picture, not simply occur during the talk.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -620,7 +620,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 19,
     "correct": "Accept an opening, accurate relevant middle information and a topic-linked conclusion. The revised ending can be short and need not repeat every detail.",
-    "explanation": "Accept an opening, accurate relevant middle information and a topic-linked conclusion. The revised ending can be short and need not repeat every detail.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept an opening, accurate relevant middle information and a topic-linked conclusion. The revised ending can be short and need not repeat every detail.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -653,7 +653,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 20,
     "correct": "Accept a sensible process sequence, relevant vocabulary, and pauses that separate steps. Do not require exaggerated slow speech.",
-    "explanation": "Accept a sensible process sequence, relevant vocabulary, and pauses that separate steps. Do not require exaggerated slow speech.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a sensible process sequence, relevant vocabulary, and pauses that separate steps. Do not require exaggerated slow speech.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -686,7 +686,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 21,
     "correct": "Accept accurate comparison, useful reference to the objects and a clear conclusion. The talk should remain short and understandable.",
-    "explanation": "Accept accurate comparison, useful reference to the objects and a clear conclusion. The talk should remain short and understandable.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept accurate comparison, useful reference to the objects and a clear conclusion. The talk should remain short and understandable.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -719,7 +719,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 22,
     "correct": "Accept a relevant explanation of the word and a return to the topic for the conclusion. An unfamiliar word can be chosen together before the task.",
-    "explanation": "Accept a relevant explanation of the word and a return to the topic for the conclusion. An unfamiliar word can be chosen together before the task.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a relevant explanation of the word and a return to the topic for the conclusion. An unfamiliar word can be chosen together before the task.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -752,7 +752,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 23,
     "correct": "Accept coherent versions and a sensible decision about an unnecessary detail. Do not require removing a detail if the original talk is already focused; explain that choice instead.",
-    "explanation": "Accept coherent versions and a sensible decision about an unnecessary detail. Do not require removing a detail if the original talk is already focused; explain that choice instead.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept coherent versions and a sensible decision about an unnecessary detail. Do not require removing a detail if the original talk is already focused; explain that choice instead.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -785,7 +785,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 24,
     "correct": "Accept structure, vocabulary that fits the drawing, a meaningful gesture and a conclusion. Judge whether these help the listener understand, not the artwork's quality.",
-    "explanation": "Accept structure, vocabulary that fits the drawing, a meaningful gesture and a conclusion. Judge whether these help the listener understand, not the artwork's quality.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept structure, vocabulary that fits the drawing, a meaningful gesture and a conclusion. Judge whether these help the listener understand, not the artwork's quality.",
       "hint": "Complete the task before comparing your response with the guidance."

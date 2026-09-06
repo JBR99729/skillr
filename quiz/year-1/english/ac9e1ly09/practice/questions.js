@@ -26,7 +26,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 1,
     "correct": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.",
-    "explanation": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -59,7 +59,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 2,
     "correct": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.",
-    "explanation": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -92,7 +92,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 3,
     "correct": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.",
-    "explanation": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -125,7 +125,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 4,
     "correct": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.",
-    "explanation": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -158,7 +158,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 5,
     "correct": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.",
-    "explanation": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -191,7 +191,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 6,
     "correct": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.",
-    "explanation": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -224,7 +224,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 7,
     "correct": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.",
-    "explanation": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -257,7 +257,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 8,
     "correct": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.",
-    "explanation": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -290,7 +290,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 9,
     "correct": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.",
-    "explanation": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -323,7 +323,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 10,
     "correct": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.",
-    "explanation": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -356,7 +356,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 11,
     "correct": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.",
-    "explanation": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -389,7 +389,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 12,
     "correct": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.",
-    "explanation": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -422,7 +422,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 13,
     "correct": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.",
-    "explanation": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -455,7 +455,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 14,
     "correct": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.",
-    "explanation": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -488,7 +488,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 15,
     "correct": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.",
-    "explanation": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -521,7 +521,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 16,
     "correct": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.",
-    "explanation": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -554,7 +554,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 17,
     "correct": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.",
-    "explanation": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -587,7 +587,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 18,
     "correct": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.",
-    "explanation": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -620,7 +620,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 19,
     "correct": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.",
-    "explanation": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -653,7 +653,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 20,
     "correct": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.",
-    "explanation": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -686,7 +686,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 21,
     "correct": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.",
-    "explanation": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -719,7 +719,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 22,
     "correct": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.",
-    "explanation": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -752,7 +752,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 23,
     "correct": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.",
-    "explanation": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -785,7 +785,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 24,
     "correct": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.",
-    "explanation": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.",
       "hint": "Complete the task before comparing your response with the guidance."

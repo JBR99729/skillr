@@ -1,1443 +1,796 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly11-p-001",
+    "id": "ac9e1ly11-er6-p-001",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Mia is looking for sh. Which word has it?",
-    "audioPrompt": "Mia is looking for sh. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate blending of three short-vowel words and identification of a, e and i. Do not supply the spoken words first when checking independent reading.",
+    "acceptanceNote": "Check accurate blending of three short-vowel words and identification of a, e and i. Do not supply the spoken words first when checking independent reading.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read these words aloud to a grown-up: 'mat, red, sit'. Point to the vowel letter in each after reading.",
+    "audioPrompt": "Read these words aloud to a grown-up: 'mat, red, sit'. Point to the vowel letter in each after reading.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "chip",
-      "sip",
-      "ship"
-    ],
-    "correct": 2,
-    "explanation": "ship is the best answer.",
-    "structuredExplanation": {
-      "summary": "ship is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "sequencePriority": 1,
+    "correct": "Check accurate blending of three short-vowel words and identification of a, e and i. Do not supply the spoken words first when checking independent reading.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate blending of three short-vowel words and identification of a, e and i. Do not supply the spoken words first when checking independent reading.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-002",
+    "id": "ac9e1ly11-er6-p-002",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ben is looking for ch. Which word has it?",
-    "audioPrompt": "Ben is looking for ch. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check cot with short o and cut with short u, and identification of the middle letters. Accept ordinary accent variation.",
+    "acceptanceNote": "Check cot with short o and cut with short u, and identification of the middle letters. Accept ordinary accent variation.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'cot' and 'cut' aloud. Show the letter that makes their vowel sounds different.",
+    "audioPrompt": "Read 'cot' and 'cut' aloud. Show the letter that makes their vowel sounds different.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "cat",
-      "chat",
-      "that"
-    ],
-    "correct": 1,
-    "explanation": "chat is the best answer.",
-    "structuredExplanation": {
-      "summary": "chat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "sequencePriority": 2,
+    "correct": "Check cot with short o and cut with short u, and identification of the middle letters. Accept ordinary accent variation.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check cot with short o and cut with short u, and identification of the middle letters. Accept ordinary accent variation.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-003",
+    "id": "ac9e1ly11-er6-p-003",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Sam is looking for fr. Which word has it?",
-    "audioPrompt": "Sam is looking for fr. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check /sh/ /i/ /p/ blended into ship and the spelling s-h-i-p. Sh represents one phoneme; do not require four spoken sounds.",
+    "acceptanceNote": "Check /sh/ /i/ /p/ blended into ship and the spelling s-h-i-p. Sh represents one phoneme; do not require four spoken sounds.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'ship' aloud, then write it on paper while saying its sounds.",
+    "audioPrompt": "Read 'ship' aloud, then write it on paper while saying its sounds.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "drum",
-      "frog",
-      "fog"
-    ],
-    "correct": 1,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 3
+    "sequencePriority": 3,
+    "correct": "Check /sh/ /i/ /p/ blended into ship and the spelling s-h-i-p. Sh represents one phoneme; do not require four spoken sounds.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check /sh/ /i/ /p/ blended into ship and the spelling s-h-i-p. Sh represents one phoneme; do not require four spoken sounds.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-004",
+    "id": "ac9e1ly11-er6-p-004",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Kim is looking for st. Which word has it?",
-    "audioPrompt": "Kim is looking for st. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate words and th/ch identified as the beginning digraphs. Use the unvoiced th in thin, allowing ordinary accent variation.",
+    "acceptanceNote": "Check accurate words and th/ch identified as the beginning digraphs. Use the unvoiced th in thin, allowing ordinary accent variation.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'thin' and 'chin' aloud. Point to the two-letter beginning in each.",
+    "audioPrompt": "Read 'thin' and 'chin' aloud. Point to the two-letter beginning in each.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "top",
-      "stop",
-      "shop"
-    ],
-    "correct": 1,
-    "explanation": "stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "stop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 4
+    "sequencePriority": 4,
+    "correct": "Check accurate words and th/ch identified as the beginning digraphs. Use the unvoiced th in thin, allowing ordinary accent variation.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate words and th/ch identified as the beginning digraphs. Use the unvoiced th in thin, allowing ordinary accent variation.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-005",
+    "id": "ac9e1ly11-er6-p-005",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ava is looking for ai. Which word has it?",
-    "audioPrompt": "Ava is looking for ai. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check the /f/ /l/ blend is retained and the written form is flag. Observe the response before revealing the model again.",
+    "acceptanceNote": "Check the /f/ /l/ blend is retained and the written form is flag. Observe the response before revealing the model again.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'flag' aloud. Then cover it and write it from the sounds you remember.",
+    "audioPrompt": "Read 'flag' aloud. Then cover it and write it from the sounds you remember.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "ran",
-      "rain",
-      "red"
-    ],
-    "correct": 1,
-    "explanation": "rain is the best answer.",
-    "structuredExplanation": {
-      "summary": "rain is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 5
+    "sequencePriority": 5,
+    "correct": "Check the /f/ /l/ blend is retained and the written form is flag. Observe the response before revealing the model again.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check the /f/ /l/ blend is retained and the written form is flag. Observe the response before revealing the model again.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-006",
+    "id": "ac9e1ly11-er6-p-006",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Leo is looking for oa. Which word has it?",
-    "audioPrompt": "Leo is looking for oa. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check n-e-s-t and the separate final /s/ /t/ sounds. The word should be read as nest, not net.",
+    "acceptanceNote": "Check n-e-s-t and the separate final /s/ /t/ sounds. The word should be read as nest, not net.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'nest'. Say its ending sounds, then write the word.",
+    "audioPrompt": "Read 'nest'. Say its ending sounds, then write the word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "boot",
-      "bot",
-      "boat"
-    ],
-    "correct": 2,
-    "explanation": "boat is the best answer.",
-    "structuredExplanation": {
-      "summary": "boat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "sequencePriority": 6,
+    "correct": "Check n-e-s-t and the separate final /s/ /t/ sounds. The word should be read as nest, not net.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check n-e-s-t and the separate final /s/ /t/ sounds. The word should be read as nest, not net.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-007",
+    "id": "ac9e1ly11-er6-p-007",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Zoe is looking for ee. Which word has it?",
-    "audioPrompt": "Zoe is looking for ee. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and ai in rain, ay in day. These are examples of long a spellings, not a rule for every vowel pair.",
+    "acceptanceNote": "Check accurate reading and ai in rain, ay in day. These are examples of long a spellings, not a rule for every vowel pair.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'rain' and 'day' aloud. Point to the letters that show the long a sound in each.",
+    "audioPrompt": "Read 'rain' and 'day' aloud. Point to the letters that show the long a sound in each.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "sad",
-      "seed",
-      "said"
-    ],
-    "correct": 1,
-    "explanation": "seed is the best answer.",
-    "structuredExplanation": {
-      "summary": "seed is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 7
+    "sequencePriority": 7,
+    "correct": "Check accurate reading and ai in rain, ay in day. These are examples of long a spellings, not a rule for every vowel pair.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading and ai in rain, ay in day. These are examples of long a spellings, not a rule for every vowel pair.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-008",
+    "id": "ac9e1ly11-er6-p-008",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Max is looking for oo. Which word has it?",
-    "audioPrompt": "Max is looking for oo. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check long e reading in both words, and correct spelling of the chosen word. Both ee and ea represent the long e sound here.",
+    "acceptanceNote": "Check long e reading in both words, and correct spelling of the chosen word. Both ee and ea represent the long e sound here.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'feet' and 'leaf' aloud. Write one of the words after covering it.",
+    "audioPrompt": "Read 'feet' and 'leaf' aloud. Write one of the words after covering it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "man",
-      "moon",
-      "mean"
-    ],
-    "correct": 1,
-    "explanation": "moon is the best answer.",
-    "structuredExplanation": {
-      "summary": "moon is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 8
+    "sequencePriority": 8,
+    "correct": "Check long e reading in both words, and correct spelling of the chosen word. Both ee and ea represent the long e sound here.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check long e reading in both words, and correct spelling of the chosen word. Both ee and ea represent the long e sound here.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-009",
+    "id": "ac9e1ly11-er6-p-009",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ben is looking for sh. Which word has it?",
-    "audioPrompt": "Ben is looking for sh. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check distinct short/long vowels and preservation of final e in cape. Both words have one syllable.",
+    "acceptanceNote": "Check distinct short/long vowels and preservation of final e in cape. Both words have one syllable.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'cap' and 'cape'. Then write them on separate lines and read each again.",
+    "audioPrompt": "Read 'cap' and 'cape'. Then write them on separate lines and read each again.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "ship",
-      "sip",
-      "chip"
-    ],
-    "correct": 0,
-    "explanation": "ship is the best answer.",
-    "structuredExplanation": {
-      "summary": "ship is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
-  },
-  {
-    "id": "ac9e1ly11-p-010",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Sam is looking for ch. Which word has it?",
-    "audioPrompt": "Sam is looking for ch. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "that",
-      "cat",
-      "chat"
-    ],
-    "correct": 2,
-    "explanation": "chat is the best answer.",
-    "structuredExplanation": {
-      "summary": "chat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10
-  },
-  {
-    "id": "ac9e1ly11-p-011",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Kim is looking for fr. Which word has it?",
-    "audioPrompt": "Kim is looking for fr. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "fog",
-      "frog",
-      "drum"
-    ],
-    "correct": 1,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
-  },
-  {
-    "id": "ac9e1ly11-p-012",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Ava is looking for st. Which word has it?",
-    "audioPrompt": "Ava is looking for st. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "stop",
-      "top",
-      "shop"
-    ],
-    "correct": 0,
-    "explanation": "stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "stop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1ly11-p-013",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Leo is looking for ai. Which word has it?",
-    "audioPrompt": "Leo is looking for ai. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "red",
-      "ran",
-      "rain"
-    ],
-    "correct": 2,
-    "explanation": "rain is the best answer.",
-    "structuredExplanation": {
-      "summary": "rain is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
-  },
-  {
-    "id": "ac9e1ly11-p-014",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe is looking for oa. Which word has it?",
-    "audioPrompt": "Zoe is looking for oa. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bot",
-      "boat",
-      "boot"
-    ],
-    "correct": 1,
-    "explanation": "boat is the best answer.",
-    "structuredExplanation": {
-      "summary": "boat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
-  },
-  {
-    "id": "ac9e1ly11-p-015",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Max is looking for ee. Which word has it?",
-    "audioPrompt": "Max is looking for ee. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "seed",
-      "sad",
-      "said"
-    ],
-    "correct": 0,
-    "explanation": "seed is the best answer.",
-    "structuredExplanation": {
-      "summary": "seed is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
-  },
-  {
-    "id": "ac9e1ly11-p-016",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Mia is looking for oo. Which word has it?",
-    "audioPrompt": "Mia is looking for oo. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "man",
-      "mean",
-      "moon"
-    ],
-    "correct": 2,
-    "explanation": "moon is the best answer.",
-    "structuredExplanation": {
-      "summary": "moon is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1ly11-p-017",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Sam is looking for sh. Which word has it?",
-    "audioPrompt": "Sam is looking for sh. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sip",
-      "chip",
-      "ship"
-    ],
-    "correct": 2,
-    "explanation": "ship is the best answer.",
-    "structuredExplanation": {
-      "summary": "ship is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": "Check distinct short/long vowels and preservation of final e in cape. Both words have one syllable.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check distinct short/long vowels and preservation of final e in cape. Both words have one syllable.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-018",
+    "id": "ac9e1ly11-er6-p-010",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Kim is looking for ch. Which word has it?",
-    "audioPrompt": "Kim is looking for ch. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check short i and long i reading, with the final e identified as part of the pattern in kite. Accept an everyday explanation.",
+    "acceptanceNote": "Check short i and long i reading, with the final e identified as part of the pattern in kite. Accept an everyday explanation.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'kit' and 'kite', then explain which written part helps you know the vowel changes.",
+    "audioPrompt": "Read 'kit' and 'kite', then explain which written part helps you know the vowel changes.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "chat",
-      "that",
-      "cat"
-    ],
-    "correct": 0,
-    "explanation": "chat is the best answer.",
-    "structuredExplanation": {
-      "summary": "chat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": "Check short i and long i reading, with the final e identified as part of the pattern in kite. Accept an everyday explanation.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check short i and long i reading, with the final e identified as part of the pattern in kite. Accept an everyday explanation.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-019",
+    "id": "ac9e1ly11-er6-p-011",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ava is looking for fr. Which word has it?",
-    "audioPrompt": "Ava is looking for fr. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading of both and the spelling hope from the meaning cue. The final e is needed in the written target.",
+    "acceptanceNote": "Check accurate reading of both and the spelling hope from the meaning cue. The final e is needed in the written target.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'hop' and 'hope'. Cover the words and write the one that means wishing something will happen.",
+    "audioPrompt": "Read 'hop' and 'hope'. Cover the words and write the one that means wishing something will happen.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "drum",
-      "frog",
-      "fog"
-    ],
-    "correct": 1,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": "Check accurate reading of both and the spelling hope from the meaning cue. The final e is needed in the written target.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading of both and the spelling hope from the meaning cue. The final e is needed in the written target.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-020",
+    "id": "ac9e1ly11-er6-p-012",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Leo is looking for st. Which word has it?",
-    "audioPrompt": "Leo is looking for st. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check distinct vowel sounds and correct spelling cube. The task uses a familiar silent-e pattern without claiming every final e behaves this way.",
+    "acceptanceNote": "Check distinct vowel sounds and correct spelling cube. The task uses a familiar silent-e pattern without claiming every final e behaves this way.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'cub' and 'cube'. Write the word for the solid shape.",
+    "audioPrompt": "Read 'cub' and 'cube'. Write the word for the solid shape.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "stop",
-      "shop",
-      "top"
-    ],
-    "correct": 0,
-    "explanation": "stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "stop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": "Check distinct vowel sounds and correct spelling cube. The task uses a familiar silent-e pattern without claiming every final e behaves this way.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check distinct vowel sounds and correct spelling cube. The task uses a familiar silent-e pattern without claiming every final e behaves this way.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-021",
+    "id": "ac9e1ly11-er6-p-013",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Zoe is looking for ai. Which word has it?",
-    "audioPrompt": "Zoe is looking for ai. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check f-l-o-a-t, the /f/ /l/ blend and oa representing long o. Do not accept flat as the same word.",
+    "acceptanceNote": "Check f-l-o-a-t, the /f/ /l/ blend and oa representing long o. Do not accept flat as the same word.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'float' aloud. Point to the beginning blend and the vowel pair, then write it.",
+    "audioPrompt": "Read 'float' aloud. Point to the beginning blend and the vowel pair, then write it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "red",
-      "rain",
-      "ran"
-    ],
-    "correct": 1,
-    "explanation": "rain is the best answer.",
-    "structuredExplanation": {
-      "summary": "rain is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": "Check f-l-o-a-t, the /f/ /l/ blend and oa representing long o. Do not accept flat as the same word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check f-l-o-a-t, the /f/ /l/ blend and oa representing long o. Do not accept flat as the same word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-022",
+    "id": "ac9e1ly11-er6-p-014",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Max is looking for oa. Which word has it?",
-    "audioPrompt": "Max is looking for oa. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check the initial /b/ /r/ cluster, final /sh/ phoneme and spelling brush. Keep all sounds when blending.",
+    "acceptanceNote": "Check the initial /b/ /r/ cluster, final /sh/ phoneme and spelling brush. Keep all sounds when blending.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'brush' aloud and write it after covering the model.",
+    "audioPrompt": "Read 'brush' aloud and write it after covering the model.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "bot",
-      "boot",
-      "boat"
-    ],
-    "correct": 2,
-    "explanation": "boat is the best answer.",
-    "structuredExplanation": {
-      "summary": "boat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": "Check the initial /b/ /r/ cluster, final /sh/ phoneme and spelling brush. Keep all sounds when blending.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check the initial /b/ /r/ cluster, final /sh/ phoneme and spelling brush. Keep all sounds when blending.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-023",
+    "id": "ac9e1ly11-er6-p-015",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Mia is looking for ee. Which word has it?",
-    "audioPrompt": "Mia is looking for ee. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check sun-set blended into sunset. Both syllables should be read in order; do not only name their letters.",
+    "acceptanceNote": "Check sun-set blended into sunset. Both syllables should be read in order; do not only name their letters.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'sunset' aloud by blending each spoken part and then the whole word.",
+    "audioPrompt": "Read 'sunset' aloud by blending each spoken part and then the whole word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "sad",
-      "seed",
-      "said"
-    ],
-    "correct": 1,
-    "explanation": "seed is the best answer.",
-    "structuredExplanation": {
-      "summary": "seed is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": "Check sun-set blended into sunset. Both syllables should be read in order; do not only name their letters.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check sun-set blended into sunset. Both syllables should be read in order; do not only name their letters.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-024",
+    "id": "ac9e1ly11-er6-p-016",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ben is looking for oo. Which word has it?",
-    "audioPrompt": "Ben is looking for oo. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check nap-kin blended accurately and spelling napkin. Observe both short vowels and the order of consonants.",
+    "acceptanceNote": "Check nap-kin blended accurately and spelling napkin. Observe both short vowels and the order of consonants.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'napkin' aloud, then write it after looking carefully at both parts.",
+    "audioPrompt": "Read 'napkin' aloud, then write it after looking carefully at both parts.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "man",
-      "moon",
-      "mean"
-    ],
-    "correct": 1,
-    "explanation": "moon is the best answer.",
-    "structuredExplanation": {
-      "summary": "moon is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": "Check nap-kin blended accurately and spelling napkin. Observe both short vowels and the order of consonants.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check nap-kin blended accurately and spelling napkin. Observe both short vowels and the order of consonants.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-025",
+    "id": "ac9e1ly11-er6-p-017",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Kim is looking for sh. Which word has it?",
-    "audioPrompt": "Kim is looking for sh. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check stamp, including the initial st and final mp clusters around the short vowel. Do not show the spelling before the response.",
+    "acceptanceNote": "Check stamp, including the initial st and final mp clusters around the short vowel. Do not show the spelling before the response.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Grown-up: keep the screen hidden. Say 'stamp'. Ask the child to write the word from its sounds and then read what they wrote.",
+    "audioPrompt": "Grown-up: keep the screen hidden. Say 'stamp'. Ask the child to write the word from its sounds and then read what they wrote.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "chip",
-      "sip",
-      "ship"
-    ],
-    "correct": 2,
-    "explanation": "ship is the best answer.",
-    "structuredExplanation": {
-      "summary": "ship is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1ly11-p-026",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Ava is looking for ch. Which word has it?",
-    "audioPrompt": "Ava is looking for ch. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "cat",
-      "chat",
-      "that"
-    ],
-    "correct": 1,
-    "explanation": "chat is the best answer.",
-    "structuredExplanation": {
-      "summary": "chat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1ly11-p-027",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Leo is looking for fr. Which word has it?",
-    "audioPrompt": "Leo is looking for fr. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "fog",
-      "drum",
-      "frog"
-    ],
-    "correct": 2,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1ly11-p-028",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe is looking for st. Which word has it?",
-    "audioPrompt": "Zoe is looking for st. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "stop",
-      "shop",
-      "top"
-    ],
-    "correct": 0,
-    "explanation": "stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "stop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
-  },
-  {
-    "id": "ac9e1ly11-p-029",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Max is looking for ai. Which word has it?",
-    "audioPrompt": "Max is looking for ai. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "red",
-      "ran",
-      "rain"
-    ],
-    "correct": 2,
-    "explanation": "rain is the best answer.",
-    "structuredExplanation": {
-      "summary": "rain is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1ly11-p-030",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Mia is looking for oa. Which word has it?",
-    "audioPrompt": "Mia is looking for oa. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bot",
-      "boat",
-      "boot"
-    ],
-    "correct": 1,
-    "explanation": "boat is the best answer.",
-    "structuredExplanation": {
-      "summary": "boat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
-  },
-  {
-    "id": "ac9e1ly11-p-031",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Ben is looking for ee. Which word has it?",
-    "audioPrompt": "Ben is looking for ee. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "seed",
-      "said",
-      "sad"
-    ],
-    "correct": 0,
-    "explanation": "seed is the best answer.",
-    "structuredExplanation": {
-      "summary": "seed is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
-  },
-  {
-    "id": "ac9e1ly11-p-032",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Sam is looking for oo. Which word has it?",
-    "audioPrompt": "Sam is looking for oo. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "man",
-      "mean",
-      "moon"
-    ],
-    "correct": 2,
-    "explanation": "moon is the best answer.",
-    "structuredExplanation": {
-      "summary": "moon is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1ly11-p-033",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Ava is looking for sh. Which word has it?",
-    "audioPrompt": "Ava is looking for sh. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sip",
-      "ship",
-      "chip"
-    ],
-    "correct": 1,
-    "explanation": "ship is the best answer.",
-    "structuredExplanation": {
-      "summary": "ship is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": "Check stamp, including the initial st and final mp clusters around the short vowel. Do not show the spelling before the response.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check stamp, including the initial st and final mp clusters around the short vowel. Do not show the spelling before the response.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-034",
+    "id": "ac9e1ly11-er6-p-018",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Leo is looking for ch. Which word has it?",
-    "audioPrompt": "Leo is looking for ch. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check train, preserving tr and the common ai vowel spelling. Accept self-correction before comparing with the model.",
+    "acceptanceNote": "Check train, preserving tr and the common ai vowel spelling. Accept self-correction before comparing with the model.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Grown-up: hide the screen and say 'train'. Ask the child to write it, then read it back.",
+    "audioPrompt": "Grown-up: hide the screen and say 'train'. Ask the child to write it, then read it back.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "chat",
-      "that",
-      "cat"
-    ],
-    "correct": 0,
-    "explanation": "chat is the best answer.",
-    "structuredExplanation": {
-      "summary": "chat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": "Check train, preserving tr and the common ai vowel spelling. Accept self-correction before comparing with the model.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check train, preserving tr and the common ai vowel spelling. Accept self-correction before comparing with the model.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-035",
+    "id": "ac9e1ly11-er6-p-019",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Zoe is looking for fr. Which word has it?",
-    "audioPrompt": "Zoe is looking for fr. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check shell: initial sh, short e and final ll in the standard spelling. The final double letter is not two separate phonemes.",
+    "acceptanceNote": "Check shell: initial sh, short e and final ll in the standard spelling. The final double letter is not two separate phonemes.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Grown-up: hide the screen. Say 'shell' and ask the child to write it and read it aloud.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'shell' and ask the child to write it and read it aloud.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "drum",
-      "frog",
-      "fog"
-    ],
-    "correct": 1,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": "Check shell: initial sh, short e and final ll in the standard spelling. The final double letter is not two separate phonemes.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check shell: initial sh, short e and final ll in the standard spelling. The final double letter is not two separate phonemes.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-036",
+    "id": "ac9e1ly11-er6-p-020",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Max is looking for st. Which word has it?",
-    "audioPrompt": "Max is looking for st. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check both two-syllable words accurately. Accept attention to vowel letters, endings or sounding out both syllables; do not accept guessing from the first letter alone.",
+    "acceptanceNote": "Check both two-syllable words accurately. Accept attention to vowel letters, endings or sounding out both syllables; do not accept guessing from the first letter alone.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'rabbit' and 'ribbon' aloud. Explain which parts you checked so you did not mix them up.",
+    "audioPrompt": "Read 'rabbit' and 'ribbon' aloud. Explain which parts you checked so you did not mix them up.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "shop",
-      "stop",
-      "top"
-    ],
-    "correct": 1,
-    "explanation": "stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "stop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": "Check both two-syllable words accurately. Accept attention to vowel letters, endings or sounding out both syllables; do not accept guessing from the first letter alone.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check both two-syllable words accurately. Accept attention to vowel letters, endings or sounding out both syllables; do not accept guessing from the first letter alone.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-037",
+    "id": "ac9e1ly11-er6-p-021",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Mia is looking for ai. Which word has it?",
-    "audioPrompt": "Mia is looking for ai. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check sandpit, both short-vowel parts and the nd cluster. A correction following re-reading is acceptable.",
+    "acceptanceNote": "Check sandpit, both short-vowel parts and the nd cluster. A correction following re-reading is acceptable.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'sandpit'. Write it from memory after covering it, then re-read it to check both parts.",
+    "audioPrompt": "Read 'sandpit'. Write it from memory after covering it, then re-read it to check both parts.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "rain",
-      "ran",
-      "red"
-    ],
-    "correct": 0,
-    "explanation": "rain is the best answer.",
-    "structuredExplanation": {
-      "summary": "rain is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "Check sandpit, both short-vowel parts and the nd cluster. A correction following re-reading is acceptable.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check sandpit, both short-vowel parts and the nd cluster. A correction following re-reading is acceptable.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-038",
+    "id": "ac9e1ly11-er6-p-022",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ben is looking for oa. Which word has it?",
-    "audioPrompt": "Ben is looking for oa. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check bed-time, with short e in bed and long i in time. The final e is not a separate syllable.",
+    "acceptanceNote": "Check bed-time, with short e in bed and long i in time. The final e is not a separate syllable.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'bedtime'. Point to one short-vowel part and one long-vowel part, then say the whole word.",
+    "audioPrompt": "Read 'bedtime'. Point to one short-vowel part and one long-vowel part, then say the whole word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "boot",
-      "boat",
-      "bot"
-    ],
-    "correct": 1,
-    "explanation": "boat is the best answer.",
-    "structuredExplanation": {
-      "summary": "boat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Check bed-time, with short e in bed and long i in time. The final e is not a separate syllable.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check bed-time, with short e in bed and long i in time. The final e is not a separate syllable.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-039",
+    "id": "ac9e1ly11-er6-p-023",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Sam is looking for ee. Which word has it?",
-    "audioPrompt": "Sam is looking for ee. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check raincoat with ai and oa and both spoken syllables in order. This integrates two familiar vowel patterns in one word.",
+    "acceptanceNote": "Check raincoat with ai and oa and both spoken syllables in order. This integrates two familiar vowel patterns in one word.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Grown-up: hide the screen. Say 'raincoat'. Ask the child to write it and then read it back.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'raincoat'. Ask the child to write it and then read it back.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "said",
-      "sad",
-      "seed"
-    ],
-    "correct": 2,
-    "explanation": "seed is the best answer.",
-    "structuredExplanation": {
-      "summary": "seed is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Check raincoat with ai and oa and both spoken syllables in order. This integrates two familiar vowel patterns in one word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check raincoat with ai and oa and both spoken syllables in order. This integrates two familiar vowel patterns in one word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-040",
+    "id": "ac9e1ly11-er6-p-024",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Kim is looking for oo. Which word has it?",
-    "audioPrompt": "Kim is looking for oo. Which word has it?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check sunshine, with short u in sun and the long i pattern in shine. Observe both parts rather than awarding credit for copying alone.",
+    "acceptanceNote": "Check sunshine, with short u in sun and the long i pattern in shine. Observe both parts rather than awarding credit for copying alone.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'sunshine'. Write it after covering it, and re-read to check the short and long vowel patterns.",
+    "audioPrompt": "Read 'sunshine'. Write it after covering it, and re-read to check the short and long vowel patterns.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "man",
-      "moon",
-      "mean"
-    ],
-    "correct": 1,
-    "explanation": "moon is the best answer.",
-    "structuredExplanation": {
-      "summary": "moon is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly11-p-041",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Leo is looking for sh. Which word has it?",
-    "audioPrompt": "Leo is looking for sh. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "chip",
-      "sip",
-      "ship"
-    ],
-    "correct": 2,
-    "explanation": "ship is the best answer.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Check sunshine, with short u in sun and the long i pattern in shine. Observe both parts rather than awarding credit for copying alone.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "ship is the best answer."
+      "summary": "Check sunshine, with short u in sun and the long i pattern in shine. Observe both parts rather than awarding credit for copying alone.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-042",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe is looking for ch. Which word has it?",
-    "audioPrompt": "Zoe is looking for ch. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "cat",
-      "that",
-      "chat"
-    ],
-    "correct": 2,
-    "explanation": "chat is the best answer.",
-    "structuredExplanation": {
-      "summary": "chat is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-043",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Max is looking for fr. Which word has it?",
-    "audioPrompt": "Max is looking for fr. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "frog",
-      "drum",
-      "fog"
-    ],
-    "correct": 0,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-044",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Mia is looking for st. Which word has it?",
-    "audioPrompt": "Mia is looking for st. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "top",
-      "shop",
-      "stop"
-    ],
-    "correct": 2,
-    "explanation": "stop is the best answer.",
-    "structuredExplanation": {
-      "summary": "stop is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-045",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Ben is looking for ai. Which word has it?",
-    "audioPrompt": "Ben is looking for ai. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rain",
-      "ran",
-      "red"
-    ],
-    "correct": 0,
-    "explanation": "rain is the best answer.",
-    "structuredExplanation": {
-      "summary": "rain is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-046",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Sam is looking for oa. Which word has it?",
-    "audioPrompt": "Sam is looking for oa. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bot",
-      "boot",
-      "boat"
-    ],
-    "correct": 2,
-    "explanation": "boat is the best answer.",
-    "structuredExplanation": {
-      "summary": "boat is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-047",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Kim is looking for ee. Which word has it?",
-    "audioPrompt": "Kim is looking for ee. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "said",
-      "seed",
-      "sad"
-    ],
-    "correct": 1,
-    "explanation": "seed is the best answer.",
-    "structuredExplanation": {
-      "summary": "seed is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-048",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
-    "printable": true,
-    "type": "single",
-    "question": "Ava is looking for oo. Which word has it?",
-    "audioPrompt": "Ava is looking for oo. Which word has it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "mean",
-      "man",
-      "moon"
-    ],
-    "correct": 2,
-    "explanation": "moon is the best answer.",
-    "structuredExplanation": {
-      "summary": "moon is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

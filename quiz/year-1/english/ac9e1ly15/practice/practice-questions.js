@@ -1,1162 +1,754 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly15-p-001",
+    "id": "ac9e1ly15-er6-p-001",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 01 recognise",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "What base word is inside played?",
-    "audioPrompt": "What base word is inside played?",
-    "visual": "📖 Find the base; 🔎 base word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the base; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-001\"></use></svg>",
+    "question": "Start with 'cat'. Which word means more than one cat?",
+    "audioPrompt": "Start with 'cat'. Which word means more than one cat?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-001",
-      "alt_text": "📖 Find the base; 🔎 base word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Play",
-      "played",
-      "ed"
+      "cats",
+      "catting",
+      "cated"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Play This matches the task.\nHint: Explain what the morpheme changes.",
+    "explanation": "Adding the grammatical ending s makes the regular plural cats.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Play This matches the task.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "Adding the grammatical ending s makes the regular plural cats.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-002",
+    "id": "ac9e1ly15-er6-p-002",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 02 recognise",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match endings and meanings?",
-    "audioPrompt": "Which response would correctly match endings and meanings?",
-    "visual": "📖 Match endings and meanings; 🔎 morpheme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match endings and meanings; 🔎 morpheme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-003\"></use></svg>",
+    "question": "Which word belongs with 'jump' and means the action happened in the past?",
+    "audioPrompt": "Which word belongs with 'jump' and means the action happened in the past?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-003",
-      "alt_text": "📖 Match endings and meanings; 🔎 morpheme; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "-s ↔ past; -ed ↔ ongoing; -ing ↔ plays/present one actor",
-      "Do not find the base word first.",
-      "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing"
-    ],
-    "correct": 2,
-    "explanation": "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing This matches the task.\nHint: Find the base word first.",
-    "structuredExplanation": {
-      "summary": "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing This matches the task.",
-      "hint": "Find the base word first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-003",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 03 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly build a word family?",
-    "audioPrompt": "Which response would correctly build a word family?",
-    "visual": "📖 Build a word family; 🔎 word family; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build a word family; 🔎 word family; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-005",
-      "alt_text": "📖 Build a word family; 🔎 word family; ✅ choose with evidence"
-    },
-    "answers": [
-      "Treat word family as rhymes.",
-      "All four forms constructed/read accurately with base jump retained",
-      "Treat the ending as having no meaning."
-    ],
-    "correct": 1,
-    "explanation": "All four forms constructed/read accurately with base jump retained This matches the task.\nHint: Word families here are about shared meaning parts.",
-    "structuredExplanation": {
-      "summary": "All four forms constructed/read accurately with base jump retained This matches the task.",
-      "hint": "Word families here are about shared meaning parts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-004",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 04 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Complete 'Yesterday we __ in puddles' using jump, jumped or jumping.",
-    "audioPrompt": "Complete 'Yesterday we __ in puddles' using jump, jumped or jumping.",
-    "visual": "📖 Choose the time form; 🔎 -ed; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the time form; 🔎 -ed; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-007",
-      "alt_text": "📖 Choose the time form; 🔎 -ed; ✅ choose with evidence"
-    },
-    "answers": [
-      "Jumped",
-      "jump",
+      "jumps",
+      "jumped",
       "jumping"
     ],
-    "correct": 0,
-    "explanation": "Jumped This matches the task.\nHint: Explain what the morpheme changes.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The ending ed marks the completed past action in jumped.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Jumped This matches the task.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "The ending ed marks the completed past action in jumped.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-005",
+    "id": "ac9e1ly15-er6-p-003",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 05 recognise",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order a family?",
-    "audioPrompt": "Which response would correctly order a family?",
-    "visual": "📖 Order a family; 🔎 -ing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a family; 🔎 -ing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-009\"></use></svg>",
+    "question": "Complete 'The dog is ___ now' using a form of bark.",
+    "audioPrompt": "Complete 'The dog is ___ now' using a form of bark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-009",
-      "alt_text": "📖 Order a family; 🔎 -ing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not find the base word first.",
-      "Treat word family as rhymes.",
-      "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base"
+      "barked",
+      "barks",
+      "barking"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base This matches the task.\nHint: Find the base word first.",
+    "explanation": "Is combines with barking to show the action happening now.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base This matches the task.",
-      "hint": "Find the base word first."
+      "summary": "Is combines with barking to show the action happening now.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-006",
+    "id": "ac9e1ly15-er6-p-004",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 06 recognise",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw a family tree?",
-    "audioPrompt": "Which response would correctly draw a family tree?",
-    "visual": "📖 Draw a family tree; 🔎 base word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a family tree; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-011\"></use></svg>",
+    "question": "Which word family keeps the meaning of 'look' while adding grammatical endings?",
+    "audioPrompt": "Which word family keeps the meaning of 'look' while adding grammatical endings?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-011",
-      "alt_text": "📖 Draw a family tree; 🔎 base word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat word family as rhymes.",
-      "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun",
-      "Treat the ending as having no meaning."
+      "look, looks, looked, looking",
+      "look, book, cook, hook",
+      "look, leaf, lamp, lip"
     ],
-    "correct": 1,
-    "explanation": "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun This matches the task.\nHint: Word families here are about shared meaning parts.",
-    "structuredExplanation": {
-      "summary": "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun This matches the task.",
-      "hint": "Word families here are about shared meaning parts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-007",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 07 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "How are walk and walked related, and what new meaning does -ed add?",
-    "audioPrompt": "How are walk and walked related, and what new meaning does -ed add?",
-    "visual": "📖 Explain shared meaning; 🔎 morpheme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain shared meaning; 🔎 morpheme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-013",
-      "alt_text": "📖 Explain shared meaning; 🔎 morpheme; ✅ choose with evidence"
-    },
-    "answers": [
-      "Both name walking action; -ed places it in the past/completed time",
-      "Treat the ending as having no meaning.",
-      "Do not find the base word first."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "Both name walking action; -ed places it in the past/completed time This matches the task.\nHint: Explain what the morpheme changes.",
+    "explanation": "The first group adds endings to the same base; rhyming or starting alike is not enough.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Both name walking action; -ed places it in the past/completed time This matches the task.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "The first group adds endings to the same base; rhyming or starting alike is not enough.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-008",
+    "id": "ac9e1ly15-er6-p-005",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 08 recognise",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly create sentence contrasts?",
-    "audioPrompt": "Which response would correctly create sentence contrasts?",
-    "visual": "📖 Create sentence contrasts; 🔎 word family; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Create sentence contrasts; 🔎 word family; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-015\"></use></svg>",
+    "question": "Start with 'box'. Which word names more than one?",
+    "audioPrompt": "Start with 'box'. Which word names more than one?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-015",
-      "alt_text": "📖 Create sentence contrasts; 🔎 word family; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not find the base word first.",
-      "Treat word family as rhymes.",
-      "Two grammatical sentences showing present/habitual versus past action"
+      "boxing",
+      "boxes",
+      "boxs"
     ],
-    "correct": 2,
-    "explanation": "Two grammatical sentences showing present/habitual versus past action This matches the task.\nHint: Find the base word first.",
-    "structuredExplanation": {
-      "summary": "Two grammatical sentences showing present/habitual versus past action This matches the task.",
-      "hint": "Find the base word first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-009",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 09 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which word fits 'The dog is __ now': bark, barked or barking?",
-    "audioPrompt": "Which word fits 'The dog is __ now': bark, barked or barking?",
-    "visual": "📖 Recognise an ongoing form; 🔎 -ed; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise an ongoing form; 🔎 -ed; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-017",
-      "alt_text": "📖 Recognise an ongoing form; 🔎 -ed; ✅ choose with evidence"
-    },
-    "answers": [
-      "bark",
-      "Barking",
-      "barked"
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "Barking This matches the task.\nHint: Word families here are about shared meaning parts.",
+    "explanation": "The regular plural of box adds es, giving boxes.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Barking This matches the task.",
-      "hint": "Word families here are about shared meaning parts."
+      "summary": "The regular plural of box adds es, giving boxes.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-010",
+    "id": "ac9e1ly15-er6-p-006",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 10 recognise",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match bases and families?",
-    "audioPrompt": "Which response would correctly match bases and families?",
-    "visual": "📖 Match bases and families; 🔎 -ing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match bases and families; 🔎 -ing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-019\"></use></svg>",
+    "question": "In 'We played yesterday', which ending is added to play?",
+    "audioPrompt": "In 'We played yesterday', which ending is added to play?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-019",
-      "alt_text": "📖 Match bases and families; 🔎 -ing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each family matches its base",
-      "Treat the ending as having no meaning.",
-      "Do not find the base word first."
-    ],
-    "correct": 0,
-    "explanation": "Each family matches its base This matches the task.\nHint: Explain what the morpheme changes.",
-    "structuredExplanation": {
-      "summary": "Each family matches its base This matches the task.",
-      "hint": "Explain what the morpheme changes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-011",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 01 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you find the base?",
-    "audioPrompt": "Which tip would help you find the base?",
-    "visual": "🧠 Find the base; ➡️ Find base word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the base; ➡️ Find base word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-002",
-      "alt_text": "🧠 Find the base; ➡️ Find base word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not find the base word first.",
-      "Explain what the morpheme changes.",
-      "Treat word family as rhymes."
-    ],
-    "correct": 1,
-    "explanation": "Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
-    "structuredExplanation": {
-      "summary": "Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-012",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 02 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match endings and meanings?",
-    "audioPrompt": "Which tip would help you match endings and meanings?",
-    "visual": "🧠 Match endings and meanings; ➡️ Add morpheme; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match endings and meanings; ➡️ Add morpheme; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-004",
-      "alt_text": "🧠 Match endings and meanings; ➡️ Add morpheme; 💡 helpful strategy"
-    },
-    "answers": [
-      "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
-      "Treat word family as rhymes.",
-      "Treat the ending as having no meaning."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.\nHint: Find the base word first.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
-      "hint": "Find the base word first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-013",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 03 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you build a word family?",
-    "audioPrompt": "Which tip would help you build a word family?",
-    "visual": "🧠 Build a word family; ➡️ Read new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Build a word family; ➡️ Read new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-006",
-      "alt_text": "🧠 Build a word family; ➡️ Read new word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat the ending as having no meaning.",
-      "Do not find the base word first.",
-      "Look for word family and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for word family and check the whole example.\nHint: Word families here are about shared meaning parts.",
-    "structuredExplanation": {
-      "summary": "Look for word family and check the whole example.",
-      "hint": "Word families here are about shared meaning parts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-014",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 04 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you choose the time form?",
-    "audioPrompt": "Which tip would help you choose the time form?",
-    "visual": "🧠 Choose the time form; ➡️ Explain meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose the time form; ➡️ Explain meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-008",
-      "alt_text": "🧠 Choose the time form; ➡️ Explain meaning; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not find the base word first.",
-      "Check that you can build word families.",
-      "Treat word family as rhymes."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can build word families.\nHint: Explain what the morpheme changes.",
-    "structuredExplanation": {
-      "summary": "Check that you can build word families.",
-      "hint": "Explain what the morpheme changes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-015",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 05 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order a family?",
-    "audioPrompt": "Which tip would help you order a family?",
-    "visual": "🧠 Order a family; ➡️ Find base word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a family; ➡️ Find base word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-010",
-      "alt_text": "🧠 Order a family; ➡️ Find base word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Recognising base and family members.",
-      "Treat word family as rhymes.",
-      "Treat the ending as having no meaning."
-    ],
-    "correct": 0,
-    "explanation": "Recognising base and family members.\nHint: Find the base word first.",
-    "structuredExplanation": {
-      "summary": "Recognising base and family members.",
-      "hint": "Find the base word first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-016",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 06 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you draw a family tree?",
-    "audioPrompt": "Which tip would help you draw a family tree?",
-    "visual": "🧠 Draw a family tree; ➡️ Add morpheme; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a family tree; ➡️ Add morpheme; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-012",
-      "alt_text": "🧠 Draw a family tree; ➡️ Add morpheme; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat the ending as having no meaning.",
-      "Do not find the base word first.",
-      "Word families here are about shared meaning parts."
-    ],
-    "correct": 2,
-    "explanation": "Word families here are about shared meaning parts.\nHint: Word families here are about shared meaning parts.",
-    "structuredExplanation": {
-      "summary": "Word families here are about shared meaning parts.",
-      "hint": "Word families here are about shared meaning parts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-017",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 07 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you explain shared meaning?",
-    "audioPrompt": "Which tip would help you explain shared meaning?",
-    "visual": "🧠 Explain shared meaning; ➡️ Read new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain shared meaning; ➡️ Read new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-014",
-      "alt_text": "🧠 Explain shared meaning; ➡️ Read new word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not find the base word first.",
-      "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
-      "Treat word family as rhymes."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.\nHint: Explain what the morpheme changes.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
-      "hint": "Explain what the morpheme changes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-018",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 08 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you create sentence contrasts?",
-    "audioPrompt": "Which tip would help you create sentence contrasts?",
-    "visual": "🧠 Create sentence contrasts; ➡️ Explain meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Create sentence contrasts; ➡️ Explain meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-016",
-      "alt_text": "🧠 Create sentence contrasts; ➡️ Explain meaning; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for word family and check the whole example.",
-      "Treat word family as rhymes.",
-      "Treat the ending as having no meaning."
-    ],
-    "correct": 0,
-    "explanation": "Look for word family and check the whole example.\nHint: Find the base word first.",
-    "structuredExplanation": {
-      "summary": "Look for word family and check the whole example.",
-      "hint": "Find the base word first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-019",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 09 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you recognise an ongoing form?",
-    "audioPrompt": "Which tip would help you recognise an ongoing form?",
-    "visual": "🧠 Recognise an ongoing form; ➡️ Find base word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Recognise an ongoing form; ➡️ Find base word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-018",
-      "alt_text": "🧠 Recognise an ongoing form; ➡️ Find base word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat the ending as having no meaning.",
-      "Do not find the base word first.",
-      "Check that you can build word families."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can build word families.\nHint: Word families here are about shared meaning parts.",
-    "structuredExplanation": {
-      "summary": "Check that you can build word families.",
-      "hint": "Word families here are about shared meaning parts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-020",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 10 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match bases and families?",
-    "audioPrompt": "Which tip would help you match bases and families?",
-    "visual": "🧠 Match bases and families; ➡️ Add morpheme; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match bases and families; ➡️ Add morpheme; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-020",
-      "alt_text": "🧠 Match bases and families; ➡️ Add morpheme; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not find the base word first.",
-      "Grouping words by meaningful base.",
-      "Treat word family as rhymes."
-    ],
-    "correct": 1,
-    "explanation": "Grouping words by meaningful base.\nHint: Explain what the morpheme changes.",
-    "structuredExplanation": {
-      "summary": "Grouping words by meaningful base.",
-      "hint": "Explain what the morpheme changes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-021",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 01 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find the base; 🔎 base word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the base; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-001",
-      "alt_text": "📖 Find the base; 🔎 base word; ✅ choose with evidence"
-    },
-    "answers": [
-      "played",
-      "Play",
-      "Explain what the morpheme changes."
-    ],
-    "correct": 0,
-    "explanation": "played is the mix-up. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
-    "structuredExplanation": {
-      "summary": "played is the mix-up. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-022",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 02 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match endings and meanings; 🔎 morpheme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match endings and meanings; 🔎 morpheme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-003",
-      "alt_text": "📖 Match endings and meanings; 🔎 morpheme; ✅ choose with evidence"
-    },
-    "answers": [
-      "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing",
-      "-s ↔ past; -ed ↔ ongoing; -ing ↔ plays/present one actor",
-      "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning."
-    ],
-    "correct": 1,
-    "explanation": "-s ↔ past; -ed ↔ ongoing; -ing ↔ plays/present one actor is the mix-up. Find the base word first.\nHint: Find the base word first.",
-    "structuredExplanation": {
-      "summary": "-s ↔ past; -ed ↔ ongoing; -ing ↔ plays/present one actor is the mix-up. Find the base word first.",
-      "hint": "Find the base word first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-023",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 03 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Build a word family; 🔎 word family; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build a word family; 🔎 word family; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-005",
-      "alt_text": "📖 Build a word family; 🔎 word family; ✅ choose with evidence"
-    },
-    "answers": [
-      "All four forms constructed/read accurately with base jump retained",
-      "Look for word family and check the whole example.",
-      "Treat word family as rhymes."
-    ],
-    "correct": 2,
-    "explanation": "Treat word family as rhymes. is the mix-up. Word families here are about shared meaning parts.\nHint: Word families here are about shared meaning parts.",
-    "structuredExplanation": {
-      "summary": "Treat word family as rhymes. is the mix-up. Word families here are about shared meaning parts.",
-      "hint": "Word families here are about shared meaning parts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-024",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 04 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose the time form; 🔎 -ed; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the time form; 🔎 -ed; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-007",
-      "alt_text": "📖 Choose the time form; 🔎 -ed; ✅ choose with evidence"
-    },
-    "answers": [
-      "jump",
-      "Jumped",
-      "Check that you can build word families."
-    ],
-    "correct": 0,
-    "explanation": "jump is the mix-up. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
-    "structuredExplanation": {
-      "summary": "jump is the mix-up. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-025",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 05 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order a family; 🔎 -ing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a family; 🔎 -ing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-009",
-      "alt_text": "📖 Order a family; 🔎 -ing; ✅ choose with evidence"
-    },
-    "answers": [
-      "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base",
-      "Do not find the base word first.",
-      "Recognising base and family members."
-    ],
-    "correct": 1,
-    "explanation": "Do not find the base word first. is the mix-up. Find the base word first.\nHint: Find the base word first.",
-    "structuredExplanation": {
-      "summary": "Do not find the base word first. is the mix-up. Find the base word first.",
-      "hint": "Find the base word first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-026",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 06 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw a family tree; 🔎 base word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a family tree; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-011",
-      "alt_text": "📖 Draw a family tree; 🔎 base word; ✅ choose with evidence"
-    },
-    "answers": [
-      "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun",
-      "Word families here are about shared meaning parts.",
-      "Treat word family as rhymes."
-    ],
-    "correct": 2,
-    "explanation": "Treat word family as rhymes. is the mix-up. Word families here are about shared meaning parts.\nHint: Word families here are about shared meaning parts.",
-    "structuredExplanation": {
-      "summary": "Treat word family as rhymes. is the mix-up. Word families here are about shared meaning parts.",
-      "hint": "Word families here are about shared meaning parts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-027",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Explain shared meaning; 🔎 morpheme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain shared meaning; 🔎 morpheme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-013",
-      "alt_text": "📖 Explain shared meaning; 🔎 morpheme; ✅ choose with evidence"
-    },
-    "answers": [
-      "Treat the ending as having no meaning.",
-      "Both name walking action; -ed places it in the past/completed time",
-      "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning."
-    ],
-    "correct": 0,
-    "explanation": "Treat the ending as having no meaning. is the mix-up. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
-    "structuredExplanation": {
-      "summary": "Treat the ending as having no meaning. is the mix-up. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-028",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Create sentence contrasts; 🔎 word family; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Create sentence contrasts; 🔎 word family; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-015",
-      "alt_text": "📖 Create sentence contrasts; 🔎 word family; ✅ choose with evidence"
-    },
-    "answers": [
-      "Two grammatical sentences showing present/habitual versus past action",
-      "Do not find the base word first.",
-      "Look for word family and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "Do not find the base word first. is the mix-up. Find the base word first.\nHint: Find the base word first.",
-    "structuredExplanation": {
-      "summary": "Do not find the base word first. is the mix-up. Find the base word first.",
-      "hint": "Find the base word first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-029",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Recognise an ongoing form; 🔎 -ed; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise an ongoing form; 🔎 -ed; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-017",
-      "alt_text": "📖 Recognise an ongoing form; 🔎 -ed; ✅ choose with evidence"
-    },
-    "answers": [
-      "Barking",
-      "Check that you can build word families.",
-      "bark"
-    ],
-    "correct": 2,
-    "explanation": "bark is the mix-up. Word families here are about shared meaning parts.\nHint: Word families here are about shared meaning parts.",
-    "structuredExplanation": {
-      "summary": "bark is the mix-up. Word families here are about shared meaning parts.",
-      "hint": "Word families here are about shared meaning parts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-030",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match bases and families; 🔎 -ing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match bases and families; 🔎 -ing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-019",
-      "alt_text": "📖 Match bases and families; 🔎 -ing; ✅ choose with evidence"
-    },
-    "answers": [
-      "Treat the ending as having no meaning.",
-      "Each family matches its base",
-      "Grouping words by meaningful base."
-    ],
-    "correct": 0,
-    "explanation": "Treat the ending as having no meaning. is the mix-up. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
-    "structuredExplanation": {
-      "summary": "Treat the ending as having no meaning. is the mix-up. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-031",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find the base; 🔎 base word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the base; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-001",
-      "alt_text": "📖 Find the base; 🔎 base word; ✅ choose with evidence"
-    },
-    "answers": [
-      "played",
-      "Play",
+      "ing",
+      "s",
       "ed"
     ],
-    "correct": 1,
-    "explanation": "Play uses the skill correctly. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
-    "structuredExplanation": {
-      "summary": "Play uses the skill correctly. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-032",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "ac9e1ly15 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match endings and meanings; 🔎 morpheme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match endings and meanings; 🔎 morpheme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-003",
-      "alt_text": "📖 Match endings and meanings; 🔎 morpheme; ✅ choose with evidence"
-    },
-    "answers": [
-      "-s ↔ past; -ed ↔ ongoing; -ing ↔ plays/present one actor",
-      "Do not find the base word first.",
-      "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing"
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing uses the skill correctly. Find the base word first.\nHint: Find the base word first.",
+    "explanation": "Played contains the base play plus ed, marking a past action.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing uses the skill correctly. Find the base word first.",
-      "hint": "Find the base word first."
+      "summary": "Played contains the base play plus ed, marking a past action.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-033",
+    "id": "ac9e1ly15-er6-p-007",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 03 apply",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Build a word family; 🔎 word family; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build a word family; 🔎 word family; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-005\"></use></svg>",
+    "question": "Which word means 'more than one dish'?",
+    "audioPrompt": "Which word means 'more than one dish'?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-005",
-      "alt_text": "📖 Build a word family; 🔎 word family; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All four forms constructed/read accurately with base jump retained",
-      "Treat word family as rhymes.",
-      "Treat the ending as having no meaning."
+      "dishes",
+      "dished",
+      "dishing"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "All four forms constructed/read accurately with base jump retained uses the skill correctly. Word families here are about shared meaning parts.\nHint: Word families here are about shared meaning parts.",
+    "explanation": "Adding es forms the plural dishes; ed and ing make different forms.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "All four forms constructed/read accurately with base jump retained uses the skill correctly. Word families here are about shared meaning parts.",
-      "hint": "Word families here are about shared meaning parts."
+      "summary": "Adding es forms the plural dishes; ed and ing make different forms.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-034",
+    "id": "ac9e1ly15-er6-p-008",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 04 apply",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose the time form; 🔎 -ed; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the time form; 🔎 -ed; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-007\"></use></svg>",
+    "question": "Complete 'She ___ to school every day' using walk.",
+    "audioPrompt": "Complete 'She ___ to school every day' using walk.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-007",
-      "alt_text": "📖 Choose the time form; 🔎 -ed; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "jump",
-      "Jumped",
-      "jumping"
+      "walking",
+      "walks",
+      "walk"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Jumped uses the skill correctly. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
+    "explanation": "With the singular subject she in this present-tense sentence, walk takes s.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Jumped uses the skill correctly. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "With the singular subject she in this present-tense sentence, walk takes s.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-035",
+    "id": "ac9e1ly15-er6-p-009",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 05 apply",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order a family; 🔎 -ing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a family; 🔎 -ing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-009\"></use></svg>",
+    "question": "Read 'help', 'helped' and 'helping'. Which part stays in all three?",
+    "audioPrompt": "Read 'help', 'helped' and 'helping'. Which part stays in all three?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-009",
-      "alt_text": "📖 Order a family; 🔎 -ing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not find the base word first.",
-      "Treat word family as rhymes.",
-      "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base"
+      "ed",
+      "ing",
+      "help"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base uses the skill correctly. Find the base word first.\nHint: Find the base word first.",
+    "explanation": "Help is the shared base carrying the core meaning; the endings change its grammatical form.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base uses the skill correctly. Find the base word first.",
-      "hint": "Find the base word first."
+      "summary": "Help is the shared base carrying the core meaning; the endings change its grammatical form.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-036",
+    "id": "ac9e1ly15-er6-p-010",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 06 apply",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw a family tree; 🔎 base word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a family tree; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-011\"></use></svg>",
+    "question": "Which form fits 'We ___ the room last night'?",
+    "audioPrompt": "Which form fits 'We ___ the room last night'?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-011",
-      "alt_text": "📖 Draw a family tree; 🔎 base word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun",
-      "Treat word family as rhymes.",
-      "Treat the ending as having no meaning."
+      "cleaned",
+      "cleaning",
+      "cleans"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun uses the skill correctly. Word families here are about shared meaning parts.\nHint: Word families here are about shared meaning parts.",
+    "explanation": "Last night signals the past, and cleaned is clean plus ed.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun uses the skill correctly. Word families here are about shared meaning parts.",
-      "hint": "Word families here are about shared meaning parts."
+      "summary": "Last night signals the past, and cleaned is clean plus ed.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-037",
+    "id": "ac9e1ly15-er6-p-011",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 07 apply",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Explain shared meaning; 🔎 morpheme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain shared meaning; 🔎 morpheme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-013\"></use></svg>",
+    "question": "Change 'one brush' to mean more than one.",
+    "audioPrompt": "Change 'one brush' to mean more than one.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-013",
-      "alt_text": "📖 Explain shared meaning; 🔎 morpheme; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat the ending as having no meaning.",
-      "Both name walking action; -ed places it in the past/completed time",
-      "Do not find the base word first."
+      "brushing",
+      "brushes",
+      "brushed"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Both name walking action; -ed places it in the past/completed time uses the skill correctly. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
+    "explanation": "Brush takes es for its regular plural, so brushes names more than one object.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Both name walking action; -ed places it in the past/completed time uses the skill correctly. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "Brush takes es for its regular plural, so brushes names more than one object.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-038",
+    "id": "ac9e1ly15-er6-p-012",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 08 apply",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Create sentence contrasts; 🔎 word family; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Create sentence contrasts; 🔎 word family; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-015\"></use></svg>",
+    "question": "Which word in 'The birds are singing' contains the ending for an action happening with are?",
+    "audioPrompt": "Which word in 'The birds are singing' contains the ending for an action happening with are?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-015",
-      "alt_text": "📖 Create sentence contrasts; 🔎 word family; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not find the base word first.",
-      "Treat word family as rhymes.",
-      "Two grammatical sentences showing present/habitual versus past action"
+      "birds",
+      "The",
+      "singing"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Two grammatical sentences showing present/habitual versus past action uses the skill correctly. Find the base word first.\nHint: Find the base word first.",
+    "explanation": "Singing uses ing with are; birds instead has a plural s ending.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Two grammatical sentences showing present/habitual versus past action uses the skill correctly. Find the base word first.",
-      "hint": "Find the base word first."
+      "summary": "Singing uses ing with are; birds instead has a plural s ending.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-039",
+    "id": "ac9e1ly15-er6-p-013",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 09 apply",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Recognise an ongoing form; 🔎 -ed; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise an ongoing form; 🔎 -ed; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-017\"></use></svg>",
+    "question": "Choose the pair made by adding different endings to 'pack'.",
+    "audioPrompt": "Choose the pair made by adding different endings to 'pack'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-017",
-      "alt_text": "📖 Recognise an ongoing form; 🔎 -ed; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Barking",
-      "bark",
-      "barked"
+      "packed, packing",
+      "back, sack",
+      "park, part"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Barking uses the skill correctly. Word families here are about shared meaning parts.\nHint: Word families here are about shared meaning parts.",
+    "explanation": "Packed and packing retain the base pack and add grammatical endings.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Barking uses the skill correctly. Word families here are about shared meaning parts.",
-      "hint": "Word families here are about shared meaning parts."
+      "summary": "Packed and packing retain the base pack and add grammatical endings.",
+      "hint": "Say the words and check the whole example."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-040",
+    "id": "ac9e1ly15-er6-p-014",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "ac9e1ly15 10 apply",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match bases and families; 🔎 -ing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match bases and families; 🔎 -ing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-019\"></use></svg>",
+    "question": "Complete 'Two ___ sat on the fence' using bird.",
+    "audioPrompt": "Complete 'Two ___ sat on the fence' using bird.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-019",
-      "alt_text": "📖 Match bases and families; 🔎 -ing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat the ending as having no meaning.",
-      "Each family matches its base",
-      "Do not find the base word first."
+      "birding",
+      "birds",
+      "birded"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "Each family matches its base uses the skill correctly. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
+    "explanation": "The number two needs the plural noun birds, formed by adding s.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "Each family matches its base uses the skill correctly. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "The number two needs the plural noun birds, formed by adding s.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-015",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "single",
+    "question": "Read 'I paint today' and 'I painted yesterday'. What does ed change?",
+    "audioPrompt": "Read 'I paint today' and 'I painted yesterday'. What does ed change?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It means there are many painters.",
+      "It means the paint is brighter.",
+      "It marks the action as past."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "The ending ed changes the verb form to refer to a past action.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "The ending ed changes the verb form to refer to a past action.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-016",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "single",
+    "question": "Complete 'The children are ___' using rest.",
+    "audioPrompt": "Complete 'The children are ___' using rest.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "resting",
+      "rested",
+      "rests"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "Are combines with resting to describe the ongoing action or state.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "Are combines with resting to describe the ongoing action or state.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-017",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "single",
+    "question": "A child puts 'cook' with 'looked' because they rhyme. Which word belongs to the look family instead?",
+    "audioPrompt": "A child puts 'cook' with 'looked' because they rhyme. Which word belongs to the look family instead?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "book",
+      "looking",
+      "hook"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Looking keeps the base look; the others rhyme but do not share that base meaning.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "Looking keeps the base look; the others rhyme but do not share that base meaning.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-018",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "single",
+    "question": "Read 'The cat sleeps' and 'The cats sleep'. What does s do in 'cats'?",
+    "audioPrompt": "Read 'The cat sleeps' and 'The cats sleep'. What does s do in 'cats'?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It marks a past action.",
+      "It makes a describing word.",
+      "It marks more than one cat."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "In cats, s is a plural noun ending; its job depends on the word it is attached to.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "In cats, s is a plural noun ending; its job depends on the word it is attached to.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-019",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "single",
+    "question": "In 'The cat sleeps', what does the s in 'sleeps' do?",
+    "audioPrompt": "In 'The cat sleeps', what does the s in 'sleeps' do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It makes the present verb fit one cat.",
+      "It means there is more than one cat.",
+      "It shows the cat slept yesterday."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": 0,
+    "explanation": "The verb ending agrees with the singular subject; it is not a plural noun ending here.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "The verb ending agrees with the singular subject; it is not a plural noun ending here.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-020",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the sentence where the ending fits the time clue.",
+    "audioPrompt": "Choose the sentence where the ending fits the time clue.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Yesterday, we plants beans.",
+      "Yesterday, we planted beans.",
+      "Yesterday, we planting beans."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "Planted is the past form of plant and fits Yesterday with the subject we.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "Planted is the past form of plant and fits Yesterday with the subject we.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-021",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "three buses; add es to bus",
+    "acceptanceNote": "Check the plural buses and an explanation that es shows more than one bus. It is not a past-tense ending here.",
+    "responseInstructions": "Write your response on paper or here. A grown-up checks it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Rewrite 'three bus' using the correct plural. Explain what you added.",
+    "audioPrompt": "Rewrite 'three bus' using the correct plural. Explain what you added.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "three buses; add es to bus",
+    "explanation": "Check the plural buses and an explanation that es shows more than one bus. It is not a past-tense ending here.\nHint: Complete the task before comparing with the model. A grown-up checks reading and writing.",
+    "structuredExplanation": {
+      "summary": "Check the plural buses and an explanation that es shows more than one bus. It is not a past-tense ending here.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-022",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Use washing for now and washed for yesterday.",
+    "acceptanceNote": "Check washing after am and washed for yesterday. Both retain wash, with different grammatical endings.",
+    "responseInstructions": "Write your response on paper or here. A grown-up checks it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write two forms of wash: one to finish 'I am ___ now' and one to finish 'I ___ yesterday'.",
+    "audioPrompt": "Write two forms of wash: one to finish 'I am ___ now' and one to finish 'I ___ yesterday'.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Use washing for now and washed for yesterday.",
+    "explanation": "Check washing after am and washed for yesterday. Both retain wash, with different grammatical endings.\nHint: Complete the task before comparing with the model. A grown-up checks reading and writing.",
+    "structuredExplanation": {
+      "summary": "Check washing after am and washed for yesterday. Both retain wash, with different grammatical endings.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-023",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Now I am clapping. Yesterday I clapped too.",
+    "acceptanceNote": "Check clapping and clapped, including the doubled p and the endings that fit the time and sentence structure.",
+    "responseInstructions": "Write your response on paper or here. A grown-up checks it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Complete these in writing using clap: 'Now I am ___.' 'Yesterday I ___ too.'",
+    "audioPrompt": "Complete these in writing using clap: 'Now I am ___.' 'Yesterday I ___ too.'",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Now I am clapping. Yesterday I clapped too.",
+    "explanation": "Check clapping and clapped, including the doubled p and the endings that fit the time and sentence structure.\nHint: Complete the task before comparing with the model. A grown-up checks reading and writing.",
+    "structuredExplanation": {
+      "summary": "Check clapping and clapped, including the doubled p and the endings that fit the time and sentence structure.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-024",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "talk, talks, talked, talking; for example, We talked yesterday.",
+    "acceptanceNote": "Check the shared base and the s, ed and ing forms. The sentence must use its chosen form meaningfully; a rhyming word alone is not a family member.",
+    "responseInstructions": "Write your response on paper or here. A grown-up checks it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Build a word family from talk. Write the base and three forms with grammatical endings. Use one in a short sentence.",
+    "audioPrompt": "Build a word family from talk. Write the base and three forms with grammatical endings. Use one in a short sentence.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "talk, talks, talked, talking; for example, We talked yesterday.",
+    "explanation": "Check the shared base and the s, ed and ing forms. The sentence must use its chosen form meaningfully; a rhyming word alone is not a family member.\nHint: Complete the task before comparing with the model. A grown-up checks reading and writing.",
+    "structuredExplanation": {
+      "summary": "Check the shared base and the s, ed and ing forms. The sentence must use its chosen form meaningfully; a rhyming word alone is not a family member.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   }

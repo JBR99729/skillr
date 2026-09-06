@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly15-p-001",
+    "id": "ac9e1ly15-er6-p-001",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Add -ing to “play”. Which word do you make?",
-    "audioPrompt": "Add -ing to “play”. Which word do you make?",
+    "question": "Start with 'cat'. Which word means more than one cat?",
+    "audioPrompt": "Start with 'cat'. Which word means more than one cat?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,29 +16,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "played",
-      "plays",
-      "playing"
+      "cats",
+      "catting",
+      "cated"
     ],
-    "correct": 2,
-    "explanation": "playing is the best answer.",
-    "structuredExplanation": {
-      "summary": "playing is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Adding the grammatical ending s makes the regular plural cats.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "Adding the grammatical ending s makes the regular plural cats.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-002",
+    "id": "ac9e1ly15-er6-p-002",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Add -s to “jump”. Which word do you make?",
-    "audioPrompt": "Add -s to “jump”. Which word do you make?",
+    "question": "Which word belongs with 'jump' and means the action happened in the past?",
+    "audioPrompt": "Which word belongs with 'jump' and means the action happened in the past?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,29 +47,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "jumping",
       "jumps",
-      "jump"
+      "jumped",
+      "jumping"
     ],
-    "correct": 1,
-    "explanation": "jumps is the best answer.",
-    "structuredExplanation": {
-      "summary": "jumps is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The ending ed marks the completed past action in jumped.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "The ending ed marks the completed past action in jumped.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-003",
+    "id": "ac9e1ly15-er6-p-003",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which words belong to the same word family?",
-    "audioPrompt": "Which words belong to the same word family?",
+    "question": "Complete 'The dog is ___ now' using a form of bark.",
+    "audioPrompt": "Complete 'The dog is ___ now' using a form of bark.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -76,119 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "looking, hen",
-      "look, looking",
-      "look, cup"
+      "barked",
+      "barks",
+      "barking"
     ],
-    "correct": 1,
-    "explanation": "look, looking is the best answer.",
-    "structuredExplanation": {
-      "summary": "look, looking is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1ly15-p-004",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Which word means “doing it now”?",
-    "audioPrompt": "Which word means “doing it now”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "help",
-      "helping",
-      "helps"
-    ],
-    "correct": 1,
-    "explanation": "helping is the best answer.",
-    "structuredExplanation": {
-      "summary": "helping is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1ly15-p-005",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Finish: “Ava is ___.”",
-    "audioPrompt": "Finish: “Ava is ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "paints",
-      "painting",
-      "paint"
-    ],
-    "correct": 1,
-    "explanation": "painting is the best answer.",
-    "structuredExplanation": {
-      "summary": "painting is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1ly15-p-006",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Finish: “The duck ___.”",
-    "audioPrompt": "Finish: “The duck ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "walk",
-      "walking",
-      "walks"
-    ],
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "walks is the best answer.",
+    "explanation": "Is combines with barking to show the action happening now.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "walks is the best answer."
+      "summary": "Is combines with barking to show the action happening now.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-007",
+    "id": "ac9e1ly15-er6-p-004",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "What is the base word in “reading”?",
-    "audioPrompt": "What is the base word in “reading”?",
+    "question": "Which word family keeps the meaning of 'look' while adding grammatical endings?",
+    "audioPrompt": "Which word family keeps the meaning of 'look' while adding grammatical endings?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -196,89 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "reads",
-      "read",
-      "reading"
+      "look, looks, looked, looking",
+      "look, book, cook, hook",
+      "look, leaf, lamp, lip"
     ],
-    "correct": 1,
-    "explanation": "read is the best answer.",
-    "structuredExplanation": {
-      "summary": "read is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1ly15-p-008",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Which ending is in “singing”?",
-    "audioPrompt": "Which ending is in “singing”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "-s",
-      "-ing",
-      "-ed"
-    ],
-    "correct": 1,
-    "explanation": "-ing is the best answer.",
-    "structuredExplanation": {
-      "summary": "-ing is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1ly15-p-009",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Add -ing to “play”. Which word do you make?",
-    "audioPrompt": "Add -ing to “play”. Which word do you make?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "playing",
-      "plays",
-      "played"
-    ],
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "playing is the best answer.",
+    "explanation": "The first group adds endings to the same base; rhyming or starting alike is not enough.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "playing is the best answer."
+      "summary": "The first group adds endings to the same base; rhyming or starting alike is not enough.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-010",
+    "id": "ac9e1ly15-er6-p-005",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Add -s to “jump”. Which word do you make?",
-    "audioPrompt": "Add -s to “jump”. Which word do you make?",
+    "question": "Start with 'box'. Which word names more than one?",
+    "audioPrompt": "Start with 'box'. Which word names more than one?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,59 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "jump",
-      "jumping",
-      "jumps"
+      "boxing",
+      "boxes",
+      "boxs"
     ],
-    "correct": 2,
-    "explanation": "jumps is the best answer.",
-    "structuredExplanation": {
-      "summary": "jumps is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
-  },
-  {
-    "id": "ac9e1ly15-p-011",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Which words belong to the same word family?",
-    "audioPrompt": "Which words belong to the same word family?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "look, kite",
-      "look, looking",
-      "looking, frog"
-    ],
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "look, looking is the best answer.",
+    "explanation": "The regular plural of box adds es, giving boxes.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "look, looking is the best answer."
+      "summary": "The regular plural of box adds es, giving boxes.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-012",
+    "id": "ac9e1ly15-er6-p-006",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which word means “doing it now”?",
-    "audioPrompt": "Which word means “doing it now”?",
+    "question": "In 'We played yesterday', which ending is added to play?",
+    "audioPrompt": "In 'We played yesterday', which ending is added to play?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,59 +171,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "helping",
-      "help",
-      "helps"
+      "ing",
+      "s",
+      "ed"
     ],
-    "correct": 0,
-    "explanation": "helping is the best answer.",
-    "structuredExplanation": {
-      "summary": "helping is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1ly15-p-013",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Finish: “Leo is ___.”",
-    "audioPrompt": "Finish: “Leo is ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "paint",
-      "paints",
-      "painting"
-    ],
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "painting is the best answer.",
+    "explanation": "Played contains the base play plus ed, marking a past action.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "painting is the best answer."
+      "summary": "Played contains the base play plus ed, marking a past action.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-014",
+    "id": "ac9e1ly15-er6-p-007",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Finish: “The goat ___.”",
-    "audioPrompt": "Finish: “The goat ___.”",
+    "question": "Which word means 'more than one dish'?",
+    "audioPrompt": "Which word means 'more than one dish'?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "dishes",
+      "dished",
+      "dishing"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Adding es forms the plural dishes; ed and ing make different forms.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "Adding es forms the plural dishes; ed and ing make different forms.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-008",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "single",
+    "question": "Complete 'She ___ to school every day' using walk.",
+    "audioPrompt": "Complete 'She ___ to school every day' using walk.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -410,175 +237,26 @@ window.skillrPracticeQuestions = [
       "walks",
       "walk"
     ],
-    "correct": 1,
-    "explanation": "walks is the best answer.",
-    "structuredExplanation": {
-      "summary": "walks is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 14
-  },
-  {
-    "id": "ac9e1ly15-p-015",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "What is the base word in “reading”?",
-    "audioPrompt": "What is the base word in “reading”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "read",
-      "reads",
-      "reading"
-    ],
-    "correct": 0,
-    "explanation": "read is the best answer.",
-    "structuredExplanation": {
-      "summary": "read is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
-  },
-  {
-    "id": "ac9e1ly15-p-016",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Which ending is in “singing”?",
-    "audioPrompt": "Which ending is in “singing”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "-s",
-      "-ed",
-      "-ing"
-    ],
-    "correct": 2,
-    "explanation": "-ing is the best answer.",
-    "structuredExplanation": {
-      "summary": "-ing is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1ly15-p-017",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Add -ing to “play”. Which word do you make?",
-    "audioPrompt": "Add -ing to “play”. Which word do you make?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "plays",
-      "played",
-      "playing"
-    ],
-    "correct": 2,
-    "explanation": "playing is the best answer.",
-    "structuredExplanation": {
-      "summary": "playing is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
-  },
-  {
-    "id": "ac9e1ly15-p-018",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Add -s to “jump”. Which word do you make?",
-    "audioPrompt": "Add -s to “jump”. Which word do you make?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "jumps",
-      "jump",
-      "jumping"
-    ],
-    "correct": 0,
-    "explanation": "jumps is the best answer.",
-    "structuredExplanation": {
-      "summary": "jumps is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
-  },
-  {
-    "id": "ac9e1ly15-p-019",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Which words belong to the same word family?",
-    "audioPrompt": "Which words belong to the same word family?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "looking, fish",
-      "look, looking",
-      "look, hat"
-    ],
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "look, looking is the best answer.",
+    "explanation": "With the singular subject she in this present-tense sentence, walk takes s.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "look, looking is the best answer."
+      "summary": "With the singular subject she in this present-tense sentence, walk takes s.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-020",
+    "id": "ac9e1ly15-er6-p-009",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which word means “doing it now”?",
-    "audioPrompt": "Which word means “doing it now”?",
+    "question": "Read 'help', 'helped' and 'helping'. Which part stays in all three?",
+    "audioPrompt": "Read 'help', 'helped' and 'helping'. Which part stays in all three?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +264,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "helping",
-      "helps",
+      "ed",
+      "ing",
       "help"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Help is the shared base carrying the core meaning; the endings change its grammatical form.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "Help is the shared base carrying the core meaning; the endings change its grammatical form.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-010",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "single",
+    "question": "Which form fits 'We ___ the room last night'?",
+    "audioPrompt": "Which form fits 'We ___ the room last night'?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "cleaned",
+      "cleaning",
+      "cleans"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "helping is the best answer.",
+    "explanation": "Last night signals the past, and cleaned is clean plus ed.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "helping is the best answer."
+      "summary": "Last night signals the past, and cleaned is clean plus ed.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-021",
+    "id": "ac9e1ly15-er6-p-011",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Finish: “Zoe is ___.”",
-    "audioPrompt": "Finish: “Zoe is ___.”",
+    "question": "Change 'one brush' to mean more than one.",
+    "audioPrompt": "Change 'one brush' to mean more than one.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "paint",
-      "painting",
-      "paints"
+      "brushing",
+      "brushes",
+      "brushed"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "painting is the best answer.",
+    "explanation": "Brush takes es for its regular plural, so brushes names more than one object.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "painting is the best answer."
+      "summary": "Brush takes es for its regular plural, so brushes names more than one object.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-022",
+    "id": "ac9e1ly15-er6-p-012",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Finish: “The dog ___.”",
-    "audioPrompt": "Finish: “The dog ___.”",
+    "question": "Which word in 'The birds are singing' contains the ending for an action happening with are?",
+    "audioPrompt": "Which word in 'The birds are singing' contains the ending for an action happening with are?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +357,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "walking",
-      "walk",
-      "walks"
+      "birds",
+      "The",
+      "singing"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "walks is the best answer.",
+    "explanation": "Singing uses ing with are; birds instead has a plural s ending.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "walks is the best answer."
+      "summary": "Singing uses ing with are; birds instead has a plural s ending.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-023",
+    "id": "ac9e1ly15-er6-p-013",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: What is the base word in “reading”?",
-    "audioPrompt": "Read and choose: What is the base word in “reading”?",
+    "question": "Choose the pair made by adding different endings to 'pack'.",
+    "audioPrompt": "Choose the pair made by adding different endings to 'pack'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +388,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "reads",
-      "read",
-      "reading"
+      "packed, packing",
+      "back, sack",
+      "park, part"
     ],
-    "correct": 1,
-    "explanation": "read is the best answer.",
-    "structuredExplanation": {
-      "summary": "read is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1ly15-p-024",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which ending is in “singing”?",
-    "audioPrompt": "Read and choose: Which ending is in “singing”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "-s",
-      "-ing",
-      "-ed"
-    ],
-    "correct": 1,
-    "explanation": "-ing is the best answer.",
-    "structuredExplanation": {
-      "summary": "-ing is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1ly15-p-025",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Add -ing to “play”. Which word do you make?",
-    "audioPrompt": "Read and choose: Add -ing to “play”. Which word do you make?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "played",
-      "plays",
-      "playing"
-    ],
-    "correct": 2,
-    "explanation": "playing is the best answer.",
-    "structuredExplanation": {
-      "summary": "playing is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1ly15-p-026",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Add -s to “jump”. Which word do you make?",
-    "audioPrompt": "Read and choose: Add -s to “jump”. Which word do you make?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "jumping",
-      "jumps",
-      "jump"
-    ],
-    "correct": 1,
-    "explanation": "jumps is the best answer.",
-    "structuredExplanation": {
-      "summary": "jumps is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1ly15-p-027",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Which words belong to the same word family?",
-    "audioPrompt": "Which words belong to the same word family?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "look, book",
-      "looking, cat",
-      "look, looking"
-    ],
-    "correct": 2,
-    "explanation": "look, looking is the best answer.",
-    "structuredExplanation": {
-      "summary": "look, looking is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1ly15-p-028",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word means “doing it now”?",
-    "audioPrompt": "Read and choose: Which word means “doing it now”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "helping",
-      "helps",
-      "help"
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "helping is the best answer.",
+    "explanation": "Packed and packing retain the base pack and add grammatical endings.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "helping is the best answer."
+      "summary": "Packed and packing retain the base pack and add grammatical endings.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-014",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "single",
+    "question": "Complete 'Two ___ sat on the fence' using bird.",
+    "audioPrompt": "Complete 'Two ___ sat on the fence' using bird.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "birding",
+      "birds",
+      "birded"
+    ],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The number two needs the plural noun birds, formed by adding s.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "The number two needs the plural noun birds, formed by adding s.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-029",
+    "id": "ac9e1ly15-er6-p-015",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Finish: “Max is ___.”",
-    "audioPrompt": "Finish: “Max is ___.”",
+    "question": "Read 'I paint today' and 'I painted yesterday'. What does ed change?",
+    "audioPrompt": "Read 'I paint today' and 'I painted yesterday'. What does ed change?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,29 +450,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "paint",
-      "paints",
-      "painting"
+      "It means there are many painters.",
+      "It means the paint is brighter.",
+      "It marks the action as past."
     ],
-    "correct": 2,
-    "explanation": "painting is the best answer.",
-    "structuredExplanation": {
-      "summary": "painting is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "The ending ed changes the verb form to refer to a past action.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "The ending ed changes the verb form to refer to a past action.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-030",
+    "id": "ac9e1ly15-er6-p-016",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Finish: “The fox ___.”",
-    "audioPrompt": "Finish: “The fox ___.”",
+    "question": "Complete 'The children are ___' using rest.",
+    "audioPrompt": "Complete 'The children are ___' using rest.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -886,59 +481,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "walking",
-      "walks",
-      "walk"
+      "resting",
+      "rested",
+      "rests"
     ],
-    "correct": 1,
-    "explanation": "walks is the best answer.",
-    "structuredExplanation": {
-      "summary": "walks is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
-  },
-  {
-    "id": "ac9e1ly15-p-031",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "What is the base word in “reading”?",
-    "audioPrompt": "What is the base word in “reading”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "read",
-      "reading",
-      "reads"
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "read is the best answer.",
+    "explanation": "Are combines with resting to describe the ongoing action or state.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "read is the best answer."
+      "summary": "Are combines with resting to describe the ongoing action or state.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-032",
+    "id": "ac9e1ly15-er6-p-017",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which ending is in “singing”?",
-    "audioPrompt": "Read and choose: Which ending is in “singing”?",
+    "question": "A child puts 'cook' with 'looked' because they rhyme. Which word belongs to the look family instead?",
+    "audioPrompt": "A child puts 'cook' with 'looked' because they rhyme. Which word belongs to the look family instead?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "-s",
-      "-ed",
-      "-ing"
+      "book",
+      "looking",
+      "hook"
     ],
-    "correct": 2,
-    "explanation": "-ing is the best answer.",
-    "structuredExplanation": {
-      "summary": "-ing is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1ly15-p-033",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Add -ing to “play”. Which word do you make?",
-    "audioPrompt": "Add -ing to “play”. Which word do you make?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "plays",
-      "playing",
-      "played"
-    ],
-    "correct": 1,
-    "explanation": "playing is the best answer.",
-    "structuredExplanation": {
-      "summary": "playing is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Looking keeps the base look; the others rhyme but do not share that base meaning.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "Looking keeps the base look; the others rhyme but do not share that base meaning.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-034",
+    "id": "ac9e1ly15-er6-p-018",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Add -s to “jump”. Which word do you make?",
-    "audioPrompt": "Read and choose: Add -s to “jump”. Which word do you make?",
+    "question": "Read 'The cat sleeps' and 'The cats sleep'. What does s do in 'cats'?",
+    "audioPrompt": "Read 'The cat sleeps' and 'The cats sleep'. What does s do in 'cats'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,29 +543,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "jumps",
-      "jump",
-      "jumping"
+      "It marks a past action.",
+      "It makes a describing word.",
+      "It marks more than one cat."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "In cats, s is a plural noun ending; its job depends on the word it is attached to.\nHint: Say the words and check the whole example.",
+    "structuredExplanation": {
+      "summary": "In cats, s is a plural noun ending; its job depends on the word it is attached to.",
+      "hint": "Say the words and check the whole example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly15-er6-p-019",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "printable": true,
+    "type": "single",
+    "question": "In 'The cat sleeps', what does the s in 'sleeps' do?",
+    "audioPrompt": "In 'The cat sleeps', what does the s in 'sleeps' do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It makes the present verb fit one cat.",
+      "It means there is more than one cat.",
+      "It shows the cat slept yesterday."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "jumps is the best answer.",
+    "explanation": "The verb ending agrees with the singular subject; it is not a plural noun ending here.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "jumps is the best answer."
+      "summary": "The verb ending agrees with the singular subject; it is not a plural noun ending here.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-035",
+    "id": "ac9e1ly15-er6-p-020",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
     "type": "single",
-    "question": "Which words belong to the same word family?",
-    "audioPrompt": "Which words belong to the same word family?",
+    "question": "Choose the sentence where the ending fits the time clue.",
+    "audioPrompt": "Choose the sentence where the ending fits the time clue.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1036,408 +605,152 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "looking, hen",
-      "look, looking",
-      "look, sock"
+      "Yesterday, we plants beans.",
+      "Yesterday, we planted beans.",
+      "Yesterday, we planting beans."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "look, looking is the best answer.",
+    "explanation": "Planted is the past form of plant and fits Yesterday with the subject we.\nHint: Say the words and check the whole example.",
     "structuredExplanation": {
-      "summary": "look, looking is the best answer."
+      "summary": "Planted is the past form of plant and fits Yesterday with the subject we.",
+      "hint": "Say the words and check the whole example."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-036",
+    "id": "ac9e1ly15-er6-p-021",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
-    "type": "single",
-    "question": "Which word means “doing it now”?",
-    "audioPrompt": "Which word means “doing it now”?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "three buses; add es to bus",
+    "acceptanceNote": "Check the plural buses and an explanation that es shows more than one bus. It is not a past-tense ending here.",
+    "responseInstructions": "Write your response on paper or here. A grown-up checks it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Rewrite 'three bus' using the correct plural. Explain what you added.",
+    "audioPrompt": "Rewrite 'three bus' using the correct plural. Explain what you added.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "helps",
-      "helping",
-      "help"
-    ],
-    "correct": 1,
-    "explanation": "helping is the best answer.",
-    "structuredExplanation": {
-      "summary": "helping is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "three buses; add es to bus",
+    "explanation": "Check the plural buses and an explanation that es shows more than one bus. It is not a past-tense ending here.\nHint: Complete the task before comparing with the model. A grown-up checks reading and writing.",
+    "structuredExplanation": {
+      "summary": "Check the plural buses and an explanation that es shows more than one bus. It is not a past-tense ending here.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-037",
+    "id": "ac9e1ly15-er6-p-022",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
-    "type": "single",
-    "question": "Finish: “Mia is ___.”",
-    "audioPrompt": "Finish: “Mia is ___.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Use washing for now and washed for yesterday.",
+    "acceptanceNote": "Check washing after am and washed for yesterday. Both retain wash, with different grammatical endings.",
+    "responseInstructions": "Write your response on paper or here. A grown-up checks it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write two forms of wash: one to finish 'I am ___ now' and one to finish 'I ___ yesterday'.",
+    "audioPrompt": "Write two forms of wash: one to finish 'I am ___ now' and one to finish 'I ___ yesterday'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "painting",
-      "paints",
-      "paint"
-    ],
-    "correct": 0,
-    "explanation": "painting is the best answer.",
-    "structuredExplanation": {
-      "summary": "painting is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Use washing for now and washed for yesterday.",
+    "explanation": "Check washing after am and washed for yesterday. Both retain wash, with different grammatical endings.\nHint: Complete the task before comparing with the model. A grown-up checks reading and writing.",
+    "structuredExplanation": {
+      "summary": "Check washing after am and washed for yesterday. Both retain wash, with different grammatical endings.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-038",
+    "id": "ac9e1ly15-er6-p-023",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
-    "type": "single",
-    "question": "Finish: “The duck ___.”",
-    "audioPrompt": "Finish: “The duck ___.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Now I am clapping. Yesterday I clapped too.",
+    "acceptanceNote": "Check clapping and clapped, including the doubled p and the endings that fit the time and sentence structure.",
+    "responseInstructions": "Write your response on paper or here. A grown-up checks it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Complete these in writing using clap: 'Now I am ___.' 'Yesterday I ___ too.'",
+    "audioPrompt": "Complete these in writing using clap: 'Now I am ___.' 'Yesterday I ___ too.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "walk",
-      "walks",
-      "walking"
-    ],
-    "correct": 1,
-    "explanation": "walks is the best answer.",
-    "structuredExplanation": {
-      "summary": "walks is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Now I am clapping. Yesterday I clapped too.",
+    "explanation": "Check clapping and clapped, including the doubled p and the endings that fit the time and sentence structure.\nHint: Complete the task before comparing with the model. A grown-up checks reading and writing.",
+    "structuredExplanation": {
+      "summary": "Check clapping and clapped, including the doubled p and the endings that fit the time and sentence structure.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly15-p-039",
+    "id": "ac9e1ly15-er6-p-024",
     "curriculumCode": "AC9E1LY15",
     "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
+    "skill": "grammatical endings and meaningful word families",
     "printable": true,
-    "type": "single",
-    "question": "What is the base word in “reading”?",
-    "audioPrompt": "What is the base word in “reading”?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "talk, talks, talked, talking; for example, We talked yesterday.",
+    "acceptanceNote": "Check the shared base and the s, ed and ing forms. The sentence must use its chosen form meaningfully; a rhyming word alone is not a family member.",
+    "responseInstructions": "Write your response on paper or here. A grown-up checks it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Build a word family from talk. Write the base and three forms with grammatical endings. Use one in a short sentence.",
+    "audioPrompt": "Build a word family from talk. Write the base and three forms with grammatical endings. Use one in a short sentence.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "reading",
-      "reads",
-      "read"
-    ],
-    "correct": 2,
-    "explanation": "read is the best answer.",
-    "structuredExplanation": {
-      "summary": "read is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1ly15-p-040",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which ending is in “singing”?",
-    "audioPrompt": "Look and choose: Which ending is in “singing”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "-s",
-      "-ing",
-      "-ed"
-    ],
-    "correct": 1,
-    "explanation": "-ing is the best answer.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "talk, talks, talked, talking; for example, We talked yesterday.",
+    "explanation": "Check the shared base and the s, ed and ing forms. The sentence must use its chosen form meaningfully; a rhyming word alone is not a family member.\nHint: Complete the task before comparing with the model. A grown-up checks reading and writing.",
     "structuredExplanation": {
-      "summary": "-ing is the best answer."
+      "summary": "Check the shared base and the s, ed and ing forms. The sentence must use its chosen form meaningfully; a rhyming word alone is not a family member.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly15-p-041",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Add -ing to “play”. Which word do you make?",
-    "audioPrompt": "Look and choose: Add -ing to “play”. Which word do you make?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "played",
-      "plays",
-      "playing"
-    ],
-    "correct": 2,
-    "explanation": "playing is the best answer.",
-    "structuredExplanation": {
-      "summary": "playing is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-042",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Add -s to “jump”. Which word do you make?",
-    "audioPrompt": "Add -s to “jump”. Which word do you make?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "jumping",
-      "jump",
-      "jumps"
-    ],
-    "correct": 2,
-    "explanation": "jumps is the best answer.",
-    "structuredExplanation": {
-      "summary": "jumps is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-043",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Which words belong to the same word family?",
-    "audioPrompt": "Which words belong to the same word family?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "look, looking",
-      "looking, frog",
-      "look, bag"
-    ],
-    "correct": 0,
-    "explanation": "look, looking is the best answer.",
-    "structuredExplanation": {
-      "summary": "look, looking is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-044",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Which word means “doing it now”?",
-    "audioPrompt": "Which word means “doing it now”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "help",
-      "helps",
-      "helping"
-    ],
-    "correct": 2,
-    "explanation": "helping is the best answer.",
-    "structuredExplanation": {
-      "summary": "helping is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-045",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Finish: “Ben is ___.”",
-    "audioPrompt": "Finish: “Ben is ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "painting",
-      "paints",
-      "paint"
-    ],
-    "correct": 0,
-    "explanation": "painting is the best answer.",
-    "structuredExplanation": {
-      "summary": "painting is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-046",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Finish: “The goat ___.”",
-    "audioPrompt": "Finish: “The goat ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "walking",
-      "walk",
-      "walks"
-    ],
-    "correct": 2,
-    "explanation": "walks is the best answer.",
-    "structuredExplanation": {
-      "summary": "walks is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-047",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "What is the base word in “reading”?",
-    "audioPrompt": "What is the base word in “reading”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "reading",
-      "read",
-      "reads"
-    ],
-    "correct": 1,
-    "explanation": "read is the best answer.",
-    "structuredExplanation": {
-      "summary": "read is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly15-p-048",
-    "curriculumCode": "AC9E1LY15",
-    "bank": "practice",
-    "skill": "recognise and know how to use grammatical morphemes to create word families",
-    "printable": true,
-    "type": "single",
-    "question": "Which ending is in “singing”?",
-    "audioPrompt": "Which ending is in “singing”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "-ed",
-      "-s",
-      "-ing"
-    ],
-    "correct": 2,
-    "explanation": "-ing is the best answer.",
-    "structuredExplanation": {
-      "summary": "-ing is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
