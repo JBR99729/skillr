@@ -1,1954 +1,1722 @@
 [
   {
-    "id": "AC9E1LY04-P-001",
+    "id": "ac9e1ly04-er4-p-001",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04_01_recognise",
-    "question": "Which response would correctly blend a short word?",
-    "audio_prompt": "Which response would correctly blend a short word?",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The hen is in the pen.' Where is the hen?",
+    "audio_prompt": "Read: 'The hen is in the pen.' Where is the hen?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001",
-      "alt_text": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Map",
+        "text": "In the pen",
         "is_correct": true
       },
       {
-        "text": "Do not look at the letters and sounds.",
+        "text": "In the pan",
         "is_correct": false
       },
       {
-        "text": "Sound without meaning.",
+        "text": "On the pin",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Map This matches the task.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LY04-P-002",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_02_recognise",
-    "question": "Which response would correctly match punctuation and reading?",
-    "audio_prompt": "Which response would correctly match punctuation and reading?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003",
-      "alt_text": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause",
-        "is_correct": false
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation This matches the task.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LY04-P-003",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_03_recognise",
-    "question": "Read 'After lunch, / the small dog / slept under the bench.' using the phrase marks, then explain one pause.",
-    "audio_prompt": "Read 'After lunch, / the small dog / slept under the bench.' using the phrase marks, then explain one pause.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005",
-      "alt_text": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "After lunch, / the small dog / slept under the bench",
-        "is_correct": false
-      },
-      {
-        "text": "Groups words meaningfully and links pause to comma/phrase meaning",
-        "is_correct": true
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Groups words meaningfully and links pause to comma/phrase meaning This matches the task.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LY04-P-004",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_04_recognise",
-    "question": "Which response would correctly monitor a misread?",
-    "audio_prompt": "Which response would correctly monitor a misread?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007",
-      "alt_text": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess",
-        "is_correct": true
-      },
-      {
-        "text": "The fish sat in the tree",
-        "is_correct": false
-      },
-      {
-        "text": "The fin sat in the tray",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess This matches the task.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LY04-P-005",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_05_recognise",
-    "question": "Which response would correctly order decoding steps?",
-    "audio_prompt": "Which response would correctly order decoding steps?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009",
-      "alt_text": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "reread smoothly → check meaning → blend sounds → Look through word",
-        "is_correct": false
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Look through word → blend sounds → check meaning → reread smoothly",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look through word → blend sounds → check meaning → reread smoothly This matches the task.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LY04-P-006",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_06_recognise",
-    "question": "Which response would correctly draw phrase groups?",
-    "audio_prompt": "Which response would correctly draw phrase groups?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011",
-      "alt_text": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "The red crab hid / beneath a flat rock",
-        "is_correct": false
-      },
-      {
-        "text": "Correct two phrase groups marked without splitting determiners from nouns",
-        "is_correct": true
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Correct two phrase groups marked without splitting determiners from nouns This matches the task.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LY04-P-007",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_07_recognise",
-    "question": "Which sounds grammatical: 'The birds fly' or 'The birds flies'? Explain the check.",
-    "audio_prompt": "Which sounds grammatical: 'The birds fly' or 'The birds flies'? Explain the check.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013",
-      "alt_text": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "'The birds fly'; plural birds agrees with fly in standard sentence pattern",
-        "is_correct": true
-      },
-      {
-        "text": "The birds fly",
-        "is_correct": false
-      },
-      {
-        "text": "The birds flies",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "'The birds fly'; plural birds agrees with fly in standard sentence pattern This matches the task.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LY04-P-008",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_08_recognise",
-    "question": "Which response would correctly reread for fluency?",
-    "audio_prompt": "Which response would correctly reread for fluency?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015",
-      "alt_text": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      },
-      {
-        "text": "Planning fluency improvement through rereading",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Planning fluency improvement through rereading This matches the task.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LY04-P-009",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_09_recognise",
-    "question": "Which response would correctly decode a consonant blend?",
-    "audio_prompt": "Which response would correctly decode a consonant blend?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017",
-      "alt_text": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      },
-      {
-        "text": "Frog",
-        "is_correct": true
-      },
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Frog This matches the task.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LY04-P-010",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_10_recognise",
-    "question": "Which response would correctly match word-solving clues?",
-    "audio_prompt": "Which response would correctly match word-solving clues?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019",
-      "alt_text": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "All three sources matched correctly",
-        "is_correct": true
-      },
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "All three sources matched correctly This matches the task.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LY04-P-011",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_01_explain",
-    "question": "Which tip would help you blend a short word?",
-    "audio_prompt": "Which tip would help you blend a short word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-002",
-      "alt_text": "🧠 Blend a short word; ➡️ Look at letters; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Look at the letters and sounds.",
-        "is_correct": true
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LY04-P-012",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_02_explain",
-    "question": "Which tip would help you match punctuation and reading?",
-    "audio_prompt": "Which tip would help you match punctuation and reading?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-004",
-      "alt_text": "🧠 Match punctuation and reading; ➡️ Blend/recognise; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-        "is_correct": true
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LY04-P-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_03_explain",
-    "question": "Which tip would help you read in phrases?",
-    "audio_prompt": "Which tip would help you read in phrases?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-006",
-      "alt_text": "🧠 Read in phrases; ➡️ Read phrase; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for fluency and check the whole example.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for fluency and check the whole example.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LY04-P-014",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_04_explain",
-    "question": "Which tip would help you monitor a misread?",
-    "audio_prompt": "Which tip would help you monitor a misread?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-008",
-      "alt_text": "🧠 Monitor a misread; ➡️ Check meaning; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can monitor meaning.",
-        "is_correct": true
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can monitor meaning.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LY04-P-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_05_explain",
-    "question": "Which tip would help you order decoding steps?",
-    "audio_prompt": "Which tip would help you order decoding steps?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-010",
-      "alt_text": "🧠 Order decoding steps; ➡️ Re-read; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sequencing a word-solving routine.",
-        "is_correct": true
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Sequencing a word-solving routine.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LY04-P-016",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_06_explain",
-    "question": "Which tip would help you draw phrase groups?",
-    "audio_prompt": "Which tip would help you draw phrase groups?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-012",
-      "alt_text": "🧠 Draw phrase groups; ➡️ Look at letters; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Practise phrase groups, not one word at a time forever.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LY04-P-017",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_07_explain",
-    "question": "Which tip would help you use grammar to check?",
-    "audio_prompt": "Which tip would help you use grammar to check?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-014",
-      "alt_text": "🧠 Use grammar to check; ➡️ Blend/recognise; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-        "is_correct": true
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LY04-P-018",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_08_explain",
-    "question": "Which tip would help you reread for fluency?",
-    "audio_prompt": "Which tip would help you reread for fluency?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-016",
-      "alt_text": "🧠 Reread for fluency; ➡️ Read phrase; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for fluency and check the whole example.",
-        "is_correct": true
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for fluency and check the whole example.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LY04-P-019",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_09_explain",
-    "question": "Which tip would help you decode a consonant blend?",
-    "audio_prompt": "Which tip would help you decode a consonant blend?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-018",
-      "alt_text": "🧠 Decode a consonant blend; ➡️ Check meaning; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can monitor meaning.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can monitor meaning.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LY04-P-020",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_10_explain",
-    "question": "Which tip would help you match word-solving clues?",
-    "audio_prompt": "Which tip would help you match word-solving clues?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-020",
-      "alt_text": "🧠 Match word-solving clues; ➡️ Re-read; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Recognising complementary reading cues.",
-        "is_correct": true
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Recognising complementary reading cues.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LY04-P-021",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_01_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001",
-      "alt_text": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": true
-      },
-      {
-        "text": "Map",
-        "is_correct": false
-      },
-      {
-        "text": "Look at the letters and sounds.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Do not look at the letters and sounds. is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY04-P-022",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_02_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003",
-      "alt_text": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation",
-        "is_correct": false
-      },
-      {
-        "text": "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause",
-        "is_correct": true
-      },
-      {
-        "text": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause is the mix-up. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY04-P-023",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_03_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005",
-      "alt_text": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Groups words meaningfully and links pause to comma/phrase meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Look for fluency and check the whole example.",
-        "is_correct": false
-      },
-      {
-        "text": "After lunch, / the small dog / slept under the bench",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "After lunch, / the small dog / slept under the bench is the mix-up. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY04-P-024",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_04_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007",
-      "alt_text": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "The fish sat in the tree",
-        "is_correct": true
-      },
-      {
-        "text": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can monitor meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The fish sat in the tree is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY04-P-025",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_05_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009",
-      "alt_text": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Look through word → blend sounds → check meaning → reread smoothly",
-        "is_correct": false
-      },
-      {
-        "text": "reread smoothly → check meaning → blend sounds → Look through word",
-        "is_correct": true
-      },
-      {
-        "text": "Sequencing a word-solving routine.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "reread smoothly → check meaning → blend sounds → Look through word is the mix-up. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY04-P-026",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_06_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011",
-      "alt_text": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Correct two phrase groups marked without splitting determiners from nouns",
-        "is_correct": false
-      },
-      {
-        "text": "Practise phrase groups, not one word at a time forever.",
-        "is_correct": false
-      },
-      {
-        "text": "The red crab hid / beneath a flat rock",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The red crab hid / beneath a flat rock is the mix-up. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY04-P-027",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_07_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013",
-      "alt_text": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "The birds fly",
-        "is_correct": true
-      },
-      {
-        "text": "'The birds fly'; plural birds agrees with fly in standard sentence pattern",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The birds fly is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY04-P-028",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_08_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015",
-      "alt_text": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Planning fluency improvement through rereading",
-        "is_correct": false
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": true
-      },
-      {
-        "text": "Look for fluency and check the whole example.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Sound without meaning. is the mix-up. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY04-P-029",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_09_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017",
-      "alt_text": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Frog",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can monitor meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Read one word at a time without natural phrasing. is the mix-up. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY04-P-030",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_10_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019",
-      "alt_text": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": true
-      },
-      {
-        "text": "All three sources matched correctly",
-        "is_correct": false
-      },
-      {
-        "text": "Recognising complementary reading cues.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Do not look at the letters and sounds. is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY04-P-031",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_01_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001",
-      "alt_text": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      },
-      {
-        "text": "Map",
-        "is_correct": true
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Map uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY04-P-032",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_02_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003",
-      "alt_text": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause",
-        "is_correct": false
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation uses the skill correctly. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY04-P-033",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_03_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005",
-      "alt_text": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Groups words meaningfully and links pause to comma/phrase meaning",
-        "is_correct": true
-      },
-      {
-        "text": "After lunch, / the small dog / slept under the bench",
-        "is_correct": false
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Groups words meaningfully and links pause to comma/phrase meaning uses the skill correctly. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY04-P-034",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_04_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007",
-      "alt_text": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "The fish sat in the tree",
-        "is_correct": false
-      },
-      {
-        "text": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess",
-        "is_correct": true
-      },
-      {
-        "text": "The fin sat in the tray",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY04-P-035",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_05_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009",
-      "alt_text": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "reread smoothly → check meaning → blend sounds → Look through word",
-        "is_correct": false
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Look through word → blend sounds → check meaning → reread smoothly",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look through word → blend sounds → check meaning → reread smoothly uses the skill correctly. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY04-P-036",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_06_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011",
-      "alt_text": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Correct two phrase groups marked without splitting determiners from nouns",
-        "is_correct": true
-      },
-      {
-        "text": "The red crab hid / beneath a flat rock",
-        "is_correct": false
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Correct two phrase groups marked without splitting determiners from nouns uses the skill correctly. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY04-P-037",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_07_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013",
-      "alt_text": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "The birds fly",
-        "is_correct": false
-      },
-      {
-        "text": "'The birds fly'; plural birds agrees with fly in standard sentence pattern",
-        "is_correct": true
-      },
-      {
-        "text": "The birds flies",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "'The birds fly'; plural birds agrees with fly in standard sentence pattern uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY04-P-038",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_08_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015",
-      "alt_text": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      },
-      {
-        "text": "Planning fluency improvement through rereading",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Planning fluency improvement through rereading uses the skill correctly. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY04-P-039",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_09_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017",
-      "alt_text": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Frog",
-        "is_correct": true
-      },
-      {
-        "text": "Read one word at a time without natural phrasing.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Frog uses the skill correctly. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY04-P-040",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04_10_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019",
-      "alt_text": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      },
-      {
-        "text": "All three sources matched correctly",
-        "is_correct": true
-      },
-      {
-        "text": "Sound without meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "All three sources matched correctly uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY04-T-001",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_01_answer",
-    "question": "Which response would correctly show two readings?",
-    "audio_prompt": "Which response would correctly show two readings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-001",
-      "alt_text": "📖 show two readings; 🔎 phonics; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Fluent reading groups words, observes comma/exclamation and conveys plea; explanation identifies improvement",
-        "is_correct": true
-      },
-      {
-        "text": "No, wait for me",
-        "is_correct": false
-      },
-      {
-        "text": "Do not look at the letters and sounds.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Fluent reading groups words, observes comma/exclamation and conveys plea; explanation identifies improvement This matches the task.",
-      "hint": "Look at the letters and sounds."
+      "summary": "Read the middle letter in pen carefully; the sentence places the hen in the pen.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LY04-T-002",
+    "id": "ac9e1ly04-er4-p-002",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_01_strategy",
-    "question": "Which tip would help you show two readings?",
-    "audio_prompt": "Which tip would help you show two readings?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Choose the word that fits: 'The hen laid an ___.'",
+    "audio_prompt": "Choose the word that fits: 'The hen laid an ___.'",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-002",
-      "alt_text": "🧠 show two readings; ➡️ Look at letters; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Sound without meaning.",
+        "text": "elf",
         "is_correct": false
       },
       {
-        "text": "Look at the letters and sounds.",
+        "text": "egg",
         "is_correct": true
       },
       {
-        "text": "Read one word at a time without natural phrasing.",
+        "text": "end",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "Egg names what a hen lays; reading all the letters distinguishes the three short words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LY04-T-003",
+    "id": "ac9e1ly04-er4-p-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_02_answer",
-    "question": "Which response would correctly draw a self-monitor path?",
-    "audio_prompt": "Which response would correctly draw a self-monitor path?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'Tim hid the lid.' What did Tim hide?",
+    "audio_prompt": "Read: 'Tim hid the lid.' What did Tim hide?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-003",
-      "alt_text": "📖 Draw a self-monitor path; 🔎 phrasing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Sound without meaning.",
+        "text": "The lad",
         "is_correct": false
       },
       {
-        "text": "Read one word at a time without natural phrasing.",
+        "text": "The log",
         "is_correct": false
       },
       {
-        "text": "Four accurate actions in a useful sequence",
+        "text": "The lid",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Four accurate actions in a useful sequence This matches the task.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "The word lid names what Tim hid; the other choices change the vowel or ending.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LY04-T-004",
+    "id": "ac9e1ly04-er4-p-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_02_strategy",
-    "question": "Which tip would help you draw a self-monitor path?",
-    "audio_prompt": "Which tip would help you draw a self-monitor path?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Which word completes the sentence? 'The duck can ___ in the pond.'",
+    "audio_prompt": "Which word completes the sentence? 'The duck can ___ in the pond.'",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-004",
-      "alt_text": "🧠 Draw a self-monitor path; ➡️ Blend/recognise; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
+        "text": "swim",
         "is_correct": true
       },
       {
-        "text": "Read one word at a time without natural phrasing.",
+        "text": "swam",
         "is_correct": false
       },
       {
-        "text": "Do not look at the letters and sounds.",
+        "text": "swum",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "After can we use swim, so both the word's meaning and the sentence grammar fit.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LY04-T-005",
+    "id": "ac9e1ly04-er4-p-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_03_answer",
-    "question": "Which response would correctly repair meaning after error?",
-    "audio_prompt": "Which response would correctly repair meaning after error?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The crab is on a rock.' Which animal is named?",
+    "audio_prompt": "Read: 'The crab is on a rock.' Which animal is named?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-005",
-      "alt_text": "📖 Repair meaning after error; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "The goat floats past the boat",
+        "text": "crib",
         "is_correct": false
       },
       {
-        "text": "Flies does not match the letters in floats and changes the water context; reader reblends floats and rereads",
+        "text": "crab",
         "is_correct": true
       },
       {
-        "text": "The goat flies past the boat",
+        "text": "cab",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Flies does not match the letters in floats and changes the water context; reader reblends floats and rereads This matches the task.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "Read the whole beginning blend cr and the vowel a to identify crab.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LY04-T-006",
+    "id": "ac9e1ly04-er4-p-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_03_strategy",
-    "question": "Which tip would help you repair meaning after error?",
-    "audio_prompt": "Which tip would help you repair meaning after error?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'She shut the shed.' What did she shut?",
+    "audio_prompt": "Read: 'She shut the shed.' What did she shut?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-006",
-      "alt_text": "🧠 Repair meaning after error; ➡️ Read phrase; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Do not look at the letters and sounds.",
+        "text": "The ship",
         "is_correct": false
       },
       {
-        "text": "Sound without meaning.",
+        "text": "The shop",
         "is_correct": false
       },
       {
-        "text": "Look for fluency and check the whole example.",
+        "text": "The shed",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Look for fluency and check the whole example.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "The letters sh start all three words, so the rest of the word must also be read.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LY04-T-007",
+    "id": "ac9e1ly04-er4-p-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_04_answer",
-    "question": "Which response would correctly read and explain strategy?",
-    "audio_prompt": "Which response would correctly read and explain strategy?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Choose the word that fits: 'The ___ has ten toes.'",
+    "audio_prompt": "Choose the word that fits: 'The ___ has ten toes.'",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-007",
-      "alt_text": "📖 Read and explain strategy; 🔎 context; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Accurate reading plus specific evidence for sound blending, pause/grouping and sense/grammar check",
+        "text": "child",
         "is_correct": true
       },
       {
-        "text": "At dusk, the small moth flaps near the lamp. It stops on the wall",
+        "text": "chill",
         "is_correct": false
       },
       {
-        "text": "Do not look at the letters and sounds.",
+        "text": "chin",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Accurate reading plus specific evidence for sound blending, pause/grouping and sense/grammar check This matches the task.",
-      "hint": "Look at the letters and sounds."
+      "summary": "Child names a person who can have ten toes; the other similar-looking words do not fit.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LY04-T-008",
+    "id": "ac9e1ly04-er4-p-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_04_strategy",
-    "question": "Which tip would help you read and explain strategy?",
-    "audio_prompt": "Which tip would help you read and explain strategy?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The goat ate the hay.' What did the goat eat?",
+    "audio_prompt": "Read: 'The goat ate the hay.' What did the goat eat?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-008",
-      "alt_text": "🧠 Read and explain strategy; ➡️ Check meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Sound without meaning.",
+        "text": "hit",
         "is_correct": false
       },
       {
-        "text": "Check that you can monitor meaning.",
+        "text": "hay",
         "is_correct": true
       },
       {
-        "text": "Read one word at a time without natural phrasing.",
+        "text": "hat",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check that you can monitor meaning.",
-      "hint": "Look at the letters and sounds."
+      "summary": "The ay in hay helps identify the food; checking every letter prevents a similar-word guess.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LY04-T-009",
+    "id": "ac9e1ly04-er4-p-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_01_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The red van is at the shop. Dad gets in it.' What does 'it' mean here?",
+    "audio_prompt": "Read: 'The red van is at the shop. Dad gets in it.' What does 'it' mean here?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-002",
-      "alt_text": "🧠 show two readings; ➡️ Look at letters; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "No, wait for me",
+        "text": "The shop",
         "is_correct": false
       },
       {
-        "text": "Do not look at the letters and sounds.",
+        "text": "Dad",
         "is_correct": false
       },
       {
-        "text": "Look at the letters and sounds.",
+        "text": "The van",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Look at the letters and sounds. is the useful check. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "The second sentence refers back to the van that Dad gets into.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "verify"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LY04-T-010",
+    "id": "ac9e1ly04-er4-p-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_02_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Choose the word that fits both meaning and grammar: 'Yesterday, we ___ to the park.'",
+    "audio_prompt": "Choose the word that fits both meaning and grammar: 'Yesterday, we ___ to the park.'",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-004",
-      "alt_text": "🧠 Draw a self-monitor path; ➡️ Blend/recognise; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
+        "text": "went",
         "is_correct": true
       },
       {
-        "text": "Sound without meaning.",
+        "text": "go",
         "is_correct": false
       },
       {
-        "text": "Read one word at a time without natural phrasing.",
+        "text": "going",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read. is the useful check. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "Yesterday signals a past event, and went makes the sentence grammatically complete.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "verify"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LY04-T-011",
+    "id": "ac9e1ly04-er4-p-011",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_03_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'Meg put the cups on the tray.' A child reads 'traps' instead of 'tray'. Which word is actually printed?",
+    "audio_prompt": "Read: 'Meg put the cups on the tray.' A child reads 'traps' instead of 'tray'. Which word is actually printed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-006",
-      "alt_text": "🧠 Repair meaning after error; ➡️ Read phrase; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "The goat floats past the boat",
+        "text": "train",
         "is_correct": false
       },
       {
-        "text": "Look for fluency and check the whole example.",
+        "text": "tray",
         "is_correct": true
       },
       {
-        "text": "The goat flies past the boat",
+        "text": "traps",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Look for fluency and check the whole example. is the useful check. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "Check the complete printed word: tray ends in ay, not ps or in.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "verify"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LY04-T-012",
+    "id": "ac9e1ly04-er4-p-012",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_04_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The frog sat on a log. It then leapt off.' Which happened first?",
+    "audio_prompt": "Read: 'The frog sat on a log. It then leapt off.' Which happened first?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-008",
-      "alt_text": "🧠 Read and explain strategy; ➡️ Check meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "At dusk, the small moth flaps near the lamp. It stops on the wall",
+        "text": "The frog leapt off.",
         "is_correct": false
       },
       {
-        "text": "Do not look at the letters and sounds.",
+        "text": "The frog went to sleep.",
         "is_correct": false
       },
       {
-        "text": "Check that you can monitor meaning.",
+        "text": "The frog sat on the log.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check that you can monitor meaning. is the useful check. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "Reading both sentences and the word then shows that sitting came before leaping.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "verify"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LY04-T-013",
+    "id": "ac9e1ly04-er4-p-013",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_01_test_apply",
-    "question": "A classmate chose “No, wait for me”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose No, wait for me. Which answer would improve their response?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Choose the word that fits: 'I can hear the bell ___.'",
+    "audio_prompt": "Choose the word that fits: 'I can hear the bell ___.'",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-001",
-      "alt_text": "📖 show two readings; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Fluent reading groups words, observes comma/exclamation and conveys plea; explanation identifies improvement",
+        "text": "ring",
         "is_correct": true
       },
       {
-        "text": "No, wait for me",
+        "text": "rang",
         "is_correct": false
       },
       {
-        "text": "Do not look at the letters and sounds.",
+        "text": "rung",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Fluent reading groups words, observes comma/exclamation and conveys plea; explanation identifies improvement is the stronger response because it uses the target skill. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "Ring completes the sentence naturally after hear the bell, unlike the other verb forms.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "apply"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LY04-T-014",
+    "id": "ac9e1ly04-er4-p-014",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_02_test_apply",
-    "question": "A classmate chose “Sound without meaning.”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose Sound without meaning.. Which answer would improve their response?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The gate is shut, but the shed is open.' Which place is open?",
+    "audio_prompt": "Read: 'The gate is shut, but the shed is open.' Which place is open?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-003",
-      "alt_text": "📖 Draw a self-monitor path; 🔎 phrasing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Sound without meaning.",
+        "text": "Both places",
         "is_correct": false
       },
       {
-        "text": "Four accurate actions in a useful sequence",
+        "text": "The shed",
         "is_correct": true
       },
       {
-        "text": "Read one word at a time without natural phrasing.",
+        "text": "The gate",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Four accurate actions in a useful sequence is the stronger response because it uses the target skill. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "The word but links two different states; the second part says the shed is open.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "apply"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LY04-T-015",
+    "id": "ac9e1ly04-er4-p-015",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_03_test_apply",
-    "question": "A classmate chose “The goat floats past the boat”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose The goat floats past the boat. Which answer would improve their response?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'Please bring the green bag, not the red one.' Which bag is wanted?",
+    "audio_prompt": "Read: 'Please bring the green bag, not the red one.' Which bag is wanted?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-005",
-      "alt_text": "📖 Repair meaning after error; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "The goat floats past the boat",
+        "text": "The red bag",
         "is_correct": false
       },
       {
-        "text": "The goat flies past the boat",
+        "text": "Both bags",
         "is_correct": false
       },
       {
-        "text": "Flies does not match the letters in floats and changes the water context; reader reblends floats and rereads",
+        "text": "The green bag",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Flies does not match the letters in floats and changes the water context; reader reblends floats and rereads is the stronger response because it uses the target skill. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "Read through not before deciding; it rules out the red bag.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "apply"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LY04-T-016",
+    "id": "ac9e1ly04-er4-p-016",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY04",
-    "bank": "test",
-    "skill": "ac9e1ly04_04_test_apply",
-    "question": "A classmate chose “At dusk, the small moth flaps near the lamp. It stops on the wall”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose At dusk, the small moth flaps near the lamp. It stops on the wall. Which answer would improve their response?",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'When the rain stops, we can play.' When can they play?",
+    "audio_prompt": "Read: 'When the rain stops, we can play.' When can they play?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-007",
-      "alt_text": "📖 Read and explain strategy; 🔎 context; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Accurate reading plus specific evidence for sound blending, pause/grouping and sense/grammar check",
+        "text": "After the rain stops",
         "is_correct": true
       },
       {
-        "text": "At dusk, the small moth flaps near the lamp. It stops on the wall",
+        "text": "Before the rain starts to stop",
         "is_correct": false
       },
       {
-        "text": "Do not look at the letters and sounds.",
+        "text": "Only while it is raining",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Accurate reading plus specific evidence for sound blending, pause/grouping and sense/grammar check is the stronger response because it uses the target skill. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "The first part gives the condition for playing: the rain needs to stop.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "apply"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The ship is at the dock.' A child reads 'shop'. What should they check first?",
+    "audio_prompt": "Read: 'The ship is at the dock.' A child reads 'shop'. What should they check first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The size of the printed letters",
+        "is_correct": false
+      },
+      {
+        "text": "The middle vowel in ship",
+        "is_correct": true
+      },
+      {
+        "text": "Only the first letter s",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ship and shop share other letters, so checking i rather than o resolves the misreading.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The dog ran past the gate.' A child reads 'pant' for 'past'. Which word matches all the printed letters?",
+    "audio_prompt": "Read: 'The dog ran past the gate.' A child reads 'pant' for 'past'. Which word matches all the printed letters?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "pant",
+        "is_correct": false
+      },
+      {
+        "text": "part",
+        "is_correct": false
+      },
+      {
+        "text": "past",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Past has s before t; reading all the letters distinguishes it from the similar words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'At the end of the path, we sat down.' Which group of words belongs together as the opening phrase?",
+    "audio_prompt": "Read: 'At the end of the path, we sat down.' Which group of words belongs together as the opening phrase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "At the end of the path",
+        "is_correct": true
+      },
+      {
+        "text": "At the end of the",
+        "is_correct": false
+      },
+      {
+        "text": "At the",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The full opening phrase tells where the action happens and can be read as one meaningful group.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The cats are sleeping.' Which sentence keeps the same meaning?",
+    "audio_prompt": "Read: 'The cats are sleeping.' Which sentence keeps the same meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cats have just woken up.",
+        "is_correct": false
+      },
+      {
+        "text": "More than one cat is asleep.",
+        "is_correct": true
+      },
+      {
+        "text": "One cat is about to sleep.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The s in cats and the word are show more than one; sleeping tells their current state.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'I thought the box was empty, but a bell was inside.' Why must you read to the end?",
+    "audio_prompt": "Read: 'I thought the box was empty, but a bell was inside.' Why must you read to the end?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first part already tells everything correctly",
+        "is_correct": false
+      },
+      {
+        "text": "The ending only repeats that it was empty",
+        "is_correct": false
+      },
+      {
+        "text": "The ending changes what we learn about the box",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "But introduces information that corrects the speaker's first thought.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The snail slid under the leaf.' A child says 'over' because it seems possible. What is the better way to check?",
+    "audio_prompt": "Read: 'The snail slid under the leaf.' A child says 'over' because it seems possible. What is the better way to check?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Read the printed word under and its letters",
+        "is_correct": true
+      },
+      {
+        "text": "Choose whichever position is easier to imagine",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the position word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Meaning helps check reading, but it does not replace reading the word actually printed.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'Stop! The ball is in the road.' What does the exclamation mark help show?",
+    "audio_prompt": "Read: 'Stop! The ball is in the road.' What does the exclamation mark help show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The reader should leave out the word Stop",
+        "is_correct": false
+      },
+      {
+        "text": "The first word needs a strong, urgent reading",
+        "is_correct": true
+      },
+      {
+        "text": "The whole text should be read as a question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The exclamation mark and road warning support urgency; they do not change the printed words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'We can go after lunch.' Which reading keeps the words and meaning together?",
+    "audio_prompt": "Read: 'We can go after lunch.' Which reading keeps the words and meaning together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We can / go after / lunch after.",
+        "is_correct": false
+      },
+      {
+        "text": "We can go / before lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "We can go / after lunch.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The first choice preserves all the words and groups the time phrase naturally.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'A pig dug in the mud.' Where did the pig dig?",
+    "audio_prompt": "Read: 'A pig dug in the mud.' Where did the pig dig?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "In the mud",
+        "is_correct": true
+      },
+      {
+        "text": "In the mat",
+        "is_correct": false
+      },
+      {
+        "text": "In the mug",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The final word is mud; its last consonant distinguishes it from mug.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Choose the word that fits: 'The fish has a red ___ on its side.'",
+    "audio_prompt": "Choose the word that fits: 'The fish has a red ___ on its side.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "fun",
+        "is_correct": false
+      },
+      {
+        "text": "fin",
+        "is_correct": true
+      },
+      {
+        "text": "fan",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Fin names a fish body part and fits the sentence; the middle vowel distinguishes the choices.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The sled slid down the hill.' What went down the hill?",
+    "audio_prompt": "Read: 'The sled slid down the hill.' What went down the hill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A seed",
+        "is_correct": false
+      },
+      {
+        "text": "A shed",
+        "is_correct": false
+      },
+      {
+        "text": "A sled",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The letters sl begin sled; reading the whole word identifies the object correctly.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Choose the word that fits: 'The chicks ___ in the nest now.'",
+    "audio_prompt": "Choose the word that fits: 'The chicks ___ in the nest now.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "are",
+        "is_correct": true
+      },
+      {
+        "text": "was",
+        "is_correct": false
+      },
+      {
+        "text": "is",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Chicks names more than one, so are fits the present-time sentence.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The boat is by the bank.' Which word names the thing by the bank?",
+    "audio_prompt": "Read: 'The boat is by the bank.' Which word names the thing by the bank?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "beat",
+        "is_correct": false
+      },
+      {
+        "text": "boat",
+        "is_correct": true
+      },
+      {
+        "text": "boot",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The oa in boat distinguishes it from the other similar-looking words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The kite rose above the roof.' What rose?",
+    "audio_prompt": "Read: 'The kite rose above the roof.' What rose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The kit",
+        "is_correct": false
+      },
+      {
+        "text": "The cat",
+        "is_correct": false
+      },
+      {
+        "text": "The kite",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The final e is part of kite and helps distinguish it from kit.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Choose the word that fits: 'Last night, the wind ___ hard.'",
+    "audio_prompt": "Choose the word that fits: 'Last night, the wind ___ hard.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "blew",
+        "is_correct": true
+      },
+      {
+        "text": "blow",
+        "is_correct": false
+      },
+      {
+        "text": "blowing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Last night places the action in the past, so blew completes the sentence correctly.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The lamp is on, but the fan is off.' Which is off?",
+    "audio_prompt": "Read: 'The lamp is on, but the fan is off.' Which is off?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both",
+        "is_correct": false
+      },
+      {
+        "text": "The fan",
+        "is_correct": true
+      },
+      {
+        "text": "The lamp",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reading the second part carefully shows that off describes the fan alone.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'Nell took off her coat and hung it up.' What does 'it' refer to?",
+    "audio_prompt": "Read: 'Nell took off her coat and hung it up.' What does 'it' refer to?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Nell",
+        "is_correct": false
+      },
+      {
+        "text": "A hook not named in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Her coat",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The coat is the object Nell took off and then hung up.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The chick pecked at a seed.' A child reads 'check' for 'chick'. What letters need closer checking?",
+    "audio_prompt": "Read: 'The chick pecked at a seed.' A child reads 'check' for 'chick'. What letters need closer checking?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The middle vowel i",
+        "is_correct": true
+      },
+      {
+        "text": "Only the ending ck",
+        "is_correct": false
+      },
+      {
+        "text": "Only the beginning ch",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The two words share ch and ck; the middle vowel identifies the printed word.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'Before bed, Sam fed the cat.' Which came first?",
+    "audio_prompt": "Read: 'Before bed, Sam fed the cat.' Which came first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The text says both happened at once.",
+        "is_correct": false
+      },
+      {
+        "text": "Sam fed the cat.",
+        "is_correct": true
+      },
+      {
+        "text": "Sam went to bed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Before bed tells us that feeding happened earlier than going to bed.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The cup was not full.' Why is the word 'not' important?",
+    "audio_prompt": "Read: 'The cup was not full.' Why is the word 'not' important?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It tells us the cup was red",
+        "is_correct": false
+      },
+      {
+        "text": "It can be skipped without changing meaning",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the meaning from full to not full",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Small words can change a sentence's meaning, so not must be read and understood.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'Beside the tall tree, a small dog waited.' Which opening phrase belongs together?",
+    "audio_prompt": "Read: 'Beside the tall tree, a small dog waited.' Which opening phrase belongs together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Beside the tall tree",
+        "is_correct": true
+      },
+      {
+        "text": "Beside the tall",
+        "is_correct": false
+      },
+      {
+        "text": "Beside the",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The complete phrase tells the dog's location and forms a meaningful reading group.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'Can you see the nest?' What does the question mark show?",
+    "audio_prompt": "Read: 'Can you see the nest?' What does the question mark show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sentence has ended a list",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence asks something",
+        "is_correct": true
+      },
+      {
+        "text": "The sentence gives an urgent command",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wording and question mark show a question; it is not an instruction or list.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The pond looked still. Then a duck splashed into it.' What changes as you keep reading?",
+    "audio_prompt": "Read: 'The pond looked still. Then a duck splashed into it.' What changes as you keep reading?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The duck leaves before the water is still.",
+        "is_correct": false
+      },
+      {
+        "text": "The pond stays completely still.",
+        "is_correct": false
+      },
+      {
+        "text": "The still water is disturbed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Then links the events, and splashed shows movement after the pond looked still.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly04-er4-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY04",
+    "bank": "test",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "question": "Read: 'The flag flapped in the wind.' A child guesses 'flower' from the first two letters. Which check is best?",
+    "audio_prompt": "Read: 'The flag flapped in the wind.' A child guesses 'flower' from the first two letters. Which check is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Read all the letters in flag, then check the sentence",
+        "is_correct": true
+      },
+      {
+        "text": "Use only fl because both words start that way",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the longer word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reading the whole word prevents a guess based only on its beginning; context is a check.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-correct-short-vowel-word",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
   }
 ]

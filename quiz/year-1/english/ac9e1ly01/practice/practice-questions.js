@@ -1,1162 +1,746 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly01-p-001",
+    "id": "ac9e1ly01-er4-p-001",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 01 recognise",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly identify instruction purpose?",
-    "audioPrompt": "Which response would correctly identify instruction purpose?",
-    "visual": "📖 Identify instruction purpose; 🔎 feature; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify instruction purpose; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-001\"></use></svg>",
+    "question": "Read: 'Mix the oats and milk. Stir well.' What is this text mainly for?",
+    "audioPrompt": "Read: 'Mix the oats and milk. Stir well.' What is this text mainly for?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-001",
-      "alt_text": "📖 Identify instruction purpose; 🔎 feature; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "To instruct/show how to make something",
-      "Cut on the line. Fold the paper. Tape the sides",
-      "Do not use features as evidence."
+      "Showing how to prepare food",
+      "Telling a story about oats",
+      "Inviting someone to a meal"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "To instruct/show how to make something This matches the task.\nHint: Use features as evidence.",
+    "explanation": "The action words Mix and Stir give steps for preparing food.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "To instruct/show how to make something This matches the task.",
-      "hint": "Use features as evidence."
+      "summary": "The action words Mix and Stir give steps for preparing food.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-002",
+    "id": "ac9e1ly01-er4-p-002",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 02 recognise",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match features and purposes?",
-    "audioPrompt": "Which response would correctly match features and purposes?",
-    "visual": "📖 Match features and purposes; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match features and purposes; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-003\"></use></svg>",
+    "question": "Read: 'Come to our picnic! Saturday at 12, beside the lake.' Why are the time and place included?",
+    "audioPrompt": "Read: 'Come to our picnic! Saturday at 12, beside the lake.' Why are the time and place included?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-003",
-      "alt_text": "📖 Match features and purposes; 🔎 purpose; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "feature features ↔ entertain; labelled facts ↔ inform; event details ↔ invite",
-      "purpose features ↔ entertain; labelled facts ↔ inform; event details ↔ invite",
-      "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite"
+      "To describe what a picnic tastes like",
+      "To help guests know when and where to go",
+      "To explain how lakes are formed"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "An invitation gives a time and place so guests can attend the event.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "An invitation gives a time and place so guests can attend the event.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly01-er4-p-003",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "skill": "text features indicating purposes",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'A snail has a soft body and a shell.' What is the main purpose?",
+    "audioPrompt": "Read: 'A snail has a soft body and a shell.' What is the main purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "To ask someone to buy a snail",
+      "To tell a snail adventure",
+      "To give information about snails"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite This matches the task.\nHint: Check more than one clue if possible.",
+    "explanation": "The sentence gives facts about a snail's body rather than a story or request.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite This matches the task.",
-      "hint": "Check more than one clue if possible."
+      "summary": "The sentence gives facts about a snail's body rather than a story or request.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-003",
+    "id": "ac9e1ly01-er4-p-004",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 03 recognise",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly discuss a warning sign?",
-    "audioPrompt": "Which response would correctly discuss a warning sign?",
-    "visual": "📖 Discuss a warning sign; 🔎 story; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discuss a warning sign; 🔎 story; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-005\"></use></svg>",
+    "question": "Read: 'Please choose our park for the trip. It has room for games.' What is the writer trying to do?",
+    "audioPrompt": "Read: 'Please choose our park for the trip. It has room for games.' What is the writer trying to do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-005",
-      "alt_text": "📖 Discuss a warning sign; 🔎 story; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Wet floor—walk slowly",
-      "Words give safe action; image quickly shows hazard; both warn/instruct",
-      "Leave out purpose word."
+      "Get the reader to choose the park",
+      "Explain how to play a game",
+      "Tell when the park was built"
     ],
-    "correct": 1,
-    "explanation": "Words give safe action; image quickly shows hazard; both warn/instruct This matches the task.\nHint: Name the purpose clearly.",
-    "structuredExplanation": {
-      "summary": "Words give safe action; image quickly shows hazard; both warn/instruct This matches the task.",
-      "hint": "Name the purpose clearly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-004",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 04 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly find a persuasive feature?",
-    "audioPrompt": "Which response would correctly find a persuasive feature?",
-    "visual": "📖 Find a persuasive feature; 🔎 poster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a persuasive feature; 🔎 poster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-007",
-      "alt_text": "📖 Find a persuasive feature; 🔎 poster; ✅ choose with evidence"
-    },
-    "answers": [
-      "It recommends a choice and gives a supporting reason",
-      "Choose the reusable bottle because it can be filled again",
-      "Do not use features as evidence."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "It recommends a choice and gives a supporting reason This matches the task.\nHint: Use features as evidence.",
+    "explanation": "The writer asks for a choice and gives a reason to support that choice.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "It recommends a choice and gives a supporting reason This matches the task.",
-      "hint": "Use features as evidence."
+      "summary": "The writer asks for a choice and gives a reason to support that choice.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-005",
+    "id": "ac9e1ly01-er4-p-005",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 05 recognise",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order an invitation?",
-    "audioPrompt": "Which response would correctly order an invitation?",
-    "visual": "📖 Order an invitation; 🔎 report; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order an invitation; 🔎 report; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-009\"></use></svg>",
+    "question": "Read: 'Milo opened the tiny door. A dragon sneezed inside.' What is this opening mainly doing?",
+    "audioPrompt": "Read: 'Milo opened the tiny door. A dragon sneezed inside.' What is this opening mainly doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-009",
-      "alt_text": "📖 Order an invitation; 🔎 report; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "closing; accepts event name before greeting if clear → event details → Greeting/event name",
-      "Do not check more than one clue if possible.",
-      "Greeting/event name → event details → closing; accepts event name before greeting if clear"
+      "Giving directions to a shop",
+      "Starting a story",
+      "Listing facts about doors"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "A character discovers something surprising, which begins a story event.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A character discovers something surprising, which begins a story event.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly01-er4-p-006",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "skill": "text features indicating purposes",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'Library closed today. Open again on Monday.' What does this notice help readers know?",
+    "audioPrompt": "Read: 'Library closed today. Open again on Monday.' What does this notice help readers know?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which story they should read",
+      "How to write a library book",
+      "When they can use the library"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Greeting/event name → event details → closing; accepts event name before greeting if clear This matches the task.\nHint: Check more than one clue if possible.",
+    "explanation": "The notice gives opening information so readers can plan a visit.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Greeting/event name → event details → closing; accepts event name before greeting if clear This matches the task.",
-      "hint": "Check more than one clue if possible."
+      "summary": "The notice gives opening information so readers can plan a visit.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-006",
+    "id": "ac9e1ly01-er4-p-007",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 06 recognise",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw a report feature?",
-    "audioPrompt": "Which response would correctly draw a report feature?",
-    "visual": "📖 Draw a report feature; 🔎 feature; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a report feature; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-011\"></use></svg>",
+    "question": "Read: 'Dear Jo, thank you for helping me carry my bag. From Ali.' Why was this note written?",
+    "audioPrompt": "Read: 'Dear Jo, thank you for helping me carry my bag. From Ali.' Why was this note written?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-011",
-      "alt_text": "📖 Draw a report feature; 🔎 feature; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out purpose word.",
-      "All three features present and suited to informing readers",
-      "Do not use features as evidence."
+      "To thank Jo",
+      "To invite Jo to a party",
+      "To explain how bags are made"
     ],
-    "correct": 1,
-    "explanation": "All three features present and suited to informing readers This matches the task.\nHint: Name the purpose clearly.",
-    "structuredExplanation": {
-      "summary": "All three features present and suited to informing readers This matches the task.",
-      "hint": "Name the purpose clearly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-007",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 07 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly compare two purposes?",
-    "audioPrompt": "Which response would correctly compare two purposes?",
-    "visual": "📖 Compare two purposes; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two purposes; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-013",
-      "alt_text": "📖 Compare two purposes; 🔎 purpose; ✅ choose with evidence"
-    },
-    "answers": [
-      "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade",
-      "Do not use features as evidence.",
-      "Do not check more than one clue if possible."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade This matches the task.\nHint: Use features as evidence.",
+    "explanation": "The words thank you and the named helpful action show the note's purpose.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade This matches the task.",
-      "hint": "Use features as evidence."
+      "summary": "The words thank you and the named helpful action show the note's purpose.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-008",
+    "id": "ac9e1ly01-er4-p-008",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 08 recognise",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly choose evidence for purpose?",
-    "audioPrompt": "Which response would correctly choose evidence for purpose?",
-    "visual": "📖 Choose evidence for purpose; 🔎 story; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose evidence for purpose; 🔎 story; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-015\"></use></svg>",
+    "question": "Read: 'LOST: small red scarf. Please give it to the school office.' What does the writer want?",
+    "audioPrompt": "Read: 'LOST: small red scarf. Please give it to the school office.' What does the writer want?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-015",
-      "alt_text": "📖 Choose evidence for purpose; 🔎 story; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Instructional feature with any two named features as evidence",
-      "Instructional poster with any two named features as evidence",
-      "Instructional purpose with any two named features as evidence"
+      "Advice about washing scarves",
+      "Help getting the scarf back",
+      "Someone to buy a new scarf"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The description helps people recognise the lost scarf and return it.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The description helps people recognise the lost scarf and return it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly01-er4-p-009",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "skill": "text features indicating purposes",
+    "printable": true,
+    "type": "single",
+    "question": "A page says 'You need: paper, glue. 1. Fold the paper. 2. Glue the edges.' Which feature helps you follow the task in order?",
+    "audioPrompt": "A page says 'You need: paper, glue. 1. Fold the paper. 2. Glue the edges.' Which feature helps you follow the task in order?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The word paper appearing twice",
+      "The short title of the page",
+      "The numbered steps"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Instructional purpose with any two named features as evidence This matches the task.\nHint: Check more than one clue if possible.",
+    "explanation": "Numbers show which action to do first and which action comes next.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Instructional purpose with any two named features as evidence This matches the task.",
-      "hint": "Check more than one clue if possible."
+      "summary": "Numbers show which action to do first and which action comes next.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-009",
+    "id": "ac9e1ly01-er4-p-010",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 09 recognise",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly recognise an imaginative text?",
-    "audioPrompt": "Which response would correctly recognise an imaginative text?",
-    "visual": "📖 Recognise an imaginative text; 🔎 poster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise an imaginative text; 🔎 poster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-017\"></use></svg>",
+    "question": "A poster says 'Try our fruit cups! Fresh, sweet and ready to eat.' Which words most clearly encourage people to choose them?",
+    "audioPrompt": "A poster says 'Try our fruit cups! Fresh, sweet and ready to eat.' Which words most clearly encourage people to choose them?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-017",
-      "alt_text": "📖 Recognise an imaginative text; 🔎 poster; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out purpose word.",
-      "To entertain/tell an imaginative story; impossible/fantastical characters and plot events",
-      "Do not use features as evidence."
+      "Try our fruit cups!",
+      "Ready to eat",
+      "Fruit cups"
     ],
-    "correct": 1,
-    "explanation": "To entertain/tell an imaginative story; impossible/fantastical characters and plot events This matches the task.\nHint: Name the purpose clearly.",
-    "structuredExplanation": {
-      "summary": "To entertain/tell an imaginative story; impossible/fantastical characters and plot events This matches the task.",
-      "hint": "Name the purpose clearly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-010",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 10 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match text openings?",
-    "audioPrompt": "Which response would correctly match text openings?",
-    "visual": "📖 Match text openings; 🔎 report; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match text openings; 🔎 report; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-019",
-      "alt_text": "📖 Match text openings; 🔎 report; ✅ choose with evidence"
-    },
-    "answers": [
-      "Each opening matched correctly",
-      "Once a tiny boat ___",
-      "Koalas are mammals ___"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Each opening matched correctly This matches the task.\nHint: Use features as evidence.",
+    "explanation": "Try is a direct invitation to choose the food, showing the poster's selling purpose.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Each opening matched correctly This matches the task.",
-      "hint": "Use features as evidence."
+      "summary": "Try is a direct invitation to choose the food, showing the poster's selling purpose.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-011",
+    "id": "ac9e1ly01-er4-p-011",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 01 explain",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you identify instruction purpose?",
-    "audioPrompt": "Which tip would help you identify instruction purpose?",
-    "visual": "🧠 Identify instruction purpose; ➡️ Look at text; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify instruction purpose; ➡️ Look at text; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-002\"></use></svg>",
+    "question": "A page labels a bird's 'wing', 'beak' and 'tail'. How do the labels help?",
+    "audioPrompt": "A page labels a bird's 'wing', 'beak' and 'tail'. How do the labels help?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-002",
-      "alt_text": "🧠 Identify instruction purpose; ➡️ Look at text; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check more than one clue if possible.",
-      "Use features as evidence.",
-      "Leave out purpose word."
+      "They ask the reader to keep a bird",
+      "They name parts of the bird",
+      "They tell a bird's adventure"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Use features as evidence.\nHint: Use features as evidence.",
+    "explanation": "Labels connect names with parts, helping a reader learn information.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Use features as evidence.",
-      "hint": "Use features as evidence."
+      "summary": "Labels connect names with parts, helping a reader learn information.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-012",
+    "id": "ac9e1ly01-er4-p-012",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 02 explain",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match features and purposes?",
-    "audioPrompt": "Which tip would help you match features and purposes?",
-    "visual": "🧠 Match features and purposes; ➡️ Notice feature; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match features and purposes; ➡️ Notice feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-004\"></use></svg>",
+    "question": "You need to know what to bring to swimming. Which text would help most?",
+    "audioPrompt": "You need to know what to bring to swimming. Which text would help most?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-004",
-      "alt_text": "🧠 Match features and purposes; ➡️ Notice feature; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Look at text → Notice feature → Infer purpose → Explain.",
-      "Leave out purpose word.",
-      "Do not use features as evidence."
+      "A story about a seal learning to swim",
+      "A poster asking people to join a swimming club",
+      "A class note listing towel, swimmers and goggles"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Look at text → Notice feature → Infer purpose → Explain.\nHint: Check more than one clue if possible.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Look at text → Notice feature → Infer purpose → Explain.",
-      "hint": "Check more than one clue if possible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-013",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 03 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you discuss a warning sign?",
-    "audioPrompt": "Which tip would help you discuss a warning sign?",
-    "visual": "🧠 Discuss a warning sign; ➡️ Infer purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Discuss a warning sign; ➡️ Infer purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-006",
-      "alt_text": "🧠 Discuss a warning sign; ➡️ Infer purpose; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not use features as evidence.",
-      "Do not check more than one clue if possible.",
-      "Look for story and check the whole example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Look for story and check the whole example.\nHint: Name the purpose clearly.",
+    "explanation": "The list tells you the equipment needed for your swimming session.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for story and check the whole example.",
-      "hint": "Name the purpose clearly."
+      "summary": "The list tells you the equipment needed for your swimming session.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-014",
+    "id": "ac9e1ly01-er4-p-013",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 04 explain",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you find a persuasive feature?",
-    "audioPrompt": "Which tip would help you find a persuasive feature?",
-    "visual": "🧠 Find a persuasive feature; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find a persuasive feature; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-008\"></use></svg>",
+    "question": "You want friends to attend your show. Which detail belongs on your invitation?",
+    "audioPrompt": "You want friends to attend your show. Which detail belongs on your invitation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-008",
-      "alt_text": "🧠 Find a persuasive feature; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check more than one clue if possible.",
-      "Check that you can compare texts.",
-      "Leave out purpose word."
+      "The day and starting time",
+      "A list of every show you have seen",
+      "Instructions for building the stage"
     ],
-    "correct": 1,
-    "explanation": "Check that you can compare texts.\nHint: Use features as evidence.",
-    "structuredExplanation": {
-      "summary": "Check that you can compare texts.",
-      "hint": "Use features as evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-015",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 05 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order an invitation?",
-    "audioPrompt": "Which tip would help you order an invitation?",
-    "visual": "🧠 Order an invitation; ➡️ Look at text; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order an invitation; ➡️ Look at text; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-010",
-      "alt_text": "🧠 Order an invitation; ➡️ Look at text; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing features of an invitation.",
-      "Leave out purpose word.",
-      "Do not use features as evidence."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Sequencing features of an invitation.\nHint: Check more than one clue if possible.",
+    "explanation": "Guests need to know when to attend, so the day and time support the invitation.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sequencing features of an invitation.",
-      "hint": "Check more than one clue if possible."
+      "summary": "Guests need to know when to attend, so the day and time support the invitation.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-016",
+    "id": "ac9e1ly01-er4-p-014",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 06 explain",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw a report feature?",
-    "audioPrompt": "Which tip would help you draw a report feature?",
-    "visual": "🧠 Draw a report feature; ➡️ Notice feature; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a report feature; ➡️ Notice feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-012\"></use></svg>",
+    "question": "Read: 'Walk past the hall. Turn left at the office.' What makes this useful as directions?",
+    "audioPrompt": "Read: 'Walk past the hall. Turn left at the office.' What makes this useful as directions?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-012",
-      "alt_text": "🧠 Draw a report feature; ➡️ Notice feature; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use features as evidence.",
-      "Do not check more than one clue if possible.",
-      "Name the purpose clearly."
+      "It tells how the office was built",
+      "It names places and tells where to turn",
+      "It explains why the hall is popular"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Named landmarks and turning instructions help a reader follow a route.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Named landmarks and turning instructions help a reader follow a route.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly01-er4-p-015",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "skill": "text features indicating purposes",
+    "printable": true,
+    "type": "single",
+    "question": "A book page says 'Contents: Bears 2; Frogs 6; Birds 10.' How does this feature help a reader?",
+    "audioPrompt": "A book page says 'Contents: Bears 2; Frogs 6; Birds 10.' How does this feature help a reader?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Decide which animal is nicest",
+      "Learn every fact on page 6",
+      "Find the page for a topic"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Name the purpose clearly.\nHint: Name the purpose clearly.",
+    "explanation": "A contents list links topics to page numbers so information can be found.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Name the purpose clearly.",
-      "hint": "Name the purpose clearly."
+      "summary": "A contents list links topics to page numbers so information can be found.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-017",
+    "id": "ac9e1ly01-er4-p-016",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 07 explain",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you compare two purposes?",
-    "audioPrompt": "Which tip would help you compare two purposes?",
-    "visual": "🧠 Compare two purposes; ➡️ Infer purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare two purposes; ➡️ Infer purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-014\"></use></svg>",
+    "question": "Read: 'No entry. The path is being repaired.' Why does the notice give a reason?",
+    "audioPrompt": "Read: 'No entry. The path is being repaired.' Why does the notice give a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-014",
-      "alt_text": "🧠 Compare two purposes; ➡️ Infer purpose; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check more than one clue if possible.",
-      "Use this routine: Look at text → Notice feature → Infer purpose → Explain.",
-      "Leave out purpose word."
+      "To explain why people must use another way",
+      "To begin a story about a path",
+      "To invite people to help with repairs"
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Look at text → Notice feature → Infer purpose → Explain.\nHint: Use features as evidence.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Look at text → Notice feature → Infer purpose → Explain.",
-      "hint": "Use features as evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-018",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 08 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you choose evidence for purpose?",
-    "audioPrompt": "Which tip would help you choose evidence for purpose?",
-    "visual": "🧠 Choose evidence for purpose; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose evidence for purpose; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-016",
-      "alt_text": "🧠 Choose evidence for purpose; ➡️ Explain; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for story and check the whole example.",
-      "Leave out purpose word.",
-      "Do not use features as evidence."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Look for story and check the whole example.\nHint: Check more than one clue if possible.",
+    "explanation": "The reason explains the restriction and helps readers understand the notice.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for story and check the whole example.",
-      "hint": "Check more than one clue if possible."
+      "summary": "The reason explains the restriction and helps readers understand the notice.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-019",
+    "id": "ac9e1ly01-er4-p-017",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 09 explain",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you recognise an imaginative text?",
-    "audioPrompt": "Which tip would help you recognise an imaginative text?",
-    "visual": "🧠 Recognise an imaginative text; ➡️ Look at text; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Recognise an imaginative text; ➡️ Look at text; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-018\"></use></svg>",
+    "question": "Text A says 'First, plant the seed.' Text B says 'Please plant a tree; it gives shade.' How are their main purposes different?",
+    "audioPrompt": "Text A says 'First, plant the seed.' Text B says 'Please plant a tree; it gives shade.' How are their main purposes different?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-018",
-      "alt_text": "🧠 Recognise an imaginative text; ➡️ Look at text; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use features as evidence.",
-      "Do not check more than one clue if possible.",
-      "Check that you can compare texts."
+      "A tells a story; B gives a step",
+      "A gives a step; B encourages an action",
+      "A encourages buying; B tells a story"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "First introduces an instruction, while please and the reason encourage planting.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "First introduces an instruction, while please and the reason encourage planting.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly01-er4-p-018",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "skill": "text features indicating purposes",
+    "printable": true,
+    "type": "single",
+    "question": "A text is headed 'Come to the fair' but gives no date. What important part of its purpose is harder to achieve?",
+    "audioPrompt": "A text is headed 'Come to the fair' but gives no date. What important part of its purpose is harder to achieve?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Helping readers spell the word fair",
+      "Helping readers imagine a character",
+      "Helping readers know when to attend"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Check that you can compare texts.\nHint: Name the purpose clearly.",
+    "explanation": "An event invitation needs a date so readers can plan to come.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Check that you can compare texts.",
-      "hint": "Name the purpose clearly."
+      "summary": "An event invitation needs a date so readers can plan to come.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-020",
+    "id": "ac9e1ly01-er4-p-019",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 10 explain",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match text openings?",
-    "audioPrompt": "Which tip would help you match text openings?",
-    "visual": "🧠 Match text openings; ➡️ Notice feature; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match text openings; ➡️ Notice feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-020\"></use></svg>",
+    "question": "Read: 'The frog leapt into a silver boat and sailed to the moon.' A child says it must be a fact page because it names a frog. What is the best reply?",
+    "audioPrompt": "Read: 'The frog leapt into a silver boat and sailed to the moon.' A child says it must be a fact page because it names a frog. What is the best reply?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-020",
-      "alt_text": "🧠 Match text openings; ➡️ Notice feature; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check more than one clue if possible.",
-      "Using opening language as a purpose clue.",
-      "Leave out purpose word."
+      "The impossible adventure is a story clue",
+      "All texts about frogs are fact pages",
+      "A fact page cannot mention an animal"
     ],
-    "correct": 1,
-    "explanation": "Using opening language as a purpose clue.\nHint: Use features as evidence.",
-    "structuredExplanation": {
-      "summary": "Using opening language as a purpose clue.",
-      "hint": "Use features as evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-021",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 01 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Identify instruction purpose; 🔎 feature; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify instruction purpose; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-001",
-      "alt_text": "📖 Identify instruction purpose; 🔎 feature; ✅ choose with evidence"
-    },
-    "answers": [
-      "Cut on the line. Fold the paper. Tape the sides",
-      "To instruct/show how to make something",
-      "Use features as evidence."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "Cut on the line. Fold the paper. Tape the sides is the mix-up. Use features as evidence.\nHint: Use features as evidence.",
+    "explanation": "Purpose depends on what the text does, not just its topic; this is an imagined adventure.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Cut on the line. Fold the paper. Tape the sides is the mix-up. Use features as evidence.",
-      "hint": "Use features as evidence."
+      "summary": "Purpose depends on what the text does, not just its topic; this is an imagined adventure.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-022",
+    "id": "ac9e1ly01-er4-p-020",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 02 discriminate",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match features and purposes; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match features and purposes; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-003\"></use></svg>",
+    "question": "A sign says 'Please walk. The floor is wet.' Which feature best shows its purpose?",
+    "audioPrompt": "A sign says 'Please walk. The floor is wet.' Which feature best shows its purpose?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-003",
-      "alt_text": "📖 Match features and purposes; 🔎 purpose; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite",
-      "feature features ↔ entertain; labelled facts ↔ inform; event details ↔ invite",
-      "Use this routine: Look at text → Notice feature → Infer purpose → Explain."
+      "It mentions a place indoors",
+      "It asks for an action and explains why",
+      "It has a word with three letters"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "feature features ↔ entertain; labelled facts ↔ inform; event details ↔ invite is the mix-up. Check more than one clue if possible.\nHint: Check more than one clue if possible.",
+    "explanation": "The request and reason show that the sign guides behaviour on the wet floor.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "feature features ↔ entertain; labelled facts ↔ inform; event details ↔ invite is the mix-up. Check more than one clue if possible.",
-      "hint": "Check more than one clue if possible."
+      "summary": "The request and reason show that the sign guides behaviour on the wet floor.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-023",
+    "id": "ac9e1ly01-er4-p-021",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 03 discriminate",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Discuss a warning sign; 🔎 story; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discuss a warning sign; 🔎 story; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-005\"></use></svg>",
+    "question": "A recipe lists ingredients but no amounts. Which added detail would make it more useful?",
+    "audioPrompt": "A recipe lists ingredients but no amounts. Which added detail would make it more useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-005",
-      "alt_text": "📖 Discuss a warning sign; 🔎 story; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Words give safe action; image quickly shows hazard; both warn/instruct",
-      "Look for story and check the whole example.",
-      "Wet floor—walk slowly"
+      "The writer's favourite plate colour",
+      "A story about a hungry mouse",
+      "How much of each ingredient to use"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "Wet floor—walk slowly is the mix-up. Name the purpose clearly.\nHint: Name the purpose clearly.",
+    "explanation": "Amounts help the reader prepare the food correctly, supporting the recipe's purpose.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Wet floor—walk slowly is the mix-up. Name the purpose clearly.",
-      "hint": "Name the purpose clearly."
+      "summary": "Amounts help the reader prepare the food correctly, supporting the recipe's purpose.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-024",
+    "id": "ac9e1ly01-er4-p-022",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 04 discriminate",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find a persuasive feature; 🔎 poster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a persuasive feature; 🔎 poster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-007\"></use></svg>",
+    "question": "Text A tells when the pool opens. Text B asks readers to try a pool lesson. Which question helps tell their purposes apart?",
+    "audioPrompt": "Text A tells when the pool opens. Text B asks readers to try a pool lesson. Which question helps tell their purposes apart?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-007",
-      "alt_text": "📖 Find a persuasive feature; 🔎 poster; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Choose the reusable bottle because it can be filled again",
-      "It recommends a choice and gives a supporting reason",
-      "Check that you can compare texts."
+      "Does it give visiting information or encourage joining?",
+      "Does it use the word pool?",
+      "Does it have a full stop?"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "Choose the reusable bottle because it can be filled again is the mix-up. Use features as evidence.\nHint: Use features as evidence.",
+    "explanation": "Both can mention a pool and use punctuation; what each asks or tells reveals purpose.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Choose the reusable bottle because it can be filled again is the mix-up. Use features as evidence.",
-      "hint": "Use features as evidence."
+      "summary": "Both can mention a pool and use punctuation; what each asks or tells reveals purpose.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-025",
+    "id": "ac9e1ly01-er4-p-023",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 05 discriminate",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order an invitation; 🔎 report; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order an invitation; 🔎 report; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-009\"></use></svg>",
+    "question": "Read: 'Our garden needs your help. Join us on Friday to plant seeds.' Why does this text include both a request and a day?",
+    "audioPrompt": "Read: 'Our garden needs your help. Join us on Friday to plant seeds.' Why does this text include both a request and a day?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-009",
-      "alt_text": "📖 Order an invitation; 🔎 report; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Greeting/event name → event details → closing; accepts event name before greeting if clear",
-      "closing; accepts event name before greeting if clear → event details → Greeting/event name",
-      "Sequencing features of an invitation."
+      "It explains every step for planting seeds",
+      "It encourages helping and tells when to come",
+      "It proves the garden has already been planted"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "closing; accepts event name before greeting if clear → event details → Greeting/event name is the mix-up. Check more than one clue if possible.\nHint: Check more than one clue if possible.",
+    "explanation": "A text can encourage an action and supply practical information for doing it.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "closing; accepts event name before greeting if clear → event details → Greeting/event name is the mix-up. Check more than one clue if possible.",
-      "hint": "Check more than one clue if possible."
+      "summary": "A text can encourage an action and supply practical information for doing it.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly01-p-026",
+    "id": "ac9e1ly01-er4-p-024",
     "curriculumCode": "AC9E1LY01",
     "bank": "practice",
-    "skill": "ac9e1ly01 06 discriminate",
+    "skill": "text features indicating purposes",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw a report feature; 🔎 feature; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a report feature; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-011\"></use></svg>",
+    "question": "A page has numbered steps, but says '1. The fox woke. 2. It heard a knock.' Why should you read the words before calling it instructions?",
+    "audioPrompt": "A page has numbered steps, but says '1. The fox woke. 2. It heard a knock.' Why should you read the words before calling it instructions?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-011",
-      "alt_text": "📖 Draw a report feature; 🔎 feature; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All three features present and suited to informing readers",
-      "Name the purpose clearly.",
-      "Leave out purpose word."
+      "Numbered texts always explain how to make things",
+      "Stories cannot have numbers",
+      "Numbers can also organise story events"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "Leave out purpose word. is the mix-up. Name the purpose clearly.\nHint: Name the purpose clearly.",
+    "explanation": "The words describe events rather than tell the reader actions to carry out.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Leave out purpose word. is the mix-up. Name the purpose clearly.",
-      "hint": "Name the purpose clearly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-027",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare two purposes; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two purposes; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-013",
-      "alt_text": "📖 Compare two purposes; 🔎 purpose; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use features as evidence.",
-      "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade",
-      "Use this routine: Look at text → Notice feature → Infer purpose → Explain."
-    ],
-    "correct": 0,
-    "explanation": "Do not use features as evidence. is the mix-up. Use features as evidence.\nHint: Use features as evidence.",
-    "structuredExplanation": {
-      "summary": "Do not use features as evidence. is the mix-up. Use features as evidence.",
-      "hint": "Use features as evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-028",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose evidence for purpose; 🔎 story; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose evidence for purpose; 🔎 story; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-015",
-      "alt_text": "📖 Choose evidence for purpose; 🔎 story; ✅ choose with evidence"
-    },
-    "answers": [
-      "Instructional purpose with any two named features as evidence",
-      "Instructional feature with any two named features as evidence",
-      "Look for story and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "Instructional feature with any two named features as evidence is the mix-up. Check more than one clue if possible.\nHint: Check more than one clue if possible.",
-    "structuredExplanation": {
-      "summary": "Instructional feature with any two named features as evidence is the mix-up. Check more than one clue if possible.",
-      "hint": "Check more than one clue if possible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-029",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Recognise an imaginative text; 🔎 poster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise an imaginative text; 🔎 poster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-017",
-      "alt_text": "📖 Recognise an imaginative text; 🔎 poster; ✅ choose with evidence"
-    },
-    "answers": [
-      "To entertain/tell an imaginative story; impossible/fantastical characters and plot events",
-      "Check that you can compare texts.",
-      "Leave out purpose word."
-    ],
-    "correct": 2,
-    "explanation": "Leave out purpose word. is the mix-up. Name the purpose clearly.\nHint: Name the purpose clearly.",
-    "structuredExplanation": {
-      "summary": "Leave out purpose word. is the mix-up. Name the purpose clearly.",
-      "hint": "Name the purpose clearly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-030",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match text openings; 🔎 report; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match text openings; 🔎 report; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-019",
-      "alt_text": "📖 Match text openings; 🔎 report; ✅ choose with evidence"
-    },
-    "answers": [
-      "Once a tiny boat ___",
-      "Each opening matched correctly",
-      "Using opening language as a purpose clue."
-    ],
-    "correct": 0,
-    "explanation": "Once a tiny boat ___ is the mix-up. Use features as evidence.\nHint: Use features as evidence.",
-    "structuredExplanation": {
-      "summary": "Once a tiny boat ___ is the mix-up. Use features as evidence.",
-      "hint": "Use features as evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-031",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Identify instruction purpose; 🔎 feature; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify instruction purpose; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-001",
-      "alt_text": "📖 Identify instruction purpose; 🔎 feature; ✅ choose with evidence"
-    },
-    "answers": [
-      "Cut on the line. Fold the paper. Tape the sides",
-      "To instruct/show how to make something",
-      "Do not use features as evidence."
-    ],
-    "correct": 1,
-    "explanation": "To instruct/show how to make something uses the skill correctly. Use features as evidence.\nHint: Use features as evidence.",
-    "structuredExplanation": {
-      "summary": "To instruct/show how to make something uses the skill correctly. Use features as evidence.",
-      "hint": "Use features as evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-032",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match features and purposes; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match features and purposes; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-003",
-      "alt_text": "📖 Match features and purposes; 🔎 purpose; ✅ choose with evidence"
-    },
-    "answers": [
-      "feature features ↔ entertain; labelled facts ↔ inform; event details ↔ invite",
-      "purpose features ↔ entertain; labelled facts ↔ inform; event details ↔ invite",
-      "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite"
-    ],
-    "correct": 2,
-    "explanation": "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite uses the skill correctly. Check more than one clue if possible.\nHint: Check more than one clue if possible.",
-    "structuredExplanation": {
-      "summary": "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite uses the skill correctly. Check more than one clue if possible.",
-      "hint": "Check more than one clue if possible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-033",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Discuss a warning sign; 🔎 story; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discuss a warning sign; 🔎 story; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-005",
-      "alt_text": "📖 Discuss a warning sign; 🔎 story; ✅ choose with evidence"
-    },
-    "answers": [
-      "Words give safe action; image quickly shows hazard; both warn/instruct",
-      "Wet floor—walk slowly",
-      "Leave out purpose word."
-    ],
-    "correct": 0,
-    "explanation": "Words give safe action; image quickly shows hazard; both warn/instruct uses the skill correctly. Name the purpose clearly.\nHint: Name the purpose clearly.",
-    "structuredExplanation": {
-      "summary": "Words give safe action; image quickly shows hazard; both warn/instruct uses the skill correctly. Name the purpose clearly.",
-      "hint": "Name the purpose clearly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-034",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find a persuasive feature; 🔎 poster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a persuasive feature; 🔎 poster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-007",
-      "alt_text": "📖 Find a persuasive feature; 🔎 poster; ✅ choose with evidence"
-    },
-    "answers": [
-      "Choose the reusable bottle because it can be filled again",
-      "It recommends a choice and gives a supporting reason",
-      "Do not use features as evidence."
-    ],
-    "correct": 1,
-    "explanation": "It recommends a choice and gives a supporting reason uses the skill correctly. Use features as evidence.\nHint: Use features as evidence.",
-    "structuredExplanation": {
-      "summary": "It recommends a choice and gives a supporting reason uses the skill correctly. Use features as evidence.",
-      "hint": "Use features as evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-035",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order an invitation; 🔎 report; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order an invitation; 🔎 report; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-009",
-      "alt_text": "📖 Order an invitation; 🔎 report; ✅ choose with evidence"
-    },
-    "answers": [
-      "closing; accepts event name before greeting if clear → event details → Greeting/event name",
-      "Do not check more than one clue if possible.",
-      "Greeting/event name → event details → closing; accepts event name before greeting if clear"
-    ],
-    "correct": 2,
-    "explanation": "Greeting/event name → event details → closing; accepts event name before greeting if clear uses the skill correctly. Check more than one clue if possible.\nHint: Check more than one clue if possible.",
-    "structuredExplanation": {
-      "summary": "Greeting/event name → event details → closing; accepts event name before greeting if clear uses the skill correctly. Check more than one clue if possible.",
-      "hint": "Check more than one clue if possible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-036",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw a report feature; 🔎 feature; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a report feature; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-011",
-      "alt_text": "📖 Draw a report feature; 🔎 feature; ✅ choose with evidence"
-    },
-    "answers": [
-      "All three features present and suited to informing readers",
-      "Leave out purpose word.",
-      "Do not use features as evidence."
-    ],
-    "correct": 0,
-    "explanation": "All three features present and suited to informing readers uses the skill correctly. Name the purpose clearly.\nHint: Name the purpose clearly.",
-    "structuredExplanation": {
-      "summary": "All three features present and suited to informing readers uses the skill correctly. Name the purpose clearly.",
-      "hint": "Name the purpose clearly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-037",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare two purposes; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two purposes; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-013",
-      "alt_text": "📖 Compare two purposes; 🔎 purpose; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use features as evidence.",
-      "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade",
-      "Do not check more than one clue if possible."
-    ],
-    "correct": 1,
-    "explanation": "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade uses the skill correctly. Use features as evidence.\nHint: Use features as evidence.",
-    "structuredExplanation": {
-      "summary": "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade uses the skill correctly. Use features as evidence.",
-      "hint": "Use features as evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-038",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose evidence for purpose; 🔎 story; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose evidence for purpose; 🔎 story; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-015",
-      "alt_text": "📖 Choose evidence for purpose; 🔎 story; ✅ choose with evidence"
-    },
-    "answers": [
-      "Instructional feature with any two named features as evidence",
-      "Instructional poster with any two named features as evidence",
-      "Instructional purpose with any two named features as evidence"
-    ],
-    "correct": 2,
-    "explanation": "Instructional purpose with any two named features as evidence uses the skill correctly. Check more than one clue if possible.\nHint: Check more than one clue if possible.",
-    "structuredExplanation": {
-      "summary": "Instructional purpose with any two named features as evidence uses the skill correctly. Check more than one clue if possible.",
-      "hint": "Check more than one clue if possible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-039",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Recognise an imaginative text; 🔎 poster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise an imaginative text; 🔎 poster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-017",
-      "alt_text": "📖 Recognise an imaginative text; 🔎 poster; ✅ choose with evidence"
-    },
-    "answers": [
-      "To entertain/tell an imaginative story; impossible/fantastical characters and plot events",
-      "Leave out purpose word.",
-      "Do not use features as evidence."
-    ],
-    "correct": 0,
-    "explanation": "To entertain/tell an imaginative story; impossible/fantastical characters and plot events uses the skill correctly. Name the purpose clearly.\nHint: Name the purpose clearly.",
-    "structuredExplanation": {
-      "summary": "To entertain/tell an imaginative story; impossible/fantastical characters and plot events uses the skill correctly. Name the purpose clearly.",
-      "hint": "Name the purpose clearly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly01-p-040",
-    "curriculumCode": "AC9E1LY01",
-    "bank": "practice",
-    "skill": "ac9e1ly01 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match text openings; 🔎 report; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match text openings; 🔎 report; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-p-019",
-      "alt_text": "📖 Match text openings; 🔎 report; ✅ choose with evidence"
-    },
-    "answers": [
-      "Once a tiny boat ___",
-      "Each opening matched correctly",
-      "Koalas are mammals ___"
-    ],
-    "correct": 1,
-    "explanation": "Each opening matched correctly uses the skill correctly. Use features as evidence.\nHint: Use features as evidence.",
-    "structuredExplanation": {
-      "summary": "Each opening matched correctly uses the skill correctly. Use features as evidence.",
-      "hint": "Use features as evidence."
+      "summary": "The words describe events rather than tell the reader actions to carry out.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   }

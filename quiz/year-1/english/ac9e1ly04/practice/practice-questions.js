@@ -1,1162 +1,746 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly04-p-001",
+    "id": "ac9e1ly04-er4-p-001",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 01 recognise",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly blend a short word?",
-    "audioPrompt": "Which response would correctly blend a short word?",
-    "visual": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Blend a short word; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001\"></use></svg>",
+    "question": "Read: 'The hen is in the pen.' Where is the hen?",
+    "audioPrompt": "Read: 'The hen is in the pen.' Where is the hen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001",
-      "alt_text": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Map",
-      "Do not look at the letters and sounds.",
-      "Sound without meaning."
+      "In the pen",
+      "In the pan",
+      "On the pin"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Map This matches the task.\nHint: Look at the letters and sounds.",
+    "explanation": "Read the middle letter in pen carefully; the sentence places the hen in the pen.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Map This matches the task.",
-      "hint": "Look at the letters and sounds."
+      "summary": "Read the middle letter in pen carefully; the sentence places the hen in the pen.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-002",
+    "id": "ac9e1ly04-er4-p-002",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 02 recognise",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match punctuation and reading?",
-    "audioPrompt": "Which response would correctly match punctuation and reading?",
-    "visual": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003\"></use></svg>",
+    "question": "Choose the word that fits: 'The hen laid an ___.'",
+    "audioPrompt": "Choose the word that fits: 'The hen laid an ___.'",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003",
-      "alt_text": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause",
-      "Sound without meaning.",
-      "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation"
+      "elf",
+      "egg",
+      "end"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Egg names what a hen lays; reading all the letters distinguishes the three short words.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Egg names what a hen lays; reading all the letters distinguishes the three short words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-003",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'Tim hid the lid.' What did Tim hide?",
+    "audioPrompt": "Read: 'Tim hid the lid.' What did Tim hide?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The lad",
+      "The log",
+      "The lid"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation This matches the task.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "The word lid names what Tim hid; the other choices change the vowel or ending.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation This matches the task.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "The word lid names what Tim hid; the other choices change the vowel or ending.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-003",
+    "id": "ac9e1ly04-er4-p-004",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 03 recognise",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Read 'After lunch, / the small dog / slept under the bench.' using the phrase marks, then explain one pause.",
-    "audioPrompt": "Read 'After lunch, / the small dog / slept under the bench.' using the phrase marks, then explain one pause.",
-    "visual": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read in phrases; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005\"></use></svg>",
+    "question": "Which word completes the sentence? 'The duck can ___ in the pond.'",
+    "audioPrompt": "Which word completes the sentence? 'The duck can ___ in the pond.'",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005",
-      "alt_text": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "After lunch, / the small dog / slept under the bench",
-      "Groups words meaningfully and links pause to comma/phrase meaning",
-      "Read one word at a time without natural phrasing."
+      "swim",
+      "swam",
+      "swum"
     ],
-    "correct": 1,
-    "explanation": "Groups words meaningfully and links pause to comma/phrase meaning This matches the task.\nHint: Practise phrase groups, not one word at a time forever.",
-    "structuredExplanation": {
-      "summary": "Groups words meaningfully and links pause to comma/phrase meaning This matches the task.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-004",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 04 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly monitor a misread?",
-    "audioPrompt": "Which response would correctly monitor a misread?",
-    "visual": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Monitor a misread; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007",
-      "alt_text": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence"
-    },
-    "answers": [
-      "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess",
-      "The fish sat in the tree",
-      "The fin sat in the tray"
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess This matches the task.\nHint: Look at the letters and sounds.",
+    "explanation": "After can we use swim, so both the word's meaning and the sentence grammar fit.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess This matches the task.",
-      "hint": "Look at the letters and sounds."
+      "summary": "After can we use swim, so both the word's meaning and the sentence grammar fit.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-005",
+    "id": "ac9e1ly04-er4-p-005",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 05 recognise",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order decoding steps?",
-    "audioPrompt": "Which response would correctly order decoding steps?",
-    "visual": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009\"></use></svg>",
+    "question": "Read: 'The crab is on a rock.' Which animal is named?",
+    "audioPrompt": "Read: 'The crab is on a rock.' Which animal is named?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009",
-      "alt_text": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "reread smoothly → check meaning → blend sounds → Look through word",
-      "Sound without meaning.",
-      "Look through word → blend sounds → check meaning → reread smoothly"
+      "crib",
+      "crab",
+      "cab"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Read the whole beginning blend cr and the vowel a to identify crab.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Read the whole beginning blend cr and the vowel a to identify crab.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-006",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'She shut the shed.' What did she shut?",
+    "audioPrompt": "Read: 'She shut the shed.' What did she shut?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The ship",
+      "The shop",
+      "The shed"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Look through word → blend sounds → check meaning → reread smoothly This matches the task.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "The letters sh start all three words, so the rest of the word must also be read.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look through word → blend sounds → check meaning → reread smoothly This matches the task.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "The letters sh start all three words, so the rest of the word must also be read.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-006",
+    "id": "ac9e1ly04-er4-p-007",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 06 recognise",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw phrase groups?",
-    "audioPrompt": "Which response would correctly draw phrase groups?",
-    "visual": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011\"></use></svg>",
+    "question": "Choose the word that fits: 'The ___ has ten toes.'",
+    "audioPrompt": "Choose the word that fits: 'The ___ has ten toes.'",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011",
-      "alt_text": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The red crab hid / beneath a flat rock",
-      "Correct two phrase groups marked without splitting determiners from nouns",
-      "Read one word at a time without natural phrasing."
+      "child",
+      "chill",
+      "chin"
     ],
-    "correct": 1,
-    "explanation": "Correct two phrase groups marked without splitting determiners from nouns This matches the task.\nHint: Practise phrase groups, not one word at a time forever.",
-    "structuredExplanation": {
-      "summary": "Correct two phrase groups marked without splitting determiners from nouns This matches the task.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-007",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 07 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which sounds grammatical: 'The birds fly' or 'The birds flies'? Explain the check.",
-    "audioPrompt": "Which sounds grammatical: 'The birds fly' or 'The birds flies'? Explain the check.",
-    "visual": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013",
-      "alt_text": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence"
-    },
-    "answers": [
-      "'The birds fly'; plural birds agrees with fly in standard sentence pattern",
-      "The birds fly",
-      "The birds flies"
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "'The birds fly'; plural birds agrees with fly in standard sentence pattern This matches the task.\nHint: Look at the letters and sounds.",
+    "explanation": "Child names a person who can have ten toes; the other similar-looking words do not fit.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "'The birds fly'; plural birds agrees with fly in standard sentence pattern This matches the task.",
-      "hint": "Look at the letters and sounds."
+      "summary": "Child names a person who can have ten toes; the other similar-looking words do not fit.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-008",
+    "id": "ac9e1ly04-er4-p-008",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 08 recognise",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly reread for fluency?",
-    "audioPrompt": "Which response would correctly reread for fluency?",
-    "visual": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015\"></use></svg>",
+    "question": "Read: 'The goat ate the hay.' What did the goat eat?",
+    "audioPrompt": "Read: 'The goat ate the hay.' What did the goat eat?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015",
-      "alt_text": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Read one word at a time without natural phrasing.",
-      "Planning fluency improvement through rereading"
+      "hit",
+      "hay",
+      "hat"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The ay in hay helps identify the food; checking every letter prevents a similar-word guess.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The ay in hay helps identify the food; checking every letter prevents a similar-word guess.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-009",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'The red van is at the shop. Dad gets in it.' What does 'it' mean here?",
+    "audioPrompt": "Read: 'The red van is at the shop. Dad gets in it.' What does 'it' mean here?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The shop",
+      "Dad",
+      "The van"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Planning fluency improvement through rereading This matches the task.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "The second sentence refers back to the van that Dad gets into.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Planning fluency improvement through rereading This matches the task.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "The second sentence refers back to the van that Dad gets into.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-009",
+    "id": "ac9e1ly04-er4-p-010",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 09 recognise",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly decode a consonant blend?",
-    "audioPrompt": "Which response would correctly decode a consonant blend?",
-    "visual": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017\"></use></svg>",
+    "question": "Choose the word that fits both meaning and grammar: 'Yesterday, we ___ to the park.'",
+    "audioPrompt": "Choose the word that fits both meaning and grammar: 'Yesterday, we ___ to the park.'",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017",
-      "alt_text": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read one word at a time without natural phrasing.",
-      "Frog",
-      "Do not look at the letters and sounds."
+      "went",
+      "go",
+      "going"
     ],
-    "correct": 1,
-    "explanation": "Frog This matches the task.\nHint: Practise phrase groups, not one word at a time forever.",
-    "structuredExplanation": {
-      "summary": "Frog This matches the task.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-010",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 10 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match word-solving clues?",
-    "audioPrompt": "Which response would correctly match word-solving clues?",
-    "visual": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019",
-      "alt_text": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "All three sources matched correctly",
-      "Do not look at the letters and sounds.",
-      "Sound without meaning."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "All three sources matched correctly This matches the task.\nHint: Look at the letters and sounds.",
+    "explanation": "Yesterday signals a past event, and went makes the sentence grammatically complete.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "All three sources matched correctly This matches the task.",
-      "hint": "Look at the letters and sounds."
+      "summary": "Yesterday signals a past event, and went makes the sentence grammatically complete.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-011",
+    "id": "ac9e1ly04-er4-p-011",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 01 explain",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you blend a short word?",
-    "audioPrompt": "Which tip would help you blend a short word?",
-    "visual": "🧠 Blend a short word; ➡️ Look at letters; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Blend a short word; ➡️ Look at letters; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-002\"></use></svg>",
+    "question": "Read: 'Meg put the cups on the tray.' A child reads 'traps' instead of 'tray'. Which word is actually printed?",
+    "audioPrompt": "Read: 'Meg put the cups on the tray.' A child reads 'traps' instead of 'tray'. Which word is actually printed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-002",
-      "alt_text": "🧠 Blend a short word; ➡️ Look at letters; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Look at the letters and sounds.",
-      "Read one word at a time without natural phrasing."
+      "train",
+      "tray",
+      "traps"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "explanation": "Check the complete printed word: tray ends in ay, not ps or in.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "Check the complete printed word: tray ends in ay, not ps or in.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-012",
+    "id": "ac9e1ly04-er4-p-012",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 02 explain",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match punctuation and reading?",
-    "audioPrompt": "Which tip would help you match punctuation and reading?",
-    "visual": "🧠 Match punctuation and reading; ➡️ Blend/recognise; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match punctuation and reading; ➡️ Blend/recognise; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-004\"></use></svg>",
+    "question": "Read: 'The frog sat on a log. It then leapt off.' Which happened first?",
+    "audioPrompt": "Read: 'The frog sat on a log. It then leapt off.' Which happened first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-004",
-      "alt_text": "🧠 Match punctuation and reading; ➡️ Blend/recognise; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "Read one word at a time without natural phrasing.",
-      "Do not look at the letters and sounds."
+      "The frog leapt off.",
+      "The frog went to sleep.",
+      "The frog sat on the log."
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.\nHint: After decoding, check the sentence makes sense.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-013",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 03 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you read in phrases?",
-    "audioPrompt": "Which tip would help you read in phrases?",
-    "visual": "🧠 Read in phrases; ➡️ Read phrase; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Read in phrases; ➡️ Read phrase; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-006",
-      "alt_text": "🧠 Read in phrases; ➡️ Read phrase; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not look at the letters and sounds.",
-      "Sound without meaning.",
-      "Look for fluency and check the whole example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Look for fluency and check the whole example.\nHint: Practise phrase groups, not one word at a time forever.",
+    "explanation": "Reading both sentences and the word then shows that sitting came before leaping.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for fluency and check the whole example.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "Reading both sentences and the word then shows that sitting came before leaping.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-014",
+    "id": "ac9e1ly04-er4-p-013",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 04 explain",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you monitor a misread?",
-    "audioPrompt": "Which tip would help you monitor a misread?",
-    "visual": "🧠 Monitor a misread; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Monitor a misread; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-008\"></use></svg>",
+    "question": "Choose the word that fits: 'I can hear the bell ___.'",
+    "audioPrompt": "Choose the word that fits: 'I can hear the bell ___.'",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-008",
-      "alt_text": "🧠 Monitor a misread; ➡️ Check meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Check that you can monitor meaning.",
-      "Read one word at a time without natural phrasing."
+      "ring",
+      "rang",
+      "rung"
     ],
-    "correct": 1,
-    "explanation": "Check that you can monitor meaning.\nHint: Look at the letters and sounds.",
-    "structuredExplanation": {
-      "summary": "Check that you can monitor meaning.",
-      "hint": "Look at the letters and sounds."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-015",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 05 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order decoding steps?",
-    "audioPrompt": "Which tip would help you order decoding steps?",
-    "visual": "🧠 Order decoding steps; ➡️ Re-read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order decoding steps; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-010",
-      "alt_text": "🧠 Order decoding steps; ➡️ Re-read; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing a word-solving routine.",
-      "Read one word at a time without natural phrasing.",
-      "Do not look at the letters and sounds."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Sequencing a word-solving routine.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "Ring completes the sentence naturally after hear the bell, unlike the other verb forms.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sequencing a word-solving routine.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "Ring completes the sentence naturally after hear the bell, unlike the other verb forms.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-016",
+    "id": "ac9e1ly04-er4-p-014",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 06 explain",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw phrase groups?",
-    "audioPrompt": "Which tip would help you draw phrase groups?",
-    "visual": "🧠 Draw phrase groups; ➡️ Look at letters; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw phrase groups; ➡️ Look at letters; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-012\"></use></svg>",
+    "question": "Read: 'The gate is shut, but the shed is open.' Which place is open?",
+    "audioPrompt": "Read: 'The gate is shut, but the shed is open.' Which place is open?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-012",
-      "alt_text": "🧠 Draw phrase groups; ➡️ Look at letters; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look at the letters and sounds.",
-      "Sound without meaning.",
-      "Practise phrase groups, not one word at a time forever."
+      "Both places",
+      "The shed",
+      "The gate"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The word but links two different states; the second part says the shed is open.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The word but links two different states; the second part says the shed is open.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-015",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'Please bring the green bag, not the red one.' Which bag is wanted?",
+    "audioPrompt": "Read: 'Please bring the green bag, not the red one.' Which bag is wanted?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The red bag",
+      "Both bags",
+      "The green bag"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
+    "explanation": "Read through not before deciding; it rules out the red bag.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "Read through not before deciding; it rules out the red bag.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-017",
+    "id": "ac9e1ly04-er4-p-016",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 07 explain",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you use grammar to check?",
-    "audioPrompt": "Which tip would help you use grammar to check?",
-    "visual": "🧠 Use grammar to check; ➡️ Blend/recognise; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Use grammar to check; ➡️ Blend/recognise; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-014\"></use></svg>",
+    "question": "Read: 'When the rain stops, we can play.' When can they play?",
+    "audioPrompt": "Read: 'When the rain stops, we can play.' When can they play?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-014",
-      "alt_text": "🧠 Use grammar to check; ➡️ Blend/recognise; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "Read one word at a time without natural phrasing."
+      "After the rain stops",
+      "Before the rain starts to stop",
+      "Only while it is raining"
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.\nHint: Look at the letters and sounds.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "hint": "Look at the letters and sounds."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-018",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 08 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you reread for fluency?",
-    "audioPrompt": "Which tip would help you reread for fluency?",
-    "visual": "🧠 Reread for fluency; ➡️ Read phrase; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Reread for fluency; ➡️ Read phrase; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-016",
-      "alt_text": "🧠 Reread for fluency; ➡️ Read phrase; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for fluency and check the whole example.",
-      "Read one word at a time without natural phrasing.",
-      "Do not look at the letters and sounds."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Look for fluency and check the whole example.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "The first part gives the condition for playing: the rain needs to stop.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for fluency and check the whole example.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "The first part gives the condition for playing: the rain needs to stop.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-019",
+    "id": "ac9e1ly04-er4-p-017",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 09 explain",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you decode a consonant blend?",
-    "audioPrompt": "Which tip would help you decode a consonant blend?",
-    "visual": "🧠 Decode a consonant blend; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Decode a consonant blend; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-018\"></use></svg>",
+    "question": "Read: 'The ship is at the dock.' A child reads 'shop'. What should they check first?",
+    "audioPrompt": "Read: 'The ship is at the dock.' A child reads 'shop'. What should they check first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-018",
-      "alt_text": "🧠 Decode a consonant blend; ➡️ Check meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look at the letters and sounds.",
-      "Sound without meaning.",
-      "Check that you can monitor meaning."
+      "The size of the printed letters",
+      "The middle vowel in ship",
+      "Only the first letter s"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Ship and shop share other letters, so checking i rather than o resolves the misreading.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Ship and shop share other letters, so checking i rather than o resolves the misreading.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly04-er4-p-018",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "reading words and short texts accurately and monitoring meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'The dog ran past the gate.' A child reads 'pant' for 'past'. Which word matches all the printed letters?",
+    "audioPrompt": "Read: 'The dog ran past the gate.' A child reads 'pant' for 'past'. Which word matches all the printed letters?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "pant",
+      "part",
+      "past"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Check that you can monitor meaning.\nHint: Practise phrase groups, not one word at a time forever.",
+    "explanation": "Past has s before t; reading all the letters distinguishes it from the similar words.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Check that you can monitor meaning.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "Past has s before t; reading all the letters distinguishes it from the similar words.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-020",
+    "id": "ac9e1ly04-er4-p-019",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 10 explain",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match word-solving clues?",
-    "audioPrompt": "Which tip would help you match word-solving clues?",
-    "visual": "🧠 Match word-solving clues; ➡️ Re-read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match word-solving clues; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-020\"></use></svg>",
+    "question": "Read: 'At the end of the path, we sat down.' Which group of words belongs together as the opening phrase?",
+    "audioPrompt": "Read: 'At the end of the path, we sat down.' Which group of words belongs together as the opening phrase?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-020",
-      "alt_text": "🧠 Match word-solving clues; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Recognising complementary reading cues.",
-      "Read one word at a time without natural phrasing."
+      "At the end of the path",
+      "At the end of the",
+      "At the"
     ],
-    "correct": 1,
-    "explanation": "Recognising complementary reading cues.\nHint: Look at the letters and sounds.",
-    "structuredExplanation": {
-      "summary": "Recognising complementary reading cues.",
-      "hint": "Look at the letters and sounds."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-021",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 01 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Blend a short word; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001",
-      "alt_text": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not look at the letters and sounds.",
-      "Map",
-      "Look at the letters and sounds."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "Do not look at the letters and sounds. is the mix-up. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "explanation": "The full opening phrase tells where the action happens and can be read as one meaningful group.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Do not look at the letters and sounds. is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "The full opening phrase tells where the action happens and can be read as one meaningful group.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-022",
+    "id": "ac9e1ly04-er4-p-020",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 02 discriminate",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003\"></use></svg>",
+    "question": "Read: 'The cats are sleeping.' Which sentence keeps the same meaning?",
+    "audioPrompt": "Read: 'The cats are sleeping.' Which sentence keeps the same meaning?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003",
-      "alt_text": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation",
-      "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause",
-      "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read."
+      "The cats have just woken up.",
+      "More than one cat is asleep.",
+      "One cat is about to sleep."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause is the mix-up. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "The s in cats and the word are show more than one; sleeping tells their current state.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause is the mix-up. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "The s in cats and the word are show more than one; sleeping tells their current state.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-023",
+    "id": "ac9e1ly04-er4-p-021",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 03 discriminate",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read in phrases; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005\"></use></svg>",
+    "question": "Read: 'I thought the box was empty, but a bell was inside.' Why must you read to the end?",
+    "audioPrompt": "Read: 'I thought the box was empty, but a bell was inside.' Why must you read to the end?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005",
-      "alt_text": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Groups words meaningfully and links pause to comma/phrase meaning",
-      "Look for fluency and check the whole example.",
-      "After lunch, / the small dog / slept under the bench"
+      "The first part already tells everything correctly",
+      "The ending only repeats that it was empty",
+      "The ending changes what we learn about the box"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "After lunch, / the small dog / slept under the bench is the mix-up. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
+    "explanation": "But introduces information that corrects the speaker's first thought.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "After lunch, / the small dog / slept under the bench is the mix-up. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "But introduces information that corrects the speaker's first thought.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-024",
+    "id": "ac9e1ly04-er4-p-022",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 04 discriminate",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Monitor a misread; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007\"></use></svg>",
+    "question": "Read: 'The snail slid under the leaf.' A child says 'over' because it seems possible. What is the better way to check?",
+    "audioPrompt": "Read: 'The snail slid under the leaf.' A child says 'over' because it seems possible. What is the better way to check?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007",
-      "alt_text": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The fish sat in the tree",
-      "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess",
-      "Check that you can monitor meaning."
+      "Read the printed word under and its letters",
+      "Choose whichever position is easier to imagine",
+      "Ignore the position word"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "The fish sat in the tree is the mix-up. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "explanation": "Meaning helps check reading, but it does not replace reading the word actually printed.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The fish sat in the tree is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "Meaning helps check reading, but it does not replace reading the word actually printed.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-025",
+    "id": "ac9e1ly04-er4-p-023",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 05 discriminate",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009\"></use></svg>",
+    "question": "Read: 'Stop! The ball is in the road.' What does the exclamation mark help show?",
+    "audioPrompt": "Read: 'Stop! The ball is in the road.' What does the exclamation mark help show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009",
-      "alt_text": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look through word → blend sounds → check meaning → reread smoothly",
-      "reread smoothly → check meaning → blend sounds → Look through word",
-      "Sequencing a word-solving routine."
+      "The reader should leave out the word Stop",
+      "The first word needs a strong, urgent reading",
+      "The whole text should be read as a question"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "reread smoothly → check meaning → blend sounds → Look through word is the mix-up. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "The exclamation mark and road warning support urgency; they do not change the printed words.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "reread smoothly → check meaning → blend sounds → Look through word is the mix-up. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "The exclamation mark and road warning support urgency; they do not change the printed words.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly04-p-026",
+    "id": "ac9e1ly04-er4-p-024",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 06 discriminate",
+    "skill": "reading words and short texts accurately and monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011\"></use></svg>",
+    "question": "Read: 'We can go after lunch.' Which reading keeps the words and meaning together?",
+    "audioPrompt": "Read: 'We can go after lunch.' Which reading keeps the words and meaning together?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011",
-      "alt_text": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Correct two phrase groups marked without splitting determiners from nouns",
-      "Practise phrase groups, not one word at a time forever.",
-      "The red crab hid / beneath a flat rock"
+      "We can / go after / lunch after.",
+      "We can go / before lunch.",
+      "We can go / after lunch."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "The red crab hid / beneath a flat rock is the mix-up. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
+    "explanation": "The first choice preserves all the words and groups the time phrase naturally.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The red crab hid / beneath a flat rock is the mix-up. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-027",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013",
-      "alt_text": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence"
-    },
-    "answers": [
-      "The birds fly",
-      "'The birds fly'; plural birds agrees with fly in standard sentence pattern",
-      "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read."
-    ],
-    "correct": 0,
-    "explanation": "The birds fly is the mix-up. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
-    "structuredExplanation": {
-      "summary": "The birds fly is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-028",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015",
-      "alt_text": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence"
-    },
-    "answers": [
-      "Planning fluency improvement through rereading",
-      "Sound without meaning.",
-      "Look for fluency and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "Sound without meaning. is the mix-up. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
-    "structuredExplanation": {
-      "summary": "Sound without meaning. is the mix-up. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-029",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017",
-      "alt_text": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence"
-    },
-    "answers": [
-      "Frog",
-      "Check that you can monitor meaning.",
-      "Read one word at a time without natural phrasing."
-    ],
-    "correct": 2,
-    "explanation": "Read one word at a time without natural phrasing. is the mix-up. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
-    "structuredExplanation": {
-      "summary": "Read one word at a time without natural phrasing. is the mix-up. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-030",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019",
-      "alt_text": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not look at the letters and sounds.",
-      "All three sources matched correctly",
-      "Recognising complementary reading cues."
-    ],
-    "correct": 0,
-    "explanation": "Do not look at the letters and sounds. is the mix-up. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
-    "structuredExplanation": {
-      "summary": "Do not look at the letters and sounds. is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-031",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Blend a short word; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001",
-      "alt_text": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not look at the letters and sounds.",
-      "Map",
-      "Sound without meaning."
-    ],
-    "correct": 1,
-    "explanation": "Map uses the skill correctly. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
-    "structuredExplanation": {
-      "summary": "Map uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-032",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003",
-      "alt_text": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence"
-    },
-    "answers": [
-      "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause",
-      "Sound without meaning.",
-      "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation"
-    ],
-    "correct": 2,
-    "explanation": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation uses the skill correctly. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
-    "structuredExplanation": {
-      "summary": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation uses the skill correctly. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-033",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read in phrases; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005",
-      "alt_text": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence"
-    },
-    "answers": [
-      "Groups words meaningfully and links pause to comma/phrase meaning",
-      "After lunch, / the small dog / slept under the bench",
-      "Read one word at a time without natural phrasing."
-    ],
-    "correct": 0,
-    "explanation": "Groups words meaningfully and links pause to comma/phrase meaning uses the skill correctly. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
-    "structuredExplanation": {
-      "summary": "Groups words meaningfully and links pause to comma/phrase meaning uses the skill correctly. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-034",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Monitor a misread; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007",
-      "alt_text": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence"
-    },
-    "answers": [
-      "The fish sat in the tree",
-      "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess",
-      "The fin sat in the tray"
-    ],
-    "correct": 1,
-    "explanation": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess uses the skill correctly. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
-    "structuredExplanation": {
-      "summary": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-035",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009",
-      "alt_text": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "reread smoothly → check meaning → blend sounds → Look through word",
-      "Sound without meaning.",
-      "Look through word → blend sounds → check meaning → reread smoothly"
-    ],
-    "correct": 2,
-    "explanation": "Look through word → blend sounds → check meaning → reread smoothly uses the skill correctly. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
-    "structuredExplanation": {
-      "summary": "Look through word → blend sounds → check meaning → reread smoothly uses the skill correctly. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-036",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011",
-      "alt_text": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence"
-    },
-    "answers": [
-      "Correct two phrase groups marked without splitting determiners from nouns",
-      "The red crab hid / beneath a flat rock",
-      "Read one word at a time without natural phrasing."
-    ],
-    "correct": 0,
-    "explanation": "Correct two phrase groups marked without splitting determiners from nouns uses the skill correctly. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
-    "structuredExplanation": {
-      "summary": "Correct two phrase groups marked without splitting determiners from nouns uses the skill correctly. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-037",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013",
-      "alt_text": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence"
-    },
-    "answers": [
-      "The birds fly",
-      "'The birds fly'; plural birds agrees with fly in standard sentence pattern",
-      "The birds flies"
-    ],
-    "correct": 1,
-    "explanation": "'The birds fly'; plural birds agrees with fly in standard sentence pattern uses the skill correctly. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
-    "structuredExplanation": {
-      "summary": "'The birds fly'; plural birds agrees with fly in standard sentence pattern uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-038",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015",
-      "alt_text": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence"
-    },
-    "answers": [
-      "Sound without meaning.",
-      "Read one word at a time without natural phrasing.",
-      "Planning fluency improvement through rereading"
-    ],
-    "correct": 2,
-    "explanation": "Planning fluency improvement through rereading uses the skill correctly. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
-    "structuredExplanation": {
-      "summary": "Planning fluency improvement through rereading uses the skill correctly. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-039",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017",
-      "alt_text": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence"
-    },
-    "answers": [
-      "Frog",
-      "Read one word at a time without natural phrasing.",
-      "Do not look at the letters and sounds."
-    ],
-    "correct": 0,
-    "explanation": "Frog uses the skill correctly. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
-    "structuredExplanation": {
-      "summary": "Frog uses the skill correctly. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly04-p-040",
-    "curriculumCode": "AC9E1LY04",
-    "bank": "practice",
-    "skill": "ac9e1ly04 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019",
-      "alt_text": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not look at the letters and sounds.",
-      "All three sources matched correctly",
-      "Sound without meaning."
-    ],
-    "correct": 1,
-    "explanation": "All three sources matched correctly uses the skill correctly. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
-    "structuredExplanation": {
-      "summary": "All three sources matched correctly uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "The first choice preserves all the words and groups the time phrase naturally.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   }

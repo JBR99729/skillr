@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly02-p-001",
+    "id": "ac9e1ly02-er4-p-001",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Kim is speaking. What should Mia do?",
-    "audioPrompt": "Kim is speaking. What should Mia do?",
+    "question": "Asha is halfway through explaining her idea. You have an idea too. What helps both ideas be heard?",
+    "audioPrompt": "Asha is halfway through explaining her idea. You have an idea too. What helps both ideas be heard?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "walk away",
-      "talk over them",
-      "listen and wait"
+      "Let Asha finish, then take your turn",
+      "Say your idea over Asha's words",
+      "Ask a friend to talk at the same time"
     ],
-    "correct": 2,
-    "explanation": "listen and wait is the best answer.",
-    "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1ly02-p-002",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Which words show active listening?",
-    "audioPrompt": "Which words show active listening?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Be quiet!",
-      "I heard your idea.",
-      "I was not listening."
-    ],
-    "correct": 1,
-    "explanation": "I heard your idea. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1ly02-p-003",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "How can Sam join the discussion?",
-    "audioPrompt": "How can Sam join the discussion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "turn away",
-      "wait, then speak",
-      "shout at once"
-    ],
-    "correct": 1,
-    "explanation": "wait, then speak is the best answer.",
-    "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1ly02-p-004",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe says, “I like the beach.” Which reply connects?",
-    "audioPrompt": "Zoe says, “I like the beach.” Which reply connects?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "My shoe is blue.",
-      "I like it too.",
-      "Do not speak."
-    ],
-    "correct": 1,
-    "explanation": "I like it too. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1ly02-p-005",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question helps you learn more?",
-    "audioPrompt": "Which question helps you learn more?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Is it?",
-      "Why do you think that?",
-      "What?"
-    ],
-    "correct": 1,
-    "explanation": "Why do you think that? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1ly02-p-006",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Leo did not hear. What can Leo say?",
-    "audioPrompt": "Leo did not hear. What can Leo say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I will shout.",
-      "You are wrong.",
-      "Please say that again."
-    ],
-    "correct": 2,
-    "explanation": "Please say that again. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1ly02-p-007",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "What helps others hear your idea?",
-    "audioPrompt": "What helps others hear your idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a turned back",
-      "a clear voice",
-      "a whisper far away"
-    ],
-    "correct": 1,
-    "explanation": "a clear voice is the best answer.",
-    "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1ly02-p-008",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Sam shares an idea. Which reply is kind?",
-    "audioPrompt": "Sam shares an idea. Which reply is kind?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "That is silly.",
-      "Thank you for sharing.",
-      "Stop talking."
-    ],
-    "correct": 1,
-    "explanation": "Thank you for sharing. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1ly02-p-009",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Ava is speaking. What should Ben do?",
-    "audioPrompt": "Ava is speaking. What should Ben do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "listen and wait",
-      "talk over them",
-      "walk away"
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "listen and wait is the best answer.",
+    "explanation": "Waiting until Asha finishes lets you hear her whole idea before adding yours.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
+      "summary": "Waiting until Asha finishes lets you hear her whole idea before adding yours.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly02-er4-p-002",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "printable": true,
+    "type": "single",
+    "question": "Ben says, 'My seed grew a leaf.' Which reply shows you listened to his news?",
+    "audioPrompt": "Ben says, 'My seed grew a leaf.' Which reply shows you listened to his news?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Did you lose your lunchbox?",
+      "What does the new leaf look like?",
+      "What is your favourite bus?"
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The question follows Ben's news about the leaf and invites him to explain more.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The question follows Ben's news about the leaf and invites him to explain more.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-010",
+    "id": "ac9e1ly02-er4-p-003",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Which words show active listening?",
-    "audioPrompt": "Which words show active listening?",
+    "question": "Your partner says they cannot hear your answer. What is a useful change?",
+    "audioPrompt": "Your partner says they cannot hear your answer. What is a useful change?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I was not listening.",
-      "Be quiet!",
-      "I heard your idea."
+      "Say the answer even faster",
+      "Repeat it more quietly",
+      "Speak a little louder and clearly"
     ],
-    "correct": 2,
-    "explanation": "I heard your idea. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Adjusting your volume and speaking clearly helps your partner hear the answer.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Adjusting your volume and speaking clearly helps your partner hear the answer.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-011",
+    "id": "ac9e1ly02-er4-p-004",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "How can Kim join the discussion?",
-    "audioPrompt": "How can Kim join the discussion?",
+    "question": "Lee says, 'Put it over there,' but you do not know which box he means. What could you ask?",
+    "audioPrompt": "Lee says, 'Put it over there,' but you do not know which box he means. What could you ask?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "shout at once",
-      "wait, then speak",
-      "turn away"
+      "Which box do you mean?",
+      "Why do you like boxes?",
+      "Can we talk about lunch?"
     ],
-    "correct": 1,
-    "explanation": "wait, then speak is the best answer.",
-    "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Asking which box clears up the missing information needed to follow Lee's idea.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Asking which box clears up the missing information needed to follow Lee's idea.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-012",
+    "id": "ac9e1ly02-er4-p-005",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Max says, “I like the park.” Which reply connects?",
-    "audioPrompt": "Max says, “I like the park.” Which reply connects?",
+    "question": "A group is choosing a game. You want to join the discussion. Which contribution gives an idea and a reason?",
+    "audioPrompt": "A group is choosing a game. You want to join the discussion. Which contribution gives an idea and a reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,29 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I like it too.",
-      "My shoe is blue.",
-      "Do not speak."
+      "I have a reason, but I will not say it.",
+      "We could play tag because we have room to run.",
+      "We could play something."
     ],
-    "correct": 0,
-    "explanation": "I like it too. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Naming a game and explaining why it suits the space helps the group consider it.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Naming a game and explaining why it suits the space helps the group consider it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-013",
+    "id": "ac9e1ly02-er4-p-006",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Which question helps you learn more?",
-    "audioPrompt": "Which question helps you learn more?",
+    "question": "Kim says, 'I think the character is worried.' Which reply builds on her idea?",
+    "audioPrompt": "Kim says, 'I think the character is worried.' Which reply builds on her idea?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -376,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "What?",
-      "Is it?",
-      "Why do you think that?"
+      "I like doors in houses.",
+      "The book has a green cover.",
+      "I think so too, because he keeps checking the door."
     ],
-    "correct": 2,
-    "explanation": "Why do you think that? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "The reply adds story evidence to Kim's idea rather than changing the subject.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The reply adds story evidence to Kim's idea rather than changing the subject.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-014",
+    "id": "ac9e1ly02-er4-p-007",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Zoe did not hear. What can Zoe say?",
-    "audioPrompt": "Zoe did not hear. What can Zoe say?",
+    "question": "A friend uses the word 'shelter' and you are unsure what it means. What could you say?",
+    "audioPrompt": "A friend uses the word 'shelter' and you are unsure what it means. What could you say?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "You are wrong.",
-      "Please say that again.",
-      "I will shout."
+      "What does shelter mean here?",
+      "I know every word already.",
+      "Can you say an unrelated word?"
     ],
-    "correct": 1,
-    "explanation": "Please say that again. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Asking about the unclear word helps you understand your friend's message.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Asking about the unclear word helps you understand your friend's message.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-015",
+    "id": "ac9e1ly02-er4-p-008",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "What helps others hear your idea?",
-    "audioPrompt": "What helps others hear your idea?",
+    "question": "You are explaining a drawing to one partner beside you. Which voice is most helpful?",
+    "audioPrompt": "You are explaining a drawing to one partner beside you. Which voice is most helpful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a clear voice",
-      "a turned back",
-      "a whisper far away"
+      "A whisper your partner cannot hear",
+      "A clear voice your partner can hear",
+      "A shout meant for the whole playground"
     ],
-    "correct": 0,
-    "explanation": "a clear voice is the best answer.",
-    "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The volume should suit the nearby listener so the explanation is easy to hear.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The volume should suit the nearby listener so the explanation is easy to hear.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-016",
+    "id": "ac9e1ly02-er4-p-009",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Kim shares an idea. Which reply is kind?",
-    "audioPrompt": "Kim shares an idea. Which reply is kind?",
+    "question": "Noor says, 'The bridge fell because the blocks were too far apart.' Which reply checks your understanding?",
+    "audioPrompt": "Noor says, 'The bridge fell because the blocks were too far apart.' Which reply checks your understanding?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "That is silly.",
-      "Stop talking.",
-      "Thank you for sharing."
+      "Do you mean the blocks were the wrong colour?",
+      "Do you mean we should draw a bridge?",
+      "Do you mean the gap between the blocks was too wide?"
     ],
-    "correct": 2,
-    "explanation": "Thank you for sharing. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1ly02-p-017",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Leo is speaking. What should Sam do?",
-    "audioPrompt": "Leo is speaking. What should Sam do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "talk over them",
-      "walk away",
-      "listen and wait"
-    ],
-    "correct": 2,
-    "explanation": "listen and wait is the best answer.",
-    "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Restating the idea as a question checks that you understood Noor's reason.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Restating the idea as a question checks that you understood Noor's reason.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-018",
+    "id": "ac9e1ly02-er4-p-010",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Which words show active listening?",
-    "audioPrompt": "Which words show active listening?",
+    "question": "Your classmate says, 'We should water the plant.' You notice the soil is already wet. Which reply respectfully adds that information?",
+    "audioPrompt": "Your classmate says, 'We should water the plant.' You notice the soil is already wet. Which reply respectfully adds that information?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +295,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I heard your idea.",
-      "I was not listening.",
-      "Be quiet!"
+      "The soil feels wet. Could we check before adding more?",
+      "You are wrong, so stop talking.",
+      "Plants are interesting. My shoes are new."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "I heard your idea. is the best answer.",
+    "explanation": "The reply stays on the topic, shares evidence and invites the classmate to think with you.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
+      "summary": "The reply stays on the topic, shares evidence and invites the classmate to think with you.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-019",
+    "id": "ac9e1ly02-er4-p-011",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "How can Ava join the discussion?",
-    "audioPrompt": "How can Ava join the discussion?",
+    "question": "Two children have spoken several times. One child is waiting to share. What could you say?",
+    "audioPrompt": "Two children have spoken several times. One child is waiting to share. What could you say?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "turn away",
-      "wait, then speak",
-      "shout at once"
+      "We can only hear from two people.",
+      "We have heard our ideas. Would you like a turn?",
+      "We should repeat our ideas again."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "wait, then speak is the best answer.",
+    "explanation": "Inviting the waiting child creates space for another contribution without forcing them.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
+      "summary": "Inviting the waiting child creates space for another contribution without forcing them.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-020",
+    "id": "ac9e1ly02-er4-p-012",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Mia says, “I like the pond.” Which reply connects?",
-    "audioPrompt": "Mia says, “I like the pond.” Which reply connects?",
+    "question": "Your partner explains two steps too quickly for you to follow. What could you ask?",
+    "audioPrompt": "Your partner explains two steps too quickly for you to follow. What could you ask?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I like it too.",
-      "Do not speak.",
-      "My shoe is blue."
+      "Could you add lots more steps now?",
+      "Could you say them all at once?",
+      "Could you say the steps more slowly?"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "A slower repeat makes the sequence easier to understand and remember.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A slower repeat makes the sequence easier to understand and remember.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly02-er4-p-013",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "printable": true,
+    "type": "single",
+    "question": "A friend says, 'I liked the ending because the lost bird got home.' Which question follows that idea?",
+    "audioPrompt": "A friend says, 'I liked the ending because the lost bird got home.' Which question follows that idea?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "What helped the bird find home?",
+      "What did you have for breakfast?",
+      "How many pencils are in your bag?"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "I like it too. is the best answer.",
+    "explanation": "The question connects directly with the ending your friend described.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
+      "summary": "The question connects directly with the ending your friend described.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-021",
+    "id": "ac9e1ly02-er4-p-014",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Which question helps you learn more?",
-    "audioPrompt": "Which question helps you learn more?",
+    "question": "You heard 'Bring a ... tomorrow' but missed the item. What is the best question?",
+    "audioPrompt": "You heard 'Bring a ... tomorrow' but missed the item. What is the best question?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "What?",
-      "Why do you think that?",
-      "Is it?"
+      "Can I tell you about my pet?",
+      "What do we need to bring tomorrow?",
+      "Why is tomorrow after today?"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "Why do you think that? is the best answer.",
+    "explanation": "Asking for the missing item repairs the part of the message you did not hear.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
+      "summary": "Asking for the missing item repairs the part of the message you did not hear.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-022",
+    "id": "ac9e1ly02-er4-p-015",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Max did not hear. What can Max say?",
-    "audioPrompt": "Max did not hear. What can Max say?",
+    "question": "During a discussion about making the playground cleaner, which idea stays on topic?",
+    "audioPrompt": "During a discussion about making the playground cleaner, which idea stays on topic?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +450,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "You are wrong.",
-      "I will shout.",
-      "Please say that again."
+      "We could choose a new class song.",
+      "We could count all our pencils.",
+      "We could put a bin near the eating area."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Please say that again. is the best answer.",
+    "explanation": "A bin near where people eat addresses the group's question about playground litter.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
+      "summary": "A bin near where people eat addresses the group's question about playground litter.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-023",
+    "id": "ac9e1ly02-er4-p-016",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: What helps others hear your idea?",
-    "audioPrompt": "Read and choose: What helps others hear your idea?",
+    "question": "Omar says, 'I think the bag is heavy because she is using both hands.' Which response adds another relevant clue?",
+    "audioPrompt": "Omar says, 'I think the bag is heavy because she is using both hands.' Which response adds another relevant clue?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +481,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a turned back",
-      "a clear voice",
-      "a whisper far away"
+      "She is also leaning back as she lifts it.",
+      "Her shirt has a stripe.",
+      "I have a bag at home."
     ],
-    "correct": 1,
-    "explanation": "a clear voice is the best answer.",
-    "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1ly02-p-024",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Ava shares an idea. Which reply is kind?",
-    "audioPrompt": "Ava shares an idea. Which reply is kind?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "That is silly.",
-      "Thank you for sharing.",
-      "Stop talking."
-    ],
-    "correct": 1,
-    "explanation": "Thank you for sharing. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1ly02-p-025",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe is speaking. What should Kim do?",
-    "audioPrompt": "Zoe is speaking. What should Kim do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "walk away",
-      "talk over them",
-      "listen and wait"
-    ],
-    "correct": 2,
-    "explanation": "listen and wait is the best answer.",
-    "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1ly02-p-026",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which words show active listening?",
-    "audioPrompt": "Read and choose: Which words show active listening?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Be quiet!",
-      "I heard your idea.",
-      "I was not listening."
-    ],
-    "correct": 1,
-    "explanation": "I heard your idea. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1ly02-p-027",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "How can Leo join the discussion?",
-    "audioPrompt": "How can Leo join the discussion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "shout at once",
-      "turn away",
-      "wait, then speak"
-    ],
-    "correct": 2,
-    "explanation": "wait, then speak is the best answer.",
-    "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1ly02-p-028",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Ben says, “I like the farm.” Which reply connects?",
-    "audioPrompt": "Ben says, “I like the farm.” Which reply connects?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like it too.",
-      "Do not speak.",
-      "My shoe is blue."
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "I like it too. is the best answer.",
+    "explanation": "Leaning back while lifting supports the same idea about weight; shirt detail does not.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
+      "summary": "Leaning back while lifting supports the same idea about weight; shirt detail does not.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-029",
+    "id": "ac9e1ly02-er4-p-017",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which question helps you learn more?",
-    "audioPrompt": "Read and choose: Which question helps you learn more?",
+    "question": "Pia says, 'Let's build a tall tower.' Sam says, 'Let's build a wide one so it stands.' What reply uses both ideas?",
+    "audioPrompt": "Pia says, 'Let's build a tall tower.' Sam says, 'Let's build a wide one so it stands.' What reply uses both ideas?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "What?",
-      "Is it?",
-      "Why do you think that?"
+      "Let's stop building and name colours.",
+      "Could we start with a wide base, then build upwards?",
+      "Pia spoke first, so we cannot discuss Sam's idea."
     ],
-    "correct": 2,
-    "explanation": "Why do you think that? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1ly02-p-030",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Mia did not hear. What can Mia say?",
-    "audioPrompt": "Mia did not hear. What can Mia say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "You are wrong.",
-      "Please say that again.",
-      "I will shout."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "Please say that again. is the best answer.",
+    "explanation": "A wide base and upward building combine the wish for height with the need for stability.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
+      "summary": "A wide base and upward building combine the wish for height with the need for stability.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-031",
+    "id": "ac9e1ly02-er4-p-018",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "What helps others hear your idea?",
-    "audioPrompt": "What helps others hear your idea?",
+    "question": "A speaker says, 'I was nervous before the show, but happy afterwards.' Which reply shows you heard both parts?",
+    "audioPrompt": "A speaker says, 'I was nervous before the show, but happy afterwards.' Which reply shows you heard both parts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +543,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a clear voice",
-      "a whisper far away",
-      "a turned back"
+      "You were happy the whole time.",
+      "You were nervous after the show too.",
+      "Your feelings changed once the show was over."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "The reply keeps the before-and-after change in the speaker's message.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The reply keeps the before-and-after change in the speaker's message.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly02-er4-p-019",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "printable": true,
+    "type": "single",
+    "question": "Your friend has finished giving directions, but you are unsure of the first turn. What helps most?",
+    "audioPrompt": "Your friend has finished giving directions, but you are unsure of the first turn. What helps most?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Repeat the turn you think you heard and ask if it is right",
+      "Pretend you understood every step",
+      "Ask a question about the friend's favourite place"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "a clear voice is the best answer.",
+    "explanation": "Checking the uncertain turn helps you use the directions accurately.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
+      "summary": "Checking the uncertain turn helps you use the directions accurately.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-032",
+    "id": "ac9e1ly02-er4-p-020",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Leo shares an idea. Which reply is kind?",
-    "audioPrompt": "Leo shares an idea. Which reply is kind?",
+    "question": "A group is planning a class pet display. You disagree with using tiny writing. Which reply explains your concern?",
+    "audioPrompt": "A group is planning a class pet display. You disagree with using tiny writing. Which reply explains your concern?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "That is silly.",
-      "Stop talking.",
-      "Thank you for sharing."
+      "Let's discuss what we ate yesterday.",
+      "Could we use larger writing so visitors can read it?",
+      "I do not like your idea and that is all."
     ],
-    "correct": 2,
-    "explanation": "Thank you for sharing. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1ly02-p-033",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Max is speaking. What should Ava do?",
-    "audioPrompt": "Max is speaking. What should Ava do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "talk over them",
-      "listen and wait",
-      "walk away"
-    ],
-    "correct": 1,
-    "explanation": "listen and wait is the best answer.",
-    "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "A reason about visitors reading the display makes the disagreement useful and relevant.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A reason about visitors reading the display makes the disagreement useful and relevant.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-034",
+    "id": "ac9e1ly02-er4-p-021",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which words show active listening?",
-    "audioPrompt": "Read and choose: Which words show active listening?",
+    "question": "A child pauses to think during their turn. What can you do before jumping in?",
+    "audioPrompt": "A child pauses to think during their turn. What can you do before jumping in?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I heard your idea.",
-      "I was not listening.",
-      "Be quiet!"
+      "Finish the story for them straight away",
+      "Start a new discussion with someone else",
+      "Give them a moment to finish their thought"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "A short thinking pause does not always mean the speaker has finished their turn.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A short thinking pause does not always mean the speaker has finished their turn.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly02-er4-p-022",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "printable": true,
+    "type": "single",
+    "question": "Mae says, 'I think the character is kind because she shares.' Which response adds a different view with evidence?",
+    "audioPrompt": "Mae says, 'I think the character is kind because she shares.' Which response adds a different view with evidence?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I think she is worried too, because she keeps looking for her brother.",
+      "I have a different idea, so yours cannot count.",
+      "I like the word character."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "I heard your idea. is the best answer.",
+    "explanation": "The reply contributes another supported idea while allowing Mae's view to be considered.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
+      "summary": "The reply contributes another supported idea while allowing Mae's view to be considered.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-035",
+    "id": "ac9e1ly02-er4-p-023",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "How can Zoe join the discussion?",
-    "audioPrompt": "How can Zoe join the discussion?",
+    "question": "Your partner asks you to repeat only the last step. What is the most helpful reply?",
+    "audioPrompt": "Your partner asks you to repeat only the last step. What is the most helpful reply?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1036,29 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "turn away",
-      "wait, then speak",
-      "shout at once"
+      "Repeat only the first step louder",
+      "Say the last step again clearly",
+      "Start a new set of instructions"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "wait, then speak is the best answer.",
+    "explanation": "Listening to the specific request helps you provide the information your partner needs.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
+      "summary": "Listening to the specific request helps you provide the information your partner needs.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly02-p-036",
+    "id": "ac9e1ly02-er4-p-024",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "turn-taking, listening and relevant contributions",
     "printable": true,
     "type": "single",
-    "question": "Sam says, “I like the zoo.” Which reply connects?",
-    "audioPrompt": "Sam says, “I like the zoo.” Which reply connects?",
+    "question": "At the end of a discussion, Jo says, 'We agreed to make two signs and put them near the gate.' Which response checks the shared plan?",
+    "audioPrompt": "At the end of a discussion, Jo says, 'We agreed to make two signs and put them near the gate.' Which response checks the shared plan?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1066,378 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not speak.",
-      "I like it too.",
-      "My shoe is blue."
+      "Yes, one sign in the classroom.",
+      "Let's say all our ideas again without choosing.",
+      "Yes, two signs near the gate. Who will make each one?"
     ],
-    "correct": 1,
-    "explanation": "I like it too. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1ly02-p-037",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question helps you learn more?",
-    "audioPrompt": "Which question helps you learn more?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Why do you think that?",
-      "Is it?",
-      "What?"
-    ],
-    "correct": 0,
-    "explanation": "Why do you think that? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1ly02-p-038",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Ben did not hear. What can Ben say?",
-    "audioPrompt": "Ben did not hear. What can Ben say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I will shout.",
-      "Please say that again.",
-      "You are wrong."
-    ],
-    "correct": 1,
-    "explanation": "Please say that again. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1ly02-p-039",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "What helps others hear your idea?",
-    "audioPrompt": "What helps others hear your idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a whisper far away",
-      "a turned back",
-      "a clear voice"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "a clear voice is the best answer.",
+    "explanation": "The reply accurately restates the agreement and asks a useful next question.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
+      "summary": "The reply accurately restates the agreement and asks a useful next question.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1ly02-p-040",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe shares an idea. Which reply is kind?",
-    "audioPrompt": "Zoe shares an idea. Which reply is kind?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "That is silly.",
-      "Thank you for sharing.",
-      "Stop talking."
-    ],
-    "correct": 1,
-    "explanation": "Thank you for sharing. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly02-p-041",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Mia is speaking. What should Leo do?",
-    "audioPrompt": "Mia is speaking. What should Leo do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "walk away",
-      "talk over them",
-      "listen and wait"
-    ],
-    "correct": 2,
-    "explanation": "listen and wait is the best answer.",
-    "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-042",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Which words show active listening?",
-    "audioPrompt": "Which words show active listening?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Be quiet!",
-      "I was not listening.",
-      "I heard your idea."
-    ],
-    "correct": 2,
-    "explanation": "I heard your idea. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-043",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "How can Max join the discussion?",
-    "audioPrompt": "How can Max join the discussion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "wait, then speak",
-      "turn away",
-      "shout at once"
-    ],
-    "correct": 0,
-    "explanation": "wait, then speak is the best answer.",
-    "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-044",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Kim says, “I like the school.” Which reply connects?",
-    "audioPrompt": "Kim says, “I like the school.” Which reply connects?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "My shoe is blue.",
-      "Do not speak.",
-      "I like it too."
-    ],
-    "correct": 2,
-    "explanation": "I like it too. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-045",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which question helps you learn more?",
-    "audioPrompt": "Read and choose: Which question helps you learn more?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Why do you think that?",
-      "Is it?",
-      "What?"
-    ],
-    "correct": 0,
-    "explanation": "Why do you think that? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-046",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Sam did not hear. What can Sam say?",
-    "audioPrompt": "Sam did not hear. What can Sam say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "You are wrong.",
-      "I will shout.",
-      "Please say that again."
-    ],
-    "correct": 2,
-    "explanation": "Please say that again. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-047",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "What helps others hear your idea?",
-    "audioPrompt": "What helps others hear your idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a whisper far away",
-      "a clear voice",
-      "a turned back"
-    ],
-    "correct": 1,
-    "explanation": "a clear voice is the best answer.",
-    "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-048",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Max shares an idea. Which reply is kind?",
-    "audioPrompt": "Max shares an idea. Which reply is kind?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Stop talking.",
-      "That is silly.",
-      "Thank you for sharing."
-    ],
-    "correct": 2,
-    "explanation": "Thank you for sharing. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
