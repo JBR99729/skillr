@@ -77,3 +77,56 @@
     }));
   }
 })();
+
+// Reviewed worksheet wording for this three-code text-only batch.
+// Keep the existing models, question types, tier allocation and other codes.
+(() => {
+  const banks = window.SkillrFoundationWorksheetData;
+  const reviews = {
+    AC9MFN01: [
+      [null, "12: ten and two more make twelve.", "Build the ten first, then add the two extra blocks."],
+      [null, "13 comes after 12 and before 14.", "Say the count from 11 to 14 in order."],
+      [null, "0 matches the empty collection; 7 matches seven counters; 12 matches ten and two.", "Check how many objects each representation shows."],
+      [null, "Tray A is empty, so it shows zero objects.", "Zero describes a collection with no objects."],
+      ["Order 16, 5, 11 and 2 from smallest to largest. Which number belongs between 5 and 16?", "2, 5, 11, 16. The number 11 belongs between 5 and 16 in this list.", "Use the existing 0–20 number line to check the order."],
+      [null, "13 is one less than 14; 15 is one more.", "Move one step left and one step right from 14."],
+      [null, "five → 5; twelve → 12; twenty → 20.", "Say each number name, then find its numeral."],
+      ["An empty tray is labelled 0. A bus is labelled 12. Must the bus have 12 people on it? Explain what each numeral tells you.", "No. On the tray, 0 tells how many objects there are. On the bus, 12 can identify its route; it need not count the people.", "A numeral can show a quantity or act as a label."],
+      ["A child orders the cards 0, 5, 16, 11. Repair the order. Explain which two cards need to move.", "0, 5, 11, 16. Swap 16 and 11 because 11 comes before 16 on the number line.", "Keep 0 and 5 in place and compare the last two numbers."]
+    ],
+    AC9MFN02: [
+      ["Adult: briefly show the dot arrangement, then cover it. Child: say how many and what you noticed.", "4. Accept recognising the whole arrangement or seeing two groups of 2. Counting every dot gives the correct total but is not yet evidence of subitising.", "Offer another look or a smaller familiar collection if needed; this is not a speed test."],
+      [null, "5. Recognising 3 and 2 as parts can help name the total.", "Use a real collection arranged in the stated parts, then cover it after a quick look."],
+      [null, "3 → 2 and 1; 4 → 2 and 2; 5 → 3 and 2.", "Each pair of parts must make the named whole."],
+      ["An adult briefly shows a card with 5 dots. Explain what you saw that helped you name the total.", "Accept a familiar whole arrangement or recognised parts such as 4 and 1 or 3 and 2. The explanation must match the card shown.", "Adult: use an existing card, show it briefly and cover it before the response."],
+      [null, "3. Two and one make three.", "Recognise the small parts before saying the whole."],
+      [null, "They show the same quantity. Rearranging the same five dots does not add or remove dots.", "Compare how many, rather than how much space the arrangement takes."],
+      ["Draw two arrangements of 4 dots. Ask an adult to cover each after a quick look. Say how many you recognised.", "Both drawings must contain exactly 4 dots. Record whether the child recognised the quantity or counted each dot.", "Try a familiar arrangement first, then move the same four dots."],
+      [null, "5 and 5 → same; 5 and 4 → 5 has more; 3 and 4 → 3 has fewer.", "Name each small quantity, then compare the totals."],
+      ["One child says 5 after counting every dot. Another recognises 5 at a glance. Are both totals correct? Which child used subitising?", "Both totals are correct. The child who recognised five without counting each dot used subitising.", "Explain the method used, not only whether the answer is right."]
+    ],
+    AC9MFN04: [
+      [null, "7 is the whole. The parts are 5 and 2.", "The whole includes both parts, using the same counters."],
+      [null, "7. Five and two combine to make seven.", "Bring the two parts together to check."],
+      [null, "6 → 4 + 2; 7 → 5 + 2; 8 → 5 + 3.", "Check that each pair combines to make the named whole."],
+      [null, "4 and 2 make 6. The other pairs make larger wholes.", "Build six counters and split that same collection."],
+      ["Split 5 counters into two parts. Show a second way using the same counters. Can one part be empty?", "For example, 4 and 1, then 3 and 2. Yes: 5 and 0 also make 5.", "Move counters between the parts without adding or removing any."],
+      [null, "5 is missing because 3 and 5 make 8.", "Build the whole of 8 and separate the visible part of 3."],
+      [null, "whole → 7; part → 2; same whole, different order → 2 + 4 and 4 + 2.", "Name both parts and the whole before matching."],
+      ["A child labels two parts of 6 as 4 and 3. Explain the mistake and repair one label.", "4 and 3 make 7, not 6. Keep the part of 4 and change 3 to 2; alternatively keep 3 and change 4 to 3.", "Both parts together must match the known whole."],
+      ["The whole is 9. Four counters are visible and the rest are covered. Find the hidden part, then describe how to check it.", "5 are hidden. Four and five make nine. Uncover and recombine the same counters to check the whole.", "Use the known whole and visible part instead of guessing."]
+    ]
+  };
+  for (const [code, edits] of Object.entries(reviews)) {
+    const unit = banks?.[code];
+    if (!unit || unit.questions.length !== edits.length) continue;
+    unit.questions.forEach((question, index) => {
+      const [prompt, explanation, hint] = edits[index];
+      question.question = prompt || question.question.replace(/^E\d\s*[—-]\s*/, "");
+      question.answer = explanation;
+      question.summary = `${explanation} ${hint}`;
+      question.hint = hint;
+      question.alignment.method = hint;
+    });
+  }
+})();
