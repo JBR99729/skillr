@@ -16,6 +16,10 @@ for code in codes:
         if not m: bad.append(f'bad js {file}'); continue
         dec=json.JSONDecoder(); arr,_=dec.raw_decode(m.group(1))
         if len(arr)!=expect: bad.append(f'{file} len {len(arr)}')
+        page = file.parent / 'index.html'
+        if page.exists() and all(q.get('responseType') == 'multiple_choice' and q.get('gradingMode') == 'auto' for q in arr):
+            if 'data-adult-review-note' in page.read_text(encoding='utf-8'):
+                bad.append(f'stale adult-review instructions {page}')
         ids={q['id'].lower() for q in data if q['bank']==bank}
         if {q['id'] for q in arr}!=ids: bad.append(f'id parity {file}')
     for q in data:
