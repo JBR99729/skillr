@@ -298,10 +298,13 @@
     });
   }
 
+  const FINAL_IXL_REVIEW_CODES = new Set(["AC9MFA01","AC9MFM01","AC9MFM02","AC9MFSP01","AC9MFSP02","AC9MFST01"]);
+
   function load(code){
-    const practice = build(code,"practice",56);
-    const test = build(code,"test",24);
-    const quiz = build(code,"quiz",100);
+    const finalReview = FINAL_IXL_REVIEW_CODES.has(code);
+    const practice = build(code,"practice", finalReview ? 24 : 56);
+    const test = build(code,"test", finalReview ? 16 : 24);
+    const quiz = build(code,"quiz", finalReview ? 40 : 100);
     window.skillrPracticeQuestions = practice;
     window.skillrExamQuestions = test;
     window.skillrTestQuestions = test;

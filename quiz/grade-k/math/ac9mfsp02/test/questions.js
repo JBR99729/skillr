@@ -12,10 +12,11 @@ window.skillrTestQuestions = [
     "answers": [
       "above the box",
       "below the box",
-      "inside the box"
+      "inside the box",
+      "behind the box"
     ],
     "correct": 0,
-    "explanation": "Over means above."
+    "explanation": "Over means above, so the object is higher than the box in the picture."
   },
   {
     "id": "ac9mfsp02-t-002",
@@ -27,11 +28,12 @@ window.skillrTestQuestions = [
     "question": "The teddy is under the table. Which word describes its position?",
     "visual": "──── table ────\n      ▲",
     "answers": [
+      "between",
       "below",
       "above",
       "inside"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Under and below describe the teddy's position."
   },
   {
@@ -44,11 +46,12 @@ window.skillrTestQuestions = [
     "question": "The circle is in the middle of a square and a triangle. Where is the circle?",
     "visual": "□   ◯   △",
     "answers": [
+      "inside both",
+      "behind them",
       "between them",
-      "above them",
-      "inside both"
+      "above them"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The circle is between the two shapes."
   },
   {
@@ -58,12 +61,13 @@ window.skillrTestQuestions = [
     "skill": "inside outside",
     "printable": true,
     "type": "single",
-    "question": "The ball is in the box. Where is the ball?",
+    "question": "A pencil is completely contained in a case. Which word is best?",
     "visual": "[  —  ]",
     "answers": [
-      "inside the box",
-      "above the box",
-      "beside the box"
+      "inside",
+      "outside",
+      "above",
+      "behind"
     ],
     "correct": 0,
     "explanation": "The pencil is inside the case."
@@ -77,11 +81,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A ball is on the playground, not in the classroom. Where is it compared with the classroom?",
     "answers": [
+      "below",
       "outside",
       "inside",
       "between"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "The ball is outside the classroom."
   },
   {
@@ -93,11 +98,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A tree blocks the child from your view. Where is the child compared with the tree?",
     "answers": [
+      "inside the tree",
+      "above the tree",
       "behind the tree",
-      "in front of the tree",
-      "inside the tree"
+      "in front of the tree"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The child is behind the tree."
   },
   {
@@ -112,7 +118,8 @@ window.skillrTestQuestions = [
     "answers": [
       "beside",
       "above",
-      "inside"
+      "inside",
+      "between"
     ],
     "correct": 0,
     "explanation": "Next to and beside have the same meaning."
@@ -127,11 +134,12 @@ window.skillrTestQuestions = [
     "question": "The star is immediately to the right of the circle. Where is the star?",
     "visual": "◯  ★",
     "answers": [
+      "inside the circle",
       "right of the circle",
       "left of the circle",
       "above the circle"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "The star is on the circle's right."
   },
   {
@@ -140,20 +148,18 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "two step movement",
     "printable": true,
-    "type": "single",
-    "question": "The ball is in the box. Where is the ball?",
+    "type": "order",
+    "question": "Put the movement instructions in order to move a toy from inside a box to beside it.",
     "items": [
       "Place it beside the box",
       "Take it out of the box"
     ],
-    "correct": 0,
+    "correct": [
+      "Take it out of the box",
+      "Place it beside the box"
+    ],
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "First move out, then place beside.",
-    "answers": [
-      "inside the box",
-      "above the box",
-      "beside the box"
-    ]
+    "explanation": "First move out, then place beside."
   },
   {
     "id": "ac9mfsp02-t-010",
@@ -167,7 +173,8 @@ window.skillrTestQuestions = [
     "answers": [
       "right square",
       "left square",
-      "centre square"
+      "centre square",
+      "above square"
     ],
     "correct": 0,
     "explanation": "Moving right changes the robot's horizontal position."
@@ -178,20 +185,18 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "follow route",
     "printable": true,
-    "type": "single",
-    "question": "The teddy is beside the chair. Where is the teddy?",
+    "type": "order",
+    "question": "Put the two route instructions in order.",
     "items": [
       "forward",
       "right"
     ],
-    "correct": 0,
+    "correct": [
+      "right",
+      "forward"
+    ],
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Follow the stated route one move at a time.",
-    "answers": [
-      "beside the chair",
-      "under the chair",
-      "inside the chair"
-    ]
+    "explanation": "Follow the stated route one move at a time."
   },
   {
     "id": "ac9mfsp02-t-012",
@@ -203,11 +208,12 @@ window.skillrTestQuestions = [
     "question": "The star is to the right of the circle. Which move takes the circle to the star?",
     "visual": "◯  →  ★",
     "answers": [
+      "move down",
+      "stay still",
       "move right",
-      "move left",
-      "move down"
+      "move left"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The target is on the right."
   },
   {
@@ -221,7 +227,8 @@ window.skillrTestQuestions = [
     "answers": [
       "They are looking from different viewpoints",
       "The chair moved by itself",
-      "Left and right mean the same"
+      "Left and right mean the same",
+      "Only Ava can be correct"
     ],
     "correct": 0,
     "explanation": "Left and right can depend on viewing direction."
@@ -233,14 +240,15 @@ window.skillrTestQuestions = [
     "skill": "correct location mistake",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] Mia says the ball is inside the box, but the picture shows it beside the box. Which word is correct?",
+    "question": "Mia says the ball is inside the box, but the picture shows it beside the box. Which word is correct?",
     "visual": "[ □ ]   ●",
     "answers": [
+      "between",
       "beside",
       "inside",
       "above"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "The ball is next to, not contained by, the box."
   },
   {
@@ -249,14 +257,18 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "select position words",
     "printable": true,
-    "type": "single",
-    "question": "The ball is in the box. Where is the ball?",
+    "type": "multiple",
+    "question": "Select both words that describe relative position.",
     "answers": [
-      "inside the box",
-      "above the box",
-      "beside the box"
+      "above",
+      "between",
+      "heavy",
+      "longer"
     ],
-    "correct": 0,
+    "correct": [
+      0,
+      1
+    ],
     "explanation": "Above and between describe location."
   },
   {
@@ -265,154 +277,19 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "three step route",
     "printable": true,
-    "type": "single",
-    "question": "The star is above the square. Where is the star?",
+    "type": "order",
+    "question": "Put the route in order.",
     "items": [
       "stop beside the desk",
       "turn left",
       "move forward"
     ],
-    "correct": 0,
+    "correct": [
+      "move forward",
+      "turn left",
+      "stop beside the desk"
+    ],
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Follow the route in sequence.",
-    "answers": [
-      "above the square",
-      "below the square",
-      "inside the square"
-    ]
-  },
-  {
-    "id": "ac9mfsp02-t-017",
-    "curriculumCode": "AC9MFSP02",
-    "bank": "test",
-    "skill": "above below",
-    "printable": true,
-    "type": "single",
-    "question": "The star is over the box. Where is the star?",
-    "visual": "   ★\n [ □ ]",
-    "answers": [
-      "above the box",
-      "below the box",
-      "inside the box"
-    ],
-    "correct": 0,
-    "explanation": "Over means above."
-  },
-  {
-    "id": "ac9mfsp02-t-018",
-    "curriculumCode": "AC9MFSP02",
-    "bank": "test",
-    "skill": "under",
-    "printable": true,
-    "type": "single",
-    "question": "The teddy is under the table. Which word describes its position?",
-    "visual": "──── table ────\n      ▲",
-    "answers": [
-      "below",
-      "above",
-      "inside"
-    ],
-    "correct": 0,
-    "explanation": "Under and below describe the teddy's position."
-  },
-  {
-    "id": "ac9mfsp02-t-019",
-    "curriculumCode": "AC9MFSP02",
-    "bank": "test",
-    "skill": "between",
-    "printable": true,
-    "type": "single",
-    "question": "The circle is in the middle of a square and a triangle. Where is the circle?",
-    "visual": "□   ◯   △",
-    "answers": [
-      "between them",
-      "above them",
-      "inside both"
-    ],
-    "correct": 0,
-    "explanation": "The circle is between the two shapes."
-  },
-  {
-    "id": "ac9mfsp02-t-020",
-    "curriculumCode": "AC9MFSP02",
-    "bank": "test",
-    "skill": "inside outside",
-    "printable": true,
-    "type": "single",
-    "question": "The ball is in the box. Where is the ball?",
-    "visual": "[  —  ]",
-    "answers": [
-      "inside the box",
-      "above the box",
-      "beside the box"
-    ],
-    "correct": 0,
-    "explanation": "The pencil is inside the case."
-  },
-  {
-    "id": "ac9mfsp02-t-021",
-    "curriculumCode": "AC9MFSP02",
-    "bank": "test",
-    "skill": "outside",
-    "printable": true,
-    "type": "single",
-    "question": "A ball is on the playground, not in the classroom. Where is it compared with the classroom?",
-    "answers": [
-      "outside",
-      "inside",
-      "between"
-    ],
-    "correct": 0,
-    "explanation": "The ball is outside the classroom."
-  },
-  {
-    "id": "ac9mfsp02-t-022",
-    "curriculumCode": "AC9MFSP02",
-    "bank": "test",
-    "skill": "front behind",
-    "printable": true,
-    "type": "single",
-    "question": "A tree blocks the child from your view. Where is the child compared with the tree?",
-    "answers": [
-      "behind the tree",
-      "in front of the tree",
-      "inside the tree"
-    ],
-    "correct": 0,
-    "explanation": "The child is behind the tree."
-  },
-  {
-    "id": "ac9mfsp02-t-023",
-    "curriculumCode": "AC9MFSP02",
-    "bank": "test",
-    "skill": "beside",
-    "printable": true,
-    "type": "single",
-    "question": "The book is next to the pencil. Which word also describes this position?",
-    "visual": "▭  —",
-    "answers": [
-      "beside",
-      "above",
-      "inside"
-    ],
-    "correct": 0,
-    "explanation": "Next to and beside have the same meaning."
-  },
-  {
-    "id": "ac9mfsp02-t-024",
-    "curriculumCode": "AC9MFSP02",
-    "bank": "test",
-    "skill": "left right",
-    "printable": true,
-    "type": "single",
-    "question": "The star is immediately to the right of the circle. Where is the star?",
-    "visual": "◯  ★",
-    "answers": [
-      "right of the circle",
-      "left of the circle",
-      "above the circle"
-    ],
-    "correct": 0,
-    "explanation": "The star is on the circle's right."
+    "explanation": "Follow the route in sequence."
   }
 ];

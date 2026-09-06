@@ -11,7 +11,8 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Tuesday",
       "Monday",
-      "Sunday"
+      "Wednesday",
+      "Thursday"
     ],
     "correct": 0,
     "explanation": "Tuesday follows Monday in the weekly cycle."
@@ -25,11 +26,12 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which day comes before Thursday?",
     "answers": [
+      "Thursday",
       "Wednesday",
       "Monday",
       "Tuesday"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Wednesday comes before Thursday."
   },
   {
@@ -41,11 +43,12 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Complete: Wednesday, Thursday, ___, Saturday.",
     "answers": [
+      "Thursday",
+      "Sunday",
       "Friday",
-      "Wednesday",
-      "Thursday"
+      "Wednesday"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The missing day is Friday."
   },
   {
@@ -54,14 +57,13 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "weekly cycle",
     "printable": true,
-    "type": "single",
-    "question": "Which day comes after Wednesday?",
+    "type": "true-false",
+    "question": "After Sunday, the weekly sequence continues with Monday.",
     "answers": [
-      "Thursday",
-      "Wednesday",
-      "Sunday"
+      "False",
+      "True"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "The seven days repeat in a cycle."
   },
   {
@@ -71,13 +73,14 @@ window.skillrPracticeQuestions = [
     "skill": "two days later",
     "printable": true,
     "type": "single",
-    "question": "Which day comes after Monday?",
+    "question": "If today is Friday, what day will it be two days later?",
     "answers": [
-      "Tuesday",
-      "Monday",
-      "Sunday"
+      "Friday",
+      "Sunday",
+      "Saturday",
+      "Monday"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Count forward two days to Sunday."
   },
   {
@@ -89,11 +92,12 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which event best matches lunchtime?",
     "answers": [
+      "eat a second breakfast at night",
+      "sleep during assembly",
       "eat lunch",
-      "wake at midnight for school",
-      "eat a second breakfast at night"
+      "wake at midnight for school"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "eat lunch commonly matches lunchtime."
   },
   {
@@ -110,10 +114,14 @@ window.skillrPracticeQuestions = [
       "afternoon",
       "lunchtime"
     ],
-    "correct": "morning,lunchtime,afternoon,night time",
+    "correct": [
+      "morning",
+      "lunchtime",
+      "afternoon",
+      "night time"
+    ],
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Morning, lunchtime, afternoon, night time.",
-    "modelAnswer": "morning,lunchtime,afternoon,night time"
+    "explanation": "Morning, lunchtime, afternoon, night time."
   },
   {
     "id": "ac9mfm02-p-008",
@@ -128,10 +136,13 @@ window.skillrPracticeQuestions = [
       "eat breakfast",
       "eat lunch"
     ],
-    "correct": "eat breakfast,eat lunch,go to bed",
+    "correct": [
+      "eat breakfast",
+      "eat lunch",
+      "go to bed"
+    ],
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Breakfast comes before lunch and bedtime.",
-    "modelAnswer": "eat breakfast,eat lunch,go to bed"
+    "explanation": "Breakfast comes before lunch and bedtime."
   },
   {
     "id": "ac9mfm02-p-009",
@@ -140,14 +151,15 @@ window.skillrPracticeQuestions = [
     "skill": "read visual schedule",
     "printable": true,
     "type": "single",
-    "question": "Which day comes after Monday?",
+    "question": "What activity is shown for Wednesday?",
     "visual": "Monday: library\nTuesday: sport\nWednesday: art\nThursday: music",
     "answers": [
-      "Tuesday",
-      "Monday",
-      "Sunday"
+      "sport",
+      "music",
+      "art",
+      "library"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The schedule pairs Wednesday with art."
   },
   {
@@ -157,12 +169,13 @@ window.skillrPracticeQuestions = [
     "skill": "earlier later",
     "printable": true,
     "type": "single",
-    "question": "Which day comes after Friday?",
+    "question": "Which happens earlier in the shown routine?",
     "visual": "Morning: breakfast → Lunchtime: lunch → Night: bedtime",
     "answers": [
-      "Saturday",
-      "Friday",
-      "Sunday"
+      "breakfast",
+      "lunch",
+      "bedtime",
+      "all happen together"
     ],
     "correct": 0,
     "explanation": "Breakfast is shown before lunch and bedtime."
@@ -174,13 +187,14 @@ window.skillrPracticeQuestions = [
     "skill": "chart starting point",
     "printable": true,
     "type": "single",
-    "question": "Which day comes after Sunday?",
+    "question": "A classroom chart starts with Monday. Does that mean Sunday is not followed by Monday?",
     "answers": [
-      "Monday",
-      "Sunday",
-      "Sunday"
+      "Only weekdays repeat",
+      "No, the week is a cycle",
+      "Yes, charts change the week",
+      "Yes, Sunday has no next day"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "A chart may choose a starting point, but the weekly order still cycles."
   },
   {
@@ -192,11 +206,12 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Mia writes Friday, Saturday, Monday. Which day did she miss?",
     "answers": [
+      "Tuesday",
+      "Wednesday",
       "Sunday",
-      "Thursday",
-      "Tuesday"
+      "Thursday"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Sunday comes between Saturday and Monday."
   },
   {
@@ -206,13 +221,17 @@ window.skillrPracticeQuestions = [
     "skill": "later day parts",
     "printable": true,
     "type": "multiple",
-    "question": "Which one day parts that come after lunchtime.",
+    "question": "Select the two day parts that come after lunchtime.",
     "answers": [
-      "afternoon",
       "morning",
-      "lunchtime"
+      "lunchtime",
+      "afternoon",
+      "night time"
     ],
-    "correct": 0,
+    "correct": [
+      2,
+      3
+    ],
     "explanation": "Afternoon and night time come after lunchtime."
   },
   {
@@ -229,10 +248,14 @@ window.skillrPracticeQuestions = [
       "Wednesday",
       "Monday"
     ],
-    "correct": "Sunday,Monday,Tuesday,Wednesday",
+    "correct": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Follow the weekly sequence.",
-    "modelAnswer": "Sunday,Monday,Tuesday,Wednesday"
+    "explanation": "Follow the weekly sequence."
   },
   {
     "id": "ac9mfm02-p-015",
@@ -256,12 +279,13 @@ window.skillrPracticeQuestions = [
     "skill": "next event from schedule",
     "printable": true,
     "type": "single",
-    "question": "Which day comes after Wednesday?",
+    "question": "According to the schedule, what happens after lunch?",
     "visual": "breakfast → school → lunch → play → sleep",
     "answers": [
-      "Thursday",
-      "Wednesday",
-      "Sunday"
+      "play",
+      "breakfast",
+      "sleep",
+      "wake up"
     ],
     "correct": 0,
     "explanation": "The shown schedule places play after lunch."
@@ -273,13 +297,14 @@ window.skillrPracticeQuestions = [
     "skill": "day after",
     "printable": true,
     "type": "single",
-    "question": "Which day comes after Monday?",
+    "question": "Which day comes after Wednesday?",
     "answers": [
-      "Tuesday",
+      "Wednesday",
+      "Thursday",
       "Monday",
-      "Sunday"
+      "Tuesday"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Thursday follows Wednesday in the weekly cycle."
   },
   {
@@ -291,11 +316,12 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which day comes before Saturday?",
     "answers": [
+      "Tuesday",
+      "Wednesday",
       "Friday",
-      "Monday",
-      "Tuesday"
+      "Monday"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Friday comes before Saturday."
   },
   {
@@ -309,7 +335,8 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Sunday",
       "Friday",
-      "Saturday"
+      "Saturday",
+      "Tuesday"
     ],
     "correct": 0,
     "explanation": "The missing day is Sunday."
@@ -320,15 +347,14 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "weekly cycle",
     "printable": true,
-    "type": "single",
-    "question": "Which day comes after Wednesday?",
+    "type": "true-false",
+    "question": "In a new example, after Sunday, the weekly sequence continues with Monday.",
     "answers": [
-      "Thursday",
-      "Wednesday",
-      "Sunday"
+      "False",
+      "True"
     ],
-    "correct": 0,
-    "explanation": "The seven days repeat in a cycle."
+    "correct": 1,
+    "explanation": "Check this example independently. The seven days repeat in a cycle."
   },
   {
     "id": "ac9mfm02-p-021",
@@ -337,13 +363,14 @@ window.skillrPracticeQuestions = [
     "skill": "two days later",
     "printable": true,
     "type": "single",
-    "question": "Which day comes after Monday?",
+    "question": "If today is Sunday, what day will it be two days later?",
     "answers": [
+      "Wednesday",
+      "Sunday",
       "Tuesday",
-      "Monday",
-      "Sunday"
+      "Monday"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Count forward two days to Tuesday."
   },
   {
@@ -353,14 +380,15 @@ window.skillrPracticeQuestions = [
     "skill": "match event to day part",
     "printable": true,
     "type": "single",
-    "question": "Which event best matches lunchtime?",
+    "question": "In a new example, which event best matches lunchtime?",
     "answers": [
       "eat lunch",
       "wake at midnight for school",
-      "eat a second breakfast at night"
+      "eat a second breakfast at night",
+      "sleep during assembly"
     ],
     "correct": 0,
-    "explanation": "eat lunch commonly matches lunchtime."
+    "explanation": "Check this example independently. eat lunch commonly matches lunchtime."
   },
   {
     "id": "ac9mfm02-p-023",
@@ -369,17 +397,21 @@ window.skillrPracticeQuestions = [
     "skill": "order day parts",
     "printable": true,
     "type": "order",
-    "question": "Put the day parts from earlier to later.",
+    "question": "In a new example, put the day parts from earlier to later.",
     "items": [
       "night time",
       "morning",
       "afternoon",
       "lunchtime"
     ],
-    "correct": "morning,lunchtime,afternoon,night time",
+    "correct": [
+      "morning",
+      "lunchtime",
+      "afternoon",
+      "night time"
+    ],
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Morning, lunchtime, afternoon, night time.",
-    "modelAnswer": "morning,lunchtime,afternoon,night time"
+    "explanation": "Check this example independently. Morning, lunchtime, afternoon, night time."
   },
   {
     "id": "ac9mfm02-p-024",
@@ -388,547 +420,18 @@ window.skillrPracticeQuestions = [
     "skill": "sequence routine",
     "printable": true,
     "type": "order",
-    "question": "Put the routine from earlier to later.",
+    "question": "In a new example, put the routine from earlier to later.",
     "items": [
       "go to bed",
       "eat breakfast",
       "eat lunch"
     ],
-    "correct": "eat breakfast,eat lunch,go to bed",
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "Breakfast comes before lunch and bedtime.",
-    "modelAnswer": "eat breakfast,eat lunch,go to bed"
-  },
-  {
-    "id": "ac9mfm02-p-025",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "read visual schedule",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Monday?",
-    "visual": "Monday: library\nTuesday: sport\nWednesday: art\nThursday: music",
-    "answers": [
-      "Tuesday",
-      "Monday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "The schedule pairs Wednesday with art."
-  },
-  {
-    "id": "ac9mfm02-p-026",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "earlier later",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Friday?",
-    "visual": "Morning: breakfast → Lunchtime: lunch → Night: bedtime",
-    "answers": [
-      "Saturday",
-      "Friday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "Breakfast is shown before lunch and bedtime."
-  },
-  {
-    "id": "ac9mfm02-p-027",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "chart starting point",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Sunday?",
-    "answers": [
-      "Monday",
-      "Sunday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "A chart may choose a starting point, but the weekly order still cycles."
-  },
-  {
-    "id": "ac9mfm02-p-028",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "correct sequence error",
-    "printable": true,
-    "type": "single",
-    "question": "Mia writes Friday, Saturday, Monday. Which day did she miss?",
-    "answers": [
-      "Sunday",
-      "Thursday",
-      "Tuesday"
-    ],
-    "correct": 0,
-    "explanation": "Sunday comes between Saturday and Monday."
-  },
-  {
-    "id": "ac9mfm02-p-029",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "later day parts",
-    "printable": true,
-    "type": "multiple",
-    "question": "Which one day parts that come after lunchtime.",
-    "answers": [
-      "afternoon",
-      "morning",
-      "lunchtime"
-    ],
-    "correct": 0,
-    "explanation": "Afternoon and night time come after lunchtime."
-  },
-  {
-    "id": "ac9mfm02-p-030",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "order four days",
-    "printable": true,
-    "type": "order",
-    "question": "Put these four days in weekly order.",
-    "items": [
-      "Thursday",
-      "Tuesday",
-      "Friday",
-      "Wednesday"
-    ],
-    "correct": "Tuesday,Wednesday,Thursday,Friday",
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "Follow the weekly sequence.",
-    "modelAnswer": "Tuesday,Wednesday,Thursday,Friday"
-  },
-  {
-    "id": "ac9mfm02-p-031",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "routine variability",
-    "printable": true,
-    "type": "true-false",
-    "question": "Every family must complete every daily activity at exactly the same time.",
-    "answers": [
-      "False",
-      "True"
-    ],
-    "correct": 0,
-    "explanation": "Routines can differ. Use the schedule shown in the question."
-  },
-  {
-    "id": "ac9mfm02-p-032",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "next event from schedule",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Wednesday?",
-    "visual": "breakfast → school → lunch → play → sleep",
-    "answers": [
-      "Thursday",
-      "Wednesday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "The shown schedule places play after lunch."
-  },
-  {
-    "id": "ac9mfm02-p-033",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "day after",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Monday?",
-    "answers": [
-      "Tuesday",
-      "Monday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "Saturday follows Friday in the weekly cycle."
-  },
-  {
-    "id": "ac9mfm02-p-034",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "day before",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes before Monday?",
-    "answers": [
-      "Sunday",
-      "Monday",
-      "Tuesday"
-    ],
-    "correct": 0,
-    "explanation": "Sunday comes before Monday."
-  },
-  {
-    "id": "ac9mfm02-p-035",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "complete day sequence",
-    "printable": true,
-    "type": "single",
-    "question": "Complete: Sunday, Monday, ___, Wednesday.",
-    "answers": [
-      "Tuesday",
-      "Sunday",
-      "Monday"
-    ],
-    "correct": 0,
-    "explanation": "The missing day is Tuesday."
-  },
-  {
-    "id": "ac9mfm02-p-036",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "weekly cycle",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Wednesday?",
-    "answers": [
-      "Thursday",
-      "Wednesday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "The seven days repeat in a cycle."
-  },
-  {
-    "id": "ac9mfm02-p-037",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "two days later",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Monday?",
-    "answers": [
-      "Tuesday",
-      "Monday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "Count forward two days to Thursday."
-  },
-  {
-    "id": "ac9mfm02-p-038",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "match event to day part",
-    "printable": true,
-    "type": "single",
-    "question": "Which event best matches lunchtime?",
-    "answers": [
+    "correct": [
+      "eat breakfast",
       "eat lunch",
-      "wake at midnight for school",
-      "eat a second breakfast at night"
+      "go to bed"
     ],
-    "correct": 0,
-    "explanation": "eat lunch commonly matches lunchtime."
-  },
-  {
-    "id": "ac9mfm02-p-039",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "order day parts",
-    "printable": true,
-    "type": "order",
-    "question": "Put the day parts from earlier to later.",
-    "items": [
-      "night time",
-      "morning",
-      "afternoon",
-      "lunchtime"
-    ],
-    "correct": "morning,lunchtime,afternoon,night time",
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Morning, lunchtime, afternoon, night time.",
-    "modelAnswer": "morning,lunchtime,afternoon,night time"
-  },
-  {
-    "id": "ac9mfm02-p-040",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "sequence routine",
-    "printable": true,
-    "type": "order",
-    "question": "Put the routine from earlier to later.",
-    "items": [
-      "go to bed",
-      "eat breakfast",
-      "eat lunch"
-    ],
-    "correct": "eat breakfast,eat lunch,go to bed",
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "Breakfast comes before lunch and bedtime.",
-    "modelAnswer": "eat breakfast,eat lunch,go to bed"
-  },
-  {
-    "id": "ac9mfm02-p-041",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "read visual schedule",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Monday?",
-    "visual": "Monday: library\nTuesday: sport\nWednesday: art\nThursday: music",
-    "answers": [
-      "Tuesday",
-      "Monday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "The schedule pairs Wednesday with art."
-  },
-  {
-    "id": "ac9mfm02-p-042",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "earlier later",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Friday?",
-    "visual": "Morning: breakfast → Lunchtime: lunch → Night: bedtime",
-    "answers": [
-      "Saturday",
-      "Friday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "Breakfast is shown before lunch and bedtime."
-  },
-  {
-    "id": "ac9mfm02-p-043",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "chart starting point",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Sunday?",
-    "answers": [
-      "Monday",
-      "Sunday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "A chart may choose a starting point, but the weekly order still cycles."
-  },
-  {
-    "id": "ac9mfm02-p-044",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "correct sequence error",
-    "printable": true,
-    "type": "single",
-    "question": "Mia writes Friday, Saturday, Monday. Which day did she miss?",
-    "answers": [
-      "Sunday",
-      "Thursday",
-      "Tuesday"
-    ],
-    "correct": 0,
-    "explanation": "Sunday comes between Saturday and Monday."
-  },
-  {
-    "id": "ac9mfm02-p-045",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "later day parts",
-    "printable": true,
-    "type": "multiple",
-    "question": "Which one day parts that come after lunchtime.",
-    "answers": [
-      "afternoon",
-      "morning",
-      "lunchtime"
-    ],
-    "correct": 0,
-    "explanation": "Afternoon and night time come after lunchtime."
-  },
-  {
-    "id": "ac9mfm02-p-046",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "order four days",
-    "printable": true,
-    "type": "order",
-    "question": "Put these four days in weekly order.",
-    "items": [
-      "Saturday",
-      "Thursday",
-      "Sunday",
-      "Friday"
-    ],
-    "correct": "Thursday,Friday,Saturday,Sunday",
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "Follow the weekly sequence.",
-    "modelAnswer": "Thursday,Friday,Saturday,Sunday"
-  },
-  {
-    "id": "ac9mfm02-p-047",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "routine variability",
-    "printable": true,
-    "type": "true-false",
-    "question": "Every family must complete every daily activity at exactly the same time.",
-    "answers": [
-      "False",
-      "True"
-    ],
-    "correct": 0,
-    "explanation": "Routines can differ. Use the schedule shown in the question."
-  },
-  {
-    "id": "ac9mfm02-p-048",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "next event from schedule",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Wednesday?",
-    "visual": "breakfast → school → lunch → play → sleep",
-    "answers": [
-      "Thursday",
-      "Wednesday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "The shown schedule places play after lunch."
-  },
-  {
-    "id": "ac9mfm02-p-049",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "day after",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Monday?",
-    "answers": [
-      "Tuesday",
-      "Monday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "Monday follows Sunday in the weekly cycle."
-  },
-  {
-    "id": "ac9mfm02-p-050",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "day before",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes before Wednesday?",
-    "answers": [
-      "Tuesday",
-      "Monday",
-      "Wednesday"
-    ],
-    "correct": 0,
-    "explanation": "Tuesday comes before Wednesday."
-  },
-  {
-    "id": "ac9mfm02-p-051",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "complete day sequence",
-    "printable": true,
-    "type": "single",
-    "question": "Complete: Tuesday, Wednesday, ___, Friday.",
-    "answers": [
-      "Thursday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "correct": 0,
-    "explanation": "The missing day is Thursday."
-  },
-  {
-    "id": "ac9mfm02-p-052",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "weekly cycle",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Wednesday?",
-    "answers": [
-      "Thursday",
-      "Wednesday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "The seven days repeat in a cycle."
-  },
-  {
-    "id": "ac9mfm02-p-053",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "two days later",
-    "printable": true,
-    "type": "single",
-    "question": "Which day comes after Monday?",
-    "answers": [
-      "Tuesday",
-      "Monday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "Count forward two days to Saturday."
-  },
-  {
-    "id": "ac9mfm02-p-054",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "match event to day part",
-    "printable": true,
-    "type": "single",
-    "question": "Which event best matches lunchtime?",
-    "answers": [
-      "eat lunch",
-      "wake at midnight for school",
-      "eat a second breakfast at night"
-    ],
-    "correct": 0,
-    "explanation": "eat lunch commonly matches lunchtime."
-  },
-  {
-    "id": "ac9mfm02-p-055",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "order day parts",
-    "printable": true,
-    "type": "order",
-    "question": "Put the day parts from earlier to later.",
-    "items": [
-      "night time",
-      "morning",
-      "afternoon",
-      "lunchtime"
-    ],
-    "correct": "morning,lunchtime,afternoon,night time",
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "Morning, lunchtime, afternoon, night time.",
-    "modelAnswer": "morning,lunchtime,afternoon,night time"
-  },
-  {
-    "id": "ac9mfm02-p-056",
-    "curriculumCode": "AC9MFM02",
-    "bank": "practice",
-    "skill": "sequence routine",
-    "printable": true,
-    "type": "order",
-    "question": "Put the routine from earlier to later.",
-    "items": [
-      "go to bed",
-      "eat breakfast",
-      "eat lunch"
-    ],
-    "correct": "eat breakfast,eat lunch,go to bed",
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "Breakfast comes before lunch and bedtime.",
-    "modelAnswer": "eat breakfast,eat lunch,go to bed"
+    "explanation": "Check this example independently. Breakfast comes before lunch and bedtime."
   }
 ];

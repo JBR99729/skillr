@@ -7,12 +7,12 @@ window.skillrPracticeQuestions = [
     "skill": "continue pattern",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
+    "question": "What comes next?",
     "visual": "● ■ ● ■ ● ■  ?",
     "answers": [
-      "■",
       "●",
-      "▲"
+      "■",
+      "○"
     ],
     "correct": 0,
     "explanation": "The unit ● ■ repeats in the same order."
@@ -24,14 +24,15 @@ window.skillrPracticeQuestions = [
     "skill": "identify repeating unit",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
+    "question": "What is the smallest part that repeats?",
     "visual": "★ ● ● ★ ● ● ★ ● ●",
     "answers": [
-      "●",
-      "★",
-      "■"
+      "There is no unit",
+      "★ ● ●",
+      "★ ●",
+      "★ ● ● ★ ● ●"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "The shortest complete repeating unit is ★ ● ●."
   },
   {
@@ -41,14 +42,14 @@ window.skillrPracticeQuestions = [
     "skill": "missing item inside pattern",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
+    "question": "Which item belongs at the question mark?",
     "visual": "● ● ? ● ● ■",
     "answers": [
-      "◆",
-      "▲",
-      "●"
+      "●",
+      "○",
+      "■"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Follow the repeating unit to replace the missing item."
   },
   {
@@ -58,12 +59,12 @@ window.skillrPracticeQuestions = [
     "skill": "repair pattern break",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
+    "question": "Which item should replace the odd item?",
     "visual": "● ■ ● ■ ● ■",
     "answers": [
-      "●",
       "■",
-      "★"
+      "●",
+      "○"
     ],
     "correct": 0,
     "explanation": "The item must match the same position in each repeated unit."
@@ -75,14 +76,15 @@ window.skillrPracticeQuestions = [
     "skill": "match same rule",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
+    "question": "Which letter rule matches this pattern?",
     "visual": "● ● ■ ● ● ■",
     "answers": [
-      "■",
-      "●",
-      "▲"
+      "No repeating rule",
+      "ABC",
+      "AAB",
+      "ABB"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Each different symbol can be named with a letter to show the repeating structure."
   },
   {
@@ -92,13 +94,14 @@ window.skillrPracticeQuestions = [
     "skill": "same rule different objects",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
+    "question": "Which pattern follows the same repeating rule?",
     "answers": [
-      "●",
-      "★",
-      "■"
+      "clap, stamp, jump, clap",
+      "random actions",
+      "clap, tap, jump, tap, clap, tap, jump, tap",
+      "clap, clap, stamp, jump"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The actions repeat with the same unit length and order."
   },
   {
@@ -107,12 +110,11 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "recognise repeating pattern",
     "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
+    "type": "true-false",
+    "question": "▲ ◆ ▲ ◆ ▲ ◆ is a repeating pattern.",
     "answers": [
-      "◆",
-      "▲",
-      "●"
+      "True",
+      "False"
     ],
     "correct": 0,
     "explanation": "The same unit occurs again and again."
@@ -123,14 +125,13 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "distinguish nonrepeating sequence",
     "printable": true,
-    "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
+    "type": "true-false",
+    "question": "● ■ ▲ ★ is repeating because every item is different.",
     "answers": [
-      "●",
-      "■",
-      "★"
+      "True",
+      "False"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "A repeating pattern must repeat a unit, not simply contain different items."
   },
   {
@@ -140,14 +141,14 @@ window.skillrPracticeQuestions = [
     "skill": "movement pattern",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
+    "question": "Which action comes next?",
     "visual": "clap → stamp → clap → stamp → ?",
     "answers": [
-      "■",
-      "●",
-      "▲"
+      "stamp",
+      "sit",
+      "clap"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The body-action unit starts again."
   },
   {
@@ -156,22 +157,22 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "order one repeating unit",
     "printable": true,
-    "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
+    "type": "order",
+    "question": "Put one complete repeating unit in order.",
     "items": [
       "★",
       "▲",
       "★",
       "◆"
     ],
-    "correct": 0,
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "The unit is ◆ ★ ▲ ★.",
-    "answers": [
-      "●",
+    "correct": [
+      "◆",
       "★",
-      "■"
-    ]
+      "▲",
+      "★"
+    ],
+    "instruction": "Use the arrows to put them in order.",
+    "explanation": "The unit is ◆ ★ ▲ ★."
   },
   {
     "id": "ac9mfa01-p-011",
@@ -179,18 +180,13 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "count unit length",
     "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
+    "type": "number",
+    "question": "How many items are in the repeating unit?",
     "visual": "▲ ◆ ▲ ◆ ▲ ◆",
-    "correct": 0,
+    "correct": 2,
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The shortest repeated section contains 2 items.",
-    "answers": [
-      "◆",
-      "▲",
-      "●"
-    ]
+    "explanation": "The shortest repeated section contains 2 items."
   },
   {
     "id": "ac9mfa01-p-012",
@@ -199,14 +195,15 @@ window.skillrPracticeQuestions = [
     "skill": "choose copied pattern",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
+    "question": "Which is a correct copy of the shown pattern?",
     "visual": "◆ ★ ▲ ★ ◆ ★ ▲ ★",
     "answers": [
-      "●",
-      "■",
-      "★"
+      "◆ ★ ▲ ★ ★ ▲ ★",
+      "Random symbols",
+      "◆ ★ ▲ ★ ◆ ★ ▲ ★",
+      "★ ▲ ★ ◆ ◆ ★ ▲ ★"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "A copy keeps the same unit and order."
   },
   {
@@ -216,12 +213,12 @@ window.skillrPracticeQuestions = [
     "skill": "continue two positions",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
+    "question": "Which two items come next?",
     "visual": "▲ ◆ ▲ ◆  ? ?",
     "answers": [
-      "■",
-      "●",
-      "▲"
+      "▲ ◆",
+      "◆ ▲",
+      "○ ○"
     ],
     "correct": 0,
     "explanation": "After a complete unit, the pattern starts again."
@@ -232,15 +229,19 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "select valid continuations",
     "printable": true,
-    "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
+    "type": "multiple",
+    "question": "Select both statements that are true about the pattern.",
     "visual": "■ ▲ ◆ ■ ▲ ◆",
     "answers": [
-      "●",
-      "★",
-      "■"
+      "The same unit repeats",
+      "The order matters",
+      "Any symbol can come next",
+      "The pattern stops after one unit"
     ],
-    "correct": 0,
+    "correct": [
+      0,
+      1
+    ],
     "explanation": "A repeating pattern keeps its unit and order."
   },
   {
@@ -250,14 +251,15 @@ window.skillrPracticeQuestions = [
     "skill": "pattern misconception",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
+    "question": "Lina says the largest symbol must always come next. What is correct?",
     "visual": "◆ ★ ▲ ★ ◆ ★ ▲ ★",
     "answers": [
-      "◆",
-      "▲",
-      "●"
+      "Colour always decides",
+      "Patterns have no rules",
+      "The repeating unit decides what comes next",
+      "Size always decides"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The next item depends on position in the repeated unit."
   },
   {
@@ -267,12 +269,13 @@ window.skillrPracticeQuestions = [
     "skill": "find complete unit boundary",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
+    "question": "Which section is one complete unit?",
     "visual": "■ ▲ ◆ ■ ▲ ◆ ■ ▲ ◆",
     "answers": [
-      "●",
+      "■ ▲ ◆",
+      "■ ▲ ◆ ■",
       "■",
-      "★"
+      "the final symbol only"
     ],
     "correct": 0,
     "explanation": "A complete unit contains every item in the repeated rule once."
@@ -284,14 +287,14 @@ window.skillrPracticeQuestions = [
     "skill": "continue pattern",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
+    "question": "What comes next?",
     "visual": "● ● ■ ● ● ■  ?",
     "answers": [
-      "■",
+      "○",
       "●",
-      "▲"
+      "■"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "The unit ● ● ■ repeats in the same order."
   },
   {
@@ -301,14 +304,15 @@ window.skillrPracticeQuestions = [
     "skill": "identify repeating unit",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
+    "question": "What is the smallest part that repeats?",
     "visual": "● ■ ● ■ ● ■",
     "answers": [
-      "●",
-      "★",
-      "■"
+      "● ■ ● ■",
+      "There is no unit",
+      "● ■",
+      "●"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The shortest complete repeating unit is ● ■."
   },
   {
@@ -318,12 +322,12 @@ window.skillrPracticeQuestions = [
     "skill": "missing item inside pattern",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
+    "question": "Which item belongs at the question mark?",
     "visual": "? ● ● ★ ● ●",
     "answers": [
-      "◆",
-      "▲",
-      "●"
+      "★",
+      "●",
+      "○"
     ],
     "correct": 0,
     "explanation": "Follow the repeating unit to replace the missing item."
@@ -335,14 +339,14 @@ window.skillrPracticeQuestions = [
     "skill": "repair pattern break",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
+    "question": "Which item should replace the odd item?",
     "visual": "● ● ■ ● ⬟ ■ ● ● ■",
     "answers": [
+      "○",
       "●",
-      "■",
-      "★"
+      "■"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "The item must match the same position in each repeated unit."
   },
   {
@@ -352,14 +356,15 @@ window.skillrPracticeQuestions = [
     "skill": "match same rule",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
+    "question": "Which letter rule matches this pattern?",
     "visual": "★ ● ● ★ ● ●",
     "answers": [
-      "■",
-      "●",
-      "▲"
+      "ABB",
+      "No repeating rule",
+      "ABC",
+      "AAB"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Each different symbol can be named with a letter to show the repeating structure."
   },
   {
@@ -369,11 +374,12 @@ window.skillrPracticeQuestions = [
     "skill": "same rule different objects",
     "printable": true,
     "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
+    "question": "Which pattern follows the same repeating rule?",
     "answers": [
-      "●",
-      "★",
-      "■"
+      "clap, tap, jump, clap, tap, jump",
+      "clap, clap, stamp, jump",
+      "clap, stamp, jump, clap",
+      "random actions"
     ],
     "correct": 0,
     "explanation": "The actions repeat with the same unit length and order."
@@ -384,12 +390,11 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "recognise repeating pattern",
     "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
+    "type": "true-false",
+    "question": "◆ ★ ▲ ★ ◆ ★ ▲ ★ ◆ ★ ▲ ★ is a repeating pattern.",
     "answers": [
-      "◆",
-      "▲",
-      "●"
+      "True",
+      "False"
     ],
     "correct": 0,
     "explanation": "The same unit occurs again and again."
@@ -400,565 +405,13 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "distinguish nonrepeating sequence",
     "printable": true,
-    "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
+    "type": "true-false",
+    "question": "In a new example, ● ■ ▲ ★ is repeating because every item is different.",
     "answers": [
-      "●",
-      "■",
-      "★"
+      "True",
+      "False"
     ],
-    "correct": 0,
-    "explanation": "A repeating pattern must repeat a unit, not simply contain different items."
-  },
-  {
-    "id": "ac9mfa01-p-025",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "movement pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
-    "visual": "clap → stamp → clap → stamp → ?",
-    "answers": [
-      "■",
-      "●",
-      "▲"
-    ],
-    "correct": 0,
-    "explanation": "The body-action unit starts again."
-  },
-  {
-    "id": "ac9mfa01-p-026",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "order one repeating unit",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
-    "items": [
-      "◆",
-      "▲",
-      "■"
-    ],
-    "correct": 0,
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "The unit is ■ ▲ ◆.",
-    "answers": [
-      "●",
-      "★",
-      "■"
-    ]
-  },
-  {
-    "id": "ac9mfa01-p-027",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "count unit length",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
-    "visual": "◆ ★ ▲ ★ ◆ ★ ▲ ★ ◆ ★ ▲ ★",
-    "correct": 0,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "The shortest repeated section contains 4 items.",
-    "answers": [
-      "◆",
-      "▲",
-      "●"
-    ]
-  },
-  {
-    "id": "ac9mfa01-p-028",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "choose copied pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
-    "visual": "■ ▲ ◆ ■ ▲ ◆",
-    "answers": [
-      "●",
-      "■",
-      "★"
-    ],
-    "correct": 0,
-    "explanation": "A copy keeps the same unit and order."
-  },
-  {
-    "id": "ac9mfa01-p-029",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "continue two positions",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
-    "visual": "◆ ★ ▲ ★ ◆ ★ ▲ ★  ? ?",
-    "answers": [
-      "■",
-      "●",
-      "▲"
-    ],
-    "correct": 0,
-    "explanation": "After a complete unit, the pattern starts again."
-  },
-  {
-    "id": "ac9mfa01-p-030",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "select valid continuations",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
-    "visual": "▲ ◆ ▲ ◆",
-    "answers": [
-      "●",
-      "★",
-      "■"
-    ],
-    "correct": 0,
-    "explanation": "A repeating pattern keeps its unit and order."
-  },
-  {
-    "id": "ac9mfa01-p-031",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "pattern misconception",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
-    "visual": "■ ▲ ◆ ■ ▲ ◆",
-    "answers": [
-      "◆",
-      "▲",
-      "●"
-    ],
-    "correct": 0,
-    "explanation": "The next item depends on position in the repeated unit."
-  },
-  {
-    "id": "ac9mfa01-p-032",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "find complete unit boundary",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
-    "visual": "▲ ◆ ▲ ◆ ▲ ◆",
-    "answers": [
-      "●",
-      "■",
-      "★"
-    ],
-    "correct": 0,
-    "explanation": "A complete unit contains every item in the repeated rule once."
-  },
-  {
-    "id": "ac9mfa01-p-033",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "continue pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
-    "visual": "★ ● ● ★ ● ●  ?",
-    "answers": [
-      "■",
-      "●",
-      "▲"
-    ],
-    "correct": 0,
-    "explanation": "The unit ★ ● ● repeats in the same order."
-  },
-  {
-    "id": "ac9mfa01-p-034",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "identify repeating unit",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
-    "visual": "● ● ■ ● ● ■ ● ● ■",
-    "answers": [
-      "●",
-      "★",
-      "■"
-    ],
-    "correct": 0,
-    "explanation": "The shortest complete repeating unit is ● ● ■."
-  },
-  {
-    "id": "ac9mfa01-p-035",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "missing item inside pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
-    "visual": "● ■ ? ■",
-    "answers": [
-      "◆",
-      "▲",
-      "●"
-    ],
-    "correct": 0,
-    "explanation": "Follow the repeating unit to replace the missing item."
-  },
-  {
-    "id": "ac9mfa01-p-036",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "repair pattern break",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
-    "visual": "★ ● ● ★ ● ◆ ★ ● ●",
-    "answers": [
-      "●",
-      "■",
-      "★"
-    ],
-    "correct": 0,
-    "explanation": "The item must match the same position in each repeated unit."
-  },
-  {
-    "id": "ac9mfa01-p-037",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "match same rule",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
-    "visual": "● ■ ● ■",
-    "answers": [
-      "■",
-      "●",
-      "▲"
-    ],
-    "correct": 0,
-    "explanation": "Each different symbol can be named with a letter to show the repeating structure."
-  },
-  {
-    "id": "ac9mfa01-p-038",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "same rule different objects",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
-    "answers": [
-      "●",
-      "★",
-      "■"
-    ],
-    "correct": 0,
-    "explanation": "The actions repeat with the same unit length and order."
-  },
-  {
-    "id": "ac9mfa01-p-039",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "recognise repeating pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
-    "answers": [
-      "◆",
-      "▲",
-      "●"
-    ],
-    "correct": 0,
-    "explanation": "The same unit occurs again and again."
-  },
-  {
-    "id": "ac9mfa01-p-040",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "distinguish nonrepeating sequence",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
-    "answers": [
-      "●",
-      "■",
-      "★"
-    ],
-    "correct": 0,
-    "explanation": "A repeating pattern must repeat a unit, not simply contain different items."
-  },
-  {
-    "id": "ac9mfa01-p-041",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "movement pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
-    "visual": "clap → stamp → clap → stamp → ?",
-    "answers": [
-      "■",
-      "●",
-      "▲"
-    ],
-    "correct": 0,
-    "explanation": "The body-action unit starts again."
-  },
-  {
-    "id": "ac9mfa01-p-042",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "order one repeating unit",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
-    "items": [
-      "◆",
-      "▲"
-    ],
-    "correct": 0,
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "The unit is ▲ ◆.",
-    "answers": [
-      "●",
-      "★",
-      "■"
-    ]
-  },
-  {
-    "id": "ac9mfa01-p-043",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "count unit length",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
-    "visual": "■ ▲ ◆ ■ ▲ ◆ ■ ▲ ◆",
-    "correct": 0,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "The shortest repeated section contains 3 items.",
-    "answers": [
-      "◆",
-      "▲",
-      "●"
-    ]
-  },
-  {
-    "id": "ac9mfa01-p-044",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "choose copied pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
-    "visual": "▲ ◆ ▲ ◆",
-    "answers": [
-      "●",
-      "■",
-      "★"
-    ],
-    "correct": 0,
-    "explanation": "A copy keeps the same unit and order."
-  },
-  {
-    "id": "ac9mfa01-p-045",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "continue two positions",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
-    "visual": "■ ▲ ◆ ■ ▲ ◆  ? ?",
-    "answers": [
-      "■",
-      "●",
-      "▲"
-    ],
-    "correct": 0,
-    "explanation": "After a complete unit, the pattern starts again."
-  },
-  {
-    "id": "ac9mfa01-p-046",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "select valid continuations",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
-    "visual": "◆ ★ ▲ ★ ◆ ★ ▲ ★",
-    "answers": [
-      "●",
-      "★",
-      "■"
-    ],
-    "correct": 0,
-    "explanation": "A repeating pattern keeps its unit and order."
-  },
-  {
-    "id": "ac9mfa01-p-047",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "pattern misconception",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
-    "visual": "▲ ◆ ▲ ◆",
-    "answers": [
-      "◆",
-      "▲",
-      "●"
-    ],
-    "correct": 0,
-    "explanation": "The next item depends on position in the repeated unit."
-  },
-  {
-    "id": "ac9mfa01-p-048",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "find complete unit boundary",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
-    "visual": "◆ ★ ▲ ★ ◆ ★ ▲ ★ ◆ ★ ▲ ★",
-    "answers": [
-      "●",
-      "■",
-      "★"
-    ],
-    "correct": 0,
-    "explanation": "A complete unit contains every item in the repeated rule once."
-  },
-  {
-    "id": "ac9mfa01-p-049",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "continue pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
-    "visual": "● ■ ● ■ ● ■  ?",
-    "answers": [
-      "■",
-      "●",
-      "▲"
-    ],
-    "correct": 0,
-    "explanation": "The unit ● ■ repeats in the same order."
-  },
-  {
-    "id": "ac9mfa01-p-050",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "identify repeating unit",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
-    "visual": "★ ● ● ★ ● ● ★ ● ●",
-    "answers": [
-      "●",
-      "★",
-      "■"
-    ],
-    "correct": 0,
-    "explanation": "The shortest complete repeating unit is ★ ● ●."
-  },
-  {
-    "id": "ac9mfa01-p-051",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "missing item inside pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
-    "visual": "● ● ? ● ● ■",
-    "answers": [
-      "◆",
-      "▲",
-      "●"
-    ],
-    "correct": 0,
-    "explanation": "Follow the repeating unit to replace the missing item."
-  },
-  {
-    "id": "ac9mfa01-p-052",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "repair pattern break",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
-    "visual": "● ■ ● ■ ● ■",
-    "answers": [
-      "●",
-      "■",
-      "★"
-    ],
-    "correct": 0,
-    "explanation": "The item must match the same position in each repeated unit."
-  },
-  {
-    "id": "ac9mfa01-p-053",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "match same rule",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ● ■ ● ■ ●, ___",
-    "visual": "● ● ■ ● ● ■",
-    "answers": [
-      "■",
-      "●",
-      "▲"
-    ],
-    "correct": 0,
-    "explanation": "Each different symbol can be named with a letter to show the repeating structure."
-  },
-  {
-    "id": "ac9mfa01-p-054",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "same rule different objects",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ★ ★ ● ★ ★, ___",
-    "answers": [
-      "●",
-      "★",
-      "■"
-    ],
-    "correct": 0,
-    "explanation": "The actions repeat with the same unit length and order."
-  },
-  {
-    "id": "ac9mfa01-p-055",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "recognise repeating pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
-    "answers": [
-      "◆",
-      "▲",
-      "●"
-    ],
-    "correct": 0,
-    "explanation": "The same unit occurs again and again."
-  },
-  {
-    "id": "ac9mfa01-p-056",
-    "curriculumCode": "AC9MFA01",
-    "bank": "practice",
-    "skill": "distinguish nonrepeating sequence",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next? ■ ● ● ■ ●, ___",
-    "answers": [
-      "●",
-      "■",
-      "★"
-    ],
-    "correct": 0,
-    "explanation": "A repeating pattern must repeat a unit, not simply contain different items."
+    "correct": 1,
+    "explanation": "Check this example independently. A repeating pattern must repeat a unit, not simply contain different items."
   }
 ];

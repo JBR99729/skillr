@@ -7,12 +7,13 @@ window.skillrTestQuestions = [
     "skill": "sort visible objects",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
+    "question": "Which sorting rule makes two useful groups for this collection?",
     "visual": "● ● ● ● ■ ■ ■ ■",
     "answers": [
-      "apples",
-      "bananas",
-      "they are the same"
+      "sort circles and squares",
+      "sort by who likes them",
+      "put every item alone",
+      "change the rule for each item"
     ],
     "correct": 0,
     "explanation": "The objects can be classified consistently by shape."
@@ -24,13 +25,14 @@ window.skillrTestQuestions = [
     "skill": "choose sorting rule",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
+    "question": "A class wants to compare red and blue cards. What should they do first?",
     "answers": [
-      "3",
-      "2",
-      "4"
+      "Change every card's colour",
+      "Sort the cards by colour",
+      "Mix all cards together",
+      "Hide the cards"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Sorting by the feature in the question makes comparison possible."
   },
   {
@@ -39,18 +41,13 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "count category",
     "printable": true,
-    "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
+    "type": "number",
+    "question": "How many cat pictures are in the display?",
     "visual": "Cats: ▲ ▲ ▲ ▲\nDogs: ● ● ● ● ●",
-    "correct": 0,
+    "correct": 4,
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Count the cat pictures only.",
-    "answers": [
-      "bikes",
-      "cars",
-      "they are the same"
-    ]
+    "explanation": "Count the cat pictures only."
   },
   {
     "id": "ac9mfst01-t-004",
@@ -59,15 +56,16 @@ window.skillrTestQuestions = [
     "skill": "compare categories",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
+    "question": "Which category has more?",
     "visual": "Apples:  ● ● ● ● ● ●\nBananas: ■ ■ ■ ■ ■",
     "answers": [
-      "5",
-      "4",
-      "6"
+      "apples",
+      "bananas",
+      "same",
+      "cannot tell"
     ],
     "correct": 0,
-    "explanation": "Compare 6 and 5."
+    "explanation": "Compare 6 and 5. The larger count shows which category has more."
   },
   {
     "id": "ac9mfst01-t-005",
@@ -76,14 +74,15 @@ window.skillrTestQuestions = [
     "skill": "recognise equal categories",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
+    "question": "Which statement is correct?",
     "visual": "Circles: ● ● ● ● ● ●\nSquares: ■ ■ ■ ■ ■ ■",
     "answers": [
-      "apples",
-      "bananas",
-      "they are the same"
+      "You cannot count pictures",
+      "The categories are equal",
+      "Circles have more",
+      "Squares have more"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Both rows contain 6."
   },
   {
@@ -93,14 +92,15 @@ window.skillrTestQuestions = [
     "skill": "read picture display",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
+    "question": "What does the display show?",
     "visual": "Bikes:    ◆ ◆ ◆ ◆ ◆ ◆\nScooters: ▲ ▲ ▲ ▲",
     "answers": [
-      "3",
-      "2",
-      "4"
+      "The categories are equal",
+      "The pictures cannot be compared",
+      "There are more bikes than scooters",
+      "There are fewer bikes than scooters"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "6 bikes is more than 4 scooters."
   },
   {
@@ -110,12 +110,13 @@ window.skillrTestQuestions = [
     "skill": "question data can answer",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
+    "question": "Which question can this data answer?",
     "visual": "Circles: ● ● ●\nSquares: ■ ■ ■ ■",
     "answers": [
-      "bikes",
-      "cars",
-      "they are the same"
+      "Which shape appears more often?",
+      "What will tomorrow's weather be?",
+      "Who is the teacher's favourite student?",
+      "How heavy is each shape?"
     ],
     "correct": 0,
     "explanation": "The display contains counts of circles and squares."
@@ -127,13 +128,14 @@ window.skillrTestQuestions = [
     "skill": "question data cannot answer",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
+    "question": "Which question cannot be answered by a fruit picture display?",
     "answers": [
-      "5",
-      "4",
-      "6"
+      "Are bananas fewer than apples?",
+      "How heavy is each fruit?",
+      "Which fruit appears most?",
+      "How many apples are shown?"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "A picture count does not provide mass information."
   },
   {
@@ -142,18 +144,13 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "update display",
     "printable": true,
-    "type": "single",
-    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
+    "type": "number",
+    "question": "A display shows 5 boot pictures. One more boot is added. What is the new count?",
     "visual": "Before: ▲ ▲ ▲ ▲ ▲   Add: ▲",
-    "correct": 0,
+    "correct": 6,
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Count on one from 5 to 6.",
-    "answers": [
-      "apples",
-      "bananas",
-      "they are the same"
-    ]
+    "explanation": "Count on one from 5 to 6."
   },
   {
     "id": "ac9mfst01-t-010",
@@ -162,11 +159,12 @@ window.skillrTestQuestions = [
     "skill": "consistent sorting rule",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
+    "question": "What makes a sort fair and useful?",
     "answers": [
-      "3",
-      "2",
-      "4"
+      "Use the same rule for every object",
+      "Change the rule for each object",
+      "Put every object alone",
+      "Ignore the question"
     ],
     "correct": 0,
     "explanation": "A consistent rule lets categories be compared."
@@ -178,14 +176,15 @@ window.skillrTestQuestions = [
     "skill": "sort and count labels",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
+    "question": "After sorting, which counts are correct?",
     "visual": "book, puzzle, book, book, puzzle",
     "answers": [
-      "bikes",
-      "cars",
-      "they are the same"
+      "books = 3, puzzles = 3",
+      "books = 3, puzzles = 2",
+      "books = 2, puzzles = 3",
+      "books = 5, puzzles = 0"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Count each label in its category."
   },
   {
@@ -195,13 +194,14 @@ window.skillrTestQuestions = [
     "skill": "different useful sorts",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
+    "question": "Two children sort the same buttons. One sorts by colour; the other by shape. Can both sorts be useful?",
     "answers": [
-      "5",
-      "4",
-      "6"
+      "No, only shape is allowed",
+      "Sorting rules never matter",
+      "Yes, they answer different questions",
+      "No, only colour is allowed"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The useful rule depends on the investigation question."
   },
   {
@@ -211,12 +211,13 @@ window.skillrTestQuestions = [
     "skill": "identify data error",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
+    "question": "A picture graph row has 4 symbols, but the label says 5. What should be corrected?",
     "visual": "● ● ● ●",
     "answers": [
-      "apples",
-      "bananas",
-      "they are the same"
+      "The label should say 4",
+      "Add a random category",
+      "Ignore the symbols",
+      "Change every symbol colour"
     ],
     "correct": 0,
     "explanation": "The recorded count must match the displayed data."
@@ -227,15 +228,19 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "select evidence statements",
     "printable": true,
-    "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
+    "type": "multiple",
+    "question": "Select both statements supported by the display.",
     "visual": "Cars: ■ ■ ■ ■\nBikes: ◆ ◆",
     "answers": [
-      "3",
-      "2",
-      "4"
+      "Cars = 4",
+      "Bikes = 2",
+      "Bikes are more than cars",
+      "Cars and bikes are equal"
     ],
-    "correct": 0,
+    "correct": [
+      0,
+      1
+    ],
     "explanation": "The rows show 4 cars and 2 bikes."
   },
   {
@@ -244,21 +249,20 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "data investigation sequence",
     "printable": true,
-    "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
+    "type": "order",
+    "question": "Put the data steps in order.",
     "items": [
       "Compare the groups",
       "Sort or record the objects",
       "Ask a question"
     ],
-    "correct": 0,
+    "correct": [
+      "Ask a question",
+      "Sort or record the objects",
+      "Compare the groups"
+    ],
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Ask, organise, then compare.",
-    "answers": [
-      "bikes",
-      "cars",
-      "they are the same"
-    ]
+    "explanation": "Ask, organise, then compare."
   },
   {
     "id": "ac9mfst01-t-016",
@@ -267,149 +271,14 @@ window.skillrTestQuestions = [
     "skill": "conclusion with evidence",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
+    "question": "Which conclusion uses the counts as evidence?",
     "answers": [
-      "5",
-      "4",
-      "6"
+      "Milk has more: 6 compared with 5 water",
+      "Milk wins because its word is shorter",
+      "Water wins because it is listed second",
+      "No conclusion is possible"
     ],
     "correct": 0,
     "explanation": "A data conclusion should quote the relevant counts."
-  },
-  {
-    "id": "ac9mfst01-t-017",
-    "curriculumCode": "AC9MFST01",
-    "bank": "test",
-    "skill": "sort visible objects",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
-    "visual": "● ● ● ● ■ ■",
-    "answers": [
-      "apples",
-      "bananas",
-      "they are the same"
-    ],
-    "correct": 0,
-    "explanation": "The objects can be classified consistently by shape."
-  },
-  {
-    "id": "ac9mfst01-t-018",
-    "curriculumCode": "AC9MFST01",
-    "bank": "test",
-    "skill": "choose sorting rule",
-    "printable": true,
-    "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
-    "answers": [
-      "3",
-      "2",
-      "4"
-    ],
-    "correct": 0,
-    "explanation": "Sorting by the feature in the question makes comparison possible."
-  },
-  {
-    "id": "ac9mfst01-t-019",
-    "curriculumCode": "AC9MFST01",
-    "bank": "test",
-    "skill": "count category",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
-    "visual": "Cats: ▲ ▲ ▲ ▲ ▲\nDogs: ● ●",
-    "correct": 0,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Count the cat pictures only.",
-    "answers": [
-      "bikes",
-      "cars",
-      "they are the same"
-    ]
-  },
-  {
-    "id": "ac9mfst01-t-020",
-    "curriculumCode": "AC9MFST01",
-    "bank": "test",
-    "skill": "compare categories",
-    "printable": true,
-    "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
-    "visual": "Apples:  ● ● ● ● ● ● ●\nBananas: ■ ■ ■ ■ ■",
-    "answers": [
-      "5",
-      "4",
-      "6"
-    ],
-    "correct": 0,
-    "explanation": "Compare 7 and 5."
-  },
-  {
-    "id": "ac9mfst01-t-021",
-    "curriculumCode": "AC9MFST01",
-    "bank": "test",
-    "skill": "recognise equal categories",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
-    "visual": "Circles: ● ●\nSquares: ■ ■",
-    "answers": [
-      "apples",
-      "bananas",
-      "they are the same"
-    ],
-    "correct": 0,
-    "explanation": "Both rows contain 2."
-  },
-  {
-    "id": "ac9mfst01-t-022",
-    "curriculumCode": "AC9MFST01",
-    "bank": "test",
-    "skill": "read picture display",
-    "printable": true,
-    "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
-    "visual": "Bikes:    ◆ ◆ ◆ ◆ ◆ ◆\nScooters: ▲ ▲ ▲ ▲",
-    "answers": [
-      "3",
-      "2",
-      "4"
-    ],
-    "correct": 0,
-    "explanation": "6 bikes is more than 4 scooters."
-  },
-  {
-    "id": "ac9mfst01-t-023",
-    "curriculumCode": "AC9MFST01",
-    "bank": "test",
-    "skill": "question data can answer",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
-    "visual": "Circles: ● ● ●\nSquares: ■ ■ ■ ■",
-    "answers": [
-      "bikes",
-      "cars",
-      "they are the same"
-    ],
-    "correct": 0,
-    "explanation": "The display contains counts of circles and squares."
-  },
-  {
-    "id": "ac9mfst01-t-024",
-    "curriculumCode": "AC9MFST01",
-    "bank": "test",
-    "skill": "question data cannot answer",
-    "printable": true,
-    "type": "single",
-    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
-    "answers": [
-      "5",
-      "4",
-      "6"
-    ],
-    "correct": 0,
-    "explanation": "A picture count does not provide mass information."
   }
 ];
