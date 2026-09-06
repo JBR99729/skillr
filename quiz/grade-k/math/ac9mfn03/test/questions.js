@@ -4,407 +4,600 @@ window.skillrTestQuestions = [
     "id": "ac9mfn03-t-001",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "count visible collection",
+    "skill": "one-to-one matching",
+    "question": "Independent check: Check 102: 9 children each need one leaf. There are 8. Are there enough?",
+    "visual": "Children: ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲\nItems:    ● ● ● ● ● ● ● ●",
+    "explanation": "There are 8 items for 9 children, so one child would miss out.",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
-    "visual": "▲ ▲ ▲ ▲\n  ▲ ▲ ▲ ▲ ▲ ▲\n    ▲ ▲ ▲",
-    "correct": 0,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Touch or track each object once. There are 13.",
     "answers": [
-      "blue counters",
-      "red counters",
-      "both groups are equal"
-    ]
+      "No",
+      "Yes",
+      "Cannot tell"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "There are 8 items for 9 children, so one child would miss out.",
+      "hint": "Pair one item with one child and look for leftovers."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-002",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "count structured collection",
+    "skill": "cardinality after counting",
+    "question": "Independent check: Check 103: Zoe points to each sticker once and says 10 last. What does 10 tell us?",
+    "visual": "★ ★ ★ ★ ★\n ★ ★ ★ ★ ★",
+    "explanation": "The last number said tells the total number of objects in the collection.",
     "printable": true,
-    "type": "number",
-    "question": "Count the filled spaces in the two-row frame.",
-    "visual": "● ● ● ● ●\n● ● ● ● ○",
-    "correct": "9",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Five on the top row and 4 below make 9.",
-    "modelAnswer": "9"
+    "type": "single",
+    "answers": [
+      "Start counting again",
+      "There are 10",
+      "The objects changed"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "The last number said tells the total number of objects in the collection.",
+      "hint": "This is the counting idea called cardinality."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-003",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "cardinality",
+    "skill": "explain a counting mistake",
+    "question": "Independent check: Check 104: Sam counts this collection but skips one object. What will happen to the count?",
+    "visual": "● ● ● ●\n ● ● ● ● ●\n  ● ● ● ●",
+    "explanation": "Skipping an object makes the count too small because one object was not included.",
     "printable": true,
     "type": "single",
-    "question": "Ava counts every counter once and says “11” last. What does 11 tell Ava?",
-    "visual": "● ● ● ● ● ●\n  ● ● ● ●\n    ●",
     "answers": [
-      "There are 11 counters",
-      "Start counting again",
-      "The counters changed size"
+      "The count will be too large",
+      "The count will stay correct",
+      "The count will be too small"
     ],
-    "correct": 0,
-    "explanation": "The final number said tells how many objects are in the whole collection."
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Skipping an object makes the count too small because one object was not included.",
+      "hint": "Every object needs exactly one count word."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-004",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "compare by counting",
+    "skill": "count a collection to 20",
+    "question": "Independent check: Kai counts the counters in Check 105. How many are there?",
+    "visual": "■ ■ ■ ■ ■\n ■ ■ ■ ■ ■ ■\n  ■ ■ ■\n■ ■ ■ ■",
+    "explanation": "Counting each object once gives 18.",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
-    "visual": "A: ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
     "answers": [
-      "Collection B",
-      "Collection A",
-      "They are equal"
+      "18",
+      "17",
+      "19"
     ],
     "correct": 0,
-    "explanation": "B has 13; A has 10. 13 is more than 10."
+    "structuredExplanation": {
+      "summary": "Counting each object once gives 18.",
+      "hint": "Track the objects so none are skipped or counted twice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-005",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "compare equal quantities",
+    "skill": "ten-frame counting to 20",
+    "question": "Independent check: Omar uses two ten-frames in Check 106. How many counters are shown?",
+    "visual": "● ● ● ● ●\n● ● ● ● ●\n○ ○ ○ ○ ○\n○ ○ ○ ○ ○",
+    "explanation": "The frames show 10 on the first frame and 0 on the second, making 10.",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
-    "visual": "A: ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■\n  ■ ■ ■\n    ■ ■",
     "answers": [
-      "blue counters",
-      "red counters",
-      "both groups are equal"
+      "8",
+      "10",
+      "11"
     ],
-    "correct": 0,
-    "explanation": "Both contain 10. Spacing does not change quantity."
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "The frames show 10 on the first frame and 0 on the second, making 10.",
+      "hint": "Count the full ten first, then the extra counters."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-006",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "one-to-one matching",
+    "skill": "compare more by counting",
+    "question": "Independent check: Ivy compares two collections in Check 107. Which collection has more?",
+    "visual": "A: ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■",
+    "explanation": "Collection B has 9; Collection A has 7. 9 is more than 7.",
     "printable": true,
     "type": "single",
-    "question": "Match one cup to each teddy. Are there enough cups?",
-    "visual": "Teddies: ▲ ▲ ▲ ▲\nCups:    ○ ○ ○",
     "answers": [
-      "No, one teddy has no cup",
-      "Yes, because the cups are larger",
-      "No, because cups and teddies look different"
+      "A",
+      "They are equal",
+      "B"
     ],
-    "correct": 0,
-    "explanation": "After pairing, one teddy is left without a cup."
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Collection B has 9; Collection A has 7. 9 is more than 7.",
+      "hint": "Count both collections, then compare the totals."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-007",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "one-to-one leftovers",
+    "skill": "compare fewer by counting",
+    "question": "Independent check: Mia compares two collections in Check 108. Which collection has fewer?",
+    "visual": "A: ● ● ● ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
+    "explanation": "Collection B has 10; Collection A has 14. 10 is fewer than 14.",
     "printable": true,
     "type": "single",
-    "question": "One counter from A is matched with one counter from B. What will happen?",
-    "visual": "A: ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
     "answers": [
-      "B will have 1 counter left",
-      "A will have 1 counter left",
-      "Nothing will be left"
+      "B",
+      "A",
+      "They are equal"
     ],
     "correct": 0,
-    "explanation": "B has 12 and A has 11, so one B counter is unmatched."
+    "structuredExplanation": {
+      "summary": "Collection B has 10; Collection A has 14. 10 is fewer than 14.",
+      "hint": "Fewer means the smaller total."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-008",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "enough for a purpose",
+    "skill": "equal collections despite arrangement",
+    "question": "Independent check: Noah checks two arrangements in Check 109. Which statement is true?",
+    "visual": "A: ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■\n ■ ■ ■\n  ■ ■ ■ ■\n■ ■",
+    "explanation": "Both collections have 15. Spacing and arrangement do not change the quantity.",
     "printable": true,
     "type": "single",
-    "question": "8 children each need one pencil. There are 7 pencils. Which statement is correct?",
-    "visual": "Children: ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲\nPencils:  — — — — — — —",
     "answers": [
-      "There are not enough pencils",
-      "Everyone should share one pencil at the same time",
-      "The pencil colour decides"
+      "A has more",
+      "They are equal",
+      "B has more"
     ],
-    "correct": 0,
-    "explanation": "There are fewer pencils than children."
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Both collections have 15. Spacing and arrangement do not change the quantity.",
+      "hint": "Compare the totals, not the space used."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-009",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "identify double counting",
+    "skill": "one-to-one matching",
+    "question": "Independent check: Check 110: 9 children each need one bead. There are 8. Are there enough?",
+    "visual": "Children: ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲\nItems:    ● ● ● ● ● ● ● ●",
+    "explanation": "There are 8 items for 9 children, so one child would miss out.",
     "printable": true,
     "type": "single",
-    "question": "Mia counts one object twice and says 9. What explains the mistake?",
-    "visual": "● ● ●\n  ● ● ● ● ●",
     "answers": [
-      "One object was counted twice",
-      "One object was skipped",
-      "The collection became larger"
+      "Yes",
+      "Cannot tell",
+      "No"
     ],
-    "correct": 0,
-    "explanation": "Counting one object twice makes the answer one too large."
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "There are 8 items for 9 children, so one child would miss out.",
+      "hint": "Pair one item with one child and look for leftovers."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-010",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "identify skipped object",
+    "skill": "cardinality after counting",
+    "question": "Independent check: Check 111: Leo points to each leaf once and says 8 last. What does 8 tell us?",
+    "visual": "▲ ▲ ▲\n ▲ ▲ ▲ ▲\n  ▲",
+    "explanation": "The last number said tells the total number of objects in the collection.",
     "printable": true,
     "type": "single",
-    "question": "Ava misses one object and says 8. What happened?",
-    "visual": "■ ■ ■ ■\n  ■ ■ ■ ■ ■",
     "answers": [
-      "One object was not counted",
-      "One object was counted twice",
-      "The objects changed places"
+      "There are 8",
+      "Start counting again",
+      "The objects changed"
     ],
     "correct": 0,
-    "explanation": "Skipping one object makes the count one too small."
+    "structuredExplanation": {
+      "summary": "The last number said tells the total number of objects in the collection.",
+      "hint": "This is the counting idea called cardinality."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-011",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "accurate counting method",
+    "skill": "explain a counting mistake",
+    "question": "Independent check: Check 112: Zoe counts this collection but skips one object. What will happen to the count?",
+    "visual": "◆ ◆ ◆\n ◆ ◆ ◆ ◆\n  ◆ ◆ ◆ ◆ ◆",
+    "explanation": "Skipping an object makes the count too small because one object was not included.",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
-    "visual": "● ● ● ●\n  ●",
     "answers": [
-      "blue counters",
-      "red counters",
-      "both groups are equal"
+      "The count will be too large",
+      "The count will be too small",
+      "The count will stay correct"
     ],
-    "correct": 0,
-    "explanation": "One-to-one counting means one number word for each object."
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Skipping an object makes the count too small because one object was not included.",
+      "hint": "Every object needs exactly one count word."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-012",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "compare after rearrangement",
+    "skill": "count a collection to 20",
+    "question": "Independent check: Lina counts the cups in Check 113. How many are there?",
+    "visual": "★ ★ ★\n ★ ★ ★ ★\n  ★ ★ ★ ★ ★",
+    "explanation": "Counting each object once gives 12.",
     "printable": true,
     "type": "single",
-    "question": "The objects in B are rearranged but none are added or removed. How does B compare with A?",
-    "visual": "A: ● ● ● ● ● ● ●\nB: ● ● ● ● ● ●\n  ●",
     "answers": [
-      "They are equal",
-      "The wider row always has more",
-      "The taller row always has more"
+      "11",
+      "13",
+      "12"
     ],
-    "correct": 0,
-    "explanation": "Rearranging does not change how many."
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Counting each object once gives 12.",
+      "hint": "Track the objects so none are skipped or counted twice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-013",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "order quantities",
+    "skill": "ten-frame counting to 20",
+    "question": "Independent check: Kai uses two ten-frames in Check 114. How many counters are shown?",
+    "visual": "● ● ● ● ●\n● ● ● ● ●\n● ● ● ○ ○\n○ ○ ○ ○ ○",
+    "explanation": "The frames show 10 on the first frame and 3 on the second, making 13.",
     "printable": true,
-    "type": "order",
-    "question": "Put the collections from fewest to most.",
-    "items": [
-      "C: 10 objects",
-      "A: 8 objects",
-      "B: 9 objects"
+    "type": "single",
+    "answers": [
+      "13",
+      "11",
+      "14"
     ],
-    "correct": "A: 8 objects,B: 9 objects,C: 10 objects",
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "8 \u003c 9 \u003c 10.",
-    "modelAnswer": "A: 8 objects,B: 9 objects,C: 10 objects"
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "The frames show 10 on the first frame and 3 on the second, making 13.",
+      "hint": "Count the full ten first, then the extra counters."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-014",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "teen collection structure",
+    "skill": "compare more by counting",
+    "question": "Independent check: Omar compares two collections in Check 115. Which collection has more?",
+    "visual": "A: ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
+    "explanation": "Collection B has 12; Collection A has 7. 12 is more than 7.",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
-    "visual": "Ten: ● ● ● ● ●\n● ● ● ● ●\nMore: ■ ■ ■",
     "answers": [
-      "blue counters",
-      "red counters",
-      "both groups are equal"
+      "A",
+      "B",
+      "They are equal"
     ],
-    "correct": 0,
-    "explanation": "A full group of 10 and 3 more make 13."
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Collection B has 12; Collection A has 7. 12 is more than 7.",
+      "hint": "Count both collections, then compare the totals."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-015",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "conservation of quantity",
+    "skill": "compare fewer by counting",
+    "question": "Independent check: Ivy compares two collections in Check 116. Which collection has fewer?",
+    "visual": "A: ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■",
+    "explanation": "Collection B has 7; Collection A has 10. 7 is fewer than 10.",
     "printable": true,
-    "type": "true-false",
-    "question": "Moving these 13 counters farther apart changes how many counters there are.",
-    "visual": "● ● ● ● ● ● ● ● ● ● ● ● ●\n● ● ● ●\n  ● ● ● ● ● ●\n    ● ● ●",
+    "type": "single",
     "answers": [
-      "False",
-      "True"
+      "A",
+      "They are equal",
+      "B"
     ],
-    "correct": 0,
-    "explanation": "Moving objects changes their position, not their quantity."
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Collection B has 7; Collection A has 10. 7 is fewer than 10.",
+      "hint": "Fewer means the smaller total."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-016",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "reason from final count",
+    "skill": "equal collections despite arrangement",
+    "question": "Independent check: Mia checks two arrangements in Check 117. Which statement is true?",
+    "visual": "A: ● ● ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■\n ■ ■ ■ ■ ■\n  ■ ■ ■ ■",
+    "explanation": "Both collections have 13. Spacing and arrangement do not change the quantity.",
     "printable": true,
     "type": "single",
-    "question": "A careful count gives A = 10 and B = 11. Which reason proves B has more?",
     "answers": [
-      "11 comes after 10 when counting",
-      "B is drawn lower on the screen",
-      "B uses darker symbols"
+      "They are equal",
+      "A has more",
+      "B has more"
     ],
     "correct": 0,
-    "explanation": "The count, not position or colour, decides which quantity is greater."
+    "structuredExplanation": {
+      "summary": "Both collections have 13. Spacing and arrangement do not change the quantity.",
+      "hint": "Compare the totals, not the space used."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-017",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "count visible collection",
+    "skill": "one-to-one matching",
+    "question": "Independent check: Check 118: 9 children each need one star. There are 8. Are there enough?",
+    "visual": "Children: ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲\nItems:    ● ● ● ● ● ● ● ●",
+    "explanation": "There are 8 items for 9 children, so one child would miss out.",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
-    "visual": "● ● ● ●\n  ●",
-    "correct": 0,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Touch or track each object once. There are 5.",
     "answers": [
-      "blue counters",
-      "red counters",
-      "both groups are equal"
-    ]
+      "Yes",
+      "No",
+      "Cannot tell"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "There are 8 items for 9 children, so one child would miss out.",
+      "hint": "Pair one item with one child and look for leftovers."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 17,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-018",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "count structured collection",
+    "skill": "cardinality after counting",
+    "question": "Independent check: Check 119: Ava points to each bead once and says 16 last. What does 16 tell us?",
+    "visual": "● ● ●\n ● ● ● ●\n  ● ● ● ● ●\n● ● ● ●",
+    "explanation": "The last number said tells the total number of objects in the collection.",
     "printable": true,
-    "type": "number",
-    "question": "Count the filled spaces in the two-row frame.",
-    "visual": "● ● ● ● ●\n● ● ● ● ●",
-    "correct": "14",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Five on the top row and 9 below make 14.",
-    "modelAnswer": "14"
+    "type": "single",
+    "answers": [
+      "Start counting again",
+      "The objects changed",
+      "There are 16"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "The last number said tells the total number of objects in the collection.",
+      "hint": "This is the counting idea called cardinality."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 18,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-019",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "cardinality",
+    "skill": "explain a counting mistake",
+    "question": "Independent check: Check 120: Leo counts this collection but skips one object. What will happen to the count?",
+    "visual": "■ ■ ■ ■ ■ ■\n ■ ■ ■\n  ■ ■",
+    "explanation": "Skipping an object makes the count too small because one object was not included.",
     "printable": true,
     "type": "single",
-    "question": "Ava counts every counter once and says “14” last. What does 14 tell Ava?",
-    "visual": "● ● ● ● ●\n  ● ● ●\n    ● ● ● ● ●\n ●",
     "answers": [
-      "There are 14 counters",
-      "Start counting again",
-      "The counters changed size"
+      "The count will be too small",
+      "The count will be too large",
+      "The count will stay correct"
     ],
     "correct": 0,
-    "explanation": "The final number said tells how many objects are in the whole collection."
+    "structuredExplanation": {
+      "summary": "Skipping an object makes the count too small because one object was not included.",
+      "hint": "Every object needs exactly one count word."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 19,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-020",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "compare by counting",
+    "skill": "count a collection to 20",
+    "question": "Independent check: Sam counts the tiles in Check 121. How many are there?",
+    "visual": "▲ ▲ ▲ ▲ ▲\n ▲",
+    "explanation": "Counting each object once gives 6.",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
-    "visual": "A: ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■",
     "answers": [
-      "Collection B",
-      "Collection A",
-      "They are equal"
+      "5",
+      "6",
+      "7"
     ],
-    "correct": 0,
-    "explanation": "B has 9; A has 8. 9 is more than 8."
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Counting each object once gives 6.",
+      "hint": "Track the objects so none are skipped or counted twice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 20,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-021",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "compare equal quantities",
+    "skill": "ten-frame counting to 20",
+    "question": "Independent check: Lina uses two ten-frames in Check 122. How many counters are shown?",
+    "visual": "● ● ● ● ●\n● ● ● ● ●\n● ● ● ● ●\n● ○ ○ ○ ○",
+    "explanation": "The frames show 10 on the first frame and 6 on the second, making 16.",
     "printable": true,
     "type": "single",
-    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
-    "visual": "A: ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■\n  ■ ■ ■\n    ■ ■",
     "answers": [
-      "blue counters",
-      "red counters",
-      "both groups are equal"
+      "14",
+      "17",
+      "16"
     ],
-    "correct": 0,
-    "explanation": "Both contain 10. Spacing does not change quantity."
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "The frames show 10 on the first frame and 6 on the second, making 16.",
+      "hint": "Count the full ten first, then the extra counters."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 21,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-022",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "one-to-one matching",
+    "skill": "compare more by counting",
+    "question": "Independent check: Kai compares two collections in Check 123. Which collection has more?",
+    "visual": "A: ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
+    "explanation": "Collection B has 10; Collection A has 7. 10 is more than 7.",
     "printable": true,
     "type": "single",
-    "question": "Match one cup to each teddy. Are there enough cups?",
-    "visual": "Teddies: ▲ ▲ ▲ ▲ ▲\nCups:    ○ ○ ○ ○",
     "answers": [
-      "No, one teddy has no cup",
-      "Yes, because the cups are larger",
-      "No, because cups and teddies look different"
+      "B",
+      "A",
+      "They are equal"
     ],
     "correct": 0,
-    "explanation": "After pairing, one teddy is left without a cup."
+    "structuredExplanation": {
+      "summary": "Collection B has 10; Collection A has 7. 10 is more than 7.",
+      "hint": "Count both collections, then compare the totals."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 22,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-023",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "one-to-one leftovers",
+    "skill": "compare fewer by counting",
+    "question": "Independent check: Omar compares two collections in Check 124. Which collection has fewer?",
+    "visual": "A: ● ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
+    "explanation": "Collection B has 10; Collection A has 12. 10 is fewer than 12.",
     "printable": true,
     "type": "single",
-    "question": "One counter from A is matched with one counter from B. What will happen?",
-    "visual": "A: ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
     "answers": [
-      "B will have 1 counter left",
-      "A will have 1 counter left",
-      "Nothing will be left"
+      "A",
+      "B",
+      "They are equal"
     ],
-    "correct": 0,
-    "explanation": "B has 12 and A has 11, so one B counter is unmatched."
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Collection B has 10; Collection A has 12. 10 is fewer than 12.",
+      "hint": "Fewer means the smaller total."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 23,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn03-t-024",
     "curriculumCode": "AC9MFN03",
     "bank": "test",
-    "skill": "enough for a purpose",
+    "skill": "equal collections despite arrangement",
+    "question": "Independent check: Ivy checks two arrangements in Check 125. Which statement is true?",
+    "visual": "A: ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■\n ■ ■ ■\n  ■ ■",
+    "explanation": "Both collections have 11. Spacing and arrangement do not change the quantity.",
     "printable": true,
     "type": "single",
-    "question": "8 children each need one pencil. There are 8 pencils. Which statement is correct?",
-    "visual": "Children: ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲\nPencils:  — — — — — — — —",
     "answers": [
-      "There are enough pencils",
-      "Everyone should share one pencil at the same time",
-      "The pencil colour decides"
+      "A has more",
+      "B has more",
+      "They are equal"
     ],
-    "correct": 0,
-    "explanation": "There are at least as many pencils as children."
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Both collections have 11. Spacing and arrangement do not change the quantity.",
+      "hint": "Compare the totals, not the space used."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 24,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   }
 ];

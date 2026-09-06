@@ -4,425 +4,385 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn01-p-001",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "count arranged objects",
-    "question": "[Show 4 dots.] How many dots can you see?",
-    "explanation": "Touch each dot once: 1, 2, 3, 4.",
+    "skill": "count on by one",
+    "question": "Mia is counting on a number track: 0, ___. What number comes next?",
+    "visual": "0  ___",
+    "explanation": "Counting on one from 0 gives 1, so 1 is the next number in the sequence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
-      "3",
-      "5"
+      "1",
+      "0",
+      "2"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Counting on one from 0 gives 1, so 1 is the next number in the sequence.",
+      "hint": "Say the number, then count one more."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-002",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "count scattered objects",
-    "question": "Count the scattered stars: ★   ★ ★    ★  ★",
-    "explanation": "Count each star once. There are 5.",
+    "skill": "count back by one",
+    "question": "Noah points to 7. What number comes just before it?",
+    "visual": "___  7",
+    "explanation": "6 comes just before 7 in the counting order because it is one less.",
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
-      "4",
-      "6"
+      "8",
+      "6",
+      "5"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "6 comes just before 7 in the counting order because it is one less.",
+      "hint": "Count backwards one step."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-003",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "subitise 3",
-    "question": "[Show 3 dots.] How many dots can you see?",
-    "explanation": "Three dots make a familiar group of 3.",
+    "skill": "missing number sequence",
+    "question": "Ava sees this counting pattern. Which number is missing? 9, ___, 11",
+    "visual": "9  ___  11",
+    "explanation": "The numbers count up by one, so the missing number is 10.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
-      "2",
-      "4"
+      "9",
+      "11",
+      "10"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "The numbers count up by one, so the missing number is 10.",
+      "hint": "Read the numbers in order."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-004",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "subitise 5",
-    "question": "[Show 5 dots.] How many dots can you see?",
-    "explanation": "The four corner dots and the middle dot make 5.",
+    "skill": "match numeral to quantity",
+    "question": "Which numeral matches this collection of cups on Leo's mat?",
+    "visual": "(empty)",
+    "explanation": "Counting each cup once gives 0, and the last count word names the total.",
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
-      "4",
-      "6"
+      "0",
+      "1",
+      "2"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Counting each cup once gives 0, and the last count word names the total.",
+      "hint": "Touch each object once and use the last count word as the total."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-005",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "empty collection",
-    "question": "The plate has no counters on it. Which numeral matches the plate?",
-    "explanation": "Zero tells us there are none.",
+    "skill": "read number name",
+    "question": "Zoe reads the number word eighteen. Which numeral matches it?",
+    "visual": "eighteen",
+    "explanation": "eighteen is written as 18, so the numeral and number word show the same number.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
-      "1",
-      "2"
+      "16",
+      "18",
+      "19"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "eighteen is written as 18, so the numeral and number word show the same number.",
+      "hint": "Match the spoken number name to the written numeral."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-006",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "zero after removal",
-    "question": "There were 4 blocks. All 4 were put away. How many blocks are left?",
-    "explanation": "When every block is removed, 0 remain.",
+    "skill": "represent teen number",
+    "question": "Sam has a full ten-frame and 10 more counters. Which number is shown?",
+    "visual": "● ● ● ● ●\n● ● ● ● ●\n● ● ● ● ●\n● ● ● ● ●",
+    "explanation": "One full ten-frame is 10, and 10 more makes 20.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
-      "1",
-      "4"
+      "10",
+      "19",
+      "20"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "One full ten-frame is 10, and 10 more makes 20.",
+      "hint": "Think ten and some more."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-007",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "numeral to quantity",
-    "question": "The card says 6. Which collection matches it?",
-    "explanation": "The matching collection contains 6 counters.",
+    "skill": "order two numbers",
+    "question": "Lina compares 3 and 12. Which number is greater?",
+    "visual": "3      12",
+    "explanation": "12 is greater because it comes later when counting to 20.",
     "printable": true,
     "type": "single",
     "answers": [
-      "● ● ● ● ● ●",
-      "● ● ● ● ●",
-      "● ● ● ● ● ● ●"
+      "12",
+      "3",
+      "11"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "12 is greater because it comes later when counting to 20.",
+      "hint": "The later number on the counting track is greater."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-008",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "quantity to numeral",
-    "question": "Which numeral matches this collection? ▲ ▲ ▲ ▲ ▲ ▲ ▲",
-    "explanation": "Counting the triangles gives 7.",
+    "skill": "understand zero",
+    "question": "All Kai's buttons were packed away after the activity. Which numeral shows none left?",
+    "visual": "(empty mat)",
+    "explanation": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
     "printable": true,
     "type": "single",
     "answers": [
-      "7",
-      "6",
-      "8"
+      "1",
+      "0",
+      "2"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
+      "hint": "An empty collection is represented by 0."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-009",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "number name to numeral",
-    "question": "Which numeral says “nine”?",
-    "explanation": "The written number name nine matches the numeral 9.",
+    "skill": "count on by one",
+    "question": "Ivy is counting on a number track: 4, ___. What number comes next?",
+    "visual": "4  ___",
+    "explanation": "Counting on one from 4 gives 5, so 5 is the next number in the sequence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "9",
+      "3",
       "6",
-      "7"
+      "5"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Counting on one from 4 gives 5, so 5 is the next number in the sequence.",
+      "hint": "Say the number, then count one more."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-010",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "numeral discrimination",
-    "question": "Which numeral shows 14?",
-    "explanation": "Fourteen is written 14: one ten and four ones.",
+    "skill": "count back by one",
+    "question": "Mia points to 11. What number comes just before it?",
+    "visual": "___  11",
+    "explanation": "10 comes just before 11 in the counting order because it is one less.",
     "printable": true,
     "type": "single",
     "answers": [
-      "14",
+      "10",
       "12",
-      "13"
+      "9"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "10 comes just before 11 in the counting order because it is one less.",
+      "hint": "Count backwards one step."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-011",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "teen structure 11",
-    "question": "A full ten-frame and 1 extra counter show which number?",
-    "explanation": "Ten and 1 more make 11.",
+    "skill": "missing number sequence",
+    "question": "Noah sees this counting pattern. Which number is missing? 5, ___, 7",
+    "visual": "5  ___  7",
+    "explanation": "The numbers count up by one, so the missing number is 6.",
     "printable": true,
     "type": "single",
     "answers": [
-      "11",
-      "10",
-      "12"
+      "5",
+      "6",
+      "7"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "The numbers count up by one, so the missing number is 6.",
+      "hint": "Read the numbers in order."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-012",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "teen structure 12",
-    "question": "A bundle of 10 sticks and 2 single sticks show which number?",
-    "explanation": "One ten and 2 ones make 12.",
+    "skill": "match numeral to quantity",
+    "question": "Which numeral matches this collection of stars on Ava's mat?",
+    "visual": "■ ■ ■ ■ ■\n ■ ■ ■ ■ ■ ■\n  ■ ■ ■",
+    "explanation": "Counting each star once gives 14, and the last count word names the total.",
     "printable": true,
     "type": "single",
     "answers": [
-      "12",
-      "2",
-      "10"
+      "13",
+      "15",
+      "14"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Counting each star once gives 14, and the last count word names the total.",
+      "hint": "Touch each object once and use the last count word as the total."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-013",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "teen structure 13",
-    "question": "Which number comes after 13?",
-    "explanation": "Thirteen is 10 and 3 more.",
+    "skill": "read number name",
+    "question": "Leo reads the number word twelve. Which numeral matches it?",
+    "visual": "twelve",
+    "explanation": "twelve is written as 12, so the numeral and number word show the same number.",
     "printable": true,
     "type": "single",
     "answers": [
-      "14",
       "12",
+      "10",
       "13"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "twelve is written as 12, so the numeral and number word show the same number.",
+      "hint": "Match the spoken number name to the written numeral."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-014",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "teen structure 15",
-    "question": "A ten-frame is full. Five counters sit beside it. How many counters altogether?",
-    "explanation": "Ten plus 5 more is 15.",
+    "skill": "represent teen number",
+    "question": "Zoe has a full ten-frame and 4 more counters. Which number is shown?",
+    "visual": "● ● ● ● ●\n● ● ● ● ●\n● ● ● ● ○\n○ ○ ○ ○ ○",
+    "explanation": "One full ten-frame is 10, and 4 more makes 14.",
     "printable": true,
     "type": "single",
     "answers": [
-      "15",
-      "5",
-      "10"
+      "4",
+      "14",
+      "13"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "One full ten-frame is 10, and 4 more makes 14.",
+      "hint": "Think ten and some more."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-015",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "teen structure 18",
-    "question": "Which number comes after 17?",
-    "explanation": "Eighteen is one ten and 8 ones.",
+    "skill": "order two numbers",
+    "question": "Sam compares 10 and 14. Which number is greater?",
+    "visual": "10      14",
+    "explanation": "14 is greater because it comes later when counting to 20.",
     "printable": true,
     "type": "single",
     "answers": [
-      "18",
-      "16",
-      "17"
+      "10",
+      "13",
+      "14"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "14 is greater because it comes later when counting to 20.",
+      "hint": "The later number on the counting track is greater."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-016",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "distinguish 16 and 61",
-    "question": "Which numeral shows 16?",
-    "explanation": "One ten and 6 ones is 16, not 61.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "16",
-      "14",
-      "15"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-017",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "represent 20",
-    "question": "Which number comes after 5?",
-    "explanation": "Two groups of 10 make 20.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "6",
-      "4",
-      "5"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-018",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "same quantity different objects",
-    "question": "[Show a clear visual that exactly matches the question and choices.] Five shells and five buttons are shown. Which statement is true?",
-    "explanation": "The kind of object does not change the number.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Both groups have 5",
-      "There are more shells",
-      "There are more buttons"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-019",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "conservation spacing",
-    "question": "One row has 8 close counters. Another row has the same 8 counters spread out. Which row has more?",
-    "explanation": "Moving counters apart does not change how many there are.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Both have 8",
-      "The close row",
-      "The spread row"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-020",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "conservation arrangement",
-    "question": "Six counters are changed from a line into a circle without adding or removing any. How many are there now?",
-    "explanation": "Rearranging a collection keeps the same quantity.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "6",
-      "5",
-      "7"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-021",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "one more concrete",
-    "question": "There are 7 cubes. Add 1 cube. How many cubes are there now?",
-    "explanation": "One more than 7 is 8.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "8",
-      "6",
-      "7"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-022",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "one more at ten",
-    "question": "[Show a clear visual that exactly matches the question and choices.] A ten-frame is full. Add 1 counter. Which number is shown?",
-    "explanation": "One more than 10 is 11.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "11",
-      "9",
-      "10"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-023",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "one more teen",
-    "question": "Leo has 18 counters and receives 1 more. How many does he have?",
-    "explanation": "Count on once from 18 to 19.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "19",
-      "17",
-      "18"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-024",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "one less concrete",
-    "question": "There are 9 toy cars. Put 1 away. How many remain?",
-    "explanation": "One less than 9 is 8.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "8",
-      "7",
-      "9"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-025",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "one less from ten",
-    "question": "A full ten-frame loses 1 counter. How many counters remain?",
-    "explanation": "One less than 10 is 9.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "9",
-      "8",
-      "10"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-026",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "one less teen",
-    "question": "Which number is one less than 17?",
-    "explanation": "Count back once from 17 to 16.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "16",
-      "17",
-      "18"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-027",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "before zero boundary",
-    "question": "Which number comes immediately before 1?",
-    "explanation": "The counting order begins 0, 1, 2.",
+    "skill": "understand zero",
+    "question": "All Lina's leaves were packed away after the activity. Which numeral shows none left?",
+    "visual": "(empty mat)",
+    "explanation": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -430,470 +390,1014 @@ window.skillrPracticeQuestions = [
       "1",
       "2"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
+      "hint": "An empty collection is represented by 0."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
-    "id": "ac9mfn01-p-028",
+    "id": "ac9mfn01-p-017",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "after number",
-    "question": "Which number comes immediately after 12?",
-    "explanation": "Count forward once from 12 to 13.",
+    "skill": "count on by one",
+    "question": "Omar is counting on a number track: 8, ___. What number comes next?",
+    "visual": "8  ___",
+    "explanation": "Counting on one from 8 gives 9, so 9 is the next number in the sequence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "13",
-      "11",
-      "12"
+      "7",
+      "9",
+      "10"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Counting on one from 8 gives 9, so 9 is the next number in the sequence.",
+      "hint": "Say the number, then count one more."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 17,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
-    "id": "ac9mfn01-p-029",
+    "id": "ac9mfn01-p-018",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "between numbers",
-    "question": "Which number belongs between 14 and 16?",
-    "explanation": "The order is 14, 15, 16.",
+    "skill": "count back by one",
+    "question": "Ivy points to 15. What number comes just before it?",
+    "visual": "___  15",
+    "explanation": "14 comes just before 15 in the counting order because it is one less.",
     "printable": true,
     "type": "single",
     "answers": [
-      "15",
+      "16",
       "13",
       "14"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "14 comes just before 15 in the counting order because it is one less.",
+      "hint": "Count backwards one step."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 18,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
-    "id": "ac9mfn01-p-030",
+    "id": "ac9mfn01-p-019",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "missing start",
-    "question": "Which number is missing? ___, 6, 7",
-    "explanation": "The number immediately before 6 is 5.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "5",
-      "4",
-      "6"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-031",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "missing end",
-    "question": "Which number is missing? 17, 18, ___",
-    "explanation": "Count forward: 17, 18, 19.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "19",
-      "16",
-      "18"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-032",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "missing internal sequence",
-    "question": "Complete the count: 8, 9, ___, 11, 12",
-    "explanation": "Ten comes between 9 and 11.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "10",
-      "7",
-      "9"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-033",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "count backward",
-    "question": "Which list counts backwards correctly from 5?",
-    "explanation": "Counting backwards makes each number one less.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "5, 4, 3, 2",
-      "5, 6, 7, 8",
-      "2, 3, 4, 5"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-034",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "compare quantities",
-    "question": "One plate has 6 grapes. Another has 9 grapes. Which plate has more?",
-    "explanation": "Nine is greater than 6.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The plate with 9",
-      "The plate with 6",
-      "They are equal"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-035",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "compare numerals",
-    "question": "Which number is smaller: 13 or 18?",
-    "explanation": "Thirteen comes before 18.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "13",
-      "18",
-      "They are equal"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-036",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "equal quantities",
-    "question": "A box has 7 red blocks and 7 blue blocks. Which group has fewer?",
-    "explanation": "Both groups contain 7.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Neither; they are equal",
-      "Red blocks",
-      "Blue blocks"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-037",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "order consecutive numbers",
-    "question": "Which order goes from smallest to largest?",
-    "explanation": "Counting order is 4, 5, 6.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "4, 5, 6",
-      "6, 5, 4",
-      "5, 4, 6"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-p-038",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "skill": "order nonconsecutive numbers",
-    "question": "Which number is smallest: 2, 11, 7?",
-    "explanation": "Two comes first, then 7, then 11.",
+    "skill": "missing number sequence",
+    "question": "Mia sees this counting pattern. Which number is missing? 1, ___, 3",
+    "visual": "1  ___  3",
+    "explanation": "The numbers count up by one, so the missing number is 2.",
     "printable": true,
     "type": "single",
     "answers": [
       "2",
-      "11",
-      "7"
+      "1",
+      "3"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "The numbers count up by one, so the missing number is 2.",
+      "hint": "Read the numbers in order."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 19,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
-    "id": "ac9mfn01-p-039",
+    "id": "ac9mfn01-p-020",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "order including zero",
-    "question": "Which list is ordered from smallest to largest?",
-    "explanation": "Zero is smallest, followed by 2 and 5.",
+    "skill": "match numeral to quantity",
+    "question": "Which numeral matches this collection of cups on Noah's mat?",
+    "visual": "★ ★ ★ ★ ★ ★\n ★",
+    "explanation": "Counting each cup once gives 7, and the last count word names the total.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0, 2, 5",
-      "5, 2, 0",
-      "2, 0, 5"
+      "6",
+      "7",
+      "8"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Counting each cup once gives 7, and the last count word names the total.",
+      "hint": "Touch each object once and use the last count word as the total."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 20,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
-    "id": "ac9mfn01-p-040",
+    "id": "ac9mfn01-p-021",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "greatest of set",
-    "question": "Which is the greatest number: 9, 19, 16, 6?",
-    "explanation": "Nineteen is farthest along the count.",
+    "skill": "read number name",
+    "question": "Ava reads the number word six. Which numeral matches it?",
+    "visual": "six",
+    "explanation": "six is written as 6, so the numeral and number word show the same number.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "4",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "six is written as 6, so the numeral and number word show the same number.",
+      "hint": "Match the spoken number name to the written numeral."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 21,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-022",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "represent teen number",
+    "question": "Leo has a full ten-frame and 9 more counters. Which number is shown?",
+    "visual": "● ● ● ● ●\n● ● ● ● ●\n● ● ● ● ●\n● ● ● ● ○",
+    "explanation": "One full ten-frame is 10, and 9 more makes 19.",
     "printable": true,
     "type": "single",
     "answers": [
       "19",
-      "6",
-      "9"
+      "9",
+      "18"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "One full ten-frame is 10, and 9 more makes 19.",
+      "hint": "Think ten and some more."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 22,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
-    "id": "ac9mfn01-p-041",
+    "id": "ac9mfn01-p-023",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "least of set",
-    "question": "Which is the least number: 12, 4, 20, 8?",
-    "explanation": "Four comes before the other numbers.",
+    "skill": "order two numbers",
+    "question": "Zoe compares 4 and 8. Which number is greater?",
+    "visual": "4      8",
+    "explanation": "8 is greater because it comes later when counting to 20.",
     "printable": true,
     "type": "single",
     "answers": [
       "4",
       "8",
-      "12"
+      "7"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "8 is greater because it comes later when counting to 20.",
+      "hint": "The later number on the counting track is greater."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 23,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-024",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "understand zero",
+    "question": "All Sam's buttons were packed away after the activity. Which numeral shows none left?",
+    "visual": "(empty mat)",
+    "explanation": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "1",
+      "2",
+      "0"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
+      "hint": "An empty collection is represented by 0."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 24,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-025",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "count on by one",
+    "question": "Kai is counting on a number track: 12, ___. What number comes next?",
+    "visual": "12  ___",
+    "explanation": "Counting on one from 12 gives 13, so 13 is the next number in the sequence.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "13",
+      "11",
+      "14"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Counting on one from 12 gives 13, so 13 is the next number in the sequence.",
+      "hint": "Say the number, then count one more."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 25,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-026",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "count back by one",
+    "question": "Omar points to 19. What number comes just before it?",
+    "visual": "___  19",
+    "explanation": "18 comes just before 19 in the counting order because it is one less.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "20",
+      "18",
+      "17"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "18 comes just before 19 in the counting order because it is one less.",
+      "hint": "Count backwards one step."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 26,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-027",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "missing number sequence",
+    "question": "Ivy sees this counting pattern. Which number is missing? 15, ___, 17",
+    "visual": "15  ___  17",
+    "explanation": "The numbers count up by one, so the missing number is 16.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "15",
+      "17",
+      "16"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "The numbers count up by one, so the missing number is 16.",
+      "hint": "Read the numbers in order."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 27,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-028",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "match numeral to quantity",
+    "question": "Which numeral matches this collection of stars on Mia's mat?",
+    "visual": "(empty)",
+    "explanation": "Counting each star once gives 0, and the last count word names the total.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "0",
+      "1",
+      "2"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Counting each star once gives 0, and the last count word names the total.",
+      "hint": "Touch each object once and use the last count word as the total."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 28,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-029",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "read number name",
+    "question": "Noah reads the number word fifteen. Which numeral matches it?",
+    "visual": "fifteen",
+    "explanation": "fifteen is written as 15, so the numeral and number word show the same number.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "13",
+      "15",
+      "16"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "fifteen is written as 15, so the numeral and number word show the same number.",
+      "hint": "Match the spoken number name to the written numeral."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 29,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-030",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "represent teen number",
+    "question": "Ava has a full ten-frame and 3 more counters. Which number is shown?",
+    "visual": "● ● ● ● ●\n● ● ● ● ●\n● ● ● ○ ○\n○ ○ ○ ○ ○",
+    "explanation": "One full ten-frame is 10, and 3 more makes 13.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "3",
+      "12",
+      "13"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "One full ten-frame is 10, and 3 more makes 13.",
+      "hint": "Think ten and some more."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 30,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-031",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "order two numbers",
+    "question": "Leo compares 6 and 15. Which number is greater?",
+    "visual": "6      15",
+    "explanation": "15 is greater because it comes later when counting to 20.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "15",
+      "6",
+      "14"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "15 is greater because it comes later when counting to 20.",
+      "hint": "The later number on the counting track is greater."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-032",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "understand zero",
+    "question": "All Zoe's leaves were packed away after the activity. Which numeral shows none left?",
+    "visual": "(empty mat)",
+    "explanation": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "1",
+      "0",
+      "2"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
+      "hint": "An empty collection is represented by 0."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-033",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "count on by one",
+    "question": "Lina is counting on a number track: 16, ___. What number comes next?",
+    "visual": "16  ___",
+    "explanation": "Counting on one from 16 gives 17, so 17 is the next number in the sequence.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "15",
+      "18",
+      "17"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Counting on one from 16 gives 17, so 17 is the next number in the sequence.",
+      "hint": "Say the number, then count one more."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-034",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "count back by one",
+    "question": "Kai points to 5. What number comes just before it?",
+    "visual": "___  5",
+    "explanation": "4 comes just before 5 in the counting order because it is one less.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "4",
+      "6",
+      "3"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "4 comes just before 5 in the counting order because it is one less.",
+      "hint": "Count backwards one step."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-035",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "missing number sequence",
+    "question": "Omar sees this counting pattern. Which number is missing? 11, ___, 13",
+    "visual": "11  ___  13",
+    "explanation": "The numbers count up by one, so the missing number is 12.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "The numbers count up by one, so the missing number is 12.",
+      "hint": "Read the numbers in order."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-036",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "match numeral to quantity",
+    "question": "Which numeral matches this collection of cups on Ivy's mat?",
+    "visual": "● ● ● ● ●\n ● ● ● ● ● ●\n  ● ● ●",
+    "explanation": "Counting each cup once gives 14, and the last count word names the total.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "13",
+      "15",
+      "14"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Counting each cup once gives 14, and the last count word names the total.",
+      "hint": "Touch each object once and use the last count word as the total."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-037",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "read number name",
+    "question": "Mia reads the number word nine. Which numeral matches it?",
+    "visual": "nine",
+    "explanation": "nine is written as 9, so the numeral and number word show the same number.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "9",
+      "7",
+      "10"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "nine is written as 9, so the numeral and number word show the same number.",
+      "hint": "Match the spoken number name to the written numeral."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-038",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "represent teen number",
+    "question": "Noah has a full ten-frame and 8 more counters. Which number is shown?",
+    "visual": "● ● ● ● ●\n● ● ● ● ●\n● ● ● ● ●\n● ● ● ○ ○",
+    "explanation": "One full ten-frame is 10, and 8 more makes 18.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "8",
+      "18",
+      "17"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "One full ten-frame is 10, and 8 more makes 18.",
+      "hint": "Think ten and some more."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-039",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "order two numbers",
+    "question": "Ava compares 4 and 5. Which number is greater?",
+    "visual": "4      5",
+    "explanation": "5 is greater because it comes later when counting to 20.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "4",
+      "0",
+      "5"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "5 is greater because it comes later when counting to 20.",
+      "hint": "The later number on the counting track is greater."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-040",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "understand zero",
+    "question": "All Leo's buttons were packed away after the activity. Which numeral shows none left?",
+    "visual": "(empty mat)",
+    "explanation": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "0",
+      "1",
+      "2"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
+      "hint": "An empty collection is represented by 0."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn01-p-041",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "count on by one",
+    "question": "Sam is counting on a number track: 0, ___. What number comes next?",
+    "visual": "0  ___",
+    "explanation": "Counting on one from 0 gives 1, so 1 is the next number in the sequence.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "0",
+      "1",
+      "2"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Counting on one from 0 gives 1, so 1 is the next number in the sequence.",
+      "hint": "Say the number, then count one more."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 41,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-042",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "number line location",
-    "question": "A number line shows 10, 11, □, 13. What belongs in the box?",
-    "explanation": "Twelve lies between 11 and 13.",
+    "skill": "count back by one",
+    "question": "Lina points to 9. What number comes just before it?",
+    "visual": "___  9",
+    "explanation": "8 comes just before 9 in the counting order because it is one less.",
     "printable": true,
     "type": "single",
     "answers": [
-      "12",
-      "9",
-      "11"
+      "10",
+      "7",
+      "8"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "8 comes just before 9 in the counting order because it is one less.",
+      "hint": "Count backwards one step."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 42,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-043",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "number line one jump forward",
-    "question": "Start at 15 on a number line and make 1 jump forward. Where do you land?",
-    "explanation": "One forward jump lands on 16.",
+    "skill": "missing number sequence",
+    "question": "Kai sees this counting pattern. Which number is missing? 7, ___, 9",
+    "visual": "7  ___  9",
+    "explanation": "The numbers count up by one, so the missing number is 8.",
     "printable": true,
     "type": "single",
     "answers": [
-      "16",
-      "14",
-      "15"
+      "8",
+      "7",
+      "9"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "The numbers count up by one, so the missing number is 8.",
+      "hint": "Read the numbers in order."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 43,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-044",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "number line one jump back",
-    "question": "Start at 8 and make 1 jump back. Where do you land?",
-    "explanation": "One backward jump lands on 7.",
+    "skill": "match numeral to quantity",
+    "question": "Which numeral matches this collection of stars on Omar's mat?",
+    "visual": "◆ ◆ ◆ ◆ ◆ ◆\n ◆",
+    "explanation": "Counting each star once gives 7, and the last count word names the total.",
     "printable": true,
     "type": "single",
     "answers": [
-      "7",
       "6",
+      "7",
       "8"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Counting each star once gives 7, and the last count word names the total.",
+      "hint": "Touch each object once and use the last count word as the total."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 44,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-045",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "number line relative position",
-    "question": "On a number line, which number is to the right of 17?",
-    "explanation": "Numbers increase as we move right.",
+    "skill": "read number name",
+    "question": "Ivy reads the number word eighteen. Which numeral matches it?",
+    "visual": "eighteen",
+    "explanation": "eighteen is written as 18, so the numeral and number word show the same number.",
     "printable": true,
     "type": "single",
     "answers": [
-      "18",
       "16",
-      "17"
+      "19",
+      "18"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "eighteen is written as 18, so the numeral and number word show the same number.",
+      "hint": "Match the spoken number name to the written numeral."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 45,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-046",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "first ordinal",
-    "question": "Four children line up: Ava, Ben, Chen, Dia. Who is first?",
-    "explanation": "Ava is at the front of the listed line.",
+    "skill": "represent teen number",
+    "question": "Mia has a full ten-frame and 2 more counters. Which number is shown?",
+    "visual": "● ● ● ● ●\n● ● ● ● ●\n● ● ○ ○ ○\n○ ○ ○ ○ ○",
+    "explanation": "One full ten-frame is 10, and 2 more makes 12.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Ava",
-      "Ben",
-      "Chen"
+      "12",
+      "2",
+      "11"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "One full ten-frame is 10, and 2 more makes 12.",
+      "hint": "Think ten and some more."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 46,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-047",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "second ordinal",
-    "question": "Four toy animals are in a row: cat, dog, duck, koala. Which is second?",
-    "explanation": "Dog comes after cat, so it is second.",
+    "skill": "order two numbers",
+    "question": "Noah compares 2 and 16. Which number is greater?",
+    "visual": "2      16",
+    "explanation": "16 is greater because it comes later when counting to 20.",
     "printable": true,
     "type": "single",
     "answers": [
-      "dog",
-      "cat",
-      "duck"
+      "2",
+      "16",
+      "15"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "16 is greater because it comes later when counting to 20.",
+      "hint": "The later number on the counting track is greater."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 47,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-048",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "third ordinal",
-    "question": "Which number comes after 15?",
-    "explanation": "The third card from the left is 12.",
+    "skill": "understand zero",
+    "question": "All Ava's leaves were packed away after the activity. Which numeral shows none left?",
+    "visual": "(empty mat)",
+    "explanation": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
     "printable": true,
     "type": "single",
     "answers": [
-      "16",
-      "14",
-      "15"
+      "1",
+      "2",
+      "0"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
+      "hint": "An empty collection is represented by 0."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 48,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-049",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "last position",
-    "question": "Five runners are named Ali, Bea, Cal, Dev, Eli in finishing order. Who finished last?",
-    "explanation": "Eli is fifth and last in the given order.",
+    "skill": "count on by one",
+    "question": "Zoe is counting on a number track: 4, ___. What number comes next?",
+    "visual": "4  ___",
+    "explanation": "Counting on one from 4 gives 5, so 5 is the next number in the sequence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Eli",
-      "Ali",
-      "Bea"
+      "5",
+      "3",
+      "6"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Counting on one from 4 gives 5, so 5 is the next number in the sequence.",
+      "hint": "Say the number, then count one more."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 49,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-050",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "position language before",
-    "question": "In the row 4, 5, 6, which number is just before 6?",
-    "explanation": "Five is immediately before 6.",
+    "skill": "count back by one",
+    "question": "Sam points to 13. What number comes just before it?",
+    "visual": "___  13",
+    "explanation": "12 comes just before 13 in the counting order because it is one less.",
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
-      "4",
-      "6"
+      "14",
+      "12",
+      "11"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "12 comes just before 13 in the counting order because it is one less.",
+      "hint": "Count backwards one step."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 50,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-051",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "position language after",
-    "question": "In the row 11, 12, 13, which number is just after 11?",
-    "explanation": "Twelve is immediately after 11.",
+    "skill": "missing number sequence",
+    "question": "Lina sees this counting pattern. Which number is missing? 3, ___, 5",
+    "visual": "3  ___  5",
+    "explanation": "The numbers count up by one, so the missing number is 4.",
     "printable": true,
     "type": "single",
     "answers": [
-      "12",
-      "10",
-      "11"
+      "3",
+      "5",
+      "4"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "The numbers count up by one, so the missing number is 4.",
+      "hint": "Read the numbers in order."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 51,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-052",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "match two representations",
-    "question": "Which pair shows the same number?",
-    "explanation": "The numeral 7 matches seven dots.",
+    "skill": "match numeral to quantity",
+    "question": "Which numeral matches this collection of cups on Kai's mat?",
+    "visual": "(empty)",
+    "explanation": "Counting each cup once gives 0, and the last count word names the total.",
     "printable": true,
     "type": "single",
     "answers": [
-      "7 and ●●●●●●●",
-      "6 and ●●●●●",
-      "8 and ●●●●●●"
+      "0",
+      "1",
+      "2"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Counting each cup once gives 0, and the last count word names the total.",
+      "hint": "Touch each object once and use the last count word as the total."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 52,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-053",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "detect counting error",
-    "question": "Sam counts five counters: “1, 2, 3, 5, 6.” What did Sam forget?",
-    "explanation": "The stable counting sequence goes 1, 2, 3, 4, 5.",
+    "skill": "read number name",
+    "question": "Omar reads the number word twelve. Which numeral matches it?",
+    "visual": "twelve",
+    "explanation": "twelve is written as 12, so the numeral and number word show the same number.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The number 4",
-      "The number 0",
-      "The number 5"
+      "10",
+      "12",
+      "13"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "twelve is written as 12, so the numeral and number word show the same number.",
+      "hint": "Match the spoken number name to the written numeral."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 53,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-054",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "one-to-one counting",
-    "question": "What is the best way to count a group of counters accurately?",
-    "explanation": "Touching each object once supports one-to-one counting.",
+    "skill": "represent teen number",
+    "question": "Ivy has a full ten-frame and 7 more counters. Which number is shown?",
+    "visual": "● ● ● ● ●\n● ● ● ● ●\n● ● ● ● ●\n● ● ○ ○ ○",
+    "explanation": "One full ten-frame is 10, and 7 more makes 17.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Touch each counter once",
-      "Say numbers as fast as possible",
-      "Count one counter twice"
+      "7",
+      "16",
+      "17"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "One full ten-frame is 10, and 7 more makes 17.",
+      "hint": "Think ten and some more."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 54,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-055",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "cardinality",
-    "question": "Nina counts “1, 2, 3, 4, 5, 6.” What does the last number tell her?",
-    "explanation": "The final count word tells how many are in the whole collection.",
+    "skill": "order two numbers",
+    "question": "Mia compares 0 and 6. Which number is greater?",
+    "visual": "0      6",
+    "explanation": "6 is greater because it comes later when counting to 20.",
     "printable": true,
     "type": "single",
     "answers": [
-      "There are 6 altogether",
-      "The colour",
-      "The first object"
+      "6",
+      "0",
+      "5"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "6 is greater because it comes later when counting to 20.",
+      "hint": "The later number on the counting track is greater."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 55,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
     "id": "ac9mfn01-p-056",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "skill": "reasoning false claim",
-    "question": "Kai says 14 is smaller than 9 because the digit 1 is small. Which answer corrects Kai?",
-    "explanation": "Fourteen comes after 9 and represents a larger quantity.",
+    "skill": "understand zero",
+    "question": "All Noah's buttons were packed away after the activity. Which numeral shows none left?",
+    "visual": "(empty mat)",
+    "explanation": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
     "printable": true,
     "type": "single",
     "answers": [
-      "14 is greater than 9",
-      "Kai is right",
-      "14 and 9 are equal"
+      "1",
+      "0",
+      "2"
     ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Zero means there are no objects in the collection, so an empty mat is matched with 0.",
+      "hint": "An empty collection is represented by 0."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 56,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   }
 ];

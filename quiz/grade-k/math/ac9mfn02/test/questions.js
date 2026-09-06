@@ -1,41 +1,38 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9mfn02-t-057",
+    "id": "ac9mfn02-t-001",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "Which number matches this single ladybird? / 🐞",
-    "explanation": "One ladybird represents 1.",
+    "skill": "same quantity different arrangement",
+    "question": "Independent check: Noah compares Check 102. Which card shows the same number as Card A?",
+    "visual": "Card A: ▲ ▲ ▲ ▲\nCard B: ▲ ▲ ▲\nCard C: ▲ ▲ ▲\n ▲",
+    "explanation": "Card A and Card C both show 4, even though the objects are arranged differently.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
-      "2",
-      "3"
+      "Card B",
+      "Neither card",
+      "Card C"
     ],
-    "correct": 0
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Card A and Card C both show 4, even though the objects are arranged differently.",
+      "hint": "Arrangement can change while the number stays the same."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
-    "id": "ac9mfn02-t-058",
+    "id": "ac9mfn02-t-002",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "[Show 2 dots.] How many dots can you see?",
-    "explanation": "The slanting card contains 2 dots.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "2",
-      "1",
-      "3"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-059",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "Name the amount in this corner pattern. / ● ● / ●",
-    "explanation": "Two on top and one below make 3.",
+    "skill": "dice pattern",
+    "question": "Independent check: Ava sees Check 103. Which numeral matches this dice-style pattern?",
+    "visual": "●\n ●\n  ●",
+    "explanation": "This familiar dice-style pattern represents 3 without needing to count every dot.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -43,14 +40,524 @@ window.skillrTestQuestions = [
       "2",
       "4"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "This familiar dice-style pattern represents 3 without needing to count every dot.",
+      "hint": "Use the pattern, not one-by-one counting."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
-    "id": "ac9mfn02-t-060",
+    "id": "ac9mfn02-t-003",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "[Show 4 dots.] How many dots can you see?",
-    "explanation": "The diamond contains 4 dots.",
+    "skill": "choose named quantity",
+    "question": "Independent check: Leo needs four. Which small card shows that amount?",
+    "visual": "A: ● ● ● ○ ○\nB: ● ● ● ● ○\nC: ● ● ● ● ●",
+    "explanation": "Card B has 4 filled spaces, so it shows four.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Card B has 4 filled spaces, so it shows four.",
+      "hint": "Match the word to the quick-look pattern."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-004",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "compare small collections by sight",
+    "question": "Independent check: Zoe compares two small groups on Check 105. Which group has fewer objects?",
+    "visual": "A: ●\nB: ■ ■",
+    "explanation": "Group A has 1 and Group B has 2, so Group A has fewer.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "B",
+      "They are equal",
+      "A"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Group A has 1 and Group B has 2, so Group A has fewer.",
+      "hint": "For small groups, you can often see the amounts quickly."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-005",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "quick-look dot pattern",
+    "question": "Independent check: Sam looks quickly at Check 106. How many dots are shown?",
+    "visual": "●",
+    "explanation": "The pattern shows 1. A small group can be recognised without counting each dot one by one.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "1",
+      "0",
+      "2"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "The pattern shows 1. A small group can be recognised without counting each dot one by one.",
+      "hint": "Look for the whole pattern first."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-006",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "five-frame recognition",
+    "question": "Independent check: Lina uses Check 107. Which number does the five-frame show?",
+    "visual": "● ● ○ ○ ○",
+    "explanation": "2 spaces are filled in the five-frame, so the card shows 2.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "2 spaces are filled in the five-frame, so the card shows 2.",
+      "hint": "Use the filled spaces and the empty spaces to see the total."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-007",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "part-whole to five",
+    "question": "Independent check: Kai sees two parts on Check 108. How many counters are shown altogether?",
+    "visual": "● ● ●   ■ ■",
+    "explanation": "3 and 2 make 5 altogether, so the whole group has 5 counters.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "3",
+      "2",
+      "5"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "3 and 2 make 5 altogether, so the whole group has 5 counters.",
+      "hint": "See the two parts, then name the whole."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-008",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "same quantity different arrangement",
+    "question": "Independent check: Omar compares Check 109. Which card shows the same number as Card A?",
+    "visual": "Card A: ★\nCard B: ★\nCard C: ★",
+    "explanation": "Card A and Card C both show 1, even though the objects are arranged differently.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Card C",
+      "Card B",
+      "Neither card"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Card A and Card C both show 1, even though the objects are arranged differently.",
+      "hint": "Arrangement can change while the number stays the same."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-009",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "dice pattern",
+    "question": "Independent check: Ivy sees Check 110. Which numeral matches this dice-style pattern?",
+    "visual": "● ●\n ●\n● ●",
+    "explanation": "This familiar dice-style pattern represents 5 without needing to count every dot.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "4",
+      "5",
+      "1"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "This familiar dice-style pattern represents 5 without needing to count every dot.",
+      "hint": "Use the pattern, not one-by-one counting."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-010",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "choose named quantity",
+    "question": "Independent check: Mia needs one. Which small card shows that amount?",
+    "visual": "A: ● ○ ○ ○ ○\nB: ● ○ ○ ○ ○\nC: ● ● ○ ○ ○",
+    "explanation": "Card B has 1 filled spaces, so it shows one.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "A",
+      "C",
+      "B"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Card B has 1 filled spaces, so it shows one.",
+      "hint": "Match the word to the quick-look pattern."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-011",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "compare small collections by sight",
+    "question": "Independent check: Noah compares two small groups on Check 112. Which group has fewer objects?",
+    "visual": "A: ● ● ● ●\nB: ■ ■ ■ ■ ■",
+    "explanation": "Group A has 4 and Group B has 5, so Group A has fewer.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "A",
+      "B",
+      "They are equal"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Group A has 4 and Group B has 5, so Group A has fewer.",
+      "hint": "For small groups, you can often see the amounts quickly."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-012",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "quick-look dot pattern",
+    "question": "Independent check: Ava looks quickly at Check 113. How many dots are shown?",
+    "visual": "● ● ●",
+    "explanation": "The pattern shows 3. A small group can be recognised without counting each dot one by one.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "The pattern shows 3. A small group can be recognised without counting each dot one by one.",
+      "hint": "Look for the whole pattern first."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-013",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "five-frame recognition",
+    "question": "Independent check: Leo uses Check 114. Which number does the five-frame show?",
+    "visual": "● ● ● ● ○",
+    "explanation": "4 spaces are filled in the five-frame, so the card shows 4.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "4 spaces are filled in the five-frame, so the card shows 4.",
+      "hint": "Use the filled spaces and the empty spaces to see the total."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-014",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "part-whole to five",
+    "question": "Independent check: Zoe sees two parts on Check 115. How many counters are shown altogether?",
+    "visual": "● ●   ■ ■ ■",
+    "explanation": "2 and 3 make 5 altogether, so the whole group has 5 counters.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "5",
+      "2",
+      "3"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "2 and 3 make 5 altogether, so the whole group has 5 counters.",
+      "hint": "See the two parts, then name the whole."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-015",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "same quantity different arrangement",
+    "question": "Independent check: Sam compares Check 116. Which card shows the same number as Card A?",
+    "visual": "Card A: ■ ■ ■\nCard B: ■ ■\nCard C: ■ ■ ■",
+    "explanation": "Card A and Card C both show 3, even though the objects are arranged differently.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Card B",
+      "Card C",
+      "Neither card"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Card A and Card C both show 3, even though the objects are arranged differently.",
+      "hint": "Arrangement can change while the number stays the same."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-016",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "dice pattern",
+    "question": "Independent check: Lina sees Check 117. Which numeral matches this dice-style pattern?",
+    "visual": "● ●",
+    "explanation": "This familiar dice-style pattern represents 2 without needing to count every dot.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "1",
+      "3",
+      "2"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "This familiar dice-style pattern represents 2 without needing to count every dot.",
+      "hint": "Use the pattern, not one-by-one counting."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-017",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "choose named quantity",
+    "question": "Independent check: Kai needs three. Which small card shows that amount?",
+    "visual": "A: ● ● ○ ○ ○\nB: ● ● ● ○ ○\nC: ● ● ● ● ○",
+    "explanation": "Card B has 3 filled spaces, so it shows three.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "B",
+      "A",
+      "C"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "Card B has 3 filled spaces, so it shows three.",
+      "hint": "Match the word to the quick-look pattern."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 17,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-018",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "compare small collections by sight",
+    "question": "Independent check: Omar compares two small groups on Check 119. Which group has fewer objects?",
+    "visual": "A: ● ● ●\nB: ■ ■ ■ ■",
+    "explanation": "Group A has 3 and Group B has 4, so Group A has fewer.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "B",
+      "A",
+      "They are equal"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Group A has 3 and Group B has 4, so Group A has fewer.",
+      "hint": "For small groups, you can often see the amounts quickly."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 18,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-019",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "quick-look dot pattern",
+    "question": "Independent check: Ivy looks quickly at Check 120. How many dots are shown?",
+    "visual": "●   ●\n  ●\n●   ●",
+    "explanation": "The pattern shows 5. A small group can be recognised without counting each dot one by one.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "4",
+      "0",
+      "5"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "The pattern shows 5. A small group can be recognised without counting each dot one by one.",
+      "hint": "Look for the whole pattern first."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 19,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-020",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "five-frame recognition",
+    "question": "Independent check: Mia uses Check 121. Which number does the five-frame show?",
+    "visual": "● ○ ○ ○ ○",
+    "explanation": "1 spaces are filled in the five-frame, so the card shows 1.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "1",
+      "0",
+      "2"
+    ],
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "1 spaces are filled in the five-frame, so the card shows 1.",
+      "hint": "Use the filled spaces and the empty spaces to see the total."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 20,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-021",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "part-whole to five",
+    "question": "Independent check: Noah sees two parts on Check 122. How many counters are shown altogether?",
+    "visual": "●   ■ ■ ■ ■",
+    "explanation": "1 and 4 make 5 altogether, so the whole group has 5 counters.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "1",
+      "5",
+      "4"
+    ],
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "1 and 4 make 5 altogether, so the whole group has 5 counters.",
+      "hint": "See the two parts, then name the whole."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 21,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-022",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "same quantity different arrangement",
+    "question": "Independent check: Ava compares Check 123. Which card shows the same number as Card A?",
+    "visual": "Card A: ◆ ◆ ◆ ◆ ◆\nCard B: ◆ ◆ ◆\n ◆\nCard C: ◆ ◆ ◆ ◆\n ◆",
+    "explanation": "Card A and Card C both show 5, even though the objects are arranged differently.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Card B",
+      "Neither card",
+      "Card C"
+    ],
+    "correct": 2,
+    "structuredExplanation": {
+      "summary": "Card A and Card C both show 5, even though the objects are arranged differently.",
+      "hint": "Arrangement can change while the number stays the same."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 22,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
+  },
+  {
+    "id": "ac9mfn02-t-023",
+    "curriculumCode": "AC9MFN02",
+    "bank": "test",
+    "skill": "dice pattern",
+    "question": "Independent check: Leo sees Check 124. Which numeral matches this dice-style pattern?",
+    "visual": "● ●\n● ●",
+    "explanation": "This familiar dice-style pattern represents 4 without needing to count every dot.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -58,306 +565,39 @@ window.skillrTestQuestions = [
       "3",
       "5"
     ],
-    "correct": 0
+    "correct": 0,
+    "structuredExplanation": {
+      "summary": "This familiar dice-style pattern represents 4 without needing to count every dot.",
+      "hint": "Use the pattern, not one-by-one counting."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 23,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   },
   {
-    "id": "ac9mfn02-t-061",
+    "id": "ac9mfn02-t-024",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "[Show 5 dots.] How many dots can you see?",
-    "explanation": "The zigzag contains 5 dots.",
+    "skill": "choose named quantity",
+    "question": "Independent check: Zoe needs five. Which small card shows that amount?",
+    "visual": "A: ● ● ● ● ○\nB: ● ● ● ● ●\nC: ● ● ● ● ●",
+    "explanation": "Card B has 5 filled spaces, so it shows five.",
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
-      "4",
-      "1"
+      "A",
+      "B",
+      "C"
     ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-062",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 1 dot.] How many dots can you see?",
-    "explanation": "Three of the five spaces are filled.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "1",
-      "0",
-      "2"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-063",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 2 dots.] How many dots can you see?",
-    "explanation": "Two buttons represent the same quantity as 2 dots.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "2",
-      "1",
-      "3"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-064",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "Which pattern matches the number word five?",
-    "explanation": "The five-dot row matches the word five.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "● ● ● ● ●",
-      "● ● ●",
-      "● ● ● ●"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-065",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 1 dot.] How many dots can you see?",
-    "explanation": "Four fingers match a card with 4 dots.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "1",
-      "0",
-      "2"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-066",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "This die face shows 3. Which five-frame shows the same amount?",
-    "explanation": "Three filled spaces match the die face showing 3.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "● ● ● ○ ○",
-      "● ● ○ ○ ○",
-      "● ● ● ● ○"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-067",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "This arrangement has a pair and one extra dot. / ● ●   ● / What is the whole?",
-    "explanation": "Two and one make 3.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "3",
-      "2",
-      "4"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-068",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "Which number sentence describes two pairs of counters?",
-    "explanation": "Two pairs are 2 and 2, making 4.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "2 + 2 = 4",
-      "2 + 1 = 3",
-      "3 + 2 = 5"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-069",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 5 dots.] How many dots can you see?",
-    "explanation": "One and four combine to make 5.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "5",
-      "4",
-      "1"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-070",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 1 dot.] How many dots can you see?",
-    "explanation": "Two empty spaces remain, so 2 more are needed.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "1",
-      "0",
-      "2"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-071",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 2 dots.] How many dots can you see?",
-    "explanation": "Five is more than three.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "2",
-      "1",
-      "3"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-072",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 3 dots.] How many dots can you see?",
-    "explanation": "Two dots are fewer than four.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "3",
-      "2",
-      "4"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-073",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "Which order goes from fewer to more?",
-    "explanation": "Two, three, five is increasing order.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "2 dots, 3 dots, 5 dots",
-      "5 dots, 3 dots, 2 dots",
-      "3 dots, 2 dots, 5 dots"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-074",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 2 dots.] How many dots can you see?",
-    "explanation": "The order is 1, 3, 4, so 3 is in the middle.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "2",
-      "1",
-      "3"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-075",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 3 dots.] How many dots can you see?",
-    "explanation": "The matching card must also show 5.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "3",
-      "2",
-      "4"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-076",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 4 dots.] How many dots can you see?",
-    "explanation": "Both cards in the pair must show 3.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "4",
-      "3",
-      "5"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-077",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "In a 'who has more?' game, Kai has 2 counters and Zoe has 4. Who wins this round?",
-    "explanation": "Zoe's 4 counters are more than Kai's 2.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Zoe",
-      "Kai",
-      "They tie"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-078",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 1 dot.] How many dots can you see?",
-    "explanation": "Card size and spacing do not change a collection of 5.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "1",
-      "0",
-      "2"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-079",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "[Show 2 dots.] How many dots can you see?",
-    "explanation": "Rotation changes the view, not the quantity.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "2",
-      "1",
-      "3"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn02-t-080",
-    "curriculumCode": "AC9MFN02",
-    "bank": "test",
-    "question": "Nina sees 2 dots on top and 3 below. She says the whole is 4. Which correction is right?",
-    "explanation": "The two visible parts, 2 and 3, make 5.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "2 and 3 make 5",
-      "2 and 3 make 3",
-      "2 and 3 make 4"
-    ],
-    "correct": 0
+    "correct": 1,
+    "structuredExplanation": {
+      "summary": "Card B has 5 filled spaces, so it shows five.",
+      "hint": "Match the word to the quick-look pattern."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 24,
+    "qualitySchema": "foundation-maths-ixl-standard-v1"
   }
 ];
