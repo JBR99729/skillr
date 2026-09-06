@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-001",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving a respectful negative response direct",
+    "skill": "test poem",
     "printable": true,
     "type": "single",
-    "question": "Which response explains a dislike without insulting the author or other readers?",
-    "audioPrompt": "Which response explains a dislike without insulting the author or other readers?",
+    "question": "Read: 'Round and round the leaves all go, twirling high and drifting low.' Which response explains enjoyment?",
+    "audioPrompt": "Read: 'Round and round the leaves all go, twirling high and drifting low.' Which response explains enjoyment?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I did not enjoy the ending, so other readers should dislike it too.",
-      "I did not enjoy the ending because the main problem stayed unsolved.",
-      "I did not enjoy it because an ending does not need to solve the problem."
+      "I like the movement words because I can imagine the leaves dancing.",
+      "I like the instructions for planting a tree.",
+      "I like the facts about a leaf's roots."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "The response respectfully focuses on a specific feature of the text.\nHint: A useful response explains the text feature, not attacks the creator or audience.",
+    "correct": 0,
+    "explanation": "The reader connects appreciation to the movement language actually present.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response respectfully focuses on a specific feature of the text.",
-      "hint": "A useful response explains the text feature, not attacks the creator or audience."
+      "summary": "The reader connects appreciation to the movement language actually present.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +35,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-002",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "comparing two adventure stories direct",
+    "skill": "test character",
     "printable": true,
     "type": "single",
-    "question": "Which comparison gives a clear preference supported by a difference between two stories?",
-    "audioPrompt": "Which comparison gives a clear preference supported by a difference between two stories?",
+    "question": "Read: 'Bo gave up his seat so the tired traveller could rest.' Which reason supports liking Bo?",
+    "audioPrompt": "Read: 'Bo gave up his seat so the tired traveller could rest.' Which reason supports liking Bo?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +47,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "River Race is better, and that is all.",
-      "I preferred River Race because it has more pages than Garden Day.",
-      "I preferred River Race because its storm problem was more exciting than Garden Day's missing tools."
+      "He is the fastest runner in the story.",
+      "He notices another person's need and helps.",
+      "He tells the funniest joke."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "The response names a preference and supports it with a relevant plot difference.\nHint: A comparison should explain what differs and why that matters to the reader.",
+    "correct": 1,
+    "explanation": "The helpful action supports appreciation of Bo's thoughtfulness.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response names a preference and supports it with a relevant plot difference.",
-      "hint": "A comparison should explain what differs and why that matters to the reader."
+      "summary": "The helpful action supports appreciation of Bo's thoughtfulness.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,11 +66,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-003",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "appreciating the author s word choice direct",
+    "skill": "test precision",
     "printable": true,
     "type": "single",
-    "question": "The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect?",
-    "audioPrompt": "The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect?",
+    "question": "A reader wants a word meaning 'full of exciting action'. Which response fits?",
+    "audioPrompt": "A reader wants a word meaning 'full of exciting action'. Which response fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -78,18 +78,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I liked ‘floated’ because it made the night seem gentle and calm.",
-      "I liked ‘floated’ because it means the moon was on the water.",
-      "I liked ‘silver’ because it makes the quiet lake sound noisy."
+      "The rescue story was dull.",
+      "The rescue story was peaceful.",
+      "The rescue story was thrilling."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
-    "correct": 0,
-    "explanation": "The response points to a precise word and explains the mood it creates.\nHint: Choose a comment that connects one language choice to its effect.",
+    "correct": 2,
+    "explanation": "Thrilling expresses excitement; dull and peaceful do not match this intended response.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response points to a precise word and explains the mood it creates.",
-      "hint": "Choose a comment that connects one language choice to its effect."
+      "summary": "Thrilling expresses excitement; dull and peaceful do not match this intended response.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +97,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-004",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "supporting a response to a peaceful setting direct",
+    "skill": "test reason",
     "printable": true,
     "type": "single",
-    "question": "Which line best supports a reader saying, ‘The setting felt peaceful’?",
-    "audioPrompt": "Which line best supports a reader saying, ‘The setting felt peaceful’?",
+    "question": "Which response explains a preference for an audio version of a poem?",
+    "audioPrompt": "Which response explains a preference for an audio version of a poem?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +109,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The creek crashed over rocks beside the path.",
-      "The creek whispered beside the soft green grass.",
-      "Children shouted while they splashed through the creek."
+      "I could hear the rhythm clearly when it was read aloud.",
+      "The file was stored in a folder.",
+      "The poem existed before I listened."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
-    "correct": 1,
-    "explanation": "The gentle sound and soft visual details create a peaceful setting.\nHint: Look for words that help the reader hear or picture calmness.",
+    "correct": 0,
+    "explanation": "The response relates the format to a feature the listener appreciates.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The gentle sound and soft visual details create a peaceful setting.",
-      "hint": "Look for words that help the reader hear or picture calmness."
+      "summary": "The response relates the format to a feature the listener appreciates.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,11 +128,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-005",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "appreciating a chant s beat direct",
+    "skill": "test dislike",
     "printable": true,
     "type": "single",
-    "question": "Which response explains why a reader preferred a playground chant?",
-    "audioPrompt": "Which response explains why a reader preferred a playground chant?",
+    "question": "A reader dislikes an ending because the main problem is left unanswered. Which comment explains this?",
+    "audioPrompt": "A reader dislikes an ending because the main problem is left unanswered. Which comment explains this?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -140,18 +140,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Its strong beat made the chant sound quiet and sleepy.",
-      "Its rhyming title tells performers exactly when to clap.",
-      "Its strong beat made the chant lively and fun to perform."
+      "The book is wrong because I dislike it.",
+      "I wanted to know whether the lost child got home, but the story stopped.",
+      "The writer should never write again."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
-    "correct": 2,
-    "explanation": "The response names the beat and explains how it affects the performance.\nHint: Connect a sound pattern to what the reader hears or feels.",
+    "correct": 1,
+    "explanation": "The response identifies the unresolved question and its effect on the reader.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response names the beat and explains how it affects the performance.",
-      "hint": "Connect a sound pattern to what the reader hears or feels."
+      "summary": "The response identifies the unresolved question and its effect on the reader.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,11 +159,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-006",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "using evidence about a kind character direct",
+    "skill": "test two views",
     "printable": true,
     "type": "single",
-    "question": "Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him?",
-    "audioPrompt": "Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him?",
+    "question": "One reader likes a long description; another prefers the action. What can both readers do?",
+    "audioPrompt": "One reader likes a long description; another prefers the action. What can both readers do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -171,18 +171,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Lani shared her water when the walkers were tired.",
-      "Lani carried her own bag to the campsite.",
-      "Lani reached the lookout before the other walkers."
+      "Agree that only action belongs in stories.",
+      "Choose an opinion without discussing the text.",
+      "Give a text detail that explains their own preference."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
-    "correct": 0,
-    "explanation": "Sharing water when others need it is story evidence of Lani's kindness.\nHint: Choose an action that proves the reason given.",
+    "correct": 2,
+    "explanation": "Different preferences can each be explained through text evidence.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Sharing water when others need it is story evidence of Lani's kindness.",
-      "hint": "Choose an action that proves the reason given."
+      "summary": "Different preferences can each be explained through text evidence.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +190,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-007",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "improving a vague picture response direct",
+    "skill": "test evidence",
     "printable": true,
     "type": "single",
-    "question": "How can Kai improve ‘The pictures were good’?",
-    "audioPrompt": "How can Kai improve ‘The pictures were good’?",
+    "question": "Which line best supports 'I enjoyed the magical setting'?",
+    "audioPrompt": "Which line best supports 'I enjoyed the magical setting'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +202,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List the colours without saying what they add.",
-      "Name a visual detail and explain how it helped the story make sense.",
-      "Retell the ending without referring to any picture."
+      "Tiny stars grew on the branches like fruit.",
+      "The fence was painted last week.",
+      "A sign showed the park's opening times."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
-    "correct": 1,
-    "explanation": "A precise response identifies a visual feature and explains what it adds for the reader.\nHint: Move from a broad opinion to a reason supported by the image.",
+    "correct": 0,
+    "explanation": "Stars growing on trees create an impossible, magical image.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "A precise response identifies a visual feature and explains what it adds for the reader.",
-      "hint": "Move from a broad opinion to a reason supported by the image."
+      "summary": "Stars growing on trees create an impossible, magical image.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +221,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-008",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "preferring a character s diary version direct",
+    "skill": "test improve",
     "printable": true,
     "type": "single",
-    "question": "The same adventure is told as a report and as the character's diary. Which preference is well supported?",
-    "audioPrompt": "The same adventure is told as a report and as the character's diary. Which preference is well supported?",
+    "question": "How could a reader improve 'I liked the ending'?",
+    "audioPrompt": "How could a reader improve 'I liked the ending'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +233,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I preferred the diary because its dates show that the adventure happened first.",
-      "I preferred the diary because the report's grouped facts show feelings more clearly.",
-      "I preferred the diary because the character's thoughts helped me feel her worry."
+      "Repeat 'I liked it' three more times.",
+      "Add what happened at the end and why it felt satisfying.",
+      "List the page numbers without explaining them."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
-    "correct": 2,
-    "explanation": "The response explains how the diary's first-person thoughts affect the reader.\nHint: Use a feature of the chosen text and explain why you value it.",
+    "correct": 1,
+    "explanation": "A specific event and its effect turn a bare preference into an explained response.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response explains how the diary's first-person thoughts affect the reader.",
-      "hint": "Use a feature of the chosen text and explain why you value it."
+      "summary": "A specific event and its effect turn a bare preference into an explained response.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +252,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-009",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving a respectful negative response test-reason",
+    "skill": "test book feature",
     "printable": true,
     "type": "single",
-    "question": "Which response explains a dislike without insulting the author or other readers? Which reason best supports the correct choice?",
-    "audioPrompt": "Which response explains a dislike without insulting the author or other readers? Which reason best supports the correct choice?",
+    "question": "A reader says, 'I liked being able to compare the two insects easily.' Which feature could support this?",
+    "audioPrompt": "A reader says, 'I liked being able to compare the two insects easily.' Which feature could support this?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +264,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response respectfully focuses on a specific feature of the text.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Their names are hidden on separate unlabelled pages.",
+      "Only one insect is described.",
+      "Their facts appear side by side under matching headings."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 9,
-    "correct": 0,
-    "explanation": "The response respectfully focuses on a specific feature of the text.\nHint: A useful response explains the text feature, not attacks the creator or audience.",
+    "correct": 2,
+    "explanation": "Matching headings and adjacent information support comparison.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response respectfully focuses on a specific feature of the text.",
-      "hint": "A useful response explains the text feature, not attacks the creator or audience."
+      "summary": "Matching headings and adjacent information support comparison.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +283,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-010",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "comparing two adventure stories test-reason",
+    "skill": "test strength",
     "printable": true,
     "type": "single",
-    "question": "Which comparison gives a clear preference supported by a difference between two stories? Which reason best supports the correct choice?",
-    "audioPrompt": "Which comparison gives a clear preference supported by a difference between two stories? Which reason best supports the correct choice?",
+    "question": "Which comment expresses mild disappointment rather than complete dislike?",
+    "audioPrompt": "Which comment expresses mild disappointment rather than complete dislike?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +295,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The response names a preference and supports it with a relevant plot difference.",
-      "The correct choice works even if the situation and audience are ignored."
+      "I liked most of it, but the ending was a little rushed.",
+      "I hated every part of it.",
+      "It was the best book I have ever read."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 10,
-    "correct": 1,
-    "explanation": "The response names a preference and supports it with a relevant plot difference.\nHint: A comparison should explain what differs and why that matters to the reader.",
+    "correct": 0,
+    "explanation": "The first response limits the criticism to a small concern.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response names a preference and supports it with a relevant plot difference.",
-      "hint": "A comparison should explain what differs and why that matters to the reader."
+      "summary": "The first response limits the criticism to a small concern.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +314,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-011",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "appreciating the author s word choice test-reason",
+    "skill": "test language effect",
     "printable": true,
     "type": "single",
-    "question": "The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect? Which reason best supports the correct choice?",
-    "audioPrompt": "The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect? Which reason best supports the correct choice?",
+    "question": "Read: 'The kitten tucked one cold paw beneath its chin.' Which response connects feeling to a detail?",
+    "audioPrompt": "Read: 'The kitten tucked one cold paw beneath its chin.' Which response connects feeling to a detail?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +326,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "The response points to a precise word and explains the mood it creates."
+      "I felt excited because the kitten won a prize.",
+      "I felt sorry for the kitten because its paw was cold.",
+      "I felt amused because the kitten told a joke."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 11,
-    "correct": 2,
-    "explanation": "The response points to a precise word and explains the mood it creates.\nHint: Choose a comment that connects one language choice to its effect.",
+    "correct": 1,
+    "explanation": "The cold paw supports sympathy; no prize or joke is mentioned.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response points to a precise word and explains the mood it creates.",
-      "hint": "Choose a comment that connects one language choice to its effect."
+      "summary": "The cold paw supports sympathy; no prize or joke is mentioned.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,11 +345,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-012",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "supporting a response to a peaceful setting test-reason",
+    "skill": "test comparison",
     "printable": true,
     "type": "single",
-    "question": "Which line best supports a reader saying, ‘The setting felt peaceful’? Which reason best supports the correct choice?",
-    "audioPrompt": "Which line best supports a reader saying, ‘The setting felt peaceful’? Which reason best supports the correct choice?",
+    "question": "A factual page explains volcanoes. A story imagines living inside one. Which preference gives a relevant reason?",
+    "audioPrompt": "A factual page explains volcanoes. A story imagines living inside one. Which preference gives a relevant reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -357,18 +357,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The gentle sound and soft visual details create a peaceful setting.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "I prefer the story because the other text has letters.",
+      "I prefer the factual page because no one may enjoy stories.",
+      "I prefer the factual page because I want to learn how eruptions happen."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 12,
-    "correct": 0,
-    "explanation": "The gentle sound and soft visual details create a peaceful setting.\nHint: Look for words that help the reader hear or picture calmness.",
+    "correct": 2,
+    "explanation": "The preference is connected to the reader's learning purpose.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The gentle sound and soft visual details create a peaceful setting.",
-      "hint": "Look for words that help the reader hear or picture calmness."
+      "summary": "The preference is connected to the reader's learning purpose.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +376,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-013",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "appreciating a chant s beat test-reason",
+    "skill": "test recommendation",
     "printable": true,
     "type": "single",
-    "question": "Which response explains why a reader preferred a playground chant? Which reason best supports the correct choice?",
-    "audioPrompt": "Which response explains why a reader preferred a playground chant? Which reason best supports the correct choice?",
+    "question": "Who would most likely value 'I liked the repeated chorus because I could join in'?",
+    "audioPrompt": "Who would most likely value 'I liked the repeated chorus because I could join in'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +388,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The response names the beat and explains how it affects the performance.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Someone choosing a song to sing with a group.",
+      "Someone choosing a silent map to navigate.",
+      "Someone choosing a list of bus times."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 13,
-    "correct": 1,
-    "explanation": "The response names the beat and explains how it affects the performance.\nHint: Connect a sound pattern to what the reader hears or feels.",
+    "correct": 0,
+    "explanation": "A repeated chorus supports shared singing, so the reason helps that audience.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response names the beat and explains how it affects the performance.",
-      "hint": "Connect a sound pattern to what the reader hears or feels."
+      "summary": "A repeated chorus supports shared singing, so the reason helps that audience.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +407,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-014",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "using evidence about a kind character test-reason",
+    "skill": "test response vs retell",
     "printable": true,
     "type": "single",
-    "question": "Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him? Which reason best supports the correct choice?",
-    "audioPrompt": "Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him? Which reason best supports the correct choice?",
+    "question": "Which response includes appreciation rather than just retelling?",
+    "audioPrompt": "Which response includes appreciation rather than just retelling?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +419,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Sharing water when others need it is story evidence of Lani's kindness."
+      "The mouse distracted the giant.",
+      "I enjoyed the clever trick when the mouse distracted the giant.",
+      "The giant looked away and the mouse ran."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 14,
-    "correct": 2,
-    "explanation": "Sharing water when others need it is story evidence of Lani's kindness.\nHint: Choose an action that proves the reason given.",
+    "correct": 1,
+    "explanation": "Enjoyed and clever express evaluation of the event, beyond reporting it.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Sharing water when others need it is story evidence of Lani's kindness.",
-      "hint": "Choose an action that proves the reason given."
+      "summary": "Enjoyed and clever express evaluation of the event, beyond reporting it.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -438,11 +438,17 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-015",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "improving a vague picture response test-reason",
+    "skill": "test preference",
     "printable": true,
-    "type": "single",
-    "question": "How can Kai improve ‘The pictures were good’? Which reason best supports the correct choice?",
-    "audioPrompt": "How can Kai improve ‘The pictures were good’? Which reason best supports the correct choice?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: 'I found it funny because the robot used the wrong drink.' A supported dislike is also valid.",
+    "acceptanceNote": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Read: 'The robot watered the garden with lemonade. By sunset, every flower was sticky.' Give your own response and a reason from the text.",
+    "audioPrompt": "Read: 'The robot watered the garden with lemonade. By sunset, every flower was sticky.' Give your own response and a reason from the text.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +456,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response identifies a visual feature and explains what it adds for the reader.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Response not yet reviewed",
+      "Revise with an adult",
+      "Adult review required"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 15,
-    "correct": 0,
-    "explanation": "A precise response identifies a visual feature and explains what it adds for the reader.\nHint: Move from a broad opinion to a reason supported by the image.",
+    "correct": "Example: 'I found it funny because the robot used the wrong drink.' A supported dislike is also valid.",
+    "explanation": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "A precise response identifies a visual feature and explains what it adds for the reader.",
-      "hint": "Move from a broad opinion to a reason supported by the image."
+      "summary": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +475,17 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-016",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "preferring a character s diary version test-reason",
+    "skill": "test reasoned choice",
     "printable": true,
-    "type": "single",
-    "question": "The same adventure is told as a report and as the character's diary. Which preference is well supported? Which reason best supports the correct choice?",
-    "audioPrompt": "The same adventure is told as a report and as the character's diary. Which preference is well supported? Which reason best supports the correct choice?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: choose A for quick facts or B for its atmosphere and descriptive detail.",
+    "acceptanceNote": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Text A says, 'Owls hunt at night.' Text B says, 'Under the moon, an owl slipped silently between the trees.' Which would you prefer to read more of, and why?",
+    "audioPrompt": "Text A says, 'Owls hunt at night.' Text B says, 'Under the moon, an owl slipped silently between the trees.' Which would you prefer to read more of, and why?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +493,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The response explains how the diary's first-person thoughts affect the reader.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Adult review required",
+      "Response not yet reviewed",
+      "Revise with an adult"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 16,
-    "correct": 1,
-    "explanation": "The response explains how the diary's first-person thoughts affect the reader.\nHint: Use a feature of the chosen text and explain why you value it.",
+    "correct": "Example: choose A for quick facts or B for its atmosphere and descriptive detail.",
+    "explanation": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response explains how the diary's first-person thoughts affect the reader.",
-      "hint": "Use a feature of the chosen text and explain why you value it."
+      "summary": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   }

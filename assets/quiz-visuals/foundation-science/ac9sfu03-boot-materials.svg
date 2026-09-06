@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
-  <title id="title">A boot made from two materials</title><desc id="desc">A boot with a brown leather top and a dark rubber sole.</desc>
-  <rect width="640" height="360" rx="24" fill="#fff8ef"/>
-  <path d="M208 55h148v139c38 8 62 42 117 51 38 6 58 28 48 54H177c-12-25 1-52 31-64Z" fill="#b97743" stroke="#663c22" stroke-width="8"/>
-  <path d="M174 282h350v39H174c-17-8-17-31 0-39Z" fill="#39434f" stroke="#1f2730" stroke-width="8"/>
-  <path d="M208 171h148M238 88h88m-88 32h88" stroke="#80512e" stroke-width="7"/>
-  <path d="M108 104h95m-95 0 43-25m-43 25 43 25M527 302h74m-74 0 35-24m-35 24 35 24" fill="none" stroke="#ef7c45" stroke-width="6"/>
-  <text x="34" y="62" font-family="Arial,sans-serif" font-size="29" fill="#56361f">leather top</text><text x="477" y="264" font-family="Arial,sans-serif" font-size="29" fill="#27313c">rubber sole</text>
-</svg>

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
-  <title id="title">A safe ball ramp area</title><desc id="desc">A ball rolls down a ramp inside a marked clear zone while two hands stay behind the safety line.</desc>
-  <rect width="640" height="360" rx="24" fill="#f7fbff"/><path d="M117 92h362L232 279H117Z" fill="#dceafb" stroke="#315f9d" stroke-width="8"/>
-  <circle cx="422" cy="122" r="34" fill="#ef7852" stroke="#9a3f27" stroke-width="7"/><path d="M450 144c25 20 38 37 45 63" fill="none" stroke="#ef7852" stroke-width="7" stroke-dasharray="11 9"/>
-  <path d="M72 298h500" stroke="#d33f49" stroke-width="7" stroke-dasharray="16 10"/><text x="245" y="338" font-family="Arial,sans-serif" font-size="27" fill="#a22c35">keep clear</text>
-  <path d="M70 274c14-38 37-47 64-26l28 26m408 0c-14-38-37-47-64-26l-28 26" fill="#f2b48d" stroke="#985d3f" stroke-width="6"/>
-</svg>

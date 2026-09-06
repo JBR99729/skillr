@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-001",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "use a contents page direct",
+    "skill": "contents page",
     "printable": true,
     "type": "single",
-    "question": "A contents page says Sea Animals—4, Forest Animals—12, Desert Animals—20. Where should Mia start to read about camels?",
-    "audioPrompt": "A contents page says Sea Animals—4, Forest Animals—12, Desert Animals—20. Where should Mia start to read about camels?",
+    "question": "Contents: 'Getting started — 3; Feeding a rabbit — 8; Keeping its home clean — 14.' Where would you begin reading about food?",
+    "audioPrompt": "Contents: 'Getting started — 3; Feeding a rabbit — 8; Keeping its home clean — 14.' Where would you begin reading about food?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "page 4, Sea Animals",
-      "page 20, Desert Animals",
-      "page 12, Forest Animals"
+      "page 8",
+      "page 3",
+      "page 14"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "The Desert Animals section is the broad section most likely to contain information about camels.\nHint: Match the topic you need with the closest section heading and page number.",
+    "correct": 0,
+    "explanation": "The table of contents links the feeding chapter to page 8.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The Desert Animals section is the broad section most likely to contain information about camels.",
-      "hint": "Match the topic you need with the closest section heading and page number."
+      "summary": "The table of contents links the feeding chapter to page 8.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +35,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-002",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "use an index keyword direct",
+    "skill": "chapter choice",
     "printable": true,
     "type": "single",
-    "question": "An index lists bees 6, 12; butterflies 14; moths 18. Which pages should Arun check for bees?",
-    "audioPrompt": "An index lists bees 6, 12; butterflies 14; moths 18. Which pages should Arun check for bees?",
+    "question": "Chapters: '1 A Strange Noise; 2 The Search; 3 Home at Last.' Which chapter would you revisit for the search?",
+    "audioPrompt": "Chapters: '1 A Strange Noise; 2 The Search; 3 Home at Last.' Which chapter would you revisit for the search?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +47,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "page 14",
-      "page 18",
-      "pages 6 and 12"
+      "Chapter 1",
+      "Chapter 2",
+      "Chapter 3"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "The alphabetical index entry for bees points directly to pages 6 and 12.\nHint: Find the exact keyword in the index, then follow every page number beside it.",
+    "correct": 1,
+    "explanation": "The chapter title identifies the part about searching.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The alphabetical index entry for bees points directly to pages 6 and 12.",
-      "hint": "Find the exact keyword in the index, then follow every page number beside it."
+      "summary": "The chapter title identifies the part about searching.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,11 +66,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-003",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "open the right chapter direct",
+    "skill": "index specific",
     "printable": true,
     "type": "single",
-    "question": "A story has chapters called The Storm, The Rescue and Home Again. Which chapter should Lani open to reread how the boat was saved?",
-    "audioPrompt": "A story has chapters called The Storm, The Rescue and Home Again. Which chapter should Lani open to reread how the boat was saved?",
+    "question": "Index: 'beaks 6, 12; feathers 4; nests 9.' Which pages might tell you about beaks?",
+    "audioPrompt": "Index: 'beaks 6, 12; feathers 4; nests 9.' Which pages might tell you about beaks?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -78,18 +78,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The Rescue",
-      "The Storm",
-      "Home Again"
+      "4 and 9",
+      "only 9",
+      "6 and 12"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 3,
-    "correct": 0,
-    "explanation": "The chapter title The Rescue most closely matches the event where the boat was saved.\nHint: Choose the chapter heading that best matches the event you want to find.",
+    "correct": 2,
+    "explanation": "An index can list more than one page for the same topic.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The chapter title The Rescue most closely matches the event where the boat was saved.",
-      "hint": "Choose the chapter heading that best matches the event you want to find."
+      "summary": "An index can list more than one page for the same topic.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +97,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-004",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "choose a side menu direct",
+    "skill": "index letters",
     "printable": true,
     "type": "single",
-    "question": "A class website has a side menu: News, Homework, Photo Gallery. Which item should Jo choose to find tonight's reading task?",
-    "audioPrompt": "A class website has a side menu: News, Homework, Photo Gallery. Which item should Jo choose to find tonight's reading task?",
+    "question": "An index is alphabetical. Where should 'dolphins' appear?",
+    "audioPrompt": "An index is alphabetical. Where should 'dolphins' appear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +109,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "News",
-      "Homework",
-      "Photo Gallery"
+      "Between 'crabs' and 'eels'.",
+      "Before 'ants'.",
+      "After 'whales'."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 4,
-    "correct": 1,
-    "explanation": "Homework is the menu section designed for class tasks to complete at home.\nHint: Use the menu label that matches the information you need.",
+    "correct": 0,
+    "explanation": "The starting letters c, d and e show the correct alphabetical position.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Homework is the menu section designed for class tasks to complete at home.",
-      "hint": "Use the menu label that matches the information you need."
+      "summary": "The starting letters c, d and e show the correct alphabetical position.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,11 +128,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-005",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "choose from a drop down direct",
+    "skill": "contents vs index",
     "printable": true,
     "type": "single",
-    "question": "A zoo website has a drop-down menu: Plan a Visit, Our Animals, Contact Us. Which choice should Ben use to find tiger facts?",
-    "audioPrompt": "A zoo website has a drop-down menu: Plan a Visit, Our Animals, Contact Us. Which choice should Ben use to find tiger facts?",
+    "question": "You want a chapter overview of a whole book before reading it. Which feature helps most?",
+    "audioPrompt": "You want a chapter overview of a whole book before reading it. Which feature helps most?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -140,18 +140,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Plan a Visit",
-      "Contact Us",
-      "Our Animals"
+      "Index entry for one word",
+      "Table of contents",
+      "Page number on the final page"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 5,
-    "correct": 2,
-    "explanation": "Tiger facts belong in the website section about the zoo's animals.\nHint: Open the choice whose label is closest to your topic.",
+    "correct": 1,
+    "explanation": "A table of contents lists the main sections in their reading order.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Tiger facts belong in the website section about the zoo's animals.",
-      "hint": "Open the choice whose label is closest to your topic."
+      "summary": "A table of contents lists the main sections in their reading order.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,11 +159,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-006",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "follow a useful link direct",
+    "skill": "index vs contents",
     "printable": true,
     "type": "single",
-    "question": "A page about frogs has links called Frog Life Cycle, Bird Calls and Weather Today. Which link should Suri follow to learn how tadpoles change?",
-    "audioPrompt": "A page about frogs has links called Frog Life Cycle, Bird Calls and Weather Today. Which link should Suri follow to learn how tadpoles change?",
+    "question": "You want every page that mentions 'nectar', even inside different chapters. Which feature is designed for that?",
+    "audioPrompt": "You want every page that mentions 'nectar', even inside different chapters. Which feature is designed for that?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -171,18 +171,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Frog Life Cycle",
-      "Bird Calls",
-      "Weather Today"
+      "Front-cover picture",
+      "Chapter number alone",
+      "Index"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 6,
-    "correct": 0,
-    "explanation": "A frog life-cycle page should explain how tadpoles grow and change.\nHint: Read each link label and choose the one that promises the needed information.",
+    "correct": 2,
+    "explanation": "An index points from a specific topic to the pages where it appears.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "A frog life-cycle page should explain how tadpoles grow and change.",
-      "hint": "Read each link label and choose the one that promises the needed information."
+      "summary": "An index points from a specific topic to the pages where it appears.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +190,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-007",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "check the destination direct",
+    "skill": "sidebar",
     "printable": true,
     "type": "single",
-    "question": "Noah follows a link called Koala Food, but the new page is about kangaroo tracks. What should he do?",
-    "audioPrompt": "Noah follows a link called Koala Food, but the new page is about kangaroo tracks. What should he do?",
+    "question": "A website side-bar lists 'Animals', 'Plants' and 'Weather'. Where should you look for an article about rain?",
+    "audioPrompt": "A website side-bar lists 'Animals', 'Plants' and 'Weather'. Where should you look for an article about rain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +202,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Keep reading because every animal page will answer it.",
-      "Go back and choose a link that answers the koala question.",
-      "Close the book and guess what koalas eat."
+      "Weather",
+      "Plants",
+      "Animals"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 7,
-    "correct": 1,
-    "explanation": "The destination does not match Noah's question, so he should return and choose a better pathway.\nHint: After moving to a new page, check that its heading matches your original question.",
+    "correct": 0,
+    "explanation": "The menu labels group topics, and rain belongs under weather.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The destination does not match Noah's question, so he should return and choose a better pathway.",
-      "hint": "After moving to a new page, check that its heading matches your original question."
+      "summary": "The menu labels group topics, and rain belongs under weather.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +221,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-008",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "follow a contents page number direct",
+    "skill": "dropdown",
     "printable": true,
     "type": "single",
-    "question": "A contents page says Weather—6, Rocks—18 and Space—30. Which page should Lin open for a section about planets?",
-    "audioPrompt": "A contents page says Weather—6, Rocks—18 and Space—30. Which page should Lin open for a section about planets?",
+    "question": "A button says 'Choose a year'. Opening it shows 'Year 1', 'Year 2', 'Year 3'. What should a Year 2 reader select?",
+    "audioPrompt": "A button says 'Choose a year'. Opening it shows 'Year 1', 'Year 2', 'Year 3'. What should a Year 2 reader select?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +233,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "page 6",
-      "page 18",
-      "page 30"
+      "Year 1",
+      "Year 2",
+      "Year 3"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 8,
-    "correct": 2,
-    "explanation": "The broad Space section begins on page 30 and is the likely place for planet information.\nHint: Match the topic to its section heading, then follow that page number.",
+    "correct": 1,
+    "explanation": "The drop-down options let the reader select the required year level.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The broad Space section begins on page 30 and is the likely place for planet information.",
-      "hint": "Match the topic to its section heading, then follow that page number."
+      "summary": "The drop-down options let the reader select the required year level.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +252,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-009",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "choose contents before reading direct",
+    "skill": "link label",
     "printable": true,
     "type": "single",
-    "question": "Owen wants the whole chapter about bird habitats. What should he use first?",
-    "audioPrompt": "Owen wants the whole chapter about bird habitats. What should he use first?",
+    "question": "A page has links 'Listen to the story', 'Meet the author' and 'Print the map'. Which opens information about the writer?",
+    "audioPrompt": "A page has links 'Listen to the story', 'Meet the author' and 'Print the map'. Which opens information about the writer?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +264,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the table of contents",
-      "the index entry for one bird name",
-      "a link to one bird photograph"
+      "Listen to the story",
+      "Print the map",
+      "Meet the author"
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 9,
-    "correct": 0,
-    "explanation": "The contents page lists broad chapters and where each one begins.\nHint: For a whole section, use a broad chapter heading rather than one specific word or image.",
+    "correct": 2,
+    "explanation": "Author means writer, so the label predicts the destination.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The contents page lists broad chapters and where each one begins.",
-      "hint": "For a whole section, use a broad chapter heading rather than one specific word or image."
+      "summary": "Author means writer, so the label predicts the destination.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +283,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-010",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "use a home page link direct",
+    "skill": "menu path",
     "printable": true,
     "type": "single",
-    "question": "A school home page has links Calendar, Lunch Menu and Sports Results. Which link should Imani choose to see Friday's food?",
-    "audioPrompt": "A school home page has links Calendar, Lunch Menu and Sports Results. Which link should Imani choose to see Friday's food?",
+    "question": "Home menu: 'Learn' and 'Shop'. Under Learn: 'Birds' and 'Rocks'. Which path leads to bird facts?",
+    "audioPrompt": "Home menu: 'Learn' and 'Shop'. Under Learn: 'Birds' and 'Rocks'. Which path leads to bird facts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +295,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Calendar",
-      "Lunch Menu",
-      "Sports Results"
+      "Learn, then Birds",
+      "Shop, then checkout",
+      "Learn, then Rocks"
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 10,
-    "correct": 1,
-    "explanation": "Lunch Menu directly matches the information about food served on Friday.\nHint: Choose the link label that answers the key word in the question.",
+    "correct": 0,
+    "explanation": "The reader first selects the learning section, then the specific topic.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Lunch Menu directly matches the information about food served on Friday.",
-      "hint": "Choose the link label that answers the key word in the question."
+      "summary": "The reader first selects the learning section, then the specific topic.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +314,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-011",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "use a contents page explain",
+    "skill": "page range",
     "printable": true,
     "type": "single",
-    "question": "A contents page says Sea Animals—4, Forest Animals—12, Desert Animals—20. Where should Mia start to read about camels? Why is “page 20, Desert Animals” the best answer?",
-    "audioPrompt": "A contents page says Sea Animals—4, Forest Animals—12, Desert Animals—20. Where should Mia start to read about camels? Why is “page 20, Desert Animals” the best answer?",
+    "question": "Contents: 'Tide pools — 5; Sand dunes — 11; Cliffs — 18.' Which chapter includes page 14?",
+    "audioPrompt": "Contents: 'Tide pools — 5; Sand dunes — 11; Cliffs — 18.' Which chapter includes page 14?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +326,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “page 4, Sea Animals”.",
-      "It is best because the details in the situation do not matter.",
-      "The Desert Animals section is the broad section most likely to contain information about camels."
+      "Tide pools",
+      "Sand dunes",
+      "Cliffs"
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 11,
-    "correct": 2,
-    "explanation": "The Desert Animals section is the broad section most likely to contain information about camels.\nHint: Match the topic you need with the closest section heading and page number.",
+    "correct": 1,
+    "explanation": "Sand dunes starts at 11 and the next chapter starts at 18, so 14 is within it.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The Desert Animals section is the broad section most likely to contain information about camels.",
-      "hint": "Match the topic you need with the closest section heading and page number."
+      "summary": "Sand dunes starts at 11 and the next chapter starts at 18, so 14 is within it.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,11 +345,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-012",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "use an index keyword explain",
+    "skill": "index range",
     "printable": true,
     "type": "single",
-    "question": "An index lists bees 6, 12; butterflies 14; moths 18. Which pages should Arun check for bees? Why is “pages 6 and 12” the best answer?",
-    "audioPrompt": "An index lists bees 6, 12; butterflies 14; moths 18. Which pages should Arun check for bees? Why is “pages 6 and 12” the best answer?",
+    "question": "Index: 'seeds 7–9'. What does this entry tell you to check?",
+    "audioPrompt": "Index: 'seeds 7–9'. What does this entry tell you to check?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -357,18 +357,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The alphabetical index entry for bees points directly to pages 6 and 12.",
-      "It is best only because it is longer than “page 14”.",
-      "It is best because the details in the situation do not matter."
+      "Only pages 7 and 9.",
+      "Chapters 7 and 9 only.",
+      "Pages 7, 8 and 9."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 12,
-    "correct": 0,
-    "explanation": "The alphabetical index entry for bees points directly to pages 6 and 12.\nHint: Find the exact keyword in the index, then follow every page number beside it.",
+    "correct": 2,
+    "explanation": "A page range includes the pages between its endpoints.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The alphabetical index entry for bees points directly to pages 6 and 12.",
-      "hint": "Find the exact keyword in the index, then follow every page number beside it."
+      "summary": "A page range includes the pages between its endpoints.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +376,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-013",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "open the right chapter explain",
+    "skill": "chapter heading",
     "printable": true,
     "type": "single",
-    "question": "A story has chapters called The Storm, The Rescue and Home Again. Which chapter should Lani open to reread how the boat was saved? Why is “The Rescue” the best answer?",
-    "audioPrompt": "A story has chapters called The Storm, The Rescue and Home Again. Which chapter should Lani open to reread how the boat was saved? Why is “The Rescue” the best answer?",
+    "question": "You open a book at page 20 and see 'Chapter 4: Winter'. How can that heading help?",
+    "audioPrompt": "You open a book at page 20 and see 'Chapter 4: Winter'. How can that heading help?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +388,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “The Storm”.",
-      "The chapter title The Rescue most closely matches the event where the boat was saved.",
-      "It is best because the details in the situation do not matter."
+      "It confirms which chapter you are reading.",
+      "It gives the page of every word in the book.",
+      "It tells you the book's price."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 13,
-    "correct": 1,
-    "explanation": "The chapter title The Rescue most closely matches the event where the boat was saved.\nHint: Choose the chapter heading that best matches the event you want to find.",
+    "correct": 0,
+    "explanation": "A chapter heading identifies the current section of the text.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The chapter title The Rescue most closely matches the event where the boat was saved.",
-      "hint": "Choose the chapter heading that best matches the event you want to find."
+      "summary": "A chapter heading identifies the current section of the text.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +407,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-014",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "choose a side menu explain",
+    "skill": "link purpose",
     "printable": true,
     "type": "single",
-    "question": "A class website has a side menu: News, Homework, Photo Gallery. Which item should Jo choose to find tonight's reading task? Why is “Homework” the best answer?",
-    "audioPrompt": "A class website has a side menu: News, Homework, Photo Gallery. Which item should Jo choose to find tonight's reading task? Why is “Homework” the best answer?",
+    "question": "The words 'See the full timetable' are a link beneath a short event notice. What would you expect after selecting it?",
+    "audioPrompt": "The words 'See the full timetable' are a link beneath a short event notice. What would you expect after selecting it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +419,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “News”.",
-      "It is best because the details in the situation do not matter.",
-      "Homework is the menu section designed for class tasks to complete at home."
+      "A list of the author's pets.",
+      "A more complete schedule.",
+      "A blank drawing page."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 14,
-    "correct": 2,
-    "explanation": "Homework is the menu section designed for class tasks to complete at home.\nHint: Use the menu label that matches the information you need.",
+    "correct": 1,
+    "explanation": "The link label describes the information at its destination.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Homework is the menu section designed for class tasks to complete at home.",
-      "hint": "Use the menu label that matches the information you need."
+      "summary": "The link label describes the information at its destination.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -438,11 +438,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-015",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "choose from a drop down explain",
+    "skill": "sidebar return",
     "printable": true,
     "type": "single",
-    "question": "A zoo website has a drop-down menu: Plan a Visit, Our Animals, Contact Us. Which choice should Ben use to find tiger facts? Why is “Our Animals” the best answer?",
-    "audioPrompt": "A zoo website has a drop-down menu: Plan a Visit, Our Animals, Contact Us. Which choice should Ben use to find tiger facts? Why is “Our Animals” the best answer?",
+    "question": "You are reading a page about frogs. The side-bar still shows 'Home', 'Animals' and 'Plants'. To browse other animals, which label would you choose?",
+    "audioPrompt": "You are reading a page about frogs. The side-bar still shows 'Home', 'Animals' and 'Plants'. To browse other animals, which label would you choose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +450,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Tiger facts belong in the website section about the zoo's animals.",
-      "It is best only because it is longer than “Plan a Visit”.",
-      "It is best because the details in the situation do not matter."
+      "Plants",
+      "Home only because it is first",
+      "Animals"
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 15,
-    "correct": 0,
-    "explanation": "Tiger facts belong in the website section about the zoo's animals.\nHint: Open the choice whose label is closest to your topic.",
+    "correct": 2,
+    "explanation": "The Animals section is the most direct menu route to related animal pages.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Tiger facts belong in the website section about the zoo's animals.",
-      "hint": "Open the choice whose label is closest to your topic."
+      "summary": "The Animals section is the most direct menu route to related animal pages.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +469,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-016",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "follow a useful link explain",
+    "skill": "dropdown category",
     "printable": true,
     "type": "single",
-    "question": "A page about frogs has links called Frog Life Cycle, Bird Calls and Weather Today. Which link should Suri follow to learn how tadpoles change? Why is “Frog Life Cycle” the best answer?",
-    "audioPrompt": "A page about frogs has links called Frog Life Cycle, Bird Calls and Weather Today. Which link should Suri follow to learn how tadpoles change? Why is “Frog Life Cycle” the best answer?",
+    "question": "A museum page has a 'Visit' drop-down with 'Opening hours', 'Tickets' and 'Getting here'. Which option helps plan a bus trip to it?",
+    "audioPrompt": "A museum page has a 'Visit' drop-down with 'Opening hours', 'Tickets' and 'Getting here'. Which option helps plan a bus trip to it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +481,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Bird Calls”.",
-      "A frog life-cycle page should explain how tadpoles grow and change.",
-      "It is best because the details in the situation do not matter."
+      "Getting here",
+      "Tickets",
+      "Opening hours"
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 16,
-    "correct": 1,
-    "explanation": "A frog life-cycle page should explain how tadpoles grow and change.\nHint: Read each link label and choose the one that promises the needed information.",
+    "correct": 0,
+    "explanation": "Getting here is the option about reaching the location.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "A frog life-cycle page should explain how tadpoles grow and change.",
-      "hint": "Read each link label and choose the one that promises the needed information."
+      "summary": "Getting here is the option about reaching the location.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -500,11 +500,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-017",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "check the destination explain",
+    "skill": "index lookup",
     "printable": true,
     "type": "single",
-    "question": "Noah follows a link called Koala Food, but the new page is about kangaroo tracks. What should he do? Why is “Go back and choose a link that answers the koala question.” the best answer?",
-    "audioPrompt": "Noah follows a link called Koala Food, but the new page is about kangaroo tracks. What should he do? Why is “Go back and choose a link that answers the koala question.” the best answer?",
+    "question": "Index: 'bats 10; bees 5; beetles 6; birds 12'. Which entry would you use for beetles?",
+    "audioPrompt": "Index: 'bats 10; bees 5; beetles 6; birds 12'. Which entry would you use for beetles?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -512,18 +512,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Keep reading because every animal page will answer it.”.",
-      "It is best because the details in the situation do not matter.",
-      "The destination does not match Noah's question, so he should return and choose a better pathway."
+      "bees 5",
+      "beetles 6",
+      "birds 12"
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 17,
-    "correct": 2,
-    "explanation": "The destination does not match Noah's question, so he should return and choose a better pathway.\nHint: After moving to a new page, check that its heading matches your original question.",
+    "correct": 1,
+    "explanation": "Match the whole word, not just its first letters, before using the page number.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The destination does not match Noah's question, so he should return and choose a better pathway.",
-      "hint": "After moving to a new page, check that its heading matches your original question."
+      "summary": "Match the whole word, not just its first letters, before using the page number.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -531,11 +531,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-018",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "follow a contents page number explain",
+    "skill": "contents order",
     "printable": true,
     "type": "single",
-    "question": "A contents page says Weather—6, Rocks—18 and Space—30. Which page should Lin open for a section about planets? Why is “page 30” the best answer?",
-    "audioPrompt": "A contents page says Weather—6, Rocks—18 and Space—30. Which page should Lin open for a section about planets? Why is “page 30” the best answer?",
+    "question": "Contents lists 'Planning — 2; Building — 6; Testing — 10'. What does this order help a reader follow?",
+    "audioPrompt": "Contents lists 'Planning — 2; Building — 6; Testing — 10'. What does this order help a reader follow?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -543,18 +543,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The broad Space section begins on page 30 and is the likely place for planet information.",
-      "It is best only because it is longer than “page 6”.",
-      "It is best because the details in the situation do not matter."
+      "An alphabetical list of every word.",
+      "The authors from youngest to oldest.",
+      "The main sections from planning to testing."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 18,
-    "correct": 0,
-    "explanation": "The broad Space section begins on page 30 and is the likely place for planet information.\nHint: Match the topic to its section heading, then follow that page number.",
+    "correct": 2,
+    "explanation": "Contents follows the book's section order, which here follows a project sequence.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The broad Space section begins on page 30 and is the likely place for planet information.",
-      "hint": "Match the topic to its section heading, then follow that page number."
+      "summary": "Contents follows the book's section order, which here follows a project sequence.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -562,11 +562,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-019",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "choose contents before reading explain",
+    "skill": "multiple routes",
     "printable": true,
     "type": "single",
-    "question": "Owen wants the whole chapter about bird habitats. What should he use first? Why is “the table of contents” the best answer?",
-    "audioPrompt": "Owen wants the whole chapter about bird habitats. What should he use first? Why is “the table of contents” the best answer?",
+    "question": "You need the 'Habitat' chapter. The contents gives page 16, and a screen version has a 'Habitat' link. How can you reach it in each version?",
+    "audioPrompt": "You need the 'Habitat' chapter. The contents gives page 16, and a screen version has a 'Habitat' link. How can you reach it in each version?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -574,18 +574,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “the index entry for one bird name”.",
-      "The contents page lists broad chapters and where each one begins.",
-      "It is best because the details in the situation do not matter."
+      "Turn to page 16 in print; select the link on screen.",
+      "Shake the book; change the screen brightness.",
+      "Use page 16 as a password on both versions."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 19,
-    "correct": 1,
-    "explanation": "The contents page lists broad chapters and where each one begins.\nHint: For a whole section, use a broad chapter heading rather than one specific word or image.",
+    "correct": 0,
+    "explanation": "Print page references and screen links are different navigation tools for the same section.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The contents page lists broad chapters and where each one begins.",
-      "hint": "For a whole section, use a broad chapter heading rather than one specific word or image."
+      "summary": "Print page references and screen links are different navigation tools for the same section.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -593,11 +593,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-020",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "use a home page link explain",
+    "skill": "wrong destination",
     "printable": true,
     "type": "single",
-    "question": "A school home page has links Calendar, Lunch Menu and Sports Results. Which link should Imani choose to see Friday's food? Why is “Lunch Menu” the best answer?",
-    "audioPrompt": "A school home page has links Calendar, Lunch Menu and Sports Results. Which link should Imani choose to see Friday's food? Why is “Lunch Menu” the best answer?",
+    "question": "You select 'Games' but need a fact page. The side-bar offers 'Facts'. What is the most direct next step?",
+    "audioPrompt": "You select 'Games' but need a fact page. The side-bar offers 'Facts'. What is the most direct next step?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -605,18 +605,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Calendar”.",
-      "It is best because the details in the situation do not matter.",
-      "Lunch Menu directly matches the information about food served on Friday."
+      "Keep choosing random games.",
+      "Select Facts.",
+      "Close the book on your desk."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 20,
-    "correct": 2,
-    "explanation": "Lunch Menu directly matches the information about food served on Friday.\nHint: Choose the link label that answers the key word in the question.",
+    "correct": 1,
+    "explanation": "A relevant navigation label helps correct the route efficiently.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Lunch Menu directly matches the information about food served on Friday.",
-      "hint": "Choose the link label that answers the key word in the question."
+      "summary": "A relevant navigation label helps correct the route efficiently.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -624,11 +624,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-021",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "open the right chapter discriminate",
+    "skill": "contents selection",
     "printable": true,
     "type": "single",
-    "question": "A story has chapters called The Storm, The Rescue and Home Again. Which chapter should Lani open to reread how the boat was saved? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A story has chapters called The Storm, The Rescue and Home Again. Which chapter should Lani open to reread how the boat was saved? Which response is the clearest mix-up to avoid?",
+    "question": "Contents: 'Before the walk — 4; Along the track — 9; After the walk — 17'. Where should you look for preparation advice?",
+    "audioPrompt": "Contents: 'Before the walk — 4; Along the track — 9; After the walk — 17'. Where should you look for preparation advice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -636,18 +636,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The Storm",
-      "The Rescue",
-      "Home Again"
+      "After the walk",
+      "Along the track only",
+      "Before the walk"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 21,
-    "correct": 0,
-    "explanation": "“The Storm” is the mix-up to avoid. Choose the chapter heading that best matches the event you want to find.\nHint: Choose the chapter heading that best matches the event you want to find.",
+    "correct": 2,
+    "explanation": "The heading before the walk signals information needed in preparation.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "“The Storm” is the mix-up to avoid. Choose the chapter heading that best matches the event you want to find.",
-      "hint": "Choose the chapter heading that best matches the event you want to find."
+      "summary": "The heading before the walk signals information needed in preparation.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,11 +655,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-022",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "choose a side menu discriminate",
+    "skill": "link vs heading",
     "printable": true,
     "type": "single",
-    "question": "A class website has a side menu: News, Homework, Photo Gallery. Which item should Jo choose to find tonight's reading task? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A class website has a side menu: News, Homework, Photo Gallery. Which item should Jo choose to find tonight's reading task? Which response is the clearest mix-up to avoid?",
+    "question": "A screen heading says 'Whales'. Below it, a link says 'Read about whale sounds'. Which part would you select to reach the sound article?",
+    "audioPrompt": "A screen heading says 'Whales'. Below it, a link says 'Read about whale sounds'. Which part would you select to reach the sound article?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -667,18 +667,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Homework",
-      "News",
-      "Photo Gallery"
+      "Read about whale sounds",
+      "The page margin",
+      "The browser clock"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 22,
-    "correct": 1,
-    "explanation": "“News” is the mix-up to avoid. Use the menu label that matches the information you need.\nHint: Use the menu label that matches the information you need.",
+    "correct": 0,
+    "explanation": "The labelled link is the navigation control described in the question.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "“News” is the mix-up to avoid. Use the menu label that matches the information you need.",
-      "hint": "Use the menu label that matches the information you need."
+      "summary": "The labelled link is the navigation control described in the question.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -686,11 +686,17 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-023",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "choose from a drop down discriminate",
+    "skill": "navigate print",
     "printable": true,
-    "type": "single",
-    "question": "A zoo website has a drop-down menu: Plan a Visit, Our Animals, Contact Us. Which choice should Ben use to find tiger facts? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A zoo website has a drop-down menu: Plan a Visit, Our Animals, Contact Us. Which choice should Ben use to find tiger facts? Which response is the clearest mix-up to avoid?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The child matches a contents entry to its page and checks the chapter heading.",
+    "acceptanceNote": "Accept successful navigation using an actual book. If none is available, the adult may make three numbered paper sections with a contents list; do not award completion for naming a feature only.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "With an adult, use a book with a contents page. Choose a chapter, say its starting page and turn to it. Show how you know you reached the right chapter.",
+    "audioPrompt": "With an adult, use a book with a contents page. Choose a chapter, say its starting page and turn to it. Show how you know you reached the right chapter.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -698,18 +704,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Our Animals",
-      "Contact Us",
-      "Plan a Visit"
+      "Response not yet reviewed",
+      "Adult review required",
+      "Revise with an adult"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 23,
-    "correct": 2,
-    "explanation": "“Plan a Visit” is the mix-up to avoid. Open the choice whose label is closest to your topic.\nHint: Open the choice whose label is closest to your topic.",
+    "correct": "The child matches a contents entry to its page and checks the chapter heading.",
+    "explanation": "Accept successful navigation using an actual book. If none is available, the adult may make three numbered paper sections with a contents list; do not award completion for naming a feature only.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "“Plan a Visit” is the mix-up to avoid. Open the choice whose label is closest to your topic.",
-      "hint": "Open the choice whose label is closest to your topic."
+      "summary": "Accept successful navigation using an actual book. If none is available, the adult may make three numbered paper sections with a contents list; do not award completion for naming a feature only.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -717,11 +723,17 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la05-p-024",
     "curriculumCode": "AC9E2LA05",
     "bank": "practice",
-    "skill": "follow a useful link discriminate",
+    "skill": "navigate screen",
     "printable": true,
-    "type": "single",
-    "question": "A page about frogs has links called Frog Life Cycle, Bird Calls and Weather Today. Which link should Suri follow to learn how tadpoles change? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A page about frogs has links called Frog Life Cycle, Bird Calls and Weather Today. Which link should Suri follow to learn how tadpoles change? Which response is the clearest mix-up to avoid?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The child selects a relevant side-bar category, opens the drop-down and chooses the matching option.",
+    "acceptanceNote": "Accept a demonstrated route with explanation of the selected labels. A prepared paper interface is valid if the child actually follows its labelled choices.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "With an adult, use a suitable website or a paper mock-up of a website with a side-bar and a drop-down. Choose a topic and show the route using both controls.",
+    "audioPrompt": "With an adult, use a suitable website or a paper mock-up of a website with a side-bar and a drop-down. Choose a topic and show the route using both controls.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -729,514 +741,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Bird Calls",
-      "Frog Life Cycle",
-      "Weather Today"
+      "Response not yet reviewed",
+      "Revise with an adult",
+      "Adult review required"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 24,
-    "correct": 0,
-    "explanation": "“Bird Calls” is the mix-up to avoid. Read each link label and choose the one that promises the needed information.\nHint: Read each link label and choose the one that promises the needed information.",
+    "correct": "The child selects a relevant side-bar category, opens the drop-down and chooses the matching option.",
+    "explanation": "Accept a demonstrated route with explanation of the selected labels. A prepared paper interface is valid if the child actually follows its labelled choices.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "“Bird Calls” is the mix-up to avoid. Read each link label and choose the one that promises the needed information.",
-      "hint": "Read each link label and choose the one that promises the needed information."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-025",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "check the destination discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Noah follows a link called Koala Food, but the new page is about kangaroo tracks. What should he do? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Noah follows a link called Koala Food, but the new page is about kangaroo tracks. What should he do? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Go back and choose a link that answers the koala question.",
-      "Keep reading because every animal page will answer it.",
-      "Close the book and guess what koalas eat."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 25,
-    "correct": 1,
-    "explanation": "“Keep reading because every animal page will answer it.” is the mix-up to avoid. After moving to a new page, check that its heading matches your original question.\nHint: After moving to a new page, check that its heading matches your original question.",
-    "structuredExplanation": {
-      "summary": "“Keep reading because every animal page will answer it.” is the mix-up to avoid. After moving to a new page, check that its heading matches your original question.",
-      "hint": "After moving to a new page, check that its heading matches your original question."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-026",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "follow a contents page number discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "A contents page says Weather—6, Rocks—18 and Space—30. Which page should Lin open for a section about planets? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A contents page says Weather—6, Rocks—18 and Space—30. Which page should Lin open for a section about planets? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "page 30",
-      "page 18",
-      "page 6"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 26,
-    "correct": 2,
-    "explanation": "“page 6” is the mix-up to avoid. Match the topic to its section heading, then follow that page number.\nHint: Match the topic to its section heading, then follow that page number.",
-    "structuredExplanation": {
-      "summary": "“page 6” is the mix-up to avoid. Match the topic to its section heading, then follow that page number.",
-      "hint": "Match the topic to its section heading, then follow that page number."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-027",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "choose contents before reading discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Owen wants the whole chapter about bird habitats. What should he use first? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Owen wants the whole chapter about bird habitats. What should he use first? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the index entry for one bird name",
-      "the table of contents",
-      "a link to one bird photograph"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 27,
-    "correct": 0,
-    "explanation": "“the index entry for one bird name” is the mix-up to avoid. For a whole section, use a broad chapter heading rather than one specific word or image.\nHint: For a whole section, use a broad chapter heading rather than one specific word or image.",
-    "structuredExplanation": {
-      "summary": "“the index entry for one bird name” is the mix-up to avoid. For a whole section, use a broad chapter heading rather than one specific word or image.",
-      "hint": "For a whole section, use a broad chapter heading rather than one specific word or image."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-028",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "use a home page link discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "A school home page has links Calendar, Lunch Menu and Sports Results. Which link should Imani choose to see Friday's food? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A school home page has links Calendar, Lunch Menu and Sports Results. Which link should Imani choose to see Friday's food? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Lunch Menu",
-      "Calendar",
-      "Sports Results"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 28,
-    "correct": 1,
-    "explanation": "“Calendar” is the mix-up to avoid. Choose the link label that answers the key word in the question.\nHint: Choose the link label that answers the key word in the question.",
-    "structuredExplanation": {
-      "summary": "“Calendar” is the mix-up to avoid. Choose the link label that answers the key word in the question.",
-      "hint": "Choose the link label that answers the key word in the question."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-029",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "navigate a side bar section discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "A gardening site has side-bar sections Seeds, Tools and Pests. Where should Zac look for information about caterpillars eating leaves? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A gardening site has side-bar sections Seeds, Tools and Pests. Where should Zac look for information about caterpillars eating leaves? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Pests",
-      "Tools",
-      "Seeds"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 29,
-    "correct": 2,
-    "explanation": "“Seeds” is the mix-up to avoid. Connect the problem named in the question with the broad menu category.\nHint: Connect the problem named in the question with the broad menu category.",
-    "structuredExplanation": {
-      "summary": "“Seeds” is the mix-up to avoid. Connect the problem named in the question with the broad menu category.",
-      "hint": "Connect the problem named in the question with the broad menu category."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-030",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "check a chapter result discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "May uses the contents page to open Reptiles, but the page heading says Birds. What should she do next? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "May uses the contents page to open Reptiles, but the page heading says Birds. What should she do next? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Stay on the Birds page because it came from the same contents page.",
-      "Return to the contents page and check the Reptiles page number.",
-      "Use the Birds index entry instead of checking Reptiles."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 30,
-    "correct": 0,
-    "explanation": "“Stay on the Birds page because it came from the same contents page.” is the mix-up to avoid. Always compare the destination heading with the section you wanted.\nHint: Always compare the destination heading with the section you wanted.",
-    "structuredExplanation": {
-      "summary": "“Stay on the Birds page because it came from the same contents page.” is the mix-up to avoid. Always compare the destination heading with the section you wanted.",
-      "hint": "Always compare the destination heading with the section you wanted."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-031",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "open the right chapter apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Choose the chapter heading that best matches the event you want to find. A story has chapters called The Storm, The Rescue and Home Again. Which chapter should Lani open to reread how the boat was saved?",
-    "audioPrompt": "Use this clue: Choose the chapter heading that best matches the event you want to find. A story has chapters called The Storm, The Rescue and Home Again. Which chapter should Lani open to reread how the boat was saved?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Home Again",
-      "The Rescue",
-      "The Storm"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 31,
-    "correct": 1,
-    "explanation": "The chapter title The Rescue most closely matches the event where the boat was saved.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The chapter title The Rescue most closely matches the event where the boat was saved.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-032",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "choose a side menu apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Use the menu label that matches the information you need. A class website has a side menu: News, Homework, Photo Gallery. Which item should Jo choose to find tonight's reading task?",
-    "audioPrompt": "Use this clue: Use the menu label that matches the information you need. A class website has a side menu: News, Homework, Photo Gallery. Which item should Jo choose to find tonight's reading task?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Photo Gallery",
-      "News",
-      "Homework"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 32,
-    "correct": 2,
-    "explanation": "Homework is the menu section designed for class tasks to complete at home.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Homework is the menu section designed for class tasks to complete at home.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-033",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "choose from a drop down apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Open the choice whose label is closest to your topic. A zoo website has a drop-down menu: Plan a Visit, Our Animals, Contact Us. Which choice should Ben use to find tiger facts?",
-    "audioPrompt": "Use this clue: Open the choice whose label is closest to your topic. A zoo website has a drop-down menu: Plan a Visit, Our Animals, Contact Us. Which choice should Ben use to find tiger facts?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Our Animals",
-      "Contact Us",
-      "Plan a Visit"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 33,
-    "correct": 0,
-    "explanation": "Tiger facts belong in the website section about the zoo's animals.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Tiger facts belong in the website section about the zoo's animals.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-034",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "follow a useful link apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Read each link label and choose the one that promises the needed information. A page about frogs has links called Frog Life Cycle, Bird Calls and Weather Today. Which link should Suri follow to learn how tadpoles change?",
-    "audioPrompt": "Use this clue: Read each link label and choose the one that promises the needed information. A page about frogs has links called Frog Life Cycle, Bird Calls and Weather Today. Which link should Suri follow to learn how tadpoles change?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Weather Today",
-      "Frog Life Cycle",
-      "Bird Calls"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 34,
-    "correct": 1,
-    "explanation": "A frog life-cycle page should explain how tadpoles grow and change.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "A frog life-cycle page should explain how tadpoles grow and change.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-035",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "check the destination apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: After moving to a new page, check that its heading matches your original question. Noah follows a link called Koala Food, but the new page is about kangaroo tracks. What should he do?",
-    "audioPrompt": "Use this clue: After moving to a new page, check that its heading matches your original question. Noah follows a link called Koala Food, but the new page is about kangaroo tracks. What should he do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Close the book and guess what koalas eat.",
-      "Keep reading because every animal page will answer it.",
-      "Go back and choose a link that answers the koala question."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 35,
-    "correct": 2,
-    "explanation": "The destination does not match Noah's question, so he should return and choose a better pathway.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The destination does not match Noah's question, so he should return and choose a better pathway.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-036",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "follow a contents page number apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Match the topic to its section heading, then follow that page number. A contents page says Weather—6, Rocks—18 and Space—30. Which page should Lin open for a section about planets?",
-    "audioPrompt": "Use this clue: Match the topic to its section heading, then follow that page number. A contents page says Weather—6, Rocks—18 and Space—30. Which page should Lin open for a section about planets?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "page 30",
-      "page 18",
-      "page 6"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 36,
-    "correct": 0,
-    "explanation": "The broad Space section begins on page 30 and is the likely place for planet information.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The broad Space section begins on page 30 and is the likely place for planet information.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-037",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "choose contents before reading apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: For a whole section, use a broad chapter heading rather than one specific word or image. Owen wants the whole chapter about bird habitats. What should he use first?",
-    "audioPrompt": "Use this clue: For a whole section, use a broad chapter heading rather than one specific word or image. Owen wants the whole chapter about bird habitats. What should he use first?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a link to one bird photograph",
-      "the table of contents",
-      "the index entry for one bird name"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 37,
-    "correct": 1,
-    "explanation": "The contents page lists broad chapters and where each one begins.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The contents page lists broad chapters and where each one begins.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-038",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "use a home page link apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Choose the link label that answers the key word in the question. A school home page has links Calendar, Lunch Menu and Sports Results. Which link should Imani choose to see Friday's food?",
-    "audioPrompt": "Use this clue: Choose the link label that answers the key word in the question. A school home page has links Calendar, Lunch Menu and Sports Results. Which link should Imani choose to see Friday's food?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Sports Results",
-      "Calendar",
-      "Lunch Menu"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 38,
-    "correct": 2,
-    "explanation": "Lunch Menu directly matches the information about food served on Friday.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Lunch Menu directly matches the information about food served on Friday.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-039",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "navigate a side bar section apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Connect the problem named in the question with the broad menu category. A gardening site has side-bar sections Seeds, Tools and Pests. Where should Zac look for information about caterpillars eating leaves?",
-    "audioPrompt": "Use this clue: Connect the problem named in the question with the broad menu category. A gardening site has side-bar sections Seeds, Tools and Pests. Where should Zac look for information about caterpillars eating leaves?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Pests",
-      "Tools",
-      "Seeds"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 39,
-    "correct": 0,
-    "explanation": "Caterpillars damaging plants belong in the Pests section.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Caterpillars damaging plants belong in the Pests section.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la05-p-040",
-    "curriculumCode": "AC9E2LA05",
-    "bank": "practice",
-    "skill": "check a chapter result apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Always compare the destination heading with the section you wanted. May uses the contents page to open Reptiles, but the page heading says Birds. What should she do next?",
-    "audioPrompt": "Use this clue: Always compare the destination heading with the section you wanted. May uses the contents page to open Reptiles, but the page heading says Birds. What should she do next?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Use the Birds index entry instead of checking Reptiles.",
-      "Return to the contents page and check the Reptiles page number.",
-      "Stay on the Birds page because it came from the same contents page."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 40,
-    "correct": 1,
-    "explanation": "The wrong heading shows May followed the wrong page number, so she should check the navigation step.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The wrong heading shows May followed the wrong page number, so she should check the navigation step.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+      "summary": "Accept a demonstrated route with explanation of the selected labels. A prepared paper interface is valid if the child actually follows its labelled choices.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   }

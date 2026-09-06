@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-001",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "planning an explanation of rain direct",
+    "skill": "test procedure",
     "printable": true,
     "type": "single",
-    "question": "Which plan best suits a short explanation of how rain forms?",
-    "audioPrompt": "Which plan best suits a short explanation of how rain forms?",
+    "question": "'You need a cup and water. Pour the water into the cup.' What feature shows that this text guides an action?",
+    "audioPrompt": "'You need a cup and water. Pour the water into the cup.' What feature shows that this text guides an action?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List rain facts in one paragraph without showing the stages.",
-      "Show a cloud picture without labels or words linking each stage.",
-      "Use a title, a labelled diagram and steps linked by sequence words."
+      "It names materials and tells the reader what to do.",
+      "It introduces a hero and a villain.",
+      "It gives an opinion followed by a vote."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "The title, diagram and linked stages help explain a process clearly.\nHint: Choose features that show how something happens from one stage to the next.",
+    "correct": 0,
+    "explanation": "Materials and imperative action language support a procedure.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The title, diagram and linked stages help explain a process clearly.",
-      "hint": "Choose features that show how something happens from one stage to the next."
+      "summary": "Materials and imperative action language support a procedure.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +35,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-002",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "laying out a play script direct",
+    "skill": "test information",
     "printable": true,
     "type": "single",
-    "question": "Which page layout best helps actors read a short play?",
-    "audioPrompt": "Which page layout best helps actors read a short play?",
+    "question": "A butterfly report uses 'Life cycle' and 'Food' as headings. Why?",
+    "audioPrompt": "A butterfly report uses 'Life cycle' and 'Food' as headings. Why?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +47,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Character names before dialogue, with stage directions beside the action.",
-      "Place all dialogue in one paragraph without speaker names.",
-      "List the actors once, then leave out dialogue breaks and stage directions."
+      "To tell readers which butterfly is the best.",
+      "To group related facts so readers can follow each topic.",
+      "To give every sentence a character's name."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Names and stage directions show actors who speaks and what happens on stage.\nHint: Choose features that help performers follow dialogue and action.",
+    "correct": 1,
+    "explanation": "Headings organise informative content into related sections.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "Names and stage directions show actors who speaks and what happens on stage.",
-      "hint": "Choose features that help performers follow dialogue and action."
+      "summary": "Headings organise informative content into related sections.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,11 +66,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-003",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "placing a safety warning in a procedure direct",
+    "skill": "test narrative",
     "printable": true,
     "type": "single",
-    "question": "Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure?",
-    "audioPrompt": "Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure?",
+    "question": "Read: 'At sunset, a tiny dragon could not find its flame.' Which feature sets up a story?",
+    "audioPrompt": "Read: 'At sunset, a tiny dragon could not find its flame.' Which feature sets up a story?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -78,18 +78,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only in the title, far away from the risky step.",
-      "Beside the step where the hot glue gun is used.",
-      "After the final step, when the model is already complete."
+      "A timetable lists the sunset time.",
+      "A recipe lists its ingredients.",
+      "A character faces a difficulty."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
-    "correct": 1,
-    "explanation": "Putting the warning beside the risky step helps readers act safely at the right time.\nHint: Place information where the reader needs it during the task.",
+    "correct": 2,
+    "explanation": "A character and difficulty can drive narrative events.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "Putting the warning beside the risky step helps readers act safely at the right time.",
-      "hint": "Place information where the reader needs it during the task."
+      "summary": "A character and difficulty can drive narrative events.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +97,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-004",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "organising class survey findings direct",
+    "skill": "test persuasion",
     "printable": true,
     "type": "single",
-    "question": "Which structure best suits a report about the class's favourite fruit survey?",
-    "audioPrompt": "Which structure best suits a report about the class's favourite fruit survey?",
+    "question": "Which order best suits a short letter asking for a bike rack?",
+    "audioPrompt": "Which order best suits a short letter asking for a bike rack?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +109,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Write each vote in the order collected without grouping the results.",
-      "Give only the writer's favourite fruit and a personal reason.",
-      "A heading, a simple results table and sentences explaining the pattern."
+      "Request, reasons it would help, closing.",
+      "Ingredients, mixing steps, cooking time.",
+      "Setting, magical event, fairy-tale ending."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
-    "correct": 2,
-    "explanation": "The table displays the collected data, and the sentences explain what the results show.\nHint: Choose features that organise findings so readers can compare them.",
+    "correct": 0,
+    "explanation": "A persuasive request is supported by reasons directed to the reader.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The table displays the collected data, and the sentences explain what the results show.",
-      "hint": "Choose features that organise findings so readers can compare them."
+      "summary": "A persuasive request is supported by reasons directed to the reader.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,11 +128,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-005",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "structuring a persuasive letter direct",
+    "skill": "test recount",
     "printable": true,
     "type": "single",
-    "question": "Which order best suits a letter asking the principal for more shade trees?",
-    "audioPrompt": "Which order best suits a letter asking the principal for more shade trees?",
+    "question": "A child writes about yesterday's swim. Which opening makes the recount clear?",
+    "audioPrompt": "A child writes about yesterday's swim. Which opening makes the recount clear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -140,18 +140,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "State the request, give reasons and evidence, then ask for action.",
-      "State the request, then list tree names without giving reasons.",
-      "Describe the hot playground but never ask the principal to act."
+      "Tomorrow we might swim.",
+      "Yesterday our class walked to the pool.",
+      "Please build a new swimming pool."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
-    "correct": 0,
-    "explanation": "The letter clearly presents its position, supports it and tells the audience what action is wanted.\nHint: A persuasive structure should build a case for the named reader.",
+    "correct": 1,
+    "explanation": "Yesterday introduces a completed event, fitting a recount.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The letter clearly presents its position, supports it and tells the audience what action is wanted.",
-      "hint": "A persuasive structure should build a case for the named reader."
+      "summary": "Yesterday introduces a completed event, fitting a recount.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,11 +159,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-006",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "using time words in a recount direct",
+    "skill": "test comparison",
     "printable": true,
     "type": "single",
-    "question": "Which sentence helps keep a recount of sports day in time order?",
-    "audioPrompt": "Which sentence helps keep a recount of sports day in time order?",
+    "question": "Read: 'Paper bags and cloth bags can carry shopping. Unlike paper bags, cloth bags can be washed.' How is the information organised?",
+    "audioPrompt": "Read: 'Paper bags and cloth bags can carry shopping. Unlike paper bags, cloth bags can be washed.' How is the information organised?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -171,18 +171,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Relay teams need four runners and a baton.",
-      "After lunch, we lined up for the relay race.",
-      "Line up behind the cone before the whistle."
+      "An instruction is followed by a recipe.",
+      "A greeting is followed by a farewell.",
+      "A shared use is followed by a difference."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
-    "correct": 1,
-    "explanation": "‘After lunch’ locates the real event in the sequence of the day.\nHint: Look for past-tense events linked by a time clue.",
+    "correct": 2,
+    "explanation": "The text compares a common purpose and contrasts washability.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "‘After lunch’ locates the real event in the sequence of the day.",
-      "hint": "Look for past-tense events linked by a time clue."
+      "summary": "The text compares a common purpose and contrasts washability.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +190,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-007",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "presenting pancakes for two purposes direct",
+    "skill": "test signal",
     "printable": true,
     "type": "single",
-    "question": "A recipe and a café review are both about pancakes. Which pair of features suits their different purposes?",
-    "audioPrompt": "A recipe and a café review are both about pancakes. Which pair of features suits their different purposes?",
+    "question": "Which phrase would help introduce a contrast in a text about two bikes?",
+    "audioPrompt": "Which phrase would help introduce a contrast in a text about two bikes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +202,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Recipe: an opinion and star rating. Review: ordered cooking commands.",
-      "Recipe: a past-tense recount. Review: an ingredients list only.",
-      "Recipe: ordered commands. Review: an opinion supported by reasons."
+      "The smaller bike, however, has no gears.",
+      "Both bikes have wheels.",
+      "The bikes are alike in colour."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
-    "correct": 2,
-    "explanation": "The recipe instructs the reader, while the review evaluates the food for an audience.\nHint: Match each text's language features to the job it needs to do.",
+    "correct": 0,
+    "explanation": "However signals that the next information differs.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The recipe instructs the reader, while the review evaluates the food for an audience.",
-      "hint": "Match each text's language features to the job it needs to do."
+      "summary": "However signals that the next information differs.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +221,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-008",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "adding a useful photograph caption direct",
+    "skill": "test subject",
     "printable": true,
     "type": "single",
-    "question": "A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful?",
-    "audioPrompt": "A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful?",
+    "question": "A history recount lists 'First', 'Later' and 'Years afterwards'. What do these words help show?",
+    "audioPrompt": "A history recount lists 'First', 'Later' and 'Years afterwards'. What do these words help show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +233,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A young kangaroo stays in its mother's pouch for protection and milk.",
-      "A mother kangaroo and joey appear in this photograph.",
-      "Kangaroos are the most exciting animals to see."
+      "The alphabetical order of people's names.",
+      "The sequence of events over time.",
+      "The equipment needed for an experiment."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
-    "correct": 0,
-    "explanation": "The caption identifies what the image shows and adds relevant information.\nHint: A report caption should help the reader understand why the image matters.",
+    "correct": 1,
+    "explanation": "Time signals help readers follow historical events in order.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The caption identifies what the image shows and adds relevant information.",
-      "hint": "A report caption should help the reader understand why the image matters."
+      "summary": "Time signals help readers follow historical events in order.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +252,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-009",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "planning an explanation of rain test-reason",
+    "skill": "test poem",
     "printable": true,
     "type": "single",
-    "question": "Which plan best suits a short explanation of how rain forms? Which reason best supports the correct choice?",
-    "audioPrompt": "Which plan best suits a short explanation of how rain forms? Which reason best supports the correct choice?",
+    "question": "A chant repeats 'Pass it on!' after each short verse. How does the repeated line help its purpose?",
+    "audioPrompt": "A chant repeats 'Pass it on!' after each short verse. How does the repeated line help its purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +264,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The title, diagram and linked stages help explain a process clearly.",
-      "The correct choice works even if the situation and audience are ignored."
+      "It tells readers where to find an index.",
+      "It separates ingredients from a method.",
+      "It gives listeners a part they can join in with."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 9,
-    "correct": 1,
-    "explanation": "The title, diagram and linked stages help explain a process clearly.\nHint: Choose features that show how something happens from one stage to the next.",
+    "correct": 2,
+    "explanation": "A repeated refrain supports shared chanting and a predictable pattern.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The title, diagram and linked stages help explain a process clearly.",
-      "hint": "Choose features that show how something happens from one stage to the next."
+      "summary": "A repeated refrain supports shared chanting and a predictable pattern.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +283,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-010",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "laying out a play script test-reason",
+    "skill": "test heading",
     "printable": true,
     "type": "single",
-    "question": "Which page layout best helps actors read a short play? Which reason best supports the correct choice?",
-    "audioPrompt": "Which page layout best helps actors read a short play? Which reason best supports the correct choice?",
+    "question": "A report section explains how a koala rests during the day. Which heading fits?",
+    "audioPrompt": "A report section explains how a koala rests during the day. Which heading fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +295,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Names and stage directions show actors who speaks and what happens on stage."
+      "Resting",
+      "Finding food",
+      "Growing young"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 10,
-    "correct": 2,
-    "explanation": "Names and stage directions show actors who speaks and what happens on stage.\nHint: Choose features that help performers follow dialogue and action.",
+    "correct": 0,
+    "explanation": "A useful heading names the section's actual topic.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "Names and stage directions show actors who speaks and what happens on stage.",
-      "hint": "Choose features that help performers follow dialogue and action."
+      "summary": "A useful heading names the section's actual topic.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +314,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-011",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "placing a safety warning in a procedure test-reason",
+    "skill": "test change purpose",
     "printable": true,
     "type": "single",
-    "question": "Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure? Which reason best supports the correct choice?",
-    "audioPrompt": "Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure? Which reason best supports the correct choice?",
+    "question": "You turn facts about recycling into a poster encouraging recycling. What language would support the new purpose?",
+    "audioPrompt": "You turn facts about recycling into a poster encouraging recycling. What language would support the new purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +326,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Putting the warning beside the risky step helps readers act safely at the right time.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Only the names of story characters.",
+      "A clear request such as 'Put clean paper in the recycling bin.'",
+      "A list of unrelated past events."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 11,
-    "correct": 0,
-    "explanation": "Putting the warning beside the risky step helps readers act safely at the right time.\nHint: Place information where the reader needs it during the task.",
+    "correct": 1,
+    "explanation": "A persuasive poster asks the audience to act.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "Putting the warning beside the risky step helps readers act safely at the right time.",
-      "hint": "Place information where the reader needs it during the task."
+      "summary": "A persuasive poster asks the audience to act.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,11 +345,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-012",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "organising class survey findings test-reason",
+    "skill": "test order",
     "printable": true,
     "type": "single",
-    "question": "Which structure best suits a report about the class's favourite fruit survey? Which reason best supports the correct choice?",
-    "audioPrompt": "Which structure best suits a report about the class's favourite fruit survey? Which reason best supports the correct choice?",
+    "question": "A method ends with 'Check that the glue is dry.' Why should this come after joining the pieces?",
+    "audioPrompt": "A method ends with 'Check that the glue is dry.' Why should this come after joining the pieces?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -357,18 +357,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The table displays the collected data, and the sentences explain what the results show.",
-      "The correct choice works even if the situation and audience are ignored."
+      "The final line must always contain five words.",
+      "Checking glue belongs only in a story.",
+      "The glue needs to have been used before its drying can be checked."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 12,
-    "correct": 1,
-    "explanation": "The table displays the collected data, and the sentences explain what the results show.\nHint: Choose features that organise findings so readers can compare them.",
+    "correct": 2,
+    "explanation": "The sequence follows the practical order of the task.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The table displays the collected data, and the sentences explain what the results show.",
-      "hint": "Choose features that organise findings so readers can compare them."
+      "summary": "The sequence follows the practical order of the task.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +376,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-013",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "structuring a persuasive letter test-reason",
+    "skill": "test explanation",
     "printable": true,
     "type": "single",
-    "question": "Which order best suits a letter asking the principal for more shade trees? Which reason best supports the correct choice?",
-    "audioPrompt": "Which order best suits a letter asking the principal for more shade trees? Which reason best supports the correct choice?",
+    "question": "A maths page shows a worked sum followed by 'I grouped the tens first.' What does the sentence add?",
+    "audioPrompt": "A maths page shows a worked sum followed by 'I grouped the tens first.' What does the sentence add?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +388,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "The letter clearly presents its position, supports it and tells the audience what action is wanted."
+      "An explanation of the method.",
+      "An invitation to an event.",
+      "A character's imaginary problem."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 13,
-    "correct": 2,
-    "explanation": "The letter clearly presents its position, supports it and tells the audience what action is wanted.\nHint: A persuasive structure should build a case for the named reader.",
+    "correct": 0,
+    "explanation": "The language explains how the answer was reached.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The letter clearly presents its position, supports it and tells the audience what action is wanted.",
-      "hint": "A persuasive structure should build a case for the named reader."
+      "summary": "The language explains how the answer was reached.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +407,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-014",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "using time words in a recount test-reason",
+    "skill": "test pair",
     "printable": true,
     "type": "single",
-    "question": "Which sentence helps keep a recount of sports day in time order? Which reason best supports the correct choice?",
-    "audioPrompt": "Which sentence helps keep a recount of sports day in time order? Which reason best supports the correct choice?",
+    "question": "A weather report gives today's conditions. A poem describes rain tapping like fingers. Why does their language differ?",
+    "audioPrompt": "A weather report gives today's conditions. A poem describes rain tapping like fingers. Why does their language differ?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +419,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "‘After lunch’ locates the real event in the sequence of the day.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "The report cannot mention rain.",
+      "The report informs; the poem creates an image or sound experience.",
+      "The poem must give exact temperatures."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 14,
-    "correct": 0,
-    "explanation": "‘After lunch’ locates the real event in the sequence of the day.\nHint: Look for past-tense events linked by a time clue.",
+    "correct": 1,
+    "explanation": "Different purposes lead to factual reporting or imaginative description.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "‘After lunch’ locates the real event in the sequence of the day.",
-      "hint": "Look for past-tense events linked by a time clue."
+      "summary": "Different purposes lead to factual reporting or imaginative description.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -438,11 +438,17 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-015",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "presenting pancakes for two purposes test-reason",
+    "skill": "test structure",
     "printable": true,
-    "type": "single",
-    "question": "A recipe and a café review are both about pancakes. Which pair of features suits their different purposes? Which reason best supports the correct choice?",
-    "audioPrompt": "A recipe and a café review are both about pancakes. Which pair of features suits their different purposes? Which reason best supports the correct choice?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: 'Food' for what it eats and 'Home' for where it lives.",
+    "acceptanceNote": "Accept two distinct, relevant categories with matching information and an explanation that headings group facts.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Describe a plan for a short report about a familiar animal. Give two section headings and explain what belongs under each.",
+    "audioPrompt": "Describe a plan for a short report about a familiar animal. Give two section headings and explain what belongs under each.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +456,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The recipe instructs the reader, while the review evaluates the food for an audience.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Response not yet reviewed",
+      "Revise with an adult",
+      "Adult review required"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 15,
-    "correct": 1,
-    "explanation": "The recipe instructs the reader, while the review evaluates the food for an audience.\nHint: Match each text's language features to the job it needs to do.",
+    "correct": "Example: 'Food' for what it eats and 'Home' for where it lives.",
+    "explanation": "Accept two distinct, relevant categories with matching information and an explanation that headings group facts.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The recipe instructs the reader, while the review evaluates the food for an audience.",
-      "hint": "Match each text's language features to the job it needs to do."
+      "summary": "Accept two distinct, relevant categories with matching information and an explanation that headings group facts.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +475,17 @@ window.skillrTestQuestions = [
     "id": "ac9e2la03-t-016",
     "curriculumCode": "AC9E2LA03",
     "bank": "test",
-    "skill": "adding a useful photograph caption test-reason",
+    "skill": "test compare",
     "printable": true,
-    "type": "single",
-    "question": "A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful? Which reason best supports the correct choice?",
-    "audioPrompt": "A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful? Which reason best supports the correct choice?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: the invitation gives event, time and place; the recount tells past events in order.",
+    "acceptanceNote": "Accept a purpose-linked comparison including useful invitation details and sequencing of completed events.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Explain how a class excursion invitation would be organised differently from a recount written after the excursion.",
+    "audioPrompt": "Explain how a class excursion invitation would be organised differently from a recount written after the excursion.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +493,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "The caption identifies what the image shows and adds relevant information."
+      "Adult review required",
+      "Response not yet reviewed",
+      "Revise with an adult"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 16,
-    "correct": 2,
-    "explanation": "The caption identifies what the image shows and adds relevant information.\nHint: A report caption should help the reader understand why the image matters.",
+    "correct": "Example: the invitation gives event, time and place; the recount tells past events in order.",
+    "explanation": "Accept a purpose-linked comparison including useful invitation details and sequencing of completed events.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The caption identifies what the image shows and adds relevant information.",
-      "hint": "A report caption should help the reader understand why the image matters."
+      "summary": "Accept a purpose-linked comparison including useful invitation details and sequencing of completed events.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   }

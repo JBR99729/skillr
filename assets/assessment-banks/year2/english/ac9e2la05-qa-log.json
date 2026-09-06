@@ -1,24 +1,492 @@
 {
   "code": "AC9E2LA05",
   "title": "Finding Information in Print and Screen Texts",
-  "practice": 40,
+  "practice": 24,
   "test": 16,
-  "items": 56,
-  "progression": [
-    "recognise",
-    "explain",
-    "discriminate",
-    "apply"
-  ],
-  "practiceSourceExamples": 12,
-  "testOnlySourceExamples": 8,
-  "qualitySchema": "student-facing-v3",
-  "source": "20 authored Year 2 curriculum-specific examples per code",
-  "fixes": [
-    "Practice rebuilt from direct age-appropriate examples rather than curriculum-label prompts.",
-    "Practice progresses from recognition to explanation, misconception discrimination and application.",
-    "Test uses the eight test-only authored source examples, separate from the twelve practice source examples.",
-    "Feedback explains the evidence or clue that makes an answer work.",
-    "Classroom View is not generated or modified by this rebuild."
+  "items": 40,
+  "qualitySchema": "year2-english-first5-original-v1",
+  "reviewStatus": "editorially-reviewed; local rebuild; not released",
+  "reviewNotes": "docs/question-bank-reviews/2026-09-06-year2-english-first-five.md",
+  "itemReviews": [
+    {
+      "id": "AC9E2LA05-P-001",
+      "component": "contents_page",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-002",
+      "component": "chapter_choice",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-003",
+      "component": "index_specific",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-004",
+      "component": "index_letters",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-005",
+      "component": "contents_vs_index",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-006",
+      "component": "index_vs_contents",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-007",
+      "component": "sidebar",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-008",
+      "component": "dropdown",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-009",
+      "component": "link_label",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-010",
+      "component": "menu_path",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-011",
+      "component": "page_range",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-012",
+      "component": "index_range",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-013",
+      "component": "chapter_heading",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-014",
+      "component": "link_purpose",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-015",
+      "component": "sidebar_return",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-016",
+      "component": "dropdown_category",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-017",
+      "component": "index_lookup",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-018",
+      "component": "contents_order",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-019",
+      "component": "multiple_routes",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-020",
+      "component": "wrong_destination",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-021",
+      "component": "contents_selection",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-022",
+      "component": "link_vs_heading",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-023",
+      "component": "navigate_print",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-P-024",
+      "component": "navigate_screen",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-001",
+      "component": "test_contents",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-002",
+      "component": "test_index",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-003",
+      "component": "test_chapter",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-004",
+      "component": "test_sidebar",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-005",
+      "component": "test_dropdown",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-006",
+      "component": "test_link",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-007",
+      "component": "test_feature_choice",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-008",
+      "component": "test_overview",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-009",
+      "component": "test_range",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-010",
+      "component": "test_alphabetical",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-011",
+      "component": "test_nested_menu",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-012",
+      "component": "test_verify",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-013",
+      "component": "test_link_prediction",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-014",
+      "component": "test_topic_match",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-015",
+      "component": "test_print_route",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    },
+    {
+      "id": "AC9E2LA05-T-016",
+      "component": "test_screen_route",
+      "status": "reviewed",
+      "checks": [
+        "alignment",
+        "answer and explanation",
+        "age-level language",
+        "distinct task",
+        "response marking"
+      ]
+    }
   ]
 }

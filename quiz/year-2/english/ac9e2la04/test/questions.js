@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-001",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "follow the koala reference direct",
+    "skill": "test reference",
     "printable": true,
     "type": "single",
-    "question": "A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean?",
-    "audioPrompt": "A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean?",
+    "question": "Read: 'A crab hid beneath a rock. It came out at dusk.' What came out?",
+    "audioPrompt": "Read: 'A crab hid beneath a rock. It came out at dusk.' What came out?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the koala",
-      "the branch",
-      "the claws"
+      "the crab",
+      "dusk",
+      "the shore"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
     "correct": 0,
-    "explanation": "The koala, not the branch or claws, is the living thing that sleeps.\nHint: Read the action after the pronoun and ask which earlier noun can do it.",
+    "explanation": "The action and the earlier subject connect it to the crab.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "The koala, not the branch or claws, is the living thing that sleeps.",
-      "hint": "Read the action after the pronoun and ask which earlier noun can do it."
+      "summary": "The action and the earlier subject connect it to the crab.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +35,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-002",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "name the caller clearly direct",
+    "skill": "test object",
     "printable": true,
     "type": "single",
-    "question": "Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest?",
-    "audioPrompt": "Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest?",
+    "question": "Read: 'The parcels arrived. We carried them inside.' What does 'them' replace?",
+    "audioPrompt": "Read: 'The parcels arrived. We carried them inside.' What does 'them' replace?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +47,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ella passed the ball to Zoe after she called for it.",
-      "Ella passed the ball to Zoe after Zoe called for it.",
-      "Ella passed the ball to Zoe after Ella called for it."
+      "we",
+      "the parcels",
+      "inside"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Repeating Zoe shows exactly who called and removes the unclear she.\nHint: Two people can match she, so name the intended person again.",
+    "explanation": "Them keeps the reference to the parcels as the things being carried.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Repeating Zoe shows exactly who called and removes the unclear she.",
-      "hint": "Two people can match she, so name the intended person again."
+      "summary": "Them keeps the reference to the parcels as the things being carried.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,11 +66,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-003",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "infer a missing picnic noun direct",
+    "skill": "test speaker",
     "printable": true,
     "type": "single",
-    "question": "Dad packed the large plates, and I packed the small. Which word is understood after “small”?",
-    "audioPrompt": "Dad packed the large plates, and I packed the small. Which word is understood after “small”?",
+    "question": "A child says, 'This drawing belongs to my sister and me. It is ___.'",
+    "audioPrompt": "A child says, 'This drawing belongs to my sister and me. It is ___.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -78,18 +78,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "large",
-      "Dad",
-      "plates"
+      "yours",
+      "theirs",
+      "ours"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Plates is understood after small because the same noun was named earlier.\nHint: Repeat the earlier noun after small and test the meaning.",
+    "explanation": "Ours includes the speaker among the owners.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Plates is understood after small because the same noun was named earlier.",
-      "hint": "Repeat the earlier noun after small and test the meaning."
+      "summary": "Ours includes the speaker among the owners.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +97,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-004",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "repair a robot reference direct",
+    "skill": "test possession",
     "printable": true,
     "type": "single",
-    "question": "The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest?",
-    "audioPrompt": "The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest?",
+    "question": "Read: 'I brought my umbrella. You brought yours.' What does 'yours' mean?",
+    "audioPrompt": "Read: 'I brought my umbrella. You brought yours.' What does 'yours' mean?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +109,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The robot lifted the box. The robot flashed a green light.",
-      "The robot lifted the box. It flashed a green light.",
-      "The robot lifted the box. The box flashed a green light."
+      "your umbrella",
+      "my umbrella",
+      "their coats"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
     "correct": 0,
-    "explanation": "Repeating the robot prevents it from seeming to mean the nearby box.\nHint: If a pronoun could point to two things, repeat the intended noun.",
+    "explanation": "Yours replaces the possessive phrase your umbrella.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Repeating the robot prevents it from seeming to mean the nearby box.",
-      "hint": "If a pronoun could point to two things, repeat the intended noun."
+      "summary": "Yours replaces the possessive phrase your umbrella.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,11 +128,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-005",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "track two model makers direct",
+    "skill": "test owner",
     "printable": true,
     "type": "single",
-    "question": "Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models?",
-    "audioPrompt": "Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models?",
+    "question": "Read: 'The neighbours parked their caravan.' Whose caravan is meant?",
+    "audioPrompt": "Read: 'The neighbours parked their caravan.' Whose caravan is meant?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -140,18 +140,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "His was a whale, and hers was a rocket.",
-      "Hers was a whale, and his was a rocket.",
-      "Theirs was a whale, and theirs was a rocket."
+      "the writer's",
+      "the neighbours'",
+      "the caravan's"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
     "correct": 1,
-    "explanation": "Hers points to Mila's model and his points to Noah's model.\nHint: Match each possessive word to the owner and model named in the speech.",
+    "explanation": "Their links the caravan to the plural owners already named.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Hers points to Mila's model and his points to Noah's model.",
-      "hint": "Match each possessive word to the owner and model named in the speech."
+      "summary": "Their links the caravan to the plural owners already named.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,11 +159,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-006",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "infer an omitted noun direct",
+    "skill": "test rewrite",
     "printable": true,
     "type": "single",
-    "question": "The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”?",
-    "audioPrompt": "The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”?",
+    "question": "Choose the clearest rewrite: 'The dancer bowed. The dancer thanked the crowd.'",
+    "audioPrompt": "Choose the clearest rewrite: 'The dancer bowed. The dancer thanked the crowd.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -171,18 +171,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sharp",
-      "blue",
-      "pencils"
+      "The crowd bowed and thanked the dancer.",
+      "The dancer thanked it and bowed them.",
+      "The dancer bowed and thanked the crowd."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
     "correct": 2,
-    "explanation": "The red means the red pencils because pencils was named just before it.\nHint: Supply the earlier noun and check that the full sentence makes sense.",
+    "explanation": "The shared subject can be understood for both actions without changing who acts.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "The red means the red pencils because pencils was named just before it.",
-      "hint": "Supply the earlier noun and check that the full sentence makes sense."
+      "summary": "The shared subject can be understood for both actions without changing who acts.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +190,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-007",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "infer balloons in a comparison direct",
+    "skill": "test ellipsis",
     "printable": true,
     "type": "single",
-    "question": "Our team chose two large balloons; their team chose three small. Which word is understood after “small”?",
-    "audioPrompt": "Our team chose two large balloons; their team chose three small. Which word is understood after “small”?",
+    "question": "Read: 'Sam ordered soup; Lee ordered salad.' Which shorter version preserves the meaning?",
+    "audioPrompt": "Read: 'Sam ordered soup; Lee ordered salad.' Which shorter version preserves the meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +202,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "balloons",
-      "team",
-      "large"
+      "Sam ordered soup; Lee, salad.",
+      "Sam ordered Lee; soup, salad.",
+      "Sam soup; ordered Lee."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Balloons can be inferred because the same kind of item was named in the first part.\nHint: Repeat the earlier item after small and test the meaning.",
+    "explanation": "Ordered can be inferred in the second part while the two orders remain clear.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Balloons can be inferred because the same kind of item was named in the first part.",
-      "hint": "Repeat the earlier item after small and test the meaning."
+      "summary": "Ordered can be inferred in the second part while the two orders remain clear.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +221,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-008",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "clarify what was cracked direct",
+    "skill": "test short reply",
     "printable": true,
     "type": "single",
-    "question": "Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest?",
-    "audioPrompt": "Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest?",
+    "question": "Read: 'Where is the torch?' 'In the drawer.' What words are understood before the reply?",
+    "audioPrompt": "Read: 'Where is the torch?' 'In the drawer.' What words are understood before the reply?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +233,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ravi put the bowl beside the lamp. It was cracked.",
-      "Ravi put the bowl beside the lamp. The bowl was cracked.",
-      "Ravi put the bowl beside the lamp. The lamp was cracked."
+      "The drawer wants",
+      "The torch is",
+      "Where did"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Repeating bowl removes the unclear reference created by two nearby things.\nHint: Name the intended object when it could point to either noun.",
+    "explanation": "The short answer omits the torch is because the question supplies the topic.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Repeating bowl removes the unclear reference created by two nearby things.",
-      "hint": "Name the intended object when it could point to either noun."
+      "summary": "The short answer omits the torch is because the question supplies the topic.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +252,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-009",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "follow the koala reference test-reason",
+    "skill": "test can",
     "printable": true,
     "type": "single",
-    "question": "A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean? Which reason best supports the correct choice?",
-    "audioPrompt": "A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean? Which reason best supports the correct choice?",
+    "question": "Read: 'Asha cannot whistle, but I can.' What can the speaker do?",
+    "audioPrompt": "Read: 'Asha cannot whistle, but I can.' What can the speaker do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +264,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "The koala, not the branch or claws, is the living thing that sleeps."
+      "hear Asha",
+      "draw a picture",
+      "whistle"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 9,
     "correct": 2,
-    "explanation": "The koala, not the branch or claws, is the living thing that sleeps.\nHint: Read the action after the pronoun and ask which earlier noun can do it.",
+    "explanation": "Can refers back to whistle, the action already stated.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "The koala, not the branch or claws, is the living thing that sleeps.",
-      "hint": "Read the action after the pronoun and ask which earlier noun can do it."
+      "summary": "Can refers back to whistle, the action already stated.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +283,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-010",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "name the caller clearly test-reason",
+    "skill": "test ambiguity",
     "printable": true,
     "type": "single",
-    "question": "Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest? Which reason best supports the correct choice?",
-    "audioPrompt": "Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest? Which reason best supports the correct choice?",
+    "question": "'I put the mug beside the jug. It was cracked.' You mean the jug. Which revision is clear?",
+    "audioPrompt": "'I put the mug beside the jug. It was cracked.' You mean the jug. Which revision is clear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +295,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Repeating Zoe shows exactly who called and removes the unclear she.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "I put the mug beside the cracked jug.",
+      "I put it beside it. It was cracked.",
+      "I put the mug beside the jug. It was still cracked."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Repeating Zoe shows exactly who called and removes the unclear she.\nHint: Two people can match she, so name the intended person again.",
+    "explanation": "Naming the jug as cracked removes the competing reference.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Repeating Zoe shows exactly who called and removes the unclear she.",
-      "hint": "Two people can match she, so name the intended person again."
+      "summary": "Naming the jug as cracked removes the competing reference.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +314,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-011",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "infer a missing picnic noun test-reason",
+    "skill": "test plural",
     "printable": true,
     "type": "single",
-    "question": "Dad packed the large plates, and I packed the small. Which word is understood after “small”? Which reason best supports the correct choice?",
-    "audioPrompt": "Dad packed the large plates, and I packed the small. Which word is understood after “small”? Which reason best supports the correct choice?",
+    "question": "Read: 'The ducks reached the pond. ___ slipped into the water.'",
+    "audioPrompt": "Read: 'The ducks reached the pond. ___ slipped into the water.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +326,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "Plates is understood after small because the same noun was named earlier.",
-      "The correct choice works even if the situation and audience are ignored."
+      "He",
+      "They",
+      "It"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Plates is understood after small because the same noun was named earlier.\nHint: Repeat the earlier noun after small and test the meaning.",
+    "explanation": "They refers back to the plural ducks.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Plates is understood after small because the same noun was named earlier.",
-      "hint": "Repeat the earlier noun after small and test the meaning."
+      "summary": "They refers back to the plural ducks.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,11 +345,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-012",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "repair a robot reference test-reason",
+    "skill": "test link",
     "printable": true,
     "type": "single",
-    "question": "The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest? Which reason best supports the correct choice?",
-    "audioPrompt": "The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest? Which reason best supports the correct choice?",
+    "question": "Read: 'Our class made a banner. The banner is ours.' How does 'ours' link the sentences?",
+    "audioPrompt": "Read: 'Our class made a banner. The banner is ours.' How does 'ours' link the sentences?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -357,18 +357,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Repeating the robot prevents it from seeming to mean the nearby box."
+      "It gives a new name to the banner.",
+      "It says the banner belongs to another school.",
+      "It refers to the class as the owners."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Repeating the robot prevents it from seeming to mean the nearby box.\nHint: If a pronoun could point to two things, repeat the intended noun.",
+    "explanation": "Ours links possession to the speaker's class already mentioned.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Repeating the robot prevents it from seeming to mean the nearby box.",
-      "hint": "If a pronoun could point to two things, repeat the intended noun."
+      "summary": "Ours links possession to the speaker's class already mentioned.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +376,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-013",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "track two model makers test-reason",
+    "skill": "test omitted noun",
     "printable": true,
     "type": "single",
-    "question": "Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models? Which reason best supports the correct choice?",
-    "audioPrompt": "Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models? Which reason best supports the correct choice?",
+    "question": "Read: 'I wore the woollen hat, not the cotton.' What is understood after 'cotton'?",
+    "audioPrompt": "Read: 'I wore the woollen hat, not the cotton.' What is understood after 'cotton'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +388,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Hers points to Mila's model and his points to Noah's model.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "hat",
+      "coat",
+      "sock"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Hers points to Mila's model and his points to Noah's model.\nHint: Match each possessive word to the owner and model named in the speech.",
+    "explanation": "The earlier noun hat supplies the omitted noun in the contrast.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Hers points to Mila's model and his points to Noah's model.",
-      "hint": "Match each possessive word to the owner and model named in the speech."
+      "summary": "The earlier noun hat supplies the omitted noun in the contrast.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +407,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-014",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "infer an omitted noun test-reason",
+    "skill": "test safe omission",
     "printable": true,
     "type": "single",
-    "question": "The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”? Which reason best supports the correct choice?",
-    "audioPrompt": "The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”? Which reason best supports the correct choice?",
+    "question": "Which short reply clearly answers 'Would you like some water?'",
+    "audioPrompt": "Which short reply clearly answers 'Would you like some water?'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +419,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The red means the red pencils because pencils was named just before it.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Under the table.",
+      "Yes, please.",
+      "Next to the library."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 14,
     "correct": 1,
-    "explanation": "The red means the red pencils because pencils was named just before it.\nHint: Supply the earlier noun and check that the full sentence makes sense.",
+    "explanation": "The question makes the omitted request for water clear in Yes, please.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "The red means the red pencils because pencils was named just before it.",
-      "hint": "Supply the earlier noun and check that the full sentence makes sense."
+      "summary": "The question makes the omitted request for water clear in Yes, please.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -438,11 +438,17 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-015",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "infer balloons in a comparison test-reason",
+    "skill": "test rewrite",
     "printable": true,
-    "type": "single",
-    "question": "Our team chose two large balloons; their team chose three small. Which word is understood after “small”? Which reason best supports the correct choice?",
-    "audioPrompt": "Our team chose two large balloons; their team chose three small. Which word is understood after “small”? Which reason best supports the correct choice?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The robot picked up the tools. It put them on the shelf.",
+    "acceptanceNote": "Accept a clear version using it for robot and them for tools, with both original actions preserved.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Rewrite: 'The robot picked up the tools. The robot put the tools on the shelf.' Use pronouns where the meaning stays clear.",
+    "audioPrompt": "Rewrite: 'The robot picked up the tools. The robot put the tools on the shelf.' Use pronouns where the meaning stays clear.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +456,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Balloons can be inferred because the same kind of item was named in the first part."
+      "Response not yet reviewed",
+      "Revise with an adult",
+      "Adult review required"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 15,
-    "correct": 2,
-    "explanation": "Balloons can be inferred because the same kind of item was named in the first part.\nHint: Repeat the earlier item after small and test the meaning.",
+    "correct": "The robot picked up the tools. It put them on the shelf.",
+    "explanation": "Accept a clear version using it for robot and them for tools, with both original actions preserved.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Balloons can be inferred because the same kind of item was named in the first part.",
-      "hint": "Repeat the earlier item after small and test the meaning."
+      "summary": "Accept a clear version using it for robot and them for tools, with both original actions preserved.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +475,17 @@ window.skillrTestQuestions = [
     "id": "ac9e2la04-t-016",
     "curriculumCode": "AC9E2LA04",
     "bank": "test",
-    "skill": "clarify what was cracked test-reason",
+    "skill": "test expand",
     "printable": true,
-    "type": "single",
-    "question": "Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest? Which reason best supports the correct choice?",
-    "audioPrompt": "Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest? Which reason best supports the correct choice?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "I will carry the picnic basket. The question supplies the action left out of the reply.",
+    "acceptanceNote": "Accept a complete meaning and a reference to the question as the source of the omitted words.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Read: 'Who will carry the picnic basket?' 'I will.' Tell an adult what the reply means in full and how you know.",
+    "audioPrompt": "Read: 'Who will carry the picnic basket?' 'I will.' Tell an adult what the reply means in full and how you know.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +493,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Repeating bowl removes the unclear reference created by two nearby things.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Adult review required",
+      "Response not yet reviewed",
+      "Revise with an adult"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 16,
-    "correct": 0,
-    "explanation": "Repeating bowl removes the unclear reference created by two nearby things.\nHint: Name the intended object when it could point to either noun.",
+    "correct": "I will carry the picnic basket. The question supplies the action left out of the reply.",
+    "explanation": "Accept a complete meaning and a reference to the question as the source of the omitted words.\nHint: Read the nearby words to work out who, what or which action is meant.",
     "structuredExplanation": {
-      "summary": "Repeating bowl removes the unclear reference created by two nearby things.",
-      "hint": "Name the intended object when it could point to either noun."
+      "summary": "Accept a complete meaning and a reference to the question as the source of the omitted words.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "qualitySchema": "production-v1"
   }

@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-001",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "giving a reason about a poem direct",
+    "skill": "preference reason",
     "printable": true,
     "type": "single",
-    "question": "Which response gives a preference and a reason about the poem?",
-    "audioPrompt": "Which response gives a preference and a reason about the poem?",
+    "question": "Read: 'The beetle wore boots and danced on a spoon.' Which response explains enjoyment of the line?",
+    "audioPrompt": "Read: 'The beetle wore boots and danced on a spoon.' Which response explains enjoyment of the line?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I enjoyed the poem more than anything.",
-      "I enjoyed the poem because its repeated sounds were fun to say.",
-      "The poem has four lines on the page."
+      "I like the silly picture of a beetle dancing in boots.",
+      "The line is printed in a book.",
+      "I have seen a beetle before."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "The response states a preference and links it to the poem's repeated sounds.\nHint: Look for both what the reader liked and why they liked it.",
+    "correct": 0,
+    "explanation": "The response links enjoyment to a specific amusing image in the words.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response states a preference and links it to the poem's repeated sounds.",
-      "hint": "Look for both what the reader liked and why they liked it."
+      "summary": "The response links enjoyment to a specific amusing image in the words.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +35,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-002",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "using character evidence direct",
+    "skill": "sound response",
     "printable": true,
     "type": "single",
-    "question": "Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response?",
-    "audioPrompt": "Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response?",
+    "question": "Read aloud: 'Tip, tap, tiny rain; tip, tap, on the pane.' Which reason supports liking its sound?",
+    "audioPrompt": "Read aloud: 'Tip, tap, tiny rain; tip, tap, on the pane.' Which reason supports liking its sound?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +47,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Mina watched the cave from the safe path.",
-      "Mina said that her dog was usually brave.",
-      "Mina entered the dark cave to rescue her dog."
+      "The poem tells me where to buy a window.",
+      "The repeated 'tip, tap' sounds like little raindrops.",
+      "The line has no repeated words."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Entering the cave to help her dog is evidence of Mina acting bravely.\nHint: Choose an action that shows the character quality.",
+    "correct": 1,
+    "explanation": "The reader connects the repeated sound pattern with rain.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Entering the cave to help her dog is evidence of Mina acting bravely.",
-      "hint": "Choose an action that shows the character quality."
+      "summary": "The reader connects the repeated sound pattern with rain.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,11 +66,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-003",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "responding to setting details direct",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which response explains why a reader liked the forest setting?",
-    "audioPrompt": "Which response explains why a reader liked the forest setting?",
+    "question": "Read: 'The gate was heavy. Ada held it open until everyone had passed.' Which appreciation fits?",
+    "audioPrompt": "Read: 'The gate was heavy. Ada held it open until everyone had passed.' Which appreciation fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -78,18 +78,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I liked the mist and twisted trees because they made the forest mysterious.",
-      "I liked the forest because it was the story's setting.",
-      "I liked the trees because there were many of them."
+      "I like Ada because she wins the race.",
+      "I like Ada's joke about the gate.",
+      "I like Ada's kindness because she waits for everyone."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 3,
-    "correct": 0,
-    "explanation": "The response names setting details and explains the feeling they create.\nHint: Find a reason that points to words describing the setting.",
+    "correct": 2,
+    "explanation": "Holding the gate for others is evidence of consideration; no race or joke appears.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response names setting details and explains the feeling they create.",
-      "hint": "Find a reason that points to words describing the setting."
+      "summary": "Holding the gate for others is evidence of consideration; no race or joke appears.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +97,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-004",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "explaining an illustration s effect direct",
+    "skill": "setting response",
     "printable": true,
     "type": "single",
-    "question": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
-    "audioPrompt": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
+    "question": "Read: 'Soft moss covered the path. A stream whispered beside it.' Which response uses details to explain a feeling?",
+    "audioPrompt": "Read: 'Soft moss covered the path. A stream whispered beside it.' Which response uses details to explain a feeling?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +109,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The large picture must be the most important part of the story.",
-      "The close-up makes the chick's fear easy to notice.",
-      "The leaf shows that the chick is calm and ready to play."
+      "I enjoyed the peaceful setting because of the soft moss and quiet stream.",
+      "I enjoyed the crowded setting because everyone shouted.",
+      "I enjoyed the setting because it was a setting."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 4,
-    "correct": 1,
-    "explanation": "The close view helps the reader notice the chick's fearful expression and pose.\nHint: Connect a visible feature of the picture to the meaning it adds.",
+    "correct": 0,
+    "explanation": "The response names language that creates a calm impression.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The close view helps the reader notice the chick's fearful expression and pose.",
-      "hint": "Connect a visible feature of the picture to the meaning it adds."
+      "summary": "The response names language that creates a calm impression.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,11 +128,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-005",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "choosing evidence for humour direct",
+    "skill": "information response",
     "printable": true,
     "type": "single",
-    "question": "Which event best supports a reader saying that a story is funny?",
-    "audioPrompt": "Which event best supports a reader saying that a story is funny?",
+    "question": "A page explains how a seed grows and labels its root and shoot. Which reason explains why a reader values the page?",
+    "audioPrompt": "A page explains how a seed grows and labels its root and shoot. Which reason explains why a reader values the page?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -140,18 +140,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A penguin carefully folds its towel before swimming.",
-      "A penguin watches raindrops slide down the window.",
-      "A penguin uses a bathtub as a boat and salutes the taps."
+      "The page must be good because it has a number.",
+      "The labels help me tell the root from the shoot.",
+      "Every page about seeds is my favourite."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 5,
-    "correct": 2,
-    "explanation": "The penguin's unexpected actions create a playful, humorous moment.\nHint: Look for an event meant to make the reader laugh.",
+    "correct": 1,
+    "explanation": "The reader identifies a feature and explains how it helps understanding.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The penguin's unexpected actions create a playful, humorous moment.",
-      "hint": "Look for an event meant to make the reader laugh."
+      "summary": "The reader identifies a feature and explains how it helps understanding.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,11 +159,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-006",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "matching a reason with evidence direct",
+    "skill": "precise appreciation",
     "printable": true,
     "type": "single",
-    "question": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
-    "audioPrompt": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
+    "question": "Which word best completes this response? 'The puppy kept slipping on the shiny floor. That scene made me laugh; it was ___. '",
+    "audioPrompt": "Which word best completes this response? 'The puppy kept slipping on the shiny floor. That scene made me laugh; it was ___. '",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -171,18 +171,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The fox hid the key in a hollow log before the guard arrived.",
-      "The fox ran quickly along the same path as the guard.",
-      "The fox slept beside the log until the guard arrived."
+      "frightening",
+      "lonely",
+      "amusing"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 6,
-    "correct": 0,
-    "explanation": "Hiding the key before the guard arrived shows the fox using a clever plan.\nHint: Choose the detail that proves the reason, not just any fact.",
+    "correct": 2,
+    "explanation": "Amusing describes something that makes the reader laugh.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Hiding the key before the guard arrived shows the fox using a clever plan.",
-      "hint": "Choose the detail that proves the reason, not just any fact."
+      "summary": "Amusing describes something that makes the reader laugh.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +190,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-007",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "accepting different preferences direct",
+    "skill": "preference comparison",
     "printable": true,
     "type": "single",
-    "question": "Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
-    "audioPrompt": "Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
+    "question": "Text A lists facts about clouds. Text B follows a cloud on an imaginary journey. Which response gives a reason for preferring B?",
+    "audioPrompt": "Text A lists facts about clouds. Text B follows a cloud on an imaginary journey. Which response gives a reason for preferring B?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +202,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Leo's preference matters more because written events count more than images.",
-      "Both preferences can make sense if each reader gives evidence.",
-      "Priya's preference matters more because readers see pictures before words."
+      "I prefer B because I enjoy imagining an adventure.",
+      "I prefer B because A is a text.",
+      "B is better and nobody may disagree."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 7,
-    "correct": 1,
-    "explanation": "Readers may value different features when they support their responses with the text.\nHint: Personal preferences can differ, but each reason still needs support.",
+    "correct": 0,
+    "explanation": "The reader connects a personal preference with the imaginative feature of B.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Readers may value different features when they support their responses with the text.",
-      "hint": "Personal preferences can differ, but each reason still needs support."
+      "summary": "The reader connects a personal preference with the imaginative feature of B.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +221,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-008",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "explaining suspense in a mystery direct",
+    "skill": "different preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response explains why a reader preferred the mystery story?",
-    "audioPrompt": "Which response explains why a reader preferred the mystery story?",
+    "question": "Jay enjoys a fast chase in a story. Lee enjoys the quiet ending. Which response respects both views?",
+    "audioPrompt": "Jay enjoys a fast chase in a story. Lee enjoys the quiet ending. Which response respects both views?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +233,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I preferred it because the muddy prints were brown.",
-      "I preferred it because the answer was explained on the first page.",
-      "I kept wondering who left the muddy prints until the last page."
+      "Only the first reader's opinion counts.",
+      "We enjoyed different parts, and we can explain why.",
+      "We must choose the same favourite part."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 8,
-    "correct": 2,
-    "explanation": "Waiting for the answer to the muddy-print clue creates suspense for the reader.\nHint: Choose a reason connected to how the plot affects the reader.",
+    "correct": 1,
+    "explanation": "Text preferences can differ while still being supported with reasons.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Waiting for the answer to the muddy-print clue creates suspense for the reader.",
-      "hint": "Choose a reason connected to how the plot affects the reader."
+      "summary": "Text preferences can differ while still being supported with reasons.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +252,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-009",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "appreciating an information book direct",
+    "skill": "dislike reason",
     "printable": true,
     "type": "single",
-    "question": "Which reason supports preferring a book about bees?",
-    "audioPrompt": "Which reason supports preferring a book about bees?",
+    "question": "A story changes location so often that a reader loses track. Which response explains a dislike usefully?",
+    "audioPrompt": "A story changes location so often that a reader loses track. Which response explains a dislike usefully?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +264,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Its labelled diagram helped me understand how bees carry pollen.",
-      "Its yellow cover matched the bee's stripes.",
-      "Its made-up bee adventure had a surprising ending."
+      "The author is a bad person.",
+      "Everyone must dislike this book.",
+      "I found the quick changes confusing because I could not tell where the characters were."
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 9,
-    "correct": 0,
-    "explanation": "The labelled diagram is a useful text feature that helps explain the information.\nHint: Look for a feature that helps the reader learn about bees.",
+    "correct": 2,
+    "explanation": "The response explains the effect of a text feature without attacking the author.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The labelled diagram is a useful text feature that helps explain the information.",
-      "hint": "Look for a feature that helps the reader learn about bees."
+      "summary": "The response explains the effect of a text feature without attacking the author.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +283,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-010",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "responding to a lullaby s sound direct",
+    "skill": "evidence choice",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses precise words to appreciate a lullaby?",
-    "audioPrompt": "Which sentence uses precise words to appreciate a lullaby?",
+    "question": "A reader says, 'I liked the surprising ending.' Which ending supports that reason?",
+    "audioPrompt": "A reader says, 'I liked the surprising ending.' Which ending supports that reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +295,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The fast, bouncy beat made the lullaby calm.",
-      "The gentle rhythm made the lullaby feel calm and soothing.",
-      "The repeated word made the lullaby longer to perform."
+      "The missing crown was on the queen's head all along.",
+      "The queen put on the crown exactly as planned.",
+      "The crown was described on the first page."
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 10,
-    "correct": 1,
-    "explanation": "Gentle rhythm and soothing explain both a sound feature and its effect.\nHint: Choose words that name the sound and how it makes the listener feel.",
+    "correct": 0,
+    "explanation": "An unexpected discovery explains the reader's sense of surprise.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Gentle rhythm and soothing explain both a sound feature and its effect.",
-      "hint": "Choose words that name the sound and how it makes the listener feel."
+      "summary": "An unexpected discovery explains the reader's sense of surprise.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +314,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-011",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "giving a reason about a poem explain",
+    "skill": "strength of feeling",
     "printable": true,
     "type": "single",
-    "question": "Which response gives a preference and a reason about the poem? Why is “I enjoyed the poem because its repeated sounds were fun to say.” the best answer?",
-    "audioPrompt": "Which response gives a preference and a reason about the poem? Why is “I enjoyed the poem because its repeated sounds were fun to say.” the best answer?",
+    "question": "Which response expresses stronger enjoyment than 'I liked the story'?",
+    "audioPrompt": "Which response expresses stronger enjoyment than 'I liked the story'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +326,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “I enjoyed the poem more than anything.”.",
-      "It is best because the details in the situation do not matter.",
-      "The response states a preference and links it to the poem's repeated sounds."
+      "I noticed that the story had pages.",
+      "I loved the story and wanted to read it again.",
+      "I did not enjoy the story."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 11,
-    "correct": 2,
-    "explanation": "The response states a preference and links it to the poem's repeated sounds.\nHint: Look for both what the reader liked and why they liked it.",
+    "correct": 1,
+    "explanation": "Loved and wanting to reread express stronger enthusiasm than liked.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response states a preference and links it to the poem's repeated sounds.",
-      "hint": "Look for both what the reader liked and why they liked it."
+      "summary": "Loved and wanting to reread express stronger enthusiasm than liked.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,11 +345,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-012",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "using character evidence explain",
+    "skill": "gentle vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response? Why is “Mina entered the dark cave to rescue her dog.” the best answer?",
-    "audioPrompt": "Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response? Why is “Mina entered the dark cave to rescue her dog.” the best answer?",
+    "question": "Read: 'The moon rocked the sleepy sea.' Which response best explains the gentle language?",
+    "audioPrompt": "Read: 'The moon rocked the sleepy sea.' Which response best explains the gentle language?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -357,18 +357,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Entering the cave to help her dog is evidence of Mina acting bravely.",
-      "It is best only because it is longer than “Mina watched the cave from the safe path.”.",
-      "It is best because the details in the situation do not matter."
+      "I found it noisy because it described a loud crash.",
+      "I found it useful because it listed boat prices.",
+      "I found it soothing because it made me imagine slow, calm movement."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 12,
-    "correct": 0,
-    "explanation": "Entering the cave to help her dog is evidence of Mina acting bravely.\nHint: Choose an action that shows the character quality.",
+    "correct": 2,
+    "explanation": "The rocking image and sleepy sea support a calm response.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Entering the cave to help her dog is evidence of Mina acting bravely.",
-      "hint": "Choose an action that shows the character quality."
+      "summary": "The rocking image and sleepy sea support a calm response.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +376,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-013",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "responding to setting details explain",
+    "skill": "supported humour",
     "printable": true,
     "type": "single",
-    "question": "Which response explains why a reader liked the forest setting? Why is “I liked the mist and twisted trees because they made the forest mysterious.” the best answer?",
-    "audioPrompt": "Which response explains why a reader liked the forest setting? Why is “I liked the mist and twisted trees because they made the forest mysterious.” the best answer?",
+    "question": "Read: 'Dad searched for his glasses. They were sitting on his nose.' Which reason fits finding this funny?",
+    "audioPrompt": "Read: 'Dad searched for his glasses. They were sitting on his nose.' Which reason fits finding this funny?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +388,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “I liked the forest because it was the story's setting.”.",
-      "The response names setting details and explains the feeling they create.",
-      "It is best because the details in the situation do not matter."
+      "He is looking for something already on his face.",
+      "He is wearing a red coat.",
+      "He has broken his glasses."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 13,
-    "correct": 1,
-    "explanation": "The response names setting details and explains the feeling they create.\nHint: Find a reason that points to words describing the setting.",
+    "correct": 0,
+    "explanation": "The humour comes from the difference between what Dad thinks and where the glasses are.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The response names setting details and explains the feeling they create.",
-      "hint": "Find a reason that points to words describing the setting."
+      "summary": "The humour comes from the difference between what Dad thinks and where the glasses are.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +407,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-014",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "explaining an illustration s effect explain",
+    "skill": "improve response",
     "printable": true,
     "type": "single",
-    "question": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported? Why is “The close-up makes the chick's fear easy to notice.” the best answer?",
-    "audioPrompt": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported? Why is “The close-up makes the chick's fear easy to notice.” the best answer?",
+    "question": "A reader says, 'The map was good.' Which addition makes the appreciation more useful?",
+    "audioPrompt": "A reader says, 'The map was good.' Which addition makes the appreciation more useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +419,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “The large picture must be the most important part of the story.”.",
-      "It is best because the details in the situation do not matter.",
-      "The close view helps the reader notice the chick's fearful expression and pose."
+      "It was somewhere inside the book.",
+      "It showed the route so I could follow the explorers.",
+      "Good maps are always good."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 14,
-    "correct": 2,
-    "explanation": "The close view helps the reader notice the chick's fearful expression and pose.\nHint: Connect a visible feature of the picture to the meaning it adds.",
+    "correct": 1,
+    "explanation": "The added reason explains what the map helped the reader do.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The close view helps the reader notice the chick's fearful expression and pose.",
-      "hint": "Connect a visible feature of the picture to the meaning it adds."
+      "summary": "The added reason explains what the map helped the reader do.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -438,11 +438,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-015",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "choosing evidence for humour explain",
+    "skill": "opinion fact",
     "printable": true,
     "type": "single",
-    "question": "Which event best supports a reader saying that a story is funny? Why is “A penguin uses a bathtub as a boat and salutes the taps.” the best answer?",
-    "audioPrompt": "Which event best supports a reader saying that a story is funny? Why is “A penguin uses a bathtub as a boat and salutes the taps.” the best answer?",
+    "question": "Which sentence expresses appreciation rather than only a fact about a book?",
+    "audioPrompt": "Which sentence expresses appreciation rather than only a fact about a book?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +450,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The penguin's unexpected actions create a playful, humorous moment.",
-      "It is best only because it is longer than “A penguin carefully folds its towel before swimming.”.",
-      "It is best because the details in the situation do not matter."
+      "The book has two sisters in it.",
+      "The title contains four words.",
+      "I enjoyed the lively dialogue between the sisters."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 15,
-    "correct": 0,
-    "explanation": "The penguin's unexpected actions create a playful, humorous moment.\nHint: Look for an event meant to make the reader laugh.",
+    "correct": 2,
+    "explanation": "Enjoyed expresses a personal response to a feature of the writing.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The penguin's unexpected actions create a playful, humorous moment.",
-      "hint": "Look for an event meant to make the reader laugh."
+      "summary": "Enjoyed expresses a personal response to a feature of the writing.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +469,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-016",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "matching a reason with evidence explain",
+    "skill": "reason link",
     "printable": true,
     "type": "single",
-    "question": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason? Why is “The fox hid the key in a hollow log before the guard arrived.” the best answer?",
-    "audioPrompt": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason? Why is “The fox hid the key in a hollow log before the guard arrived.” the best answer?",
+    "question": "Complete: 'I preferred the recipe with numbered steps because ___.'",
+    "audioPrompt": "Complete: 'I preferred the recipe with numbered steps because ___.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +481,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “The fox ran quickly along the same path as the guard.”.",
-      "Hiding the key before the guard arrived shows the fox using a clever plan.",
-      "It is best because the details in the situation do not matter."
+      "I could follow the order easily",
+      "its page number was even",
+      "the other recipe also used flour"
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 16,
-    "correct": 1,
-    "explanation": "Hiding the key before the guard arrived shows the fox using a clever plan.\nHint: Choose the detail that proves the reason, not just any fact.",
+    "correct": 0,
+    "explanation": "Numbered steps support an ordered sequence, giving a relevant reason for the preference.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Hiding the key before the guard arrived shows the fox using a clever plan.",
-      "hint": "Choose the detail that proves the reason, not just any fact."
+      "summary": "Numbered steps support an ordered sequence, giving a relevant reason for the preference.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -500,11 +500,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-017",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "accepting different preferences explain",
+    "skill": "compare words",
     "printable": true,
     "type": "single",
-    "question": "Leo likes a story's action. Priya likes its pictures. Which comment is fair? Why is “Both preferences can make sense if each reader gives evidence.” the best answer?",
-    "audioPrompt": "Leo likes a story's action. Priya likes its pictures. Which comment is fair? Why is “Both preferences can make sense if each reader gives evidence.” the best answer?",
+    "question": "A reader felt a little uneasy, not terrified, during a storm scene. Which response matches?",
+    "audioPrompt": "A reader felt a little uneasy, not terrified, during a storm scene. Which response matches?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -512,18 +512,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Leo's preference matters more because written events count more than images.”.",
-      "It is best because the details in the situation do not matter.",
-      "Readers may value different features when they support their responses with the text."
+      "The scene frightened me more than anything ever has.",
+      "The scene made me slightly nervous.",
+      "The scene made me completely relaxed."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 17,
-    "correct": 2,
-    "explanation": "Readers may value different features when they support their responses with the text.\nHint: Personal preferences can differ, but each reason still needs support.",
+    "correct": 1,
+    "explanation": "Slightly nervous matches a mild response rather than extreme fear or calm.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Readers may value different features when they support their responses with the text.",
-      "hint": "Personal preferences can differ, but each reason still needs support."
+      "summary": "Slightly nervous matches a mild response rather than extreme fear or calm.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -531,11 +531,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-018",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "explaining suspense in a mystery explain",
+    "skill": "author choice",
     "printable": true,
     "type": "single",
-    "question": "Which response explains why a reader preferred the mystery story? Why is “I kept wondering who left the muddy prints until the last page.” the best answer?",
-    "audioPrompt": "Which response explains why a reader preferred the mystery story? Why is “I kept wondering who left the muddy prints until the last page.” the best answer?",
+    "question": "Read: 'The old door creaked. Something scratched on the other side.' Which appreciation connects to the author's choices?",
+    "audioPrompt": "Read: 'The old door creaked. Something scratched on the other side.' Which appreciation connects to the author's choices?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -543,18 +543,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Waiting for the answer to the muddy-print clue creates suspense for the reader.",
-      "It is best only because it is longer than “I preferred it because the muddy prints were brown.”.",
-      "It is best because the details in the situation do not matter."
+      "I liked the clear answer because the creature was named.",
+      "I liked the recipe because each step was numbered.",
+      "I liked the suspense because the sounds made me wonder what was there."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 18,
-    "correct": 0,
-    "explanation": "Waiting for the answer to the muddy-print clue creates suspense for the reader.\nHint: Choose a reason connected to how the plot affects the reader.",
+    "correct": 2,
+    "explanation": "Unexplained sounds create curiosity and tension.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Waiting for the answer to the muddy-print clue creates suspense for the reader.",
-      "hint": "Choose a reason connected to how the plot affects the reader."
+      "summary": "Unexplained sounds create curiosity and tension.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -562,11 +562,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-019",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "appreciating an information book explain",
+    "skill": "ending response",
     "printable": true,
     "type": "single",
-    "question": "Which reason supports preferring a book about bees? Why is “Its labelled diagram helped me understand how bees carry pollen.” the best answer?",
-    "audioPrompt": "Which reason supports preferring a book about bees? Why is “Its labelled diagram helped me understand how bees carry pollen.” the best answer?",
+    "question": "Read: 'After weeks of trying, the small bird finally flew.' Which response explains satisfaction with the ending?",
+    "audioPrompt": "Read: 'After weeks of trying, the small bird finally flew.' Which response explains satisfaction with the ending?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -574,18 +574,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Its yellow cover matched the bee's stripes.”.",
-      "The labelled diagram is a useful text feature that helps explain the information.",
-      "It is best because the details in the situation do not matter."
+      "I felt pleased because the bird's effort finally paid off.",
+      "I felt pleased because the story never ended.",
+      "I felt pleased because the bird gave up."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 19,
-    "correct": 1,
-    "explanation": "The labelled diagram is a useful text feature that helps explain the information.\nHint: Look for a feature that helps the reader learn about bees.",
+    "correct": 0,
+    "explanation": "The ending resolves the bird's struggle with success.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "The labelled diagram is a useful text feature that helps explain the information.",
-      "hint": "Look for a feature that helps the reader learn about bees."
+      "summary": "The ending resolves the bird's struggle with success.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -593,11 +593,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-020",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "responding to a lullaby s sound explain",
+    "skill": "support preference",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses precise words to appreciate a lullaby? Why is “The gentle rhythm made the lullaby feel calm and soothing.” the best answer?",
-    "audioPrompt": "Which sentence uses precise words to appreciate a lullaby? Why is “The gentle rhythm made the lullaby feel calm and soothing.” the best answer?",
+    "question": "Which detail would help explain preferring a wildlife book for learning?",
+    "audioPrompt": "Which detail would help explain preferring a wildlife book for learning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -605,18 +605,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “The fast, bouncy beat made the lullaby calm.”.",
-      "It is best because the details in the situation do not matter.",
-      "Gentle rhythm and soothing explain both a sound feature and its effect."
+      "The cover happens to match my shoes.",
+      "Clear captions explain what each animal is doing.",
+      "My friend placed it on the top shelf."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 20,
-    "correct": 2,
-    "explanation": "Gentle rhythm and soothing explain both a sound feature and its effect.\nHint: Choose words that name the sound and how it makes the listener feel.",
+    "correct": 1,
+    "explanation": "Captions contribute to learning about the animals; the other details do not.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "Gentle rhythm and soothing explain both a sound feature and its effect.",
-      "hint": "Choose words that name the sound and how it makes the listener feel."
+      "summary": "Captions contribute to learning about the animals; the other details do not.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -624,11 +624,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-021",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "responding to setting details discriminate",
+    "skill": "respectful recommendation",
     "printable": true,
     "type": "single",
-    "question": "Which response explains why a reader liked the forest setting? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which response explains why a reader liked the forest setting? Which response is the clearest mix-up to avoid?",
+    "question": "Which recommendation gives another reader a useful reason?",
+    "audioPrompt": "Which recommendation gives another reader a useful reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -636,18 +636,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I liked the forest because it was the story's setting.",
-      "I liked the mist and twisted trees because they made the forest mysterious.",
-      "I liked the trees because there were many of them."
+      "Read it because everyone has to like my book.",
+      "Read it because books are made of paper.",
+      "Try this story if you enjoy solving clues before the detective."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 21,
-    "correct": 0,
-    "explanation": "“I liked the forest because it was the story's setting.” is the mix-up to avoid. Find a reason that points to words describing the setting.\nHint: Find a reason that points to words describing the setting.",
+    "correct": 2,
+    "explanation": "The recommendation connects the story's feature to a possible reader interest.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "“I liked the forest because it was the story's setting.” is the mix-up to avoid. Find a reason that points to words describing the setting.",
-      "hint": "Find a reason that points to words describing the setting."
+      "summary": "The recommendation connects the story's feature to a possible reader interest.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,11 +655,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-022",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "explaining an illustration s effect discriminate",
+    "skill": "text specific reason",
     "printable": true,
     "type": "single",
-    "question": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported? Which response is the clearest mix-up to avoid?",
+    "question": "Read: 'The train clattered, rattled and roared into the station.' Which comment appreciates these words?",
+    "audioPrompt": "Read: 'The train clattered, rattled and roared into the station.' Which comment appreciates these words?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -667,18 +667,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The close-up makes the chick's fear easy to notice.",
-      "The large picture must be the most important part of the story.",
-      "The leaf shows that the chick is calm and ready to play."
+      "The noisy verbs helped me hear the train in my mind.",
+      "The words explained the price of a ticket.",
+      "The words made the train seem silent."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 22,
-    "correct": 1,
-    "explanation": "“The large picture must be the most important part of the story.” is the mix-up to avoid. Connect a visible feature of the picture to the meaning it adds.\nHint: Connect a visible feature of the picture to the meaning it adds.",
+    "correct": 0,
+    "explanation": "The sound-rich verbs support an imagined sound experience.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "“The large picture must be the most important part of the story.” is the mix-up to avoid. Connect a visible feature of the picture to the meaning it adds.",
-      "hint": "Connect a visible feature of the picture to the meaning it adds."
+      "summary": "The sound-rich verbs support an imagined sound experience.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -686,11 +686,17 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-023",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "choosing evidence for humour discriminate",
+    "skill": "personal response",
     "printable": true,
-    "type": "single",
-    "question": "Which event best supports a reader saying that a story is funny? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which event best supports a reader saying that a story is funny? Which response is the clearest mix-up to avoid?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: 'I enjoyed it because the beetle acting like a captain was funny.' A reasoned dislike is equally acceptable.",
+    "acceptanceNote": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Read: 'A paper boat sailed down the gutter. A beetle rode on top like a captain.' Say or write whether you enjoyed this tiny story and give a reason linked to its words.",
+    "audioPrompt": "Read: 'A paper boat sailed down the gutter. A beetle rode on top like a captain.' Say or write whether you enjoyed this tiny story and give a reason linked to its words.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -698,18 +704,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A penguin uses a bathtub as a boat and salutes the taps.",
-      "A penguin watches raindrops slide down the window.",
-      "A penguin carefully folds its towel before swimming."
+      "Response not yet reviewed",
+      "Adult review required",
+      "Revise with an adult"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 23,
-    "correct": 2,
-    "explanation": "“A penguin carefully folds its towel before swimming.” is the mix-up to avoid. Look for an event meant to make the reader laugh.\nHint: Look for an event meant to make the reader laugh.",
+    "correct": "Example: 'I enjoyed it because the beetle acting like a captain was funny.' A reasoned dislike is equally acceptable.",
+    "explanation": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "“A penguin carefully folds its towel before swimming.” is the mix-up to avoid. Look for an event meant to make the reader laugh.",
-      "hint": "Look for an event meant to make the reader laugh."
+      "summary": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -717,11 +723,17 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-024",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "matching a reason with evidence discriminate",
+    "skill": "compare response",
     "printable": true,
-    "type": "single",
-    "question": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason? Which response is the clearest mix-up to avoid?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: 'I prefer B because I can picture where the water drips.' A may be preferred for its brevity with a reason.",
+    "acceptanceNote": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Read A: 'The dog is wet.' Read B: 'Water dripped from the dog's whiskers onto my shoes.' Choose the version you prefer and explain why.",
+    "audioPrompt": "Read A: 'The dog is wet.' Read B: 'Water dripped from the dog's whiskers onto my shoes.' Choose the version you prefer and explain why.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -729,514 +741,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The fox ran quickly along the same path as the guard.",
-      "The fox hid the key in a hollow log before the guard arrived.",
-      "The fox slept beside the log until the guard arrived."
+      "Response not yet reviewed",
+      "Revise with an adult",
+      "Adult review required"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 24,
-    "correct": 0,
-    "explanation": "“The fox ran quickly along the same path as the guard.” is the mix-up to avoid. Choose the detail that proves the reason, not just any fact.\nHint: Choose the detail that proves the reason, not just any fact.",
+    "correct": "Example: 'I prefer B because I can picture where the water drips.' A may be preferred for its brevity with a reason.",
+    "explanation": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.\nHint: Connect your response to a particular word, event or feature of the text.",
     "structuredExplanation": {
-      "summary": "“The fox ran quickly along the same path as the guard.” is the mix-up to avoid. Choose the detail that proves the reason, not just any fact.",
-      "hint": "Choose the detail that proves the reason, not just any fact."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-025",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "accepting different preferences discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Leo likes a story's action. Priya likes its pictures. Which comment is fair? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Leo likes a story's action. Priya likes its pictures. Which comment is fair? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Both preferences can make sense if each reader gives evidence.",
-      "Leo's preference matters more because written events count more than images.",
-      "Priya's preference matters more because readers see pictures before words."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 25,
-    "correct": 1,
-    "explanation": "“Leo's preference matters more because written events count more than images.” is the mix-up to avoid. Personal preferences can differ, but each reason still needs support.\nHint: Personal preferences can differ, but each reason still needs support.",
-    "structuredExplanation": {
-      "summary": "“Leo's preference matters more because written events count more than images.” is the mix-up to avoid. Personal preferences can differ, but each reason still needs support.",
-      "hint": "Personal preferences can differ, but each reason still needs support."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-026",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "explaining suspense in a mystery discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which response explains why a reader preferred the mystery story? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which response explains why a reader preferred the mystery story? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I kept wondering who left the muddy prints until the last page.",
-      "I preferred it because the answer was explained on the first page.",
-      "I preferred it because the muddy prints were brown."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 26,
-    "correct": 2,
-    "explanation": "“I preferred it because the muddy prints were brown.” is the mix-up to avoid. Choose a reason connected to how the plot affects the reader.\nHint: Choose a reason connected to how the plot affects the reader.",
-    "structuredExplanation": {
-      "summary": "“I preferred it because the muddy prints were brown.” is the mix-up to avoid. Choose a reason connected to how the plot affects the reader.",
-      "hint": "Choose a reason connected to how the plot affects the reader."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-027",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "appreciating an information book discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which reason supports preferring a book about bees? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which reason supports preferring a book about bees? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Its yellow cover matched the bee's stripes.",
-      "Its labelled diagram helped me understand how bees carry pollen.",
-      "Its made-up bee adventure had a surprising ending."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 27,
-    "correct": 0,
-    "explanation": "“Its yellow cover matched the bee's stripes.” is the mix-up to avoid. Look for a feature that helps the reader learn about bees.\nHint: Look for a feature that helps the reader learn about bees.",
-    "structuredExplanation": {
-      "summary": "“Its yellow cover matched the bee's stripes.” is the mix-up to avoid. Look for a feature that helps the reader learn about bees.",
-      "hint": "Look for a feature that helps the reader learn about bees."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-028",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "responding to a lullaby s sound discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence uses precise words to appreciate a lullaby? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which sentence uses precise words to appreciate a lullaby? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The gentle rhythm made the lullaby feel calm and soothing.",
-      "The fast, bouncy beat made the lullaby calm.",
-      "The repeated word made the lullaby longer to perform."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 28,
-    "correct": 1,
-    "explanation": "“The fast, bouncy beat made the lullaby calm.” is the mix-up to avoid. Choose words that name the sound and how it makes the listener feel.\nHint: Choose words that name the sound and how it makes the listener feel.",
-    "structuredExplanation": {
-      "summary": "“The fast, bouncy beat made the lullaby calm.” is the mix-up to avoid. Choose words that name the sound and how it makes the listener feel.",
-      "hint": "Choose words that name the sound and how it makes the listener feel."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-029",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "responding to a story ending discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which comment explains why an ending was satisfying? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which comment explains why an ending was satisfying? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The lost bird returned, and the earlier feather clues made sense.",
-      "The bird stayed lost, so the earlier feather clues no longer mattered.",
-      "The ending was satisfying because it came after the final event."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 29,
-    "correct": 2,
-    "explanation": "“The ending was satisfying because it came after the final event.” is the mix-up to avoid. Check whether the comment explains what the ending resolves.\nHint: Check whether the comment explains what the ending resolves.",
-    "structuredExplanation": {
-      "summary": "“The ending was satisfying because it came after the final event.” is the mix-up to avoid. Check whether the comment explains what the ending resolves.",
-      "hint": "Check whether the comment explains what the ending resolves."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-030",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "appreciating colour in an image discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "A tiny lantern glows under a dark blue sky. Which response explains the colour choice? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A tiny lantern glows under a dark blue sky. Which response explains the colour choice? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The dark sky hides the lantern, so the colours add no meaning.",
-      "The dark sky makes the warm lantern look hopeful.",
-      "The lantern looks hopeful only because it is smaller than the sky."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 30,
-    "correct": 0,
-    "explanation": "“The dark sky hides the lantern, so the colours add no meaning.” is the mix-up to avoid. Think about how the two colours work together to shape meaning.\nHint: Think about how the two colours work together to shape meaning.",
-    "structuredExplanation": {
-      "summary": "“The dark sky hides the lantern, so the colours add no meaning.” is the mix-up to avoid. Think about how the two colours work together to shape meaning.",
-      "hint": "Think about how the two colours work together to shape meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-031",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "responding to setting details apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Find a reason that points to words describing the setting. Which response explains why a reader liked the forest setting?",
-    "audioPrompt": "Use this clue: Find a reason that points to words describing the setting. Which response explains why a reader liked the forest setting?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I liked the trees because there were many of them.",
-      "I liked the mist and twisted trees because they made the forest mysterious.",
-      "I liked the forest because it was the story's setting."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 31,
-    "correct": 1,
-    "explanation": "The response names setting details and explains the feeling they create.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The response names setting details and explains the feeling they create.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-032",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "explaining an illustration s effect apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Connect a visible feature of the picture to the meaning it adds. A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
-    "audioPrompt": "Use this clue: Connect a visible feature of the picture to the meaning it adds. A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The leaf shows that the chick is calm and ready to play.",
-      "The large picture must be the most important part of the story.",
-      "The close-up makes the chick's fear easy to notice."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 32,
-    "correct": 2,
-    "explanation": "The close view helps the reader notice the chick's fearful expression and pose.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The close view helps the reader notice the chick's fearful expression and pose.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-033",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "choosing evidence for humour apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Look for an event meant to make the reader laugh. Which event best supports a reader saying that a story is funny?",
-    "audioPrompt": "Use this clue: Look for an event meant to make the reader laugh. Which event best supports a reader saying that a story is funny?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A penguin uses a bathtub as a boat and salutes the taps.",
-      "A penguin watches raindrops slide down the window.",
-      "A penguin carefully folds its towel before swimming."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 33,
-    "correct": 0,
-    "explanation": "The penguin's unexpected actions create a playful, humorous moment.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The penguin's unexpected actions create a playful, humorous moment.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-034",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "matching a reason with evidence apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Choose the detail that proves the reason, not just any fact. Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
-    "audioPrompt": "Use this clue: Choose the detail that proves the reason, not just any fact. Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The fox slept beside the log until the guard arrived.",
-      "The fox hid the key in a hollow log before the guard arrived.",
-      "The fox ran quickly along the same path as the guard."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 34,
-    "correct": 1,
-    "explanation": "Hiding the key before the guard arrived shows the fox using a clever plan.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Hiding the key before the guard arrived shows the fox using a clever plan.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-035",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "accepting different preferences apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Personal preferences can differ, but each reason still needs support. Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
-    "audioPrompt": "Use this clue: Personal preferences can differ, but each reason still needs support. Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Priya's preference matters more because readers see pictures before words.",
-      "Leo's preference matters more because written events count more than images.",
-      "Both preferences can make sense if each reader gives evidence."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 35,
-    "correct": 2,
-    "explanation": "Readers may value different features when they support their responses with the text.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Readers may value different features when they support their responses with the text.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-036",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "explaining suspense in a mystery apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Choose a reason connected to how the plot affects the reader. Which response explains why a reader preferred the mystery story?",
-    "audioPrompt": "Use this clue: Choose a reason connected to how the plot affects the reader. Which response explains why a reader preferred the mystery story?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I kept wondering who left the muddy prints until the last page.",
-      "I preferred it because the answer was explained on the first page.",
-      "I preferred it because the muddy prints were brown."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 36,
-    "correct": 0,
-    "explanation": "Waiting for the answer to the muddy-print clue creates suspense for the reader.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Waiting for the answer to the muddy-print clue creates suspense for the reader.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-037",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "appreciating an information book apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Look for a feature that helps the reader learn about bees. Which reason supports preferring a book about bees?",
-    "audioPrompt": "Use this clue: Look for a feature that helps the reader learn about bees. Which reason supports preferring a book about bees?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Its made-up bee adventure had a surprising ending.",
-      "Its labelled diagram helped me understand how bees carry pollen.",
-      "Its yellow cover matched the bee's stripes."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 37,
-    "correct": 1,
-    "explanation": "The labelled diagram is a useful text feature that helps explain the information.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The labelled diagram is a useful text feature that helps explain the information.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-038",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "responding to a lullaby s sound apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Choose words that name the sound and how it makes the listener feel. Which sentence uses precise words to appreciate a lullaby?",
-    "audioPrompt": "Use this clue: Choose words that name the sound and how it makes the listener feel. Which sentence uses precise words to appreciate a lullaby?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The repeated word made the lullaby longer to perform.",
-      "The fast, bouncy beat made the lullaby calm.",
-      "The gentle rhythm made the lullaby feel calm and soothing."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 38,
-    "correct": 2,
-    "explanation": "Gentle rhythm and soothing explain both a sound feature and its effect.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Gentle rhythm and soothing explain both a sound feature and its effect.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-039",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "responding to a story ending apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Check whether the comment explains what the ending resolves. Which comment explains why an ending was satisfying?",
-    "audioPrompt": "Use this clue: Check whether the comment explains what the ending resolves. Which comment explains why an ending was satisfying?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The lost bird returned, and the earlier feather clues made sense.",
-      "The bird stayed lost, so the earlier feather clues no longer mattered.",
-      "The ending was satisfying because it came after the final event."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 39,
-    "correct": 0,
-    "explanation": "The ending solves the problem and connects to clues planted earlier in the story.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The ending solves the problem and connects to clues planted earlier in the story.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la02-p-040",
-    "curriculumCode": "AC9E2LA02",
-    "bank": "practice",
-    "skill": "appreciating colour in an image apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Think about how the two colours work together to shape meaning. A tiny lantern glows under a dark blue sky. Which response explains the colour choice?",
-    "audioPrompt": "Use this clue: Think about how the two colours work together to shape meaning. A tiny lantern glows under a dark blue sky. Which response explains the colour choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The lantern looks hopeful only because it is smaller than the sky.",
-      "The dark sky makes the warm lantern look hopeful.",
-      "The dark sky hides the lantern, so the colours add no meaning."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 40,
-    "correct": 1,
-    "explanation": "The contrast between the dark sky and warm light adds a hopeful mood.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The contrast between the dark sky and warm light adds a hopeful mood.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+      "summary": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "qualitySchema": "production-v1"
   }

@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-001",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "find one cookbook word direct",
+    "skill": "test contents",
     "printable": true,
     "type": "single",
-    "question": "Eli wants every recipe that uses cinnamon. Which book feature will find the specific word fastest?",
-    "audioPrompt": "Eli wants every recipe that uses cinnamon. Which book feature will find the specific word fastest?",
+    "question": "Contents: 'The coast — 4; The desert — 13; The forest — 21'. Where should you turn to begin the desert chapter?",
+    "audioPrompt": "Contents: 'The coast — 4; The desert — 13; The forest — 21'. Where should you turn to begin the desert chapter?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the table of contents",
-      "the index",
-      "the first recipe chapter"
+      "page 13",
+      "page 4",
+      "page 21"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "An index lists specific words alphabetically and gives the pages where they appear.\nHint: For one exact ingredient, use the feature that lists terms and page numbers.",
+    "correct": 0,
+    "explanation": "The desert entry points to its start on page 13.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "An index lists specific words alphabetically and gives the pages where they appear.",
-      "hint": "For one exact ingredient, use the feature that lists terms and page numbers."
+      "summary": "The desert entry points to its start on page 13.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +35,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-002",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "navigate an e book topic direct",
+    "skill": "test index",
     "printable": true,
     "type": "single",
-    "question": "An e-book contents screen lists Earthquakes, Volcanoes and Floods. Which choice should Priya tap to read the whole section about lava?",
-    "audioPrompt": "An e-book contents screen lists Earthquakes, Volcanoes and Floods. Which choice should Priya tap to read the whole section about lava?",
+    "question": "Index: 'comets 8, 19; moons 11; stars 3–6'. Where should you check for comets?",
+    "audioPrompt": "Index: 'comets 8, 19; moons 11; stars 3–6'. Where should you check for comets?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +47,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Earthquakes",
-      "Floods",
-      "Volcanoes"
+      "pages 3 to 6",
+      "pages 8 and 19",
+      "page 11 only"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Lava is part of the broad Volcanoes section shown on the contents screen.\nHint: Choose the section heading that contains the topic, then open it.",
+    "correct": 1,
+    "explanation": "The numbers beside comets identify both listed locations.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Lava is part of the broad Volcanoes section shown on the contents screen.",
-      "hint": "Choose the section heading that contains the topic, then open it."
+      "summary": "The numbers beside comets identify both listed locations.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,11 +66,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-003",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "use a library drop down direct",
+    "skill": "test chapter",
     "printable": true,
     "type": "single",
-    "question": "A library site has a Year Level drop-down with Foundation, Year 1 and Year 2. What should a Year 2 student choose?",
-    "audioPrompt": "A library site has a Year Level drop-down with Foundation, Year 1 and Year 2. What should a Year 2 student choose?",
+    "question": "A story has 'Chapter 5: The Rescue' and 'Chapter 6: The Journey Home'. Which chapter would you choose to reread how someone was saved?",
+    "audioPrompt": "A story has 'Chapter 5: The Rescue' and 'Chapter 6: The Journey Home'. Which chapter would you choose to reread how someone was saved?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -78,18 +78,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Year 2",
-      "Foundation",
-      "Year 1"
+      "Chapter 6",
+      "Neither, because titles cannot help",
+      "Chapter 5"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
-    "correct": 0,
-    "explanation": "Selecting Year 2 filters the screen to resources intended for that year level.\nHint: Choose the menu option that matches the reader named in the task.",
+    "correct": 2,
+    "explanation": "The rescue title points to the saving event.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Selecting Year 2 filters the screen to resources intended for that year level.",
-      "hint": "Choose the menu option that matches the reader named in the task."
+      "summary": "The rescue title points to the saving event.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +97,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-004",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "follow a museum path direct",
+    "skill": "test sidebar",
     "printable": true,
     "type": "single",
-    "question": "A museum page has menu items Dinosaurs, Space and Transport. Ava needs a map of the planets. Which path is most useful?",
-    "audioPrompt": "A museum page has menu items Dinosaurs, Space and Transport. Ava needs a map of the planets. Which path is most useful?",
+    "question": "A school site side-bar lists 'News', 'Calendar' and 'Class work'. Which is the best first choice for dates of upcoming events?",
+    "audioPrompt": "A school site side-bar lists 'News', 'Calendar' and 'Class work'. Which is the best first choice for dates of upcoming events?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +109,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Open Dinosaurs, then choose fossil photos.",
-      "Open Space, then choose the planet map link.",
-      "Open Transport, then choose old bicycles."
+      "Calendar",
+      "Class work",
+      "News only because it comes first"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
-    "correct": 1,
-    "explanation": "The Space section and planet map link form a sensible pathway to the needed map.\nHint: Follow labels in order from the broad section to the specific resource.",
+    "correct": 0,
+    "explanation": "A calendar is organised around dates and scheduled events.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The Space section and planet map link form a sensible pathway to the needed map.",
-      "hint": "Follow labels in order from the broad section to the specific resource."
+      "summary": "A calendar is organised around dates and scheduled events.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,11 +128,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-005",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "find a place in an atlas direct",
+    "skill": "test dropdown",
     "printable": true,
     "type": "single",
-    "question": "Tariq needs the page that names the Murray River. Which print pathway is fastest?",
-    "audioPrompt": "Tariq needs the page that names the Murray River. Which print pathway is fastest?",
+    "question": "A library's 'Borrow' menu opens 'Books', 'Audiobooks' and 'Magazines'. Which option helps you find a story to listen to?",
+    "audioPrompt": "A library's 'Borrow' menu opens 'Books', 'Audiobooks' and 'Magazines'. Which option helps you find a story to listen to?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -140,18 +140,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Open the contents page and read the whole Rivers section.",
-      "Check only the first map in the Water chapter.",
-      "Find Murray River in the index and follow its page number."
+      "Magazines",
+      "Audiobooks",
+      "Books without checking their format"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
-    "correct": 2,
-    "explanation": "The index gives a direct page reference for the specific place name Murray River.\nHint: Use an index when you already know the exact name you need.",
+    "correct": 1,
+    "explanation": "Audiobooks provide recorded reading, matching the listening goal.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The index gives a direct page reference for the specific place name Murray River.",
-      "hint": "Use an index when you already know the exact name you need."
+      "summary": "Audiobooks provide recorded reading, matching the listening goal.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,11 +159,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-006",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "verify an online fact direct",
+    "skill": "test link",
     "printable": true,
     "type": "single",
-    "question": "Leah follows a link to answer “How do tadpoles breathe?” Which new heading shows she reached a useful page?",
-    "audioPrompt": "Leah follows a link to answer “How do tadpoles breathe?” Which new heading shows she reached a useful page?",
+    "question": "You want to hear how a new word sounds. Which link label best matches?",
+    "audioPrompt": "You want to hear how a new word sounds. Which link label best matches?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -171,18 +171,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "How Tadpoles Use Gills",
-      "Ten Funny Frog Photos",
-      "Buy a Garden Pond"
+      "Read our privacy notice",
+      "View the school map",
+      "Listen to the word"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
-    "correct": 0,
-    "explanation": "A heading about tadpoles using gills directly matches the original breathing question.\nHint: Compare the destination heading with the exact question you began with.",
+    "correct": 2,
+    "explanation": "The label explicitly offers the pronunciation or spoken word.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "A heading about tadpoles using gills directly matches the original breathing question.",
-      "hint": "Compare the destination heading with the exact question you began with."
+      "summary": "The label explicitly offers the pronunciation or spoken word.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +190,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-007",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "combine contents and index direct",
+    "skill": "test feature choice",
     "printable": true,
     "type": "single",
-    "question": "A book has a chapter called Night Animals. Kira needs one fact about bats. Which pathway is fastest?",
-    "audioPrompt": "A book has a chapter called Night Animals. Kira needs one fact about bats. Which pathway is fastest?",
+    "question": "You remember a small mention of 'camouflage' but not its chapter. What should you check first if the book has one?",
+    "audioPrompt": "You remember a small mention of 'camouflage' but not its chapter. What should you check first if the book has one?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +202,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Read the whole Night Animals chapter from its first page.",
-      "Look up bats in the index and follow its page number.",
-      "Use the contents page to open Night Animals and scan every heading."
+      "The index entry for camouflage.",
+      "The illustrator's name.",
+      "The back cover colour."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
-    "correct": 1,
-    "explanation": "Because Kira needs one specific topic, the index gives the most direct page location.\nHint: Use contents for a broad section and the index for an exact word.",
+    "correct": 0,
+    "explanation": "An index can locate a specific topic without knowing its chapter.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Because Kira needs one specific topic, the index gives the most direct page location.",
-      "hint": "Use contents for a broad section and the index for an exact word."
+      "summary": "An index can locate a specific topic without knowing its chapter.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +221,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-008",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "recover from a wrong screen direct",
+    "skill": "test overview",
     "printable": true,
     "type": "single",
-    "question": "Ari taps Results to find the soccer timetable, but sees last week's scores. Which next move is best?",
-    "audioPrompt": "Ari taps Results to find the soccer timetable, but sees last week's scores. Which next move is best?",
+    "question": "A reader wants to see which major topics a book covers. What should they scan?",
+    "audioPrompt": "A reader wants to see which major topics a book covers. What should they scan?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +233,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Stay on Results and search the old scores for times.",
-      "Go back and choose the Teams link instead.",
-      "Go back and choose the Timetable link."
+      "A single footnote.",
+      "The table of contents.",
+      "Only the last sentence."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
-    "correct": 2,
-    "explanation": "Going back lets Ari choose the pathway whose label matches the timetable needed.\nHint: If the destination does not answer the question, return to the last useful menu.",
+    "correct": 1,
+    "explanation": "The contents offers an overview of the book's sections.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Going back lets Ari choose the pathway whose label matches the timetable needed.",
-      "hint": "If the destination does not answer the question, return to the last useful menu."
+      "summary": "The contents offers an overview of the book's sections.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +252,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-009",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "find one cookbook word test-reason",
+    "skill": "test range",
     "printable": true,
     "type": "single",
-    "question": "Eli wants every recipe that uses cinnamon. Which book feature will find the specific word fastest? Which reason best supports the correct choice?",
-    "audioPrompt": "Eli wants every recipe that uses cinnamon. Which book feature will find the specific word fastest? Which reason best supports the correct choice?",
+    "question": "Contents: 'Tracks — 6; Nests — 12; Burrows — 20'. Page 17 is most likely in which section?",
+    "audioPrompt": "Contents: 'Tracks — 6; Nests — 12; Burrows — 20'. Page 17 is most likely in which section?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +264,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "An index lists specific words alphabetically and gives the pages where they appear.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Tracks",
+      "Burrows",
+      "Nests"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 9,
-    "correct": 0,
-    "explanation": "An index lists specific words alphabetically and gives the pages where they appear.\nHint: For one exact ingredient, use the feature that lists terms and page numbers.",
+    "correct": 2,
+    "explanation": "The Nests section starts at 12 and continues until the next section at 20.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "An index lists specific words alphabetically and gives the pages where they appear.",
-      "hint": "For one exact ingredient, use the feature that lists terms and page numbers."
+      "summary": "The Nests section starts at 12 and continues until the next section at 20.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +283,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-010",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "navigate an e book topic test-reason",
+    "skill": "test alphabetical",
     "printable": true,
     "type": "single",
-    "question": "An e-book contents screen lists Earthquakes, Volcanoes and Floods. Which choice should Priya tap to read the whole section about lava? Which reason best supports the correct choice?",
-    "audioPrompt": "An e-book contents screen lists Earthquakes, Volcanoes and Floods. Which choice should Priya tap to read the whole section about lava? Which reason best supports the correct choice?",
+    "question": "Where would 'lizards' go in an alphabetical index?",
+    "audioPrompt": "Where would 'lizards' go in an alphabetical index?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +295,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "Lava is part of the broad Volcanoes section shown on the contents screen.",
-      "The correct choice works even if the situation and audience are ignored."
+      "After 'leaves' and before 'logs'.",
+      "After 'zebras'.",
+      "Before 'ants'."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 10,
-    "correct": 1,
-    "explanation": "Lava is part of the broad Volcanoes section shown on the contents screen.\nHint: Choose the section heading that contains the topic, then open it.",
+    "correct": 0,
+    "explanation": "Within the l entries, le comes before li, and li before lo.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Lava is part of the broad Volcanoes section shown on the contents screen.",
-      "hint": "Choose the section heading that contains the topic, then open it."
+      "summary": "Within the l entries, le comes before li, and li before lo.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +314,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-011",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "use a library drop down test-reason",
+    "skill": "test nested menu",
     "printable": true,
     "type": "single",
-    "question": "A library site has a Year Level drop-down with Foundation, Year 1 and Year 2. What should a Year 2 student choose? Which reason best supports the correct choice?",
-    "audioPrompt": "A library site has a Year Level drop-down with Foundation, Year 1 and Year 2. What should a Year 2 student choose? Which reason best supports the correct choice?",
+    "question": "On a nature site choose 'Explore', then a menu offers 'Ocean' and 'Bushland'. Where would you go for rock-pool animals?",
+    "audioPrompt": "On a nature site choose 'Explore', then a menu offers 'Ocean' and 'Bushland'. Where would you go for rock-pool animals?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +326,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Selecting Year 2 filters the screen to resources intended for that year level."
+      "Explore, then Bushland.",
+      "Explore, then Ocean.",
+      "Choose the shopping basket."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 11,
-    "correct": 2,
-    "explanation": "Selecting Year 2 filters the screen to resources intended for that year level.\nHint: Choose the menu option that matches the reader named in the task.",
+    "correct": 1,
+    "explanation": "Rock pools are coastal, so the Ocean category is the relevant route.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Selecting Year 2 filters the screen to resources intended for that year level.",
-      "hint": "Choose the menu option that matches the reader named in the task."
+      "summary": "Rock pools are coastal, so the Ocean category is the relevant route.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,11 +345,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-012",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "follow a museum path test-reason",
+    "skill": "test verify",
     "printable": true,
     "type": "single",
-    "question": "A museum page has menu items Dinosaurs, Space and Transport. Ava needs a map of the planets. Which path is most useful? Which reason best supports the correct choice?",
-    "audioPrompt": "A museum page has menu items Dinosaurs, Space and Transport. Ava needs a map of the planets. Which path is most useful? Which reason best supports the correct choice?",
+    "question": "You follow a contents entry to page 25. What should you check to confirm the destination?",
+    "audioPrompt": "You follow a contents entry to page 25. What should you check to confirm the destination?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -357,18 +357,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The Space section and planet map link form a sensible pathway to the needed map.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Whether the page feels thick.",
+      "Whether the page number is your favourite.",
+      "The chapter heading or section title."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 12,
-    "correct": 0,
-    "explanation": "The Space section and planet map link form a sensible pathway to the needed map.\nHint: Follow labels in order from the broad section to the specific resource.",
+    "correct": 2,
+    "explanation": "The heading confirms the page belongs to the intended section.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The Space section and planet map link form a sensible pathway to the needed map.",
-      "hint": "Follow labels in order from the broad section to the specific resource."
+      "summary": "The heading confirms the page belongs to the intended section.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +376,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-013",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "find a place in an atlas test-reason",
+    "skill": "test link prediction",
     "printable": true,
     "type": "single",
-    "question": "Tariq needs the page that names the Murray River. Which print pathway is fastest? Which reason best supports the correct choice?",
-    "audioPrompt": "Tariq needs the page that names the Murray River. Which print pathway is fastest? Which reason best supports the correct choice?",
+    "question": "A link says 'Download the walking map'. What would you expect it to provide?",
+    "audioPrompt": "A link says 'Download the walking map'. What would you expect it to provide?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +388,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The index gives a direct page reference for the specific place name Murray River.",
-      "The correct choice works even if the situation and audience are ignored."
+      "A map file for the walk.",
+      "A new chapter about cooking.",
+      "A change to your device's volume."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 13,
-    "correct": 1,
-    "explanation": "The index gives a direct page reference for the specific place name Murray River.\nHint: Use an index when you already know the exact name you need.",
+    "correct": 0,
+    "explanation": "The link describes both an action, download, and the content, the map.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "The index gives a direct page reference for the specific place name Murray River.",
-      "hint": "Use an index when you already know the exact name you need."
+      "summary": "The link describes both an action, download, and the content, the map.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +407,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-014",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "verify an online fact test-reason",
+    "skill": "test topic match",
     "printable": true,
     "type": "single",
-    "question": "Leah follows a link to answer “How do tadpoles breathe?” Which new heading shows she reached a useful page? Which reason best supports the correct choice?",
-    "audioPrompt": "Leah follows a link to answer “How do tadpoles breathe?” Which new heading shows she reached a useful page? Which reason best supports the correct choice?",
+    "question": "A drop-down under 'Care for your pet' shows 'Food', 'Exercise' and 'Health checks'. Which should you select for advice about daily walks?",
+    "audioPrompt": "A drop-down under 'Care for your pet' shows 'Food', 'Exercise' and 'Health checks'. Which should you select for advice about daily walks?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +419,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "A heading about tadpoles using gills directly matches the original breathing question."
+      "Food",
+      "Exercise",
+      "Health checks as the only possible route"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 14,
-    "correct": 2,
-    "explanation": "A heading about tadpoles using gills directly matches the original breathing question.\nHint: Compare the destination heading with the exact question you began with.",
+    "correct": 1,
+    "explanation": "Walking is an exercise topic, making it the most direct choice.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "A heading about tadpoles using gills directly matches the original breathing question.",
-      "hint": "Compare the destination heading with the exact question you began with."
+      "summary": "Walking is an exercise topic, making it the most direct choice.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -438,11 +438,17 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-015",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "combine contents and index test-reason",
+    "skill": "test print route",
     "printable": true,
-    "type": "single",
-    "question": "A book has a chapter called Night Animals. Kira needs one fact about bats. Which pathway is fastest? Which reason best supports the correct choice?",
-    "audioPrompt": "A book has a chapter called Night Animals. Kira needs one fact about bats. Which pathway is fastest? Which reason best supports the correct choice?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The child uses a topic entry and its page number, then locates relevant information on that page.",
+    "acceptanceNote": "Accept a real book or an adult-prepared numbered paper text with an index. Require demonstrated use, not a memorised definition.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Use a book's index to find a topic and turn to one listed page. Show the adult the information you found and explain how the entry helped.",
+    "audioPrompt": "Use a book's index to find a topic and turn to one listed page. Show the adult the information you found and explain how the entry helped.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +456,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because Kira needs one specific topic, the index gives the most direct page location.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Response not yet reviewed",
+      "Revise with an adult",
+      "Adult review required"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 15,
-    "correct": 0,
-    "explanation": "Because Kira needs one specific topic, the index gives the most direct page location.\nHint: Use contents for a broad section and the index for an exact word.",
+    "correct": "The child uses a topic entry and its page number, then locates relevant information on that page.",
+    "explanation": "Accept a real book or an adult-prepared numbered paper text with an index. Require demonstrated use, not a memorised definition.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Because Kira needs one specific topic, the index gives the most direct page location.",
-      "hint": "Use contents for a broad section and the index for an exact word."
+      "summary": "Accept a real book or an adult-prepared numbered paper text with an index. Require demonstrated use, not a memorised definition.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +475,17 @@ window.skillrTestQuestions = [
     "id": "ac9e2la05-t-016",
     "curriculumCode": "AC9E2LA05",
     "bank": "test",
-    "skill": "recover from a wrong screen test-reason",
+    "skill": "test screen route",
     "printable": true,
-    "type": "single",
-    "question": "Ari taps Results to find the soccer timetable, but sees last week's scores. Which next move is best? Which reason best supports the correct choice?",
-    "audioPrompt": "Ari taps Results to find the soccer timetable, but sees last week's scores. Which next move is best? Which reason best supports the correct choice?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The child predicts the destination from the label, follows the link and checks the resulting title or content.",
+    "acceptanceNote": "Accept successful navigation and checking. Do not require typing credentials, downloading files or visiting unfamiliar sites.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "On an adult-approved website or prepared paper screen, find a menu link leading to a chosen topic. Follow it and explain how you checked the destination.",
+    "audioPrompt": "On an adult-approved website or prepared paper screen, find a menu link leading to a chosen topic. Follow it and explain how you checked the destination.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +493,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "Going back lets Ari choose the pathway whose label matches the timetable needed.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Adult review required",
+      "Response not yet reviewed",
+      "Revise with an adult"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 16,
-    "correct": 1,
-    "explanation": "Going back lets Ari choose the pathway whose label matches the timetable needed.\nHint: If the destination does not answer the question, return to the last useful menu.",
+    "correct": "The child predicts the destination from the label, follows the link and checks the resulting title or content.",
+    "explanation": "Accept successful navigation and checking. Do not require typing credentials, downloading files or visiting unfamiliar sites.\nHint: Match the information you need to the label, topic entry or page reference.",
     "structuredExplanation": {
-      "summary": "Going back lets Ari choose the pathway whose label matches the timetable needed.",
-      "hint": "If the destination does not answer the question, return to the last useful menu."
+      "summary": "Accept successful navigation and checking. Do not require typing credentials, downloading files or visiting unfamiliar sites.",
+      "hint": "Match the information you need to the label, topic entry or page reference."
     },
     "qualitySchema": "production-v1"
   }

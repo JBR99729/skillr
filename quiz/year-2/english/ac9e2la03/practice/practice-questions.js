@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-001",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising a simple narrative direct",
+    "skill": "procedure",
     "printable": true,
     "type": "single",
-    "question": "Which plan best suits a story about Kira finding a tiny door?",
-    "audioPrompt": "Which plan best suits a story about Kira finding a tiny door?",
+    "question": "Read: '1. Fold the paper. 2. Press the crease. 3. Open the paper.' Why are these instructions numbered?",
+    "audioPrompt": "Read: '1. Fold the paper. 2. Press the crease. 3. Open the paper.' Why are these instructions numbered?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Describe Kira and the door but leave the main problem unsolved.",
-      "Show the solution before readers learn what went wrong at the door.",
-      "Introduce Kira, show the door problem, then resolve it."
+      "To show the order of the actions.",
+      "To show which action is funniest.",
+      "To name the people in a story."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "A narrative introduces a situation, develops a problem and shows how it is resolved.\nHint: Look for a plan that organises characters and events into a story.",
+    "correct": 0,
+    "explanation": "Numbering guides the reader through a procedure in sequence.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "A narrative introduces a situation, develops a problem and shows how it is resolved.",
-      "hint": "Look for a plan that organises characters and events into a story."
+      "summary": "Numbering guides the reader through a procedure in sequence.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +35,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-002",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising paper plane instructions direct",
+    "skill": "report",
     "printable": true,
     "type": "single",
-    "question": "Which layout would best help a reader make a paper plane?",
-    "audioPrompt": "Which layout would best help a reader make a paper plane?",
+    "question": "A page about frogs has sections called 'Body', 'Food' and 'Habitat'. How is it organised?",
+    "audioPrompt": "A page about frogs has sections called 'Body', 'Food' and 'Habitat'. How is it organised?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +47,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A materials list followed by numbered folding steps.",
-      "Number the folding actions but place them in reverse order.",
-      "Show the finished plane without listing materials or steps."
+      "Events are told in the order they happened.",
+      "Facts are grouped by topic.",
+      "A problem is followed by a story ending."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "A procedure lists what is needed and puts the actions in a usable order.\nHint: The reader needs to know what to use and what to do first, next and last.",
+    "correct": 1,
+    "explanation": "Each heading gathers information about one aspect of frogs.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "A procedure lists what is needed and puts the actions in a usable order.",
-      "hint": "The reader needs to know what to use and what to do first, next and last."
+      "summary": "Each heading gathers information about one aspect of frogs.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,11 +66,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-003",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "grouping facts in a frog report direct",
+    "skill": "narrative",
     "printable": true,
     "type": "single",
-    "question": "Which features best organise an information report about frogs?",
-    "audioPrompt": "Which features best organise an information report about frogs?",
+    "question": "Read: 'One morning, a rabbit found a locked box. He searched for a key.' What makes this a story opening?",
+    "audioPrompt": "Read: 'One morning, a rabbit found a locked box. He searched for a key.' What makes this a story opening?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -78,18 +78,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Put every frog fact in one long paragraph without headings.",
-      "Headings for habitat and food with facts and labelled diagrams.",
-      "Give an opinion about the best frog but leave out factual evidence."
+      "It lists materials for making a box.",
+      "It gives facts under science headings.",
+      "It introduces a character and a problem."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 3,
-    "correct": 1,
-    "explanation": "Headings and diagrams group related facts so readers can find and understand them.\nHint: Choose features that organise factual information by subtopic.",
+    "correct": 2,
+    "explanation": "The rabbit and locked box set up characters and events for a narrative.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "Headings and diagrams group related facts so readers can find and understand them.",
-      "hint": "Choose features that organise factual information by subtopic."
+      "summary": "The rabbit and locked box set up characters and events for a narrative.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +97,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-004",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "sequencing an excursion recount direct",
+    "skill": "persuasion",
     "printable": true,
     "type": "single",
-    "question": "Which opening best begins a recount of yesterday's zoo trip?",
-    "audioPrompt": "Which opening best begins a recount of yesterday's zoo trip?",
+    "question": "Read: 'Our playground needs more shade. Trees would keep us cool. Please help us plant some.' How does the text support its request?",
+    "audioPrompt": "Read: 'Our playground needs more shade. Trees would keep us cool. Please help us plant some.' How does the text support its request?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +109,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List zoo facts under headings without telling what the class did.",
-      "Give visitors commands instead of retelling what happened yesterday.",
-      "Yesterday, we arrived at the zoo and met our guide."
+      "It gives a reason before asking people to help.",
+      "It lists the parts of a tree.",
+      "It tells a pretend adventure."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 4,
-    "correct": 2,
-    "explanation": "The sentence uses past tense and begins the real events in time order.\nHint: A recount tells what happened, usually from earlier to later.",
+    "correct": 0,
+    "explanation": "The reason explains why the writer wants the reader to act.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The sentence uses past tense and begins the real events in time order.",
-      "hint": "A recount tells what happened, usually from earlier to later."
+      "summary": "The reason explains why the writer wants the reader to act.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,11 +128,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-005",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "ordering procedure steps direct",
+    "skill": "recount",
     "printable": true,
     "type": "single",
-    "question": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’?",
-    "audioPrompt": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’?",
+    "question": "Read: 'On Monday we visited the farm. Next we fed the hens. Finally we went home.' What helps organise this recount?",
+    "audioPrompt": "Read: 'On Monday we visited the farm. Next we fed the hens. Finally we went home.' What helps organise this recount?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -140,18 +140,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Place the seed in a small hole and cover it with soil.",
-      "Move the planted pot onto a sunny shelf.",
-      "Measure the shoot after it begins to grow."
+      "Headings sort animals by size.",
+      "Time words put past events in order.",
+      "Rhyming words tell us what to sing."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 5,
-    "correct": 0,
-    "explanation": "The seed must be placed and covered before the planted soil is watered.\nHint: Think about which action must happen first for the next step to work.",
+    "correct": 1,
+    "explanation": "Next and finally signal the sequence of events that already happened.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The seed must be placed and covered before the planted soil is watered.",
-      "hint": "Think about which action must happen first for the next step to work."
+      "summary": "Next and finally signal the sequence of events that already happened.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,11 +159,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-006",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "using headings to locate facts direct",
+    "skill": "recipe features",
     "printable": true,
     "type": "single",
-    "question": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go?",
-    "audioPrompt": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go?",
+    "question": "Which opening best suits a recipe?",
+    "audioPrompt": "Which opening best suits a recipe?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -171,18 +171,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Under ‘Body’.",
-      "Under ‘Habitat’.",
-      "Under ‘Food’."
+      "Once upon a time, a bowl ran away.",
+      "I believe bowls should be blue.",
+      "You will need: oats, milk and a bowl."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 6,
-    "correct": 1,
-    "explanation": "A burrow is where a wombat lives, so the fact belongs with habitat information.\nHint: Match the fact to the heading that names its subtopic.",
+    "correct": 2,
+    "explanation": "A recipe commonly starts with what is needed before the method.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "A burrow is where a wombat lives, so the fact belongs with habitat information.",
-      "hint": "Match the fact to the heading that names its subtopic."
+      "summary": "A recipe commonly starts with what is needed before the method.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +190,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-007",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising one topic for two purposes direct",
+    "skill": "comparison",
     "printable": true,
     "type": "single",
-    "question": "A story and a report are both about sharks. Why should their structures differ?",
-    "audioPrompt": "A story and a report are both about sharks. Why should their structures differ?",
+    "question": "Read: 'Both buses and trains carry passengers. Trains use tracks, but buses use roads.' Which words signal a difference?",
+    "audioPrompt": "Read: 'Both buses and trains carry passengers. Trains use tracks, but buses use roads.' Which words signal a difference?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +202,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The shared shark topic means both texts should use the same structure.",
-      "The story should group facts, while the report should build a fictional problem.",
-      "The story entertains with events; the report informs with grouped facts."
+      "but buses use roads",
+      "Both buses and trains",
+      "carry passengers"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 7,
-    "correct": 2,
-    "explanation": "Texts on the same topic are organised differently when they have different purposes.\nHint: Compare the job of each text, not just its topic.",
+    "correct": 0,
+    "explanation": "But introduces the contrasting feature of buses.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "Texts on the same topic are organised differently when they have different purposes.",
-      "hint": "Compare the job of each text, not just its topic."
+      "summary": "But introduces the contrasting feature of buses.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +221,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-008",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising a persuasive water poster direct",
+    "skill": "shared feature",
     "printable": true,
     "type": "single",
-    "question": "Which plan best suits a poster asking families to save water?",
-    "audioPrompt": "Which plan best suits a poster asking families to save water?",
+    "question": "Read: 'A snail has a shell. A slug does not. Both have soft bodies.' Which information belongs under 'Both'?",
+    "audioPrompt": "Read: 'A snail has a shell. A slug does not. Both have soft bodies.' Which information belongs under 'Both'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +233,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "State the request, give reasons, then add a clear call to act.",
-      "State that saving water matters but give no supporting reasons.",
-      "List facts about water but make no request or call to act."
+      "a shell",
+      "soft bodies",
+      "no shell"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 8,
-    "correct": 0,
-    "explanation": "A persuasive poster presents a position, supports it and encourages action.\nHint: Choose a structure that helps convince the audience to do something.",
+    "correct": 1,
+    "explanation": "Both explicitly marks the shared feature.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "A persuasive poster presents a position, supports it and encourages action.",
-      "hint": "Choose a structure that helps convince the audience to do something."
+      "summary": "Both explicitly marks the shared feature.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +252,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-009",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "recording science investigation results direct",
+    "skill": "purpose language",
     "printable": true,
     "type": "single",
-    "question": "A class tested which paper towel held more water. What belongs in the results section?",
-    "audioPrompt": "A class tested which paper towel held more water. What belongs in the results section?",
+    "question": "Which sentence belongs in directions for planting a seed?",
+    "audioPrompt": "Which sentence belongs in directions for planting a seed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +264,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The prediction written before the towels were tested.",
-      "A table showing how many drops each towel held.",
-      "The list of equipment used to complete the test."
+      "The seed dreamed of being a giant.",
+      "I think this is the prettiest seed.",
+      "Make a small hole in the soil."
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 9,
-    "correct": 1,
-    "explanation": "The results section records the observations or measurements from the investigation.\nHint: Look for evidence collected during the test.",
+    "correct": 2,
+    "explanation": "The action verb make tells the reader what to do.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The results section records the observations or measurements from the investigation.",
-      "hint": "Look for evidence collected during the test."
+      "summary": "The action verb make tells the reader what to do.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +283,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-010",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising a friendly email direct",
+    "skill": "report language",
     "printable": true,
     "type": "single",
-    "question": "Which order best suits an email to a cousin about a school concert?",
-    "audioPrompt": "Which order best suits an email to a cousin about a school concert?",
+    "question": "Which sentence suits a factual report about penguins?",
+    "audioPrompt": "Which sentence suits a factual report about penguins?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +295,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Write the message without a greeting, closing or sender's name.",
-      "Give concert instructions instead of sharing the news with the cousin.",
-      "Greeting, clear message, friendly closing and name."
+      "Penguins have feathers and wings.",
+      "Please buy my penguin badge today!",
+      "The penguin invited the moon to tea."
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 10,
-    "correct": 2,
-    "explanation": "A friendly email greets the reader, shares its message and ends appropriately.\nHint: Think about what helps the named reader follow a personal message.",
+    "correct": 0,
+    "explanation": "The sentence supplies factual information rather than persuasion or fantasy.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "A friendly email greets the reader, shares its message and ends appropriately.",
-      "hint": "Think about what helps the named reader follow a personal message."
+      "summary": "The sentence supplies factual information rather than persuasion or fantasy.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +314,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-011",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising a simple narrative explain",
+    "skill": "headings",
     "printable": true,
     "type": "single",
-    "question": "Which plan best suits a story about Kira finding a tiny door? Why is “Introduce Kira, show the door problem, then resolve it.” the best answer?",
-    "audioPrompt": "Which plan best suits a story about Kira finding a tiny door? Why is “Introduce Kira, show the door problem, then resolve it.” the best answer?",
+    "question": "A text explains how to care for a pet fish. Where should 'Give a small amount of food each day' go?",
+    "audioPrompt": "A text explains how to care for a pet fish. Where should 'Give a small amount of food each day' go?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +326,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A narrative introduces a situation, develops a problem and shows how it is resolved.",
-      "It is best only because it is longer than “Describe Kira and the door but leave the main problem unsolved.”.",
-      "It is best because the details in the situation do not matter."
+      "Tank cleaning",
+      "Feeding",
+      "Buying equipment"
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 11,
-    "correct": 0,
-    "explanation": "A narrative introduces a situation, develops a problem and shows how it is resolved.\nHint: Look for a plan that organises characters and events into a story.",
+    "correct": 1,
+    "explanation": "The information concerns food, so the feeding heading groups it logically.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "A narrative introduces a situation, develops a problem and shows how it is resolved.",
-      "hint": "Look for a plan that organises characters and events into a story."
+      "summary": "The information concerns food, so the feeding heading groups it logically.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,11 +345,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-012",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising paper plane instructions explain",
+    "skill": "same topic",
     "printable": true,
     "type": "single",
-    "question": "Which layout would best help a reader make a paper plane? Why is “A materials list followed by numbered folding steps.” the best answer?",
-    "audioPrompt": "Which layout would best help a reader make a paper plane? Why is “A materials list followed by numbered folding steps.” the best answer?",
+    "question": "Text A gives numbered steps for making a kite. Text B tells how a kite escaped from a child. How do their structures differ?",
+    "audioPrompt": "Text A gives numbered steps for making a kite. Text B tells how a kite escaped from a child. How do their structures differ?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -357,18 +357,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Number the folding actions but place them in reverse order.”.",
-      "A procedure lists what is needed and puts the actions in a usable order.",
-      "It is best because the details in the situation do not matter."
+      "A tells a story; B lists instructions.",
+      "Both must be shopping lists.",
+      "A orders instructions; B follows story events."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 12,
-    "correct": 1,
-    "explanation": "A procedure lists what is needed and puts the actions in a usable order.\nHint: The reader needs to know what to use and what to do first, next and last.",
+    "correct": 2,
+    "explanation": "The purpose of making something differs from narrating an event.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "A procedure lists what is needed and puts the actions in a usable order.",
-      "hint": "The reader needs to know what to use and what to do first, next and last."
+      "summary": "The purpose of making something differs from narrating an event.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +376,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-013",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "grouping facts in a frog report explain",
+    "skill": "invitation",
     "printable": true,
     "type": "single",
-    "question": "Which features best organise an information report about frogs? Why is “Headings for habitat and food with facts and labelled diagrams.” the best answer?",
-    "audioPrompt": "Which features best organise an information report about frogs? Why is “Headings for habitat and food with facts and labelled diagrams.” the best answer?",
+    "question": "An invitation says 'Art show, Friday, 3 pm, school hall'. Why are these details grouped together?",
+    "audioPrompt": "An invitation says 'Art show, Friday, 3 pm, school hall'. Why are these details grouped together?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +388,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Put every frog fact in one long paragraph without headings.”.",
-      "It is best because the details in the situation do not matter.",
-      "Headings and diagrams group related facts so readers can find and understand them."
+      "They tell guests what, when and where.",
+      "They explain how paint is made.",
+      "They describe the ending of a story."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 13,
-    "correct": 2,
-    "explanation": "Headings and diagrams group related facts so readers can find and understand them.\nHint: Choose features that organise factual information by subtopic.",
+    "correct": 0,
+    "explanation": "An invitation makes event information easy for guests to find.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "Headings and diagrams group related facts so readers can find and understand them.",
-      "hint": "Choose features that organise factual information by subtopic."
+      "summary": "An invitation makes event information easy for guests to find.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +407,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-014",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "sequencing an excursion recount explain",
+    "skill": "poem lines",
     "printable": true,
     "type": "single",
-    "question": "Which opening best begins a recount of yesterday's zoo trip? Why is “Yesterday, we arrived at the zoo and met our guide.” the best answer?",
-    "audioPrompt": "Which opening best begins a recount of yesterday's zoo trip? Why is “Yesterday, we arrived at the zoo and met our guide.” the best answer?",
+    "question": "A poem places short lines under one another and repeats a line after each verse. What can this arrangement help a reader notice?",
+    "audioPrompt": "A poem places short lines under one another and repeats a line after each verse. What can this arrangement help a reader notice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +419,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sentence uses past tense and begins the real events in time order.",
-      "It is best only because it is longer than “List zoo facts under headings without telling what the class did.”.",
-      "It is best because the details in the situation do not matter."
+      "The price of each word.",
+      "The pattern and repeated rhythm.",
+      "The dates when events happened."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 14,
-    "correct": 0,
-    "explanation": "The sentence uses past tense and begins the real events in time order.\nHint: A recount tells what happened, usually from earlier to later.",
+    "correct": 1,
+    "explanation": "Line breaks and repeated lines can shape the pattern of a poem.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The sentence uses past tense and begins the real events in time order.",
-      "hint": "A recount tells what happened, usually from earlier to later."
+      "summary": "Line breaks and repeated lines can shape the pattern of a poem.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -438,11 +438,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-015",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "ordering procedure steps explain",
+    "skill": "science sequence",
     "printable": true,
     "type": "single",
-    "question": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’? Why is “Place the seed in a small hole and cover it with soil.” the best answer?",
-    "audioPrompt": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’? Why is “Place the seed in a small hole and cover it with soil.” the best answer?",
+    "question": "A science text has headings 'Question', 'What we did' and 'What we noticed'. What is its main organising job?",
+    "audioPrompt": "A science text has headings 'Question', 'What we did' and 'What we noticed'. What is its main organising job?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +450,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Move the planted pot onto a sunny shelf.”.",
-      "The seed must be placed and covered before the planted soil is watered.",
-      "It is best because the details in the situation do not matter."
+      "To rank the funniest characters.",
+      "To list books alphabetically.",
+      "To separate the investigation's parts."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 15,
-    "correct": 1,
-    "explanation": "The seed must be placed and covered before the planted soil is watered.\nHint: Think about which action must happen first for the next step to work.",
+    "correct": 2,
+    "explanation": "The headings distinguish the enquiry, method and observations.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The seed must be placed and covered before the planted soil is watered.",
-      "hint": "Think about which action must happen first for the next step to work."
+      "summary": "The headings distinguish the enquiry, method and observations.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +469,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-016",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "using headings to locate facts explain",
+    "skill": "maths explanation",
     "printable": true,
     "type": "single",
-    "question": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go? Why is “Under ‘Habitat’.” the best answer?",
-    "audioPrompt": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go? Why is “Under ‘Habitat’.” the best answer?",
+    "question": "Read: 'I made ten first. Then I added the remaining two. The total was twelve.' Why does this maths explanation use 'first' and 'then'?",
+    "audioPrompt": "Read: 'I made ten first. Then I added the remaining two. The total was twelve.' Why does this maths explanation use 'first' and 'then'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +481,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Under ‘Body’.”.",
-      "It is best because the details in the situation do not matter.",
-      "A burrow is where a wombat lives, so the fact belongs with habitat information."
+      "To show the order of the thinking.",
+      "To describe where the numbers live.",
+      "To persuade someone to buy counters."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 16,
-    "correct": 2,
-    "explanation": "A burrow is where a wombat lives, so the fact belongs with habitat information.\nHint: Match the fact to the heading that names its subtopic.",
+    "correct": 0,
+    "explanation": "Sequence words help the reader follow the method.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "A burrow is where a wombat lives, so the fact belongs with habitat information.",
-      "hint": "Match the fact to the heading that names its subtopic."
+      "summary": "Sequence words help the reader follow the method.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -500,11 +500,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-017",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising one topic for two purposes explain",
+    "skill": "persuasive reason",
     "printable": true,
     "type": "single",
-    "question": "A story and a report are both about sharks. Why should their structures differ? Why is “The story entertains with events; the report informs with grouped facts.” the best answer?",
-    "audioPrompt": "A story and a report are both about sharks. Why should their structures differ? Why is “The story entertains with events; the report informs with grouped facts.” the best answer?",
+    "question": "A poster says, 'Walk to school when you can.' Which addition gives a reason supporting its purpose?",
+    "audioPrompt": "A poster says, 'Walk to school when you can.' Which addition gives a reason supporting its purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -512,18 +512,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Texts on the same topic are organised differently when they have different purposes.",
-      "It is best only because it is longer than “The shared shark topic means both texts should use the same structure.”.",
-      "It is best because the details in the situation do not matter."
+      "Our school has a long name.",
+      "Walking gives us exercise.",
+      "Yesterday I found a pebble."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 17,
-    "correct": 0,
-    "explanation": "Texts on the same topic are organised differently when they have different purposes.\nHint: Compare the job of each text, not just its topic.",
+    "correct": 1,
+    "explanation": "The reason explains a benefit of the requested action.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "Texts on the same topic are organised differently when they have different purposes.",
-      "hint": "Compare the job of each text, not just its topic."
+      "summary": "The reason explains a benefit of the requested action.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -531,11 +531,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-018",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising a persuasive water poster explain",
+    "skill": "story resolution",
     "printable": true,
     "type": "single",
-    "question": "Which plan best suits a poster asking families to save water? Why is “State the request, give reasons, then add a clear call to act.” the best answer?",
-    "audioPrompt": "Which plan best suits a poster asking families to save water? Why is “State the request, give reasons, then add a clear call to act.” the best answer?",
+    "question": "A story begins with a lost puppy. Which event would resolve that problem?",
+    "audioPrompt": "A story begins with a lost puppy. Which event would resolve that problem?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -543,18 +543,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “State that saving water matters but give no supporting reasons.”.",
-      "A persuasive poster presents a position, supports it and encourages action.",
-      "It is best because the details in the situation do not matter."
+      "A second puppy appears on another street.",
+      "The weather becomes cloudy.",
+      "The puppy's owner finds it and takes it home."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 18,
-    "correct": 1,
-    "explanation": "A persuasive poster presents a position, supports it and encourages action.\nHint: Choose a structure that helps convince the audience to do something.",
+    "correct": 2,
+    "explanation": "A resolution addresses the central problem introduced in the story.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "A persuasive poster presents a position, supports it and encourages action.",
-      "hint": "Choose a structure that helps convince the audience to do something."
+      "summary": "A resolution addresses the central problem introduced in the story.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -562,11 +562,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-019",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "recording science investigation results explain",
+    "skill": "instructions repair",
     "printable": true,
     "type": "single",
-    "question": "A class tested which paper towel held more water. What belongs in the results section? Why is “A table showing how many drops each towel held.” the best answer?",
-    "audioPrompt": "A class tested which paper towel held more water. What belongs in the results section? Why is “A table showing how many drops each towel held.” the best answer?",
+    "question": "Instructions say, 'Put the lid on. Fill the bottle.' What change helps their purpose?",
+    "audioPrompt": "Instructions say, 'Put the lid on. Fill the bottle.' What change helps their purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -574,18 +574,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “The prediction written before the towels were tested.”.",
-      "It is best because the details in the situation do not matter.",
-      "The results section records the observations or measurements from the investigation."
+      "Put filling before closing the lid.",
+      "Replace every verb with a colour.",
+      "Remove both actions."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 19,
-    "correct": 2,
-    "explanation": "The results section records the observations or measurements from the investigation.\nHint: Look for evidence collected during the test.",
+    "correct": 0,
+    "explanation": "The order must let the reader complete the task successfully.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "The results section records the observations or measurements from the investigation.",
-      "hint": "Look for evidence collected during the test."
+      "summary": "The order must let the reader complete the task successfully.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -593,11 +593,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-020",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising a friendly email explain",
+    "skill": "letter organisation",
     "printable": true,
     "type": "single",
-    "question": "Which order best suits an email to a cousin about a school concert? Why is “Greeting, clear message, friendly closing and name.” the best answer?",
-    "audioPrompt": "Which order best suits an email to a cousin about a school concert? Why is “Greeting, clear message, friendly closing and name.” the best answer?",
+    "question": "A letter begins 'Dear Uncle' and ends 'Love from Kim'. What do these parts do?",
+    "audioPrompt": "A letter begins 'Dear Uncle' and ends 'Love from Kim'. What do these parts do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -605,18 +605,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A friendly email greets the reader, shares its message and ends appropriately.",
-      "It is best only because it is longer than “Write the message without a greeting, closing or sender's name.”.",
-      "It is best because the details in the situation do not matter."
+      "List materials and tools.",
+      "Identify who is addressed and who is writing.",
+      "Show two chapter titles."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 20,
-    "correct": 0,
-    "explanation": "A friendly email greets the reader, shares its message and ends appropriately.\nHint: Think about what helps the named reader follow a personal message.",
+    "correct": 1,
+    "explanation": "A greeting and closing frame a personal message between people.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "A friendly email greets the reader, shares its message and ends appropriately.",
-      "hint": "Think about what helps the named reader follow a personal message."
+      "summary": "A greeting and closing frame a personal message between people.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -624,11 +624,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-021",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "grouping facts in a frog report discriminate",
+    "skill": "compare formats",
     "printable": true,
     "type": "single",
-    "question": "Which features best organise an information report about frogs? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which features best organise an information report about frogs? Which response is the clearest mix-up to avoid?",
+    "question": "A timetable puts activities beside times. A recount describes a finished excursion in sentences. Why are they arranged differently?",
+    "audioPrompt": "A timetable puts activities beside times. A recount describes a finished excursion in sentences. Why are they arranged differently?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -636,18 +636,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Headings for habitat and food with facts and labelled diagrams.",
-      "Put every frog fact in one long paragraph without headings.",
-      "Give an opinion about the best frog but leave out factual evidence."
+      "Every text must use a different font.",
+      "Timetables cannot contain words.",
+      "One helps plan when; the other tells what happened."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 21,
-    "correct": 1,
-    "explanation": "“Put every frog fact in one long paragraph without headings.” is the mix-up to avoid. Choose features that organise factual information by subtopic.\nHint: Choose features that organise factual information by subtopic.",
+    "correct": 2,
+    "explanation": "Organisation follows what the reader needs the text to do.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "“Put every frog fact in one long paragraph without headings.” is the mix-up to avoid. Choose features that organise factual information by subtopic.",
-      "hint": "Choose features that organise factual information by subtopic."
+      "summary": "Organisation follows what the reader needs the text to do.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,11 +655,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-022",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "sequencing an excursion recount discriminate",
+    "skill": "choose structure",
     "printable": true,
     "type": "single",
-    "question": "Which opening best begins a recount of yesterday's zoo trip? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which opening best begins a recount of yesterday's zoo trip? Which response is the clearest mix-up to avoid?",
+    "question": "You want classmates to learn how to play a new game. Which plan best suits that purpose?",
+    "audioPrompt": "You want classmates to learn how to play a new game. Which plan best suits that purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -667,18 +667,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Yesterday, we arrived at the zoo and met our guide.",
-      "Give visitors commands instead of retelling what happened yesterday.",
-      "List zoo facts under headings without telling what the class did."
+      "Equipment, aim, then ordered rules.",
+      "Characters, a mystery, then a surprise ending.",
+      "Opinion, unrelated joke, then a list of colours."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 22,
-    "correct": 2,
-    "explanation": "“List zoo facts under headings without telling what the class did.” is the mix-up to avoid. A recount tells what happened, usually from earlier to later.\nHint: A recount tells what happened, usually from earlier to later.",
+    "correct": 0,
+    "explanation": "A game explanation needs materials, purpose and steps or rules.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "“List zoo facts under headings without telling what the class did.” is the mix-up to avoid. A recount tells what happened, usually from earlier to later.",
-      "hint": "A recount tells what happened, usually from earlier to later."
+      "summary": "A game explanation needs materials, purpose and steps or rules.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -686,11 +686,17 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-023",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "ordering procedure steps discriminate",
+    "skill": "structure apply",
     "printable": true,
-    "type": "single",
-    "question": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’? Which response is the clearest mix-up to avoid?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: 'Packing my bag': check the timetable, then put in the books needed.",
+    "acceptanceNote": "Accept a relevant heading and sensible ordered actions; the child should explain that the sequence helps someone do the task.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Choose a simple classroom task. Tell an adult how you would organise written instructions for it. Give a heading and at least two steps.",
+    "audioPrompt": "Choose a simple classroom task. Tell an adult how you would organise written instructions for it. Give a heading and at least two steps.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -698,18 +704,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Move the planted pot onto a sunny shelf.",
-      "Place the seed in a small hole and cover it with soil.",
-      "Measure the shoot after it begins to grow."
+      "Response not yet reviewed",
+      "Adult review required",
+      "Revise with an adult"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 23,
-    "correct": 0,
-    "explanation": "“Move the planted pot onto a sunny shelf.” is the mix-up to avoid. Think about which action must happen first for the next step to work.\nHint: Think about which action must happen first for the next step to work.",
+    "correct": "Example: 'Packing my bag': check the timetable, then put in the books needed.",
+    "explanation": "Accept a relevant heading and sensible ordered actions; the child should explain that the sequence helps someone do the task.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "“Move the planted pot onto a sunny shelf.” is the mix-up to avoid. Think about which action must happen first for the next step to work.",
-      "hint": "Think about which action must happen first for the next step to work."
+      "summary": "Accept a relevant heading and sensible ordered actions; the child should explain that the sequence helps someone do the task.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -717,11 +723,17 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-024",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "using headings to locate facts discriminate",
+    "skill": "compare apply",
     "printable": true,
-    "type": "single",
-    "question": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go? Which response is the clearest mix-up to avoid?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: a story introduces a character and follows events; a recipe lists ingredients and uses action instructions.",
+    "acceptanceNote": "Accept two accurate differences linked to the texts' purposes, not only cover colour or length.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Compare a storybook with a recipe you have, or use these descriptions: a story follows a lost cat; a recipe lists ingredients and steps. Explain two differences in organisation or language.",
+    "audioPrompt": "Compare a storybook with a recipe you have, or use these descriptions: a story follows a lost cat; a recipe lists ingredients and steps. Explain two differences in organisation or language.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -729,514 +741,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Under ‘Habitat’.",
-      "Under ‘Body’.",
-      "Under ‘Food’."
+      "Response not yet reviewed",
+      "Revise with an adult",
+      "Adult review required"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 24,
-    "correct": 1,
-    "explanation": "“Under ‘Body’.” is the mix-up to avoid. Match the fact to the heading that names its subtopic.\nHint: Match the fact to the heading that names its subtopic.",
+    "correct": "Example: a story introduces a character and follows events; a recipe lists ingredients and uses action instructions.",
+    "explanation": "Accept two accurate differences linked to the texts' purposes, not only cover colour or length.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
     "structuredExplanation": {
-      "summary": "“Under ‘Body’.” is the mix-up to avoid. Match the fact to the heading that names its subtopic.",
-      "hint": "Match the fact to the heading that names its subtopic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-025",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "organising one topic for two purposes discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "A story and a report are both about sharks. Why should their structures differ? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A story and a report are both about sharks. Why should their structures differ? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The story entertains with events; the report informs with grouped facts.",
-      "The story should group facts, while the report should build a fictional problem.",
-      "The shared shark topic means both texts should use the same structure."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 25,
-    "correct": 2,
-    "explanation": "“The shared shark topic means both texts should use the same structure.” is the mix-up to avoid. Compare the job of each text, not just its topic.\nHint: Compare the job of each text, not just its topic.",
-    "structuredExplanation": {
-      "summary": "“The shared shark topic means both texts should use the same structure.” is the mix-up to avoid. Compare the job of each text, not just its topic.",
-      "hint": "Compare the job of each text, not just its topic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-026",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "organising a persuasive water poster discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which plan best suits a poster asking families to save water? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which plan best suits a poster asking families to save water? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "State that saving water matters but give no supporting reasons.",
-      "State the request, give reasons, then add a clear call to act.",
-      "List facts about water but make no request or call to act."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 26,
-    "correct": 0,
-    "explanation": "“State that saving water matters but give no supporting reasons.” is the mix-up to avoid. Choose a structure that helps convince the audience to do something.\nHint: Choose a structure that helps convince the audience to do something.",
-    "structuredExplanation": {
-      "summary": "“State that saving water matters but give no supporting reasons.” is the mix-up to avoid. Choose a structure that helps convince the audience to do something.",
-      "hint": "Choose a structure that helps convince the audience to do something."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-027",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "recording science investigation results discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "A class tested which paper towel held more water. What belongs in the results section? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A class tested which paper towel held more water. What belongs in the results section? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A table showing how many drops each towel held.",
-      "The prediction written before the towels were tested.",
-      "The list of equipment used to complete the test."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 27,
-    "correct": 1,
-    "explanation": "“The prediction written before the towels were tested.” is the mix-up to avoid. Look for evidence collected during the test.\nHint: Look for evidence collected during the test.",
-    "structuredExplanation": {
-      "summary": "“The prediction written before the towels were tested.” is the mix-up to avoid. Look for evidence collected during the test.",
-      "hint": "Look for evidence collected during the test."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-028",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "organising a friendly email discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which order best suits an email to a cousin about a school concert? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which order best suits an email to a cousin about a school concert? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Greeting, clear message, friendly closing and name.",
-      "Give concert instructions instead of sharing the news with the cousin.",
-      "Write the message without a greeting, closing or sender's name."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 28,
-    "correct": 2,
-    "explanation": "“Write the message without a greeting, closing or sender's name.” is the mix-up to avoid. Think about what helps the named reader follow a personal message.\nHint: Think about what helps the named reader follow a personal message.",
-    "structuredExplanation": {
-      "summary": "“Write the message without a greeting, closing or sender's name.” is the mix-up to avoid. Think about what helps the named reader follow a personal message.",
-      "hint": "Think about what helps the named reader follow a personal message."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-029",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "following a recipe discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence sounds like a useful step in a fruit-salad recipe? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which sentence sounds like a useful step in a fruit-salad recipe? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The fruit looked sweet and colourful in the bowl.",
-      "Next, place the sliced fruit in a large bowl.",
-      "Yesterday, our class made fruit salad after lunch."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 29,
-    "correct": 0,
-    "explanation": "“The fruit looked sweet and colourful in the bowl.” is the mix-up to avoid. A recipe step should direct an action in a clear order.\nHint: A recipe step should direct an action in a clear order.",
-    "structuredExplanation": {
-      "summary": "“The fruit looked sweet and colourful in the bowl.” is the mix-up to avoid. A recipe step should direct an action in a clear order.",
-      "hint": "A recipe step should direct an action in a clear order."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-030",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "using a biography timeline discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Why would a biography about Dr Fiona Wood include a timeline? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Why would a biography about Dr Fiona Wood include a timeline? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "To show important life events and achievements in date order.",
-      "To rank achievements from best to least instead of using dates.",
-      "To show only the latest achievement and leave out earlier events."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 30,
-    "correct": 1,
-    "explanation": "“To rank achievements from best to least instead of using dates.” is the mix-up to avoid. Think about how dates help organise information about a person's life.\nHint: Think about how dates help organise information about a person's life.",
-    "structuredExplanation": {
-      "summary": "“To rank achievements from best to least instead of using dates.” is the mix-up to avoid. Think about how dates help organise information about a person's life.",
-      "hint": "Think about how dates help organise information about a person's life."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-031",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "grouping facts in a frog report apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Choose features that organise factual information by subtopic. Which features best organise an information report about frogs?",
-    "audioPrompt": "Use this clue: Choose features that organise factual information by subtopic. Which features best organise an information report about frogs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Give an opinion about the best frog but leave out factual evidence.",
-      "Put every frog fact in one long paragraph without headings.",
-      "Headings for habitat and food with facts and labelled diagrams."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 31,
-    "correct": 2,
-    "explanation": "Headings and diagrams group related facts so readers can find and understand them.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Headings and diagrams group related facts so readers can find and understand them.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-032",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "sequencing an excursion recount apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: A recount tells what happened, usually from earlier to later. Which opening best begins a recount of yesterday's zoo trip?",
-    "audioPrompt": "Use this clue: A recount tells what happened, usually from earlier to later. Which opening best begins a recount of yesterday's zoo trip?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Yesterday, we arrived at the zoo and met our guide.",
-      "Give visitors commands instead of retelling what happened yesterday.",
-      "List zoo facts under headings without telling what the class did."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 32,
-    "correct": 0,
-    "explanation": "The sentence uses past tense and begins the real events in time order.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The sentence uses past tense and begins the real events in time order.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-033",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "ordering procedure steps apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Think about which action must happen first for the next step to work. A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’?",
-    "audioPrompt": "Use this clue: Think about which action must happen first for the next step to work. A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Measure the shoot after it begins to grow.",
-      "Place the seed in a small hole and cover it with soil.",
-      "Move the planted pot onto a sunny shelf."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 33,
-    "correct": 1,
-    "explanation": "The seed must be placed and covered before the planted soil is watered.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The seed must be placed and covered before the planted soil is watered.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-034",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "using headings to locate facts apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Match the fact to the heading that names its subtopic. A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go?",
-    "audioPrompt": "Use this clue: Match the fact to the heading that names its subtopic. A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Under ‘Food’.",
-      "Under ‘Body’.",
-      "Under ‘Habitat’."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 34,
-    "correct": 2,
-    "explanation": "A burrow is where a wombat lives, so the fact belongs with habitat information.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "A burrow is where a wombat lives, so the fact belongs with habitat information.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-035",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "organising one topic for two purposes apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Compare the job of each text, not just its topic. A story and a report are both about sharks. Why should their structures differ?",
-    "audioPrompt": "Use this clue: Compare the job of each text, not just its topic. A story and a report are both about sharks. Why should their structures differ?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The story entertains with events; the report informs with grouped facts.",
-      "The story should group facts, while the report should build a fictional problem.",
-      "The shared shark topic means both texts should use the same structure."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 35,
-    "correct": 0,
-    "explanation": "Texts on the same topic are organised differently when they have different purposes.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Texts on the same topic are organised differently when they have different purposes.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-036",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "organising a persuasive water poster apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Choose a structure that helps convince the audience to do something. Which plan best suits a poster asking families to save water?",
-    "audioPrompt": "Use this clue: Choose a structure that helps convince the audience to do something. Which plan best suits a poster asking families to save water?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "List facts about water but make no request or call to act.",
-      "State the request, give reasons, then add a clear call to act.",
-      "State that saving water matters but give no supporting reasons."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 36,
-    "correct": 1,
-    "explanation": "A persuasive poster presents a position, supports it and encourages action.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "A persuasive poster presents a position, supports it and encourages action.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-037",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "recording science investigation results apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Look for evidence collected during the test. A class tested which paper towel held more water. What belongs in the results section?",
-    "audioPrompt": "Use this clue: Look for evidence collected during the test. A class tested which paper towel held more water. What belongs in the results section?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The list of equipment used to complete the test.",
-      "The prediction written before the towels were tested.",
-      "A table showing how many drops each towel held."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 37,
-    "correct": 2,
-    "explanation": "The results section records the observations or measurements from the investigation.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The results section records the observations or measurements from the investigation.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-038",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "organising a friendly email apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Think about what helps the named reader follow a personal message. Which order best suits an email to a cousin about a school concert?",
-    "audioPrompt": "Use this clue: Think about what helps the named reader follow a personal message. Which order best suits an email to a cousin about a school concert?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Greeting, clear message, friendly closing and name.",
-      "Give concert instructions instead of sharing the news with the cousin.",
-      "Write the message without a greeting, closing or sender's name."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 38,
-    "correct": 0,
-    "explanation": "A friendly email greets the reader, shares its message and ends appropriately.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "A friendly email greets the reader, shares its message and ends appropriately.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-039",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "following a recipe apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: A recipe step should direct an action in a clear order. Which sentence sounds like a useful step in a fruit-salad recipe?",
-    "audioPrompt": "Use this clue: A recipe step should direct an action in a clear order. Which sentence sounds like a useful step in a fruit-salad recipe?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Yesterday, our class made fruit salad after lunch.",
-      "Next, place the sliced fruit in a large bowl.",
-      "The fruit looked sweet and colourful in the bowl."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 39,
-    "correct": 1,
-    "explanation": "The command and sequence word tell the reader what action comes next.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The command and sequence word tell the reader what action comes next.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la03-p-040",
-    "curriculumCode": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "using a biography timeline apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Think about how dates help organise information about a person's life. Why would a biography about Dr Fiona Wood include a timeline?",
-    "audioPrompt": "Use this clue: Think about how dates help organise information about a person's life. Why would a biography about Dr Fiona Wood include a timeline?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "To show only the latest achievement and leave out earlier events.",
-      "To rank achievements from best to least instead of using dates.",
-      "To show important life events and achievements in date order."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 40,
-    "correct": 2,
-    "explanation": "A timeline helps readers follow real events and achievements in chronological order.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "A timeline helps readers follow real events and achievements in chronological order.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+      "summary": "Accept two accurate differences linked to the texts' purposes, not only cover colour or length.",
+      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
     },
     "qualitySchema": "production-v1"
   }

@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "clear_lunchbox_pronouns_direct",
-    "question": "Luca is a boy. Which words, in order, complete this edit: “Luca packed blank lunch. Blank put blank in the bag”?",
-    "audio_prompt": "Luca is a boy. Which words, in order, complete this edit: “Luca packed blank lunch. Blank put blank in the bag”?",
+    "skill": "personal_subject",
+    "question": "Read: 'The chicks hatched today. They are fluffy.' What does 'They' refer to?",
+    "audio_prompt": "Read: 'The chicks hatched today. They are fluffy.' What does 'They' refer to?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "his — He — it",
+        "text": "the chicks",
         "is_correct": true
       },
       {
-        "text": "him — His — it",
+        "text": "today",
         "is_correct": false
       },
       {
-        "text": "his — It — him",
+        "text": "the nest",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "His shows ownership, He points to Luca and it points to the lunch.",
-      "hint": "Choose a possessive word for the lunch, a personal pronoun for Luca and a pronoun for the thing."
+      "summary": "They carries the reference to the plural noun chicks into the next sentence.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "show_who_owns_the_coat_direct",
-    "question": "Ava is a girl. Which words, in order, complete this edit: “Ava grabbed blank raincoat before blank went outside”?",
-    "audio_prompt": "Ava is a girl. Which words, in order, complete this edit: “Ava grabbed blank raincoat before blank went outside”?",
+    "skill": "personal_object",
+    "question": "Read: 'I found a shell and washed it.' What was washed?",
+    "audio_prompt": "Read: 'I found a shell and washed it.' What was washed?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "hers — her",
+        "text": "the speaker",
         "is_correct": false
       },
       {
-        "text": "her — she",
+        "text": "the shell",
         "is_correct": true
       },
       {
-        "text": "her — it",
+        "text": "the beach",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Her shows that the raincoat belongs to Ava, and she points back to Ava.",
-      "hint": "Choose a possessive word before raincoat and a personal pronoun before went."
+      "summary": "It replaces shell, keeping the two actions connected.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "track_what_rolled_direct",
-    "question": "The puppy nudged the ball. It rolled under the chair. What does “It” mean?",
-    "audio_prompt": "The puppy nudged the ball. It rolled under the chair. What does “It” mean?",
+    "skill": "speaker_group",
+    "question": "A speaker and two friends built a cubby. Complete: '___ built it together.'",
+    "audio_prompt": "A speaker and two friends built a cubby. Complete: '___ built it together.'",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the puppy",
+        "text": "She",
         "is_correct": false
       },
       {
-        "text": "the chair",
+        "text": "It",
         "is_correct": false
       },
       {
-        "text": "the ball",
+        "text": "We",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The ball is the thing that can roll after the puppy nudges it.",
-      "hint": "Look for the named thing that makes sense with the action rolled."
+      "summary": "We includes the speaker and other people.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "leave_out_a_repeated_noun_direct",
-    "question": "Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”?",
-    "audio_prompt": "Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”?",
+    "skill": "object_group",
+    "question": "Read: 'The books were muddy. Dad cleaned them.' Which word avoids repeating 'the books'?",
+    "audio_prompt": "Read: 'The books were muddy. Dad cleaned them.' Which word avoids repeating 'the books'?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "cup",
+        "text": "them",
         "is_correct": true
       },
       {
-        "text": "red",
+        "text": "Dad",
         "is_correct": false
       },
       {
-        "text": "Nia",
+        "text": "cleaned",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Cup can be left out after blue because the first noun makes the missing meaning clear.",
-      "hint": "Put the earlier noun after blue and check that the sentence makes sense."
+      "summary": "Them refers back to the books as the things being cleaned.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "edit_repeated_bike_nouns_direct",
-    "question": "Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest?",
-    "audio_prompt": "Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest?",
+    "skill": "pronoun_replace",
+    "question": "Read: 'The puppy barked. The puppy wanted dinner.' Which second sentence avoids repeating the noun?",
+    "audio_prompt": "Read: 'The puppy barked. The puppy wanted dinner.' Which second sentence avoids repeating the noun?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "She washed it. Then she dried it.",
+        "text": "Dinner wanted the puppy.",
         "is_correct": false
       },
       {
-        "text": "Tess washed her bike. Then she dried it.",
+        "text": "It wanted dinner.",
         "is_correct": true
       },
       {
-        "text": "Tess washed her bike. Then Tess dried Tess's bike.",
+        "text": "They wanted the puppy.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The noun Tess comes first, so her and she are clear; it points to the bike.",
-      "hint": "Keep the first name or noun, then replace only the repetition that stays clear."
+      "summary": "It keeps the puppy as the subject without repeating its name.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "fix_an_unclear_he_direct",
-    "question": "Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest?",
-    "audio_prompt": "Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest?",
+    "skill": "possessive_mine",
+    "question": "Mina says, 'This scarf belongs to me. It is ___.'",
+    "audio_prompt": "Mina says, 'This scarf belongs to me. It is ___.'",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Kai stood beside Omar. He held his kite.",
+        "text": "yours",
         "is_correct": false
       },
       {
-        "text": "Kai stood beside Omar. Omar held a kite.",
+        "text": "theirs",
         "is_correct": false
       },
       {
-        "text": "Kai stood beside Omar. Kai held a kite.",
+        "text": "mine",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Repeating Kai removes the unclear pronoun and keeps the intended meaning.",
-      "hint": "When two people could match he, repeat the correct name."
+      "summary": "Mine expresses possession by the speaker.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "connect_scarf_ideas_direct",
-    "question": "Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly?",
-    "audio_prompt": "Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly?",
+    "skill": "possessive_ours",
+    "question": "You and your brother share a tent. You say, 'That tent is ___.'",
+    "audio_prompt": "You and your brother share a tent. You say, 'That tent is ___.'",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Ruby found her scarf. She wrapped it around her neck.",
+        "text": "ours",
         "is_correct": true
       },
       {
-        "text": "She found her scarf. Ruby wrapped the scarf around Ruby's neck.",
+        "text": "hers",
         "is_correct": false
       },
       {
-        "text": "Ruby found her scarf. Ruby wrapped Ruby's scarf around her neck.",
+        "text": "his",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Her, she and it point clearly to Ruby and the scarf without awkward repetition.",
-      "hint": "Match each pronoun to the person or thing it replaces, and keep Ruby named at the start."
+      "summary": "Ours refers to something belonging to the speaker and another person or people.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "connect_cat_care_actions_direct",
-    "question": "Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive?",
-    "audio_prompt": "Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive?",
+    "skill": "possessive_theirs",
+    "question": "Read: 'The players own these caps. The caps are theirs.' Who owns the caps?",
+    "audio_prompt": "Read: 'The players own these caps. The caps are theirs.' Who owns the caps?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "She fed the cat. Then Sasha filled the cat's water bowl.",
+        "text": "one unnamed visitor",
         "is_correct": false
       },
       {
-        "text": "Sasha fed her cat. Then she filled its water bowl.",
+        "text": "the players",
         "is_correct": true
       },
       {
-        "text": "Sasha fed her cat. Then Sasha filled the cat's water bowl.",
+        "text": "the caps",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Her and she point to Sasha, while its points to the cat.",
-      "hint": "Name the owner and pet first, then replace only the repetitions that stay clear."
+      "summary": "Theirs refers back to the plural owners, the players.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "infer_a_missing_shell_noun_direct",
-    "question": "I collected the large shells, and Bo collected the small. What is understood after “small”?",
-    "audio_prompt": "I collected the large shells, and Bo collected the small. What is understood after “small”?",
+    "stage": "connect",
+    "skill": "possessive_reference",
+    "question": "Read: 'Nora packed her boots.' Whose boots does 'her' refer to here?",
+    "audio_prompt": "Read: 'Nora packed her boots.' Whose boots does 'her' refer to here?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "large",
+        "text": "the reader's",
         "is_correct": false
       },
       {
-        "text": "collected",
+        "text": "the teacher's",
         "is_correct": false
       },
       {
-        "text": "shells",
+        "text": "Nora's",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Shells is understood because it was named earlier and small describes the second group.",
-      "hint": "Put the earlier noun after small and read the sentence again."
+      "summary": "With Nora as the only person named, her links the boots to Nora.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "choose_a_clear_animal_reference_direct",
-    "question": "The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest?",
-    "audio_prompt": "The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest?",
+    "stage": "connect",
+    "skill": "possessive_contrast",
+    "question": "Kai owns the red bike. Ella owns the blue one. Ella says, 'The blue bike is mine; the red bike is ___.'",
+    "audio_prompt": "Kai owns the red bike. Ella owns the blue one. Ella says, 'The blue bike is mine; the red bike is ___.'",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The zebras saw the lions. The zebras ran across the plain.",
+        "text": "his",
         "is_correct": true
       },
       {
-        "text": "The zebras saw the lions. They ran across the plain.",
+        "text": "hers",
         "is_correct": false
       },
       {
-        "text": "The zebras saw the lions. The lions ran across the plain.",
+        "text": "ours",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Repeating the zebras removes doubt about which animals ran.",
-      "hint": "When they could mean either group, repeat the intended group name."
+      "summary": "His refers to Kai's ownership; mine refers to Ella as the speaker.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "clear_lunchbox_pronouns_explain",
-    "question": "Luca is a boy. Which words, in order, complete this edit: “Luca packed blank lunch. Blank put blank in the bag”? Why is “his — He — it” the best answer?",
-    "audio_prompt": "Luca is a boy. Which words, in order, complete this edit: “Luca packed blank lunch. Blank put blank in the bag”? Why is “his — He — it” the best answer?",
+    "stage": "connect",
+    "skill": "ellipsis_object",
+    "question": "Read: 'Would you like a pear?' 'Yes, please.' What does the short reply mean?",
+    "audio_prompt": "Read: 'Would you like a pear?' 'Yes, please.' What does the short reply mean?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “him — His — it”.",
+        "text": "Yes, I have planted a tree.",
         "is_correct": false
       },
       {
-        "text": "His shows ownership, He points to Luca and it points to the lunch.",
+        "text": "Yes, I would like a pear, please.",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "Yes, the pear is blue.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "His shows ownership, He points to Luca and it points to the lunch.",
-      "hint": "Choose a possessive word for the lunch, a personal pronoun for Luca and a pronoun for the thing."
+      "summary": "The question supplies the words omitted from the natural short answer.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 11,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "show_who_owns_the_coat_explain",
-    "question": "Ava is a girl. Which words, in order, complete this edit: “Ava grabbed blank raincoat before blank went outside”? Why is “her — she” the best answer?",
-    "audio_prompt": "Ava is a girl. Which words, in order, complete this edit: “Ava grabbed blank raincoat before blank went outside”? Why is “her — she” the best answer?",
+    "stage": "connect",
+    "skill": "ellipsis_verb",
+    "question": "Read: 'I can swim, and my cousin can too.' What can the cousin do?",
+    "audio_prompt": "Read: 'I can swim, and my cousin can too.' What can the cousin do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “hers — her”.",
+        "text": "read",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "run",
         "is_correct": false
       },
       {
-        "text": "Her shows that the raincoat belongs to Ava, and she points back to Ava.",
+        "text": "swim",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Her shows that the raincoat belongs to Ava, and she points back to Ava.",
-      "hint": "Choose a possessive word before raincoat and a personal pronoun before went."
+      "summary": "Can too leaves out swim because the first clause already supplies it.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 12,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "track_what_rolled_explain",
-    "question": "The puppy nudged the ball. It rolled under the chair. What does “It” mean? Why is “the ball” the best answer?",
-    "audio_prompt": "The puppy nudged the ball. It rolled under the chair. What does “It” mean? Why is “the ball” the best answer?",
+    "stage": "connect",
+    "skill": "ellipsis_noun",
+    "question": "Read: 'I chose the green cup. Tessa chose the yellow.' What word is understood after 'yellow'?",
+    "audio_prompt": "Read: 'I chose the green cup. Tessa chose the yellow.' What word is understood after 'yellow'?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The ball is the thing that can roll after the puppy nudges it.",
+        "text": "cup",
         "is_correct": true
       },
       {
-        "text": "It is best only because it is longer than “the puppy”.",
+        "text": "coat",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "flower",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The ball is the thing that can roll after the puppy nudges it.",
-      "hint": "Look for the named thing that makes sense with the action rolled."
+      "summary": "Cup is carried over from the earlier sentence, so it need not be repeated.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 13,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "leave_out_a_repeated_noun_explain",
-    "question": "Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”? Why is “cup” the best answer?",
-    "audio_prompt": "Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”? Why is “cup” the best answer?",
+    "stage": "connect",
+    "skill": "ellipsis_subject",
+    "question": "Read: 'The dog stretched and yawned.' Who yawned?",
+    "audio_prompt": "Read: 'The dog stretched and yawned.' Who yawned?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “red”.",
+        "text": "an unnamed child",
         "is_correct": false
       },
       {
-        "text": "Cup can be left out after blue because the first noun makes the missing meaning clear.",
+        "text": "the dog",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "the reader",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Cup can be left out after blue because the first noun makes the missing meaning clear.",
-      "hint": "Put the earlier noun after blue and check that the sentence makes sense."
+      "summary": "The dog is the understood subject of both linked actions.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 14,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "edit_repeated_bike_nouns_explain",
-    "question": "Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest? Why is “Tess washed her bike. Then she dried it.” the best answer?",
-    "audio_prompt": "Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest? Why is “Tess washed her bike. Then she dried it.” the best answer?",
+    "stage": "connect",
+    "skill": "short_answer",
+    "question": "Read: 'Who has the tickets?' 'Uncle Pat.' Which full answer has the same meaning?",
+    "audio_prompt": "Read: 'Who has the tickets?' 'Uncle Pat.' Which full answer has the same meaning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “She washed it. Then she dried it.”.",
+        "text": "Uncle Pat wants some tickets.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "The tickets have Uncle Pat.",
         "is_correct": false
       },
       {
-        "text": "The noun Tess comes first, so her and she are clear; it points to the bike.",
+        "text": "Uncle Pat has the tickets.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The noun Tess comes first, so her and she are clear; it points to the bike.",
-      "hint": "Keep the first name or noun, then replace only the repetition that stays clear."
+      "summary": "The short reply omits has the tickets because it is clear from the question.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 15,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "fix_an_unclear_he_explain",
-    "question": "Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest? Why is “Kai stood beside Omar. Kai held a kite.” the best answer?",
-    "audio_prompt": "Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest? Why is “Kai stood beside Omar. Kai held a kite.” the best answer?",
+    "stage": "connect",
+    "skill": "avoid_ambiguity",
+    "question": "Read: 'Lena met Rose. She carried a red bag.' You mean Rose carried it. Which change makes this certain?",
+    "audio_prompt": "Read: 'Lena met Rose. She carried a red bag.' You mean Rose carried it. Which change makes this certain?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Repeating Kai removes the unclear pronoun and keeps the intended meaning.",
+        "text": "Lena met Rose. Rose carried a red bag.",
         "is_correct": true
       },
       {
-        "text": "It is best only because it is longer than “Kai stood beside Omar. He held his kite.”.",
+        "text": "Lena met Rose. She carried it.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "Lena met Rose. Someone carried something.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Repeating Kai removes the unclear pronoun and keeps the intended meaning.",
-      "hint": "When two people could match he, repeat the correct name."
+      "summary": "Repeating Rose removes ambiguity when she could refer to either person.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 16,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "connect_scarf_ideas_explain",
-    "question": "Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly? Why is “Ruby found her scarf. She wrapped it around her neck.” the best answer?",
-    "audio_prompt": "Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly? Why is “Ruby found her scarf. She wrapped it around her neck.” the best answer?",
+    "stage": "connect",
+    "skill": "clear_reference",
+    "question": "Which pair makes 'it' easy to understand?",
+    "audio_prompt": "Which pair makes 'it' easy to understand?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “She found her scarf. Ruby wrapped the scarf around Ruby's neck.”.",
+        "text": "A balloon passed a kite. It was red.",
         "is_correct": false
       },
       {
-        "text": "Her, she and it point clearly to Ruby and the scarf without awkward repetition.",
+        "text": "A balloon floated up. It caught on a branch.",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "A balloon passed a ball. It was round.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Her, she and it point clearly to Ruby and the scarf without awkward repetition.",
-      "hint": "Match each pronoun to the person or thing it replaces, and keep Ruby named at the start."
+      "summary": "The first pair has one clear object for it to refer back to.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 17,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "connect_cat_care_actions_explain",
-    "question": "Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive? Why is “Sasha fed her cat. Then she filled its water bowl.” the best answer?",
-    "audio_prompt": "Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive? Why is “Sasha fed her cat. Then she filled its water bowl.” the best answer?",
+    "stage": "connect",
+    "skill": "pronoun_agreement",
+    "question": "Read: 'The children put on raincoats. ___ walked outside.'",
+    "audio_prompt": "Read: 'The children put on raincoats. ___ walked outside.'",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “She fed the cat. Then Sasha filled the cat's water bowl.”.",
+        "text": "It",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "He",
         "is_correct": false
       },
       {
-        "text": "Her and she point to Sasha, while its points to the cat.",
+        "text": "They",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Her and she point to Sasha, while its points to the cat.",
-      "hint": "Name the owner and pet first, then replace only the repetitions that stay clear."
+      "summary": "They agrees with the plural children and keeps the reference clear.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 18,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "infer_a_missing_shell_noun_explain",
-    "question": "I collected the large shells, and Bo collected the small. What is understood after “small”? Why is “shells” the best answer?",
-    "audio_prompt": "I collected the large shells, and Bo collected the small. What is understood after “small”? Why is “shells” the best answer?",
+    "stage": "connect",
+    "skill": "cohesion_edit",
+    "question": "Which version keeps the meaning with less repetition?",
+    "audio_prompt": "Which version keeps the meaning with less repetition?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Shells is understood because it was named earlier and small describes the second group.",
+        "text": "Mum found the keys and put them in her bag.",
         "is_correct": true
       },
       {
-        "text": "It is best only because it is longer than “large”.",
+        "text": "Mum found the keys and put Mum in the keys.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "Mum found them and put it in them.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Shells is understood because it was named earlier and small describes the second group.",
-      "hint": "Put the earlier noun after small and read the sentence again."
+      "summary": "Them clearly replaces keys; her refers to Mum.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 19,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "choose_a_clear_animal_reference_explain",
-    "question": "The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest? Why is “The zebras saw the lions. The zebras ran across the plain.” the best answer?",
-    "audio_prompt": "The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest? Why is “The zebras saw the lions. The zebras ran across the plain.” the best answer?",
+    "stage": "connect",
+    "skill": "omission_limit",
+    "question": "Read: 'I saw a bird beside a plane. It was blue.' Why might a reader be unsure?",
+    "audio_prompt": "Read: 'I saw a bird beside a plane. It was blue.' Why might a reader be unsure?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “The zebras saw the lions. They ran across the plain.”.",
+        "text": "Blue cannot describe anything.",
         "is_correct": false
       },
       {
-        "text": "Repeating the zebras removes doubt about which animals ran.",
+        "text": "It could refer to the bird or the plane.",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "Every sentence needs a person's name.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Repeating the zebras removes doubt about which animals ran.",
-      "hint": "When they could mean either group, repeat the intended group name."
+      "summary": "Two possible nouns make the reference ambiguous without further context.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 20,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "track_what_rolled_discriminate",
-    "question": "The puppy nudged the ball. It rolled under the chair. What does “It” mean? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "The puppy nudged the ball. It rolled under the chair. What does “It” mean? Which response is the clearest mix-up to avoid?",
+    "stage": "connect",
+    "skill": "restore_words",
+    "question": "Read: 'Zoe chose two apples, and I chose three.' What did the speaker choose three of?",
+    "audio_prompt": "Read: 'Zoe chose two apples, and I chose three.' What did the speaker choose three of?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the ball",
+        "text": "bowls",
         "is_correct": false
       },
       {
-        "text": "the chair",
+        "text": "oranges",
         "is_correct": false
       },
       {
-        "text": "the puppy",
+        "text": "apples",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“the puppy” is the mix-up to avoid. Look for the named thing that makes sense with the action rolled.",
-      "hint": "Look for the named thing that makes sense with the action rolled."
+      "summary": "Apples is omitted after three because the earlier clause supplies that meaning.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 21,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "leave_out_a_repeated_noun_discriminate",
-    "question": "Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”? Which response is the clearest mix-up to avoid?",
+    "stage": "connect",
+    "skill": "ellipsis_meaning",
+    "question": "Read: 'Will you come on Friday?' 'I hope so.' What does 'so' stand for?",
+    "audio_prompt": "Read: 'Will you come on Friday?' 'I hope so.' What does 'so' stand for?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "red",
+        "text": "that I will come on Friday",
         "is_correct": true
       },
       {
-        "text": "cup",
+        "text": "that Friday has been cancelled",
         "is_correct": false
       },
       {
-        "text": "Nia",
+        "text": "that I came yesterday",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“red” is the mix-up to avoid. Put the earlier noun after blue and check that the sentence makes sense.",
-      "hint": "Put the earlier noun after blue and check that the sentence makes sense."
+      "summary": "So refers to the idea in the question without repeating the whole clause.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 22,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-P-023",
@@ -841,37 +841,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "edit_repeated_bike_nouns_discriminate",
-    "question": "Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest? Which response is the clearest mix-up to avoid?",
+    "stage": "apply",
+    "skill": "rewrite_cohesion",
+    "question": "Rewrite or say this with less repetition: 'The kittens found a box. The kittens climbed into the box.' Keep it clear who did what.",
+    "audio_prompt": "Rewrite or say this with less repetition: 'The kittens found a box. The kittens climbed into the box.' Keep it clear who did what.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Tess washed her bike. Then she dried it.",
+        "text": "Response not yet reviewed",
         "is_correct": false
       },
       {
-        "text": "She washed it. Then she dried it.",
+        "text": "Adult review required",
         "is_correct": true
       },
       {
-        "text": "Tess washed her bike. Then Tess dried Tess's bike.",
+        "text": "Revise with an adult",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“She washed it. Then she dried it.” is the mix-up to avoid. Keep the first name or noun, then replace only the repetition that stays clear.",
-      "hint": "Keep the first name or noun, then replace only the repetition that stays clear."
+      "summary": "Accept a clear rewrite using they for kittens and it for box, or another unambiguous cohesive wording that preserves both actions.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "transfer",
     "sequence_priority": 23,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1",
+    "grading_mode": "adult-review",
+    "model_answer": "The kittens found a box. They climbed into it.",
+    "acceptance_note": "Accept a clear rewrite using they for kittens and it for box, or another unambiguous cohesive wording that preserves both actions.",
+    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LA04-P-024",
@@ -879,645 +884,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "fix_an_unclear_he_discriminate",
-    "question": "Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest? Which response is the clearest mix-up to avoid?",
+    "stage": "apply",
+    "skill": "restore_ellipsis",
+    "question": "Read: 'Have you finished your puzzle?' 'Not yet.' Say the full meaning of 'Not yet' and explain why the shorter reply is understandable.",
+    "audio_prompt": "Read: 'Have you finished your puzzle?' 'Not yet.' Say the full meaning of 'Not yet' and explain why the shorter reply is understandable.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Kai stood beside Omar. Kai held a kite.",
+        "text": "Response not yet reviewed",
         "is_correct": false
       },
       {
-        "text": "Kai stood beside Omar. Omar held a kite.",
+        "text": "Revise with an adult",
         "is_correct": false
       },
       {
-        "text": "Kai stood beside Omar. He held his kite.",
+        "text": "Adult review required",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“Kai stood beside Omar. He held his kite.” is the mix-up to avoid. When two people could match he, repeat the correct name.",
-      "hint": "When two people could match he, repeat the correct name."
+      "summary": "Accept the restored meaning and an explanation referring to the context provided by the question.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "transfer",
     "sequence_priority": 24,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-025",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "connect_scarf_ideas_discriminate",
-    "question": "Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "She found her scarf. Ruby wrapped the scarf around Ruby's neck.",
-        "is_correct": true
-      },
-      {
-        "text": "Ruby found her scarf. She wrapped it around her neck.",
-        "is_correct": false
-      },
-      {
-        "text": "Ruby found her scarf. Ruby wrapped Ruby's scarf around her neck.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "“She found her scarf. Ruby wrapped the scarf around Ruby's neck.” is the mix-up to avoid. Match each pronoun to the person or thing it replaces, and keep Ruby named at the start.",
-      "hint": "Match each pronoun to the person or thing it replaces, and keep Ruby named at the start."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 25,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-026",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "connect_cat_care_actions_discriminate",
-    "question": "Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Sasha fed her cat. Then she filled its water bowl.",
-        "is_correct": false
-      },
-      {
-        "text": "She fed the cat. Then Sasha filled the cat's water bowl.",
-        "is_correct": true
-      },
-      {
-        "text": "Sasha fed her cat. Then Sasha filled the cat's water bowl.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "“She fed the cat. Then Sasha filled the cat's water bowl.” is the mix-up to avoid. Name the owner and pet first, then replace only the repetitions that stay clear.",
-      "hint": "Name the owner and pet first, then replace only the repetitions that stay clear."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 26,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-027",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "infer_a_missing_shell_noun_discriminate",
-    "question": "I collected the large shells, and Bo collected the small. What is understood after “small”? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "I collected the large shells, and Bo collected the small. What is understood after “small”? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "shells",
-        "is_correct": false
-      },
-      {
-        "text": "collected",
-        "is_correct": false
-      },
-      {
-        "text": "large",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "“large” is the mix-up to avoid. Put the earlier noun after small and read the sentence again.",
-      "hint": "Put the earlier noun after small and read the sentence again."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 27,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-028",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "choose_a_clear_animal_reference_discriminate",
-    "question": "The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The zebras saw the lions. They ran across the plain.",
-        "is_correct": true
-      },
-      {
-        "text": "The zebras saw the lions. The zebras ran across the plain.",
-        "is_correct": false
-      },
-      {
-        "text": "The zebras saw the lions. The lions ran across the plain.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "“The zebras saw the lions. They ran across the plain.” is the mix-up to avoid. When they could mean either group, repeat the intended group name.",
-      "hint": "When they could mean either group, repeat the intended group name."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 28,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-029",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "reduce_name_repetition_discriminate",
-    "question": "Nora opened the gate. Nora led Nora's pony through the gate. Which edit connects the actions most smoothly? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Nora opened the gate. Nora led Nora's pony through the gate. Which edit connects the actions most smoothly? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Nora opened the gate. She led her pony through it.",
-        "is_correct": false
-      },
-      {
-        "text": "She opened the gate. Nora led her pony through it.",
-        "is_correct": true
-      },
-      {
-        "text": "Nora opened the gate. Nora led Nora's pony through it.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "“She opened the gate. Nora led her pony through it.” is the mix-up to avoid. Keep Nora named before using she or her, then replace clear repetitions.",
-      "hint": "Keep Nora named before using she or her, then replace clear repetitions."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 29,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-030",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "keep_a_pronoun_reference_clear_discriminate",
-    "question": "The kite caught on the tree, and it tore. The writer means the kite tore. Which edit is clearest? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "The kite caught on the tree, and it tore. The writer means the kite tore. Which edit is clearest? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The kite caught on the tree, and the kite tore.",
-        "is_correct": false
-      },
-      {
-        "text": "The kite caught on the tree, and the tree tore.",
-        "is_correct": false
-      },
-      {
-        "text": "The kite caught on the tree, and it tore.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "“The kite caught on the tree, and it tore.” is the mix-up to avoid. If it could mean two things, name the intended thing again.",
-      "hint": "If it could mean two things, name the intended thing again."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 30,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-031",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "track_what_rolled_apply",
-    "question": "Use this clue: Look for the named thing that makes sense with the action rolled. The puppy nudged the ball. It rolled under the chair. What does “It” mean?",
-    "audio_prompt": "Use this clue: Look for the named thing that makes sense with the action rolled. The puppy nudged the ball. It rolled under the chair. What does “It” mean?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "the ball",
-        "is_correct": true
-      },
-      {
-        "text": "the chair",
-        "is_correct": false
-      },
-      {
-        "text": "the puppy",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The ball is the thing that can roll after the puppy nudges it.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 31,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-032",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "leave_out_a_repeated_noun_apply",
-    "question": "Use this clue: Put the earlier noun after blue and check that the sentence makes sense. Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”?",
-    "audio_prompt": "Use this clue: Put the earlier noun after blue and check that the sentence makes sense. Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Nia",
-        "is_correct": false
-      },
-      {
-        "text": "cup",
-        "is_correct": true
-      },
-      {
-        "text": "red",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Cup can be left out after blue because the first noun makes the missing meaning clear.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 32,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-033",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "edit_repeated_bike_nouns_apply",
-    "question": "Use this clue: Keep the first name or noun, then replace only the repetition that stays clear. Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest?",
-    "audio_prompt": "Use this clue: Keep the first name or noun, then replace only the repetition that stays clear. Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Tess washed her bike. Then Tess dried Tess's bike.",
-        "is_correct": false
-      },
-      {
-        "text": "She washed it. Then she dried it.",
-        "is_correct": false
-      },
-      {
-        "text": "Tess washed her bike. Then she dried it.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The noun Tess comes first, so her and she are clear; it points to the bike.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 33,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-034",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "fix_an_unclear_he_apply",
-    "question": "Use this clue: When two people could match he, repeat the correct name. Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest?",
-    "audio_prompt": "Use this clue: When two people could match he, repeat the correct name. Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Kai stood beside Omar. Kai held a kite.",
-        "is_correct": true
-      },
-      {
-        "text": "Kai stood beside Omar. Omar held a kite.",
-        "is_correct": false
-      },
-      {
-        "text": "Kai stood beside Omar. He held his kite.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Repeating Kai removes the unclear pronoun and keeps the intended meaning.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 34,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-035",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "connect_scarf_ideas_apply",
-    "question": "Use this clue: Match each pronoun to the person or thing it replaces, and keep Ruby named at the start. Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly?",
-    "audio_prompt": "Use this clue: Match each pronoun to the person or thing it replaces, and keep Ruby named at the start. Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Ruby found her scarf. Ruby wrapped Ruby's scarf around her neck.",
-        "is_correct": false
-      },
-      {
-        "text": "Ruby found her scarf. She wrapped it around her neck.",
-        "is_correct": true
-      },
-      {
-        "text": "She found her scarf. Ruby wrapped the scarf around Ruby's neck.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Her, she and it point clearly to Ruby and the scarf without awkward repetition.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 35,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-036",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "connect_cat_care_actions_apply",
-    "question": "Use this clue: Name the owner and pet first, then replace only the repetitions that stay clear. Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive?",
-    "audio_prompt": "Use this clue: Name the owner and pet first, then replace only the repetitions that stay clear. Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Sasha fed her cat. Then Sasha filled the cat's water bowl.",
-        "is_correct": false
-      },
-      {
-        "text": "She fed the cat. Then Sasha filled the cat's water bowl.",
-        "is_correct": false
-      },
-      {
-        "text": "Sasha fed her cat. Then she filled its water bowl.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Her and she point to Sasha, while its points to the cat.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 36,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-037",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "infer_a_missing_shell_noun_apply",
-    "question": "Use this clue: Put the earlier noun after small and read the sentence again. I collected the large shells, and Bo collected the small. What is understood after “small”?",
-    "audio_prompt": "Use this clue: Put the earlier noun after small and read the sentence again. I collected the large shells, and Bo collected the small. What is understood after “small”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "shells",
-        "is_correct": true
-      },
-      {
-        "text": "collected",
-        "is_correct": false
-      },
-      {
-        "text": "large",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Shells is understood because it was named earlier and small describes the second group.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 37,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-038",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "choose_a_clear_animal_reference_apply",
-    "question": "Use this clue: When they could mean either group, repeat the intended group name. The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest?",
-    "audio_prompt": "Use this clue: When they could mean either group, repeat the intended group name. The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The zebras saw the lions. The lions ran across the plain.",
-        "is_correct": false
-      },
-      {
-        "text": "The zebras saw the lions. The zebras ran across the plain.",
-        "is_correct": true
-      },
-      {
-        "text": "The zebras saw the lions. They ran across the plain.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Repeating the zebras removes doubt about which animals ran.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 38,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-039",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "reduce_name_repetition_apply",
-    "question": "Use this clue: Keep Nora named before using she or her, then replace clear repetitions. Nora opened the gate. Nora led Nora's pony through the gate. Which edit connects the actions most smoothly?",
-    "audio_prompt": "Use this clue: Keep Nora named before using she or her, then replace clear repetitions. Nora opened the gate. Nora led Nora's pony through the gate. Which edit connects the actions most smoothly?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Nora opened the gate. Nora led Nora's pony through it.",
-        "is_correct": false
-      },
-      {
-        "text": "She opened the gate. Nora led her pony through it.",
-        "is_correct": false
-      },
-      {
-        "text": "Nora opened the gate. She led her pony through it.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "She and her point to Nora, while it points to the named gate.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 39,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA04-P-040",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA04",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "keep_a_pronoun_reference_clear_apply",
-    "question": "Use this clue: If it could mean two things, name the intended thing again. The kite caught on the tree, and it tore. The writer means the kite tore. Which edit is clearest?",
-    "audio_prompt": "Use this clue: If it could mean two things, name the intended thing again. The kite caught on the tree, and it tore. The writer means the kite tore. Which edit is clearest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The kite caught on the tree, and the kite tore.",
-        "is_correct": true
-      },
-      {
-        "text": "The kite caught on the tree, and the tree tore.",
-        "is_correct": false
-      },
-      {
-        "text": "The kite caught on the tree, and it tore.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Repeating kite prevents it from seeming to point to the tree.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 40,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1",
+    "grading_mode": "adult-review",
+    "model_answer": "I have not finished my puzzle yet. The question tells us which action and object the reply means.",
+    "acceptance_note": "Accept the restored meaning and an explanation referring to the context provided by the question.",
+    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LA04-T-001",
@@ -1525,37 +927,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "follow_the_koala_reference_direct",
-    "question": "A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean?",
-    "audio_prompt": "A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean?",
+    "stage": "recognise",
+    "skill": "test_reference",
+    "question": "Read: 'A crab hid beneath a rock. It came out at dusk.' What came out?",
+    "audio_prompt": "Read: 'A crab hid beneath a rock. It came out at dusk.' What came out?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the koala",
+        "text": "the crab",
         "is_correct": true
       },
       {
-        "text": "the branch",
+        "text": "dusk",
         "is_correct": false
       },
       {
-        "text": "the claws",
+        "text": "the shore",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The koala, not the branch or claws, is the living thing that sleeps.",
-      "hint": "Read the action after the pronoun and ask which earlier noun can do it."
+      "summary": "The action and the earlier subject connect it to the crab.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-002",
@@ -1563,37 +965,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "name_the_caller_clearly_direct",
-    "question": "Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest?",
-    "audio_prompt": "Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest?",
+    "stage": "recognise",
+    "skill": "test_object",
+    "question": "Read: 'The parcels arrived. We carried them inside.' What does 'them' replace?",
+    "audio_prompt": "Read: 'The parcels arrived. We carried them inside.' What does 'them' replace?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Ella passed the ball to Zoe after she called for it.",
+        "text": "we",
         "is_correct": false
       },
       {
-        "text": "Ella passed the ball to Zoe after Zoe called for it.",
+        "text": "the parcels",
         "is_correct": true
       },
       {
-        "text": "Ella passed the ball to Zoe after Ella called for it.",
+        "text": "inside",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Repeating Zoe shows exactly who called and removes the unclear she.",
-      "hint": "Two people can match she, so name the intended person again."
+      "summary": "Them keeps the reference to the parcels as the things being carried.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-003",
@@ -1601,37 +1003,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "infer_a_missing_picnic_noun_direct",
-    "question": "Dad packed the large plates, and I packed the small. Which word is understood after “small”?",
-    "audio_prompt": "Dad packed the large plates, and I packed the small. Which word is understood after “small”?",
+    "stage": "recognise",
+    "skill": "test_speaker",
+    "question": "A child says, 'This drawing belongs to my sister and me. It is ___.'",
+    "audio_prompt": "A child says, 'This drawing belongs to my sister and me. It is ___.'",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "large",
+        "text": "yours",
         "is_correct": false
       },
       {
-        "text": "Dad",
+        "text": "theirs",
         "is_correct": false
       },
       {
-        "text": "plates",
+        "text": "ours",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Plates is understood after small because the same noun was named earlier.",
-      "hint": "Repeat the earlier noun after small and test the meaning."
+      "summary": "Ours includes the speaker among the owners.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-004",
@@ -1639,37 +1041,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "repair_a_robot_reference_direct",
-    "question": "The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest?",
-    "audio_prompt": "The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest?",
+    "stage": "recognise",
+    "skill": "test_possession",
+    "question": "Read: 'I brought my umbrella. You brought yours.' What does 'yours' mean?",
+    "audio_prompt": "Read: 'I brought my umbrella. You brought yours.' What does 'yours' mean?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The robot lifted the box. The robot flashed a green light.",
+        "text": "your umbrella",
         "is_correct": true
       },
       {
-        "text": "The robot lifted the box. It flashed a green light.",
+        "text": "my umbrella",
         "is_correct": false
       },
       {
-        "text": "The robot lifted the box. The box flashed a green light.",
+        "text": "their coats",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Repeating the robot prevents it from seeming to mean the nearby box.",
-      "hint": "If a pronoun could point to two things, repeat the intended noun."
+      "summary": "Yours replaces the possessive phrase your umbrella.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-005",
@@ -1677,37 +1079,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "track_two_model_makers_direct",
-    "question": "Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models?",
-    "audio_prompt": "Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models?",
+    "stage": "recognise",
+    "skill": "test_owner",
+    "question": "Read: 'The neighbours parked their caravan.' Whose caravan is meant?",
+    "audio_prompt": "Read: 'The neighbours parked their caravan.' Whose caravan is meant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "His was a whale, and hers was a rocket.",
+        "text": "the writer's",
         "is_correct": false
       },
       {
-        "text": "Hers was a whale, and his was a rocket.",
+        "text": "the neighbours'",
         "is_correct": true
       },
       {
-        "text": "Theirs was a whale, and theirs was a rocket.",
+        "text": "the caravan's",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Hers points to Mila's model and his points to Noah's model.",
-      "hint": "Match each possessive word to the owner and model named in the speech."
+      "summary": "Their links the caravan to the plural owners already named.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-006",
@@ -1715,37 +1117,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "infer_an_omitted_noun_direct",
-    "question": "The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”?",
-    "audio_prompt": "The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”?",
+    "stage": "recognise",
+    "skill": "test_rewrite",
+    "question": "Choose the clearest rewrite: 'The dancer bowed. The dancer thanked the crowd.'",
+    "audio_prompt": "Choose the clearest rewrite: 'The dancer bowed. The dancer thanked the crowd.'",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sharp",
+        "text": "The crowd bowed and thanked the dancer.",
         "is_correct": false
       },
       {
-        "text": "blue",
+        "text": "The dancer thanked it and bowed them.",
         "is_correct": false
       },
       {
-        "text": "pencils",
+        "text": "The dancer bowed and thanked the crowd.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The red means the red pencils because pencils was named just before it.",
-      "hint": "Supply the earlier noun and check that the full sentence makes sense."
+      "summary": "The shared subject can be understood for both actions without changing who acts.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-007",
@@ -1753,37 +1155,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "infer_balloons_in_a_comparison_direct",
-    "question": "Our team chose two large balloons; their team chose three small. Which word is understood after “small”?",
-    "audio_prompt": "Our team chose two large balloons; their team chose three small. Which word is understood after “small”?",
+    "stage": "recognise",
+    "skill": "test_ellipsis",
+    "question": "Read: 'Sam ordered soup; Lee ordered salad.' Which shorter version preserves the meaning?",
+    "audio_prompt": "Read: 'Sam ordered soup; Lee ordered salad.' Which shorter version preserves the meaning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "balloons",
+        "text": "Sam ordered soup; Lee, salad.",
         "is_correct": true
       },
       {
-        "text": "team",
+        "text": "Sam ordered Lee; soup, salad.",
         "is_correct": false
       },
       {
-        "text": "large",
+        "text": "Sam soup; ordered Lee.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Balloons can be inferred because the same kind of item was named in the first part.",
-      "hint": "Repeat the earlier item after small and test the meaning."
+      "summary": "Ordered can be inferred in the second part while the two orders remain clear.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-008",
@@ -1791,37 +1193,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "clarify_what_was_cracked_direct",
-    "question": "Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest?",
-    "audio_prompt": "Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest?",
+    "stage": "recognise",
+    "skill": "test_short_reply",
+    "question": "Read: 'Where is the torch?' 'In the drawer.' What words are understood before the reply?",
+    "audio_prompt": "Read: 'Where is the torch?' 'In the drawer.' What words are understood before the reply?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Ravi put the bowl beside the lamp. It was cracked.",
+        "text": "The drawer wants",
         "is_correct": false
       },
       {
-        "text": "Ravi put the bowl beside the lamp. The bowl was cracked.",
+        "text": "The torch is",
         "is_correct": true
       },
       {
-        "text": "Ravi put the bowl beside the lamp. The lamp was cracked.",
+        "text": "Where did",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Repeating bowl removes the unclear reference created by two nearby things.",
-      "hint": "Name the intended object when it could point to either noun."
+      "summary": "The short answer omits the torch is because the question supplies the topic.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-009",
@@ -1829,37 +1231,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "follow_the_koala_reference_test-reason",
-    "question": "A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean? Which reason best supports the correct choice?",
-    "audio_prompt": "A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_can",
+    "question": "Read: 'Asha cannot whistle, but I can.' What can the speaker do?",
+    "audio_prompt": "Read: 'Asha cannot whistle, but I can.' What can the speaker do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "hear Asha",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "draw a picture",
         "is_correct": false
       },
       {
-        "text": "The koala, not the branch or claws, is the living thing that sleeps.",
+        "text": "whistle",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The koala, not the branch or claws, is the living thing that sleeps.",
-      "hint": "Read the action after the pronoun and ask which earlier noun can do it."
+      "summary": "Can refers back to whistle, the action already stated.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-010",
@@ -1867,37 +1269,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "name_the_caller_clearly_test-reason",
-    "question": "Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest? Which reason best supports the correct choice?",
-    "audio_prompt": "Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_ambiguity",
+    "question": "'I put the mug beside the jug. It was cracked.' You mean the jug. Which revision is clear?",
+    "audio_prompt": "'I put the mug beside the jug. It was cracked.' You mean the jug. Which revision is clear?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Repeating Zoe shows exactly who called and removes the unclear she.",
+        "text": "I put the mug beside the cracked jug.",
         "is_correct": true
       },
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "I put it beside it. It was cracked.",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "I put the mug beside the jug. It was still cracked.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Repeating Zoe shows exactly who called and removes the unclear she.",
-      "hint": "Two people can match she, so name the intended person again."
+      "summary": "Naming the jug as cracked removes the competing reference.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-011",
@@ -1905,37 +1307,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "infer_a_missing_picnic_noun_test-reason",
-    "question": "Dad packed the large plates, and I packed the small. Which word is understood after “small”? Which reason best supports the correct choice?",
-    "audio_prompt": "Dad packed the large plates, and I packed the small. Which word is understood after “small”? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_plural",
+    "question": "Read: 'The ducks reached the pond. ___ slipped into the water.'",
+    "audio_prompt": "Read: 'The ducks reached the pond. ___ slipped into the water.'",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "He",
         "is_correct": false
       },
       {
-        "text": "Plates is understood after small because the same noun was named earlier.",
+        "text": "They",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "It",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Plates is understood after small because the same noun was named earlier.",
-      "hint": "Repeat the earlier noun after small and test the meaning."
+      "summary": "They refers back to the plural ducks.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 11,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-012",
@@ -1943,37 +1345,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "repair_a_robot_reference_test-reason",
-    "question": "The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest? Which reason best supports the correct choice?",
-    "audio_prompt": "The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_link",
+    "question": "Read: 'Our class made a banner. The banner is ours.' How does 'ours' link the sentences?",
+    "audio_prompt": "Read: 'Our class made a banner. The banner is ours.' How does 'ours' link the sentences?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "It gives a new name to the banner.",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "It says the banner belongs to another school.",
         "is_correct": false
       },
       {
-        "text": "Repeating the robot prevents it from seeming to mean the nearby box.",
+        "text": "It refers to the class as the owners.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Repeating the robot prevents it from seeming to mean the nearby box.",
-      "hint": "If a pronoun could point to two things, repeat the intended noun."
+      "summary": "Ours links possession to the speaker's class already mentioned.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 12,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-013",
@@ -1981,37 +1383,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "track_two_model_makers_test-reason",
-    "question": "Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models? Which reason best supports the correct choice?",
-    "audio_prompt": "Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_omitted_noun",
+    "question": "Read: 'I wore the woollen hat, not the cotton.' What is understood after 'cotton'?",
+    "audio_prompt": "Read: 'I wore the woollen hat, not the cotton.' What is understood after 'cotton'?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Hers points to Mila's model and his points to Noah's model.",
+        "text": "hat",
         "is_correct": true
       },
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "coat",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "sock",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Hers points to Mila's model and his points to Noah's model.",
-      "hint": "Match each possessive word to the owner and model named in the speech."
+      "summary": "The earlier noun hat supplies the omitted noun in the contrast.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 13,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-014",
@@ -2019,37 +1421,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "infer_an_omitted_noun_test-reason",
-    "question": "The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”? Which reason best supports the correct choice?",
-    "audio_prompt": "The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_safe_omission",
+    "question": "Which short reply clearly answers 'Would you like some water?'",
+    "audio_prompt": "Which short reply clearly answers 'Would you like some water?'",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "Under the table.",
         "is_correct": false
       },
       {
-        "text": "The red means the red pencils because pencils was named just before it.",
+        "text": "Yes, please.",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Next to the library.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The red means the red pencils because pencils was named just before it.",
-      "hint": "Supply the earlier noun and check that the full sentence makes sense."
+      "summary": "The question makes the omitted request for water clear in Yes, please.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 14,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA04-T-015",
@@ -2058,36 +1460,41 @@
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
     "stage": "apply",
-    "skill": "infer_balloons_in_a_comparison_test-reason",
-    "question": "Our team chose two large balloons; their team chose three small. Which word is understood after “small”? Which reason best supports the correct choice?",
-    "audio_prompt": "Our team chose two large balloons; their team chose three small. Which word is understood after “small”? Which reason best supports the correct choice?",
+    "skill": "test_rewrite",
+    "question": "Rewrite: 'The robot picked up the tools. The robot put the tools on the shelf.' Use pronouns where the meaning stays clear.",
+    "audio_prompt": "Rewrite: 'The robot picked up the tools. The robot put the tools on the shelf.' Use pronouns where the meaning stays clear.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "Response not yet reviewed",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Revise with an adult",
         "is_correct": false
       },
       {
-        "text": "Balloons can be inferred because the same kind of item was named in the first part.",
+        "text": "Adult review required",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Balloons can be inferred because the same kind of item was named in the first part.",
-      "hint": "Repeat the earlier item after small and test the meaning."
+      "summary": "Accept a clear version using it for robot and them for tools, with both original actions preserved.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "transfer",
     "sequence_priority": 15,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1",
+    "grading_mode": "adult-review",
+    "model_answer": "The robot picked up the tools. It put them on the shelf.",
+    "acceptance_note": "Accept a clear version using it for robot and them for tools, with both original actions preserved.",
+    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LA04-T-016",
@@ -2096,35 +1503,40 @@
     "curriculum_code": "AC9E2LA04",
     "bank": "test",
     "stage": "apply",
-    "skill": "clarify_what_was_cracked_test-reason",
-    "question": "Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest? Which reason best supports the correct choice?",
-    "audio_prompt": "Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest? Which reason best supports the correct choice?",
+    "skill": "test_expand",
+    "question": "Read: 'Who will carry the picnic basket?' 'I will.' Tell an adult what the reply means in full and how you know.",
+    "audio_prompt": "Read: 'Who will carry the picnic basket?' 'I will.' Tell an adult what the reply means in full and how you know.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Repeating bowl removes the unclear reference created by two nearby things.",
+        "text": "Adult review required",
         "is_correct": true
       },
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "Response not yet reviewed",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Revise with an adult",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Repeating bowl removes the unclear reference created by two nearby things.",
-      "hint": "Name the intended object when it could point to either noun."
+      "summary": "Accept a complete meaning and a reference to the question as the source of the omitted words.",
+      "hint": "Read the nearby words to work out who, what or which action is meant."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "transfer",
     "sequence_priority": 16,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1",
+    "grading_mode": "adult-review",
+    "model_answer": "I will carry the picnic basket. The question supplies the action left out of the reply.",
+    "acceptance_note": "Accept a complete meaning and a reference to the question as the source of the omitted words.",
+    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completion_label": "Ready for adult review"
   }
 ]

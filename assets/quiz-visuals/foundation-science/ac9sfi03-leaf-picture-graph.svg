@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
-  <title id="title">Leaf colour picture graph</title><desc id="desc">A picture graph has five red leaves and two yellow leaves.</desc>
-  <rect width="640" height="360" rx="24" fill="#fffaf3"/><rect x="64" y="45" width="512" height="270" rx="12" fill="#fff" stroke="#6d7f94" stroke-width="5"/><path d="M230 45v270" stroke="#b5c0ce" stroke-width="4"/>
-  <text x="99" y="125" font-family="Arial,sans-serif" font-size="30" fill="#873b37">red leaves</text><text x="78" y="250" font-family="Arial,sans-serif" font-size="30" fill="#8b6a10">yellow leaves</text>
-  <g fill="#d9534f" stroke="#8f302d" stroke-width="3"><ellipse cx="278" cy="112" rx="23" ry="34"/><ellipse cx="340" cy="112" rx="23" ry="34"/><ellipse cx="402" cy="112" rx="23" ry="34"/><ellipse cx="464" cy="112" rx="23" ry="34"/><ellipse cx="526" cy="112" rx="23" ry="34"/></g>
-  <g fill="#f2c94c" stroke="#9c7a13" stroke-width="3"><ellipse cx="278" cy="239" rx="23" ry="34"/><ellipse cx="340" cy="239" rx="23" ry="34"/></g>
-  <g stroke="#4d6d3c" stroke-width="4"><path d="m278 143 9 16m53-16 9 16m53-16 9 16m53-16 9 16m53-16 9 16M278 270l9 16m53-16 9 16"/></g>
-</svg>

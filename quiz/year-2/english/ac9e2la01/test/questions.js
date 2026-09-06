@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-001",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "changing a request for two roles direct",
+    "skill": "audience test",
     "printable": true,
     "type": "single",
-    "question": "Which pair asks for an item in ways that suit both listeners?",
-    "audioPrompt": "Which pair asks for an item in ways that suit both listeners?",
+    "question": "You meet a new librarian while your friend waits nearby. Which words help introduce yourself?",
+    "audioPrompt": "You meet a new librarian while your friend waits nearby. Which words help introduce yourself?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Sibling: Can I use it next? Librarian: May I borrow this book, please?",
-      "Sibling: Give it here. Librarian: Give me that book.",
-      "Sibling: I formally request it. Librarian: Hey, pass me that book."
+      "Hello, I am Remy from Year 2. Could you help me find a book?",
+      "You remember what I like, don't you?",
+      "Hey, you! Pick something."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Both requests have the same purpose, but their wording suits a familiar sibling and a librarian.\nHint: Check the relationship with each listener as well as the purpose.",
+    "explanation": "An introduction supplies information a new listener does not yet know.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Both requests have the same purpose, but their wording suits a familiar sibling and a librarian.",
-      "hint": "Check the relationship with each listener as well as the purpose."
+      "summary": "An introduction supplies information a new listener does not yet know.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +35,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-002",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "giving useful feedback on artwork direct",
+    "skill": "repair test",
     "printable": true,
     "type": "single",
-    "question": "A partner asks for feedback on a bird painting. Which comment is kind and useful?",
-    "audioPrompt": "A partner asks for feedback on a bird painting. Which comment is kind and useful?",
+    "question": "You gave a classmate the wrong meeting time. What could you say?",
+    "audioPrompt": "You gave a classmate the wrong meeting time. What could you say?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +47,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The bird is bright because you used lots of paint.",
-      "The bright wings stand out. You could add a branch to show where the bird is.",
-      "Add more colours so every part of the page looks busy."
+      "You should have guessed the right time.",
+      "I am sorry. I told you two o'clock, but we meet at one.",
+      "The time does not matter now."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
     "correct": 1,
-    "explanation": "The comment names a strength and offers a respectful suggestion the artist can use.\nHint: Useful feedback helps the listener without insulting their work.",
+    "explanation": "The speaker takes responsibility and gives the corrected information.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The comment names a strength and offers a respectful suggestion the artist can use.",
-      "hint": "Useful feedback helps the listener without insulting their work."
+      "summary": "The speaker takes responsibility and gives the corrected information.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,11 +66,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-003",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "asking permission at home direct",
+    "skill": "purpose test",
     "printable": true,
     "type": "single",
-    "question": "Mason wants to ride his bike after homework. Which words suit asking his carer?",
-    "audioPrompt": "Mason wants to ride his bike after homework. Which words suit asking his carer?",
+    "question": "A child tells a friend, 'Great save!' after a game. Which purpose best fits these words?",
+    "audioPrompt": "A child tells a friend, 'Great save!' after a game. Which purpose best fits these words?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -78,18 +78,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Can I ride now and finish my homework later?",
-      "I am taking my bike out now; I will be back soon.",
-      "May I ride my bike after I finish my homework?"
+      "Requesting a new ball.",
+      "Giving directions to the court.",
+      "Praising the friend's action."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Mason asks permission and shows that he understands the home expectation.\nHint: Choose a respectful question rather than an announcement or demand.",
+    "explanation": "The brief friendly comment congratulates someone in the game context.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Mason asks permission and shows that he understands the home expectation.",
-      "hint": "Choose a respectful question rather than an announcement or demand."
+      "summary": "The brief friendly comment congratulates someone in the game context.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +97,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-004",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "clarifying an unclear instruction direct",
+    "skill": "role test",
     "printable": true,
     "type": "single",
-    "question": "The teacher says, ‘Finish the map.’ Which question politely checks what to do first?",
-    "audioPrompt": "The teacher says, ‘Finish the map.’ Which question politely checks what to do first?",
+    "question": "You are interviewing a gardener for a class report. Which question fits your role?",
+    "audioPrompt": "You are interviewing a gardener for a class report. Which question fits your role?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +109,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do you mean we should colour the map before adding the labels?",
-      "Should I use only blue for the whole map?",
-      "Can I finish the map after lunch instead?"
+      "How do you decide when the seedlings need water?",
+      "Can you write my whole report for me?",
+      "Why is my friend sitting there?"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
     "correct": 0,
-    "explanation": "The question identifies the exact part of the instruction that needs clarification.\nHint: Ask a specific, respectful question about what is unclear.",
+    "explanation": "An interviewer asks a relevant question that gathers information from the guest.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The question identifies the exact part of the instruction that needs clarification.",
-      "hint": "Ask a specific, respectful question about what is unclear."
+      "summary": "An interviewer asks a relevant question that gathers information from the guest.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,11 +128,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-005",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "responding during welcome to country direct",
+    "skill": "emergency test",
     "printable": true,
     "type": "single",
-    "question": "An Elder is giving a Welcome to Country at a school event. Which action shows respect?",
-    "audioPrompt": "An Elder is giving a Welcome to Country at a school event. Which action shows respect?",
+    "question": "A child feels faint during sport. Which message helps the teacher act?",
+    "audioPrompt": "A child feels faint during sport. Which message helps the teacher act?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -140,18 +140,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Write down unfamiliar words to use later without asking when they fit.",
-      "Listen quietly and follow the cultural guidance shared at the event.",
-      "Stay quiet but keep working on another task during the speech."
+      "Something happened somewhere.",
+      "Please help. Someone feels faint beside the goal.",
+      "We are all doing sport now."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
     "correct": 1,
-    "explanation": "Listening and following the shared guidance respects the Elder's role and the cultural protocol.\nHint: Think about the role of the speaker and how a respectful audience behaves.",
+    "explanation": "A helpful urgent message names the problem and the location.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Listening and following the shared guidance respects the Elder's role and the cultural protocol.",
-      "hint": "Think about the role of the speaker and how a respectful audience behaves."
+      "summary": "A helpful urgent message names the problem and the location.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,11 +159,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-006",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "noticing tone and body language direct",
+    "skill": "disagree test",
     "printable": true,
     "type": "single",
-    "question": "Tess says ‘Fine’ with a smile, then ‘Fine!’ with folded arms. What should her friend notice?",
-    "audioPrompt": "Tess says ‘Fine’ with a smile, then ‘Fine!’ with folded arms. What should her friend notice?",
+    "question": "Your group wants a long title. You think a short one is easier to read. What could you say?",
+    "audioPrompt": "Your group wants a long title. You think a short one is easier to read. What could you say?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -171,18 +171,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both messages mean the same because the word is unchanged.",
-      "The louder voice shows that the second message is friendlier.",
-      "Her tone and body language make the second message sound upset."
+      "Everyone else's titles are silly.",
+      "I will rub yours out without asking.",
+      "Could we try a shorter title so it fits on one line?"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
     "correct": 2,
-    "explanation": "The same word can communicate a different feeling when tone and body language change.\nHint: Use clues from the voice, face and posture as well as the word.",
+    "explanation": "The suggestion explains a reason and invites the group to consider it.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The same word can communicate a different feeling when tone and body language change.",
-      "hint": "Use clues from the voice, face and posture as well as the word."
+      "summary": "The suggestion explains a reason and invites the group to consider it.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +190,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-007",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "requesting quiet respectfully direct",
+    "skill": "boundary test",
     "printable": true,
     "type": "single",
-    "question": "People are reading in the library. Which request is firm and respectful?",
-    "audioPrompt": "People are reading in the library. Which request is firm and respectful?",
+    "question": "A friend keeps tapping your arm while you work. Which words set a respectful boundary?",
+    "audioPrompt": "A friend keeps tapping your arm while you work. Which words set a respectful boundary?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +202,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Please use quiet voices so everyone can keep reading.",
-      "You need to stop talking right now.",
-      "Could people maybe make less noise sometime?"
+      "Please stop tapping my arm. I need to finish this.",
+      "You are not allowed to talk to anyone.",
+      "I will tap you back harder."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
     "correct": 0,
-    "explanation": "The request clearly states what is needed and gives a reason without insulting anyone.\nHint: Look for clear words that respect the listeners.",
+    "explanation": "A firm request names the behaviour to stop without threatening the friend.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The request clearly states what is needed and gives a reason without insulting anyone.",
-      "hint": "Look for clear words that respect the listeners."
+      "summary": "A firm request names the behaviour to stop without threatening the friend.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +221,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-008",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "entering a group discussion direct",
+    "skill": "setting test",
     "printable": true,
     "type": "single",
-    "question": "Three classmates are discussing a story ending. How can Nia join the discussion politely?",
-    "audioPrompt": "Three classmates are discussing a story ending. How can Nia join the discussion politely?",
+    "question": "A teacher asks the same class to cheer outdoors and speak softly in a museum. Why do the directions differ?",
+    "audioPrompt": "A teacher asks the same class to cheer outdoors and speak softly in a museum. Why do the directions differ?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +233,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Say the idea straight away while a classmate is speaking.",
-      "May I add an idea about why the character left?",
-      "Wait for a pause, then begin talking about a different story."
+      "Children cannot use the same voices twice.",
+      "The settings call for different sound levels.",
+      "Museums do not allow any questions."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Nia signals that she wants to contribute while respecting the speakers and topic.\nHint: Choose words that make space for an idea without taking over the group.",
+    "explanation": "Language and voice are adjusted to the setting and the needs of others.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Nia signals that she wants to contribute while respecting the speakers and topic.",
-      "hint": "Choose words that make space for an idea without taking over the group."
+      "summary": "Language and voice are adjusted to the setting and the needs of others.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +252,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-009",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "changing a request for two roles test-reason",
+    "skill": "explain test",
     "printable": true,
     "type": "single",
-    "question": "Which pair asks for an item in ways that suit both listeners? Which reason best supports the correct choice?",
-    "audioPrompt": "Which pair asks for an item in ways that suit both listeners? Which reason best supports the correct choice?",
+    "question": "A visitor asks where the toilets are. Which reply gives helpful directions?",
+    "audioPrompt": "A visitor asks where the toilets are. Which reply gives helpful directions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +264,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Both requests have the same purpose, but their wording suits a familiar sibling and a librarian."
+      "Over there, where they always are.",
+      "Somewhere past the rooms.",
+      "Go along this hall, then turn left at the office."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Both requests have the same purpose, but their wording suits a familiar sibling and a librarian.\nHint: Check the relationship with each listener as well as the purpose.",
+    "explanation": "Specific directions help someone unfamiliar with the building.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Both requests have the same purpose, but their wording suits a familiar sibling and a librarian.",
-      "hint": "Check the relationship with each listener as well as the purpose."
+      "summary": "Specific directions help someone unfamiliar with the building.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +283,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-010",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "giving useful feedback on artwork test-reason",
+    "skill": "welcome test",
     "printable": true,
     "type": "single",
-    "question": "A partner asks for feedback on a bird painting. Which comment is kind and useful? Which reason best supports the correct choice?",
-    "audioPrompt": "A partner asks for feedback on a bird painting. Which comment is kind and useful? Which reason best supports the correct choice?",
+    "question": "A child joins your game for the first time. Which comment helps them join in?",
+    "audioPrompt": "A child joins your game for the first time. Which comment helps them join in?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +295,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The comment names a strength and offers a respectful suggestion the artist can use.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Welcome! We take turns throwing from this line.",
+      "You should already know our rules.",
+      "We started, so you cannot learn now."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 10,
     "correct": 0,
-    "explanation": "The comment names a strength and offers a respectful suggestion the artist can use.\nHint: Useful feedback helps the listener without insulting their work.",
+    "explanation": "A welcome and a short explanation support a newcomer.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The comment names a strength and offers a respectful suggestion the artist can use.",
-      "hint": "Useful feedback helps the listener without insulting their work."
+      "summary": "A welcome and a short explanation support a newcomer.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +314,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-011",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "asking permission at home test-reason",
+    "skill": "thanks test",
     "printable": true,
     "type": "single",
-    "question": "Mason wants to ride his bike after homework. Which words suit asking his carer? Which reason best supports the correct choice?",
-    "audioPrompt": "Mason wants to ride his bike after homework. Which words suit asking his carer? Which reason best supports the correct choice?",
+    "question": "A classmate stayed to help you tidy spilled paint. Which thanks names what you appreciate?",
+    "audioPrompt": "A classmate stayed to help you tidy spilled paint. Which thanks names what you appreciate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +326,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "Mason asks permission and shows that he understands the home expectation.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Thanks for everything that ever happened.",
+      "Thanks for helping me clean the paint off the table.",
+      "You finished after everyone else."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Mason asks permission and shows that he understands the home expectation.\nHint: Choose a respectful question rather than an announcement or demand.",
+    "explanation": "Specific thanks connects appreciation to the helpful action.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Mason asks permission and shows that he understands the home expectation.",
-      "hint": "Choose a respectful question rather than an announcement or demand."
+      "summary": "Specific thanks connects appreciation to the helpful action.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,11 +345,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-012",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "clarifying an unclear instruction test-reason",
+    "skill": "listen test",
     "printable": true,
     "type": "single",
-    "question": "The teacher says, ‘Finish the map.’ Which question politely checks what to do first? Which reason best supports the correct choice?",
-    "audioPrompt": "The teacher says, ‘Finish the map.’ Which question politely checks what to do first? Which reason best supports the correct choice?",
+    "question": "During a partner's explanation you realise you misunderstood. Which reply checks meaning?",
+    "audioPrompt": "During a partner's explanation you realise you misunderstood. Which reply checks meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -357,18 +357,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "The question identifies the exact part of the instruction that needs clarification."
+      "I will just do something else.",
+      "You are explaining it wrong.",
+      "Do you mean we fold it before we cut it?"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 12,
     "correct": 2,
-    "explanation": "The question identifies the exact part of the instruction that needs clarification.\nHint: Ask a specific, respectful question about what is unclear.",
+    "explanation": "Checking your understanding keeps the interaction focused and respectful.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The question identifies the exact part of the instruction that needs clarification.",
-      "hint": "Ask a specific, respectful question about what is unclear."
+      "summary": "Checking your understanding keeps the interaction focused and respectful.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +376,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-013",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "responding during welcome to country test-reason",
+    "skill": "written context test",
     "printable": true,
     "type": "single",
-    "question": "An Elder is giving a Welcome to Country at a school event. Which action shows respect? Which reason best supports the correct choice?",
-    "audioPrompt": "An Elder is giving a Welcome to Country at a school event. Which action shows respect? Which reason best supports the correct choice?",
+    "question": "A message goes to every family in the class. Which wording is clearest?",
+    "audioPrompt": "A message goes to every family in the class. Which wording is clearest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +388,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Listening and following the shared guidance respects the Elder's role and the cultural protocol.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Please bring a hat for our walk on Tuesday.",
+      "Bring that thing tomorrow, like we said.",
+      "You all know what to bring."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Listening and following the shared guidance respects the Elder's role and the cultural protocol.\nHint: Think about the role of the speaker and how a respectful audience behaves.",
+    "explanation": "A group message gives explicit details rather than assuming shared knowledge.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Listening and following the shared guidance respects the Elder's role and the cultural protocol.",
-      "hint": "Think about the role of the speaker and how a respectful audience behaves."
+      "summary": "A group message gives explicit details rather than assuming shared knowledge.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +407,11 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-014",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "noticing tone and body language test-reason",
+    "skill": "role compare test",
     "printable": true,
     "type": "single",
-    "question": "Tess says ‘Fine’ with a smile, then ‘Fine!’ with folded arms. What should her friend notice? Which reason best supports the correct choice?",
-    "audioPrompt": "Tess says ‘Fine’ with a smile, then ‘Fine!’ with folded arms. What should her friend notice? Which reason best supports the correct choice?",
+    "question": "A pupil says, 'May I have a turn?' The game organiser says, 'Your turn is next.' What do their words show?",
+    "audioPrompt": "A pupil says, 'May I have a turn?' The game organiser says, 'Your turn is next.' What do their words show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +419,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The same word can communicate a different feeling when tone and body language change.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Both are asking to leave the game.",
+      "One requests a turn; the other manages the turns.",
+      "Only one person is being respectful."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 14,
     "correct": 1,
-    "explanation": "The same word can communicate a different feeling when tone and body language change.\nHint: Use clues from the voice, face and posture as well as the word.",
+    "explanation": "Different responsibilities lead to different but equally respectful language.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The same word can communicate a different feeling when tone and body language change.",
-      "hint": "Use clues from the voice, face and posture as well as the word."
+      "summary": "Different responsibilities lead to different but equally respectful language.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -438,11 +438,17 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-015",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "requesting quiet respectfully test-reason",
+    "skill": "spoken test",
     "printable": true,
-    "type": "single",
-    "question": "People are reading in the library. Which request is firm and respectful? Which reason best supports the correct choice?",
-    "audioPrompt": "People are reading in the library. Which request is firm and respectful? Which reason best supports the correct choice?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: 'When you are ready, could you explain the first step?' Then use short, clear words to guide the younger child.",
+    "acceptanceNote": "Accept a considerate help request and a helpful explanation suited to the younger listener. Ask the child to explain the difference in their roles.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Tell an adult how you would ask a busy teacher to explain a task, then how you would explain that task to a younger child.",
+    "audioPrompt": "Tell an adult how you would ask a busy teacher to explain a task, then how you would explain that task to a younger child.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +456,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "The request clearly states what is needed and gives a reason without insulting anyone."
+      "Response not yet reviewed",
+      "Revise with an adult",
+      "Adult review required"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 15,
-    "correct": 2,
-    "explanation": "The request clearly states what is needed and gives a reason without insulting anyone.\nHint: Look for clear words that respect the listeners.",
+    "correct": "Example: 'When you are ready, could you explain the first step?' Then use short, clear words to guide the younger child.",
+    "explanation": "Accept a considerate help request and a helpful explanation suited to the younger listener. Ask the child to explain the difference in their roles.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The request clearly states what is needed and gives a reason without insulting anyone.",
-      "hint": "Look for clear words that respect the listeners."
+      "summary": "Accept a considerate help request and a helpful explanation suited to the younger listener. Ask the child to explain the difference in their roles.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +475,17 @@ window.skillrTestQuestions = [
     "id": "ac9e2la01-t-016",
     "curriculumCode": "AC9E2LA01",
     "bank": "test",
-    "skill": "entering a group discussion test-reason",
+    "skill": "context test",
     "printable": true,
-    "type": "single",
-    "question": "Three classmates are discussing a story ending. How can Nia join the discussion politely? Which reason best supports the correct choice?",
-    "audioPrompt": "Three classmates are discussing a story ending. How can Nia join the discussion politely? Which reason best supports the correct choice?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: a relaxed familiar greeting to the friend and a welcome with an offer to show the guest around.",
+    "acceptanceNote": "Accept two suitable greetings and an explanation linked to audience, relationship or hosting role. Accent and home-language differences are not errors.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Role-play greeting a friend at the playground and welcoming a guest to a class exhibition. Explain one language choice you made.",
+    "audioPrompt": "Role-play greeting a friend at the playground and welcoming a guest to a class exhibition. Explain one language choice you made.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +493,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Nia signals that she wants to contribute while respecting the speakers and topic.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      "Adult review required",
+      "Response not yet reviewed",
+      "Revise with an adult"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 16,
-    "correct": 0,
-    "explanation": "Nia signals that she wants to contribute while respecting the speakers and topic.\nHint: Choose words that make space for an idea without taking over the group.",
+    "correct": "Example: a relaxed familiar greeting to the friend and a welcome with an offer to show the guest around.",
+    "explanation": "Accept two suitable greetings and an explanation linked to audience, relationship or hosting role. Accent and home-language differences are not errors.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Nia signals that she wants to contribute while respecting the speakers and topic.",
-      "hint": "Choose words that make space for an idea without taking over the group."
+      "summary": "Accept two suitable greetings and an explanation linked to audience, relationship or hosting role. Accent and home-language differences are not errors.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   }

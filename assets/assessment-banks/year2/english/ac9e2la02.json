@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "giving_a_reason_about_a_poem_direct",
-    "question": "Which response gives a preference and a reason about the poem?",
-    "audio_prompt": "Which response gives a preference and a reason about the poem?",
+    "skill": "preference_reason",
+    "question": "Read: 'The beetle wore boots and danced on a spoon.' Which response explains enjoyment of the line?",
+    "audio_prompt": "Read: 'The beetle wore boots and danced on a spoon.' Which response explains enjoyment of the line?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I enjoyed the poem more than anything.",
-        "is_correct": false
-      },
-      {
-        "text": "I enjoyed the poem because its repeated sounds were fun to say.",
+        "text": "I like the silly picture of a beetle dancing in boots.",
         "is_correct": true
       },
       {
-        "text": "The poem has four lines on the page.",
+        "text": "The line is printed in a book.",
+        "is_correct": false
+      },
+      {
+        "text": "I have seen a beetle before.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response states a preference and links it to the poem's repeated sounds.",
-      "hint": "Look for both what the reader liked and why they liked it."
+      "summary": "The response links enjoyment to a specific amusing image in the words.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "using_character_evidence_direct",
-    "question": "Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response?",
-    "audio_prompt": "Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response?",
+    "skill": "sound_response",
+    "question": "Read aloud: 'Tip, tap, tiny rain; tip, tap, on the pane.' Which reason supports liking its sound?",
+    "audio_prompt": "Read aloud: 'Tip, tap, tiny rain; tip, tap, on the pane.' Which reason supports liking its sound?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Mina watched the cave from the safe path.",
+        "text": "The poem tells me where to buy a window.",
         "is_correct": false
       },
       {
-        "text": "Mina said that her dog was usually brave.",
-        "is_correct": false
-      },
-      {
-        "text": "Mina entered the dark cave to rescue her dog.",
+        "text": "The repeated 'tip, tap' sounds like little raindrops.",
         "is_correct": true
+      },
+      {
+        "text": "The line has no repeated words.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Entering the cave to help her dog is evidence of Mina acting bravely.",
-      "hint": "Choose an action that shows the character quality."
+      "summary": "The reader connects the repeated sound pattern with rain.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "responding_to_setting_details_direct",
-    "question": "Which response explains why a reader liked the forest setting?",
-    "audio_prompt": "Which response explains why a reader liked the forest setting?",
+    "skill": "character_response",
+    "question": "Read: 'The gate was heavy. Ada held it open until everyone had passed.' Which appreciation fits?",
+    "audio_prompt": "Read: 'The gate was heavy. Ada held it open until everyone had passed.' Which appreciation fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I liked the mist and twisted trees because they made the forest mysterious.",
+        "text": "I like Ada because she wins the race.",
+        "is_correct": false
+      },
+      {
+        "text": "I like Ada's joke about the gate.",
+        "is_correct": false
+      },
+      {
+        "text": "I like Ada's kindness because she waits for everyone.",
         "is_correct": true
-      },
-      {
-        "text": "I liked the forest because it was the story's setting.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the trees because there were many of them.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The response names setting details and explains the feeling they create.",
-      "hint": "Find a reason that points to words describing the setting."
+      "summary": "Holding the gate for others is evidence of consideration; no race or joke appears.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "explaining_an_illustration_s_effect_direct",
-    "question": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
-    "audio_prompt": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
+    "skill": "setting_response",
+    "question": "Read: 'Soft moss covered the path. A stream whispered beside it.' Which response uses details to explain a feeling?",
+    "audio_prompt": "Read: 'Soft moss covered the path. A stream whispered beside it.' Which response uses details to explain a feeling?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The large picture must be the most important part of the story.",
-        "is_correct": false
-      },
-      {
-        "text": "The close-up makes the chick's fear easy to notice.",
+        "text": "I enjoyed the peaceful setting because of the soft moss and quiet stream.",
         "is_correct": true
       },
       {
-        "text": "The leaf shows that the chick is calm and ready to play.",
+        "text": "I enjoyed the crowded setting because everyone shouted.",
+        "is_correct": false
+      },
+      {
+        "text": "I enjoyed the setting because it was a setting.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The close view helps the reader notice the chick's fearful expression and pose.",
-      "hint": "Connect a visible feature of the picture to the meaning it adds."
+      "summary": "The response names language that creates a calm impression.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "choosing_evidence_for_humour_direct",
-    "question": "Which event best supports a reader saying that a story is funny?",
-    "audio_prompt": "Which event best supports a reader saying that a story is funny?",
+    "skill": "information_response",
+    "question": "A page explains how a seed grows and labels its root and shoot. Which reason explains why a reader values the page?",
+    "audio_prompt": "A page explains how a seed grows and labels its root and shoot. Which reason explains why a reader values the page?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A penguin carefully folds its towel before swimming.",
+        "text": "The page must be good because it has a number.",
         "is_correct": false
       },
       {
-        "text": "A penguin watches raindrops slide down the window.",
-        "is_correct": false
-      },
-      {
-        "text": "A penguin uses a bathtub as a boat and salutes the taps.",
+        "text": "The labels help me tell the root from the shoot.",
         "is_correct": true
+      },
+      {
+        "text": "Every page about seeds is my favourite.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The penguin's unexpected actions create a playful, humorous moment.",
-      "hint": "Look for an event meant to make the reader laugh."
+      "summary": "The reader identifies a feature and explains how it helps understanding.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "matching_a_reason_with_evidence_direct",
-    "question": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
-    "audio_prompt": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
+    "skill": "precise_appreciation",
+    "question": "Which word best completes this response? 'The puppy kept slipping on the shiny floor. That scene made me laugh; it was ___. '",
+    "audio_prompt": "Which word best completes this response? 'The puppy kept slipping on the shiny floor. That scene made me laugh; it was ___. '",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The fox hid the key in a hollow log before the guard arrived.",
+        "text": "frightening",
+        "is_correct": false
+      },
+      {
+        "text": "lonely",
+        "is_correct": false
+      },
+      {
+        "text": "amusing",
         "is_correct": true
-      },
-      {
-        "text": "The fox ran quickly along the same path as the guard.",
-        "is_correct": false
-      },
-      {
-        "text": "The fox slept beside the log until the guard arrived.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Hiding the key before the guard arrived shows the fox using a clever plan.",
-      "hint": "Choose the detail that proves the reason, not just any fact."
+      "summary": "Amusing describes something that makes the reader laugh.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "accepting_different_preferences_direct",
-    "question": "Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
-    "audio_prompt": "Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
+    "skill": "preference_comparison",
+    "question": "Text A lists facts about clouds. Text B follows a cloud on an imaginary journey. Which response gives a reason for preferring B?",
+    "audio_prompt": "Text A lists facts about clouds. Text B follows a cloud on an imaginary journey. Which response gives a reason for preferring B?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Leo's preference matters more because written events count more than images.",
-        "is_correct": false
-      },
-      {
-        "text": "Both preferences can make sense if each reader gives evidence.",
+        "text": "I prefer B because I enjoy imagining an adventure.",
         "is_correct": true
       },
       {
-        "text": "Priya's preference matters more because readers see pictures before words.",
+        "text": "I prefer B because A is a text.",
+        "is_correct": false
+      },
+      {
+        "text": "B is better and nobody may disagree.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Readers may value different features when they support their responses with the text.",
-      "hint": "Personal preferences can differ, but each reason still needs support."
+      "summary": "The reader connects a personal preference with the imaginative feature of B.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "explaining_suspense_in_a_mystery_direct",
-    "question": "Which response explains why a reader preferred the mystery story?",
-    "audio_prompt": "Which response explains why a reader preferred the mystery story?",
+    "skill": "different_preferences",
+    "question": "Jay enjoys a fast chase in a story. Lee enjoys the quiet ending. Which response respects both views?",
+    "audio_prompt": "Jay enjoys a fast chase in a story. Lee enjoys the quiet ending. Which response respects both views?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I preferred it because the muddy prints were brown.",
+        "text": "Only the first reader's opinion counts.",
         "is_correct": false
       },
       {
-        "text": "I preferred it because the answer was explained on the first page.",
-        "is_correct": false
-      },
-      {
-        "text": "I kept wondering who left the muddy prints until the last page.",
+        "text": "We enjoyed different parts, and we can explain why.",
         "is_correct": true
+      },
+      {
+        "text": "We must choose the same favourite part.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Waiting for the answer to the muddy-print clue creates suspense for the reader.",
-      "hint": "Choose a reason connected to how the plot affects the reader."
+      "summary": "Text preferences can differ while still being supported with reasons.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "appreciating_an_information_book_direct",
-    "question": "Which reason supports preferring a book about bees?",
-    "audio_prompt": "Which reason supports preferring a book about bees?",
+    "stage": "connect",
+    "skill": "dislike_reason",
+    "question": "A story changes location so often that a reader loses track. Which response explains a dislike usefully?",
+    "audio_prompt": "A story changes location so often that a reader loses track. Which response explains a dislike usefully?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Its labelled diagram helped me understand how bees carry pollen.",
+        "text": "The author is a bad person.",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone must dislike this book.",
+        "is_correct": false
+      },
+      {
+        "text": "I found the quick changes confusing because I could not tell where the characters were.",
         "is_correct": true
-      },
-      {
-        "text": "Its yellow cover matched the bee's stripes.",
-        "is_correct": false
-      },
-      {
-        "text": "Its made-up bee adventure had a surprising ending.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The labelled diagram is a useful text feature that helps explain the information.",
-      "hint": "Look for a feature that helps the reader learn about bees."
+      "summary": "The response explains the effect of a text feature without attacking the author.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "responding_to_a_lullaby_s_sound_direct",
-    "question": "Which sentence uses precise words to appreciate a lullaby?",
-    "audio_prompt": "Which sentence uses precise words to appreciate a lullaby?",
+    "stage": "connect",
+    "skill": "evidence_choice",
+    "question": "A reader says, 'I liked the surprising ending.' Which ending supports that reason?",
+    "audio_prompt": "A reader says, 'I liked the surprising ending.' Which ending supports that reason?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The fast, bouncy beat made the lullaby calm.",
-        "is_correct": false
-      },
-      {
-        "text": "The gentle rhythm made the lullaby feel calm and soothing.",
+        "text": "The missing crown was on the queen's head all along.",
         "is_correct": true
       },
       {
-        "text": "The repeated word made the lullaby longer to perform.",
+        "text": "The queen put on the crown exactly as planned.",
+        "is_correct": false
+      },
+      {
+        "text": "The crown was described on the first page.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Gentle rhythm and soothing explain both a sound feature and its effect.",
-      "hint": "Choose words that name the sound and how it makes the listener feel."
+      "summary": "An unexpected discovery explains the reader's sense of surprise.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "giving_a_reason_about_a_poem_explain",
-    "question": "Which response gives a preference and a reason about the poem? Why is “I enjoyed the poem because its repeated sounds were fun to say.” the best answer?",
-    "audio_prompt": "Which response gives a preference and a reason about the poem? Why is “I enjoyed the poem because its repeated sounds were fun to say.” the best answer?",
+    "stage": "connect",
+    "skill": "strength_of_feeling",
+    "question": "Which response expresses stronger enjoyment than 'I liked the story'?",
+    "audio_prompt": "Which response expresses stronger enjoyment than 'I liked the story'?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “I enjoyed the poem more than anything.”.",
+        "text": "I noticed that the story had pages.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "The response states a preference and links it to the poem's repeated sounds.",
+        "text": "I loved the story and wanted to read it again.",
         "is_correct": true
+      },
+      {
+        "text": "I did not enjoy the story.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The response states a preference and links it to the poem's repeated sounds.",
-      "hint": "Look for both what the reader liked and why they liked it."
+      "summary": "Loved and wanting to reread express stronger enthusiasm than liked.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 11,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "using_character_evidence_explain",
-    "question": "Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response? Why is “Mina entered the dark cave to rescue her dog.” the best answer?",
-    "audio_prompt": "Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response? Why is “Mina entered the dark cave to rescue her dog.” the best answer?",
+    "stage": "connect",
+    "skill": "gentle_vocabulary",
+    "question": "Read: 'The moon rocked the sleepy sea.' Which response best explains the gentle language?",
+    "audio_prompt": "Read: 'The moon rocked the sleepy sea.' Which response best explains the gentle language?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Entering the cave to help her dog is evidence of Mina acting bravely.",
+        "text": "I found it noisy because it described a loud crash.",
+        "is_correct": false
+      },
+      {
+        "text": "I found it useful because it listed boat prices.",
+        "is_correct": false
+      },
+      {
+        "text": "I found it soothing because it made me imagine slow, calm movement.",
         "is_correct": true
-      },
-      {
-        "text": "It is best only because it is longer than “Mina watched the cave from the safe path.”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Entering the cave to help her dog is evidence of Mina acting bravely.",
-      "hint": "Choose an action that shows the character quality."
+      "summary": "The rocking image and sleepy sea support a calm response.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 12,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "responding_to_setting_details_explain",
-    "question": "Which response explains why a reader liked the forest setting? Why is “I liked the mist and twisted trees because they made the forest mysterious.” the best answer?",
-    "audio_prompt": "Which response explains why a reader liked the forest setting? Why is “I liked the mist and twisted trees because they made the forest mysterious.” the best answer?",
+    "stage": "connect",
+    "skill": "supported_humour",
+    "question": "Read: 'Dad searched for his glasses. They were sitting on his nose.' Which reason fits finding this funny?",
+    "audio_prompt": "Read: 'Dad searched for his glasses. They were sitting on his nose.' Which reason fits finding this funny?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “I liked the forest because it was the story's setting.”.",
-        "is_correct": false
-      },
-      {
-        "text": "The response names setting details and explains the feeling they create.",
+        "text": "He is looking for something already on his face.",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "He is wearing a red coat.",
+        "is_correct": false
+      },
+      {
+        "text": "He has broken his glasses.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response names setting details and explains the feeling they create.",
-      "hint": "Find a reason that points to words describing the setting."
+      "summary": "The humour comes from the difference between what Dad thinks and where the glasses are.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 13,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "explaining_an_illustration_s_effect_explain",
-    "question": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported? Why is “The close-up makes the chick's fear easy to notice.” the best answer?",
-    "audio_prompt": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported? Why is “The close-up makes the chick's fear easy to notice.” the best answer?",
+    "stage": "connect",
+    "skill": "improve_response",
+    "question": "A reader says, 'The map was good.' Which addition makes the appreciation more useful?",
+    "audio_prompt": "A reader says, 'The map was good.' Which addition makes the appreciation more useful?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “The large picture must be the most important part of the story.”.",
+        "text": "It was somewhere inside the book.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "The close view helps the reader notice the chick's fearful expression and pose.",
+        "text": "It showed the route so I could follow the explorers.",
         "is_correct": true
+      },
+      {
+        "text": "Good maps are always good.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The close view helps the reader notice the chick's fearful expression and pose.",
-      "hint": "Connect a visible feature of the picture to the meaning it adds."
+      "summary": "The added reason explains what the map helped the reader do.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 14,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "choosing_evidence_for_humour_explain",
-    "question": "Which event best supports a reader saying that a story is funny? Why is “A penguin uses a bathtub as a boat and salutes the taps.” the best answer?",
-    "audio_prompt": "Which event best supports a reader saying that a story is funny? Why is “A penguin uses a bathtub as a boat and salutes the taps.” the best answer?",
+    "stage": "connect",
+    "skill": "opinion_fact",
+    "question": "Which sentence expresses appreciation rather than only a fact about a book?",
+    "audio_prompt": "Which sentence expresses appreciation rather than only a fact about a book?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The penguin's unexpected actions create a playful, humorous moment.",
+        "text": "The book has two sisters in it.",
+        "is_correct": false
+      },
+      {
+        "text": "The title contains four words.",
+        "is_correct": false
+      },
+      {
+        "text": "I enjoyed the lively dialogue between the sisters.",
         "is_correct": true
-      },
-      {
-        "text": "It is best only because it is longer than “A penguin carefully folds its towel before swimming.”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The penguin's unexpected actions create a playful, humorous moment.",
-      "hint": "Look for an event meant to make the reader laugh."
+      "summary": "Enjoyed expresses a personal response to a feature of the writing.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 15,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "matching_a_reason_with_evidence_explain",
-    "question": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason? Why is “The fox hid the key in a hollow log before the guard arrived.” the best answer?",
-    "audio_prompt": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason? Why is “The fox hid the key in a hollow log before the guard arrived.” the best answer?",
+    "stage": "connect",
+    "skill": "reason_link",
+    "question": "Complete: 'I preferred the recipe with numbered steps because ___.'",
+    "audio_prompt": "Complete: 'I preferred the recipe with numbered steps because ___.'",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “The fox ran quickly along the same path as the guard.”.",
-        "is_correct": false
-      },
-      {
-        "text": "Hiding the key before the guard arrived shows the fox using a clever plan.",
+        "text": "I could follow the order easily",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "its page number was even",
+        "is_correct": false
+      },
+      {
+        "text": "the other recipe also used flour",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Hiding the key before the guard arrived shows the fox using a clever plan.",
-      "hint": "Choose the detail that proves the reason, not just any fact."
+      "summary": "Numbered steps support an ordered sequence, giving a relevant reason for the preference.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 16,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "accepting_different_preferences_explain",
-    "question": "Leo likes a story's action. Priya likes its pictures. Which comment is fair? Why is “Both preferences can make sense if each reader gives evidence.” the best answer?",
-    "audio_prompt": "Leo likes a story's action. Priya likes its pictures. Which comment is fair? Why is “Both preferences can make sense if each reader gives evidence.” the best answer?",
+    "stage": "connect",
+    "skill": "compare_words",
+    "question": "A reader felt a little uneasy, not terrified, during a storm scene. Which response matches?",
+    "audio_prompt": "A reader felt a little uneasy, not terrified, during a storm scene. Which response matches?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Leo's preference matters more because written events count more than images.”.",
+        "text": "The scene frightened me more than anything ever has.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "Readers may value different features when they support their responses with the text.",
+        "text": "The scene made me slightly nervous.",
         "is_correct": true
+      },
+      {
+        "text": "The scene made me completely relaxed.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Readers may value different features when they support their responses with the text.",
-      "hint": "Personal preferences can differ, but each reason still needs support."
+      "summary": "Slightly nervous matches a mild response rather than extreme fear or calm.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 17,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "explaining_suspense_in_a_mystery_explain",
-    "question": "Which response explains why a reader preferred the mystery story? Why is “I kept wondering who left the muddy prints until the last page.” the best answer?",
-    "audio_prompt": "Which response explains why a reader preferred the mystery story? Why is “I kept wondering who left the muddy prints until the last page.” the best answer?",
+    "stage": "connect",
+    "skill": "author_choice",
+    "question": "Read: 'The old door creaked. Something scratched on the other side.' Which appreciation connects to the author's choices?",
+    "audio_prompt": "Read: 'The old door creaked. Something scratched on the other side.' Which appreciation connects to the author's choices?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Waiting for the answer to the muddy-print clue creates suspense for the reader.",
+        "text": "I liked the clear answer because the creature was named.",
+        "is_correct": false
+      },
+      {
+        "text": "I liked the recipe because each step was numbered.",
+        "is_correct": false
+      },
+      {
+        "text": "I liked the suspense because the sounds made me wonder what was there.",
         "is_correct": true
-      },
-      {
-        "text": "It is best only because it is longer than “I preferred it because the muddy prints were brown.”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Waiting for the answer to the muddy-print clue creates suspense for the reader.",
-      "hint": "Choose a reason connected to how the plot affects the reader."
+      "summary": "Unexplained sounds create curiosity and tension.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 18,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "appreciating_an_information_book_explain",
-    "question": "Which reason supports preferring a book about bees? Why is “Its labelled diagram helped me understand how bees carry pollen.” the best answer?",
-    "audio_prompt": "Which reason supports preferring a book about bees? Why is “Its labelled diagram helped me understand how bees carry pollen.” the best answer?",
+    "stage": "connect",
+    "skill": "ending_response",
+    "question": "Read: 'After weeks of trying, the small bird finally flew.' Which response explains satisfaction with the ending?",
+    "audio_prompt": "Read: 'After weeks of trying, the small bird finally flew.' Which response explains satisfaction with the ending?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Its yellow cover matched the bee's stripes.”.",
-        "is_correct": false
-      },
-      {
-        "text": "The labelled diagram is a useful text feature that helps explain the information.",
+        "text": "I felt pleased because the bird's effort finally paid off.",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "I felt pleased because the story never ended.",
+        "is_correct": false
+      },
+      {
+        "text": "I felt pleased because the bird gave up.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The labelled diagram is a useful text feature that helps explain the information.",
-      "hint": "Look for a feature that helps the reader learn about bees."
+      "summary": "The ending resolves the bird's struggle with success.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 19,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "responding_to_a_lullaby_s_sound_explain",
-    "question": "Which sentence uses precise words to appreciate a lullaby? Why is “The gentle rhythm made the lullaby feel calm and soothing.” the best answer?",
-    "audio_prompt": "Which sentence uses precise words to appreciate a lullaby? Why is “The gentle rhythm made the lullaby feel calm and soothing.” the best answer?",
+    "stage": "connect",
+    "skill": "support_preference",
+    "question": "Which detail would help explain preferring a wildlife book for learning?",
+    "audio_prompt": "Which detail would help explain preferring a wildlife book for learning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “The fast, bouncy beat made the lullaby calm.”.",
+        "text": "The cover happens to match my shoes.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "Gentle rhythm and soothing explain both a sound feature and its effect.",
+        "text": "Clear captions explain what each animal is doing.",
         "is_correct": true
+      },
+      {
+        "text": "My friend placed it on the top shelf.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Gentle rhythm and soothing explain both a sound feature and its effect.",
-      "hint": "Choose words that name the sound and how it makes the listener feel."
+      "summary": "Captions contribute to learning about the animals; the other details do not.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty_tier": "developing",
     "sequence_priority": 20,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "responding_to_setting_details_discriminate",
-    "question": "Which response explains why a reader liked the forest setting? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Which response explains why a reader liked the forest setting? Which response is the clearest mix-up to avoid?",
+    "stage": "connect",
+    "skill": "respectful_recommendation",
+    "question": "Which recommendation gives another reader a useful reason?",
+    "audio_prompt": "Which recommendation gives another reader a useful reason?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I liked the forest because it was the story's setting.",
+        "text": "Read it because everyone has to like my book.",
+        "is_correct": false
+      },
+      {
+        "text": "Read it because books are made of paper.",
+        "is_correct": false
+      },
+      {
+        "text": "Try this story if you enjoy solving clues before the detective.",
         "is_correct": true
-      },
-      {
-        "text": "I liked the mist and twisted trees because they made the forest mysterious.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the trees because there were many of them.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“I liked the forest because it was the story's setting.” is the mix-up to avoid. Find a reason that points to words describing the setting.",
-      "hint": "Find a reason that points to words describing the setting."
+      "summary": "The recommendation connects the story's feature to a possible reader interest.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 21,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "explaining_an_illustration_s_effect_discriminate",
-    "question": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported? Which response is the clearest mix-up to avoid?",
+    "stage": "connect",
+    "skill": "text_specific_reason",
+    "question": "Read: 'The train clattered, rattled and roared into the station.' Which comment appreciates these words?",
+    "audio_prompt": "Read: 'The train clattered, rattled and roared into the station.' Which comment appreciates these words?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The close-up makes the chick's fear easy to notice.",
-        "is_correct": false
-      },
-      {
-        "text": "The large picture must be the most important part of the story.",
+        "text": "The noisy verbs helped me hear the train in my mind.",
         "is_correct": true
       },
       {
-        "text": "The leaf shows that the chick is calm and ready to play.",
+        "text": "The words explained the price of a ticket.",
+        "is_correct": false
+      },
+      {
+        "text": "The words made the train seem silent.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“The large picture must be the most important part of the story.” is the mix-up to avoid. Connect a visible feature of the picture to the meaning it adds.",
-      "hint": "Connect a visible feature of the picture to the meaning it adds."
+      "summary": "The sound-rich verbs support an imagined sound experience.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 22,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-P-023",
@@ -841,37 +841,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "choosing_evidence_for_humour_discriminate",
-    "question": "Which event best supports a reader saying that a story is funny? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Which event best supports a reader saying that a story is funny? Which response is the clearest mix-up to avoid?",
+    "stage": "apply",
+    "skill": "personal_response",
+    "question": "Read: 'A paper boat sailed down the gutter. A beetle rode on top like a captain.' Say or write whether you enjoyed this tiny story and give a reason linked to its words.",
+    "audio_prompt": "Read: 'A paper boat sailed down the gutter. A beetle rode on top like a captain.' Say or write whether you enjoyed this tiny story and give a reason linked to its words.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A penguin uses a bathtub as a boat and salutes the taps.",
+        "text": "Response not yet reviewed",
         "is_correct": false
       },
       {
-        "text": "A penguin watches raindrops slide down the window.",
-        "is_correct": false
-      },
-      {
-        "text": "A penguin carefully folds its towel before swimming.",
+        "text": "Adult review required",
         "is_correct": true
+      },
+      {
+        "text": "Revise with an adult",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“A penguin carefully folds its towel before swimming.” is the mix-up to avoid. Look for an event meant to make the reader laugh.",
-      "hint": "Look for an event meant to make the reader laugh."
+      "summary": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "transfer",
     "sequence_priority": 23,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1",
+    "grading_mode": "adult-review",
+    "model_answer": "Example: 'I enjoyed it because the beetle acting like a captain was funny.' A reasoned dislike is equally acceptable.",
+    "acceptance_note": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.",
+    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LA02-P-024",
@@ -879,645 +884,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "matching_a_reason_with_evidence_discriminate",
-    "question": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason? Which response is the clearest mix-up to avoid?",
+    "stage": "apply",
+    "skill": "compare_response",
+    "question": "Read A: 'The dog is wet.' Read B: 'Water dripped from the dog's whiskers onto my shoes.' Choose the version you prefer and explain why.",
+    "audio_prompt": "Read A: 'The dog is wet.' Read B: 'Water dripped from the dog's whiskers onto my shoes.' Choose the version you prefer and explain why.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The fox ran quickly along the same path as the guard.",
+        "text": "Response not yet reviewed",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with an adult",
+        "is_correct": false
+      },
+      {
+        "text": "Adult review required",
         "is_correct": true
-      },
-      {
-        "text": "The fox hid the key in a hollow log before the guard arrived.",
-        "is_correct": false
-      },
-      {
-        "text": "The fox slept beside the log until the guard arrived.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“The fox ran quickly along the same path as the guard.” is the mix-up to avoid. Choose the detail that proves the reason, not just any fact.",
-      "hint": "Choose the detail that proves the reason, not just any fact."
+      "summary": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "transfer",
     "sequence_priority": 24,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-025",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "accepting_different_preferences_discriminate",
-    "question": "Leo likes a story's action. Priya likes its pictures. Which comment is fair? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Leo likes a story's action. Priya likes its pictures. Which comment is fair? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Both preferences can make sense if each reader gives evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Leo's preference matters more because written events count more than images.",
-        "is_correct": true
-      },
-      {
-        "text": "Priya's preference matters more because readers see pictures before words.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "“Leo's preference matters more because written events count more than images.” is the mix-up to avoid. Personal preferences can differ, but each reason still needs support.",
-      "hint": "Personal preferences can differ, but each reason still needs support."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 25,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-026",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "explaining_suspense_in_a_mystery_discriminate",
-    "question": "Which response explains why a reader preferred the mystery story? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Which response explains why a reader preferred the mystery story? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I kept wondering who left the muddy prints until the last page.",
-        "is_correct": false
-      },
-      {
-        "text": "I preferred it because the answer was explained on the first page.",
-        "is_correct": false
-      },
-      {
-        "text": "I preferred it because the muddy prints were brown.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "“I preferred it because the muddy prints were brown.” is the mix-up to avoid. Choose a reason connected to how the plot affects the reader.",
-      "hint": "Choose a reason connected to how the plot affects the reader."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 26,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-027",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "appreciating_an_information_book_discriminate",
-    "question": "Which reason supports preferring a book about bees? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Which reason supports preferring a book about bees? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Its yellow cover matched the bee's stripes.",
-        "is_correct": true
-      },
-      {
-        "text": "Its labelled diagram helped me understand how bees carry pollen.",
-        "is_correct": false
-      },
-      {
-        "text": "Its made-up bee adventure had a surprising ending.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "“Its yellow cover matched the bee's stripes.” is the mix-up to avoid. Look for a feature that helps the reader learn about bees.",
-      "hint": "Look for a feature that helps the reader learn about bees."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 27,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-028",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "responding_to_a_lullaby_s_sound_discriminate",
-    "question": "Which sentence uses precise words to appreciate a lullaby? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Which sentence uses precise words to appreciate a lullaby? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The gentle rhythm made the lullaby feel calm and soothing.",
-        "is_correct": false
-      },
-      {
-        "text": "The fast, bouncy beat made the lullaby calm.",
-        "is_correct": true
-      },
-      {
-        "text": "The repeated word made the lullaby longer to perform.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "“The fast, bouncy beat made the lullaby calm.” is the mix-up to avoid. Choose words that name the sound and how it makes the listener feel.",
-      "hint": "Choose words that name the sound and how it makes the listener feel."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 28,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-029",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "responding_to_a_story_ending_discriminate",
-    "question": "Which comment explains why an ending was satisfying? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Which comment explains why an ending was satisfying? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The lost bird returned, and the earlier feather clues made sense.",
-        "is_correct": false
-      },
-      {
-        "text": "The bird stayed lost, so the earlier feather clues no longer mattered.",
-        "is_correct": false
-      },
-      {
-        "text": "The ending was satisfying because it came after the final event.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "“The ending was satisfying because it came after the final event.” is the mix-up to avoid. Check whether the comment explains what the ending resolves.",
-      "hint": "Check whether the comment explains what the ending resolves."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 29,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-030",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "appreciating_colour_in_an_image_discriminate",
-    "question": "A tiny lantern glows under a dark blue sky. Which response explains the colour choice? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A tiny lantern glows under a dark blue sky. Which response explains the colour choice? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The dark sky hides the lantern, so the colours add no meaning.",
-        "is_correct": true
-      },
-      {
-        "text": "The dark sky makes the warm lantern look hopeful.",
-        "is_correct": false
-      },
-      {
-        "text": "The lantern looks hopeful only because it is smaller than the sky.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "“The dark sky hides the lantern, so the colours add no meaning.” is the mix-up to avoid. Think about how the two colours work together to shape meaning.",
-      "hint": "Think about how the two colours work together to shape meaning."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 30,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-031",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "responding_to_setting_details_apply",
-    "question": "Use this clue: Find a reason that points to words describing the setting. Which response explains why a reader liked the forest setting?",
-    "audio_prompt": "Use this clue: Find a reason that points to words describing the setting. Which response explains why a reader liked the forest setting?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I liked the trees because there were many of them.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the mist and twisted trees because they made the forest mysterious.",
-        "is_correct": true
-      },
-      {
-        "text": "I liked the forest because it was the story's setting.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The response names setting details and explains the feeling they create.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 31,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-032",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "explaining_an_illustration_s_effect_apply",
-    "question": "Use this clue: Connect a visible feature of the picture to the meaning it adds. A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
-    "audio_prompt": "Use this clue: Connect a visible feature of the picture to the meaning it adds. A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The leaf shows that the chick is calm and ready to play.",
-        "is_correct": false
-      },
-      {
-        "text": "The large picture must be the most important part of the story.",
-        "is_correct": false
-      },
-      {
-        "text": "The close-up makes the chick's fear easy to notice.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The close view helps the reader notice the chick's fearful expression and pose.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 32,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-033",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "choosing_evidence_for_humour_apply",
-    "question": "Use this clue: Look for an event meant to make the reader laugh. Which event best supports a reader saying that a story is funny?",
-    "audio_prompt": "Use this clue: Look for an event meant to make the reader laugh. Which event best supports a reader saying that a story is funny?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A penguin uses a bathtub as a boat and salutes the taps.",
-        "is_correct": true
-      },
-      {
-        "text": "A penguin watches raindrops slide down the window.",
-        "is_correct": false
-      },
-      {
-        "text": "A penguin carefully folds its towel before swimming.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The penguin's unexpected actions create a playful, humorous moment.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 33,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-034",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "matching_a_reason_with_evidence_apply",
-    "question": "Use this clue: Choose the detail that proves the reason, not just any fact. Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
-    "audio_prompt": "Use this clue: Choose the detail that proves the reason, not just any fact. Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The fox slept beside the log until the guard arrived.",
-        "is_correct": false
-      },
-      {
-        "text": "The fox hid the key in a hollow log before the guard arrived.",
-        "is_correct": true
-      },
-      {
-        "text": "The fox ran quickly along the same path as the guard.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Hiding the key before the guard arrived shows the fox using a clever plan.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 34,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-035",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "accepting_different_preferences_apply",
-    "question": "Use this clue: Personal preferences can differ, but each reason still needs support. Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
-    "audio_prompt": "Use this clue: Personal preferences can differ, but each reason still needs support. Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Priya's preference matters more because readers see pictures before words.",
-        "is_correct": false
-      },
-      {
-        "text": "Leo's preference matters more because written events count more than images.",
-        "is_correct": false
-      },
-      {
-        "text": "Both preferences can make sense if each reader gives evidence.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Readers may value different features when they support their responses with the text.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 35,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-036",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "explaining_suspense_in_a_mystery_apply",
-    "question": "Use this clue: Choose a reason connected to how the plot affects the reader. Which response explains why a reader preferred the mystery story?",
-    "audio_prompt": "Use this clue: Choose a reason connected to how the plot affects the reader. Which response explains why a reader preferred the mystery story?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I kept wondering who left the muddy prints until the last page.",
-        "is_correct": true
-      },
-      {
-        "text": "I preferred it because the answer was explained on the first page.",
-        "is_correct": false
-      },
-      {
-        "text": "I preferred it because the muddy prints were brown.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Waiting for the answer to the muddy-print clue creates suspense for the reader.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 36,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-037",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "appreciating_an_information_book_apply",
-    "question": "Use this clue: Look for a feature that helps the reader learn about bees. Which reason supports preferring a book about bees?",
-    "audio_prompt": "Use this clue: Look for a feature that helps the reader learn about bees. Which reason supports preferring a book about bees?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Its made-up bee adventure had a surprising ending.",
-        "is_correct": false
-      },
-      {
-        "text": "Its labelled diagram helped me understand how bees carry pollen.",
-        "is_correct": true
-      },
-      {
-        "text": "Its yellow cover matched the bee's stripes.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The labelled diagram is a useful text feature that helps explain the information.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 37,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-038",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "responding_to_a_lullaby_s_sound_apply",
-    "question": "Use this clue: Choose words that name the sound and how it makes the listener feel. Which sentence uses precise words to appreciate a lullaby?",
-    "audio_prompt": "Use this clue: Choose words that name the sound and how it makes the listener feel. Which sentence uses precise words to appreciate a lullaby?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The repeated word made the lullaby longer to perform.",
-        "is_correct": false
-      },
-      {
-        "text": "The fast, bouncy beat made the lullaby calm.",
-        "is_correct": false
-      },
-      {
-        "text": "The gentle rhythm made the lullaby feel calm and soothing.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Gentle rhythm and soothing explain both a sound feature and its effect.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 38,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-039",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "responding_to_a_story_ending_apply",
-    "question": "Use this clue: Check whether the comment explains what the ending resolves. Which comment explains why an ending was satisfying?",
-    "audio_prompt": "Use this clue: Check whether the comment explains what the ending resolves. Which comment explains why an ending was satisfying?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The lost bird returned, and the earlier feather clues made sense.",
-        "is_correct": true
-      },
-      {
-        "text": "The bird stayed lost, so the earlier feather clues no longer mattered.",
-        "is_correct": false
-      },
-      {
-        "text": "The ending was satisfying because it came after the final event.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The ending solves the problem and connects to clues planted earlier in the story.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 39,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LA02-P-040",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA02",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "appreciating_colour_in_an_image_apply",
-    "question": "Use this clue: Think about how the two colours work together to shape meaning. A tiny lantern glows under a dark blue sky. Which response explains the colour choice?",
-    "audio_prompt": "Use this clue: Think about how the two colours work together to shape meaning. A tiny lantern glows under a dark blue sky. Which response explains the colour choice?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The lantern looks hopeful only because it is smaller than the sky.",
-        "is_correct": false
-      },
-      {
-        "text": "The dark sky makes the warm lantern look hopeful.",
-        "is_correct": true
-      },
-      {
-        "text": "The dark sky hides the lantern, so the colours add no meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The contrast between the dark sky and warm light adds a hopeful mood.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 40,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1",
+    "grading_mode": "adult-review",
+    "model_answer": "Example: 'I prefer B because I can picture where the water drips.' A may be preferred for its brevity with a reason.",
+    "acceptance_note": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.",
+    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LA02-T-001",
@@ -1525,37 +927,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "giving_a_respectful_negative_response_direct",
-    "question": "Which response explains a dislike without insulting the author or other readers?",
-    "audio_prompt": "Which response explains a dislike without insulting the author or other readers?",
+    "stage": "recognise",
+    "skill": "test_poem",
+    "question": "Read: 'Round and round the leaves all go, twirling high and drifting low.' Which response explains enjoyment?",
+    "audio_prompt": "Read: 'Round and round the leaves all go, twirling high and drifting low.' Which response explains enjoyment?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I did not enjoy the ending, so other readers should dislike it too.",
-        "is_correct": false
-      },
-      {
-        "text": "I did not enjoy the ending because the main problem stayed unsolved.",
+        "text": "I like the movement words because I can imagine the leaves dancing.",
         "is_correct": true
       },
       {
-        "text": "I did not enjoy it because an ending does not need to solve the problem.",
+        "text": "I like the instructions for planting a tree.",
+        "is_correct": false
+      },
+      {
+        "text": "I like the facts about a leaf's roots.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response respectfully focuses on a specific feature of the text.",
-      "hint": "A useful response explains the text feature, not attacks the creator or audience."
+      "summary": "The reader connects appreciation to the movement language actually present.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-002",
@@ -1563,37 +965,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "comparing_two_adventure_stories_direct",
-    "question": "Which comparison gives a clear preference supported by a difference between two stories?",
-    "audio_prompt": "Which comparison gives a clear preference supported by a difference between two stories?",
+    "stage": "recognise",
+    "skill": "test_character",
+    "question": "Read: 'Bo gave up his seat so the tired traveller could rest.' Which reason supports liking Bo?",
+    "audio_prompt": "Read: 'Bo gave up his seat so the tired traveller could rest.' Which reason supports liking Bo?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "River Race is better, and that is all.",
+        "text": "He is the fastest runner in the story.",
         "is_correct": false
       },
       {
-        "text": "I preferred River Race because it has more pages than Garden Day.",
-        "is_correct": false
-      },
-      {
-        "text": "I preferred River Race because its storm problem was more exciting than Garden Day's missing tools.",
+        "text": "He notices another person's need and helps.",
         "is_correct": true
+      },
+      {
+        "text": "He tells the funniest joke.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The response names a preference and supports it with a relevant plot difference.",
-      "hint": "A comparison should explain what differs and why that matters to the reader."
+      "summary": "The helpful action supports appreciation of Bo's thoughtfulness.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-003",
@@ -1601,37 +1003,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "appreciating_the_author_s_word_choice_direct",
-    "question": "The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect?",
-    "audio_prompt": "The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect?",
+    "stage": "recognise",
+    "skill": "test_precision",
+    "question": "A reader wants a word meaning 'full of exciting action'. Which response fits?",
+    "audio_prompt": "A reader wants a word meaning 'full of exciting action'. Which response fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I liked ‘floated’ because it made the night seem gentle and calm.",
+        "text": "The rescue story was dull.",
+        "is_correct": false
+      },
+      {
+        "text": "The rescue story was peaceful.",
+        "is_correct": false
+      },
+      {
+        "text": "The rescue story was thrilling.",
         "is_correct": true
-      },
-      {
-        "text": "I liked ‘floated’ because it means the moon was on the water.",
-        "is_correct": false
-      },
-      {
-        "text": "I liked ‘silver’ because it makes the quiet lake sound noisy.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The response points to a precise word and explains the mood it creates.",
-      "hint": "Choose a comment that connects one language choice to its effect."
+      "summary": "Thrilling expresses excitement; dull and peaceful do not match this intended response.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-004",
@@ -1639,37 +1041,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "supporting_a_response_to_a_peaceful_setting_direct",
-    "question": "Which line best supports a reader saying, ‘The setting felt peaceful’?",
-    "audio_prompt": "Which line best supports a reader saying, ‘The setting felt peaceful’?",
+    "stage": "recognise",
+    "skill": "test_reason",
+    "question": "Which response explains a preference for an audio version of a poem?",
+    "audio_prompt": "Which response explains a preference for an audio version of a poem?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The creek crashed over rocks beside the path.",
-        "is_correct": false
-      },
-      {
-        "text": "The creek whispered beside the soft green grass.",
+        "text": "I could hear the rhythm clearly when it was read aloud.",
         "is_correct": true
       },
       {
-        "text": "Children shouted while they splashed through the creek.",
+        "text": "The file was stored in a folder.",
+        "is_correct": false
+      },
+      {
+        "text": "The poem existed before I listened.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The gentle sound and soft visual details create a peaceful setting.",
-      "hint": "Look for words that help the reader hear or picture calmness."
+      "summary": "The response relates the format to a feature the listener appreciates.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-005",
@@ -1677,37 +1079,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "appreciating_a_chant_s_beat_direct",
-    "question": "Which response explains why a reader preferred a playground chant?",
-    "audio_prompt": "Which response explains why a reader preferred a playground chant?",
+    "stage": "recognise",
+    "skill": "test_dislike",
+    "question": "A reader dislikes an ending because the main problem is left unanswered. Which comment explains this?",
+    "audio_prompt": "A reader dislikes an ending because the main problem is left unanswered. Which comment explains this?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Its strong beat made the chant sound quiet and sleepy.",
+        "text": "The book is wrong because I dislike it.",
         "is_correct": false
       },
       {
-        "text": "Its rhyming title tells performers exactly when to clap.",
-        "is_correct": false
-      },
-      {
-        "text": "Its strong beat made the chant lively and fun to perform.",
+        "text": "I wanted to know whether the lost child got home, but the story stopped.",
         "is_correct": true
+      },
+      {
+        "text": "The writer should never write again.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The response names the beat and explains how it affects the performance.",
-      "hint": "Connect a sound pattern to what the reader hears or feels."
+      "summary": "The response identifies the unresolved question and its effect on the reader.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-006",
@@ -1715,37 +1117,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "using_evidence_about_a_kind_character_direct",
-    "question": "Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him?",
-    "audio_prompt": "Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him?",
+    "stage": "recognise",
+    "skill": "test_two_views",
+    "question": "One reader likes a long description; another prefers the action. What can both readers do?",
+    "audio_prompt": "One reader likes a long description; another prefers the action. What can both readers do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Lani shared her water when the walkers were tired.",
+        "text": "Agree that only action belongs in stories.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose an opinion without discussing the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a text detail that explains their own preference.",
         "is_correct": true
-      },
-      {
-        "text": "Lani carried her own bag to the campsite.",
-        "is_correct": false
-      },
-      {
-        "text": "Lani reached the lookout before the other walkers.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Sharing water when others need it is story evidence of Lani's kindness.",
-      "hint": "Choose an action that proves the reason given."
+      "summary": "Different preferences can each be explained through text evidence.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-007",
@@ -1753,37 +1155,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "improving_a_vague_picture_response_direct",
-    "question": "How can Kai improve ‘The pictures were good’?",
-    "audio_prompt": "How can Kai improve ‘The pictures were good’?",
+    "stage": "recognise",
+    "skill": "test_evidence",
+    "question": "Which line best supports 'I enjoyed the magical setting'?",
+    "audio_prompt": "Which line best supports 'I enjoyed the magical setting'?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "List the colours without saying what they add.",
-        "is_correct": false
-      },
-      {
-        "text": "Name a visual detail and explain how it helped the story make sense.",
+        "text": "Tiny stars grew on the branches like fruit.",
         "is_correct": true
       },
       {
-        "text": "Retell the ending without referring to any picture.",
+        "text": "The fence was painted last week.",
+        "is_correct": false
+      },
+      {
+        "text": "A sign showed the park's opening times.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A precise response identifies a visual feature and explains what it adds for the reader.",
-      "hint": "Move from a broad opinion to a reason supported by the image."
+      "summary": "Stars growing on trees create an impossible, magical image.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-008",
@@ -1791,37 +1193,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "preferring_a_character_s_diary_version_direct",
-    "question": "The same adventure is told as a report and as the character's diary. Which preference is well supported?",
-    "audio_prompt": "The same adventure is told as a report and as the character's diary. Which preference is well supported?",
+    "stage": "recognise",
+    "skill": "test_improve",
+    "question": "How could a reader improve 'I liked the ending'?",
+    "audio_prompt": "How could a reader improve 'I liked the ending'?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I preferred the diary because its dates show that the adventure happened first.",
+        "text": "Repeat 'I liked it' three more times.",
         "is_correct": false
       },
       {
-        "text": "I preferred the diary because the report's grouped facts show feelings more clearly.",
-        "is_correct": false
-      },
-      {
-        "text": "I preferred the diary because the character's thoughts helped me feel her worry.",
+        "text": "Add what happened at the end and why it felt satisfying.",
         "is_correct": true
+      },
+      {
+        "text": "List the page numbers without explaining them.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The response explains how the diary's first-person thoughts affect the reader.",
-      "hint": "Use a feature of the chosen text and explain why you value it."
+      "summary": "A specific event and its effect turn a bare preference into an explained response.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-009",
@@ -1829,37 +1231,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "giving_a_respectful_negative_response_test-reason",
-    "question": "Which response explains a dislike without insulting the author or other readers? Which reason best supports the correct choice?",
-    "audio_prompt": "Which response explains a dislike without insulting the author or other readers? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_book_feature",
+    "question": "A reader says, 'I liked being able to compare the two insects easily.' Which feature could support this?",
+    "audio_prompt": "A reader says, 'I liked being able to compare the two insects easily.' Which feature could support this?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response respectfully focuses on a specific feature of the text.",
+        "text": "Their names are hidden on separate unlabelled pages.",
+        "is_correct": false
+      },
+      {
+        "text": "Only one insect is described.",
+        "is_correct": false
+      },
+      {
+        "text": "Their facts appear side by side under matching headings.",
         "is_correct": true
-      },
-      {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The response respectfully focuses on a specific feature of the text.",
-      "hint": "A useful response explains the text feature, not attacks the creator or audience."
+      "summary": "Matching headings and adjacent information support comparison.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-010",
@@ -1867,37 +1269,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "comparing_two_adventure_stories_test-reason",
-    "question": "Which comparison gives a clear preference supported by a difference between two stories? Which reason best supports the correct choice?",
-    "audio_prompt": "Which comparison gives a clear preference supported by a difference between two stories? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_strength",
+    "question": "Which comment expresses mild disappointment rather than complete dislike?",
+    "audio_prompt": "Which comment expresses mild disappointment rather than complete dislike?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The response names a preference and supports it with a relevant plot difference.",
+        "text": "I liked most of it, but the ending was a little rushed.",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "I hated every part of it.",
+        "is_correct": false
+      },
+      {
+        "text": "It was the best book I have ever read.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response names a preference and supports it with a relevant plot difference.",
-      "hint": "A comparison should explain what differs and why that matters to the reader."
+      "summary": "The first response limits the criticism to a small concern.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-011",
@@ -1905,37 +1307,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "appreciating_the_author_s_word_choice_test-reason",
-    "question": "The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect? Which reason best supports the correct choice?",
-    "audio_prompt": "The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_language_effect",
+    "question": "Read: 'The kitten tucked one cold paw beneath its chin.' Which response connects feeling to a detail?",
+    "audio_prompt": "Read: 'The kitten tucked one cold paw beneath its chin.' Which response connects feeling to a detail?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "I felt excited because the kitten won a prize.",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The response points to a precise word and explains the mood it creates.",
+        "text": "I felt sorry for the kitten because its paw was cold.",
         "is_correct": true
+      },
+      {
+        "text": "I felt amused because the kitten told a joke.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The response points to a precise word and explains the mood it creates.",
-      "hint": "Choose a comment that connects one language choice to its effect."
+      "summary": "The cold paw supports sympathy; no prize or joke is mentioned.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 11,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-012",
@@ -1943,37 +1345,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "supporting_a_response_to_a_peaceful_setting_test-reason",
-    "question": "Which line best supports a reader saying, ‘The setting felt peaceful’? Which reason best supports the correct choice?",
-    "audio_prompt": "Which line best supports a reader saying, ‘The setting felt peaceful’? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_comparison",
+    "question": "A factual page explains volcanoes. A story imagines living inside one. Which preference gives a relevant reason?",
+    "audio_prompt": "A factual page explains volcanoes. A story imagines living inside one. Which preference gives a relevant reason?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The gentle sound and soft visual details create a peaceful setting.",
+        "text": "I prefer the story because the other text has letters.",
+        "is_correct": false
+      },
+      {
+        "text": "I prefer the factual page because no one may enjoy stories.",
+        "is_correct": false
+      },
+      {
+        "text": "I prefer the factual page because I want to learn how eruptions happen.",
         "is_correct": true
-      },
-      {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The gentle sound and soft visual details create a peaceful setting.",
-      "hint": "Look for words that help the reader hear or picture calmness."
+      "summary": "The preference is connected to the reader's learning purpose.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 12,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-013",
@@ -1981,37 +1383,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "appreciating_a_chant_s_beat_test-reason",
-    "question": "Which response explains why a reader preferred a playground chant? Which reason best supports the correct choice?",
-    "audio_prompt": "Which response explains why a reader preferred a playground chant? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_recommendation",
+    "question": "Who would most likely value 'I liked the repeated chorus because I could join in'?",
+    "audio_prompt": "Who would most likely value 'I liked the repeated chorus because I could join in'?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The response names the beat and explains how it affects the performance.",
+        "text": "Someone choosing a song to sing with a group.",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Someone choosing a silent map to navigate.",
+        "is_correct": false
+      },
+      {
+        "text": "Someone choosing a list of bus times.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response names the beat and explains how it affects the performance.",
-      "hint": "Connect a sound pattern to what the reader hears or feels."
+      "summary": "A repeated chorus supports shared singing, so the reason helps that audience.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 13,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-014",
@@ -2019,37 +1421,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "using_evidence_about_a_kind_character_test-reason",
-    "question": "Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him? Which reason best supports the correct choice?",
-    "audio_prompt": "Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him? Which reason best supports the correct choice?",
+    "stage": "connect",
+    "skill": "test_response_vs_retell",
+    "question": "Which response includes appreciation rather than just retelling?",
+    "audio_prompt": "Which response includes appreciation rather than just retelling?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "The mouse distracted the giant.",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "Sharing water when others need it is story evidence of Lani's kindness.",
+        "text": "I enjoyed the clever trick when the mouse distracted the giant.",
         "is_correct": true
+      },
+      {
+        "text": "The giant looked away and the mouse ran.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Sharing water when others need it is story evidence of Lani's kindness.",
-      "hint": "Choose an action that proves the reason given."
+      "summary": "Enjoyed and clever express evaluation of the event, beyond reporting it.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "developing",
     "sequence_priority": 14,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1"
   },
   {
     "id": "AC9E2LA02-T-015",
@@ -2058,36 +1460,41 @@
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
     "stage": "apply",
-    "skill": "improving_a_vague_picture_response_test-reason",
-    "question": "How can Kai improve ‘The pictures were good’? Which reason best supports the correct choice?",
-    "audio_prompt": "How can Kai improve ‘The pictures were good’? Which reason best supports the correct choice?",
+    "skill": "test_preference",
+    "question": "Read: 'The robot watered the garden with lemonade. By sunset, every flower was sticky.' Give your own response and a reason from the text.",
+    "audio_prompt": "Read: 'The robot watered the garden with lemonade. By sunset, every flower was sticky.' Give your own response and a reason from the text.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A precise response identifies a visual feature and explains what it adds for the reader.",
+        "text": "Response not yet reviewed",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with an adult",
+        "is_correct": false
+      },
+      {
+        "text": "Adult review required",
         "is_correct": true
-      },
-      {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A precise response identifies a visual feature and explains what it adds for the reader.",
-      "hint": "Move from a broad opinion to a reason supported by the image."
+      "summary": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "transfer",
     "sequence_priority": 15,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1",
+    "grading_mode": "adult-review",
+    "model_answer": "Example: 'I found it funny because the robot used the wrong drink.' A supported dislike is also valid.",
+    "acceptance_note": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
+    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LA02-T-016",
@@ -2096,35 +1503,40 @@
     "curriculum_code": "AC9E2LA02",
     "bank": "test",
     "stage": "apply",
-    "skill": "preferring_a_character_s_diary_version_test-reason",
-    "question": "The same adventure is told as a report and as the character's diary. Which preference is well supported? Which reason best supports the correct choice?",
-    "audio_prompt": "The same adventure is told as a report and as the character's diary. Which preference is well supported? Which reason best supports the correct choice?",
+    "skill": "test_reasoned_choice",
+    "question": "Text A says, 'Owls hunt at night.' Text B says, 'Under the moon, an owl slipped silently between the trees.' Which would you prefer to read more of, and why?",
+    "audio_prompt": "Text A says, 'Owls hunt at night.' Text B says, 'Under the moon, an owl slipped silently between the trees.' Which would you prefer to read more of, and why?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The response explains how the diary's first-person thoughts affect the reader.",
+        "text": "Adult review required",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Response not yet reviewed",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with an adult",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The response explains how the diary's first-person thoughts affect the reader.",
-      "hint": "Use a feature of the chosen text and explain why you value it."
+      "summary": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
+      "hint": "Connect your response to a particular word, event or feature of the text."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "transfer",
     "sequence_priority": 16,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-first5-original-v1",
+    "grading_mode": "adult-review",
+    "model_answer": "Example: choose A for quick facts or B for its atmosphere and descriptive detail.",
+    "acceptance_note": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
+    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completion_label": "Ready for adult review"
   }
 ]

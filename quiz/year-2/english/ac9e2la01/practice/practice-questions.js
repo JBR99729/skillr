@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-001",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "asking a teacher to explain direct",
+    "skill": "request help",
     "printable": true,
     "type": "single",
-    "question": "Noah cannot follow one step in a maths task. What should he say to his teacher?",
-    "audioPrompt": "Noah cannot follow one step in a maths task. What should he say to his teacher?",
+    "question": "You missed the last instruction because a truck passed the window. What could you say to the teacher?",
+    "audioPrompt": "You missed the last instruction because a truck passed the window. What could you say to the teacher?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Could you please show me that step again?",
-      "Could you tell me the answer instead?",
-      "Could you please do this step for me?"
+      "Could you repeat the last step, please?",
+      "I have finished every step.",
+      "You never explain anything."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 1,
     "correct": 0,
-    "explanation": "The polite question clearly asks the teacher for the help Noah needs.\nHint: Choose words that fit a student speaking respectfully to a teacher.",
+    "explanation": "A specific request tells the teacher which help you need without blaming anyone.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The polite question clearly asks the teacher for the help Noah needs.",
-      "hint": "Choose words that fit a student speaking respectfully to a teacher."
+      "summary": "A specific request tells the teacher which help you need without blaming anyone.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +35,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-002",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "asking a friend for a turn direct",
+    "skill": "friend request",
     "printable": true,
     "type": "single",
-    "question": "Luca's friend is using the blue pencil. Which request is friendly and respectful?",
-    "audioPrompt": "Luca's friend is using the blue pencil. Which request is friendly and respectful?",
+    "question": "Your friend is finishing a drawing with the ruler you need. What could you ask?",
+    "audioPrompt": "Your friend is finishing a drawing with the ruler you need. What could you ask?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +47,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Can I use the blue pencil before you finish?",
-      "Can I use the blue pencil when you finish?",
-      "I need the blue pencil more, so pass it to me."
+      "Give it here right now.",
+      "May I have a turn when you finish?",
+      "Why are you drawing that?"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Luca asks for a later turn without demanding that his friend stop.\nHint: Look for a request that respects the other person's turn.",
+    "explanation": "A friendly request respects the friend's current turn and asks for the next one.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Luca asks for a later turn without demanding that his friend stop.",
-      "hint": "Look for a request that respects the other person's turn."
+      "summary": "A friendly request respects the friend's current turn and asks for the next one.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,11 +66,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-003",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "welcoming a class visitor direct",
+    "skill": "host role",
     "printable": true,
     "type": "single",
-    "question": "Zara is the class host when a visitor arrives. Which greeting best fits her role?",
-    "audioPrompt": "Zara is the class host when a visitor arrives. Which greeting best fits her role?",
+    "question": "You are welcoming families to a class display. Which opening suits your role?",
+    "audioPrompt": "You are welcoming families to a class display. Which opening suits your role?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -78,18 +78,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Welcome. You can find a place by yourself.",
-      "Hello. Our teacher can help you if you need anything.",
-      "Welcome to our class. Would you like me to show you around?"
+      "Everyone must copy my picture.",
+      "I need someone to mark my spelling.",
+      "Welcome. Let me show you our work."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 3,
     "correct": 2,
-    "explanation": "A class host welcomes the visitor and offers useful help.\nHint: Think about what a friendly host should say and do.",
+    "explanation": "A host welcomes visitors and offers to guide them.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "A class host welcomes the visitor and offers useful help.",
-      "hint": "Think about what a friendly host should say and do."
+      "summary": "A host welcomes visitors and offers to guide them.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +97,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-004",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "giving clear team directions direct",
+    "skill": "leader role",
     "printable": true,
     "type": "single",
-    "question": "Eli is leading a playground team. Which direction is clear and respectful?",
-    "audioPrompt": "Eli is leading a playground team. Which direction is clear and respectful?",
+    "question": "You are leading a group making a tower. Which words help the group begin?",
+    "audioPrompt": "You are leading a group making a tower. Which words help the group begin?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +109,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Please collect one cone each, then meet beside the line.",
-      "Please collect some equipment and go over there.",
-      "Collect two cones each, then wait wherever you want."
+      "Let's put the wide blocks at the bottom.",
+      "You can all watch me do it.",
+      "My tower will be better than yours."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 4,
     "correct": 0,
-    "explanation": "The direction politely tells each team member exactly what to do and where to meet.\nHint: A leader's words should be specific, useful and respectful.",
+    "explanation": "A leader can suggest a clear shared action and include the group.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The direction politely tells each team member exactly what to do and where to meet.",
-      "hint": "A leader's words should be specific, useful and respectful."
+      "summary": "A leader can suggest a clear shared action and include the group.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,11 +128,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-005",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "disagreeing with a reason direct",
+    "skill": "listener role",
     "printable": true,
     "type": "single",
-    "question": "A partner says the map shows a road. Which reply disagrees politely and uses evidence?",
-    "audioPrompt": "A partner says the map shows a road. Which reply disagrees politely and uses evidence?",
+    "question": "A visitor is explaining how she trains rescue dogs. You want to ask a question. What could you say when she pauses?",
+    "audioPrompt": "A visitor is explaining how she trains rescue dogs. You want to ask a question. What could you say when she pauses?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -140,18 +140,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I disagree because my answer looks better.",
-      "I see it differently because the blue line shows a creek.",
-      "The blue line is a road because that was my first idea."
+      "Stop! My pet is much cuter.",
+      "May I ask how a dog learns to find someone?",
+      "I already know about all dogs."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 5,
     "correct": 1,
-    "explanation": "The reply respects the partner while using a map clue to explain another view.\nHint: Choose a reply that focuses on evidence, not on putting down the speaker.",
+    "explanation": "A relevant question at a pause shows interest and respects the speaker's turn.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The reply respects the partner while using a map clue to explain another view.",
-      "hint": "Choose a reply that focuses on evidence, not on putting down the speaker."
+      "summary": "A relevant question at a pause shows interest and respects the speaker's turn.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,11 +159,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-006",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "using a community greeting respectfully direct",
+    "skill": "disagreement",
     "printable": true,
     "type": "single",
-    "question": "A local First Nations language teacher shows the class a greeting. What should Mia do before using it?",
-    "audioPrompt": "A local First Nations language teacher shows the class a greeting. What should Mia do before using it?",
+    "question": "A classmate thinks the story ends sadly. You think it ends happily. Which reply keeps the discussion respectful?",
+    "audioPrompt": "A classmate thinks the story ends sadly. You think it ends happily. Which reply keeps the discussion respectful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -171,18 +171,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Guess how it sounds and change any hard parts.",
-      "Use it in every community without checking how it belongs there.",
-      "Listen carefully, practise it as taught and use it respectfully."
+      "You did not understand the story at all.",
+      "You must change your answer to mine.",
+      "I thought it was happy because the friends met again."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Listening to the language teacher respects community knowledge and the way the greeting is used.\nHint: Let the person sharing the language guide its pronunciation and use.",
+    "explanation": "Explaining your view with a story detail allows disagreement without insulting the other reader.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Listening to the language teacher respects community knowledge and the way the greeting is used.",
-      "hint": "Let the person sharing the language guide its pronunciation and use."
+      "summary": "Explaining your view with a story detail allows disagreement without insulting the other reader.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +190,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-007",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "apologising after an accident direct",
+    "skill": "apology",
     "printable": true,
     "type": "single",
-    "question": "Ruby knocks over Kai's block tower by accident. Which response takes responsibility?",
-    "audioPrompt": "Ruby knocks over Kai's block tower by accident. Which response takes responsibility?",
+    "question": "You spoke over someone during show-and-tell. Which response repairs the interruption?",
+    "audioPrompt": "You spoke over someone during show-and-tell. Which response repairs the interruption?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +202,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I'm sorry I knocked it over. I will help you rebuild it.",
-      "Sorry it fell. You can rebuild it now.",
-      "I did not mean to knock it over, so I do not need to help."
+      "Sorry I interrupted. Please finish what you were saying.",
+      "I was only talking a little.",
+      "Next time, speak faster."
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Ruby names what happened, apologises and offers to repair the harm.\nHint: A sincere apology does not blame the other person or dismiss their feelings.",
+    "explanation": "The apology names the action and gives the speaker their turn back.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Ruby names what happened, apologises and offers to repair the harm.",
-      "hint": "A sincere apology does not blame the other person or dismiss their feelings."
+      "summary": "The apology names the action and gives the speaker their turn back.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +221,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-008",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "leaving a clear office message direct",
+    "skill": "unfamiliar listener",
     "printable": true,
     "type": "single",
-    "question": "Ava leaves a message for the school office. Which message gives enough information?",
-    "audioPrompt": "Ava leaves a message for the school office. Which message gives enough information?",
+    "question": "You call the school office about a lost lunchbox. Which opening helps someone who does not know you?",
+    "audioPrompt": "You call the school office about a lost lunchbox. Which opening helps someone who does not know you?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +233,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Hello, I found something that belongs to a teacher.",
-      "Hello, this is Ava from 2B. I found Mr Lee's keys.",
-      "This is Ava. Please tell him that I found the things."
+      "It is me. Have you found it?",
+      "Hello, I am Ari from 2C. I lost a red lunchbox.",
+      "You know that thing I lost?"
     ],
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Ava gives her name, class and a clear reason for the message.\nHint: An unfamiliar listener needs names and the important detail.",
+    "explanation": "Giving your name, class and the item helps an unfamiliar listener understand.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Ava gives her name, class and a clear reason for the message.",
-      "hint": "An unfamiliar listener needs names and the important detail."
+      "summary": "Giving your name, class and the item helps an unfamiliar listener understand.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +252,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-009",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "helping a younger reading buddy direct",
+    "skill": "younger listener",
     "printable": true,
     "type": "single",
-    "question": "Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role?",
-    "audioPrompt": "Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role?",
+    "question": "A younger buddy does not know what 'return' means. Which instruction helps?",
+    "audioPrompt": "A younger buddy does not know what 'return' means. Which instruction helps?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +264,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "That word is easy, so just guess it quickly.",
-      "I will say the word now, and you can skip the sounds.",
-      "Let's try it together. Start with the first sound."
+      "Please return the item to its usual location.",
+      "Please do the usual thing.",
+      "Please put the book back on this shelf."
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Ben gives calm, useful help without embarrassing the younger reader.\nHint: A buddy should guide the reader and help them keep trying.",
+    "explanation": "Familiar words and a clear place make the direction easier for a younger listener.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Ben gives calm, useful help without embarrassing the younger reader.",
-      "hint": "A buddy should guide the reader and help them keep trying."
+      "summary": "Familiar words and a clear place make the direction easier for a younger listener.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +283,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-010",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "asking for urgent help direct",
+    "skill": "urgent context",
     "printable": true,
     "type": "single",
-    "question": "Sam falls near the gate and cannot stand. What should Priya call out?",
-    "audioPrompt": "Sam falls near the gate and cannot stand. What should Priya call out?",
+    "question": "A ball rolls towards the road and a friend starts to chase it. Which words fit the urgent moment?",
+    "audioPrompt": "A ball rolls towards the road and a friend starts to chase it. Which words fit the urgent moment?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +295,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Please help! Sam has fallen near the gate.",
-      "Something might have happened somewhere.",
-      "Could somebody perhaps come here later?"
+      "Stop! Stay on the footpath!",
+      "When you have time, could we have a chat?",
+      "I wonder whose ball that might be."
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Urgent language should be direct and tell helpers who needs help and where.\nHint: In an emergency, give the key information quickly and clearly.",
+    "explanation": "An urgent warning needs immediate, clear words. Respectful language can be firm.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Urgent language should be direct and tell helpers who needs help and where.",
-      "hint": "In an emergency, give the key information quickly and clearly."
+      "summary": "An urgent warning needs immediate, clear words. Respectful language can be firm.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +314,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-011",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "asking a teacher to explain explain",
+    "skill": "quiet context",
     "printable": true,
     "type": "single",
-    "question": "Noah cannot follow one step in a maths task. What should he say to his teacher? Why is “Could you please show me that step again?” the best answer?",
-    "audioPrompt": "Noah cannot follow one step in a maths task. What should he say to his teacher? Why is “Could you please show me that step again?” the best answer?",
+    "question": "You need a tissue while everyone is reading quietly. Which approach fits the room?",
+    "audioPrompt": "You need a tissue while everyone is reading quietly. Which approach fits the room?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +326,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Could you tell me the answer instead?”.",
-      "The polite question clearly asks the teacher for the help Noah needs.",
-      "It is best because the details in the situation do not matter."
+      "Shout your request across the room.",
+      "Quietly ask the person beside you for a tissue.",
+      "Announce your request to every table."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 11,
     "correct": 1,
-    "explanation": "The polite question clearly asks the teacher for the help Noah needs.\nHint: Choose words that fit a student speaking respectfully to a teacher.",
+    "explanation": "The request stays clear while its volume suits the quiet setting.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The polite question clearly asks the teacher for the help Noah needs.",
-      "hint": "Choose words that fit a student speaking respectfully to a teacher."
+      "summary": "The request stays clear while its volume suits the quiet setting.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,11 +345,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-012",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "asking a friend for a turn explain",
+    "skill": "role change",
     "printable": true,
     "type": "single",
-    "question": "Luca's friend is using the blue pencil. Which request is friendly and respectful? Why is “Can I use the blue pencil when you finish?” the best answer?",
-    "audioPrompt": "Luca's friend is using the blue pencil. Which request is friendly and respectful? Why is “Can I use the blue pencil when you finish?” the best answer?",
+    "question": "At home, Max says, 'Hi, Gran!' On stage, Max says, 'Good evening, everyone.' What changed?",
+    "audioPrompt": "At home, Max says, 'Hi, Gran!' On stage, Max says, 'Good evening, everyone.' What changed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -357,18 +357,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Can I use the blue pencil before you finish?”.",
-      "It is best because the details in the situation do not matter.",
-      "Luca asks for a later turn without demanding that his friend stop."
+      "Max has forgotten how to greet Gran.",
+      "Greetings must always use the longest words.",
+      "Max is greeting a familiar person first and an audience next."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Luca asks for a later turn without demanding that his friend stop.\nHint: Look for a request that respects the other person's turn.",
+    "explanation": "The audience and Max's role explain the different greetings.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Luca asks for a later turn without demanding that his friend stop.",
-      "hint": "Look for a request that respects the other person's turn."
+      "summary": "The audience and Max's role explain the different greetings.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +376,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-013",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "welcoming a class visitor explain",
+    "skill": "polite refusal",
     "printable": true,
     "type": "single",
-    "question": "Zara is the class host when a visitor arrives. Which greeting best fits her role? Why is “Welcome to our class. Would you like me to show you around?” the best answer?",
-    "audioPrompt": "Zara is the class host when a visitor arrives. Which greeting best fits her role? Why is “Welcome to our class. Would you like me to show you around?” the best answer?",
+    "question": "Someone asks to borrow your special pen, but you need it now. Which reply is clear and kind?",
+    "audioPrompt": "Someone asks to borrow your special pen, but you need it now. Which reply is clear and kind?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +388,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A class host welcomes the visitor and offers useful help.",
-      "It is best only because it is longer than “Welcome. You can find a place by yourself.”.",
-      "It is best because the details in the situation do not matter."
+      "I need this one now, but you may borrow my spare.",
+      "Take it, although I cannot finish without it.",
+      "You should never ask me for anything."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 13,
     "correct": 0,
-    "explanation": "A class host welcomes the visitor and offers useful help.\nHint: Think about what a friendly host should say and do.",
+    "explanation": "A respectful refusal can state a boundary and offer another option.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "A class host welcomes the visitor and offers useful help.",
-      "hint": "Think about what a friendly host should say and do."
+      "summary": "A respectful refusal can state a boundary and offer another option.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +407,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-014",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "giving clear team directions explain",
+    "skill": "feedback role",
     "printable": true,
     "type": "single",
-    "question": "Eli is leading a playground team. Which direction is clear and respectful? Why is “Please collect one cone each, then meet beside the line.” the best answer?",
-    "audioPrompt": "Eli is leading a playground team. Which direction is clear and respectful? Why is “Please collect one cone each, then meet beside the line.” the best answer?",
+    "question": "A partner asks how to make a sign easier to read. Which comment helps?",
+    "audioPrompt": "A partner asks how to make a sign easier to read. Which comment helps?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +419,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Please collect some equipment and go over there.”.",
-      "The direction politely tells each team member exactly what to do and where to meet.",
-      "It is best because the details in the situation do not matter."
+      "Your sign is terrible.",
+      "The letters could be larger so people can read them from the door.",
+      "My sign has more colours."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 14,
     "correct": 1,
-    "explanation": "The direction politely tells each team member exactly what to do and where to meet.\nHint: A leader's words should be specific, useful and respectful.",
+    "explanation": "Useful feedback names a change and explains how it would help.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The direction politely tells each team member exactly what to do and where to meet.",
-      "hint": "A leader's words should be specific, useful and respectful."
+      "summary": "Useful feedback names a change and explains how it would help.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -438,11 +438,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-015",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "disagreeing with a reason explain",
+    "skill": "clarify meaning",
     "printable": true,
     "type": "single",
-    "question": "A partner says the map shows a road. Which reply disagrees politely and uses evidence? Why is “I see it differently because the blue line shows a creek.” the best answer?",
-    "audioPrompt": "A partner says the map shows a road. Which reply disagrees politely and uses evidence? Why is “I see it differently because the blue line shows a creek.” the best answer?",
+    "question": "Your coach says, 'Move back a little.' You are unsure where to stand. What could you ask?",
+    "audioPrompt": "Your coach says, 'Move back a little.' You are unsure where to stand. What could you ask?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +450,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “I disagree because my answer looks better.”.",
-      "It is best because the details in the situation do not matter.",
-      "The reply respects the partner while using a map clue to explain another view."
+      "Why do we have a coach?",
+      "Can we change the team name?",
+      "Should I stand behind this line?"
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 15,
     "correct": 2,
-    "explanation": "The reply respects the partner while using a map clue to explain another view.\nHint: Choose a reply that focuses on evidence, not on putting down the speaker.",
+    "explanation": "The question checks the unclear part of the instruction.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "The reply respects the partner while using a map clue to explain another view.",
-      "hint": "Choose a reply that focuses on evidence, not on putting down the speaker."
+      "summary": "The question checks the unclear part of the instruction.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +469,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-016",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "using a community greeting respectfully explain",
+    "skill": "invitation context",
     "printable": true,
     "type": "single",
-    "question": "A local First Nations language teacher shows the class a greeting. What should Mia do before using it? Why is “Listen carefully, practise it as taught and use it respectfully.” the best answer?",
-    "audioPrompt": "A local First Nations language teacher shows the class a greeting. What should Mia do before using it? Why is “Listen carefully, practise it as taught and use it respectfully.” the best answer?",
+    "question": "You are inviting the principal to a class performance. Which message gives a respectful invitation?",
+    "audioPrompt": "You are inviting the principal to a class performance. Which message gives a respectful invitation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +481,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Listening to the language teacher respects community knowledge and the way the greeting is used.",
-      "It is best only because it is longer than “Guess how it sounds and change any hard parts.”.",
-      "It is best because the details in the situation do not matter."
+      "Our class would like to invite you to our play on Friday.",
+      "You have to come because I said so.",
+      "Come over sometime, mate."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Listening to the language teacher respects community knowledge and the way the greeting is used.\nHint: Let the person sharing the language guide its pronunciation and use.",
+    "explanation": "A school invitation suits the listener and gives a useful event detail.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Listening to the language teacher respects community knowledge and the way the greeting is used.",
-      "hint": "Let the person sharing the language guide its pronunciation and use."
+      "summary": "A school invitation suits the listener and gives a useful event detail.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -500,11 +500,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-017",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "apologising after an accident explain",
+    "skill": "speaker purpose",
     "printable": true,
     "type": "single",
-    "question": "Ruby knocks over Kai's block tower by accident. Which response takes responsibility? Why is “I'm sorry I knocked it over. I will help you rebuild it.” the best answer?",
-    "audioPrompt": "Ruby knocks over Kai's block tower by accident. Which response takes responsibility? Why is “I'm sorry I knocked it over. I will help you rebuild it.” the best answer?",
+    "question": "A shop assistant asks, 'How can I help?' Which reply fits your role as a customer looking for glue?",
+    "audioPrompt": "A shop assistant asks, 'How can I help?' Which reply fits your role as a customer looking for glue?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -512,18 +512,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Sorry it fell. You can rebuild it now.”.",
-      "Ruby names what happened, apologises and offers to repair the harm.",
-      "It is best because the details in the situation do not matter."
+      "Please take your seats and listen.",
+      "Could you show me where the glue is, please?",
+      "Welcome to my classroom."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 17,
     "correct": 1,
-    "explanation": "Ruby names what happened, apologises and offers to repair the harm.\nHint: A sincere apology does not blame the other person or dismiss their feelings.",
+    "explanation": "A customer can explain what they need and ask for help.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Ruby names what happened, apologises and offers to repair the harm.",
-      "hint": "A sincere apology does not blame the other person or dismiss their feelings."
+      "summary": "A customer can explain what they need and ask for help.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -531,11 +531,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-018",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "leaving a clear office message explain",
+    "skill": "repair words",
     "printable": true,
     "type": "single",
-    "question": "Ava leaves a message for the school office. Which message gives enough information? Why is “Hello, this is Ava from 2B. I found Mr Lee's keys.” the best answer?",
-    "audioPrompt": "Ava leaves a message for the school office. Which message gives enough information? Why is “Hello, this is Ava from 2B. I found Mr Lee's keys.” the best answer?",
+    "question": "You say, 'Move!' and your partner looks upset. Which new wording keeps your request but softens it?",
+    "audioPrompt": "You say, 'Move!' and your partner looks upset. Which new wording keeps your request but softens it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -543,18 +543,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Hello, I found something that belongs to a teacher.”.",
-      "It is best because the details in the situation do not matter.",
-      "Ava gives her name, class and a clear reason for the message."
+      "Move, move, move!",
+      "Why are you always in my way?",
+      "Could you move your chair so I can get past, please?"
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Ava gives her name, class and a clear reason for the message.\nHint: An unfamiliar listener needs names and the important detail.",
+    "explanation": "A clear request with a reason is more considerate than a bare command.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Ava gives her name, class and a clear reason for the message.",
-      "hint": "An unfamiliar listener needs names and the important detail."
+      "summary": "A clear request with a reason is more considerate than a bare command.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -562,11 +562,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-019",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "helping a younger reading buddy explain",
+    "skill": "include others",
     "printable": true,
     "type": "single",
-    "question": "Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role? Why is “Let's try it together. Start with the first sound.” the best answer?",
-    "audioPrompt": "Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role? Why is “Let's try it together. Start with the first sound.” the best answer?",
+    "question": "As discussion leader, you notice one child has not spoken. What could you say?",
+    "audioPrompt": "As discussion leader, you notice one child has not spoken. What could you say?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -574,18 +574,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ben gives calm, useful help without embarrassing the younger reader.",
-      "It is best only because it is longer than “That word is easy, so just guess it quickly.”.",
-      "It is best because the details in the situation do not matter."
+      "Would you like to share an idea, or shall we come back to you?",
+      "You must speak right now.",
+      "We only need ideas from fast speakers."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 19,
     "correct": 0,
-    "explanation": "Ben gives calm, useful help without embarrassing the younger reader.\nHint: A buddy should guide the reader and help them keep trying.",
+    "explanation": "The invitation offers a turn without forcing an immediate response.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Ben gives calm, useful help without embarrassing the younger reader.",
-      "hint": "A buddy should guide the reader and help them keep trying."
+      "summary": "The invitation offers a turn without forcing an immediate response.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -593,11 +593,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-020",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "asking for urgent help explain",
+    "skill": "tone context",
     "printable": true,
     "type": "single",
-    "question": "Sam falls near the gate and cannot stand. What should Priya call out? Why is “Please help! Sam has fallen near the gate.” the best answer?",
-    "audioPrompt": "Sam falls near the gate and cannot stand. What should Priya call out? Why is “Please help! Sam has fallen near the gate.” the best answer?",
+    "question": "'Please sit here' can be a welcome or an instruction. What would help you tell which it is?",
+    "audioPrompt": "'Please sit here' can be a welcome or an instruction. What would help you tell which it is?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -605,18 +605,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is best only because it is longer than “Something might have happened somewhere.”.",
-      "Urgent language should be direct and tell helpers who needs help and where.",
-      "It is best because the details in the situation do not matter."
+      "Only the number of letters in 'please'.",
+      "Who is speaking, their tone and what is happening.",
+      "Only whether the chair is blue."
     ],
     "difficulty": 2,
-    "difficultyTier": "core",
+    "difficultyTier": "developing",
     "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Urgent language should be direct and tell helpers who needs help and where.\nHint: In an emergency, give the key information quickly and clearly.",
+    "explanation": "Context and tone help listeners understand the purpose of the same words.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "Urgent language should be direct and tell helpers who needs help and where.",
-      "hint": "In an emergency, give the key information quickly and clearly."
+      "summary": "Context and tone help listeners understand the purpose of the same words.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -624,11 +624,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-021",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "welcoming a class visitor discriminate",
+    "skill": "audience detail",
     "printable": true,
     "type": "single",
-    "question": "Zara is the class host when a visitor arrives. Which greeting best fits her role? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Zara is the class host when a visitor arrives. Which greeting best fits her role? Which response is the clearest mix-up to avoid?",
+    "question": "Your sister knows where 'our usual spot' is. A new pupil does not. What should you tell the new pupil?",
+    "audioPrompt": "Your sister knows where 'our usual spot' is. A new pupil does not. What should you tell the new pupil?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -636,18 +636,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Welcome to our class. Would you like me to show you around?",
-      "Hello. Our teacher can help you if you need anything.",
-      "Welcome. You can find a place by yourself."
+      "Meet me at our usual spot.",
+      "Meet me where you know I mean.",
+      "Meet me beside the library door."
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 21,
     "correct": 2,
-    "explanation": "“Welcome. You can find a place by yourself.” is the mix-up to avoid. Think about what a friendly host should say and do.\nHint: Think about what a friendly host should say and do.",
+    "explanation": "A new listener needs an explicit location rather than shared family knowledge.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "“Welcome. You can find a place by yourself.” is the mix-up to avoid. Think about what a friendly host should say and do.",
-      "hint": "Think about what a friendly host should say and do."
+      "summary": "A new listener needs an explicit location rather than shared family knowledge.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,11 +655,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-022",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "giving clear team directions discriminate",
+    "skill": "role pair",
     "printable": true,
     "type": "single",
-    "question": "Eli is leading a playground team. Which direction is clear and respectful? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Eli is leading a playground team. Which direction is clear and respectful? Which response is the clearest mix-up to avoid?",
+    "question": "Which pair fits a child asking for help and then acting as a helper?",
+    "audioPrompt": "Which pair fits a child asking for help and then acting as a helper?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -667,18 +667,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Please collect some equipment and go over there.",
-      "Please collect one cone each, then meet beside the line.",
-      "Collect two cones each, then wait wherever you want."
+      "'Can you show me?' / 'Let's try the first step together.'",
+      "'Watch me do it.' / 'I need someone to show me.'",
+      "'Go away.' / 'That is your problem.'"
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "difficulty": 2,
+    "difficultyTier": "developing",
     "sequencePriority": 22,
     "correct": 0,
-    "explanation": "“Please collect some equipment and go over there.” is the mix-up to avoid. A leader's words should be specific, useful and respectful.\nHint: A leader's words should be specific, useful and respectful.",
+    "explanation": "The first utterance asks for support; the second offers support in the new role.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "“Please collect some equipment and go over there.” is the mix-up to avoid. A leader's words should be specific, useful and respectful.",
-      "hint": "A leader's words should be specific, useful and respectful."
+      "summary": "The first utterance asks for support; the second offers support in the new role.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -686,11 +686,17 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-023",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "disagreeing with a reason discriminate",
+    "skill": "spoken request",
     "printable": true,
-    "type": "single",
-    "question": "A partner says the map shows a road. Which reply disagrees politely and uses evidence? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A partner says the map shows a road. Which reply disagrees politely and uses evidence? Which response is the clearest mix-up to avoid?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: 'Can you help me with this?' and 'Excuse me, could you help me open this box, please?' Explain that the visitor may need more context.",
+    "acceptanceNote": "Accept two understandable, respectful requests and a sensible explanation about listener familiarity, wording or tone. Do not require formal wording in every adult interaction.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "Say two requests for help opening a box: one to a close friend and one to a visiting adult. Tell your adult helper what you changed.",
+    "audioPrompt": "Say two requests for help opening a box: one to a close friend and one to a visiting adult. Tell your adult helper what you changed.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -698,18 +704,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I see it differently because the blue line shows a creek.",
-      "I disagree because my answer looks better.",
-      "The blue line is a road because that was my first idea."
+      "Response not yet reviewed",
+      "Adult review required",
+      "Revise with an adult"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 23,
-    "correct": 1,
-    "explanation": "“I disagree because my answer looks better.” is the mix-up to avoid. Choose a reply that focuses on evidence, not on putting down the speaker.\nHint: Choose a reply that focuses on evidence, not on putting down the speaker.",
+    "correct": "Example: 'Can you help me with this?' and 'Excuse me, could you help me open this box, please?' Explain that the visitor may need more context.",
+    "explanation": "Accept two understandable, respectful requests and a sensible explanation about listener familiarity, wording or tone. Do not require formal wording in every adult interaction.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "“I disagree because my answer looks better.” is the mix-up to avoid. Choose a reply that focuses on evidence, not on putting down the speaker.",
-      "hint": "Choose a reply that focuses on evidence, not on putting down the speaker."
+      "summary": "Accept two understandable, respectful requests and a sensible explanation about listener familiarity, wording or tone. Do not require formal wording in every adult interaction.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   },
@@ -717,11 +723,17 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la01-p-024",
     "curriculumCode": "AC9E2LA01",
     "bank": "practice",
-    "skill": "using a community greeting respectfully discriminate",
+    "skill": "role play",
     "printable": true,
-    "type": "single",
-    "question": "A local First Nations language teacher shows the class a greeting. What should Mia do before using it? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "A local First Nations language teacher shows the class a greeting. What should Mia do before using it? Which response is the clearest mix-up to avoid?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example leader: 'Let's give each pair four blocks.' Example member: 'Could our pair have four blocks too?'",
+    "acceptanceNote": "Accept role-appropriate contributions that address sharing. The child should show how their words fit leading or participating, rather than merely repeat an identical line.",
+    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
+    "completionLabel": "Ready for adult review",
+    "question": "With an adult, pretend you are first a team leader and then a team member. Suggest how to share the building blocks in each role.",
+    "audioPrompt": "With an adult, pretend you are first a team leader and then a team member. Suggest how to share the building blocks in each role.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -729,514 +741,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Listen carefully, practise it as taught and use it respectfully.",
-      "Use it in every community without checking how it belongs there.",
-      "Guess how it sounds and change any hard parts."
+      "Response not yet reviewed",
+      "Revise with an adult",
+      "Adult review required"
     ],
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "transfer",
     "sequencePriority": 24,
-    "correct": 2,
-    "explanation": "“Guess how it sounds and change any hard parts.” is the mix-up to avoid. Let the person sharing the language guide its pronunciation and use.\nHint: Let the person sharing the language guide its pronunciation and use.",
+    "correct": "Example leader: 'Let's give each pair four blocks.' Example member: 'Could our pair have four blocks too?'",
+    "explanation": "Accept role-appropriate contributions that address sharing. The child should show how their words fit leading or participating, rather than merely repeat an identical line.\nHint: Notice the listener, the situation and the speaker's role.",
     "structuredExplanation": {
-      "summary": "“Guess how it sounds and change any hard parts.” is the mix-up to avoid. Let the person sharing the language guide its pronunciation and use.",
-      "hint": "Let the person sharing the language guide its pronunciation and use."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-025",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "apologising after an accident discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Ruby knocks over Kai's block tower by accident. Which response takes responsibility? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Ruby knocks over Kai's block tower by accident. Which response takes responsibility? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Sorry it fell. You can rebuild it now.",
-      "I'm sorry I knocked it over. I will help you rebuild it.",
-      "I did not mean to knock it over, so I do not need to help."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 25,
-    "correct": 0,
-    "explanation": "“Sorry it fell. You can rebuild it now.” is the mix-up to avoid. A sincere apology does not blame the other person or dismiss their feelings.\nHint: A sincere apology does not blame the other person or dismiss their feelings.",
-    "structuredExplanation": {
-      "summary": "“Sorry it fell. You can rebuild it now.” is the mix-up to avoid. A sincere apology does not blame the other person or dismiss their feelings.",
-      "hint": "A sincere apology does not blame the other person or dismiss their feelings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-026",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "leaving a clear office message discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Ava leaves a message for the school office. Which message gives enough information? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Ava leaves a message for the school office. Which message gives enough information? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hello, this is Ava from 2B. I found Mr Lee's keys.",
-      "Hello, I found something that belongs to a teacher.",
-      "This is Ava. Please tell him that I found the things."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 26,
-    "correct": 1,
-    "explanation": "“Hello, I found something that belongs to a teacher.” is the mix-up to avoid. An unfamiliar listener needs names and the important detail.\nHint: An unfamiliar listener needs names and the important detail.",
-    "structuredExplanation": {
-      "summary": "“Hello, I found something that belongs to a teacher.” is the mix-up to avoid. An unfamiliar listener needs names and the important detail.",
-      "hint": "An unfamiliar listener needs names and the important detail."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-027",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "helping a younger reading buddy discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Let's try it together. Start with the first sound.",
-      "I will say the word now, and you can skip the sounds.",
-      "That word is easy, so just guess it quickly."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 27,
-    "correct": 2,
-    "explanation": "“That word is easy, so just guess it quickly.” is the mix-up to avoid. A buddy should guide the reader and help them keep trying.\nHint: A buddy should guide the reader and help them keep trying.",
-    "structuredExplanation": {
-      "summary": "“That word is easy, so just guess it quickly.” is the mix-up to avoid. A buddy should guide the reader and help them keep trying.",
-      "hint": "A buddy should guide the reader and help them keep trying."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-028",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "asking for urgent help discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Sam falls near the gate and cannot stand. What should Priya call out? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Sam falls near the gate and cannot stand. What should Priya call out? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Something might have happened somewhere.",
-      "Please help! Sam has fallen near the gate.",
-      "Could somebody perhaps come here later?"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 28,
-    "correct": 0,
-    "explanation": "“Something might have happened somewhere.” is the mix-up to avoid. In an emergency, give the key information quickly and clearly.\nHint: In an emergency, give the key information quickly and clearly.",
-    "structuredExplanation": {
-      "summary": "“Something might have happened somewhere.” is the mix-up to avoid. In an emergency, give the key information quickly and clearly.",
-      "hint": "In an emergency, give the key information quickly and clearly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-029",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "writing in a class learning chat discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which message suits a class chat used for learning? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Which message suits a class chat used for learning? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Could someone please remind me which page we are reading?",
-      "What page are we reading? Please answer right now.",
-      "Could someone send a photo of the finished answers?"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 29,
-    "correct": 1,
-    "explanation": "“What page are we reading? Please answer right now.” is the mix-up to avoid. School chat language should still be polite, safe and useful.\nHint: School chat language should still be polite, safe and useful.",
-    "structuredExplanation": {
-      "summary": "“What page are we reading? Please answer right now.” is the mix-up to avoid. School chat language should still be polite, safe and useful.",
-      "hint": "School chat language should still be polite, safe and useful."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-030",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "refusing an invitation kindly discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Jo does not want to play a chasing game. Which reply is clear and respectful? Which response is the clearest mix-up to avoid?",
-    "audioPrompt": "Jo does not want to play a chasing game. Which reply is clear and respectful? Which response is the clearest mix-up to avoid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "No thank you. I would rather choose a different game.",
-      "Maybe I will play, but I will not tell you when.",
-      "No, I do not like your game at all."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 30,
-    "correct": 2,
-    "explanation": "“No, I do not like your game at all.” is the mix-up to avoid. A respectful refusal can be firm and kind at the same time.\nHint: A respectful refusal can be firm and kind at the same time.",
-    "structuredExplanation": {
-      "summary": "“No, I do not like your game at all.” is the mix-up to avoid. A respectful refusal can be firm and kind at the same time.",
-      "hint": "A respectful refusal can be firm and kind at the same time."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-031",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "welcoming a class visitor apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Think about what a friendly host should say and do. Zara is the class host when a visitor arrives. Which greeting best fits her role?",
-    "audioPrompt": "Use this clue: Think about what a friendly host should say and do. Zara is the class host when a visitor arrives. Which greeting best fits her role?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Welcome to our class. Would you like me to show you around?",
-      "Hello. Our teacher can help you if you need anything.",
-      "Welcome. You can find a place by yourself."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 31,
-    "correct": 0,
-    "explanation": "A class host welcomes the visitor and offers useful help.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "A class host welcomes the visitor and offers useful help.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-032",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "giving clear team directions apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: A leader's words should be specific, useful and respectful. Eli is leading a playground team. Which direction is clear and respectful?",
-    "audioPrompt": "Use this clue: A leader's words should be specific, useful and respectful. Eli is leading a playground team. Which direction is clear and respectful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Collect two cones each, then wait wherever you want.",
-      "Please collect one cone each, then meet beside the line.",
-      "Please collect some equipment and go over there."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 32,
-    "correct": 1,
-    "explanation": "The direction politely tells each team member exactly what to do and where to meet.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The direction politely tells each team member exactly what to do and where to meet.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-033",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "disagreeing with a reason apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Choose a reply that focuses on evidence, not on putting down the speaker. A partner says the map shows a road. Which reply disagrees politely and uses evidence?",
-    "audioPrompt": "Use this clue: Choose a reply that focuses on evidence, not on putting down the speaker. A partner says the map shows a road. Which reply disagrees politely and uses evidence?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The blue line is a road because that was my first idea.",
-      "I disagree because my answer looks better.",
-      "I see it differently because the blue line shows a creek."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 33,
-    "correct": 2,
-    "explanation": "The reply respects the partner while using a map clue to explain another view.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The reply respects the partner while using a map clue to explain another view.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-034",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "using a community greeting respectfully apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: Let the person sharing the language guide its pronunciation and use. A local First Nations language teacher shows the class a greeting. What should Mia do before using it?",
-    "audioPrompt": "Use this clue: Let the person sharing the language guide its pronunciation and use. A local First Nations language teacher shows the class a greeting. What should Mia do before using it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Listen carefully, practise it as taught and use it respectfully.",
-      "Use it in every community without checking how it belongs there.",
-      "Guess how it sounds and change any hard parts."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 34,
-    "correct": 0,
-    "explanation": "Listening to the language teacher respects community knowledge and the way the greeting is used.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Listening to the language teacher respects community knowledge and the way the greeting is used.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-035",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "apologising after an accident apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: A sincere apology does not blame the other person or dismiss their feelings. Ruby knocks over Kai's block tower by accident. Which response takes responsibility?",
-    "audioPrompt": "Use this clue: A sincere apology does not blame the other person or dismiss their feelings. Ruby knocks over Kai's block tower by accident. Which response takes responsibility?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I did not mean to knock it over, so I do not need to help.",
-      "I'm sorry I knocked it over. I will help you rebuild it.",
-      "Sorry it fell. You can rebuild it now."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 35,
-    "correct": 1,
-    "explanation": "Ruby names what happened, apologises and offers to repair the harm.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Ruby names what happened, apologises and offers to repair the harm.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-036",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "leaving a clear office message apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: An unfamiliar listener needs names and the important detail. Ava leaves a message for the school office. Which message gives enough information?",
-    "audioPrompt": "Use this clue: An unfamiliar listener needs names and the important detail. Ava leaves a message for the school office. Which message gives enough information?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "This is Ava. Please tell him that I found the things.",
-      "Hello, I found something that belongs to a teacher.",
-      "Hello, this is Ava from 2B. I found Mr Lee's keys."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 36,
-    "correct": 2,
-    "explanation": "Ava gives her name, class and a clear reason for the message.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Ava gives her name, class and a clear reason for the message.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-037",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "helping a younger reading buddy apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: A buddy should guide the reader and help them keep trying. Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role?",
-    "audioPrompt": "Use this clue: A buddy should guide the reader and help them keep trying. Ben's younger buddy gets stuck on a word. Which response fits Ben's helpful role?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Let's try it together. Start with the first sound.",
-      "I will say the word now, and you can skip the sounds.",
-      "That word is easy, so just guess it quickly."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 37,
-    "correct": 0,
-    "explanation": "Ben gives calm, useful help without embarrassing the younger reader.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Ben gives calm, useful help without embarrassing the younger reader.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-038",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "asking for urgent help apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: In an emergency, give the key information quickly and clearly. Sam falls near the gate and cannot stand. What should Priya call out?",
-    "audioPrompt": "Use this clue: In an emergency, give the key information quickly and clearly. Sam falls near the gate and cannot stand. What should Priya call out?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Could somebody perhaps come here later?",
-      "Please help! Sam has fallen near the gate.",
-      "Something might have happened somewhere."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 38,
-    "correct": 1,
-    "explanation": "Urgent language should be direct and tell helpers who needs help and where.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Urgent language should be direct and tell helpers who needs help and where.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-039",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "writing in a class learning chat apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: School chat language should still be polite, safe and useful. Which message suits a class chat used for learning?",
-    "audioPrompt": "Use this clue: School chat language should still be polite, safe and useful. Which message suits a class chat used for learning?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Could someone send a photo of the finished answers?",
-      "What page are we reading? Please answer right now.",
-      "Could someone please remind me which page we are reading?"
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 39,
-    "correct": 2,
-    "explanation": "The message has a clear learning purpose and uses respectful online language.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "The message has a clear learning purpose and uses respectful online language.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2la01-p-040",
-    "curriculumCode": "AC9E2LA01",
-    "bank": "practice",
-    "skill": "refusing an invitation kindly apply",
-    "printable": true,
-    "type": "single",
-    "question": "Use this clue: A respectful refusal can be firm and kind at the same time. Jo does not want to play a chasing game. Which reply is clear and respectful?",
-    "audioPrompt": "Use this clue: A respectful refusal can be firm and kind at the same time. Jo does not want to play a chasing game. Which reply is clear and respectful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "No thank you. I would rather choose a different game.",
-      "Maybe I will play, but I will not tell you when.",
-      "No, I do not like your game at all."
-    ],
-    "difficulty": 3,
-    "difficultyTier": "application",
-    "sequencePriority": 40,
-    "correct": 0,
-    "explanation": "Jo sets a clear boundary without insulting the other person.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
-    "structuredExplanation": {
-      "summary": "Jo sets a clear boundary without insulting the other person.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+      "summary": "Accept role-appropriate contributions that address sharing. The child should show how their words fit leading or participating, rather than merely repeat an identical line.",
+      "hint": "Notice the listener, the situation and the speaker's role."
     },
     "qualitySchema": "production-v1"
   }
