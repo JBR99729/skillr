@@ -10,6 +10,14 @@
       correct: 2,
       image: "/assets/quiz-visuals/foundation-science/ac9sfu02-spinning-top.svg",
       imageAlt: "A colourful toy top turning around its pointed base, with curved arrows showing the spinning movement."
+    },
+    "ac9sfu02-p-004": {
+      image: "/assets/quiz-visuals/foundation-science/ac9sfu02-paper-shapes.svg",
+      imageAlt: "Two equal sheets of paper, one flat and one scrunched into a ball, ready to be dropped from the same height."
+    },
+    "ac9sfu02-t-003": {
+      image: "/assets/quiz-visuals/foundation-science/ac9sfu02-clay-ramp.svg",
+      imageAlt: "A blue clay sphere and cube start at the same marked height on two matching ramps."
     }
   };
 
@@ -29,8 +37,8 @@
       const update = updates[question?.id];
       if (!update) return;
       Object.assign(question, update);
-      question.audioPrompt = update.question;
-      question.structuredExplanation = {
+      if (update.question) question.audioPrompt = update.question;
+      if (update.explanation) question.structuredExplanation = {
         summary: update.explanation,
         hint: update.hint
       };

@@ -17,8 +17,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "Yesterday a small ice cube got smaller in the sun. Today a child puts another small ice cube in the same sunny spot. Which prediction best fits what happened before?",
     "structuredExplanation": {
-      "summary": "The child uses what happened to the first ice cube to make a sensible prediction."
-    }
+      "summary": "The child uses what happened to the first ice cube to make a sensible prediction.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-002",
@@ -37,8 +42,13 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "A puddle was big in the morning and smaller after lunch. Which question asks how the puddle might change before home time?",
     "structuredExplanation": {
-      "summary": "This question asks what might happen next."
-    }
+      "summary": "This question asks what might happen next.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-003",
@@ -57,8 +67,13 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "Last week, seeds in wet cotton sprouted. Seeds in dry cotton did not. New seeds are put in dry cotton. Which prediction best fits what happened before?",
     "structuredExplanation": {
-      "summary": "The earlier seeds in dry cotton did not sprout. This supports predicting that the new seeds in dry cotton might not sprout yet."
-    }
+      "summary": "The earlier seeds in dry cotton did not sprout. This supports predicting that the new seeds in dry cotton might not sprout yet.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-004",
@@ -77,8 +92,13 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "A child hears birds in the same tree each morning. Which question checks whether birds return tomorrow morning?",
     "structuredExplanation": {
-      "summary": "The question comes from what the child has heard on other mornings."
-    }
+      "summary": "The question comes from what the child has heard on other mornings.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-005",
@@ -97,8 +117,13 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "A toy car rolled farther on smooth floor than on carpet. If the child tries smooth tile and carpet, which prediction best fits what happened before?",
     "structuredExplanation": {
-      "summary": "The prediction uses the earlier comparison of smooth floor and carpet."
-    }
+      "summary": "The prediction uses the earlier comparison of smooth floor and carpet.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-006",
@@ -117,8 +142,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "Yesterday dark clouds came before rain. Today a child sees dark clouds. Which question asks whether yesterday's weather pattern happens again?",
     "structuredExplanation": {
-      "summary": "The child can look to see whether rain follows the dark clouds."
-    }
+      "summary": "The child can look to see whether rain follows the dark clouds.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-007",
@@ -137,28 +167,38 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "Yesterday a child saw many ants near an apple core and few ants near a leaf. Today the apple core and leaf are still outside. Which question compares the two places?",
     "structuredExplanation": {
-      "summary": "This question can be checked by looking at both places."
-    }
+      "summary": "This question can be checked by looking at both places.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-008",
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
-    "skill": "make predictions from experience",
-    "question": "A dry sponge took in drops of water yesterday. It has dried again. Which prediction best fits putting drops on it today?",
-    "explanation": "The child uses what happened with the dry sponge before.",
+    "skill": "predict from a repeated experience",
+    "question": "A leaf floated in a tray yesterday. A similar leaf is placed gently on water today. Which prediction uses that experience?",
+    "explanation": "The earlier leaf floated, so it is sensible to predict that a similar leaf might float too.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The sponge might stay dry.",
-      "The drops might run off only.",
-      "The sponge might take in drops."
+      "The leaf must turn into a fish.",
+      "The water will disappear at once.",
+      "The leaf might float."
     ],
     "correct": 2,
-    "audioPrompt": "A dry sponge took in drops of water yesterday. It has dried again. Which prediction best fits putting drops on it today?",
+    "audioPrompt": "A leaf floated in a tray yesterday. A similar leaf is placed gently on water today. Which prediction uses that experience?",
     "structuredExplanation": {
-      "summary": "The child uses what happened with the dry sponge before."
-    }
+      "summary": "The earlier leaf floated, so it is sensible to predict that a similar leaf might float too.",
+      "hint": "Choose what might happen based on yesterday's observation."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-009",
@@ -177,8 +217,13 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "Yesterday a child marked a seedling's height on a stick. Which question asks whether the seedling grew since yesterday?",
     "structuredExplanation": {
-      "summary": "The mark helps the child check whether the seedling grew."
-    }
+      "summary": "The mark helps the child check whether the seedling grew.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-010",
@@ -197,8 +242,13 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "A class found snails under damp leaves after rain. Which prediction best matches where the class found snails before?",
     "structuredExplanation": {
-      "summary": "The class uses its earlier rainy-day experience to choose where to look."
-    }
+      "summary": "The class uses its earlier rainy-day experience to choose where to look.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-011",
@@ -217,28 +267,38 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "Which is a prediction?",
     "structuredExplanation": {
-      "summary": "A prediction says what might happen next."
-    }
+      "summary": "A prediction says what might happen next.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-012",
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
-    "skill": "make predictions from experience",
-    "question": "A feather moved a little when a child blew gently on it. Which sentence is a prediction for a stronger blow?",
-    "explanation": "This says what might happen when the blow is changed.",
+    "skill": "predict a shadow change from experience",
+    "question": "Yesterday, moving a toy closer to a torch made its shadow look larger. What prediction fits moving it closer again?",
+    "explanation": "The prediction uses the earlier shadow observation and says what might happen when the action is repeated.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The feather felt soft.",
-      "It might move farther.",
-      "The feather was white."
+      "Its shadow must disappear.",
+      "Its shadow might look larger.",
+      "The toy might change colour."
     ],
     "correct": 1,
-    "audioPrompt": "A feather moved a little when a child blew gently on it. Which sentence is a prediction for a stronger blow?",
+    "audioPrompt": "Yesterday, moving a toy closer to a torch made its shadow look larger. What prediction fits moving it closer again?",
     "structuredExplanation": {
-      "summary": "This says what might happen when the blow is changed."
-    }
+      "summary": "The prediction uses the earlier shadow observation and says what might happen when the action is repeated.",
+      "hint": "Use the result observed yesterday."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-013",
@@ -257,8 +317,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "A plant near the window grew a new leaf. Another small plant is put near the same window. Which question asks about a new leaf growing by Friday?",
     "structuredExplanation": {
-      "summary": "The question asks about an observable change in the new plant."
-    }
+      "summary": "The question asks about an observable change in the new plant.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-014",
@@ -277,8 +342,13 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "A child traced a shadow in the morning and afternoon. The shadow looked different. What question could the child ask tomorrow?",
     "structuredExplanation": {
-      "summary": "The question can be checked by looking at the shadow at different times."
-    }
+      "summary": "The question can be checked by looking at the shadow at different times.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-015",
@@ -297,8 +367,13 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "A paper plane flew farther with a stronger throw than with a gentler throw. Which prediction best fits trying another stronger throw?",
     "structuredExplanation": {
-      "summary": "The child uses the earlier throwing comparison to make a prediction."
-    }
+      "summary": "The child uses the earlier throwing comparison to make a prediction.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-016",
@@ -317,8 +392,13 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "A child sees holes on two leaves. Which question compares the number of holes?",
     "structuredExplanation": {
-      "summary": "This question compares something the child can observe."
-    }
+      "summary": "This question compares something the child can observe.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-017",
@@ -337,8 +417,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "A child says, “I think the clay will sink because it sank yesterday.” What is the child making?",
     "structuredExplanation": {
-      "summary": "The child says what might happen and gives a reason from before."
-    }
+      "summary": "The child says what might happen and gives a reason from before.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 17,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-018",
@@ -357,8 +442,13 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "A class noticed bees visiting yellow flowers yesterday. Which question asks whether bees return to the same flowers?",
     "structuredExplanation": {
-      "summary": "This follows from the class's earlier flower observation."
-    }
+      "summary": "This follows from the class's earlier flower observation.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 18,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-019",
@@ -377,28 +467,38 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "A child predicts a ball will roll down a ramp. What experience best supports that prediction?",
     "structuredExplanation": {
-      "summary": "A related past experience can support a prediction."
-    }
+      "summary": "A related past experience can support a prediction.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-020",
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
-    "skill": "connect experience to inquiry",
-    "question": "Which sentence is a question?",
-    "explanation": "A question asks something that can be found out.",
+    "skill": "pose an observable question from experience",
+    "question": "A child saw a shiny snail trail on the path. Which question could be checked by watching the path tomorrow?",
+    "explanation": "The child can watch the path tomorrow and observe whether a new snail trail appears.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Will the leaf float?",
-      "The leaf is green.",
-      "The leaf floated yesterday."
+      "Will a new snail trail appear?",
+      "Does the snail have a secret name?",
+      "Is this the nicest path ever?"
     ],
     "correct": 0,
-    "audioPrompt": "Which sentence is a question?",
+    "audioPrompt": "A child saw a shiny snail trail on the path. Which question could be checked by watching the path tomorrow?",
     "structuredExplanation": {
-      "summary": "A question asks something that can be found out."
-    }
+      "summary": "The child can watch the path tomorrow and observe whether a new snail trail appears.",
+      "hint": "Choose a question that observation could answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-021",
@@ -417,8 +517,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "The toy car moved faster on the steep ramp than on the low ramp. Which prediction best fits trying the steep ramp again?",
     "structuredExplanation": {
-      "summary": "The prediction includes the comparison point: the low ramp."
-    }
+      "summary": "The prediction includes the comparison point: the low ramp.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-022",
@@ -437,8 +542,13 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "A class saw worms on the path after rain. Which question follows from that experience?",
     "structuredExplanation": {
-      "summary": "The question connects to what the class saw after rain."
-    }
+      "summary": "The question connects to what the class saw after rain.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-023",
@@ -457,8 +567,13 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "A magnet picked up a paperclip but not a plastic button. Which prediction uses that experience?",
     "structuredExplanation": {
-      "summary": "The prediction matches what happened with the paperclip."
-    }
+      "summary": "The prediction matches what happened with the paperclip.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-p-024",
@@ -477,7 +592,12 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "A child asks, “Will the wet path dry in the sun?” Why is this a useful question?",
     "structuredExplanation": {
-      "summary": "The child can watch the path and find out."
-    }
+      "summary": "The child can watch the path and find out.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   }
 ];

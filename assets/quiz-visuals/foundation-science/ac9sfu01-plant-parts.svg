@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">A young plant</title><desc id="desc">A young plant with broad green leaves, a stem and roots in soil.</desc>
+  <rect width="640" height="360" rx="24" fill="#f3fbff"/><rect y="278" width="640" height="82" fill="#d8b47a"/>
+  <path d="M320 290V112" stroke="#2f7d43" stroke-width="18" stroke-linecap="round"/>
+  <path d="M317 184C254 112 181 119 165 179c59 22 111 19 152 5Z" fill="#55ad62" stroke="#236b36" stroke-width="6"/>
+  <path d="M323 140c47-63 119-64 146-12-43 39-91 48-146 12Z" fill="#67bd70" stroke="#236b36" stroke-width="6"/>
+  <path d="M320 288c-35 23-48 42-52 64m52-64c33 20 47 40 53 64m-53-64v64" fill="none" stroke="#8b5a2b" stroke-width="10" stroke-linecap="round"/>
+</svg>

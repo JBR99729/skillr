@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "observe with sight",
     "question": "Which sense helps you see colour?",
-    "explanation": "Sight is used to see colour.",
+    "explanation": "Colour is an observable feature noticed with the eyes, so the sense used is sight.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -17,8 +17,13 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "Which sense helps you see colour?",
     "structuredExplanation": {
-      "summary": "Sight is used to see colour."
-    }
+      "summary": "Colour is an observable feature noticed with the eyes, so the sense used is sight.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-002",
@@ -37,28 +42,38 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A child finds a sharp stick outside. What is safest?",
     "structuredExplanation": {
-      "summary": "A sharp object should be left alone and reported to the teacher."
-    }
+      "summary": "A sharp object should be left alone and reported to the teacher.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-003",
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "observe with touch",
-    "question": "Which sentence tells something you can feel?",
-    "explanation": "Soft is noticed using touch.",
+    "skill": "choose a sense for a safe observation",
+    "question": "The teacher says a clean cloth is safe to handle. How can a child find out whether it is soft?",
+    "explanation": "Soft describes how the leaf feels, so this observation is made safely using touch.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The leaf is green.",
-      "The leaf is tall.",
-      "The leaf is soft."
+      "Listen for its colour.",
+      "Taste a corner.",
+      "Touch it gently."
     ],
     "correct": 2,
-    "audioPrompt": "Which sentence tells something you can feel?",
+    "audioPrompt": "The teacher says a clean cloth is safe to handle. How can a child find out whether it is soft?",
     "structuredExplanation": {
-      "summary": "Soft is noticed using touch."
-    }
+      "summary": "Soft describes how the leaf feels, so this observation is made safely using touch.",
+      "hint": "Choose the sense that can notice texture."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-004",
@@ -77,28 +92,38 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A class compares two bells. What should they use?",
     "structuredExplanation": {
-      "summary": "Ears are used for hearing sounds."
-    }
+      "summary": "Ears are used for hearing sounds.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-005",
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "investigate safely",
-    "question": "Which action is unsafe?",
-    "explanation": "Unknown berries should not be tasted.",
+    "skill": "use sun-safe investigation procedures",
+    "question": "Which choice is safest for observing the school garden on a sunny day?",
+    "explanation": "A hat, class boundary and teacher supervision help make an outdoor observation safer.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Looking at a flower.",
-      "Listening to birds.",
-      "Tasting unknown berries."
+      "Stare directly at the Sun.",
+      "Leave the group without telling anyone.",
+      "Wear a hat and stay in the class area."
     ],
     "correct": 2,
-    "audioPrompt": "Which action is unsafe?",
+    "audioPrompt": "Which choice is safest for observing the school garden on a sunny day?",
     "structuredExplanation": {
-      "summary": "Unknown berries should not be tasted."
-    }
+      "summary": "A hat, class boundary and teacher supervision help make an outdoor observation safer.",
+      "hint": "Choose sun protection and staying with the group."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-006",
@@ -117,8 +142,13 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "A child wants to look at a tiny seed. What tool helps?",
     "structuredExplanation": {
-      "summary": "A magnifying glass helps make tiny details easier to see."
-    }
+      "summary": "A magnifying glass helps make tiny details easier to see.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-007",
@@ -137,28 +167,38 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "Which tells something you can smell?",
     "structuredExplanation": {
-      "summary": "Smells sweet is noticed using smell."
-    }
+      "summary": "Smells sweet is noticed using smell.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-008",
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "investigate safely",
-    "question": "A child sees a worm on the path. What is safest?",
-    "explanation": "Watching quietly lets the child observe safely.",
+    "skill": "move investigation equipment safely",
+    "question": "A child carries a tray of science tools. What should the child do?",
+    "explanation": "Walking slowly with two hands keeps the tools steady and reduces spills and collisions.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Step on it.",
-      "Watch it quietly; do not touch.",
-      "Put it in a pocket."
+      "Run with the tray above their head.",
+      "Walk slowly and hold the tray with two hands.",
+      "Slide the tray across the floor."
     ],
     "correct": 1,
-    "audioPrompt": "A child sees a worm on the path. What is safest?",
+    "audioPrompt": "A child carries a tray of science tools. What should the child do?",
     "structuredExplanation": {
-      "summary": "Watching quietly lets the child observe safely."
-    }
+      "summary": "Walking slowly with two hands keeps the tools steady and reduces spills and collisions.",
+      "hint": "Choose the controlled way to carry the tray."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-009",
@@ -177,8 +217,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "Which observation uses hearing?",
     "structuredExplanation": {
-      "summary": "Loud is an observation made using hearing."
-    }
+      "summary": "Loud is an observation made using hearing.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-010",
@@ -197,8 +242,13 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A child finds an unknown powder. What should they do?",
     "structuredExplanation": {
-      "summary": "Unknown powders should not be blown, touched or tasted."
-    }
+      "summary": "Unknown powders should not be blown, touched or tasted.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-011",
@@ -217,8 +267,13 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "Which shell sentence is a sight observation?",
     "structuredExplanation": {
-      "summary": "Spots are something that can be seen."
-    }
+      "summary": "Spots are something that can be seen.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-012",
@@ -237,8 +292,13 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A class rolls balls down a ramp. What keeps it safe?",
     "structuredExplanation": {
-      "summary": "Keeping hands away from the ramp helps children observe safely."
-    }
+      "summary": "Keeping hands away from the ramp helps children observe safely.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-013",
@@ -257,28 +317,38 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "Which sense helps compare rough and smooth?",
     "structuredExplanation": {
-      "summary": "Touch helps compare rough and smooth textures."
-    }
+      "summary": "Touch helps compare rough and smooth textures.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-014",
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "observe with smell",
-    "question": "A child wants to smell a flower. What should they do first?",
-    "explanation": "The child should ask the teacher before smelling a plant.",
+    "skill": "compare sounds safely",
+    "question": "A class compares two shakers. How should they listen safely?",
+    "explanation": "Listening to one shaker at a safe distance protects ears and makes the sounds easier to compare.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Ask the teacher.",
-      "Bite the flower.",
-      "Rub it on their face."
+      "Play one at a time away from their ears.",
+      "Shake both beside one ear.",
+      "Taste each shaker first."
     ],
     "correct": 0,
-    "audioPrompt": "A child wants to smell a flower. What should they do first?",
+    "audioPrompt": "A class compares two shakers. How should they listen safely?",
     "structuredExplanation": {
-      "summary": "The child should ask the teacher before smelling a plant."
-    }
+      "summary": "Listening to one shaker at a safe distance protects ears and makes the sounds easier to compare.",
+      "hint": "Choose a method that protects hearing and supports comparison."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-015",
@@ -297,8 +367,13 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "Which is a safe observation?",
     "structuredExplanation": {
-      "summary": "Listening to birds is a safe way to observe."
-    }
+      "summary": "Listening to birds is a safe way to observe.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi02-t-016",
@@ -317,7 +392,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "A child uses a magnifying glass on a leaf. What are they doing?",
     "structuredExplanation": {
-      "summary": "A magnifying glass helps the child look closely."
-    }
+      "summary": "A magnifying glass helps the child look closely.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;

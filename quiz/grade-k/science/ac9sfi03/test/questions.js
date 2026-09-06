@@ -4,41 +4,51 @@ window.skillrTestQuestions = [
     "id": "ac9sfi03-t-001",
     "curriculumCode": "AC9SFI03",
     "bank": "test",
-    "skill": "identify simple patterns",
-    "question": "A class records sunny, rainy, sunny, rainy. What comes next in the pattern?",
-    "explanation": "The weather pattern repeats sunny, rainy.",
+    "skill": "identify a weather pattern in a provided table",
+    "question": "A table shows cool mornings and warm afternoons for three days. Which pattern is shown?",
+    "explanation": "Each row records a cool morning followed by a warmer afternoon, so that comparison repeats.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Sunny",
-      "Loud",
-      "Rough"
+      "Afternoons were warmer than mornings.",
+      "Mornings were always warmer.",
+      "The weather was never recorded."
     ],
     "correct": 0,
-    "audioPrompt": "A class records sunny, rainy, sunny, rainy. What comes next in the pattern?",
+    "audioPrompt": "A table shows cool mornings and warm afternoons for three days. Which pattern is shown?",
     "structuredExplanation": {
-      "summary": "The weather pattern repeats sunny, rainy."
-    }
+      "summary": "Each row records a cool morning followed by a warmer afternoon, so that comparison repeats.",
+      "hint": "Compare morning and afternoon in every row."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-002",
     "curriculumCode": "AC9SFI03",
     "bank": "test",
-    "skill": "record observations clearly",
-    "question": "A child draws a plant on Monday and Friday. What can the two drawings show?",
-    "explanation": "Two drawings can show changes in the plant.",
+    "skill": "place a drawing in a provided sequence template",
+    "question": "A plant template has boxes labelled 'Monday' and 'Friday'. Where should the later drawing go?",
+    "explanation": "The later observation was made on Friday, so its drawing belongs in the Friday box.",
     "printable": true,
     "type": "single",
     "answers": [
-      "What the plant likes",
-      "How the plant changed",
-      "What the pot is called"
+      "Monday box",
+      "Friday box",
+      "Question box"
     ],
     "correct": 1,
-    "audioPrompt": "A child draws a plant on Monday and Friday. What can the two drawings show?",
+    "audioPrompt": "A plant template has boxes labelled 'Monday' and 'Friday'. Where should the later drawing go?",
     "structuredExplanation": {
-      "summary": "Two drawings can show changes in the plant."
-    }
+      "summary": "The later observation was made on Friday, so its drawing belongs in the Friday box.",
+      "hint": "Match the observation time to the box label."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-003",
@@ -57,48 +67,63 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "A table has columns “smooth” and “rough”. Where should a smooth shell go?",
     "structuredExplanation": {
-      "summary": "A smooth shell belongs in the smooth column."
-    }
+      "summary": "A smooth shell belongs in the smooth column.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-004",
     "curriculumCode": "AC9SFI03",
     "bank": "test",
-    "skill": "identify simple patterns",
-    "question": "A chart shows 2 birds, then 3 birds, then 4 birds. What pattern is shown?",
-    "explanation": "The numbers increase from 2 to 3 to 4.",
+    "skill": "identify a feature pattern in an animal table",
+    "question": "A table records feathers for a duck and magpie, and fur for a dog. What pattern fits the bird group?",
+    "explanation": "Both animals in the bird group are recorded with feathers, while the dog is recorded with fur.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Fewer birds each time",
-      "More birds each time",
-      "Same number each time"
+      "The birds have fur.",
+      "The birds have feathers.",
+      "The dog has feathers."
     ],
     "correct": 1,
-    "audioPrompt": "A chart shows 2 birds, then 3 birds, then 4 birds. What pattern is shown?",
+    "audioPrompt": "A table records feathers for a duck and magpie, and fur for a dog. What pattern fits the bird group?",
     "structuredExplanation": {
-      "summary": "The numbers increase from 2 to 3 to 4."
-    }
+      "summary": "Both animals in the bird group are recorded with feathers, while the dog is recorded with fur.",
+      "hint": "Use the feature shared by both birds."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-005",
     "curriculumCode": "AC9SFI03",
     "bank": "test",
-    "skill": "record observations clearly",
-    "question": "A child records “soft” for a feather. Which sense observation is recorded?",
-    "explanation": "Soft is noticed using touch.",
+    "skill": "interpret links on a material display",
+    "question": "A display links a wood sample to a chair and a pencil. Why are the pictures linked?",
+    "explanation": "The display represents the shared material: both the chair and pencil contain wood.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Hearing",
-      "Smell",
-      "Touch"
+      "Both objects are made only of glass.",
+      "Both objects have the same use.",
+      "Both objects contain wood."
     ],
     "correct": 2,
-    "audioPrompt": "A child records “soft” for a feather. Which sense observation is recorded?",
+    "audioPrompt": "A display links a wood sample to a chair and a pencil. Why are the pictures linked?",
     "structuredExplanation": {
-      "summary": "Soft is noticed using touch."
-    }
+      "summary": "The display represents the shared material: both the chair and pencil contain wood.",
+      "hint": "Follow the line from the material sample to each object."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-006",
@@ -117,28 +142,38 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "A picture graph shows 5 red leaves and 2 yellow leaves. What can the class say?",
     "structuredExplanation": {
-      "summary": "Five red leaves is more than two yellow leaves."
-    }
+      "summary": "Five red leaves is more than two yellow leaves.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-007",
     "curriculumCode": "AC9SFI03",
     "bank": "test",
-    "skill": "represent observations in templates",
-    "question": "A template asks “What did you hear?” Which answer fits best?",
-    "explanation": "Loud tells what was heard.",
+    "skill": "sort a sound observation in a provided table",
+    "question": "A sound table has columns 'loud' and 'soft'. Where should a strong drum boom be recorded?",
+    "explanation": "Loud records a sound heard with the ears, so it fits the template section asking what was heard.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“The bell was red”",
-      "“The bell was round”",
-      "“The bell was loud”"
+      "Soft",
+      "Colour",
+      "Loud"
     ],
     "correct": 2,
-    "audioPrompt": "A template asks “What did you hear?” Which answer fits best?",
+    "audioPrompt": "A sound table has columns 'loud' and 'soft'. Where should a strong drum boom be recorded?",
     "structuredExplanation": {
-      "summary": "Loud tells what was heard."
-    }
+      "summary": "Loud records a sound heard with the ears, so it fits the template section asking what was heard.",
+      "hint": "Use what was heard to choose the column."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-008",
@@ -157,8 +192,13 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A class records puddle size: big, smaller, gone. What pattern is shown?",
     "structuredExplanation": {
-      "summary": "The puddle size decreased from big to gone."
-    }
+      "summary": "The puddle size decreased from big to gone.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-009",
@@ -177,8 +217,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "Which record shows an observation clearly?",
     "structuredExplanation": {
-      "summary": "A drawing can clearly record what was seen."
-    }
+      "summary": "A drawing can clearly record what was seen.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-010",
@@ -197,28 +242,38 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A child sorts leaves into green and brown groups. What is being represented?",
     "structuredExplanation": {
-      "summary": "The groups represent observed leaf colours."
-    }
+      "summary": "The groups represent observed leaf colours.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-011",
     "curriculumCode": "AC9SFI03",
     "bank": "test",
-    "skill": "identify simple patterns",
-    "question": "A chart shows quiet, loud, quiet, loud. What comes next?",
-    "explanation": "The sound pattern repeats quiet, loud.",
+    "skill": "identify a repeated movement pattern",
+    "question": "A chart shows that a ball rolled in two trials and a cube slid in two trials. Which pattern is shown?",
+    "explanation": "Across the repeated trials, the round ball was recorded rolling and the cube was recorded sliding.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Quiet",
-      "Green",
-      "Heavy"
+      "The round ball rolled each time.",
+      "The cube rolled each time.",
+      "Both objects floated each time."
     ],
     "correct": 0,
-    "audioPrompt": "A chart shows quiet, loud, quiet, loud. What comes next?",
+    "audioPrompt": "A chart shows that a ball rolled in two trials and a cube slid in two trials. Which pattern is shown?",
     "structuredExplanation": {
-      "summary": "The sound pattern repeats quiet, loud."
-    }
+      "summary": "Across the repeated trials, the round ball was recorded rolling and the cube was recorded sliding.",
+      "hint": "Check what each shape did in both trials."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-012",
@@ -237,8 +292,13 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A class counts flowers each day: 1, 1, 1. What pattern is shown?",
     "structuredExplanation": {
-      "summary": "The count stayed at 1 each day."
-    }
+      "summary": "The count stayed at 1 each day.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-013",
@@ -257,8 +317,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "A child uses ticks to record bird calls. What does each tick show?",
     "structuredExplanation": {
-      "summary": "Each tick records one bird call heard."
-    }
+      "summary": "Each tick records one bird call heard.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-014",
@@ -277,28 +342,38 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "A template has “I saw”, “I heard”, and “I felt”. Where should “rough bark” go?",
     "structuredExplanation": {
-      "summary": "Rough bark is a touch observation, so it belongs under I felt."
-    }
+      "summary": "Rough bark is a touch observation, so it belongs under I felt.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-015",
     "curriculumCode": "AC9SFI03",
     "bank": "test",
-    "skill": "represent observations in templates",
-    "question": "A graph shows more blue blocks than red blocks. What can the class say?",
-    "explanation": "The graph shows more blue blocks.",
+    "skill": "interpret a material-sorting table",
+    "question": "A table puts a jar and window under 'glass', and a spoon and peg under 'wood'. What is the sorting rule?",
+    "explanation": "Each column groups objects made from the named material, either glass or wood.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Blue blocks were seen more",
-      "Red blocks were seen more",
-      "No blocks were used"
+      "Objects are grouped by material.",
+      "Objects are grouped by sound.",
+      "Objects are grouped by owner."
     ],
     "correct": 0,
-    "audioPrompt": "A graph shows more blue blocks than red blocks. What can the class say?",
+    "audioPrompt": "A table puts a jar and window under 'glass', and a spoon and peg under 'wood'. What is the sorting rule?",
     "structuredExplanation": {
-      "summary": "The graph shows more blue blocks."
-    }
+      "summary": "Each column groups objects made from the named material, either glass or wood.",
+      "hint": "Read the column headings and check every object below them."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi03-t-016",
@@ -317,7 +392,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "Why use a chart for class observations?",
     "structuredExplanation": {
-      "summary": "A chart helps show observations clearly."
-    }
+      "summary": "A chart helps show observations clearly.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;

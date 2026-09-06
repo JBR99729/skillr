@@ -17,8 +17,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "A dry paper towel soaked up a small water spill. Which prediction best fits trying another dry paper towel?",
     "structuredExplanation": {
-      "summary": "The child uses what happened with the first paper towel."
-    }
+      "summary": "The child uses what happened with the first paper towel.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-002",
@@ -37,8 +42,13 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "A class puts a small ice cube in a sunny tray. Which question asks whether the ice changes while it is outside?",
     "structuredExplanation": {
-      "summary": "The class can watch the ice and find out."
-    }
+      "summary": "The class can watch the ice and find out.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-003",
@@ -57,8 +67,13 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A child says, “This seed might sprout because the last seed sprouted.” What is this?",
     "structuredExplanation": {
-      "summary": "The child uses an earlier seed experience to predict what may happen."
-    }
+      "summary": "The child uses an earlier seed experience to predict what may happen.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-004",
@@ -77,8 +92,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "Leaves moved on a windy day and stayed still on a calm day. Which prediction best fits another windy day?",
     "structuredExplanation": {
-      "summary": "The prediction uses the windy-day experience."
-    }
+      "summary": "The prediction uses the windy-day experience.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-005",
@@ -97,8 +117,13 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "Which sentence asks something the class could check?",
     "structuredExplanation": {
-      "summary": "A question asks something to find out."
-    }
+      "summary": "A question asks something to find out.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-006",
@@ -117,8 +142,13 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A child dropped a rubber ball safely and saw it bounce. Which prediction best fits dropping the same ball again?",
     "structuredExplanation": {
-      "summary": "The child uses what happened when the ball was dropped before."
-    }
+      "summary": "The child uses what happened when the ball was dropped before.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-007",
@@ -137,28 +167,38 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "Yesterday there were more ants near fruit than near a pencil. Today the fruit and pencil are outside again. Which question repeats yesterday's comparison?",
     "structuredExplanation": {
-      "summary": "The question follows from yesterday's comparison."
-    }
+      "summary": "The question follows from yesterday's comparison.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-008",
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "make predictions from experience",
-    "question": "Which statement is a prediction?",
-    "explanation": "A prediction says what might happen.",
+    "skill": "place a prediction in an investigation record",
+    "question": "Before testing another rock, a child fills the box 'What I think will happen'. Which note belongs there?",
+    "explanation": "The box is for a prediction, so it needs a statement about what might happen in the next test.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The rock is grey.",
-      "The rock may sink.",
-      "The rock feels rough."
+      "The first rock is grey.",
+      "The rock might sink.",
+      "The tray feels smooth now."
     ],
     "correct": 1,
-    "audioPrompt": "Which statement is a prediction?",
+    "audioPrompt": "Before testing another rock, a child fills the box 'What I think will happen'. Which note belongs there?",
     "structuredExplanation": {
-      "summary": "A prediction says what might happen."
-    }
+      "summary": "The box is for a prediction, so it needs a statement about what might happen in the next test.",
+      "hint": "A prediction is written before the result is observed."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-009",
@@ -177,8 +217,13 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "A seedling near the window was taller than its mark by Friday. Another seedling is put near the same window, watered, and its starting height is marked. Which prediction best fits the earlier experience?",
     "structuredExplanation": {
-      "summary": "The prediction uses the earlier marked-height experience."
-    }
+      "summary": "The prediction uses the earlier marked-height experience.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-010",
@@ -197,8 +242,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "A toy car moved farther with a strong push than with a gentle push. Which prediction best fits that push comparison?",
     "structuredExplanation": {
-      "summary": "The prediction uses the earlier push comparison."
-    }
+      "summary": "The prediction uses the earlier push comparison.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-011",
@@ -217,88 +267,113 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "Two same-size sponges are put into the same amount of water. Which question is about how much water they take in?",
     "structuredExplanation": {
-      "summary": "The question compares the amount of water taken in."
-    }
+      "summary": "The question compares the amount of water taken in.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-012",
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "connect experience to inquiry",
-    "question": "A child says, “I think the puddle might get smaller in the sun.” What is the child doing?",
-    "explanation": "The child is saying what they think may happen next.",
+    "skill": "make a material prediction from experience",
+    "question": "A paper cup became soft after rain. Which prediction uses that experience for another paper cup left in rain?",
+    "explanation": "The first paper cup softened in rain, so another paper cup might soften in the same conditions.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Making a prediction",
-      "Making an observation now",
-      "Asking a question"
+      "It might become soft.",
+      "It might become metal.",
+      "It must grow leaves."
     ],
     "correct": 0,
-    "audioPrompt": "A child says, “I think the puddle might get smaller in the sun.” What is the child doing?",
+    "audioPrompt": "A paper cup became soft after rain. Which prediction uses that experience for another paper cup left in rain?",
     "structuredExplanation": {
-      "summary": "The child is saying what they think may happen next."
-    }
+      "summary": "The first paper cup softened in rain, so another paper cup might soften in the same conditions.",
+      "hint": "Match the prediction to the earlier result."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-013",
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "pose investigable questions",
-    "question": "A class heard birds in the morning for three days. Which question checks whether this happens again tomorrow?",
-    "explanation": "The question is based on the repeated morning experience.",
+    "skill": "predict from a recorded weather pattern",
+    "question": "For three days, mornings were cool and afternoons were warm. Which prediction uses this pattern?",
+    "explanation": "The repeated warm afternoons support predicting that the next afternoon might also be warm.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Were the birds loud today?",
-      "Are the birds in a nest?",
-      "Will we hear birds again in the morning?"
+      "Tomorrow has no afternoon.",
+      "The weather must never change again.",
+      "Tomorrow afternoon might be warm."
     ],
     "correct": 2,
-    "audioPrompt": "A class heard birds in the morning for three days. Which question checks whether this happens again tomorrow?",
+    "audioPrompt": "For three days, mornings were cool and afternoons were warm. Which prediction uses this pattern?",
     "structuredExplanation": {
-      "summary": "The question is based on the repeated morning experience."
-    }
+      "summary": "The repeated warm afternoons support predicting that the next afternoon might also be warm.",
+      "hint": "Look for what happened at the same time on several days."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-014",
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "make predictions from experience",
-    "question": "A feather moved farther with a strong blow than with a gentle blow. Which prediction best fits the feather test?",
-    "explanation": "The prediction uses the earlier comparison of gentle and strong blows.",
+    "skill": "predict movement from experience",
+    "question": "An egg-shaped toy rolled along a curving path yesterday. What is a sensible prediction for rolling it again?",
+    "explanation": "The toy curved when it rolled before, so it may follow a similar curving path again.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It might move farther than with a gentle blow.",
-      "It might move less than with a gentle blow.",
-      "It might stay still because air cannot push it."
+      "It might follow a curving path.",
+      "It must roll perfectly straight.",
+      "It will turn into a ball."
     ],
     "correct": 0,
-    "audioPrompt": "A feather moved farther with a strong blow than with a gentle blow. Which prediction best fits the feather test?",
+    "audioPrompt": "An egg-shaped toy rolled along a curving path yesterday. What is a sensible prediction for rolling it again?",
     "structuredExplanation": {
-      "summary": "The prediction uses the earlier comparison of gentle and strong blows."
-    }
+      "summary": "The toy curved when it rolled before, so it may follow a similar curving path again.",
+      "hint": "Use what the same shaped toy did before."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-015",
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "make predictions from experience",
-    "question": "Yesterday ice in the sun got smaller. Which sentence is a prediction for today?",
-    "explanation": "The sentence says what might happen today.",
+    "skill": "predict from a wind observation",
+    "question": "A pinwheel turned each time the wind blew. What is a sensible prediction for the next windy day?",
+    "explanation": "The repeated experience connects wind with turning, so the pinwheel might turn again.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The ice is cold now.",
-      "The ice might get smaller in the sun.",
-      "The ice looks white at the edge."
+      "The pinwheel must melt.",
+      "The pinwheel might turn again.",
+      "The wind will make it grow."
     ],
     "correct": 1,
-    "audioPrompt": "Yesterday ice in the sun got smaller. Which sentence is a prediction for today?",
+    "audioPrompt": "A pinwheel turned each time the wind blew. What is a sensible prediction for the next windy day?",
     "structuredExplanation": {
-      "summary": "The sentence says what might happen today."
-    }
+      "summary": "The repeated experience connects wind with turning, so the pinwheel might turn again.",
+      "hint": "Choose what happened on earlier windy days."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfi01-t-016",
@@ -317,7 +392,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "Before testing a toy car on carpet and tile, which sentence is a prediction with a reason from before?",
     "structuredExplanation": {
-      "summary": "This is a prediction with a reason from a past experience."
-    }
+      "summary": "This is a prediction with a reason from a past experience.",
+      "hint": "Use the experience or observation in the question to check every choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;

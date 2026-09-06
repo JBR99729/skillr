@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Looking closely at a seed</title><desc id="desc">A magnifying glass makes the tiny lines on a seed easier to see.</desc>
+  <rect width="640" height="360" rx="24" fill="#f4fbf8"/>
+  <ellipse cx="238" cy="190" rx="54" ry="78" fill="#9a643c" stroke="#613c26" stroke-width="7"/><path d="M211 155c28 12 38 31 48 66m-57-8c29-9 51-25 67-48" fill="none" stroke="#d6a36d" stroke-width="6"/>
+  <circle cx="383" cy="145" r="105" fill="#cceeff" fill-opacity=".48" stroke="#2e6687" stroke-width="12"/><path d="m455 222 103 91" stroke="#2e6687" stroke-width="28" stroke-linecap="round"/>
+  <ellipse cx="360" cy="150" rx="45" ry="65" fill="#9a643c" stroke="#613c26" stroke-width="6"/><path d="M337 119c25 10 34 27 42 56m-50-8c25-8 43-21 57-41" fill="none" stroke="#f0c58f" stroke-width="6"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Paper plane throw comparison</title><desc id="desc">The same paper plane travels a short distance after a gentle throw and farther after a stronger throw.</desc>
+  <rect width="640" height="360" rx="24" fill="#f5f9ff"/>
+  <path d="m92 107 116 43-73 20-19 61-24-124Z" fill="#fff" stroke="#3465a4" stroke-width="6"/><path d="M208 150c70 2 106 11 145 35" fill="none" stroke="#ef8a45" stroke-width="7" stroke-dasharray="13 10"/><path d="m336 166 23 23-32 7" fill="none" stroke="#ef8a45" stroke-width="7"/>
+  <path d="m92 246 116 43-73 20-19 42-24-105Z" fill="#fff" stroke="#3465a4" stroke-width="6"/><path d="M208 289c135 1 236-18 330-92" fill="none" stroke="#df603c" stroke-width="9" stroke-dasharray="15 11"/><path d="m510 196 35-5-10 34" fill="none" stroke="#df603c" stroke-width="9"/>
+  <text x="378" y="116" font-family="Arial,sans-serif" font-size="27" fill="#29445a">gentle throw</text><text x="400" y="290" font-family="Arial,sans-serif" font-size="27" fill="#29445a">strong throw</text>
+</svg>
