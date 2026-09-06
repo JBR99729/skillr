@@ -4,28 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-001",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "add two digit numbers",
+    "skill": "add facts",
     "printable": true,
     "type": "single",
-    "question": "In the playground story, what is 45 + 19?",
-    "audioPrompt": "In the playground story, what is 45 + 19?",
-    "visual": "In the playground story: Part-part-whole model for 45 plus 19.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground story: Part-part-whole model for 45 plus 19.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-001\"></use></svg>",
+    "question": "Find 9 + 6.",
+    "audioPrompt": "Find 9 + 6.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-001",
-      "alt_text": "In the playground story: Part-part-whole model for 45 plus 19."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "54",
-      "65",
-      "64"
+      "15",
+      "14",
+      "16"
     ],
-    "correct": 2,
-    "explanation": "Add tens and ones: 45 + 19 = 64.\nHint: Partition both numbers into tens and ones.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Make 10 with 9 + 1, then add the remaining 5 to get 15.\nHint: Partition 6 into 1 and 5.",
     "structuredExplanation": {
-      "summary": "Add tens and ones: 45 + 19 = 64.",
-      "hint": "Partition both numbers into tens and ones."
+      "summary": "Make 10 with 9 + 1, then add the remaining 5 to get 15.",
+      "hint": "Partition 6 into 1 and 5."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-002",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "subtract two digit numbers",
+    "skill": "missing addend",
     "printable": true,
     "type": "single",
-    "question": "In the playground story, what is 72 − 19?",
-    "audioPrompt": "In the playground story, what is 72 − 19?",
-    "visual": "In the playground story: Number sentence 72 minus 19.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground story: Number sentence 72 minus 19.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-002\"></use></svg>",
+    "question": "Complete: ___ + 8 = 19.",
+    "audioPrompt": "Complete: ___ + 8 = 19.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-002",
-      "alt_text": "In the playground story: Number sentence 72 minus 19."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "53",
-      "72",
-      "52"
+      "10",
+      "11",
+      "12"
     ],
-    "correct": 0,
-    "explanation": "Take away 19: 72 − 19 = 53.\nHint: Subtract the tens, then the ones.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Eleven plus 8 equals 19.\nHint: Use 19 − 8.",
     "structuredExplanation": {
-      "summary": "Take away 19: 72 − 19 = 53.",
-      "hint": "Subtract the tens, then the ones."
+      "summary": "Eleven plus 8 equals 19.",
+      "hint": "Use 19 − 8."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-003",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "partition to add",
+    "skill": "subtract within 20",
     "printable": true,
     "type": "single",
-    "question": "In the playground story, use partitioning. What is 40 + 19?",
-    "audioPrompt": "In the playground story, use partitioning. What is 40 + 19?",
-    "visual": "In the playground story: Partitioned addition showing tens and ones for 40 and 19.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground story: Partitioned addition showing tens and ones for 40 and 19.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-003\"></use></svg>",
+    "question": "Find 16 − 7.",
+    "audioPrompt": "Find 16 − 7.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-003",
-      "alt_text": "In the playground story: Partitioned addition showing tens and ones for 40 and 19."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "49",
-      "59",
-      "69"
+      "8",
+      "10",
+      "9"
     ],
-    "correct": 1,
-    "explanation": "40 + 19 = 40 + 10 + 9 = 59.\nHint: Add the tens, add the ones, then combine.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Sixteen minus 7 leaves 9.\nHint: Check that 9 + 7 = 16.",
     "structuredExplanation": {
-      "summary": "40 + 19 = 40 + 10 + 9 = 59.",
-      "hint": "Add the tens, add the ones, then combine."
+      "summary": "Sixteen minus 7 leaves 9.",
+      "hint": "Check that 9 + 7 = 16."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-004",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "solve take away problem",
+    "skill": "true mixed equation",
     "printable": true,
     "type": "single",
-    "question": "In the playground story, there are 57 stickers. 21 are used. How many are left?",
-    "audioPrompt": "In the playground story, there are 57 stickers. 21 are used. How many are left?",
-    "visual": "In the playground story: 57 stickers with 21 crossed out as used.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground story: 57 stickers with 21 crossed out as used.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-004\"></use></svg>",
+    "question": "Which equation is true?",
+    "audioPrompt": "Which equation is true?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-004",
-      "alt_text": "In the playground story: 57 stickers with 21 crossed out as used."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "78",
-      "46",
-      "36"
+      "13 = 18 − 5",
+      "13 + 5 = 17",
+      "18 − 4 = 13"
     ],
-    "correct": 2,
-    "explanation": "The stickers are taken away, so 57 − 21 = 36.\nHint: Start with the whole and subtract the used part.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Eighteen minus 5 equals 13.\nHint: Evaluate each side.",
     "structuredExplanation": {
-      "summary": "The stickers are taken away, so 57 − 21 = 36.",
-      "hint": "Start with the whole and subtract the used part."
+      "summary": "Eighteen minus 5 equals 13.",
+      "hint": "Evaluate each side."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-005",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "find missing part",
+    "skill": "hundred chart",
     "printable": true,
     "type": "single",
-    "question": "In the playground story, 20 children are inside. There are 57 children altogether. How many are outside?",
-    "audioPrompt": "In the playground story, 20 children are inside. There are 57 children altogether. How many are outside?",
-    "visual": "In the playground story: Part-part-whole model with whole 57, known part 20 and a missing part.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground story: Part-part-whole model with whole 57, known part 20 and a missing part.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-005\"></use></svg>",
+    "question": "Start at 37 on a hundred chart. Move down 4 rows and right 2 spaces. Where do you finish?",
+    "audioPrompt": "Start at 37 on a hundred chart. Move down 4 rows and right 2 spaces. Where do you finish?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-005",
-      "alt_text": "In the playground story: Part-part-whole model with whole 57, known part 20 and a missing part."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "37",
-      "77",
-      "36"
+      "75",
+      "79",
+      "97"
     ],
-    "correct": 0,
-    "explanation": "The missing part is 57 − 20 = 37.\nHint: Use whole minus known part.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Four rows add 40 and two spaces add 2: 37 + 42 = 79.\nHint: Rows are tens; spaces are ones.",
     "structuredExplanation": {
-      "summary": "The missing part is 57 − 20 = 37.",
-      "hint": "Use whole minus known part."
+      "summary": "Four rows add 40 and two spaces add 2: 37 + 42 = 79.",
+      "hint": "Rows are tens; spaces are ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-006",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "check with inverse",
+    "skill": "add model regroup",
     "printable": true,
     "type": "single",
-    "question": "In the playground story, which number sentence checks 64 − 19 = 45?",
-    "audioPrompt": "In the playground story, which number sentence checks 64 − 19 = 45?",
-    "visual": "In the playground story: Related addition and subtraction facts using 45, 19 and 64.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground story: Related addition and subtraction facts using 45, 19 and 64.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-006\"></use></svg>",
+    "question": "A model shows 5 tens 8 ones plus 2 tens 6 ones. What total is represented after regrouping?",
+    "audioPrompt": "A model shows 5 tens 8 ones plus 2 tens 6 ones. What total is represented after regrouping?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-006",
-      "alt_text": "In the playground story: Related addition and subtraction facts using 45, 19 and 64."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "45 − 19 = 26",
-      "45 + 19 = 64",
-      "64 + 19 = 83"
+      "74",
+      "814",
+      "84"
     ],
-    "correct": 1,
-    "explanation": "Addition checks subtraction by joining the two parts back to the whole.\nHint: Use the answer and the amount taken away.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Seven tens and 14 ones regroup as 8 tens and 4 ones.\nHint: Trade 10 ones for a ten.",
     "structuredExplanation": {
-      "summary": "Addition checks subtraction by joining the two parts back to the whole.",
-      "hint": "Use the answer and the amount taken away."
+      "summary": "Seven tens and 14 ones regroup as 8 tens and 4 ones.",
+      "hint": "Trade 10 ones for a ten."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-007",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "use compensation strategy",
+    "skill": "number line add",
     "printable": true,
     "type": "single",
-    "question": "In the playground story, which is a helpful way to solve 51 + 19?",
-    "audioPrompt": "In the playground story, which is a helpful way to solve 51 + 19?",
-    "visual": "In the playground story: Number line showing a jump of 20 then one step back from 51.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground story: Number line showing a jump of 20 then one step back from 51.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-007\"></use></svg>",
+    "question": "From 47, a number line makes +30, +5 and +2. What addition is represented?",
+    "audioPrompt": "From 47, a number line makes +30, +5 and +2. What addition is represented?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-007",
-      "alt_text": "In the playground story: Number line showing a jump of 20 then one step back from 51."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add 10, then take away 1",
-      "Take away 20, then add 1",
-      "Add 20, then take away 1"
+      "47 + 37 = 84",
+      "47 + 35 = 82",
+      "47 + 32 = 79"
     ],
-    "correct": 2,
-    "explanation": "Because 19 is one less than 20, add 20 then subtract 1.\nHint: Use a nearby friendly number.",
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "The jumps total 37, and 47 + 37 = 84.\nHint: Add the jump labels.",
     "structuredExplanation": {
-      "summary": "Because 19 is one less than 20, add 20 then subtract 1.",
-      "hint": "Use a nearby friendly number."
+      "summary": "The jumps total 37, and 47 + 37 = 84.",
+      "hint": "Add the jump labels."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-008",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "solve joining problem",
+    "skill": "partition add",
     "printable": true,
     "type": "single",
-    "question": "In the playground story, a box has 45 red pencils and 19 blue pencils. How many pencils are there altogether?",
-    "audioPrompt": "In the playground story, a box has 45 red pencils and 19 blue pencils. How many pencils are there altogether?",
-    "visual": "In the playground story: 45 red pencils and 19 blue pencils in two groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground story: 45 red pencils and 19 blue pencils in two groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-008\"></use></svg>",
+    "question": "Find 36 + 49 by partitioning 49 to make a friendly number.",
+    "audioPrompt": "Find 36 + 49 by partitioning 49 to make a friendly number.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-008",
-      "alt_text": "In the playground story: 45 red pencils and 19 blue pencils in two groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "64",
-      "26",
-      "74"
+      "75",
+      "85",
+      "95"
     ],
-    "correct": 0,
-    "explanation": "Altogether means join the groups: 45 + 19 = 64.\nHint: Look for whether the story joins or separates amounts.",
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Split 49 into 4 and 45: 36 + 4 = 40, then 40 + 45 = 85.\nHint: First make 40.",
     "structuredExplanation": {
-      "summary": "Altogether means join the groups: 45 + 19 = 64.",
-      "hint": "Look for whether the story joins or separates amounts."
+      "summary": "Split 49 into 4 and 45: 36 + 4 = 40, then 40 + 45 = 85.",
+      "hint": "First make 40."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-009",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "add two digit numbers",
+    "skill": "compensation add",
     "printable": true,
     "type": "single",
-    "question": "At the number-line station, what is 52 + 21?",
-    "audioPrompt": "At the number-line station, what is 52 + 21?",
-    "visual": "At the number-line station: Part-part-whole model for 52 plus 21.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number-line station: Part-part-whole model for 52 plus 21.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-009\"></use></svg>",
+    "question": "Ninety-nine stickers and 28 stickers are combined. Which strategy gives the total efficiently?",
+    "audioPrompt": "Ninety-nine stickers and 28 stickers are combined. Which strategy gives the total efficiently?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-009",
-      "alt_text": "At the number-line station: Part-part-whole model for 52 plus 21."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "63",
-      "73",
-      "74"
+      "100 + 28 + 1 = 129",
+      "90 + 28 − 9 = 109",
+      "100 + 28 − 1 = 127"
     ],
-    "correct": 1,
-    "explanation": "Add tens and ones: 52 + 21 = 73.\nHint: Partition both numbers into tens and ones.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Round 99 up to 100, then remove the extra one.\nHint: Compensate after rounding.",
     "structuredExplanation": {
-      "summary": "Add tens and ones: 52 + 21 = 73.",
-      "hint": "Partition both numbers into tens and ones."
+      "summary": "Round 99 up to 100, then remove the extra one.",
+      "hint": "Compensate after rounding."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-010",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "subtract two digit numbers",
+    "skill": "number line subtract",
     "printable": true,
     "type": "single",
-    "question": "At the number-line station, what is 81 − 21?",
-    "audioPrompt": "At the number-line station, what is 81 − 21?",
-    "visual": "At the number-line station: Number sentence 81 minus 21.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number-line station: Number sentence 81 minus 21.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-010\"></use></svg>",
+    "question": "From 92, make −40, −7 and −3 jumps. Where do you land?",
+    "audioPrompt": "From 92, make −40, −7 and −3 jumps. Where do you land?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-010",
-      "alt_text": "At the number-line station: Number sentence 81 minus 21."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "81",
-      "59",
-      "60"
+      "42",
+      "52",
+      "32"
     ],
-    "correct": 2,
-    "explanation": "Take away 21: 81 − 21 = 60.\nHint: Subtract the tens, then the ones.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "The jumps subtract 50 altogether: 92 − 50 = 42.\nHint: Combine the subtraction jumps.",
     "structuredExplanation": {
-      "summary": "Take away 21: 81 − 21 = 60.",
-      "hint": "Subtract the tens, then the ones."
+      "summary": "The jumps subtract 50 altogether: 92 − 50 = 42.",
+      "hint": "Combine the subtraction jumps."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-011",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "partition to add",
+    "skill": "regroup subtraction",
     "printable": true,
     "type": "single",
-    "question": "At the number-line station, use partitioning. What is 44 + 20?",
-    "audioPrompt": "At the number-line station, use partitioning. What is 44 + 20?",
-    "visual": "At the number-line station: Partitioned addition showing tens and ones for 44 and 20.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number-line station: Partitioned addition showing tens and ones for 44 and 20.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-011\"></use></svg>",
+    "question": "Find 63 − 27 using place value.",
+    "audioPrompt": "Find 63 − 27 using place value.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-011",
-      "alt_text": "At the number-line station: Partitioned addition showing tens and ones for 44 and 20."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "64",
-      "54",
-      "74"
+      "46",
+      "36",
+      "44"
     ],
-    "correct": 0,
-    "explanation": "44 + 20 = 40 + 20 + 4 = 64.\nHint: Add the tens, add the ones, then combine.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Regroup 63 as 5 tens and 13 ones; subtract 2 tens and 7 ones to get 36.\nHint: Regroup one ten before subtracting ones.",
     "structuredExplanation": {
-      "summary": "44 + 20 = 40 + 20 + 4 = 64.",
-      "hint": "Add the tens, add the ones, then combine."
+      "summary": "Regroup 63 as 5 tens and 13 ones; subtract 2 tens and 7 ones to get 36.",
+      "hint": "Regroup one ten before subtracting ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-012",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "solve take away problem",
+    "skill": "compensation subtract",
     "printable": true,
     "type": "single",
-    "question": "At the number-line station, there are 62 stickers. 22 are used. How many are left?",
-    "audioPrompt": "At the number-line station, there are 62 stickers. 22 are used. How many are left?",
-    "visual": "At the number-line station: 62 stickers with 22 crossed out as used.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number-line station: 62 stickers with 22 crossed out as used.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-012\"></use></svg>",
+    "question": "Find 85 − 38 using compensation.",
+    "audioPrompt": "Find 85 − 38 using compensation.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-012",
-      "alt_text": "At the number-line station: 62 stickers with 22 crossed out as used."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "84",
-      "40",
-      "50"
+      "46",
+      "57",
+      "47"
     ],
-    "correct": 1,
-    "explanation": "The stickers are taken away, so 62 − 22 = 40.\nHint: Start with the whole and subtract the used part.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "85 − 40 = 45; add 2 back because 40 is 2 more than 38, giving 47.\nHint: Subtract 40, then compensate.",
     "structuredExplanation": {
-      "summary": "The stickers are taken away, so 62 − 22 = 40.",
-      "hint": "Start with the whole and subtract the used part."
+      "summary": "85 − 40 = 45; add 2 back because 40 is 2 more than 38, giving 47.",
+      "hint": "Subtract 40, then compensate."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-013",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "find missing part",
+    "skill": "missing part",
     "printable": true,
     "type": "single",
-    "question": "At the number-line station, 21 children are inside. There are 60 children altogether. How many are outside?",
-    "audioPrompt": "At the number-line station, 21 children are inside. There are 60 children altogether. How many are outside?",
-    "visual": "At the number-line station: Part-part-whole model with whole 60, known part 21 and a missing part.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number-line station: Part-part-whole model with whole 60, known part 21 and a missing part.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-013\"></use></svg>",
+    "question": "A whole is 73. One part is 46. What is the missing part?",
+    "audioPrompt": "A whole is 73. One part is 46. What is the missing part?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-013",
-      "alt_text": "At the number-line station: Part-part-whole model with whole 60, known part 21 and a missing part."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "81",
-      "38",
-      "39"
+      "27",
+      "37",
+      "119"
     ],
-    "correct": 2,
-    "explanation": "The missing part is 60 − 21 = 39.\nHint: Use whole minus known part.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "73 − 46 = 27, and 46 + 27 = 73.\nHint: Subtract the known part.",
     "structuredExplanation": {
-      "summary": "The missing part is 60 − 21 = 39.",
-      "hint": "Use whole minus known part."
+      "summary": "73 − 46 = 27, and 46 + 27 = 73.",
+      "hint": "Subtract the known part."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-014",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "check with inverse",
+    "skill": "fact family",
     "printable": true,
     "type": "single",
-    "question": "At the number-line station, which number sentence checks 73 − 21 = 52?",
-    "audioPrompt": "At the number-line station, which number sentence checks 73 − 21 = 52?",
-    "visual": "At the number-line station: Related addition and subtraction facts using 52, 21 and 73.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number-line station: Related addition and subtraction facts using 52, 21 and 73.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-014\"></use></svg>",
+    "question": "Which pair belongs to the same fact family as 28 + 35 = 63?",
+    "audioPrompt": "Which pair belongs to the same fact family as 28 + 35 = 63?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-014",
-      "alt_text": "At the number-line station: Related addition and subtraction facts using 52, 21 and 73."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "52 + 21 = 73",
-      "52 − 21 = 31",
-      "73 + 21 = 94"
+      "63 + 28 = 91 and 35 − 28 = 7",
+      "63 − 28 = 35 and 63 − 35 = 28",
+      "35 + 63 = 98 and 63 − 7 = 56"
     ],
-    "correct": 0,
-    "explanation": "Addition checks subtraction by joining the two parts back to the whole.\nHint: Use the answer and the amount taken away.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "A fact family uses the same two parts, 28 and 35, and whole, 63.\nHint: The whole begins both subtraction facts.",
     "structuredExplanation": {
-      "summary": "Addition checks subtraction by joining the two parts back to the whole.",
-      "hint": "Use the answer and the amount taken away."
+      "summary": "A fact family uses the same two parts, 28 and 35, and whole, 63.",
+      "hint": "The whole begins both subtraction facts."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,27 +438,29 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-015",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "use compensation strategy",
+    "skill": "choose strategy",
     "printable": true,
     "type": "single",
-    "question": "At the number-line station, which is a helpful way to solve 55 + 19?",
-    "audioPrompt": "At the number-line station, which is a helpful way to solve 55 + 19?",
-    "visual": "At the number-line station: Number line showing a jump of 20 then one step back from 55.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number-line station: Number line showing a jump of 20 then one step back from 55.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-015\"></use></svg>",
+    "question": "Which strategy is most efficient for 54 + 19?",
+    "audioPrompt": "Which strategy is most efficient for 54 + 19?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-015",
-      "alt_text": "At the number-line station: Number line showing a jump of 20 then one step back from 55."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add 10, then take away 1",
-      "Add 20, then take away 1",
-      "Take away 20, then add 1"
+      "Add 10, then subtract 9",
+      "Subtract 20, then add 1",
+      "Add 20, then subtract 1"
     ],
-    "correct": 1,
-    "explanation": "Because 19 is one less than 20, add 20 then subtract 1.\nHint: Use a nearby friendly number.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Nineteen is one less than 20, so 54 + 20 − 1 = 73.\nHint: Use a nearby friendly number.",
     "structuredExplanation": {
-      "summary": "Because 19 is one less than 20, add 20 then subtract 1.",
+      "summary": "Nineteen is one less than 20, so 54 + 20 − 1 = 73.",
       "hint": "Use a nearby friendly number."
     },
     "qualitySchema": "production-v1"
@@ -439,28 +469,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n04-t-016",
     "curriculumCode": "AC9M2N04",
     "bank": "test",
-    "skill": "solve joining problem",
+    "skill": "diagnose equation",
     "printable": true,
     "type": "single",
-    "question": "At the number-line station, a box has 52 red pencils and 21 blue pencils. How many pencils are there altogether?",
-    "audioPrompt": "At the number-line station, a box has 52 red pencils and 21 blue pencils. How many pencils are there altogether?",
-    "visual": "At the number-line station: 52 red pencils and 21 blue pencils in two groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number-line station: 52 red pencils and 21 blue pencils in two groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-016\"></use></svg>",
+    "question": "A student writes 76 − 29 = 76 − 30 − 1. What correction is needed?",
+    "audioPrompt": "A student writes 76 − 29 = 76 − 30 − 1. What correction is needed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-016",
-      "alt_text": "At the number-line station: 52 red pencils and 21 blue pencils in two groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "31",
-      "83",
-      "73"
+      "Change the final −1 to +1",
+      "Change 30 to 20",
+      "No correction is needed"
     ],
-    "correct": 2,
-    "explanation": "Altogether means join the groups: 52 + 21 = 73.\nHint: Look for whether the story joins or separates amounts.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "Subtracting 30 removes one too many, so one must be added back.\nHint: Compensation reverses the extra subtraction.",
     "structuredExplanation": {
-      "summary": "Altogether means join the groups: 52 + 21 = 73.",
-      "hint": "Look for whether the story joins or separates amounts."
+      "summary": "Subtracting 30 removes one too many, so one must be added back.",
+      "hint": "Compensation reverses the extra subtraction."
     },
     "qualitySchema": "production-v1"
   }

@@ -5,36 +5,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "model_money_addition",
+    "skill": "choose_addition_model",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-001",
-      "alt_text": "In the class shop: A notebook labelled $5 and a pen labelled $3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the class shop, a notebook costs $5 and a pen costs $3. How much do they cost altogether?",
-    "audio_prompt": "In the class shop, a notebook costs $5 and a pen costs $3. How much do they cost altogether?",
+    "question": "The library has 26 picture books and receives 18 more. Which number sentence models the new total?",
+    "audio_prompt": "The library has 26 picture books and receives 18 more. Which number sentence models the new total?",
     "answers": [
       {
-        "text": "$2",
-        "is_correct": false
-      },
-      {
-        "text": "$8",
+        "text": "26 + 18 = ?",
         "is_correct": true
       },
       {
-        "text": "$9",
+        "text": "26 − 18 = ?",
+        "is_correct": false
+      },
+      {
+        "text": "26 × 18 = ?",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Join the two costs: $5 + $3 = $8.",
-      "hint": "Altogether means add the amounts."
+      "summary": "The collections join, so addition represents the situation.",
+      "hint": "Look for language showing an amount is added."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-002",
@@ -42,36 +47,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "model_money_change",
+    "skill": "choose_subtraction_model",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-002",
-      "alt_text": "In the class shop: A $20 payment and a toy price of $8."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the class shop, kai pays $20 for a toy that costs $8. How much change should Kai get?",
-    "audio_prompt": "In the class shop, kai pays $20 for a toy that costs $8. How much change should Kai get?",
+    "question": "There are 43 seedlings. Twelve are planted. Which number sentence finds how many remain?",
+    "audio_prompt": "There are 43 seedlings. Twelve are planted. Which number sentence finds how many remain?",
     "answers": [
       {
-        "text": "$28",
+        "text": "43 + 12 = ?",
         "is_correct": false
       },
       {
-        "text": "$13",
-        "is_correct": false
-      },
-      {
-        "text": "$12",
+        "text": "43 − 12 = ?",
         "is_correct": true
+      },
+      {
+        "text": "12 − 43 = ?",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Change is the amount left: $20 − $8 = $12.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "The planted seedlings leave the starting group, so subtract 12 from 43.",
+      "hint": "Start with the whole amount."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-003",
@@ -79,36 +89,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "choose_operation_for_equal_groups",
+    "skill": "choose_multiplication_model",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-003",
-      "alt_text": "In the class shop: 4 bags with 3 apples in every bag."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the class shop, there are 4 bags with 3 apples in each bag. Which operation finds all the apples?",
-    "audio_prompt": "In the class shop, there are 4 bags with 3 apples in each bag. Which operation finds all the apples?",
+    "question": "Five trays hold 4 muffins each. Which representation finds the total?",
+    "audio_prompt": "Five trays hold 4 muffins each. Which representation finds the total?",
     "answers": [
       {
-        "text": "Multiplication",
+        "text": "5 + 4",
+        "is_correct": false
+      },
+      {
+        "text": "5 − 4",
+        "is_correct": false
+      },
+      {
+        "text": "4 + 4 + 4 + 4 + 4",
         "is_correct": true
-      },
-      {
-        "text": "Subtraction",
-        "is_correct": false
-      },
-      {
-        "text": "Measuring length",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Equal groups are modelled with multiplication: 4 groups of 3.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "Five equal groups of 4 are represented by adding 4 five times.",
+      "hint": "Represent every tray."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-004",
@@ -116,36 +131,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "model_equal_sharing",
+    "skill": "choose_division_model",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-004",
-      "alt_text": "In the class shop: 12 crayons shared into 4 equal table groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the class shop, 12 crayons are shared equally between 4 tables. How many crayons does each table get?",
-    "audio_prompt": "In the class shop, 12 crayons are shared equally between 4 tables. How many crayons does each table get?",
+    "question": "Share 20 markers equally among 5 tables. Which calculation finds the amount per table?",
+    "audio_prompt": "Share 20 markers equally among 5 tables. Which calculation finds the amount per table?",
     "answers": [
       {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "3",
+        "text": "20 ÷ 5",
         "is_correct": true
       },
       {
-        "text": "8",
+        "text": "20 − 5",
+        "is_correct": false
+      },
+      {
+        "text": "20 + 5",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "12 ÷ 4 = 3, so every table gets 3.",
-      "hint": "Share the crayons one at a time into 4 equal groups."
+      "summary": "Equal sharing into five groups is division.",
+      "hint": "Divide the total by the number of groups."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-005",
@@ -153,36 +173,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "represent_additive_situation",
+    "skill": "money_total",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-005",
-      "alt_text": "In the class shop: A group of 5 cards joined by 4 more cards."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the class shop, lina has 5 cards and gets 4 more. Which number sentence models the story?",
-    "audio_prompt": "In the class shop, lina has 5 cards and gets 4 more. Which number sentence models the story?",
+    "question": "A puzzle costs $7 and a skipping rope costs $5. How much do they cost altogether?",
+    "audio_prompt": "A puzzle costs $7 and a skipping rope costs $5. How much do they cost altogether?",
     "answers": [
       {
-        "text": "5 − 4 = 1",
+        "text": "$2",
         "is_correct": false
       },
       {
-        "text": "5 × 4 = 20",
-        "is_correct": false
-      },
-      {
-        "text": "5 + 4 = 9",
+        "text": "$12",
         "is_correct": true
+      },
+      {
+        "text": "$35",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
+      "summary": "The total cost is $7 + $5 = $12.",
+      "hint": "Add the two prices."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-006",
@@ -190,36 +215,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "check_reasonableness",
+    "skill": "money_change",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-006",
-      "alt_text": "In the class shop: 4 bags with 3 marbles in each, compared with a claim of 22."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the class shop, a student says 4 bags of 3 marbles make 22 marbles. Is the answer correct?",
-    "audio_prompt": "In the class shop, a student says 4 bags of 3 marbles make 22 marbles. Is the answer correct?",
+    "question": "A book costs $13. You pay with a $20 note. How much change should you receive?",
+    "audio_prompt": "A book costs $13. You pay with a $20 note. How much change should you receive?",
     "answers": [
       {
-        "text": "No, the total should be 12",
+        "text": "$33",
+        "is_correct": false
+      },
+      {
+        "text": "$6",
+        "is_correct": false
+      },
+      {
+        "text": "$7",
         "is_correct": true
-      },
-      {
-        "text": "Yes, every multiplication answer is large",
-        "is_correct": false
-      },
-      {
-        "text": "No, the total should be 7",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "4 equal groups of 3 make 12, not 22.",
-      "hint": "Build or draw the groups to check the answer."
+      "summary": "Change is the amount left: $20 − $13 = $7.",
+      "hint": "Subtract the cost from the amount paid."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-007",
@@ -227,36 +257,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "communicate_model_solution",
+    "skill": "money_equal_items",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-007",
-      "alt_text": "In the class shop: A receipt showing a total of $8."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the class shop, which final sentence clearly answers a money problem?",
-    "audio_prompt": "In the class shop, which final sentence clearly answers a money problem?",
+    "question": "Three identical pencils cost $4 each. What is the total cost?",
+    "audio_prompt": "Three identical pencils cost $4 each. What is the total cost?",
     "answers": [
       {
-        "text": "The answer is 8.",
-        "is_correct": false
-      },
-      {
-        "text": "The two items cost $8 altogether.",
+        "text": "$12",
         "is_correct": true
       },
       {
-        "text": "I used addition.",
+        "text": "$7",
+        "is_correct": false
+      },
+      {
+        "text": "$1",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "Three equal costs of $4 make $4 + $4 + $4 = $12.",
+      "hint": "Add $4 once for each pencil."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-008",
@@ -264,36 +299,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "select_mathematical_model",
+    "skill": "money_sharing",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-008",
-      "alt_text": "In the class shop: 4 empty group boxes ready for 3 pencil counters in each."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the class shop, which is a helpful first step for 4 boxes with 3 pencils in each?",
-    "audio_prompt": "In the class shop, which is a helpful first step for 4 boxes with 3 pencils in each?",
+    "question": "Four friends share a $20 game fee equally. How much does each friend pay?",
+    "audio_prompt": "Four friends share a $20 game fee equally. How much does each friend pay?",
     "answers": [
       {
-        "text": "Add every number you see",
+        "text": "$4",
         "is_correct": false
       },
       {
-        "text": "Guess a large answer",
-        "is_correct": false
-      },
-      {
-        "text": "Draw 4 equal groups of 3",
+        "text": "$5",
         "is_correct": true
+      },
+      {
+        "text": "$16",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
+      "summary": "$20 shared into 4 equal parts gives $5 each.",
+      "hint": "Use 4 × $5 = $20 to check."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-009",
@@ -301,35 +341,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "model_money_addition",
+    "skill": "select_model",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-009",
-      "alt_text": "At the toy stall: A notebook labelled $7 and a pen labelled $4."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the toy stall, a notebook costs $7 and a pen costs $4. How much do they cost altogether?",
-    "audio_prompt": "At the toy stall, a notebook costs $7 and a pen costs $4. How much do they cost altogether?",
+    "question": "A class had 35 glue sticks, used some, and has 19 left. Which part–part–whole model is useful?",
+    "audio_prompt": "A class had 35 glue sticks, used some, and has 19 left. Which part–part–whole model is useful?",
     "answers": [
       {
-        "text": "$11",
+        "text": "19 is the whole; 35 is one part",
+        "is_correct": false
+      },
+      {
+        "text": "35 and 19 are both missing parts",
+        "is_correct": false
+      },
+      {
+        "text": "35 is the whole; the used amount and 19 are the parts",
         "is_correct": true
-      },
-      {
-        "text": "$3",
-        "is_correct": false
-      },
-      {
-        "text": "$12",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Join the two costs: $7 + $4 = $11.",
-      "hint": "Altogether means add the amounts."
+      "summary": "The starting 35 splits into the used sticks and the 19 remaining sticks.",
+      "hint": "Identify the starting whole."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-010",
@@ -337,35 +383,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "model_money_change",
+    "skill": "solve_missing_start",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-010",
-      "alt_text": "At the toy stall: A $25 payment and a toy price of $10."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the toy stall, kai pays $25 for a toy that costs $10. How much change should Kai get?",
-    "audio_prompt": "At the toy stall, kai pays $25 for a toy that costs $10. How much change should Kai get?",
+    "question": "Some birds were in a tree. Six more arrived, making 21 birds. How many were there at first?",
+    "audio_prompt": "Some birds were in a tree. Six more arrived, making 21 birds. How many were there at first?",
     "answers": [
       {
-        "text": "$35",
-        "is_correct": false
-      },
-      {
-        "text": "$15",
+        "text": "15",
         "is_correct": true
       },
       {
-        "text": "$16",
+        "text": "27",
+        "is_correct": false
+      },
+      {
+        "text": "14",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left: $25 − $10 = $15.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "The missing start is 21 − 6 = 15.",
+      "hint": "Undo the increase."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-011",
@@ -373,35 +425,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "choose_operation_for_equal_groups",
+    "skill": "comparison_problem",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-011",
-      "alt_text": "At the toy stall: 5 bags with 4 apples in every bag."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the toy stall, there are 5 bags with 4 apples in each bag. Which operation finds all the apples?",
-    "audio_prompt": "At the toy stall, there are 5 bags with 4 apples in each bag. Which operation finds all the apples?",
+    "question": "Nora collected 32 shells and Eli collected 18. How many more shells did Nora collect?",
+    "audio_prompt": "Nora collected 32 shells and Eli collected 18. How many more shells did Nora collect?",
     "answers": [
       {
-        "text": "Subtraction",
+        "text": "50",
         "is_correct": false
       },
       {
-        "text": "Measuring length",
-        "is_correct": false
-      },
-      {
-        "text": "Multiplication",
+        "text": "14",
         "is_correct": true
+      },
+      {
+        "text": "24",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Equal groups are modelled with multiplication: 5 groups of 4.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "The difference is 32 − 18 = 14.",
+      "hint": "Comparison asks for the gap between amounts."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-012",
@@ -409,35 +467,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "model_equal_sharing",
+    "skill": "two_step_add_subtract",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-012",
-      "alt_text": "At the toy stall: 20 crayons shared into 5 equal table groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the toy stall, 20 crayons are shared equally between 5 tables. How many crayons does each table get?",
-    "audio_prompt": "At the toy stall, 20 crayons are shared equally between 5 tables. How many crayons does each table get?",
+    "question": "A tub has 18 blue blocks and 15 green blocks. Seven blocks are removed. How many remain?",
+    "audio_prompt": "A tub has 18 blue blocks and 15 green blocks. Seven blocks are removed. How many remain?",
     "answers": [
       {
-        "text": "4",
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "26",
         "is_correct": true
-      },
-      {
-        "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "20 ÷ 5 = 4, so every table gets 4.",
-      "hint": "Share the crayons one at a time into 5 equal groups."
+      "summary": "First 18 + 15 = 33 blocks; then 33 − 7 = 26.",
+      "hint": "Find the starting total before removing blocks."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-013",
@@ -445,35 +509,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "represent_additive_situation",
+    "skill": "two_step_multiplicative",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-013",
-      "alt_text": "At the toy stall: A group of 7 cards joined by 5 more cards."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the toy stall, lina has 7 cards and gets 5 more. Which number sentence models the story?",
-    "audio_prompt": "At the toy stall, lina has 7 cards and gets 5 more. Which number sentence models the story?",
+    "question": "Four packets hold 5 cards each. Three extra cards are added. How many cards are there now?",
+    "audio_prompt": "Four packets hold 5 cards each. Three extra cards are added. How many cards are there now?",
     "answers": [
       {
-        "text": "7 − 5 = 2",
-        "is_correct": false
-      },
-      {
-        "text": "7 + 5 = 12",
+        "text": "23",
         "is_correct": true
       },
       {
-        "text": "7 × 5 = 35",
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "12",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
+      "summary": "Four groups of 5 make 20, then 3 more make 23.",
+      "hint": "Solve the equal groups before adding extras."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-014",
@@ -481,35 +551,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "check_reasonableness",
+    "skill": "interpret_solution",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-014",
-      "alt_text": "At the toy stall: 5 bags with 4 marbles in each, compared with a claim of 30."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the toy stall, a student says 5 bags of 4 marbles make 30 marbles. Is the answer correct?",
-    "audio_prompt": "At the toy stall, a student says 5 bags of 4 marbles make 30 marbles. Is the answer correct?",
+    "question": "A calculation gives 24 ÷ 6 = 4 for 24 biscuits shared among 6 children. What does the 4 mean?",
+    "audio_prompt": "A calculation gives 24 ÷ 6 = 4 for 24 biscuits shared among 6 children. What does the 4 mean?",
     "answers": [
       {
-        "text": "Yes, every multiplication answer is large",
+        "text": "There are 4 children",
         "is_correct": false
       },
       {
-        "text": "No, the total should be 9",
-        "is_correct": false
-      },
-      {
-        "text": "No, the total should be 20",
+        "text": "Each child receives 4 biscuits",
         "is_correct": true
+      },
+      {
+        "text": "Four biscuits are left over",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "5 equal groups of 4 make 20, not 30.",
-      "hint": "Build or draw the groups to check the answer."
+      "summary": "The quotient describes the number in each of the six equal shares.",
+      "hint": "Link the answer to what the question asks."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-015",
@@ -517,35 +593,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "communicate_model_solution",
+    "skill": "check_reasonableness",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-015",
-      "alt_text": "At the toy stall: A receipt showing a total of $11."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the toy stall, which final sentence clearly answers a money problem?",
-    "audio_prompt": "At the toy stall, which final sentence clearly answers a money problem?",
+    "question": "A student says 6 bags with 3 oranges each contain 63 oranges. What is the best check?",
+    "audio_prompt": "A student says 6 bags with 3 oranges each contain 63 oranges. What is the best check?",
     "answers": [
       {
-        "text": "The two items cost $11 altogether.",
+        "text": "Add 6 + 3 to get 9",
+        "is_correct": false
+      },
+      {
+        "text": "The answer is reasonable because it uses both digits",
+        "is_correct": false
+      },
+      {
+        "text": "Six groups of 3 make 18, so 63 is not reasonable",
         "is_correct": true
-      },
-      {
-        "text": "The answer is 11.",
-        "is_correct": false
-      },
-      {
-        "text": "I used addition.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "Repeated addition gives 3 + 3 + 3 + 3 + 3 + 3 = 18.",
+      "hint": "Model the equal groups."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-016",
@@ -553,35 +635,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "select_mathematical_model",
+    "skill": "insufficient_information",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-016",
-      "alt_text": "At the toy stall: 5 empty group boxes ready for 4 pencil counters in each."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the toy stall, which is a helpful first step for 5 boxes with 4 pencils in each?",
-    "audio_prompt": "At the toy stall, which is a helpful first step for 5 boxes with 4 pencils in each?",
+    "question": "A toy costs some dollars. You pay with $20. Can the change be calculated?",
+    "audio_prompt": "A toy costs some dollars. You pay with $20. Can the change be calculated?",
     "answers": [
       {
-        "text": "Add every number you see",
-        "is_correct": false
-      },
-      {
-        "text": "Draw 5 equal groups of 4",
+        "text": "No; the toy’s price is needed",
         "is_correct": true
       },
       {
-        "text": "Guess a large answer",
+        "text": "Yes; the change is always $20",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; the change is $0",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
+      "summary": "Change depends on both the amount paid and the item’s price.",
+      "hint": "Check that every required quantity is known."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-017",
@@ -589,35 +677,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "model_money_addition",
+    "skill": "choose_strategy",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-017",
-      "alt_text": "During the fruit order: A notebook labelled $9 and a pen labelled $5."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the fruit order, a notebook costs $9 and a pen costs $5. How much do they cost altogether?",
-    "audio_prompt": "During the fruit order, a notebook costs $9 and a pen costs $5. How much do they cost altogether?",
+    "question": "To find 39 + 17 in a shopping total, which efficient strategy works?",
+    "audio_prompt": "To find 39 + 17 in a shopping total, which efficient strategy works?",
     "answers": [
       {
-        "text": "$4",
+        "text": "Subtract 20, then add 3",
         "is_correct": false
       },
       {
-        "text": "$15",
-        "is_correct": false
-      },
-      {
-        "text": "$14",
+        "text": "Add 20, then subtract 3",
         "is_correct": true
+      },
+      {
+        "text": "Multiply 39 by 17",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Join the two costs: $9 + $5 = $14.",
-      "hint": "Altogether means add the amounts."
+      "summary": "Seventeen is 3 less than 20, so 39 + 20 − 3 = 56.",
+      "hint": "Use a nearby friendly number."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-018",
@@ -625,35 +719,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "model_money_change",
+    "skill": "represent_remainder",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-018",
-      "alt_text": "During the fruit order: A $30 payment and a toy price of $12."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the fruit order, kai pays $30 for a toy that costs $12. How much change should Kai get?",
-    "audio_prompt": "During the fruit order, kai pays $30 for a toy that costs $12. How much change should Kai get?",
+    "question": "Seventeen apples are packed 4 per bag. How should the result be communicated?",
+    "audio_prompt": "Seventeen apples are packed 4 per bag. How should the result be communicated?",
     "answers": [
       {
-        "text": "$18",
+        "text": "Five full bags",
+        "is_correct": false
+      },
+      {
+        "text": "Four apples in 17 bags",
+        "is_correct": false
+      },
+      {
+        "text": "Four full bags and 1 apple left",
         "is_correct": true
-      },
-      {
-        "text": "$42",
-        "is_correct": false
-      },
-      {
-        "text": "$19",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Change is the amount left: $30 − $12 = $18.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "Four bags use 16 apples, leaving one unpacked.",
+      "hint": "Interpret the leftover in the situation."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-019",
@@ -661,35 +761,46 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "choose_operation_for_equal_groups",
+    "skill": "communicate_additive_solution",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-019",
-      "alt_text": "During the fruit order: 6 bags with 5 apples in every bag."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the fruit order, there are 6 bags with 5 apples in each bag. Which operation finds all the apples?",
-    "audio_prompt": "During the fruit order, there are 6 bags with 5 apples in each bag. Which operation finds all the apples?",
+    "question": "Write a number sentence and one complete answer sentence: A stall sold 28 apples in the morning and 17 in the afternoon. How many apples were sold?",
+    "audio_prompt": "Write a number sentence and one complete answer sentence: A stall sold 28 apples in the morning and 17 in the afternoon. How many apples were sold?",
     "answers": [
       {
-        "text": "Subtraction",
-        "is_correct": false
-      },
-      {
-        "text": "Multiplication",
+        "text": "Completed response",
         "is_correct": true
       },
       {
-        "text": "Measuring length",
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Equal groups are modelled with multiplication: 6 groups of 5.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "28 + 17 = 45. The stall sold 45 apples altogether.",
+      "hint": "Accept an equivalent correct strategy and a sentence that identifies 45 as apples sold altogether."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "28 + 17 = 45. The stall sold 45 apples altogether.",
+    "acceptance_note": "Accept an equivalent correct strategy and a sentence that identifies 45 as apples sold altogether.",
+    "response_instructions": "Show the calculation, then state what 45 means.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2N06-P-020",
@@ -697,35 +808,46 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "model_equal_sharing",
+    "skill": "communicate_money_solution",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-020",
-      "alt_text": "During the fruit order: 30 crayons shared into 6 equal table groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the fruit order, 30 crayons are shared equally between 6 tables. How many crayons does each table get?",
-    "audio_prompt": "During the fruit order, 30 crayons are shared equally between 6 tables. How many crayons does each table get?",
+    "question": "Explain how to find the change when a $16 item is paid for with $25.",
+    "audio_prompt": "Explain how to find the change when a $16 item is paid for with $25.",
     "answers": [
       {
-        "text": "6",
+        "text": "Needs revision",
         "is_correct": false
       },
       {
-        "text": "24",
-        "is_correct": false
-      },
-      {
-        "text": "5",
+        "text": "Completed response",
         "is_correct": true
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "30 ÷ 6 = 5, so every table gets 5.",
-      "hint": "Share the crayons one at a time into 6 equal groups."
+      "summary": "$25 − $16 = $9, so the customer receives $9 change.",
+      "hint": "Accept a correct model or strategy if the response names the $9 as change."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "$25 − $16 = $9, so the customer receives $9 change.",
+    "acceptance_note": "Accept a correct model or strategy if the response names the $9 as change.",
+    "response_instructions": "Include a calculation and interpret the answer in the shopping situation.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2N06-P-021",
@@ -733,35 +855,46 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "represent_additive_situation",
+    "skill": "create_multiplicative_model",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-021",
-      "alt_text": "During the fruit order: A group of 9 cards joined by 6 more cards."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the fruit order, lina has 9 cards and gets 6 more. Which number sentence models the story?",
-    "audio_prompt": "During the fruit order, lina has 9 cards and gets 6 more. Which number sentence models the story?",
+    "question": "Draw or describe a model for 6 boxes with 4 crayons in each, then state the total.",
+    "audio_prompt": "Draw or describe a model for 6 boxes with 4 crayons in each, then state the total.",
     "answers": [
       {
-        "text": "9 + 6 = 15",
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      },
+      {
+        "text": "Completed response",
         "is_correct": true
-      },
-      {
-        "text": "9 − 6 = 3",
-        "is_correct": false
-      },
-      {
-        "text": "9 × 6 = 54",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
+      "summary": "A valid model shows 6 equal groups of 4 and a total of 24 crayons, such as 4 + 4 + 4 + 4 + 4 + 4 = 24.",
+      "hint": "The groups must be equal and the response must identify 24 crayons altogether."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "A valid model shows 6 equal groups of 4 and a total of 24 crayons, such as 4 + 4 + 4 + 4 + 4 + 4 = 24.",
+    "acceptance_note": "The groups must be equal and the response must identify 24 crayons altogether.",
+    "response_instructions": "Use equal groups, an array or repeated addition, then write an answer sentence.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2N06-P-022",
@@ -769,35 +902,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "check_reasonableness",
+    "skill": "compare_models",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-022",
-      "alt_text": "During the fruit order: 6 bags with 5 marbles in each, compared with a claim of 40."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the fruit order, a student says 6 bags of 5 marbles make 40 marbles. Is the answer correct?",
-    "audio_prompt": "During the fruit order, a student says 6 bags of 5 marbles make 40 marbles. Is the answer correct?",
+    "question": "A story says 24 stickers are shared equally among 4 children. Which model does not fit?",
+    "audio_prompt": "A story says 24 stickers are shared equally among 4 children. Which model does not fit?",
     "answers": [
       {
-        "text": "Yes, every multiplication answer is large",
-        "is_correct": false
-      },
-      {
-        "text": "No, the total should be 30",
+        "text": "Four groups containing 5, 6, 6 and 7 stickers",
         "is_correct": true
       },
       {
-        "text": "No, the total should be 11",
+        "text": "Four equal groups of 6 stickers",
+        "is_correct": false
+      },
+      {
+        "text": "An array with 4 rows of 6",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "6 equal groups of 5 make 30, not 40.",
-      "hint": "Build or draw the groups to check the answer."
+      "summary": "Unequal groups do not represent equal sharing.",
+      "hint": "The four shares must have the same size."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-023",
@@ -805,35 +944,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "communicate_model_solution",
+    "skill": "revise_operation_choice",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-023",
-      "alt_text": "During the fruit order: A receipt showing a total of $14."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the fruit order, which final sentence clearly answers a money problem?",
-    "audio_prompt": "During the fruit order, which final sentence clearly answers a money problem?",
+    "question": "A student adds 36 + 14 for a story where 14 of 36 tickets were used. Which correction is needed?",
+    "audio_prompt": "A student adds 36 + 14 for a story where 14 of 36 tickets were used. Which correction is needed?",
     "answers": [
       {
-        "text": "The answer is 14.",
+        "text": "Use 14 − 36 because 14 is mentioned second",
         "is_correct": false
       },
       {
-        "text": "I used addition.",
-        "is_correct": false
-      },
-      {
-        "text": "The two items cost $14 altogether.",
+        "text": "Use 36 − 14 because tickets were removed",
         "is_correct": true
+      },
+      {
+        "text": "Keep addition because every story uses addition",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "The situation separates 14 from the starting 36, so subtraction matches it.",
+      "hint": "Decide whether quantities join or separate."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N06-P-024",
@@ -841,826 +986,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "practice",
-    "skill": "select_mathematical_model",
+    "skill": "reason_about_context",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-024",
-      "alt_text": "During the fruit order: 6 empty group boxes ready for 5 pencil counters in each."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the fruit order, which is a helpful first step for 6 boxes with 5 pencils in each?",
-    "audio_prompt": "During the fruit order, which is a helpful first step for 6 boxes with 5 pencils in each?",
+    "question": "Five teams need 3 bibs each, but only 12 bibs are available. What does the calculation show?",
+    "audio_prompt": "Five teams need 3 bibs each, but only 12 bibs are available. What does the calculation show?",
     "answers": [
       {
-        "text": "Draw 6 equal groups of 5",
+        "text": "There are 15 bibs left",
+        "is_correct": false
+      },
+      {
+        "text": "Each team gets 12 bibs",
+        "is_correct": false
+      },
+      {
+        "text": "Three more bibs are needed",
         "is_correct": true
-      },
-      {
-        "text": "Add every number you see",
-        "is_correct": false
-      },
-      {
-        "text": "Guess a large answer",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
+      "summary": "Five groups of 3 require 15 bibs; 15 − 12 = 3 more are needed.",
+      "hint": "Compare the required total with the available amount."
     },
     "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2N06-P-025",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_school_garden_a_book",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, a book costs $3 and a pen costs $2. What is the total?"
-    },
-    "question": "At the school garden, a book costs $3 and a pen costs $2. What is the total?",
-    "audio_prompt": "At the school garden, a book costs $3 and a pen costs $2. What is the total?",
-    "answers": [
-      {
-        "text": "$5",
-        "is_correct": true
-      },
-      {
-        "text": "$3",
-        "is_correct": false
-      },
-      {
-        "text": "$6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-026",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during_maths_groups_mia_has_7",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, Mia has $7 and spends $3. How much is left?"
-    },
-    "question": "During maths groups, Mia has $7 and spends $3. How much is left?",
-    "audio_prompt": "During maths groups, Mia has $7 and spends $3. How much is left?",
-    "answers": [
-      {
-        "text": "$3",
-        "is_correct": false
-      },
-      {
-        "text": "$7",
-        "is_correct": false
-      },
-      {
-        "text": "$4",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-027",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_art_table_4_bags",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, 4 bags have 5 marbles each. How many marbles?"
-    },
-    "question": "At the art table, 4 bags have 5 marbles each. How many marbles?",
-    "audio_prompt": "At the art table, 4 bags have 5 marbles each. How many marbles?",
-    "answers": [
-      {
-        "text": "21",
-        "is_correct": false
-      },
-      {
-        "text": "20",
-        "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-028",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "in_the_playground_a_book_costs",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, a book costs $6 and a pen costs $5. What is the total?"
-    },
-    "question": "In the playground, a book costs $6 and a pen costs $5. What is the total?",
-    "audio_prompt": "In the playground, a book costs $6 and a pen costs $5. What is the total?",
-    "answers": [
-      {
-        "text": "$11",
-        "is_correct": true
-      },
-      {
-        "text": "$6",
-        "is_correct": false
-      },
-      {
-        "text": "$12",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-029",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_library_mia_has_13",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, Mia has $13 and spends $6. How much is left?"
-    },
-    "question": "At the library, Mia has $13 and spends $6. How much is left?",
-    "audio_prompt": "At the library, Mia has $13 and spends $6. How much is left?",
-    "answers": [
-      {
-        "text": "$6",
-        "is_correct": false
-      },
-      {
-        "text": "$13",
-        "is_correct": false
-      },
-      {
-        "text": "$7",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-030",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during_sport_2_bags_have_4",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, 2 bags have 4 marbles each. How many marbles?"
-    },
-    "question": "During sport, 2 bags have 4 marbles each. How many marbles?",
-    "audio_prompt": "During sport, 2 bags have 4 marbles each. How many marbles?",
-    "answers": [
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-031",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_class_shop_a_book",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, a book costs $9 and a pen costs $2. What is the total?"
-    },
-    "question": "At the class shop, a book costs $9 and a pen costs $2. What is the total?",
-    "audio_prompt": "At the class shop, a book costs $9 and a pen costs $2. What is the total?",
-    "answers": [
-      {
-        "text": "$11",
-        "is_correct": true
-      },
-      {
-        "text": "$9",
-        "is_correct": false
-      },
-      {
-        "text": "$12",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-032",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_mia_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, Mia has $13 and spends $3. How much is left?"
-    },
-    "question": "On the picnic rug, Mia has $13 and spends $3. How much is left?",
-    "audio_prompt": "On the picnic rug, Mia has $13 and spends $3. How much is left?",
-    "answers": [
-      {
-        "text": "$3",
-        "is_correct": false
-      },
-      {
-        "text": "$13",
-        "is_correct": false
-      },
-      {
-        "text": "$10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-033",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_block_table_5_bags",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, 5 bags have 3 marbles each. How many marbles?"
-    },
-    "question": "At the block table, 5 bags have 3 marbles each. How many marbles?",
-    "audio_prompt": "At the block table, 5 bags have 3 marbles each. How many marbles?",
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-034",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_a_book",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, a book costs $4 and a pen costs $5. What is the total?"
-    },
-    "question": "In the lunch area, a book costs $4 and a pen costs $5. What is the total?",
-    "audio_prompt": "In the lunch area, a book costs $4 and a pen costs $5. What is the total?",
-    "answers": [
-      {
-        "text": "$9",
-        "is_correct": true
-      },
-      {
-        "text": "$4",
-        "is_correct": false
-      },
-      {
-        "text": "$10",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-035",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_science_table_mia_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, Mia has $11 and spends $6. How much is left?"
-    },
-    "question": "At the science table, Mia has $11 and spends $6. How much is left?",
-    "audio_prompt": "At the science table, Mia has $11 and spends $6. How much is left?",
-    "answers": [
-      {
-        "text": "$6",
-        "is_correct": false
-      },
-      {
-        "text": "$11",
-        "is_correct": false
-      },
-      {
-        "text": "$5",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-036",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during_a_card_game_3_bags",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, 3 bags have 6 marbles each. How many marbles?"
-    },
-    "question": "During a card game, 3 bags have 6 marbles each. How many marbles?",
-    "audio_prompt": "During a card game, 3 bags have 6 marbles each. How many marbles?",
-    "answers": [
-      {
-        "text": "19",
-        "is_correct": false
-      },
-      {
-        "text": "18",
-        "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-037",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_school_garden_a_book",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, a book costs $7 and a pen costs $2. What is the total?"
-    },
-    "question": "At the school garden, a book costs $7 and a pen costs $2. What is the total?",
-    "audio_prompt": "At the school garden, a book costs $7 and a pen costs $2. What is the total?",
-    "answers": [
-      {
-        "text": "$9",
-        "is_correct": true
-      },
-      {
-        "text": "$7",
-        "is_correct": false
-      },
-      {
-        "text": "$10",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-038",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during_maths_groups_mia_has_11",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, Mia has $11 and spends $3. How much is left?"
-    },
-    "question": "During maths groups, Mia has $11 and spends $3. How much is left?",
-    "audio_prompt": "During maths groups, Mia has $11 and spends $3. How much is left?",
-    "answers": [
-      {
-        "text": "$3",
-        "is_correct": false
-      },
-      {
-        "text": "$11",
-        "is_correct": false
-      },
-      {
-        "text": "$8",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-039",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_art_table_6_bags",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, 6 bags have 5 marbles each. How many marbles?"
-    },
-    "question": "At the art table, 6 bags have 5 marbles each. How many marbles?",
-    "audio_prompt": "At the art table, 6 bags have 5 marbles each. How many marbles?",
-    "answers": [
-      {
-        "text": "31",
-        "is_correct": false
-      },
-      {
-        "text": "30",
-        "is_correct": true
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-040",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "in_the_playground_a_book_costs",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, a book costs $10 and a pen costs $5. What is the total?"
-    },
-    "question": "In the playground, a book costs $10 and a pen costs $5. What is the total?",
-    "audio_prompt": "In the playground, a book costs $10 and a pen costs $5. What is the total?",
-    "answers": [
-      {
-        "text": "$15",
-        "is_correct": true
-      },
-      {
-        "text": "$10",
-        "is_correct": false
-      },
-      {
-        "text": "$16",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-041",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_library_mia_has_9",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, Mia has $9 and spends $6. How much is left?"
-    },
-    "question": "At the library, Mia has $9 and spends $6. How much is left?",
-    "audio_prompt": "At the library, Mia has $9 and spends $6. How much is left?",
-    "answers": [
-      {
-        "text": "$6",
-        "is_correct": false
-      },
-      {
-        "text": "$9",
-        "is_correct": false
-      },
-      {
-        "text": "$3",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-042",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during_sport_4_bags_have_4",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, 4 bags have 4 marbles each. How many marbles?"
-    },
-    "question": "During sport, 4 bags have 4 marbles each. How many marbles?",
-    "audio_prompt": "During sport, 4 bags have 4 marbles each. How many marbles?",
-    "answers": [
-      {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "16",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-043",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_class_shop_a_book",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, a book costs $5 and a pen costs $2. What is the total?"
-    },
-    "question": "At the class shop, a book costs $5 and a pen costs $2. What is the total?",
-    "audio_prompt": "At the class shop, a book costs $5 and a pen costs $2. What is the total?",
-    "answers": [
-      {
-        "text": "$7",
-        "is_correct": true
-      },
-      {
-        "text": "$5",
-        "is_correct": false
-      },
-      {
-        "text": "$8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-044",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_mia_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, Mia has $9 and spends $3. How much is left?"
-    },
-    "question": "On the picnic rug, Mia has $9 and spends $3. How much is left?",
-    "audio_prompt": "On the picnic rug, Mia has $9 and spends $3. How much is left?",
-    "answers": [
-      {
-        "text": "$3",
-        "is_correct": false
-      },
-      {
-        "text": "$9",
-        "is_correct": false
-      },
-      {
-        "text": "$6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-045",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_block_table_2_bags",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, 2 bags have 3 marbles each. How many marbles?"
-    },
-    "question": "At the block table, 2 bags have 3 marbles each. How many marbles?",
-    "audio_prompt": "At the block table, 2 bags have 3 marbles each. How many marbles?",
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      },
-      {
-        "text": "5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-046",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_a_book",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, a book costs $8 and a pen costs $5. What is the total?"
-    },
-    "question": "In the lunch area, a book costs $8 and a pen costs $5. What is the total?",
-    "audio_prompt": "In the lunch area, a book costs $8 and a pen costs $5. What is the total?",
-    "answers": [
-      {
-        "text": "$13",
-        "is_correct": true
-      },
-      {
-        "text": "$8",
-        "is_correct": false
-      },
-      {
-        "text": "$14",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-047",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at_the_science_table_mia_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, Mia has $15 and spends $6. How much is left?"
-    },
-    "question": "At the science table, Mia has $15 and spends $6. How much is left?",
-    "audio_prompt": "At the science table, Mia has $15 and spends $6. How much is left?",
-    "answers": [
-      {
-        "text": "$6",
-        "is_correct": false
-      },
-      {
-        "text": "$15",
-        "is_correct": false
-      },
-      {
-        "text": "$9",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N06-P-048",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during_a_card_game_5_bags",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, 5 bags have 6 marbles each. How many marbles?"
-    },
-    "question": "During a card game, 5 bags have 6 marbles each. How many marbles?",
-    "audio_prompt": "During a card game, 5 bags have 6 marbles each. How many marbles?",
-    "answers": [
-      {
-        "text": "31",
-        "is_correct": false
-      },
-      {
-        "text": "30",
-        "is_correct": true
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1669,32 +1028,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "model_money_addition",
+    "skill": "model_addition",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-001",
-      "alt_text": "At the crayon table: A notebook labelled $11 and a pen labelled $3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the crayon table, a notebook costs $11 and a pen costs $3. How much do they cost altogether?",
-    "audio_prompt": "At the crayon table, a notebook costs $11 and a pen costs $3. How much do they cost altogether?",
+    "question": "A garden has 27 tomato plants and 16 bean plants. Which equation finds the total number of plants?",
+    "audio_prompt": "A garden has 27 tomato plants and 16 bean plants. Which equation finds the total number of plants?",
     "answers": [
       {
-        "text": "$8",
-        "is_correct": false
-      },
-      {
-        "text": "$14",
+        "text": "27 + 16 = ?",
         "is_correct": true
       },
       {
-        "text": "$15",
+        "text": "27 − 16 = ?",
+        "is_correct": false
+      },
+      {
+        "text": "27 × 16 = ?",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Join the two costs: $11 + $3 = $14.",
-      "hint": "Altogether means add the amounts."
+      "summary": "The two groups are combined, so addition models the total.",
+      "hint": "Look for ‘total’ of joined groups."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1703,32 +1070,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "model_money_change",
+    "skill": "model_subtraction",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-002",
-      "alt_text": "At the crayon table: A $35 payment and a toy price of $14."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the crayon table, kai pays $35 for a toy that costs $14. How much change should Kai get?",
-    "audio_prompt": "At the crayon table, kai pays $35 for a toy that costs $14. How much change should Kai get?",
+    "question": "Fifty tickets were printed and 18 were sold. How many remain?",
+    "audio_prompt": "Fifty tickets were printed and 18 were sold. How many remain?",
     "answers": [
       {
-        "text": "$49",
+        "text": "68",
         "is_correct": false
       },
       {
-        "text": "$22",
-        "is_correct": false
-      },
-      {
-        "text": "$21",
+        "text": "32",
         "is_correct": true
+      },
+      {
+        "text": "28",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Change is the amount left: $35 − $14 = $21.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "Fifty minus 18 leaves 32 tickets.",
+      "hint": "Subtract the sold tickets from the starting number."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1737,32 +1112,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "choose_operation_for_equal_groups",
+    "skill": "model_equal_groups",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-003",
-      "alt_text": "At the crayon table: 7 bags with 3 apples in every bag."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the crayon table, there are 7 bags with 3 apples in each bag. Which operation finds all the apples?",
-    "audio_prompt": "At the crayon table, there are 7 bags with 3 apples in each bag. Which operation finds all the apples?",
+    "question": "Seven racks hold 4 helmets each. How many helmets are there?",
+    "audio_prompt": "Seven racks hold 4 helmets each. How many helmets are there?",
     "answers": [
       {
-        "text": "Multiplication",
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "74",
+        "is_correct": false
+      },
+      {
+        "text": "28",
         "is_correct": true
-      },
-      {
-        "text": "Subtraction",
-        "is_correct": false
-      },
-      {
-        "text": "Measuring length",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Equal groups are modelled with multiplication: 7 groups of 3.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "Seven equal groups of 4 make 28.",
+      "hint": "Use repeated addition or multiplication."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1771,32 +1154,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "model_equal_sharing",
+    "skill": "model_sharing",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-004",
-      "alt_text": "At the crayon table: 21 crayons shared into 7 equal table groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the crayon table, 21 crayons are shared equally between 7 tables. How many crayons does each table get?",
-    "audio_prompt": "At the crayon table, 21 crayons are shared equally between 7 tables. How many crayons does each table get?",
+    "question": "Thirty cards are shared equally among 5 players. How many cards does each player receive?",
+    "audio_prompt": "Thirty cards are shared equally among 5 players. How many cards does each player receive?",
     "answers": [
       {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "3",
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "14",
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "25",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "21 ÷ 7 = 3, so every table gets 3.",
-      "hint": "Share the crayons one at a time into 7 equal groups."
+      "summary": "Thirty divided by 5 gives 6 cards each.",
+      "hint": "Check with 5 × 6."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1805,32 +1196,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "represent_additive_situation",
+    "skill": "money_total",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-005",
-      "alt_text": "At the crayon table: A group of 11 cards joined by 7 more cards."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the crayon table, lina has 11 cards and gets 7 more. Which number sentence models the story?",
-    "audio_prompt": "At the crayon table, lina has 11 cards and gets 7 more. Which number sentence models the story?",
+    "question": "A ball costs $9 and a book costs $14. What is the total cost?",
+    "audio_prompt": "A ball costs $9 and a book costs $14. What is the total cost?",
     "answers": [
       {
-        "text": "11 − 7 = 4",
+        "text": "$5",
         "is_correct": false
       },
       {
-        "text": "11 × 7 = 77",
-        "is_correct": false
-      },
-      {
-        "text": "11 + 7 = 18",
+        "text": "$23",
         "is_correct": true
+      },
+      {
+        "text": "$126",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
+      "summary": "$9 + $14 = $23.",
+      "hint": "Add the prices."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1839,32 +1238,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "check_reasonableness",
+    "skill": "money_change",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-006",
-      "alt_text": "At the crayon table: 7 bags with 3 marbles in each, compared with a claim of 31."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the crayon table, a student says 7 bags of 3 marbles make 31 marbles. Is the answer correct?",
-    "audio_prompt": "At the crayon table, a student says 7 bags of 3 marbles make 31 marbles. Is the answer correct?",
+    "question": "You buy a $17 puzzle with a $30 payment. What change should you receive?",
+    "audio_prompt": "You buy a $17 puzzle with a $30 payment. What change should you receive?",
     "answers": [
       {
-        "text": "No, the total should be 21",
+        "text": "$47",
+        "is_correct": false
+      },
+      {
+        "text": "$12",
+        "is_correct": false
+      },
+      {
+        "text": "$13",
         "is_correct": true
-      },
-      {
-        "text": "Yes, every multiplication answer is large",
-        "is_correct": false
-      },
-      {
-        "text": "No, the total should be 10",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "7 equal groups of 3 make 21, not 31.",
-      "hint": "Build or draw the groups to check the answer."
+      "summary": "$30 − $17 = $13 change.",
+      "hint": "Subtract the price from the payment."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1873,32 +1280,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "communicate_model_solution",
+    "skill": "money_multiplication",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-007",
-      "alt_text": "At the crayon table: A receipt showing a total of $14."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the crayon table, which final sentence clearly answers a money problem?",
-    "audio_prompt": "At the crayon table, which final sentence clearly answers a money problem?",
+    "question": "Four museum tickets cost $6 each. What is the total cost?",
+    "audio_prompt": "Four museum tickets cost $6 each. What is the total cost?",
     "answers": [
       {
-        "text": "The answer is 14.",
-        "is_correct": false
-      },
-      {
-        "text": "The two items cost $14 altogether.",
+        "text": "$24",
         "is_correct": true
       },
       {
-        "text": "I used addition.",
+        "text": "$10",
+        "is_correct": false
+      },
+      {
+        "text": "$2",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "Four equal costs of $6 make $24.",
+      "hint": "Add $6 four times."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1907,32 +1322,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "select_mathematical_model",
+    "skill": "missing_part",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-008",
-      "alt_text": "At the crayon table: 7 empty group boxes ready for 3 pencil counters in each."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the crayon table, which is a helpful first step for 7 boxes with 3 pencils in each?",
-    "audio_prompt": "At the crayon table, which is a helpful first step for 7 boxes with 3 pencils in each?",
+    "question": "After 19 students leave, 34 remain at assembly. How many students were there before anyone left?",
+    "audio_prompt": "After 19 students leave, 34 remain at assembly. How many students were there before anyone left?",
     "answers": [
       {
-        "text": "Add every number you see",
+        "text": "15",
         "is_correct": false
       },
       {
-        "text": "Guess a large answer",
-        "is_correct": false
-      },
-      {
-        "text": "Draw 7 equal groups of 3",
+        "text": "53",
         "is_correct": true
+      },
+      {
+        "text": "45",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
+      "summary": "The starting whole is 19 + 34 = 53.",
+      "hint": "Join the part that left and the part that remained."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1941,32 +1364,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "model_money_addition",
+    "skill": "comparison",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-009",
-      "alt_text": "In the school-fair challenge: A notebook labelled $13 and a pen labelled $4."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the school-fair challenge, a notebook costs $13 and a pen costs $4. How much do they cost altogether?",
-    "audio_prompt": "In the school-fair challenge, a notebook costs $13 and a pen costs $4. How much do they cost altogether?",
+    "question": "A team scored 46 points and another scored 29. What was the difference?",
+    "audio_prompt": "A team scored 46 points and another scored 29. What was the difference?",
     "answers": [
       {
-        "text": "$17",
+        "text": "75 points",
+        "is_correct": false
+      },
+      {
+        "text": "27 points",
+        "is_correct": false
+      },
+      {
+        "text": "17 points",
         "is_correct": true
-      },
-      {
-        "text": "$9",
-        "is_correct": false
-      },
-      {
-        "text": "$18",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Join the two costs: $13 + $4 = $17.",
-      "hint": "Altogether means add the amounts."
+      "summary": "46 − 29 = 17, so the scores differ by 17 points.",
+      "hint": "Find the gap, not the total."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1975,32 +1406,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "model_money_change",
+    "skill": "two_step",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-010",
-      "alt_text": "In the school-fair challenge: A $40 payment and a toy price of $16."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the school-fair challenge, kai pays $40 for a toy that costs $16. How much change should Kai get?",
-    "audio_prompt": "In the school-fair challenge, kai pays $40 for a toy that costs $16. How much change should Kai get?",
+    "question": "A shelf holds 23 fiction books and 18 information books. Nine are borrowed. How many remain?",
+    "audio_prompt": "A shelf holds 23 fiction books and 18 information books. Nine are borrowed. How many remain?",
     "answers": [
       {
-        "text": "$56",
-        "is_correct": false
-      },
-      {
-        "text": "$24",
+        "text": "32",
         "is_correct": true
       },
       {
-        "text": "$25",
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "text": "14",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left: $40 − $16 = $24.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "There are 41 books first; 41 − 9 = 32 remain.",
+      "hint": "Combine before subtracting."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2009,32 +1448,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "choose_operation_for_equal_groups",
+    "skill": "choose_representation",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-011",
-      "alt_text": "In the school-fair challenge: 8 bags with 4 apples in every bag."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the school-fair challenge, there are 8 bags with 4 apples in each bag. Which operation finds all the apples?",
-    "audio_prompt": "In the school-fair challenge, there are 8 bags with 4 apples in each bag. Which operation finds all the apples?",
+    "question": "For 5 packets of 6 seeds and 2 loose seeds, which representation matches?",
+    "audio_prompt": "For 5 packets of 6 seeds and 2 loose seeds, which representation matches?",
     "answers": [
       {
-        "text": "Subtraction",
+        "text": "5 + 6 + 2",
         "is_correct": false
       },
       {
-        "text": "Measuring length",
-        "is_correct": false
-      },
-      {
-        "text": "Multiplication",
+        "text": "5 × 6 + 2",
         "is_correct": true
+      },
+      {
+        "text": "5 × 8",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Equal groups are modelled with multiplication: 8 groups of 4.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "Five equal groups of 6 make 30, then 2 loose seeds are added.",
+      "hint": "Keep the packets and loose seeds distinct."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2043,32 +1490,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "model_equal_sharing",
+    "skill": "interpret_quotient",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-012",
-      "alt_text": "In the school-fair challenge: 32 crayons shared into 8 equal table groups."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the school-fair challenge, 32 crayons are shared equally between 8 tables. How many crayons does each table get?",
-    "audio_prompt": "In the school-fair challenge, 32 crayons are shared equally between 8 tables. How many crayons does each table get?",
+    "question": "The calculation 21 ÷ 3 = 7 solves a sharing problem. Which answer sentence is complete?",
+    "audio_prompt": "The calculation 21 ÷ 3 = 7 solves a sharing problem. Which answer sentence is complete?",
     "answers": [
       {
-        "text": "4",
+        "text": "There are 7 groups of 21",
+        "is_correct": false
+      },
+      {
+        "text": "Three items are left",
+        "is_correct": false
+      },
+      {
+        "text": "Each of the 3 groups receives 7 items",
         "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "24",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "32 ÷ 8 = 4, so every table gets 4.",
-      "hint": "Share the crayons one at a time into 8 equal groups."
+      "summary": "The quotient 7 is the amount in each of three equal shares.",
+      "hint": "Name what the 7 represents."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2077,33 +1532,46 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "represent_additive_situation",
+    "skill": "communicate_two_step",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-013",
-      "alt_text": "In the school-fair challenge: A group of 13 cards joined by 8 more cards."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the school-fair challenge, lina has 13 cards and gets 8 more. Which number sentence models the story?",
-    "audio_prompt": "In the school-fair challenge, lina has 13 cards and gets 8 more. Which number sentence models the story?",
+    "question": "Show and explain how to solve: Three boxes contain 8 candles each. Five candles are used. How many remain?",
+    "audio_prompt": "Show and explain how to solve: Three boxes contain 8 candles each. Five candles are used. How many remain?",
     "answers": [
       {
-        "text": "13 − 8 = 5",
-        "is_correct": false
-      },
-      {
-        "text": "13 + 8 = 21",
+        "text": "Completed response",
         "is_correct": true
       },
       {
-        "text": "13 × 8 = 104",
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
-    }
+      "summary": "3 × 8 = 24, then 24 − 5 = 19. There are 19 candles remaining.",
+      "hint": "Accept repeated addition instead of multiplication; both steps and the meaning of 19 must be clear."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "3 × 8 = 24, then 24 − 5 = 19. There are 19 candles remaining.",
+    "acceptance_note": "Accept repeated addition instead of multiplication; both steps and the meaning of 19 must be clear.",
+    "response_instructions": "Represent both steps and finish with an answer sentence.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2N06-T-014",
@@ -2111,33 +1579,46 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "check_reasonableness",
+    "skill": "communicate_money",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-014",
-      "alt_text": "In the school-fair challenge: 8 bags with 4 marbles in each, compared with a claim of 42."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the school-fair challenge, a student says 8 bags of 4 marbles make 42 marbles. Is the answer correct?",
-    "audio_prompt": "In the school-fair challenge, a student says 8 bags of 4 marbles make 42 marbles. Is the answer correct?",
+    "question": "A customer has $40 and buys two games costing $13 each. Model the transaction and state the money left.",
+    "audio_prompt": "A customer has $40 and buys two games costing $13 each. Model the transaction and state the money left.",
     "answers": [
       {
-        "text": "Yes, every multiplication answer is large",
+        "text": "Needs revision",
         "is_correct": false
       },
       {
-        "text": "No, the total should be 12",
-        "is_correct": false
-      },
-      {
-        "text": "No, the total should be 32",
+        "text": "Completed response",
         "is_correct": true
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "8 equal groups of 4 make 32, not 42.",
-      "hint": "Build or draw the groups to check the answer."
-    }
+      "summary": "2 × $13 = $26, then $40 − $26 = $14. The customer has $14 left.",
+      "hint": "Accept $13 + $13 for the equal costs; the final $14 must be interpreted as money left."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "2 × $13 = $26, then $40 − $26 = $14. The customer has $14 left.",
+    "acceptance_note": "Accept $13 + $13 for the equal costs; the final $14 must be interpreted as money left.",
+    "response_instructions": "Show the purchase total and the remaining-money calculation.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2N06-T-015",
@@ -2145,32 +1626,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "communicate_model_solution",
+    "skill": "evaluate_model",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-015",
-      "alt_text": "In the school-fair challenge: A receipt showing a total of $17."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the school-fair challenge, which final sentence clearly answers a money problem?",
-    "audio_prompt": "In the school-fair challenge, which final sentence clearly answers a money problem?",
+    "question": "For 18 muffins shared among 4 plates, a model shows 4 equal groups of 4 and 2 muffins left. Is the model valid?",
+    "audio_prompt": "For 18 muffins shared among 4 plates, a model shows 4 equal groups of 4 and 2 muffins left. Is the model valid?",
     "answers": [
       {
-        "text": "The two items cost $17 altogether.",
+        "text": "No; division situations cannot have leftovers",
+        "is_correct": false
+      },
+      {
+        "text": "No; each plate must hold 18 muffins",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; it accounts for all 18 muffins",
         "is_correct": true
-      },
-      {
-        "text": "The answer is 17.",
-        "is_correct": false
-      },
-      {
-        "text": "I used addition.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "Four groups of 4 use 16 muffins and leave 2, accounting for all 18.",
+      "hint": "Check the grouped and leftover amounts total 18."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2179,32 +1668,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N06",
     "bank": "test",
-    "skill": "select_mathematical_model",
+    "skill": "diagnose_modelling_error",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-016",
-      "alt_text": "In the school-fair challenge: 8 empty group boxes ready for 4 pencil counters in each."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the school-fair challenge, which is a helpful first step for 8 boxes with 4 pencils in each?",
-    "audio_prompt": "In the school-fair challenge, which is a helpful first step for 8 boxes with 4 pencils in each?",
+    "question": "A student solves ‘6 bags with 5 marbles each’ using 6 + 5 = 11. What should replace that model?",
+    "audio_prompt": "A student solves ‘6 bags with 5 marbles each’ using 6 + 5 = 11. What should replace that model?",
     "answers": [
       {
-        "text": "Add every number you see",
-        "is_correct": false
-      },
-      {
-        "text": "Draw 8 equal groups of 4",
+        "text": "5 + 5 + 5 + 5 + 5 + 5 = 30",
         "is_correct": true
       },
       {
-        "text": "Guess a large answer",
+        "text": "6 − 5 = 1",
+        "is_correct": false
+      },
+      {
+        "text": "6 + 5 + 30 = 41",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
+      "summary": "The story has six equal groups of 5, so repeated addition gives 30.",
+      "hint": "Represent all six bags."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   }
 ]

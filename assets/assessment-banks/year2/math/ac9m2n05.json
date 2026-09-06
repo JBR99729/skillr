@@ -5,36 +5,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "count_equal_groups",
+    "skill": "identify_equal_groups",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-001",
-      "alt_text": "With the counter groups: 2 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the counter groups, how many counters are in 2 equal groups of 2?",
-    "audio_prompt": "With the counter groups, how many counters are in 2 equal groups of 2?",
+    "question": "Which description has equal groups?",
+    "audio_prompt": "Which description has equal groups?",
     "answers": [
       {
-        "text": "4",
+        "text": "Four bags with 3 counters in every bag",
         "is_correct": true
       },
       {
-        "text": "3",
+        "text": "Four bags holding 2, 3, 3 and 4 counters",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "Three bags with 4 counters altogether",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "2 groups of 2 make 4.",
-      "hint": "Add 2 once for each group."
+      "summary": "Multiplication requires every group to contain the same number.",
+      "hint": "Check each group, not just the total."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-002",
@@ -42,36 +47,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "write_repeated_addition",
+    "skill": "repeated_addition",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-002",
-      "alt_text": "With the counter groups: 2 equal groups of 2 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the counter groups, which repeated addition matches 2 groups of 2?",
-    "audio_prompt": "With the counter groups, which repeated addition matches 2 groups of 2?",
+    "question": "Which repeated addition represents 4 equal groups of 3?",
+    "audio_prompt": "Which repeated addition represents 4 equal groups of 3?",
     "answers": [
       {
-        "text": "2 + 2 + 1",
+        "text": "4 + 4 + 4",
         "is_correct": false
       },
       {
-        "text": "2 + 2",
+        "text": "3 + 3 + 3 + 3",
         "is_correct": true
       },
       {
-        "text": "4 − 2",
+        "text": "4 + 3",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Repeat 2 once for every group: 2 + 2.",
-      "hint": "The number in each group is the addend."
+      "summary": "Four groups of 3 means add 3 four times.",
+      "hint": "The number of addends is the number of groups."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-003",
@@ -79,36 +89,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "share_equally",
+    "skill": "count_equal_groups",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-003",
-      "alt_text": "With the counter groups: 4 counters shared into 2 equal groups of 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the counter groups, 4 counters are shared equally into 2 groups. How many go in each group?",
-    "audio_prompt": "With the counter groups, 4 counters are shared equally into 2 groups. How many go in each group?",
+    "question": "There are 5 plates with 2 strawberries on each. How many strawberries are there?",
+    "audio_prompt": "There are 5 plates with 2 strawberries on each. How many strawberries are there?",
     "answers": [
       {
-        "text": "3",
+        "text": "7",
         "is_correct": false
       },
       {
-        "text": "1",
+        "text": "25",
         "is_correct": false
       },
       {
-        "text": "2",
+        "text": "10",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "4 ÷ 2 = 2, so each group gets 2.",
-      "hint": "Share one counter to every group until none are left."
+      "summary": "Five equal groups of 2 make 2 + 2 + 2 + 2 + 2 = 10.",
+      "hint": "Skip-count by twos five times."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-004",
@@ -116,36 +131,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "read_array",
+    "skill": "array_repeated_addition",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-004",
-      "alt_text": "With the counter groups: An array with 2 rows and 2 dots in each row."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the counter groups, an array has 2 rows with 2 dots in each row. How many dots are there?",
-    "audio_prompt": "With the counter groups, an array has 2 rows with 2 dots in each row. How many dots are there?",
+    "question": "An array has 3 rows with 4 dots in each row. Which addition sentence matches it?",
+    "audio_prompt": "An array has 3 rows with 4 dots in each row. Which addition sentence matches it?",
     "answers": [
       {
-        "text": "4",
+        "text": "4 + 4 + 4 = 12",
         "is_correct": true
       },
       {
-        "text": "3",
+        "text": "3 + 3 + 3 + 3 + 3 = 15",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "3 + 4 = 7",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Each of the 2 rows has 2 dots, so there are 4.",
-      "hint": "Skip-count by 2 for every row."
+      "summary": "Each of the 3 rows contributes 4 dots.",
+      "hint": "Add the number in each row once per row."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-005",
@@ -153,36 +173,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "identify_equal_group_model",
+    "skill": "multiplication_sentence",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-005",
-      "alt_text": "With the counter groups: Several groups, each containing 2 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the counter groups, which groups can show multiplication?",
-    "audio_prompt": "With the counter groups, which groups can show multiplication?",
+    "question": "Complete the sentence for 6 groups of 2: ___ × 2 = 12.",
+    "audio_prompt": "Complete the sentence for 6 groups of 2: ___ × 2 = 12.",
     "answers": [
       {
-        "text": "Groups with different amounts",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "Groups with the same number in each",
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "One group with no objects",
+        "text": "14",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Multiplication uses equal groups.",
-      "hint": "Compare every group before you count the total."
+      "summary": "Six groups of 2 contain 12 altogether, so 6 × 2 = 12.",
+      "hint": "The first factor counts the groups."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-006",
@@ -190,36 +215,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "division_find_number_of_groups",
+    "skill": "read_array",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-006",
-      "alt_text": "With the counter groups: 6 biscuits arranged in groups of 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the counter groups, 6 biscuits are packed 2 in each bag. How many bags are needed?",
-    "audio_prompt": "With the counter groups, 6 biscuits are packed 2 in each bag. How many bags are needed?",
+    "question": "An array has 2 rows and 7 objects in each row. Which multiplication expression describes it?",
+    "audio_prompt": "An array has 2 rows and 7 objects in each row. Which multiplication expression describes it?",
     "answers": [
       {
-        "text": "2",
+        "text": "2 + 7",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "7 − 2",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "2 × 7",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "6 divided into groups of 2 makes 3 bags.",
-      "hint": "Circle groups of 2 and count the circles."
+      "summary": "Two rows of 7 are represented by 2 × 7.",
+      "hint": "Write rows × objects in each row."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-007",
@@ -227,36 +257,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "match_multiplication_sentence",
+    "skill": "make_array",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-007",
-      "alt_text": "With the counter groups: 2 equal groups containing 2 counters each."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the counter groups, which number sentence matches the model?",
-    "audio_prompt": "With the counter groups, which number sentence matches the model?",
+    "question": "Which array instruction models 4 × 5?",
+    "audio_prompt": "Which array instruction models 4 × 5?",
     "answers": [
       {
-        "text": "2 × 2 = 4",
+        "text": "Make 4 rows with 5 counters in each row",
         "is_correct": true
       },
       {
-        "text": "2 + 2 = 4",
+        "text": "Make 4 rows with 4 counters altogether",
         "is_correct": false
       },
       {
-        "text": "4 − 2 = 2",
+        "text": "Make 5 unequal rows",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The model has 2 equal groups of 2, giving 4.",
-      "hint": "Count the groups and the amount in each group."
+      "summary": "Four times 5 means 4 equal rows of 5.",
+      "hint": "The first factor can count rows."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-008",
@@ -264,36 +299,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "check_equal_groups",
+    "skill": "partition_multiplication",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-008",
-      "alt_text": "With the counter groups: Three groups containing 2, 2, and 3 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the counter groups, are groups of 2, 2 and 3 equal groups?",
-    "audio_prompt": "With the counter groups, are groups of 2, 2 and 3 equal groups?",
+    "question": "To find 6 groups of 4, Ava finds 5 groups of 4 and then one more group of 4. What is the total?",
+    "audio_prompt": "To find 6 groups of 4, Ava finds 5 groups of 4 and then one more group of 4. What is the total?",
     "answers": [
       {
-        "text": "Yes",
+        "text": "20",
         "is_correct": false
       },
       {
-        "text": "No",
+        "text": "24",
         "is_correct": true
       },
       {
-        "text": "Only if they are in a row",
+        "text": "28",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One group has 3, so the groups are not equal.",
-      "hint": "Count every group, not just the first two."
+      "summary": "Five groups of 4 make 20; one more group makes 24.",
+      "hint": "Partition 6 groups into 5 groups and 1 group."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-009",
@@ -301,35 +341,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "count_equal_groups",
+    "skill": "division_sharing",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-009",
-      "alt_text": "At the biscuit table: 3 equal groups with 3 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the biscuit table, how many counters are in 3 equal groups of 3?",
-    "audio_prompt": "At the biscuit table, how many counters are in 3 equal groups of 3?",
+    "question": "Share 18 counters equally among 3 children. How many counters does each child receive?",
+    "audio_prompt": "Share 18 counters equally among 3 children. How many counters does each child receive?",
     "answers": [
       {
-        "text": "8",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "12",
+        "text": "15",
         "is_correct": false
       },
       {
-        "text": "9",
+        "text": "6",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "3 groups of 3 make 9.",
-      "hint": "Add 3 once for each group."
+      "summary": "Eighteen shared into 3 equal groups gives 6 in each group.",
+      "hint": "Deal one counter to each group repeatedly."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-010",
@@ -337,35 +383,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "write_repeated_addition",
+    "skill": "division_grouping",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-010",
-      "alt_text": "At the biscuit table: 3 equal groups of 3 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the biscuit table, which repeated addition matches 3 groups of 3?",
-    "audio_prompt": "At the biscuit table, which repeated addition matches 3 groups of 3?",
+    "question": "Pack 20 pencils with 5 pencils in each bundle. How many bundles are made?",
+    "audio_prompt": "Pack 20 pencils with 5 pencils in each bundle. How many bundles are made?",
     "answers": [
       {
-        "text": "3 + 3 + 3",
+        "text": "4",
         "is_correct": true
       },
       {
-        "text": "3 + 3 + 3 + 1",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "9 − 3",
+        "text": "15",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Repeat 3 once for every group: 3 + 3 + 3.",
-      "hint": "The number in each group is the addend."
+      "summary": "Twenty contains four groups of 5.",
+      "hint": "Count groups of 5 until reaching 20."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-011",
@@ -373,35 +425,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "share_equally",
+    "skill": "division_sentence",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-011",
-      "alt_text": "At the biscuit table: 9 counters shared into 3 equal groups of 3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the biscuit table, 9 counters are shared equally into 3 groups. How many go in each group?",
-    "audio_prompt": "At the biscuit table, 9 counters are shared equally into 3 groups. How many go in each group?",
+    "question": "Twelve counters are arranged in 3 equal rows. Which division sentence finds the number in each row?",
+    "audio_prompt": "Twelve counters are arranged in 3 equal rows. Which division sentence finds the number in each row?",
     "answers": [
       {
-        "text": "4",
+        "text": "12 ÷ 4 = 3 rows",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "12 ÷ 3 = 4",
         "is_correct": true
       },
       {
-        "text": "2",
+        "text": "3 ÷ 12 = 4",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "9 ÷ 3 = 3, so each group gets 3.",
-      "hint": "Share one counter to every group until none are left."
+      "summary": "Divide the total 12 by the 3 rows to get 4 in each row.",
+      "hint": "Start division with the total."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-012",
@@ -409,35 +467,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "read_array",
+    "skill": "array_division",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-012",
-      "alt_text": "At the biscuit table: An array with 3 rows and 3 dots in each row."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the biscuit table, an array has 3 rows with 3 dots in each row. How many dots are there?",
-    "audio_prompt": "At the biscuit table, an array has 3 rows with 3 dots in each row. How many dots are there?",
+    "question": "Which instruction models 15 ÷ 5 with an array?",
+    "audio_prompt": "Which instruction models 15 ÷ 5 with an array?",
     "answers": [
       {
-        "text": "8",
+        "text": "Draw 15 rows of 5 dots",
         "is_correct": false
       },
       {
-        "text": "12",
+        "text": "Draw 5 dots and remove all of them",
         "is_correct": false
       },
       {
-        "text": "9",
+        "text": "Arrange 15 dots in rows of 5 and count the rows",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Each of the 3 rows has 3 dots, so there are 9.",
-      "hint": "Skip-count by 3 for every row."
+      "summary": "Rows of 5 show how many groups of 5 fit into 15.",
+      "hint": "Use 15 dots altogether."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-013",
@@ -445,35 +509,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "identify_equal_group_model",
+    "skill": "relate_addition_multiplication",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-013",
-      "alt_text": "At the biscuit table: Several groups, each containing 3 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the biscuit table, which groups can show multiplication?",
-    "audio_prompt": "At the biscuit table, which groups can show multiplication?",
+    "question": "Which multiplication sentence matches 6 + 6 + 6?",
+    "audio_prompt": "Which multiplication sentence matches 6 + 6 + 6?",
     "answers": [
       {
-        "text": "Groups with the same number in each",
+        "text": "3 × 6 = 18",
         "is_correct": true
       },
       {
-        "text": "Groups with different amounts",
+        "text": "6 × 6 = 36",
         "is_correct": false
       },
       {
-        "text": "One group with no objects",
+        "text": "3 × 3 = 9",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Multiplication uses equal groups.",
-      "hint": "Compare every group before you count the total."
+      "summary": "There are 3 equal addends of 6, so 3 × 6 = 18.",
+      "hint": "Count the addends, then identify their size."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-014",
@@ -481,35 +551,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "division_find_number_of_groups",
+    "skill": "relate_multiplication_division",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-014",
-      "alt_text": "At the biscuit table: 12 biscuits arranged in groups of 3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the biscuit table, 12 biscuits are packed 3 in each bag. How many bags are needed?",
-    "audio_prompt": "At the biscuit table, 12 biscuits are packed 3 in each bag. How many bags are needed?",
+    "question": "If 4 × 5 = 20, which division fact is related?",
+    "audio_prompt": "If 4 × 5 = 20, which division fact is related?",
     "answers": [
       {
-        "text": "3",
+        "text": "20 ÷ 4 = 6",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "20 ÷ 5 = 4",
         "is_correct": true
       },
       {
-        "text": "5",
+        "text": "5 ÷ 4 = 20",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "12 divided into groups of 3 makes 4 bags.",
-      "hint": "Circle groups of 3 and count the circles."
+      "summary": "The total 20 divided into groups of 5 makes 4 groups.",
+      "hint": "Use the same three numbers."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-015",
@@ -517,35 +593,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "match_multiplication_sentence",
+    "skill": "rotation_of_array",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-015",
-      "alt_text": "At the biscuit table: 3 equal groups containing 3 counters each."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the biscuit table, which number sentence matches the model?",
-    "audio_prompt": "At the biscuit table, which number sentence matches the model?",
+    "question": "One array has 3 rows of 6. It is turned to show 6 rows of 3. What stays the same?",
+    "audio_prompt": "One array has 3 rows of 6. It is turned to show 6 rows of 3. What stays the same?",
     "answers": [
       {
-        "text": "3 + 3 = 6",
+        "text": "The number of rows",
         "is_correct": false
       },
       {
-        "text": "9 − 3 = 6",
+        "text": "The number in each row",
         "is_correct": false
       },
       {
-        "text": "3 × 3 = 9",
+        "text": "The total of 18 objects",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The model has 3 equal groups of 3, giving 9.",
-      "hint": "Count the groups and the amount in each group."
+      "summary": "Turning the array swaps rows and columns but keeps all 18 objects.",
+      "hint": "No objects are added or removed."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-016",
@@ -553,35 +635,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "check_equal_groups",
+    "skill": "unequal_group_misconception",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-016",
-      "alt_text": "At the biscuit table: Three groups containing 3, 3, and 4 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the biscuit table, are groups of 3, 3 and 4 equal groups?",
-    "audio_prompt": "At the biscuit table, are groups of 3, 3 and 4 equal groups?",
+    "question": "A model has groups of 4, 4 and 5 counters. Why can’t 3 × 4 describe the whole model?",
+    "audio_prompt": "A model has groups of 4, 4 and 5 counters. Why can’t 3 × 4 describe the whole model?",
     "answers": [
       {
-        "text": "No",
+        "text": "The third group is not equal to the others",
         "is_correct": true
       },
       {
-        "text": "Yes",
+        "text": "There are too many groups",
         "is_correct": false
       },
       {
-        "text": "Only if they are in a row",
+        "text": "Four cannot be multiplied",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "One group has 4, so the groups are not equal.",
-      "hint": "Count every group, not just the first two."
+      "summary": "Three times 4 requires all three groups to contain exactly 4.",
+      "hint": "Compare the size of every group."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-017",
@@ -589,35 +677,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "count_equal_groups",
+    "skill": "find_unknown_groups",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-017",
-      "alt_text": "In the array game: 4 equal groups with 4 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the array game, how many counters are in 4 equal groups of 4?",
-    "audio_prompt": "In the array game, how many counters are in 4 equal groups of 4?",
+    "question": "Complete: ___ groups of 3 make 21.",
+    "audio_prompt": "Complete: ___ groups of 3 make 21.",
     "answers": [
       {
-        "text": "15",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "16",
+        "text": "7",
         "is_correct": true
       },
       {
-        "text": "20",
+        "text": "18",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "4 groups of 4 make 16.",
-      "hint": "Add 4 once for each group."
+      "summary": "Seven groups of 3 make 21 because 7 × 3 = 21.",
+      "hint": "Skip-count by threes to 21."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-018",
@@ -625,35 +719,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "write_repeated_addition",
+    "skill": "find_unknown_group_size",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-018",
-      "alt_text": "In the array game: 4 equal groups of 4 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the array game, which repeated addition matches 4 groups of 4?",
-    "audio_prompt": "In the array game, which repeated addition matches 4 groups of 4?",
+    "question": "Five equal groups contain 20 objects altogether. How many are in each group?",
+    "audio_prompt": "Five equal groups contain 20 objects altogether. How many are in each group?",
     "answers": [
       {
-        "text": "4 + 4 + 4 + 4 + 1",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "16 − 4",
+        "text": "15",
         "is_correct": false
       },
       {
-        "text": "4 + 4 + 4 + 4",
+        "text": "4",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Repeat 4 once for every group: 4 + 4 + 4 + 4.",
-      "hint": "The number in each group is the addend."
+      "summary": "20 ÷ 5 = 4, so each group contains 4.",
+      "hint": "Share the total across the five groups."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-019",
@@ -661,35 +761,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "share_equally",
+    "skill": "partition_array",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-019",
-      "alt_text": "In the array game: 16 counters shared into 4 equal groups of 4."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the array game, 16 counters are shared equally into 4 groups. How many go in each group?",
-    "audio_prompt": "In the array game, 16 counters are shared equally into 4 groups. How many go in each group?",
+    "question": "An array has 7 rows of 3. Split it into 5 rows and 2 rows. Which calculation gives the total?",
+    "audio_prompt": "An array has 7 rows of 3. Split it into 5 rows and 2 rows. Which calculation gives the total?",
     "answers": [
       {
-        "text": "4",
+        "text": "15 + 6 = 21",
         "is_correct": true
       },
       {
-        "text": "5",
+        "text": "5 + 2 = 7",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "15 + 2 = 17",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "16 ÷ 4 = 4, so each group gets 4.",
-      "hint": "Share one counter to every group until none are left."
+      "summary": "Five rows of 3 make 15 and two rows of 3 make 6; together they make 21.",
+      "hint": "Keep 3 objects in every row."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-020",
@@ -697,35 +803,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "read_array",
+    "skill": "choose_representation",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-020",
-      "alt_text": "In the array game: An array with 4 rows and 4 dots in each row."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the array game, an array has 4 rows with 4 dots in each row. How many dots are there?",
-    "audio_prompt": "In the array game, an array has 4 rows with 4 dots in each row. How many dots are there?",
+    "question": "Which representation best shows 4 bags with 6 oranges in each bag?",
+    "audio_prompt": "Which representation best shows 4 bags with 6 oranges in each bag?",
     "answers": [
       {
-        "text": "15",
+        "text": "One group of 10 counters",
         "is_correct": false
       },
       {
-        "text": "16",
+        "text": "Four equal groups of 6 counters",
         "is_correct": true
       },
       {
-        "text": "20",
+        "text": "Groups containing 4, 5, 6 and 7 counters",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Each of the 4 rows has 4 dots, so there are 16.",
-      "hint": "Skip-count by 4 for every row."
+      "summary": "Four equal groups of 6 preserve both quantities in the story.",
+      "hint": "Model the groups and the amount in each."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N05-P-021",
@@ -733,521 +845,18 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "identify_equal_group_model",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-021",
-      "alt_text": "In the array game: Several groups, each containing 4 counters."
-    },
-    "question": "In the array game, which groups can show multiplication?",
-    "audio_prompt": "In the array game, which groups can show multiplication?",
-    "answers": [
-      {
-        "text": "Groups with different amounts",
-        "is_correct": false
-      },
-      {
-        "text": "One group with no objects",
-        "is_correct": false
-      },
-      {
-        "text": "Groups with the same number in each",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiplication uses equal groups.",
-      "hint": "Compare every group before you count the total."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2N05-P-022",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "division_find_number_of_groups",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-022",
-      "alt_text": "In the array game: 20 biscuits arranged in groups of 4."
-    },
-    "question": "In the array game, 20 biscuits are packed 4 in each bag. How many bags are needed?",
-    "audio_prompt": "In the array game, 20 biscuits are packed 4 in each bag. How many bags are needed?",
-    "answers": [
-      {
-        "text": "5",
-        "is_correct": true
-      },
-      {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "20 divided into groups of 4 makes 5 bags.",
-      "hint": "Circle groups of 4 and count the circles."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2N05-P-023",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "match_multiplication_sentence",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-023",
-      "alt_text": "In the array game: 4 equal groups containing 4 counters each."
-    },
-    "question": "In the array game, which number sentence matches the model?",
-    "audio_prompt": "In the array game, which number sentence matches the model?",
-    "answers": [
-      {
-        "text": "4 + 4 = 8",
-        "is_correct": false
-      },
-      {
-        "text": "4 × 4 = 16",
-        "is_correct": true
-      },
-      {
-        "text": "16 − 4 = 12",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The model has 4 equal groups of 4, giving 16.",
-      "hint": "Count the groups and the amount in each group."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2N05-P-024",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "check_equal_groups",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-p-024",
-      "alt_text": "In the array game: Three groups containing 4, 4, and 5 counters."
-    },
-    "question": "In the array game, are groups of 4, 4 and 5 equal groups?",
-    "audio_prompt": "In the array game, are groups of 4, 4 and 5 equal groups?",
-    "answers": [
-      {
-        "text": "Yes",
-        "is_correct": false
-      },
-      {
-        "text": "Only if they are in a row",
-        "is_correct": false
-      },
-      {
-        "text": "No",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "One group has 5, so the groups are not equal.",
-      "hint": "Count every group, not just the first two."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2N05-P-025",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_school_garden_2_groups",
+    "skill": "division_relationship",
     "visual": {
       "type": "none",
-      "alt_text": "At the school garden, 2 groups of 2 make how many?"
+      "alt_text": ""
     },
-    "question": "At the school garden, 2 groups of 2 make how many?",
-    "audio_prompt": "At the school garden, 2 groups of 2 make how many?",
-    "answers": [
-      {
-        "text": "4",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "2",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-026",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "during_maths_groups_an_array_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, an array has 3 rows with 3 in each row. How many altogether?"
-    },
-    "question": "During maths groups, an array has 3 rows with 3 in each row. How many altogether?",
-    "audio_prompt": "During maths groups, an array has 3 rows with 3 in each row. How many altogether?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-027",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_art_table_16_counters",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, 16 counters are shared into 4 equal groups. How many in each group?"
-    },
-    "question": "At the art table, 16 counters are shared into 4 equal groups. How many in each group?",
-    "audio_prompt": "At the art table, 16 counters are shared into 4 equal groups. How many in each group?",
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "4",
-        "is_correct": true
-      },
-      {
-        "text": "5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-028",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "in_the_playground_5_groups_of",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, 5 groups of 5 make how many?"
-    },
-    "question": "In the playground, 5 groups of 5 make how many?",
-    "audio_prompt": "In the playground, 5 groups of 5 make how many?",
-    "answers": [
-      {
-        "text": "25",
-        "is_correct": true
-      },
-      {
-        "text": "30",
-        "is_correct": false
-      },
-      {
-        "text": "20",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-029",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_library_an_array_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, an array has 6 rows with 10 in each row. How many altogether?"
-    },
-    "question": "At the library, an array has 6 rows with 10 in each row. How many altogether?",
-    "audio_prompt": "At the library, an array has 6 rows with 10 in each row. How many altogether?",
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "61",
-        "is_correct": false
-      },
-      {
-        "text": "60",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-030",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "during_sport_14_counters_are_shared",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, 14 counters are shared into 7 equal groups. How many in each group?"
-    },
-    "question": "During sport, 14 counters are shared into 7 equal groups. How many in each group?",
-    "audio_prompt": "During sport, 14 counters are shared into 7 equal groups. How many in each group?",
-    "answers": [
-      {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "2",
-        "is_correct": true
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-031",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_class_shop_2_groups",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, 2 groups of 3 make how many?"
-    },
-    "question": "At the class shop, 2 groups of 3 make how many?",
-    "audio_prompt": "At the class shop, 2 groups of 3 make how many?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-032",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_an_array",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, an array has 3 rows with 4 in each row. How many altogether?"
-    },
-    "question": "On the picnic rug, an array has 3 rows with 4 in each row. How many altogether?",
-    "audio_prompt": "On the picnic rug, an array has 3 rows with 4 in each row. How many altogether?",
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-033",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_block_table_20_counters",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, 20 counters are shared into 4 equal groups. How many in each group?"
-    },
-    "question": "At the block table, 20 counters are shared into 4 equal groups. How many in each group?",
-    "audio_prompt": "At the block table, 20 counters are shared into 4 equal groups. How many in each group?",
-    "answers": [
-      {
-        "text": "20",
-        "is_correct": false
-      },
-      {
-        "text": "5",
-        "is_correct": true
-      },
-      {
-        "text": "4",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-034",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_5_groups",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, 5 groups of 10 make how many?"
-    },
-    "question": "In the lunch area, 5 groups of 10 make how many?",
-    "audio_prompt": "In the lunch area, 5 groups of 10 make how many?",
-    "answers": [
-      {
-        "text": "50",
-        "is_correct": true
-      },
-      {
-        "text": "55",
-        "is_correct": false
-      },
-      {
-        "text": "40",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-035",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_science_table_an_array",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, an array has 6 rows with 2 in each row. How many altogether?"
-    },
-    "question": "At the science table, an array has 6 rows with 2 in each row. How many altogether?",
-    "audio_prompt": "At the science table, an array has 6 rows with 2 in each row. How many altogether?",
+    "question": "Use 8 × 3 = 24 to find 24 ÷ 8.",
+    "audio_prompt": "Use 8 × 3 = 24 to find 24 ÷ 8.",
     "answers": [
       {
         "text": "8",
         "is_correct": false
       },
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-036",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "during_a_card_game_21_counters",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, 21 counters are shared into 7 equal groups. How many in each group?"
-    },
-    "question": "During a card game, 21 counters are shared into 7 equal groups. How many in each group?",
-    "audio_prompt": "During a card game, 21 counters are shared into 7 equal groups. How many in each group?",
-    "answers": [
       {
         "text": "21",
         "is_correct": false
@@ -1255,412 +864,147 @@
       {
         "text": "3",
         "is_correct": true
-      },
-      {
-        "text": "7",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "Because 8 groups of 3 make 24, dividing 24 by 8 gives 3.",
+      "hint": "Ask what multiplies by 8 to make 24."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
-    "id": "AC9M2N05-P-037",
+    "id": "AC9M2N05-P-022",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "at_the_school_garden_2_groups",
+    "skill": "compare_models",
     "visual": {
       "type": "none",
-      "alt_text": "At the school garden, 2 groups of 4 make how many?"
+      "alt_text": ""
     },
-    "question": "At the school garden, 2 groups of 4 make how many?",
-    "audio_prompt": "At the school garden, 2 groups of 4 make how many?",
+    "question": "Which two models have the same total?",
+    "audio_prompt": "Which two models have the same total?",
     "answers": [
       {
-        "text": "8",
+        "text": "3 groups of 4 and 2 groups of 6",
         "is_correct": true
       },
       {
-        "text": "10",
+        "text": "4 groups of 4 and 3 groups of 5",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "5 groups of 2 and 4 groups of 3",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "Both 3 × 4 and 2 × 6 equal 12.",
+      "hint": "Calculate each model’s total."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
-    "id": "AC9M2N05-P-038",
+    "id": "AC9M2N05-P-023",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "during_maths_groups_an_array_has",
+    "skill": "reason_about_division",
     "visual": {
       "type": "none",
-      "alt_text": "During maths groups, an array has 3 rows with 5 in each row. How many altogether?"
+      "alt_text": ""
     },
-    "question": "During maths groups, an array has 3 rows with 5 in each row. How many altogether?",
-    "audio_prompt": "During maths groups, an array has 3 rows with 5 in each row. How many altogether?",
+    "question": "Twenty-four tiles make 6 equal rows. A student says there are 5 tiles in each row. What shows the error?",
+    "audio_prompt": "Twenty-four tiles make 6 equal rows. A student says there are 5 tiles in each row. What shows the error?",
     "answers": [
       {
-        "text": "8",
+        "text": "24 − 6 is 18",
         "is_correct": false
       },
       {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-039",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_art_table_40_counters",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, 40 counters are shared into 4 equal groups. How many in each group?"
-    },
-    "question": "At the art table, 40 counters are shared into 4 equal groups. How many in each group?",
-    "audio_prompt": "At the art table, 40 counters are shared into 4 equal groups. How many in each group?",
-    "answers": [
-      {
-        "text": "40",
-        "is_correct": false
-      },
-      {
-        "text": "10",
+        "text": "6 × 5 is 30, not 24",
         "is_correct": true
       },
       {
-        "text": "4",
+        "text": "There must be 6 tiles in every row",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "If each row had 5, six rows would contain 30; the correct row size is 4.",
+      "hint": "Multiply the proposed row size by the row count."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
-    "id": "AC9M2N05-P-040",
+    "id": "AC9M2N05-P-024",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "practice",
-    "skill": "in_the_playground_5_groups_of",
+    "skill": "complete_relationship",
     "visual": {
       "type": "none",
-      "alt_text": "In the playground, 5 groups of 2 make how many?"
+      "alt_text": ""
     },
-    "question": "In the playground, 5 groups of 2 make how many?",
-    "audio_prompt": "In the playground, 5 groups of 2 make how many?",
+    "question": "Complete both facts: 5 × ___ = 30 and 30 ÷ 5 = ___.",
+    "audio_prompt": "Complete both facts: 5 × ___ = 30 and 30 ÷ 5 = ___.",
     "answers": [
       {
-        "text": "10",
-        "is_correct": true
-      },
-      {
-        "text": "15",
+        "text": "5 and 6",
         "is_correct": false
       },
       {
-        "text": "8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-041",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_library_an_array_has",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, an array has 6 rows with 3 in each row. How many altogether?"
-    },
-    "question": "At the library, an array has 6 rows with 3 in each row. How many altogether?",
-    "audio_prompt": "At the library, an array has 6 rows with 3 in each row. How many altogether?",
-    "answers": [
-      {
-        "text": "9",
+        "text": "6 and 5",
         "is_correct": false
       },
       {
-        "text": "19",
-        "is_correct": false
-      },
-      {
-        "text": "18",
+        "text": "6 and 6",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-042",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "during_sport_28_counters_are_shared",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, 28 counters are shared into 7 equal groups. How many in each group?"
+      "summary": "Five groups of 6 make 30, so 30 divided by 5 is 6.",
+      "hint": "The same unknown appears in the related facts."
     },
-    "question": "During sport, 28 counters are shared into 7 equal groups. How many in each group?",
-    "audio_prompt": "During sport, 28 counters are shared into 7 equal groups. How many in each group?",
-    "answers": [
-      {
-        "text": "28",
-        "is_correct": false
-      },
-      {
-        "text": "4",
-        "is_correct": true
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-043",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_class_shop_2_groups",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, 2 groups of 5 make how many?"
-    },
-    "question": "At the class shop, 2 groups of 5 make how many?",
-    "audio_prompt": "At the class shop, 2 groups of 5 make how many?",
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": true
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-044",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_an_array",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, an array has 3 rows with 10 in each row. How many altogether?"
-    },
-    "question": "On the picnic rug, an array has 3 rows with 10 in each row. How many altogether?",
-    "audio_prompt": "On the picnic rug, an array has 3 rows with 10 in each row. How many altogether?",
-    "answers": [
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "31",
-        "is_correct": false
-      },
-      {
-        "text": "30",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-045",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_block_table_8_counters",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, 8 counters are shared into 4 equal groups. How many in each group?"
-    },
-    "question": "At the block table, 8 counters are shared into 4 equal groups. How many in each group?",
-    "audio_prompt": "At the block table, 8 counters are shared into 4 equal groups. How many in each group?",
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "2",
-        "is_correct": true
-      },
-      {
-        "text": "4",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-046",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_5_groups",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, 5 groups of 3 make how many?"
-    },
-    "question": "In the lunch area, 5 groups of 3 make how many?",
-    "audio_prompt": "In the lunch area, 5 groups of 3 make how many?",
-    "answers": [
-      {
-        "text": "15",
-        "is_correct": true
-      },
-      {
-        "text": "20",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-047",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "at_the_science_table_an_array",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, an array has 6 rows with 4 in each row. How many altogether?"
-    },
-    "question": "At the science table, an array has 6 rows with 4 in each row. How many altogether?",
-    "audio_prompt": "At the science table, an array has 6 rows with 4 in each row. How many altogether?",
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "25",
-        "is_correct": false
-      },
-      {
-        "text": "24",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N05-P-048",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N05",
-    "bank": "practice",
-    "skill": "during_a_card_game_35_counters",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, 35 counters are shared into 7 equal groups. How many in each group?"
-    },
-    "question": "During a card game, 35 counters are shared into 7 equal groups. How many in each group?",
-    "audio_prompt": "During a card game, 35 counters are shared into 7 equal groups. How many in each group?",
-    "answers": [
-      {
-        "text": "35",
-        "is_correct": false
-      },
-      {
-        "text": "5",
-        "is_correct": true
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Equal groups can be counted by repeated addition.",
-      "hint": "Use the information in the question to check your answer."
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1669,32 +1013,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "count_equal_groups",
+    "skill": "repeated_addition",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-001",
-      "alt_text": "At the sharing station: 5 equal groups with 2 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sharing station, how many counters are in 5 equal groups of 2?",
-    "audio_prompt": "At the sharing station, how many counters are in 5 equal groups of 2?",
+    "question": "Which addition sentence represents 5 groups of 4?",
+    "audio_prompt": "Which addition sentence represents 5 groups of 4?",
     "answers": [
       {
-        "text": "10",
+        "text": "4 + 4 + 4 + 4 + 4",
         "is_correct": true
       },
       {
-        "text": "9",
+        "text": "5 + 5 + 5 + 5",
         "is_correct": false
       },
       {
-        "text": "12",
+        "text": "5 + 4",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "5 groups of 2 make 10.",
-      "hint": "Add 2 once for each group."
+      "summary": "Five equal groups of 4 require five addends of 4.",
+      "hint": "Count groups, then write each group size."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1703,32 +1055,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "write_repeated_addition",
+    "skill": "equal_groups_total",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-002",
-      "alt_text": "At the sharing station: 5 equal groups of 2 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sharing station, which repeated addition matches 5 groups of 2?",
-    "audio_prompt": "At the sharing station, which repeated addition matches 5 groups of 2?",
+    "question": "Seven baskets hold 3 balls each. How many balls are there?",
+    "audio_prompt": "Seven baskets hold 3 balls each. How many balls are there?",
     "answers": [
       {
-        "text": "5 + 5 + 1",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "2 + 2 + 2 + 2 + 2",
+        "text": "21",
         "is_correct": true
       },
       {
-        "text": "10 − 2",
+        "text": "73",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Repeat 2 once for every group: 2 + 2 + 2 + 2 + 2.",
-      "hint": "The number in each group is the addend."
+      "summary": "Seven groups of 3 make 21.",
+      "hint": "Skip-count by threes seven times."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1737,32 +1097,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "share_equally",
+    "skill": "array_expression",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-003",
-      "alt_text": "At the sharing station: 10 counters shared into 5 equal groups of 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sharing station, 10 counters are shared equally into 5 groups. How many go in each group?",
-    "audio_prompt": "At the sharing station, 10 counters are shared equally into 5 groups. How many go in each group?",
+    "question": "An array has 4 rows with 6 squares in each row. Which expression matches it?",
+    "audio_prompt": "An array has 4 rows with 6 squares in each row. Which expression matches it?",
     "answers": [
       {
-        "text": "3",
+        "text": "4 + 6",
         "is_correct": false
       },
       {
-        "text": "1",
+        "text": "6 − 4",
         "is_correct": false
       },
       {
-        "text": "2",
+        "text": "4 × 6",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "10 ÷ 5 = 2, so each group gets 2.",
-      "hint": "Share one counter to every group until none are left."
+      "summary": "Rows × squares per row gives 4 × 6.",
+      "hint": "Keep rows and row size distinct."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1771,32 +1139,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "read_array",
+    "skill": "make_array",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-004",
-      "alt_text": "At the sharing station: An array with 5 rows and 2 dots in each row."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sharing station, an array has 5 rows with 2 dots in each row. How many dots are there?",
-    "audio_prompt": "At the sharing station, an array has 5 rows with 2 dots in each row. How many dots are there?",
+    "question": "Which array can model 18 ÷ 3?",
+    "audio_prompt": "Which array can model 18 ÷ 3?",
     "answers": [
       {
-        "text": "10",
+        "text": "18 objects arranged in 3 equal rows",
         "is_correct": true
       },
       {
-        "text": "9",
+        "text": "18 rows with 3 objects in each",
         "is_correct": false
       },
       {
-        "text": "15",
+        "text": "3 objects arranged unevenly",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Each of the 5 rows has 2 dots, so there are 10.",
-      "hint": "Skip-count by 2 for every row."
+      "summary": "Dividing 18 into 3 equal rows finds the number in each row.",
+      "hint": "The array must contain 18 objects total."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1805,32 +1181,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "identify_equal_group_model",
+    "skill": "sharing_division",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-005",
-      "alt_text": "At the sharing station: Several groups, each containing 2 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sharing station, which groups can show multiplication?",
-    "audio_prompt": "At the sharing station, which groups can show multiplication?",
+    "question": "Twenty-eight cards are shared equally among 7 players. How many cards does each player receive?",
+    "audio_prompt": "Twenty-eight cards are shared equally among 7 players. How many cards does each player receive?",
     "answers": [
       {
-        "text": "Groups with different amounts",
+        "text": "7",
         "is_correct": false
       },
       {
-        "text": "Groups with the same number in each",
+        "text": "4",
         "is_correct": true
       },
       {
-        "text": "One group with no objects",
+        "text": "21",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Multiplication uses equal groups.",
-      "hint": "Compare every group before you count the total."
+      "summary": "28 ÷ 7 = 4.",
+      "hint": "Use the related fact 7 × 4 = 28."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1839,32 +1223,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "division_find_number_of_groups",
+    "skill": "grouping_division",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-006",
-      "alt_text": "At the sharing station: 12 biscuits arranged in groups of 2."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sharing station, 12 biscuits are packed 2 in each bag. How many bags are needed?",
-    "audio_prompt": "At the sharing station, 12 biscuits are packed 2 in each bag. How many bags are needed?",
+    "question": "A baker packs 24 rolls, 6 per tray. How many trays are filled?",
+    "audio_prompt": "A baker packs 24 rolls, 6 per tray. How many trays are filled?",
     "answers": [
       {
-        "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
         "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "12 divided into groups of 2 makes 6 bags.",
-      "hint": "Circle groups of 2 and count the circles."
+      "summary": "Four groups of 6 use all 24 rolls.",
+      "hint": "Count groups of six."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1873,32 +1265,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "match_multiplication_sentence",
+    "skill": "relate_addition_multiplication",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-007",
-      "alt_text": "At the sharing station: 5 equal groups containing 2 counters each."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sharing station, which number sentence matches the model?",
-    "audio_prompt": "At the sharing station, which number sentence matches the model?",
+    "question": "Which pair describes the same equal-group model?",
+    "audio_prompt": "Which pair describes the same equal-group model?",
     "answers": [
       {
-        "text": "5 × 2 = 10",
+        "text": "5 + 5 + 5 and 3 × 5",
         "is_correct": true
       },
       {
-        "text": "5 + 2 = 7",
+        "text": "3 + 3 + 3 and 3 × 5",
         "is_correct": false
       },
       {
-        "text": "10 − 2 = 8",
+        "text": "5 + 3 and 5 × 3",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The model has 5 equal groups of 2, giving 10.",
-      "hint": "Count the groups and the amount in each group."
+      "summary": "Three addends of 5 are three groups of 5.",
+      "hint": "Match the number of groups and group size."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1907,32 +1307,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "check_equal_groups",
+    "skill": "relate_multiplication_division",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-008",
-      "alt_text": "At the sharing station: Three groups containing 2, 2, and 3 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the sharing station, are groups of 2, 2 and 3 equal groups?",
-    "audio_prompt": "At the sharing station, are groups of 2, 2 and 3 equal groups?",
+    "question": "If 6 × 4 = 24, what is 24 ÷ 4?",
+    "audio_prompt": "If 6 × 4 = 24, what is 24 ÷ 4?",
     "answers": [
       {
-        "text": "Yes",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "No",
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "Only if they are in a row",
+        "text": "20",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One group has 3, so the groups are not equal.",
-      "hint": "Count every group, not just the first two."
+      "summary": "Twenty-four divided into groups of 4 makes 6 groups.",
+      "hint": "Use the related multiplication fact."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1941,32 +1349,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "count_equal_groups",
+    "skill": "partition_strategy",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-009",
-      "alt_text": "With the marble bags: 6 equal groups with 3 counters in each group."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the marble bags, how many counters are in 6 equal groups of 3?",
-    "audio_prompt": "With the marble bags, how many counters are in 6 equal groups of 3?",
+    "question": "Which partition correctly finds 8 groups of 5?",
+    "audio_prompt": "Which partition correctly finds 8 groups of 5?",
     "answers": [
       {
-        "text": "17",
+        "text": "8 groups plus 5 groups",
         "is_correct": false
       },
       {
-        "text": "21",
+        "text": "5 groups of 8 plus 3",
         "is_correct": false
       },
       {
-        "text": "18",
+        "text": "5 groups of 5 plus 3 groups of 5",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "6 groups of 3 make 18.",
-      "hint": "Add 3 once for each group."
+      "summary": "Five groups of 5 make 25 and three groups make 15; together they make 40.",
+      "hint": "Split only the number of groups."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -1975,32 +1391,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "write_repeated_addition",
+    "skill": "unknown_factor",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-010",
-      "alt_text": "With the marble bags: 6 equal groups of 3 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the marble bags, which repeated addition matches 6 groups of 3?",
-    "audio_prompt": "With the marble bags, which repeated addition matches 6 groups of 3?",
+    "question": "Complete: ___ × 4 = 28.",
+    "audio_prompt": "Complete: ___ × 4 = 28.",
     "answers": [
       {
-        "text": "3 + 3 + 3 + 3 + 3 + 3",
+        "text": "7",
         "is_correct": true
       },
       {
-        "text": "6 + 6 + 6 + 1",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "18 − 3",
+        "text": "8",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Repeat 3 once for every group: 3 + 3 + 3 + 3 + 3 + 3.",
-      "hint": "The number in each group is the addend."
+      "summary": "Seven groups of 4 make 28.",
+      "hint": "Count by fours to 28."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2009,32 +1433,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "share_equally",
+    "skill": "unknown_divisor_result",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-011",
-      "alt_text": "With the marble bags: 18 counters shared into 6 equal groups of 3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the marble bags, 18 counters are shared equally into 6 groups. How many go in each group?",
-    "audio_prompt": "With the marble bags, 18 counters are shared equally into 6 groups. How many go in each group?",
+    "question": "Thirty objects are placed into 5 equal groups. Complete 30 ÷ 5 = ___.",
+    "audio_prompt": "Thirty objects are placed into 5 equal groups. Complete 30 ÷ 5 = ___.",
     "answers": [
       {
-        "text": "4",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "2",
+        "text": "25",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "18 ÷ 6 = 3, so each group gets 3.",
-      "hint": "Share one counter to every group until none are left."
+      "summary": "Each of the five groups receives 6 objects.",
+      "hint": "Check with 5 × 6."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2043,32 +1475,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "read_array",
+    "skill": "array_rotation",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-012",
-      "alt_text": "With the marble bags: An array with 6 rows and 3 dots in each row."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the marble bags, an array has 6 rows with 3 dots in each row. How many dots are there?",
-    "audio_prompt": "With the marble bags, an array has 6 rows with 3 dots in each row. How many dots are there?",
+    "question": "Why do 2 × 9 and 9 × 2 have the same total?",
+    "audio_prompt": "Why do 2 × 9 and 9 × 2 have the same total?",
     "answers": [
       {
-        "text": "17",
+        "text": "Both have 9 rows",
         "is_correct": false
       },
       {
-        "text": "24",
+        "text": "Addition and division are identical",
         "is_correct": false
       },
       {
-        "text": "18",
+        "text": "They describe the same 18-object array turned around",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Each of the 6 rows has 3 dots, so there are 18.",
-      "hint": "Skip-count by 3 for every row."
+      "summary": "Turning a 2-by-9 array makes a 9-by-2 array without changing the total.",
+      "hint": "Imagine swapping rows and columns."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2077,32 +1517,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "identify_equal_group_model",
+    "skill": "unequal_groups",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-013",
-      "alt_text": "With the marble bags: Several groups, each containing 3 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the marble bags, which groups can show multiplication?",
-    "audio_prompt": "With the marble bags, which groups can show multiplication?",
+    "question": "Three boxes contain 5, 5 and 4 pencils. Which statement is accurate?",
+    "audio_prompt": "Three boxes contain 5, 5 and 4 pencils. Which statement is accurate?",
     "answers": [
       {
-        "text": "Groups with the same number in each",
+        "text": "The boxes are not three equal groups of 5",
         "is_correct": true
       },
       {
-        "text": "Groups with different amounts",
+        "text": "The total is 3 × 5",
         "is_correct": false
       },
       {
-        "text": "One group with no objects",
+        "text": "Each box contains 14 pencils",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Multiplication uses equal groups.",
-      "hint": "Compare every group before you count the total."
+      "summary": "One box has only 4, so 3 × 5 would count one extra pencil.",
+      "hint": "Check every group’s size."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2111,32 +1559,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "division_find_number_of_groups",
+    "skill": "inverse_reasoning",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-014",
-      "alt_text": "With the marble bags: 21 biscuits arranged in groups of 3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the marble bags, 21 biscuits are packed 3 in each bag. How many bags are needed?",
-    "audio_prompt": "With the marble bags, 21 biscuits are packed 3 in each bag. How many bags are needed?",
+    "question": "A student knows 9 × 3 = 27. Which question can that fact solve directly?",
+    "audio_prompt": "A student knows 9 × 3 = 27. Which question can that fact solve directly?",
     "answers": [
       {
-        "text": "6",
+        "text": "How many are left after 3 is taken from 27?",
         "is_correct": false
       },
       {
-        "text": "7",
+        "text": "How many groups of 3 are in 27?",
         "is_correct": true
       },
       {
-        "text": "8",
+        "text": "What is 27 + 9?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "21 divided into groups of 3 makes 7 bags.",
-      "hint": "Circle groups of 3 and count the circles."
+      "summary": "The fact shows that 27 contains 9 groups of 3.",
+      "hint": "Look for the matching division relationship."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2145,32 +1601,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "match_multiplication_sentence",
+    "skill": "compare_strategies",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-015",
-      "alt_text": "With the marble bags: 6 equal groups containing 3 counters each."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the marble bags, which number sentence matches the model?",
-    "audio_prompt": "With the marble bags, which number sentence matches the model?",
+    "question": "For 6 × 4, which strategy keeps equal groups visible?",
+    "audio_prompt": "For 6 × 4, which strategy keeps equal groups visible?",
     "answers": [
       {
-        "text": "6 + 3 = 9",
+        "text": "Add 6 and 4 once",
         "is_correct": false
       },
       {
-        "text": "18 − 3 = 15",
+        "text": "Make groups of 4, 4, 4, 4, 4 and 5",
         "is_correct": false
       },
       {
-        "text": "6 × 3 = 18",
+        "text": "Add 4 six times or split into 5 × 4 and 1 × 4",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The model has 6 equal groups of 3, giving 18.",
-      "hint": "Count the groups and the amount in each group."
+      "summary": "Both valid methods preserve six equal groups of 4.",
+      "hint": "The group size must remain 4."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   },
   {
@@ -2179,32 +1643,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N05",
     "bank": "test",
-    "skill": "check_equal_groups",
+    "skill": "reason_from_remainder",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n05.svg#ac9m2n05-t-016",
-      "alt_text": "With the marble bags: Three groups containing 3, 3, and 4 counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With the marble bags, are groups of 3, 3 and 4 equal groups?",
-    "audio_prompt": "With the marble bags, are groups of 3, 3 and 4 equal groups?",
+    "question": "Seventeen counters are put into groups of 4. Which conclusion is correct?",
+    "audio_prompt": "Seventeen counters are put into groups of 4. Which conclusion is correct?",
     "answers": [
       {
-        "text": "No",
+        "text": "Four full groups can be made, with 1 counter left",
         "is_correct": true
       },
       {
-        "text": "Yes",
+        "text": "Five equal groups of 4 can be made",
         "is_correct": false
       },
       {
-        "text": "Only if they are in a row",
+        "text": "Four groups contain 17 counters each",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "One group has 4, so the groups are not equal.",
-      "hint": "Count every group, not just the first two."
+      "summary": "Four groups use 16 counters, leaving 1; 17 cannot form only complete groups of 4.",
+      "hint": "Find the largest multiple of 4 not above 17."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL skill pages, live prompts and worked examples were inspected sequentially; coverage and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n04-n06.md. No IXL wording or media was copied."
     }
   }
 ]

@@ -4,31 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-001",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "model money addition",
+    "skill": "choose addition model",
     "printable": true,
     "type": "single",
-    "question": "In the class shop, a notebook costs $5 and a pen costs $3. How much do they cost altogether?",
-    "audioPrompt": "In the class shop, a notebook costs $5 and a pen costs $3. How much do they cost altogether?",
-    "visual": "In the class shop: A notebook labelled $5 and a pen labelled $3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the class shop: A notebook labelled $5 and a pen labelled $3.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-001\"></use></svg>",
+    "question": "The library has 26 picture books and receives 18 more. Which number sentence models the new total?",
+    "audioPrompt": "The library has 26 picture books and receives 18 more. Which number sentence models the new total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-001",
-      "alt_text": "In the class shop: A notebook labelled $5 and a pen labelled $3."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "$2",
-      "$8",
-      "$9"
+      "26 + 18 = ?",
+      "26 − 18 = ?",
+      "26 × 18 = ?"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Join the two costs: $5 + $3 = $8.\nHint: Altogether means add the amounts.",
+    "correct": 0,
+    "explanation": "The collections join, so addition represents the situation.\nHint: Look for language showing an amount is added.",
     "structuredExplanation": {
-      "summary": "Join the two costs: $5 + $3 = $8.",
-      "hint": "Altogether means add the amounts."
+      "summary": "The collections join, so addition represents the situation.",
+      "hint": "Look for language showing an amount is added."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,31 +35,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-002",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "model money change",
+    "skill": "choose subtraction model",
     "printable": true,
     "type": "single",
-    "question": "In the class shop, kai pays $20 for a toy that costs $8. How much change should Kai get?",
-    "audioPrompt": "In the class shop, kai pays $20 for a toy that costs $8. How much change should Kai get?",
-    "visual": "In the class shop: A $20 payment and a toy price of $8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the class shop: A $20 payment and a toy price of $8.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-002\"></use></svg>",
+    "question": "There are 43 seedlings. Twelve are planted. Which number sentence finds how many remain?",
+    "audioPrompt": "There are 43 seedlings. Twelve are planted. Which number sentence finds how many remain?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-002",
-      "alt_text": "In the class shop: A $20 payment and a toy price of $8."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "$28",
-      "$13",
-      "$12"
+      "43 + 12 = ?",
+      "43 − 12 = ?",
+      "12 − 43 = ?"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "Change is the amount left: $20 − $8 = $12.\nHint: Start with the amount paid and subtract the cost.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The planted seedlings leave the starting group, so subtract 12 from 43.\nHint: Start with the whole amount.",
     "structuredExplanation": {
-      "summary": "Change is the amount left: $20 − $8 = $12.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "The planted seedlings leave the starting group, so subtract 12 from 43.",
+      "hint": "Start with the whole amount."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,31 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-003",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "choose operation for equal groups",
+    "skill": "choose multiplication model",
     "printable": true,
     "type": "single",
-    "question": "In the class shop, there are 4 bags with 3 apples in each bag. Which operation finds all the apples?",
-    "audioPrompt": "In the class shop, there are 4 bags with 3 apples in each bag. Which operation finds all the apples?",
-    "visual": "In the class shop: 4 bags with 3 apples in every bag.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the class shop: 4 bags with 3 apples in every bag.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-003\"></use></svg>",
+    "question": "Five trays hold 4 muffins each. Which representation finds the total?",
+    "audioPrompt": "Five trays hold 4 muffins each. Which representation finds the total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-003",
-      "alt_text": "In the class shop: 4 bags with 3 apples in every bag."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Multiplication",
-      "Subtraction",
-      "Measuring length"
+      "5 + 4",
+      "5 − 4",
+      "4 + 4 + 4 + 4 + 4"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Equal groups are modelled with multiplication: 4 groups of 3.\nHint: Ask whether the story has equal groups.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Five equal groups of 4 are represented by adding 4 five times.\nHint: Represent every tray.",
     "structuredExplanation": {
-      "summary": "Equal groups are modelled with multiplication: 4 groups of 3.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "Five equal groups of 4 are represented by adding 4 five times.",
+      "hint": "Represent every tray."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,31 +97,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-004",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "model equal sharing",
+    "skill": "choose division model",
     "printable": true,
     "type": "single",
-    "question": "In the class shop, 12 crayons are shared equally between 4 tables. How many crayons does each table get?",
-    "audioPrompt": "In the class shop, 12 crayons are shared equally between 4 tables. How many crayons does each table get?",
-    "visual": "In the class shop: 12 crayons shared into 4 equal table groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the class shop: 12 crayons shared into 4 equal table groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-004\"></use></svg>",
+    "question": "Share 20 markers equally among 5 tables. Which calculation finds the amount per table?",
+    "audioPrompt": "Share 20 markers equally among 5 tables. Which calculation finds the amount per table?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-004",
-      "alt_text": "In the class shop: 12 crayons shared into 4 equal table groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "3",
-      "8"
+      "20 ÷ 5",
+      "20 − 5",
+      "20 + 5"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "12 ÷ 4 = 3, so every table gets 3.\nHint: Share the crayons one at a time into 4 equal groups.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Equal sharing into five groups is division.\nHint: Divide the total by the number of groups.",
     "structuredExplanation": {
-      "summary": "12 ÷ 4 = 3, so every table gets 3.",
-      "hint": "Share the crayons one at a time into 4 equal groups."
+      "summary": "Equal sharing into five groups is division.",
+      "hint": "Divide the total by the number of groups."
     },
     "qualitySchema": "production-v1"
   },
@@ -132,31 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-005",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "represent additive situation",
+    "skill": "money total",
     "printable": true,
     "type": "single",
-    "question": "In the class shop, lina has 5 cards and gets 4 more. Which number sentence models the story?",
-    "audioPrompt": "In the class shop, lina has 5 cards and gets 4 more. Which number sentence models the story?",
-    "visual": "In the class shop: A group of 5 cards joined by 4 more cards.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the class shop: A group of 5 cards joined by 4 more cards.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-005\"></use></svg>",
+    "question": "A puzzle costs $7 and a skipping rope costs $5. How much do they cost altogether?",
+    "audioPrompt": "A puzzle costs $7 and a skipping rope costs $5. How much do they cost altogether?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-005",
-      "alt_text": "In the class shop: A group of 5 cards joined by 4 more cards."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "5 − 4 = 1",
-      "5 × 4 = 20",
-      "5 + 4 = 9"
+      "$2",
+      "$12",
+      "$35"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "The cards join, so addition models the story.\nHint: Look for the action: “gets more” means the amount increases.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The total cost is $7 + $5 = $12.\nHint: Add the two prices.",
     "structuredExplanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
+      "summary": "The total cost is $7 + $5 = $12.",
+      "hint": "Add the two prices."
     },
     "qualitySchema": "production-v1"
   },
@@ -164,31 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-006",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "check reasonableness",
+    "skill": "money change",
     "printable": true,
     "type": "single",
-    "question": "In the class shop, a student says 4 bags of 3 marbles make 22 marbles. Is the answer correct?",
-    "audioPrompt": "In the class shop, a student says 4 bags of 3 marbles make 22 marbles. Is the answer correct?",
-    "visual": "In the class shop: 4 bags with 3 marbles in each, compared with a claim of 22.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the class shop: 4 bags with 3 marbles in each, compared with a claim of 22.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-006\"></use></svg>",
+    "question": "A book costs $13. You pay with a $20 note. How much change should you receive?",
+    "audioPrompt": "A book costs $13. You pay with a $20 note. How much change should you receive?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-006",
-      "alt_text": "In the class shop: 4 bags with 3 marbles in each, compared with a claim of 22."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "No, the total should be 12",
-      "Yes, every multiplication answer is large",
-      "No, the total should be 7"
+      "$33",
+      "$6",
+      "$7"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "4 equal groups of 3 make 12, not 22.\nHint: Build or draw the groups to check the answer.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Change is the amount left: $20 − $13 = $7.\nHint: Subtract the cost from the amount paid.",
     "structuredExplanation": {
-      "summary": "4 equal groups of 3 make 12, not 22.",
-      "hint": "Build or draw the groups to check the answer."
+      "summary": "Change is the amount left: $20 − $13 = $7.",
+      "hint": "Subtract the cost from the amount paid."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,31 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-007",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "communicate model solution",
+    "skill": "money equal items",
     "printable": true,
     "type": "single",
-    "question": "In the class shop, which final sentence clearly answers a money problem?",
-    "audioPrompt": "In the class shop, which final sentence clearly answers a money problem?",
-    "visual": "In the class shop: A receipt showing a total of $8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the class shop: A receipt showing a total of $8.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-007\"></use></svg>",
+    "question": "Three identical pencils cost $4 each. What is the total cost?",
+    "audioPrompt": "Three identical pencils cost $4 each. What is the total cost?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-007",
-      "alt_text": "In the class shop: A receipt showing a total of $8."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The answer is 8.",
-      "The two items cost $8 altogether.",
-      "I used addition."
+      "$12",
+      "$7",
+      "$1"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "A complete answer includes the number, dollars and what it means in the story.\nHint: Name the amount and the situation in your final sentence.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Three equal costs of $4 make $4 + $4 + $4 = $12.\nHint: Add $4 once for each pencil.",
     "structuredExplanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "Three equal costs of $4 make $4 + $4 + $4 = $12.",
+      "hint": "Add $4 once for each pencil."
     },
     "qualitySchema": "production-v1"
   },
@@ -228,31 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-008",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "select mathematical model",
+    "skill": "money sharing",
     "printable": true,
     "type": "single",
-    "question": "In the class shop, which is a helpful first step for 4 boxes with 3 pencils in each?",
-    "audioPrompt": "In the class shop, which is a helpful first step for 4 boxes with 3 pencils in each?",
-    "visual": "In the class shop: 4 empty group boxes ready for 3 pencil counters in each.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the class shop: 4 empty group boxes ready for 3 pencil counters in each.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-008\"></use></svg>",
+    "question": "Four friends share a $20 game fee equally. How much does each friend pay?",
+    "audioPrompt": "Four friends share a $20 game fee equally. How much does each friend pay?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-008",
-      "alt_text": "In the class shop: 4 empty group boxes ready for 3 pencil counters in each."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add every number you see",
-      "Guess a large answer",
-      "Draw 4 equal groups of 3"
+      "$4",
+      "$5",
+      "$16"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "A drawing of the equal groups shows the situation before calculating.\nHint: Represent the story, then choose the operation.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "$20 shared into 4 equal parts gives $5 each.\nHint: Use 4 × $5 = $20 to check.",
     "structuredExplanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
+      "summary": "$20 shared into 4 equal parts gives $5 each.",
+      "hint": "Use 4 × $5 = $20 to check."
     },
     "qualitySchema": "production-v1"
   },
@@ -260,30 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-009",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "model money addition",
+    "skill": "select model",
     "printable": true,
     "type": "single",
-    "question": "At the toy stall, a notebook costs $7 and a pen costs $4. How much do they cost altogether?",
-    "audioPrompt": "At the toy stall, a notebook costs $7 and a pen costs $4. How much do they cost altogether?",
-    "visual": "At the toy stall: A notebook labelled $7 and a pen labelled $4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the toy stall: A notebook labelled $7 and a pen labelled $4.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-009\"></use></svg>",
+    "question": "A class had 35 glue sticks, used some, and has 19 left. Which part–part–whole model is useful?",
+    "audioPrompt": "A class had 35 glue sticks, used some, and has 19 left. Which part–part–whole model is useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-009",
-      "alt_text": "At the toy stall: A notebook labelled $7 and a pen labelled $4."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "$11",
-      "$3",
-      "$12"
+      "19 is the whole; 35 is one part",
+      "35 and 19 are both missing parts",
+      "35 is the whole; the used amount and 19 are the parts"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Join the two costs: $7 + $4 = $11.\nHint: Altogether means add the amounts.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "The starting 35 splits into the used sticks and the 19 remaining sticks.\nHint: Identify the starting whole.",
     "structuredExplanation": {
-      "summary": "Join the two costs: $7 + $4 = $11.",
-      "hint": "Altogether means add the amounts."
+      "summary": "The starting 35 splits into the used sticks and the 19 remaining sticks.",
+      "hint": "Identify the starting whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -291,30 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-010",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "model money change",
+    "skill": "solve missing start",
     "printable": true,
     "type": "single",
-    "question": "At the toy stall, kai pays $25 for a toy that costs $10. How much change should Kai get?",
-    "audioPrompt": "At the toy stall, kai pays $25 for a toy that costs $10. How much change should Kai get?",
-    "visual": "At the toy stall: A $25 payment and a toy price of $10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the toy stall: A $25 payment and a toy price of $10.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-010\"></use></svg>",
+    "question": "Some birds were in a tree. Six more arrived, making 21 birds. How many were there at first?",
+    "audioPrompt": "Some birds were in a tree. Six more arrived, making 21 birds. How many were there at first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-010",
-      "alt_text": "At the toy stall: A $25 payment and a toy price of $10."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "$35",
-      "$15",
-      "$16"
+      "15",
+      "27",
+      "14"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Change is the amount left: $25 − $10 = $15.\nHint: Start with the amount paid and subtract the cost.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "The missing start is 21 − 6 = 15.\nHint: Undo the increase.",
     "structuredExplanation": {
-      "summary": "Change is the amount left: $25 − $10 = $15.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "The missing start is 21 − 6 = 15.",
+      "hint": "Undo the increase."
     },
     "qualitySchema": "production-v1"
   },
@@ -322,30 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-011",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "choose operation for equal groups",
+    "skill": "comparison problem",
     "printable": true,
     "type": "single",
-    "question": "At the toy stall, there are 5 bags with 4 apples in each bag. Which operation finds all the apples?",
-    "audioPrompt": "At the toy stall, there are 5 bags with 4 apples in each bag. Which operation finds all the apples?",
-    "visual": "At the toy stall: 5 bags with 4 apples in every bag.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the toy stall: 5 bags with 4 apples in every bag.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-011\"></use></svg>",
+    "question": "Nora collected 32 shells and Eli collected 18. How many more shells did Nora collect?",
+    "audioPrompt": "Nora collected 32 shells and Eli collected 18. How many more shells did Nora collect?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-011",
-      "alt_text": "At the toy stall: 5 bags with 4 apples in every bag."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Subtraction",
-      "Measuring length",
-      "Multiplication"
+      "50",
+      "14",
+      "24"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Equal groups are modelled with multiplication: 5 groups of 4.\nHint: Ask whether the story has equal groups.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "The difference is 32 − 18 = 14.\nHint: Comparison asks for the gap between amounts.",
     "structuredExplanation": {
-      "summary": "Equal groups are modelled with multiplication: 5 groups of 4.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "The difference is 32 − 18 = 14.",
+      "hint": "Comparison asks for the gap between amounts."
     },
     "qualitySchema": "production-v1"
   },
@@ -353,30 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-012",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "model equal sharing",
+    "skill": "two step add subtract",
     "printable": true,
     "type": "single",
-    "question": "At the toy stall, 20 crayons are shared equally between 5 tables. How many crayons does each table get?",
-    "audioPrompt": "At the toy stall, 20 crayons are shared equally between 5 tables. How many crayons does each table get?",
-    "visual": "At the toy stall: 20 crayons shared into 5 equal table groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the toy stall: 20 crayons shared into 5 equal table groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-012\"></use></svg>",
+    "question": "A tub has 18 blue blocks and 15 green blocks. Seven blocks are removed. How many remain?",
+    "audioPrompt": "A tub has 18 blue blocks and 15 green blocks. Seven blocks are removed. How many remain?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-012",
-      "alt_text": "At the toy stall: 20 crayons shared into 5 equal table groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "5",
-      "15"
+      "40",
+      "20",
+      "26"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "20 ÷ 5 = 4, so every table gets 4.\nHint: Share the crayons one at a time into 5 equal groups.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "First 18 + 15 = 33 blocks; then 33 − 7 = 26.\nHint: Find the starting total before removing blocks.",
     "structuredExplanation": {
-      "summary": "20 ÷ 5 = 4, so every table gets 4.",
-      "hint": "Share the crayons one at a time into 5 equal groups."
+      "summary": "First 18 + 15 = 33 blocks; then 33 − 7 = 26.",
+      "hint": "Find the starting total before removing blocks."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,30 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-013",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "represent additive situation",
+    "skill": "two step multiplicative",
     "printable": true,
     "type": "single",
-    "question": "At the toy stall, lina has 7 cards and gets 5 more. Which number sentence models the story?",
-    "audioPrompt": "At the toy stall, lina has 7 cards and gets 5 more. Which number sentence models the story?",
-    "visual": "At the toy stall: A group of 7 cards joined by 5 more cards.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the toy stall: A group of 7 cards joined by 5 more cards.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-013\"></use></svg>",
+    "question": "Four packets hold 5 cards each. Three extra cards are added. How many cards are there now?",
+    "audioPrompt": "Four packets hold 5 cards each. Three extra cards are added. How many cards are there now?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-013",
-      "alt_text": "At the toy stall: A group of 7 cards joined by 5 more cards."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "7 − 5 = 2",
-      "7 + 5 = 12",
-      "7 × 5 = 35"
+      "23",
+      "20",
+      "12"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "The cards join, so addition models the story.\nHint: Look for the action: “gets more” means the amount increases.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "Four groups of 5 make 20, then 3 more make 23.\nHint: Solve the equal groups before adding extras.",
     "structuredExplanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
+      "summary": "Four groups of 5 make 20, then 3 more make 23.",
+      "hint": "Solve the equal groups before adding extras."
     },
     "qualitySchema": "production-v1"
   },
@@ -415,30 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-014",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "check reasonableness",
+    "skill": "interpret solution",
     "printable": true,
     "type": "single",
-    "question": "At the toy stall, a student says 5 bags of 4 marbles make 30 marbles. Is the answer correct?",
-    "audioPrompt": "At the toy stall, a student says 5 bags of 4 marbles make 30 marbles. Is the answer correct?",
-    "visual": "At the toy stall: 5 bags with 4 marbles in each, compared with a claim of 30.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the toy stall: 5 bags with 4 marbles in each, compared with a claim of 30.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-014\"></use></svg>",
+    "question": "A calculation gives 24 ÷ 6 = 4 for 24 biscuits shared among 6 children. What does the 4 mean?",
+    "audioPrompt": "A calculation gives 24 ÷ 6 = 4 for 24 biscuits shared among 6 children. What does the 4 mean?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-014",
-      "alt_text": "At the toy stall: 5 bags with 4 marbles in each, compared with a claim of 30."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Yes, every multiplication answer is large",
-      "No, the total should be 9",
-      "No, the total should be 20"
+      "There are 4 children",
+      "Each child receives 4 biscuits",
+      "Four biscuits are left over"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "5 equal groups of 4 make 20, not 30.\nHint: Build or draw the groups to check the answer.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The quotient describes the number in each of the six equal shares.\nHint: Link the answer to what the question asks.",
     "structuredExplanation": {
-      "summary": "5 equal groups of 4 make 20, not 30.",
-      "hint": "Build or draw the groups to check the answer."
+      "summary": "The quotient describes the number in each of the six equal shares.",
+      "hint": "Link the answer to what the question asks."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,30 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-015",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "communicate model solution",
+    "skill": "check reasonableness",
     "printable": true,
     "type": "single",
-    "question": "At the toy stall, which final sentence clearly answers a money problem?",
-    "audioPrompt": "At the toy stall, which final sentence clearly answers a money problem?",
-    "visual": "At the toy stall: A receipt showing a total of $11.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the toy stall: A receipt showing a total of $11.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-015\"></use></svg>",
+    "question": "A student says 6 bags with 3 oranges each contain 63 oranges. What is the best check?",
+    "audioPrompt": "A student says 6 bags with 3 oranges each contain 63 oranges. What is the best check?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-015",
-      "alt_text": "At the toy stall: A receipt showing a total of $11."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The two items cost $11 altogether.",
-      "The answer is 11.",
-      "I used addition."
+      "Add 6 + 3 to get 9",
+      "The answer is reasonable because it uses both digits",
+      "Six groups of 3 make 18, so 63 is not reasonable"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "A complete answer includes the number, dollars and what it means in the story.\nHint: Name the amount and the situation in your final sentence.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Repeated addition gives 3 + 3 + 3 + 3 + 3 + 3 = 18.\nHint: Model the equal groups.",
     "structuredExplanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "Repeated addition gives 3 + 3 + 3 + 3 + 3 + 3 = 18.",
+      "hint": "Model the equal groups."
     },
     "qualitySchema": "production-v1"
   },
@@ -477,30 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-016",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "select mathematical model",
+    "skill": "insufficient information",
     "printable": true,
     "type": "single",
-    "question": "At the toy stall, which is a helpful first step for 5 boxes with 4 pencils in each?",
-    "audioPrompt": "At the toy stall, which is a helpful first step for 5 boxes with 4 pencils in each?",
-    "visual": "At the toy stall: 5 empty group boxes ready for 4 pencil counters in each.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the toy stall: 5 empty group boxes ready for 4 pencil counters in each.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-016\"></use></svg>",
+    "question": "A toy costs some dollars. You pay with $20. Can the change be calculated?",
+    "audioPrompt": "A toy costs some dollars. You pay with $20. Can the change be calculated?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-016",
-      "alt_text": "At the toy stall: 5 empty group boxes ready for 4 pencil counters in each."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add every number you see",
-      "Draw 5 equal groups of 4",
-      "Guess a large answer"
+      "No; the toy’s price is needed",
+      "Yes; the change is always $20",
+      "Yes; the change is $0"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "A drawing of the equal groups shows the situation before calculating.\nHint: Represent the story, then choose the operation.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "Change depends on both the amount paid and the item’s price.\nHint: Check that every required quantity is known.",
     "structuredExplanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
+      "summary": "Change depends on both the amount paid and the item’s price.",
+      "hint": "Check that every required quantity is known."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,30 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-017",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "model money addition",
+    "skill": "choose strategy",
     "printable": true,
     "type": "single",
-    "question": "During the fruit order, a notebook costs $9 and a pen costs $5. How much do they cost altogether?",
-    "audioPrompt": "During the fruit order, a notebook costs $9 and a pen costs $5. How much do they cost altogether?",
-    "visual": "During the fruit order: A notebook labelled $9 and a pen labelled $5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the fruit order: A notebook labelled $9 and a pen labelled $5.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-017\"></use></svg>",
+    "question": "To find 39 + 17 in a shopping total, which efficient strategy works?",
+    "audioPrompt": "To find 39 + 17 in a shopping total, which efficient strategy works?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-017",
-      "alt_text": "During the fruit order: A notebook labelled $9 and a pen labelled $5."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "$4",
-      "$15",
-      "$14"
+      "Subtract 20, then add 3",
+      "Add 20, then subtract 3",
+      "Multiply 39 by 17"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Join the two costs: $9 + $5 = $14.\nHint: Altogether means add the amounts.",
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Seventeen is 3 less than 20, so 39 + 20 − 3 = 56.\nHint: Use a nearby friendly number.",
     "structuredExplanation": {
-      "summary": "Join the two costs: $9 + $5 = $14.",
-      "hint": "Altogether means add the amounts."
+      "summary": "Seventeen is 3 less than 20, so 39 + 20 − 3 = 56.",
+      "hint": "Use a nearby friendly number."
     },
     "qualitySchema": "production-v1"
   },
@@ -539,30 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-018",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "model money change",
+    "skill": "represent remainder",
     "printable": true,
     "type": "single",
-    "question": "During the fruit order, kai pays $30 for a toy that costs $12. How much change should Kai get?",
-    "audioPrompt": "During the fruit order, kai pays $30 for a toy that costs $12. How much change should Kai get?",
-    "visual": "During the fruit order: A $30 payment and a toy price of $12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the fruit order: A $30 payment and a toy price of $12.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-018\"></use></svg>",
+    "question": "Seventeen apples are packed 4 per bag. How should the result be communicated?",
+    "audioPrompt": "Seventeen apples are packed 4 per bag. How should the result be communicated?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-018",
-      "alt_text": "During the fruit order: A $30 payment and a toy price of $12."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "$18",
-      "$42",
-      "$19"
+      "Five full bags",
+      "Four apples in 17 bags",
+      "Four full bags and 1 apple left"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Change is the amount left: $30 − $12 = $18.\nHint: Start with the amount paid and subtract the cost.",
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "Four bags use 16 apples, leaving one unpacked.\nHint: Interpret the leftover in the situation.",
     "structuredExplanation": {
-      "summary": "Change is the amount left: $30 − $12 = $18.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "Four bags use 16 apples, leaving one unpacked.",
+      "hint": "Interpret the leftover in the situation."
     },
     "qualitySchema": "production-v1"
   },
@@ -570,30 +562,36 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-019",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "choose operation for equal groups",
+    "skill": "communicate additive solution",
     "printable": true,
-    "type": "single",
-    "question": "During the fruit order, there are 6 bags with 5 apples in each bag. Which operation finds all the apples?",
-    "audioPrompt": "During the fruit order, there are 6 bags with 5 apples in each bag. Which operation finds all the apples?",
-    "visual": "During the fruit order: 6 bags with 5 apples in every bag.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the fruit order: 6 bags with 5 apples in every bag.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-019\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "28 + 17 = 45. The stall sold 45 apples altogether.",
+    "acceptanceNote": "Accept an equivalent correct strategy and a sentence that identifies 45 as apples sold altogether.",
+    "responseInstructions": "Show the calculation, then state what 45 means.",
+    "completionLabel": "Ready for adult review",
+    "question": "Write a number sentence and one complete answer sentence: A stall sold 28 apples in the morning and 17 in the afternoon. How many apples were sold?",
+    "audioPrompt": "Write a number sentence and one complete answer sentence: A stall sold 28 apples in the morning and 17 in the afternoon. How many apples were sold?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-019",
-      "alt_text": "During the fruit order: 6 bags with 5 apples in every bag."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Subtraction",
-      "Multiplication",
-      "Measuring length"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Equal groups are modelled with multiplication: 6 groups of 5.\nHint: Ask whether the story has equal groups.",
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": "28 + 17 = 45. The stall sold 45 apples altogether.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Equal groups are modelled with multiplication: 6 groups of 5.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "28 + 17 = 45. The stall sold 45 apples altogether.",
+      "hint": "Accept an equivalent correct strategy and a sentence that identifies 45 as apples sold altogether."
     },
     "qualitySchema": "production-v1"
   },
@@ -601,30 +599,36 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-020",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "model equal sharing",
+    "skill": "communicate money solution",
     "printable": true,
-    "type": "single",
-    "question": "During the fruit order, 30 crayons are shared equally between 6 tables. How many crayons does each table get?",
-    "audioPrompt": "During the fruit order, 30 crayons are shared equally between 6 tables. How many crayons does each table get?",
-    "visual": "During the fruit order: 30 crayons shared into 6 equal table groups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the fruit order: 30 crayons shared into 6 equal table groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-020\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "$25 − $16 = $9, so the customer receives $9 change.",
+    "acceptanceNote": "Accept a correct model or strategy if the response names the $9 as change.",
+    "responseInstructions": "Include a calculation and interpret the answer in the shopping situation.",
+    "completionLabel": "Ready for adult review",
+    "question": "Explain how to find the change when a $16 item is paid for with $25.",
+    "audioPrompt": "Explain how to find the change when a $16 item is paid for with $25.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-020",
-      "alt_text": "During the fruit order: 30 crayons shared into 6 equal table groups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6",
-      "24",
-      "5"
+      "Needs revision",
+      "Completed response",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "30 ÷ 6 = 5, so every table gets 5.\nHint: Share the crayons one at a time into 6 equal groups.",
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": "$25 − $16 = $9, so the customer receives $9 change.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "30 ÷ 6 = 5, so every table gets 5.",
-      "hint": "Share the crayons one at a time into 6 equal groups."
+      "summary": "$25 − $16 = $9, so the customer receives $9 change.",
+      "hint": "Accept a correct model or strategy if the response names the $9 as change."
     },
     "qualitySchema": "production-v1"
   },
@@ -632,30 +636,36 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-021",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "represent additive situation",
+    "skill": "create multiplicative model",
     "printable": true,
-    "type": "single",
-    "question": "During the fruit order, lina has 9 cards and gets 6 more. Which number sentence models the story?",
-    "audioPrompt": "During the fruit order, lina has 9 cards and gets 6 more. Which number sentence models the story?",
-    "visual": "During the fruit order: A group of 9 cards joined by 6 more cards.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the fruit order: A group of 9 cards joined by 6 more cards.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-021\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "A valid model shows 6 equal groups of 4 and a total of 24 crayons, such as 4 + 4 + 4 + 4 + 4 + 4 = 24.",
+    "acceptanceNote": "The groups must be equal and the response must identify 24 crayons altogether.",
+    "responseInstructions": "Use equal groups, an array or repeated addition, then write an answer sentence.",
+    "completionLabel": "Ready for adult review",
+    "question": "Draw or describe a model for 6 boxes with 4 crayons in each, then state the total.",
+    "audioPrompt": "Draw or describe a model for 6 boxes with 4 crayons in each, then state the total.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-021",
-      "alt_text": "During the fruit order: A group of 9 cards joined by 6 more cards."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "9 + 6 = 15",
-      "9 − 6 = 3",
-      "9 × 6 = 54"
+      "Needs revision",
+      "Not attempted",
+      "Completed response"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "The cards join, so addition models the story.\nHint: Look for the action: “gets more” means the amount increases.",
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "A valid model shows 6 equal groups of 4 and a total of 24 crayons, such as 4 + 4 + 4 + 4 + 4 + 4 = 24.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
+      "summary": "A valid model shows 6 equal groups of 4 and a total of 24 crayons, such as 4 + 4 + 4 + 4 + 4 + 4 = 24.",
+      "hint": "The groups must be equal and the response must identify 24 crayons altogether."
     },
     "qualitySchema": "production-v1"
   },
@@ -663,30 +673,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-022",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "check reasonableness",
+    "skill": "compare models",
     "printable": true,
     "type": "single",
-    "question": "During the fruit order, a student says 6 bags of 5 marbles make 40 marbles. Is the answer correct?",
-    "audioPrompt": "During the fruit order, a student says 6 bags of 5 marbles make 40 marbles. Is the answer correct?",
-    "visual": "During the fruit order: 6 bags with 5 marbles in each, compared with a claim of 40.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the fruit order: 6 bags with 5 marbles in each, compared with a claim of 40.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-022\"></use></svg>",
+    "question": "A story says 24 stickers are shared equally among 4 children. Which model does not fit?",
+    "audioPrompt": "A story says 24 stickers are shared equally among 4 children. Which model does not fit?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-022",
-      "alt_text": "During the fruit order: 6 bags with 5 marbles in each, compared with a claim of 40."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Yes, every multiplication answer is large",
-      "No, the total should be 30",
-      "No, the total should be 11"
+      "Four groups containing 5, 6, 6 and 7 stickers",
+      "Four equal groups of 6 stickers",
+      "An array with 4 rows of 6"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "6 equal groups of 5 make 30, not 40.\nHint: Build or draw the groups to check the answer.",
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": 0,
+    "explanation": "Unequal groups do not represent equal sharing.\nHint: The four shares must have the same size.",
     "structuredExplanation": {
-      "summary": "6 equal groups of 5 make 30, not 40.",
-      "hint": "Build or draw the groups to check the answer."
+      "summary": "Unequal groups do not represent equal sharing.",
+      "hint": "The four shares must have the same size."
     },
     "qualitySchema": "production-v1"
   },
@@ -694,30 +704,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-023",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "communicate model solution",
+    "skill": "revise operation choice",
     "printable": true,
     "type": "single",
-    "question": "During the fruit order, which final sentence clearly answers a money problem?",
-    "audioPrompt": "During the fruit order, which final sentence clearly answers a money problem?",
-    "visual": "During the fruit order: A receipt showing a total of $14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the fruit order: A receipt showing a total of $14.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-023\"></use></svg>",
+    "question": "A student adds 36 + 14 for a story where 14 of 36 tickets were used. Which correction is needed?",
+    "audioPrompt": "A student adds 36 + 14 for a story where 14 of 36 tickets were used. Which correction is needed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-023",
-      "alt_text": "During the fruit order: A receipt showing a total of $14."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The answer is 14.",
-      "I used addition.",
-      "The two items cost $14 altogether."
+      "Use 14 − 36 because 14 is mentioned second",
+      "Use 36 − 14 because tickets were removed",
+      "Keep addition because every story uses addition"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "A complete answer includes the number, dollars and what it means in the story.\nHint: Name the amount and the situation in your final sentence.",
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": 1,
+    "explanation": "The situation separates 14 from the starting 36, so subtraction matches it.\nHint: Decide whether quantities join or separate.",
     "structuredExplanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "The situation separates 14 from the starting 36, so subtraction matches it.",
+      "hint": "Decide whether quantities join or separate."
     },
     "qualitySchema": "production-v1"
   },
@@ -725,702 +735,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n06-p-024",
     "curriculumCode": "AC9M2N06",
     "bank": "practice",
-    "skill": "select mathematical model",
+    "skill": "reason about context",
     "printable": true,
     "type": "single",
-    "question": "During the fruit order, which is a helpful first step for 6 boxes with 5 pencils in each?",
-    "audioPrompt": "During the fruit order, which is a helpful first step for 6 boxes with 5 pencils in each?",
-    "visual": "During the fruit order: 6 empty group boxes ready for 5 pencil counters in each.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the fruit order: 6 empty group boxes ready for 5 pencil counters in each.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-024\"></use></svg>",
+    "question": "Five teams need 3 bibs each, but only 12 bibs are available. What does the calculation show?",
+    "audioPrompt": "Five teams need 3 bibs each, but only 12 bibs are available. What does the calculation show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-p-024",
-      "alt_text": "During the fruit order: 6 empty group boxes ready for 5 pencil counters in each."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Draw 6 equal groups of 5",
-      "Add every number you see",
-      "Guess a large answer"
+      "There are 15 bibs left",
+      "Each team gets 12 bibs",
+      "Three more bibs are needed"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "A drawing of the equal groups shows the situation before calculating.\nHint: Represent the story, then choose the operation.",
-    "structuredExplanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-025",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the school garden a book",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, a book costs $3 and a pen costs $2. What is the total?",
-    "audioPrompt": "At the school garden, a book costs $3 and a pen costs $2. What is the total?",
-    "visual": "At the school garden, a book costs $3 and a pen costs $2. What is the total?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, a book costs $3 and a pen costs $2. What is the total?"
-    },
-    "answers": [
-      "$5",
-      "$3",
-      "$6"
-    ],
-    "correct": 0,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-026",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during maths groups mia has 7",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, Mia has $7 and spends $3. How much is left?",
-    "audioPrompt": "During maths groups, Mia has $7 and spends $3. How much is left?",
-    "visual": "During maths groups, Mia has $7 and spends $3. How much is left?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, Mia has $7 and spends $3. How much is left?"
-    },
-    "answers": [
-      "$3",
-      "$7",
-      "$4"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
+    "explanation": "Five groups of 3 require 15 bibs; 15 − 12 = 3 more are needed.\nHint: Compare the required total with the available amount.",
     "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-027",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the art table 4 bags",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, 4 bags have 5 marbles each. How many marbles?",
-    "audioPrompt": "At the art table, 4 bags have 5 marbles each. How many marbles?",
-    "visual": "At the art table, 4 bags have 5 marbles each. How many marbles?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, 4 bags have 5 marbles each. How many marbles?"
-    },
-    "answers": [
-      "21",
-      "20",
-      "9"
-    ],
-    "correct": 1,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-028",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "in the playground a book costs",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, a book costs $6 and a pen costs $5. What is the total?",
-    "audioPrompt": "In the playground, a book costs $6 and a pen costs $5. What is the total?",
-    "visual": "In the playground, a book costs $6 and a pen costs $5. What is the total?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, a book costs $6 and a pen costs $5. What is the total?"
-    },
-    "answers": [
-      "$11",
-      "$6",
-      "$12"
-    ],
-    "correct": 0,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-029",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the library mia has 13",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, Mia has $13 and spends $6. How much is left?",
-    "audioPrompt": "At the library, Mia has $13 and spends $6. How much is left?",
-    "visual": "At the library, Mia has $13 and spends $6. How much is left?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, Mia has $13 and spends $6. How much is left?"
-    },
-    "answers": [
-      "$6",
-      "$13",
-      "$7"
-    ],
-    "correct": 2,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-030",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during sport 2 bags have 4",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, 2 bags have 4 marbles each. How many marbles?",
-    "audioPrompt": "During sport, 2 bags have 4 marbles each. How many marbles?",
-    "visual": "During sport, 2 bags have 4 marbles each. How many marbles?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, 2 bags have 4 marbles each. How many marbles?"
-    },
-    "answers": [
-      "9",
-      "8",
-      "6"
-    ],
-    "correct": 1,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-031",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the class shop a book",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, a book costs $9 and a pen costs $2. What is the total?",
-    "audioPrompt": "At the class shop, a book costs $9 and a pen costs $2. What is the total?",
-    "visual": "At the class shop, a book costs $9 and a pen costs $2. What is the total?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, a book costs $9 and a pen costs $2. What is the total?"
-    },
-    "answers": [
-      "$11",
-      "$9",
-      "$12"
-    ],
-    "correct": 0,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-032",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "on the picnic rug mia has",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, Mia has $13 and spends $3. How much is left?",
-    "audioPrompt": "On the picnic rug, Mia has $13 and spends $3. How much is left?",
-    "visual": "On the picnic rug, Mia has $13 and spends $3. How much is left?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, Mia has $13 and spends $3. How much is left?"
-    },
-    "answers": [
-      "$3",
-      "$13",
-      "$10"
-    ],
-    "correct": 2,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-033",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the block table 5 bags",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, 5 bags have 3 marbles each. How many marbles?",
-    "audioPrompt": "At the block table, 5 bags have 3 marbles each. How many marbles?",
-    "visual": "At the block table, 5 bags have 3 marbles each. How many marbles?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, 5 bags have 3 marbles each. How many marbles?"
-    },
-    "answers": [
-      "16",
-      "15",
-      "8"
-    ],
-    "correct": 1,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-034",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "in the lunch area a book",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, a book costs $4 and a pen costs $5. What is the total?",
-    "audioPrompt": "In the lunch area, a book costs $4 and a pen costs $5. What is the total?",
-    "visual": "In the lunch area, a book costs $4 and a pen costs $5. What is the total?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, a book costs $4 and a pen costs $5. What is the total?"
-    },
-    "answers": [
-      "$9",
-      "$4",
-      "$10"
-    ],
-    "correct": 0,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-035",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the science table mia has",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, Mia has $11 and spends $6. How much is left?",
-    "audioPrompt": "At the science table, Mia has $11 and spends $6. How much is left?",
-    "visual": "At the science table, Mia has $11 and spends $6. How much is left?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, Mia has $11 and spends $6. How much is left?"
-    },
-    "answers": [
-      "$6",
-      "$11",
-      "$5"
-    ],
-    "correct": 2,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-036",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during a card game 3 bags",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, 3 bags have 6 marbles each. How many marbles?",
-    "audioPrompt": "During a card game, 3 bags have 6 marbles each. How many marbles?",
-    "visual": "During a card game, 3 bags have 6 marbles each. How many marbles?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, 3 bags have 6 marbles each. How many marbles?"
-    },
-    "answers": [
-      "19",
-      "18",
-      "9"
-    ],
-    "correct": 1,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-037",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the school garden a book",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, a book costs $7 and a pen costs $2. What is the total?",
-    "audioPrompt": "At the school garden, a book costs $7 and a pen costs $2. What is the total?",
-    "visual": "At the school garden, a book costs $7 and a pen costs $2. What is the total?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, a book costs $7 and a pen costs $2. What is the total?"
-    },
-    "answers": [
-      "$9",
-      "$7",
-      "$10"
-    ],
-    "correct": 0,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-038",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during maths groups mia has 11",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, Mia has $11 and spends $3. How much is left?",
-    "audioPrompt": "During maths groups, Mia has $11 and spends $3. How much is left?",
-    "visual": "During maths groups, Mia has $11 and spends $3. How much is left?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, Mia has $11 and spends $3. How much is left?"
-    },
-    "answers": [
-      "$3",
-      "$11",
-      "$8"
-    ],
-    "correct": 2,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-039",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the art table 6 bags",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, 6 bags have 5 marbles each. How many marbles?",
-    "audioPrompt": "At the art table, 6 bags have 5 marbles each. How many marbles?",
-    "visual": "At the art table, 6 bags have 5 marbles each. How many marbles?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, 6 bags have 5 marbles each. How many marbles?"
-    },
-    "answers": [
-      "31",
-      "30",
-      "11"
-    ],
-    "correct": 1,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-040",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "in the playground a book costs",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, a book costs $10 and a pen costs $5. What is the total?",
-    "audioPrompt": "In the playground, a book costs $10 and a pen costs $5. What is the total?",
-    "visual": "In the playground, a book costs $10 and a pen costs $5. What is the total?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, a book costs $10 and a pen costs $5. What is the total?"
-    },
-    "answers": [
-      "$15",
-      "$10",
-      "$16"
-    ],
-    "correct": 0,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-041",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the library mia has 9",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, Mia has $9 and spends $6. How much is left?",
-    "audioPrompt": "At the library, Mia has $9 and spends $6. How much is left?",
-    "visual": "At the library, Mia has $9 and spends $6. How much is left?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, Mia has $9 and spends $6. How much is left?"
-    },
-    "answers": [
-      "$6",
-      "$9",
-      "$3"
-    ],
-    "correct": 2,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-042",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during sport 4 bags have 4",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, 4 bags have 4 marbles each. How many marbles?",
-    "audioPrompt": "During sport, 4 bags have 4 marbles each. How many marbles?",
-    "visual": "During sport, 4 bags have 4 marbles each. How many marbles?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, 4 bags have 4 marbles each. How many marbles?"
-    },
-    "answers": [
-      "17",
-      "16",
-      "8"
-    ],
-    "correct": 1,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-043",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the class shop a book",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, a book costs $5 and a pen costs $2. What is the total?",
-    "audioPrompt": "At the class shop, a book costs $5 and a pen costs $2. What is the total?",
-    "visual": "At the class shop, a book costs $5 and a pen costs $2. What is the total?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, a book costs $5 and a pen costs $2. What is the total?"
-    },
-    "answers": [
-      "$7",
-      "$5",
-      "$8"
-    ],
-    "correct": 0,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-044",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "on the picnic rug mia has",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, Mia has $9 and spends $3. How much is left?",
-    "audioPrompt": "On the picnic rug, Mia has $9 and spends $3. How much is left?",
-    "visual": "On the picnic rug, Mia has $9 and spends $3. How much is left?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, Mia has $9 and spends $3. How much is left?"
-    },
-    "answers": [
-      "$3",
-      "$9",
-      "$6"
-    ],
-    "correct": 2,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-045",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the block table 2 bags",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, 2 bags have 3 marbles each. How many marbles?",
-    "audioPrompt": "At the block table, 2 bags have 3 marbles each. How many marbles?",
-    "visual": "At the block table, 2 bags have 3 marbles each. How many marbles?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, 2 bags have 3 marbles each. How many marbles?"
-    },
-    "answers": [
-      "7",
-      "6",
-      "5"
-    ],
-    "correct": 1,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-046",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "in the lunch area a book",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, a book costs $8 and a pen costs $5. What is the total?",
-    "audioPrompt": "In the lunch area, a book costs $8 and a pen costs $5. What is the total?",
-    "visual": "In the lunch area, a book costs $8 and a pen costs $5. What is the total?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, a book costs $8 and a pen costs $5. What is the total?"
-    },
-    "answers": [
-      "$13",
-      "$8",
-      "$14"
-    ],
-    "correct": 0,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-047",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "at the science table mia has",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, Mia has $15 and spends $6. How much is left?",
-    "audioPrompt": "At the science table, Mia has $15 and spends $6. How much is left?",
-    "visual": "At the science table, Mia has $15 and spends $6. How much is left?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, Mia has $15 and spends $6. How much is left?"
-    },
-    "answers": [
-      "$6",
-      "$15",
-      "$9"
-    ],
-    "correct": 2,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n06-p-048",
-    "curriculumCode": "AC9M2N06",
-    "bank": "practice",
-    "skill": "during a card game 5 bags",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, 5 bags have 6 marbles each. How many marbles?",
-    "audioPrompt": "During a card game, 5 bags have 6 marbles each. How many marbles?",
-    "visual": "During a card game, 5 bags have 6 marbles each. How many marbles?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, 5 bags have 6 marbles each. How many marbles?"
-    },
-    "answers": [
-      "31",
-      "30",
-      "11"
-    ],
-    "correct": 1,
-    "explanation": "Choose the operation that matches the story.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the operation that matches the story.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "Five groups of 3 require 15 bibs; 15 − 12 = 3 more are needed.",
+      "hint": "Compare the required total with the available amount."
     },
     "qualitySchema": "production-v1"
   }
