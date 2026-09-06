@@ -29,7 +29,12 @@ window.skillrPracticeQuestions = [
       "summary": "The important words Lost and Puppy begin with capitals, as does the first word The.",
       "hint": "In this title style, capitalise the first and important words."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: The, Lost, Puppy. There are no commas. The text reads: The Lost Puppy",
+      "There are no capital words. There are no commas. The text reads: the lost puppy",
+      "Capital words: The. There are no commas. The text reads: The lost puppy"
+    ]
   },
   {
     "id": "ac9e2la10-p-002",
@@ -60,7 +65,12 @@ window.skillrPracticeQuestions = [
       "summary": "Commas separate apples and pears from the next list item; and introduces the final item.",
       "hint": "Find the three things being listed and place commas between them."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We bought apples pears and grapes.",
+      "Capital words: We. Commas come after: apples. The text ends with a full stop. The text reads: We bought apples, pears and grapes.",
+      "Capital words: We. Commas come after: We, bought. The text ends with a full stop. The text reads: We, bought, apples pears and grapes."
+    ]
   },
   {
     "id": "ac9e2la10-p-003",
@@ -91,7 +101,12 @@ window.skillrPracticeQuestions = [
       "summary": "A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
       "hint": "Capitalise the first and important title words, not every small joining word."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "There are no capital words. There are no commas. The text reads: a trip to the moon",
+      "Capital words: A, To, The. There are no commas. The text reads: A trip To The moon",
+      "Capital words: A, Trip, Moon. There are no commas. The text reads: A Trip to the Moon"
+    ]
   },
   {
     "id": "ac9e2la10-p-004",
@@ -122,7 +137,12 @@ window.skillrPracticeQuestions = [
       "summary": "The commas show where hats, water and snacks end before the final item towels.",
       "hint": "Say each item separately and put commas between the listed items."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: We. Commas come after: hats, water. The text ends with a full stop. The text reads: We packed hats, water, snacks and towels.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We packed hats water snacks and towels.",
+      "Capital words: We. Commas come after: packed, hats. The text ends with a full stop. The text reads: We packed, hats, water snacks and towels."
+    ]
   },
   {
     "id": "ac9e2la10-p-005",
@@ -153,7 +173,12 @@ window.skillrPracticeQuestions = [
       "summary": "The title's important words use capitals, and commas separate the animal items.",
       "hint": "Check title capitals first, then check only the list for commas."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: farmyard friends — cows ducks and goats",
+      "Capital words: Farmyard, Friends. Commas come after: cows. There is a dash between the title and the list. The text reads: Farmyard Friends — cows, ducks and goats",
+      "Capital words: Farmyard. Commas come after: cows, ducks, and. There is a dash between the title and the list. The text reads: Farmyard friends — cows, ducks, and, goats"
+    ]
   },
   {
     "id": "ac9e2la10-p-006",
@@ -184,7 +209,12 @@ window.skillrPracticeQuestions = [
       "summary": "The comma separates pencils from rulers; and introduces the last item glue.",
       "hint": "Do not place commas after ordinary sentence words—use them between list items."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: On. Commas come after: On, desk. The text ends with a full stop. The text reads: On, the desk, were pencils rulers and glue.",
+      "Capital words: On. Commas come after: rulers. The text ends with a full stop. The text reads: On the desk were pencils rulers, and glue.",
+      "Capital words: On. Commas come after: pencils. The text ends with a full stop. The text reads: On the desk were pencils, rulers and glue."
+    ]
   },
   {
     "id": "ac9e2la10-p-007",
@@ -215,7 +245,12 @@ window.skillrPracticeQuestions = [
       "summary": "Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
       "hint": "Look for the first word and the main topic word."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Life, Reef. There are no commas. The text reads: Life on the Reef",
+      "There are no capital words. There are no commas. The text reads: life on the reef",
+      "Capital words: Life, On, The. There are no commas. The text reads: Life On The reef"
+    ]
   },
   {
     "id": "ac9e2la10-p-008",
@@ -246,7 +281,12 @@ window.skillrPracticeQuestions = [
       "summary": "Commas separate Ava, Ben and Kai before the final name Mia.",
       "hint": "Treat each name as one item in the list."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Our, Ava, Ben, Kai, Mia. There are no commas. The text ends with a full stop. The text reads: Our team has Ava Ben Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Ava, Ben. The text ends with a full stop. The text reads: Our team has Ava, Ben, Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Our, Ava, Kai. The text ends with a full stop. The text reads: Our, team has Ava, Ben Kai, and Mia."
+    ]
   },
   {
     "id": "ac9e2la10-p-009",
@@ -277,7 +317,12 @@ window.skillrPracticeQuestions = [
       "summary": "The first word and the important words Night and Train begin with capitals.",
       "hint": "Capitalise the first word and the main meaning words."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "There are no capital words. There are no commas. The text reads: the night train",
+      "Capital words: The. There are no commas. The text reads: The night train",
+      "Capital words: The, Night, Train. There are no commas. The text reads: The Night Train"
+    ]
   },
   {
     "id": "ac9e2la10-p-010",
@@ -308,7 +353,12 @@ window.skillrPracticeQuestions = [
       "summary": "The comma separates the first full activity from the second, and and introduces the last.",
       "hint": "Keep each action and its object together as one list item."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: We. Commas come after: birds. The text ends with a full stop. The text reads: We will sketch birds, label plants and photograph insects.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will sketch birds label plants and photograph insects.",
+      "Capital words: We. Commas come after: will, birds, plants. The text ends with a full stop. The text reads: We will, sketch birds, label plants, and photograph insects."
+    ]
   },
   {
     "id": "ac9e2la10-p-011",
@@ -649,7 +699,12 @@ window.skillrPracticeQuestions = [
       "summary": "“a trip to the moon” is the mix-up to avoid. Capitalise the first and important title words, not every small joining word.",
       "hint": "Capitalise the first and important title words, not every small joining word."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: A, Trip, Moon. There are no commas. The text reads: A Trip to the Moon",
+      "Capital words: A, To, The. There are no commas. The text reads: A trip To The moon",
+      "There are no capital words. There are no commas. The text reads: a trip to the moon"
+    ]
   },
   {
     "id": "ac9e2la10-p-022",
@@ -680,7 +735,12 @@ window.skillrPracticeQuestions = [
       "summary": "“We packed hats water snacks and towels.” is the mix-up to avoid. Say each item separately and put commas between the listed items.",
       "hint": "Say each item separately and put commas between the listed items."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We packed hats water snacks and towels.",
+      "Capital words: We. Commas come after: hats, water. The text ends with a full stop. The text reads: We packed hats, water, snacks and towels.",
+      "Capital words: We. Commas come after: packed, hats. The text ends with a full stop. The text reads: We packed, hats, water snacks and towels."
+    ]
   },
   {
     "id": "ac9e2la10-p-023",
@@ -711,7 +771,12 @@ window.skillrPracticeQuestions = [
       "summary": "“farmyard friends — cows ducks and goats” is the mix-up to avoid. Check title capitals first, then check only the list for commas.",
       "hint": "Check title capitals first, then check only the list for commas."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Farmyard, Friends. Commas come after: cows. There is a dash between the title and the list. The text reads: Farmyard Friends — cows, ducks and goats",
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: farmyard friends — cows ducks and goats",
+      "Capital words: Farmyard. Commas come after: cows, ducks, and. There is a dash between the title and the list. The text reads: Farmyard friends — cows, ducks, and, goats"
+    ]
   },
   {
     "id": "ac9e2la10-p-024",
@@ -742,7 +807,12 @@ window.skillrPracticeQuestions = [
       "summary": "“On, the desk, were pencils rulers and glue.” is the mix-up to avoid. Do not place commas after ordinary sentence words—use them between list items.",
       "hint": "Do not place commas after ordinary sentence words—use them between list items."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: On. Commas come after: pencils. The text ends with a full stop. The text reads: On the desk were pencils, rulers and glue.",
+      "Capital words: On. Commas come after: rulers. The text ends with a full stop. The text reads: On the desk were pencils rulers, and glue.",
+      "Capital words: On. Commas come after: On, desk. The text ends with a full stop. The text reads: On, the desk, were pencils rulers and glue."
+    ]
   },
   {
     "id": "ac9e2la10-p-025",
@@ -773,7 +843,12 @@ window.skillrPracticeQuestions = [
       "summary": "“life on the reef” is the mix-up to avoid. Look for the first word and the main topic word.",
       "hint": "Look for the first word and the main topic word."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "There are no capital words. There are no commas. The text reads: life on the reef",
+      "Capital words: Life, Reef. There are no commas. The text reads: Life on the Reef",
+      "Capital words: Life, On, The. There are no commas. The text reads: Life On The reef"
+    ]
   },
   {
     "id": "ac9e2la10-p-026",
@@ -804,7 +879,12 @@ window.skillrPracticeQuestions = [
       "summary": "“Our team has Ava Ben Kai and Mia.” is the mix-up to avoid. Treat each name as one item in the list.",
       "hint": "Treat each name as one item in the list."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Ava, Ben. The text ends with a full stop. The text reads: Our team has Ava, Ben, Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. There are no commas. The text ends with a full stop. The text reads: Our team has Ava Ben Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Our, Ava, Kai. The text ends with a full stop. The text reads: Our, team has Ava, Ben Kai, and Mia."
+    ]
   },
   {
     "id": "ac9e2la10-p-027",
@@ -835,7 +915,12 @@ window.skillrPracticeQuestions = [
       "summary": "“the night train” is the mix-up to avoid. Capitalise the first word and the main meaning words.",
       "hint": "Capitalise the first word and the main meaning words."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: The, Night, Train. There are no commas. The text reads: The Night Train",
+      "Capital words: The. There are no commas. The text reads: The night train",
+      "There are no capital words. There are no commas. The text reads: the night train"
+    ]
   },
   {
     "id": "ac9e2la10-p-028",
@@ -866,7 +951,12 @@ window.skillrPracticeQuestions = [
       "summary": "“We will sketch birds label plants and photograph insects.” is the mix-up to avoid. Keep each action and its object together as one list item.",
       "hint": "Keep each action and its object together as one list item."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will sketch birds label plants and photograph insects.",
+      "Capital words: We. Commas come after: birds. The text ends with a full stop. The text reads: We will sketch birds, label plants and photograph insects.",
+      "Capital words: We. Commas come after: will, birds, plants. The text ends with a full stop. The text reads: We will, sketch birds, label plants, and photograph insects."
+    ]
   },
   {
     "id": "ac9e2la10-p-029",
@@ -897,7 +987,12 @@ window.skillrPracticeQuestions = [
       "summary": "“sam and the sea dragon” is the mix-up to avoid. Keep small joining words lower-case unless they begin the title.",
       "hint": "Keep small joining words lower-case unless they begin the title."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Sam, Sea, Dragon. There are no commas. The text reads: Sam and the Sea Dragon",
+      "There are no capital words. There are no commas. The text reads: sam and the sea dragon",
+      "Capital words: Sam, And, The, Dragon. There are no commas. The text reads: Sam And The sea Dragon"
+    ]
   },
   {
     "id": "ac9e2la10-p-030",
@@ -928,7 +1023,12 @@ window.skillrPracticeQuestions = [
       "summary": "“Bring paper paint brushes tape and string.” is the mix-up to avoid. Count the five separate things and mark the gaps between them.",
       "hint": "Count the five separate things and mark the gaps between them."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Bring. Commas come after: paper, paint, brushes. The text ends with a full stop. The text reads: Bring paper, paint, brushes, tape and string.",
+      "Capital words: Bring. Commas come after: paper, brushes, and. The text ends with a full stop. The text reads: Bring paper, paint brushes, tape and, string.",
+      "Capital words: Bring. There are no commas. The text ends with a full stop. The text reads: Bring paper paint brushes tape and string."
+    ]
   },
   {
     "id": "ac9e2la10-p-031",
@@ -959,7 +1059,12 @@ window.skillrPracticeQuestions = [
       "summary": "A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
       "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: A, Trip, Moon. There are no commas. The text reads: A Trip to the Moon",
+      "Capital words: A, To, The. There are no commas. The text reads: A trip To The moon",
+      "There are no capital words. There are no commas. The text reads: a trip to the moon"
+    ]
   },
   {
     "id": "ac9e2la10-p-032",
@@ -990,7 +1095,12 @@ window.skillrPracticeQuestions = [
       "summary": "The commas show where hats, water and snacks end before the final item towels.",
       "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: We. Commas come after: packed, hats. The text ends with a full stop. The text reads: We packed, hats, water snacks and towels.",
+      "Capital words: We. Commas come after: hats, water. The text ends with a full stop. The text reads: We packed hats, water, snacks and towels.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We packed hats water snacks and towels."
+    ]
   },
   {
     "id": "ac9e2la10-p-033",
@@ -1021,7 +1131,12 @@ window.skillrPracticeQuestions = [
       "summary": "The title's important words use capitals, and commas separate the animal items.",
       "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Farmyard. Commas come after: cows, ducks, and. There is a dash between the title and the list. The text reads: Farmyard friends — cows, ducks, and, goats",
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: farmyard friends — cows ducks and goats",
+      "Capital words: Farmyard, Friends. Commas come after: cows. There is a dash between the title and the list. The text reads: Farmyard Friends — cows, ducks and goats"
+    ]
   },
   {
     "id": "ac9e2la10-p-034",
@@ -1052,7 +1167,12 @@ window.skillrPracticeQuestions = [
       "summary": "The comma separates pencils from rulers; and introduces the last item glue.",
       "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: On. Commas come after: pencils. The text ends with a full stop. The text reads: On the desk were pencils, rulers and glue.",
+      "Capital words: On. Commas come after: rulers. The text ends with a full stop. The text reads: On the desk were pencils rulers, and glue.",
+      "Capital words: On. Commas come after: On, desk. The text ends with a full stop. The text reads: On, the desk, were pencils rulers and glue."
+    ]
   },
   {
     "id": "ac9e2la10-p-035",
@@ -1083,7 +1203,12 @@ window.skillrPracticeQuestions = [
       "summary": "Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
       "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Life, On, The. There are no commas. The text reads: Life On The reef",
+      "Capital words: Life, Reef. There are no commas. The text reads: Life on the Reef",
+      "There are no capital words. There are no commas. The text reads: life on the reef"
+    ]
   },
   {
     "id": "ac9e2la10-p-036",
@@ -1114,7 +1239,12 @@ window.skillrPracticeQuestions = [
       "summary": "Commas separate Ava, Ben and Kai before the final name Mia.",
       "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Our, Ava, Kai. The text ends with a full stop. The text reads: Our, team has Ava, Ben Kai, and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. There are no commas. The text ends with a full stop. The text reads: Our team has Ava Ben Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Ava, Ben. The text ends with a full stop. The text reads: Our team has Ava, Ben, Kai and Mia."
+    ]
   },
   {
     "id": "ac9e2la10-p-037",
@@ -1145,7 +1275,12 @@ window.skillrPracticeQuestions = [
       "summary": "The first word and the important words Night and Train begin with capitals.",
       "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: The, Night, Train. There are no commas. The text reads: The Night Train",
+      "Capital words: The. There are no commas. The text reads: The night train",
+      "There are no capital words. There are no commas. The text reads: the night train"
+    ]
   },
   {
     "id": "ac9e2la10-p-038",
@@ -1176,7 +1311,12 @@ window.skillrPracticeQuestions = [
       "summary": "The comma separates the first full activity from the second, and and introduces the last.",
       "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: We. Commas come after: will, birds, plants. The text ends with a full stop. The text reads: We will, sketch birds, label plants, and photograph insects.",
+      "Capital words: We. Commas come after: birds. The text ends with a full stop. The text reads: We will sketch birds, label plants and photograph insects.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will sketch birds label plants and photograph insects."
+    ]
   },
   {
     "id": "ac9e2la10-p-039",
@@ -1207,7 +1347,12 @@ window.skillrPracticeQuestions = [
       "summary": "Sam, Sea and Dragon are important title words; and and the stay lower-case.",
       "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Sam, And, The, Dragon. There are no commas. The text reads: Sam And The sea Dragon",
+      "There are no capital words. There are no commas. The text reads: sam and the sea dragon",
+      "Capital words: Sam, Sea, Dragon. There are no commas. The text reads: Sam and the Sea Dragon"
+    ]
   },
   {
     "id": "ac9e2la10-p-040",
@@ -1238,7 +1383,12 @@ window.skillrPracticeQuestions = [
       "summary": "Commas separate the first four supply items before and introduces string.",
       "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Bring. Commas come after: paper, paint, brushes. The text ends with a full stop. The text reads: Bring paper, paint, brushes, tape and string.",
+      "Capital words: Bring. Commas come after: paper, brushes, and. The text ends with a full stop. The text reads: Bring paper, paint brushes, tape and, string.",
+      "Capital words: Bring. There are no commas. The text ends with a full stop. The text reads: Bring paper paint brushes tape and string."
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

@@ -6,6 +6,7 @@ import { LA123_ITEMS } from "./year2_english_items_la123.mjs";
 import { LA_ITEMS } from "./year2_english_items_la.mjs";
 import { LE_ITEMS } from "./year2_english_items_le.mjs";
 import { LY_ITEMS } from "./year2_english_items_ly.mjs";
+import { year2EnglishBankProfile, needsEditingChoiceSpeech } from "./lib/year2-english-bank.mjs";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const context = { window: {} };
@@ -80,8 +81,17 @@ for (const code of codes) {
   let items;
   try { items = JSON.parse(fs.readFileSync(bankFile, "utf8")); }
   catch (error) { problems.push(`${code}: invalid or missing JSON (${error.message})`); continue; }
+  let profile;
+  try { profile = year2EnglishBankProfile(items); }
+  catch (error) { problems.push(`${code}: ${error.message}`); continue; }
   const byBank = { practice: items.filter((item) => item.bank === "practice"), test: items.filter((item) => item.bank === "test") };
-  if (items.length !== 40 || byBank.practice.length !== 24 || byBank.test.length !== 16) problems.push(`${code}: expected 40 items split 24/16, found ${items.length} split ${byBank.practice.length}/${byBank.test.length}`);
+  if (items.length !== profile.practiceCount + profile.testCount || byBank.practice.length !== profile.practiceCount || byBank.test.length !== profile.testCount) problems.push(`${code}: expected ${profile.practiceCount + profile.testCount} items split ${profile.practiceCount}/${profile.testCount}, found ${items.length} split ${byBank.practice.length}/${byBank.test.length}`);
+  if (profile.studentFacing) {
+    for (const [stage, start] of [["recognise", 0], ["explain", 10], ["discriminate", 20], ["apply", 30]]) {
+      const block = byBank.practice.slice(start, start + 10);
+      if (block.length !== 10 || block.some((item) => item.stage !== stage)) problems.push(`${code}: ${stage} stage must contain 10 consecutive questions`);
+    }
+  }
   const localIds = new Set(), localPrompts = new Set();
   for (const bank of ["practice", "test"]) {
     totals[bank] += byBank[bank].length;
@@ -101,7 +111,7 @@ for (const code of codes) {
       if (wordCount > 52) problems.push(`${tag}: question is too long for Year 2 audio (${wordCount} words)`);
       if (!Array.isArray(item.answers) || item.answers.length !== 3) problems.push(`${tag}: must have exactly 3 choices`);
       if (item.audio_answers !== undefined && (!Array.isArray(item.audio_answers) || item.audio_answers.length !== item.answers?.length || item.audio_answers.some((answer) => !String(answer).trim()))) problems.push(`${tag}: incomplete spoken-answer descriptions`);
-      if (code === "AC9E2LA10" && item.skill.endsWith("_apply") && !Array.isArray(item.audio_answers)) problems.push(`${tag}: editing choices need spoken punctuation and capital descriptions`);
+      if (needsEditingChoiceSpeech(item) && !Array.isArray(item.audio_answers)) problems.push(`${tag}: editing choices need spoken punctuation and capital descriptions`);
       if (Array.isArray(item.audio_answers) && new Set(item.audio_answers.map((answer) => normalize(answer))).size !== item.audio_answers.length) problems.push(`${tag}: spoken-answer descriptions are not distinct`);
       if (new Set((item.answers || []).map((answer) => visibleChoice(answer.text))).size !== 3) problems.push(`${tag}: duplicate answer text`);
       if ((item.answers || []).some((answer) => fillerChoice.test(answer.text))) problems.push(`${tag}: filler answer choice`);
@@ -110,30 +120,37 @@ for (const code of codes) {
       else positions[item.correct_index] += 1;
       if (!item.explanation?.summary || !item.explanation?.hint) problems.push(`${tag}: missing summary or hint`);
       if (normalize(item.explanation?.summary) === normalize(item.explanation?.hint)) problems.push(`${tag}: summary and hint must be distinct`);
-      if (!item.visual?.asset_path || !item.visual?.alt_text || item.visual.alt_text.length < 45) problems.push(`${tag}: incomplete visual metadata`);
-      const [assetPath, symbol] = String(item.visual?.asset_path || "").split("#");
-      const asset = path.join(ROOT, assetPath.replace(/^\//, ""));
-      if (!fs.existsSync(asset)) problems.push(`${tag}: visual asset missing`);
-      else if (!symbol || !fs.readFileSync(asset, "utf8").includes(`id="${symbol}"`)) problems.push(`${tag}: SVG symbol missing`);
+      if (item.visual?.type === "svg") {
+        if (!item.visual.asset_path || !item.visual.alt_text || item.visual.alt_text.length < 45) problems.push(`${tag}: incomplete visual metadata`);
+        const [assetPath, symbol] = String(item.visual.asset_path || "").split("#");
+        const asset = path.join(ROOT, assetPath.replace(/^\//, ""));
+        if (!fs.existsSync(asset) || !fs.statSync(asset).isFile()) problems.push(`${tag}: visual asset missing`);
+        else if (!symbol || !fs.readFileSync(asset, "utf8").includes(`id="${symbol}"`)) problems.push(`${tag}: SVG symbol missing`);
+      } else if (!profile.studentFacing || item.visual?.type !== "none" || item.visual.asset_path || item.visual.alt_text !== "") {
+        problems.push(`${tag}: invalid visual metadata`);
+      }
     }
     if (Math.max(...positions) - Math.min(...positions) > 1 || positions.some((count) => count === 0)) problems.push(`${code} ${bank}: answer positions unbalanced ${positions.join("/")}`);
   }
   const practicePrompts = new Set(byBank.practice.map((item) => normalize(item.question)));
   for (const item of byBank.test) if (practicePrompts.has(normalize(item.question))) problems.push(`${code}: Practice/Test prompt overlap at ${item.id}`);
   const svgFile = path.join(ROOT, "assets", "assessment-visuals", "year2", "english", `${lower}.svg`);
-  if (fs.existsSync(svgFile)) {
+  if (!profile.studentFacing && fs.existsSync(svgFile)) {
     const svg = fs.readFileSync(svgFile, "utf8");
     const symbolCount = (svg.match(/<symbol\b/g) || []).length;
     if (symbolCount !== 40) problems.push(`${code}: expected 40 SVG symbols, found ${symbolCount}`);
   }
 
   const route = path.join(ROOT, "quiz", "year-2", "english", lower);
-  for (const [bank, attempt, count, cycle] of [["practice", 8, 24, true], ["test", 12, 16, false]]) {
+  for (const [bank, attempt, count, cycle, shuffle] of [["practice", profile.practiceAttempt, profile.practiceCount, profile.practiceCycle, profile.practiceShuffle], ["test", profile.testAttempt, profile.testCount, false, true]]) {
     const htmlFile = path.join(route, bank, "index.html");
     const html = fs.readFileSync(htmlFile, "utf8");
-    if (!html.includes(`"maxQuestions":${attempt}`) || !html.includes('"shuffleQuestions":true') || !html.includes(`"questionCycle":${cycle}`)) problems.push(`${code} ${bank}: selection config mismatch`);
+    let config;
+    try { config = JSON.parse(html.match(/window\.quizConfig\s*=\s*(\{[\s\S]*?\});/)?.[1]); } catch {}
+    if (!config || config.maxQuestions !== attempt || config.shuffleQuestions !== shuffle || config.questionCycle !== cycle) problems.push(`${code} ${bank}: selection config mismatch`);
+    if (!new RegExp(`id="questionCount">${attempt}<`).test(html)) problems.push(`${code} ${bank}: attempt count presentation mismatch`);
     if (!html.includes(`>${count}</span><span class="summary-label">Question bank`)) problems.push(`${code} ${bank}: bank count presentation mismatch`);
-    if (!html.includes(`/quiz/year-2/english/${lower}/${bank}/questions.js?v=20260813-production-v1`)) problems.push(`${code} ${bank}: production bank handoff missing`);
+    if (!new RegExp(`/quiz/year-2/english/${lower}/${bank}/questions\\.js\\?v=[^"\\s]+`).test(html)) problems.push(`${code} ${bank}: production bank handoff missing`);
     if (!html.includes("/assets/year2-english-assessment-ui.js?v=1")) problems.push(`${code} ${bank}: assessment UI missing`);
     if (html.includes("year2-english-authored-banks") || html.includes("year2-english-bank-loader")) problems.push(`${code} ${bank}: legacy bank can overwrite production questions`);
     if (!html.includes('/quiz/assets/script.js')) problems.push(`${code} ${bank}: shared assessment engine missing`);
@@ -198,4 +215,4 @@ if (problems.length) {
   console.error(problems.join("\n"));
   process.exit(1);
 }
-console.log(JSON.stringify({ status: "PASS", codes: `${codes.length}/${codes.length}`, totals, combined: totals.practice + totals.test, checks: ["registry", "authored context split", "schema", "syntax", "unique IDs", "unique prompts", "Practice/Test separation", "three choices", "answer keys", "balanced positions", "visible option/audio/key parity", "summaries", "hints", "feedback parity", "visual paths", "SVG symbols", "alt text", "full page identities", "8/12 selection", "legacy-loader isolation", "QA badge absence"] }, null, 2));
+console.log(JSON.stringify({ status: "PASS", codes: `${codes.length}/${codes.length}`, totals, combined: totals.practice + totals.test, checks: ["registry", "authored context split", "versioned bank counts and progression", "schema", "syntax", "unique IDs", "unique prompts", "Practice/Test separation", "three choices", "answer keys", "balanced positions", "visible option/audio/key parity", "summaries", "hints", "feedback parity", "visual paths", "SVG symbols", "alt text", "full page identities", "versioned attempt selection and labels", "legacy-loader isolation", "QA badge absence"] }, null, 2));

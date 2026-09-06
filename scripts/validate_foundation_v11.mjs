@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
 import { fileURLToPath } from "node:url";
+import { hasStaticCurriculumCoverage } from "./lib/static-curriculum-coverage.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const errors = [];
@@ -147,7 +148,7 @@ for (const subject of subjects) {
     requiredFragments.forEach((fragment) => {
       if (!html.includes(fragment)) errors.push(`${code}: topic page missing ${fragment}`);
     });
-    if (isStaticTopicGuide && !/(?:Content description:|Australian Curriculum coverage|curriculum mapping)/i.test(html)) {
+    if (isStaticTopicGuide && !hasStaticCurriculumCoverage(html, mappedElaborationCount)) {
       errors.push(`${code}: topic page missing static curriculum coverage`);
     }
   }
