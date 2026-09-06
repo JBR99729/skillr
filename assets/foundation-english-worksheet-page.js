@@ -32,18 +32,18 @@
     if ([...document.styleSheets].some((sheet) => String(sheet.href || "").includes("foundation-authored-worksheet.css"))) return;
     const link = document.createElement("link");
     link.rel = "stylesheet";
-    link.href = "/quiz/assets/foundation-authored-worksheet.css?v=20260814-foundation-english-topic2";
+    link.href = "/quiz/assets/foundation-authored-worksheet.css?v=20260906-foundation-english-worksheet-layout";
     document.head.appendChild(link);
   }
 
   async function init() {
     try {
-      if (!window.SkillrFoundationEnglishData?.[code]) await loadScript("/assets/foundation-english-data.js?v=20260814-foundation-english-topic2");
+      if (!window.SkillrFoundationEnglishData?.[code]) await loadScript("/assets/foundation-english-data.js?v=20260906-foundation-english-worksheet-layout");
       for (const src of [
-        "/quiz/assets/foundation-english-topic-module-la-data-v2.js?v=20260814-foundation-english-topic2",
-        "/quiz/assets/foundation-english-topic-module-le-ly1-data-v2.js?v=20260814-foundation-english-topic2",
-        "/quiz/assets/foundation-english-topic-module-ly2-data-v2.js?v=20260814-foundation-english-topic2",
-        "/quiz/assets/foundation-english-topic-module-balance-v2.js?v=20260814-foundation-english-topic2"
+        "/quiz/assets/foundation-english-topic-module-la-data-v2.js?v=20260906-foundation-english-worksheet-layout",
+        "/quiz/assets/foundation-english-topic-module-le-ly1-data-v2.js?v=20260906-foundation-english-worksheet-layout",
+        "/quiz/assets/foundation-english-topic-module-ly2-data-v2.js?v=20260906-foundation-english-worksheet-layout",
+        "/quiz/assets/foundation-english-topic-module-balance-v2.js?v=20260906-foundation-english-worksheet-layout"
       ]) await loadScript(src);
       const lesson = window.SkillrFoundationEnglishData?.[code];
       const unit = window.SkillrFoundationEnglishWorksheetData?.[code];
@@ -58,7 +58,7 @@
       // Always execute the release-pinned renderer after a cached DOM rebuild.
       // A service worker may have left an older global function in memory, and
       // invoking it here could silently restore the pre-split worksheet.
-      await forceLoadScript("/quiz/assets/foundation-maths-authored-worksheet.js?v=20260814-foundation-english-topic2");
+      await forceLoadScript("/quiz/assets/foundation-maths-authored-worksheet.js?v=20260906-foundation-english-worksheet-layout");
       if (!window.jspdf?.jsPDF) loadScript("https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js").catch(() => {});
     } catch (error) {
       console.error("Skillr Foundation English worksheet setup failed:", error);

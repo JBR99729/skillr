@@ -97,8 +97,22 @@
     return `<div class="response-lines">${Array.from({ length: lineCount }, () => "<span></span>").join("")}</div>`;
   }
 
+  function visualText(question) {
+    return String(question.visual || "").replace(/\s+/g, " ").trim();
+  }
+
+  function visualIsScenarioText(question) {
+    const text = visualText(question);
+    return subject === "english" && text && !question.visualAlt && !/[●■▲◆→=]/.test(text);
+  }
+
   function renderQuestion(question, displayNumber) {
-    return `<article class="worksheet-question ${esc(question.tier)}"><div class="question-line"><span class="question-number-text">${displayNumber}.</span><span class="enrichment-label">${esc(question.tierLabel)}</span><p class="question-prompt">${esc(question.question)}</p></div>${question.visual ? `<div class="question-visual" role="img" aria-label="${esc(question.visualAlt || question.visual)}"><span aria-hidden="true">${esc(question.visual)}</span></div>` : ""}${responseHtml(question)}</article>`;
+    const visual = visualText(question);
+    const isScenario = visualIsScenarioText(question);
+    const visualClass = isScenario ? "question-visual question-context" : "question-visual";
+    const visualLabel = isScenario ? "Context" : "Visual";
+    const visualRole = isScenario ? "note" : "img";
+    return `<article class="worksheet-question ${esc(question.tier)}"><div class="question-line"><span class="question-number-text">${displayNumber}.</span><span class="enrichment-label">${esc(question.tierLabel)}</span><p class="question-prompt">${esc(question.question)}</p></div>${visual ? `<div class="${visualClass}" role="${visualRole}" aria-label="${esc(question.visualAlt || question.visual)}"><strong>${visualLabel}:</strong> <span>${esc(visual)}</span></div>` : ""}${responseHtml(question)}</article>`;
   }
 
   const brandHtml = (label = `${code} • ${unit.title}`) => `<div class="worksheet-brand-lockup"><img src="/icons/skillrhub-mark.svg" alt="SkillrHub logo"><div><p class="paper-brand">SkillrHub <span>F–10</span></p><p>${esc(label)}</p></div></div>`;
@@ -143,7 +157,7 @@
   }
 
   function packOptionRows(doc, answers, width) {
-    const labels = (answers || []).map((value, index) => `[${String.fromCharCode(65 + index)}] ${value}`);
+    const labels = (answers || []).map((value, index) => `[${String.fromCharCode(65 + index)}] ${String(value ?? "").replace(/\s+/g, " ").trim()}`);
     const rows = [];
     let row = [];
     let used = 0;
@@ -162,7 +176,12 @@
     const promptWidth = width - 8;
     const promptLines = wrap(doc, question.question, promptWidth);
     let height = Math.max(8, promptLines.length * 4 + 4);
-    if (question.visual) { doc.setFont("courier", "bold"); doc.setFontSize(8.9); height += wrap(doc, question.visual, width - 8).length * 3.7 + 1; }
+    if (question.visual) {
+      doc.setFont(visualIsScenarioText(question) ? "helvetica" : "courier", visualIsScenarioText(question) ? "normal" : "bold");
+      doc.setFontSize(visualIsScenarioText(question) ? 8.2 : 8.9);
+      const label = visualIsScenarioText(question) ? `Context: ${visualText(question)}` : visualText(question);
+      height += Math.min(wrap(doc, label, width - 10).length, 4) * 3.5 + 1.5;
+    }
     doc.setFont("helvetica", "normal");
     doc.setFontSize(9.1);
     if (question.type === "single") height += packOptionRows(doc, question.answers, width - 8).length * 4.5 + 2;
@@ -241,7 +260,16 @@
     let promptX = x + 8;
     const promptLines = wrap(doc, question.question, x + width - promptX); doc.text(promptLines, promptX, y + 4.1);
     let cursor = y + 4.1 + promptLines.length * 4 + 1;
-    if (question.visual) { doc.setFont("courier", "bold"); doc.setFontSize(8.9); const lines = wrap(doc, question.visual, width - 8); doc.text(lines, x + 8, cursor); cursor += lines.length * 3.7 + 1; }
+    if (question.visual) {
+      const isScenario = visualIsScenarioText(question);
+      const label = isScenario ? `Context: ${visualText(question)}` : visualText(question);
+      doc.setFont(isScenario ? "helvetica" : "courier", isScenario ? "normal" : "bold");
+      doc.setFontSize(isScenario ? 8.2 : 8.9);
+      doc.setTextColor(isScenario ? 93 : 32, isScenario ? 108 : 48, isScenario ? 128 : 71);
+      const lines = wrap(doc, label, width - 10).slice(0, 4);
+      doc.text(lines, x + 8, cursor);
+      cursor += lines.length * 3.5 + 1.5;
+    }
     doc.setFont("helvetica", "normal"); doc.setFontSize(9.1); doc.setTextColor(32, 48, 71);
     if (question.type === "single") {
       const rows = packOptionRows(doc, question.answers, width - 8);

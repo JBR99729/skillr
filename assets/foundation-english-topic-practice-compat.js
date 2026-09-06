@@ -8,7 +8,7 @@
   }
   if (document.querySelector('script[data-skillr-foundation-english-topic-practice="true"]')) return;
   const script = document.createElement("script");
-  script.src = "/assets/foundation-english-worksheet-page.js?v=20260814-foundation-english-topic2";
+  script.src = "/assets/foundation-english-worksheet-page.js?v=20260906-foundation-english-worksheet-layout";
   script.async = false;
   script.dataset.skillrFoundationEnglishTopicPractice = "true";
   document.head.appendChild(script);
