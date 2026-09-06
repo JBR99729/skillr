@@ -1,1162 +1,794 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly11-p-001",
+    "id": "ac9e1ly11-er6-p-001",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 01 recognise",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly read a short vowel word?",
-    "audioPrompt": "Which response would correctly read a short vowel word?",
-    "visual": "📖 Read a short vowel word; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a short vowel word; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-001\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate blending of three short-vowel words and identification of a, e and i. Do not supply the spoken words first when checking independent reading.",
+    "acceptanceNote": "Check accurate blending of three short-vowel words and identification of a, e and i. Do not supply the spoken words first when checking independent reading.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read these words aloud to a grown-up: 'mat, red, sit'. Point to the vowel letter in each after reading.",
+    "audioPrompt": "Read these words aloud to a grown-up: 'mat, red, sit'. Point to the vowel letter in each after reading.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-001",
-      "alt_text": "📖 Read a short vowel word; 🔎 short vowel; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Man",
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word."
-    ],
-    "correct": 0,
-    "explanation": "Man This matches the task.\nHint: sh/ch/th can make one sound.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": "Check accurate blending of three short-vowel words and identification of a, e and i. Do not supply the spoken words first when checking independent reading.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Man This matches the task.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Check accurate blending of three short-vowel words and identification of a, e and i. Do not supply the spoken words first when checking independent reading.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-002",
+    "id": "ac9e1ly11-er6-p-002",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 02 recognise",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match patterns?",
-    "audioPrompt": "Which response would correctly match patterns?",
-    "visual": "📖 Match patterns; 🔎 long vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match patterns; 🔎 long vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-003\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check cot with short o and cut with short u, and identification of the middle letters. Accept ordinary accent variation.",
+    "acceptanceNote": "Check cot with short o and cut with short u, and identification of the middle letters. Accept ordinary accent variation.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'cot' and 'cut' aloud. Show the letter that makes their vowel sounds different.",
+    "audioPrompt": "Read 'cot' and 'cut' aloud. Show the letter that makes their vowel sounds different.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-003",
-      "alt_text": "📖 Match patterns; 🔎 long vowel; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Time ↔ digraph; wish ↔ blend; frog ↔ long vowel",
-      "Do not look through the whole word.",
-      "Time ↔ long vowel; wish ↔ digraph; frog ↔ blend"
-    ],
-    "correct": 2,
-    "explanation": "Time ↔ long vowel; wish ↔ digraph; frog ↔ blend This matches the task.\nHint: Look through the whole word.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": "Check cot with short o and cut with short u, and identification of the middle letters. Accept ordinary accent variation.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Time ↔ long vowel; wish ↔ digraph; frog ↔ blend This matches the task.",
-      "hint": "Look through the whole word."
+      "summary": "Check cot with short o and cut with short u, and identification of the middle letters. Accept ordinary accent variation.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-003",
+    "id": "ac9e1ly11-er6-p-003",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 03 recognise",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly build a digraph word?",
-    "audioPrompt": "Which response would correctly build a digraph word?",
-    "visual": "📖 Build a digraph word; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build a digraph word; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-005\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check /sh/ /i/ /p/ blended into ship and the spelling s-h-i-p. Sh represents one phoneme; do not require four spoken sounds.",
+    "acceptanceNote": "Check /sh/ /i/ /p/ blended into ship and the spelling s-h-i-p. Sh represents one phoneme; do not require four spoken sounds.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'ship' aloud, then write it on paper while saying its sounds.",
+    "audioPrompt": "Read 'ship' aloud, then write it on paper while saying its sounds.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-005",
-      "alt_text": "📖 Build a digraph word; 🔎 blend; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Leave out vowel.",
-      "s-h-o-p in spelling; /sh/ /o/ /p/ in sounds",
-      "Count both letters of a digraph as separate sounds."
-    ],
-    "correct": 1,
-    "explanation": "s-h-o-p in spelling; /sh/ /o/ /p/ in sounds This matches the task.\nHint: Every syllable needs a vowel sound.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": "Check /sh/ /i/ /p/ blended into ship and the spelling s-h-i-p. Sh represents one phoneme; do not require four spoken sounds.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "s-h-o-p in spelling; /sh/ /o/ /p/ in sounds This matches the task.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "Check /sh/ /i/ /p/ blended into ship and the spelling s-h-i-p. Sh represents one phoneme; do not require four spoken sounds.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-004",
+    "id": "ac9e1ly11-er6-p-004",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 04 recognise",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly change short to long?",
-    "audioPrompt": "Which response would correctly change short to long?",
-    "visual": "📖 Change short to long; 🔎 digraph; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Change short to long; 🔎 digraph; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-007\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate words and th/ch identified as the beginning digraphs. Use the unvoiced th in thin, allowing ordinary accent variation.",
+    "acceptanceNote": "Check accurate words and th/ch identified as the beginning digraphs. Use the unvoiced th in thin, allowing ordinary accent variation.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'thin' and 'chin' aloud. Point to the two-letter beginning in each.",
+    "audioPrompt": "Read 'thin' and 'chin' aloud. Point to the two-letter beginning in each.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-007",
-      "alt_text": "📖 Change short to long; 🔎 digraph; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Kite; final e changes the vowel from short /i/ to long /i/",
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word."
-    ],
-    "correct": 0,
-    "explanation": "Kite; final e changes the vowel from short /i/ to long /i/ This matches the task.\nHint: sh/ch/th can make one sound.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": "Check accurate words and th/ch identified as the beginning digraphs. Use the unvoiced th in thin, allowing ordinary accent variation.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Kite; final e changes the vowel from short /i/ to long /i/ This matches the task.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Check accurate words and th/ch identified as the beginning digraphs. Use the unvoiced th in thin, allowing ordinary accent variation.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-005",
+    "id": "ac9e1ly11-er6-p-005",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 05 recognise",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly order blend sounds?",
-    "audioPrompt": "Which response would correctly order blend sounds?",
-    "visual": "📖 Order blend sounds; 🔎 blend to read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order blend sounds; 🔎 blend to read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-009\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check the /f/ /l/ blend is retained and the written form is flag. Observe the response before revealing the model again.",
+    "acceptanceNote": "Check the /f/ /l/ blend is retained and the written form is flag. Observe the response before revealing the model again.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'flag' aloud. Then cover it and write it from the sounds you remember.",
+    "audioPrompt": "Read 'flag' aloud. Then cover it and write it from the sounds you remember.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-009",
-      "alt_text": "📖 Order blend sounds; 🔎 blend to read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "frog → /f/ /r/ /o/ /g/",
-      "Do not look through the whole word.",
-      "/f/ /r/ /o/ /g/ → frog"
-    ],
-    "correct": 2,
-    "explanation": "/f/ /r/ /o/ /g/ → frog This matches the task.\nHint: Look through the whole word.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": "Check the /f/ /l/ blend is retained and the written form is flag. Observe the response before revealing the model again.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "/f/ /r/ /o/ /g/ → frog This matches the task.",
-      "hint": "Look through the whole word."
+      "summary": "Check the /f/ /l/ blend is retained and the written form is flag. Observe the response before revealing the model again.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-006",
+    "id": "ac9e1ly11-er6-p-006",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 06 recognise",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Write fish and draw one sound button for /f/, /i/ and /sh/.",
-    "audioPrompt": "Write fish and draw one sound button for /f/, /i/ and /sh/.",
-    "visual": "📖 Draw sound buttons; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound buttons; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-011\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check n-e-s-t and the separate final /s/ /t/ sounds. The word should be read as nest, not net.",
+    "acceptanceNote": "Check n-e-s-t and the separate final /s/ /t/ sounds. The word should be read as nest, not net.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'nest'. Say its ending sounds, then write the word.",
+    "audioPrompt": "Read 'nest'. Say its ending sounds, then write the word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-011",
-      "alt_text": "📖 Draw sound buttons; 🔎 short vowel; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Correct spelling and 4 sound markers, with sh grouped",
-      "Correct spelling and 3 sound markers, with sh grouped",
-      "Correct spelling and 2 sound markers, with sh grouped"
-    ],
-    "correct": 1,
-    "explanation": "Correct spelling and 3 sound markers, with sh grouped This matches the task.\nHint: Every syllable needs a vowel sound.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": "Check n-e-s-t and the separate final /s/ /t/ sounds. The word should be read as nest, not net.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Correct spelling and 3 sound markers, with sh grouped This matches the task.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "Check n-e-s-t and the separate final /s/ /t/ sounds. The word should be read as nest, not net.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-007",
+    "id": "ac9e1ly11-er6-p-007",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 07 recognise",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly compare blend and digraph?",
-    "audioPrompt": "Which response would correctly compare blend and digraph?",
-    "visual": "📖 Compare blend and digraph; 🔎 long vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare blend and digraph; 🔎 long vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-013\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and ai in rain, ay in day. These are examples of long a spellings, not a rule for every vowel pair.",
+    "acceptanceNote": "Check accurate reading and ai in rain, ay in day. These are examples of long a spellings, not a rule for every vowel pair.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'rain' and 'day' aloud. Point to the letters that show the long a sound in each.",
+    "audioPrompt": "Read 'rain' and 'day' aloud. Point to the letters that show the long a sound in each.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-013",
-      "alt_text": "📖 Compare blend and digraph; 🔎 long vowel; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Both /b/ and /r/ are heard separately; sh letters work together for one /sh/ sound",
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word."
-    ],
-    "correct": 0,
-    "explanation": "Both /b/ and /r/ are heard separately; sh letters work together for one /sh/ sound This matches the task.\nHint: sh/ch/th can make one sound.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": "Check accurate reading and ai in rain, ay in day. These are examples of long a spellings, not a rule for every vowel pair.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Both /b/ and /r/ are heard separately; sh letters work together for one /sh/ sound This matches the task.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Check accurate reading and ai in rain, ay in day. These are examples of long a spellings, not a rule for every vowel pair.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-008",
+    "id": "ac9e1ly11-er6-p-008",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 08 recognise",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly read a two-syllable word?",
-    "audioPrompt": "Which response would correctly read a two-syllable word?",
-    "visual": "📖 Read a two-syllable word; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a two-syllable word; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check long e reading in both words, and correct spelling of the chosen word. Both ee and ea represent the long e sound here.",
+    "acceptanceNote": "Check long e reading in both words, and correct spelling of the chosen word. Both ee and ea represent the long e sound here.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'feet' and 'leaf' aloud. Write one of the words after covering it.",
+    "audioPrompt": "Read 'feet' and 'leaf' aloud. Write one of the words after covering it.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-015",
-      "alt_text": "📖 Read a two-syllable word; 🔎 blend; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "sunset → Sun/set; reads sun + set",
-      "Do not look through the whole word.",
-      "Sun/set; reads sun + set → sunset"
-    ],
-    "correct": 2,
-    "explanation": "Sun/set; reads sun + set → sunset This matches the task.\nHint: Look through the whole word.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": "Check long e reading in both words, and correct spelling of the chosen word. Both ee and ea represent the long e sound here.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Sun/set; reads sun + set → sunset This matches the task.",
-      "hint": "Look through the whole word."
+      "summary": "Check long e reading in both words, and correct spelling of the chosen word. Both ee and ea represent the long e sound here.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-009",
+    "id": "ac9e1ly11-er6-p-009",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 09 recognise",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Write the word made by /k/ /ā/ /k/ using the common a_e pattern.",
-    "audioPrompt": "Write the word made by /k/ /ā/ /k/ using the common a_e pattern.",
-    "visual": "📖 Spell a long-a word; 🔎 digraph; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell a long-a word; 🔎 digraph; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-017\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check distinct short/long vowels and preservation of final e in cape. Both words have one syllable.",
+    "acceptanceNote": "Check distinct short/long vowels and preservation of final e in cape. Both words have one syllable.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'cap' and 'cape'. Then write them on separate lines and read each again.",
+    "audioPrompt": "Read 'cap' and 'cape'. Then write them on separate lines and read each again.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-017",
-      "alt_text": "📖 Spell a long-a word; 🔎 digraph; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "the common a_e pattern",
-      "Cake",
-      "ceke"
-    ],
-    "correct": 1,
-    "explanation": "Cake This matches the task.\nHint: Every syllable needs a vowel sound.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": "Check distinct short/long vowels and preservation of final e in cape. Both words have one syllable.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Cake This matches the task.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "Check distinct short/long vowels and preservation of final e in cape. Both words have one syllable.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-010",
+    "id": "ac9e1ly11-er6-p-010",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 10 recognise",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match digraphs and words?",
-    "audioPrompt": "Which response would correctly match digraphs and words?",
-    "visual": "📖 Match digraphs and words; 🔎 blend to read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match digraphs and words; 🔎 blend to read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-019\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check short i and long i reading, with the final e identified as part of the pattern in kite. Accept an everyday explanation.",
+    "acceptanceNote": "Check short i and long i reading, with the final e identified as part of the pattern in kite. Accept an everyday explanation.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'kit' and 'kite', then explain which written part helps you know the vowel changes.",
+    "audioPrompt": "Read 'kit' and 'kite', then explain which written part helps you know the vowel changes.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-019",
-      "alt_text": "📖 Match digraphs and words; 🔎 blend to read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "sh ↔ ship; ch ↔ chop; th ↔ thin",
-      "sh ↔ chop; ch ↔ thin; th ↔ ship",
-      "Count both letters of a digraph as separate sounds."
-    ],
-    "correct": 0,
-    "explanation": "sh ↔ ship; ch ↔ chop; th ↔ thin This matches the task.\nHint: sh/ch/th can make one sound.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": "Check short i and long i reading, with the final e identified as part of the pattern in kite. Accept an everyday explanation.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "sh ↔ ship; ch ↔ chop; th ↔ thin This matches the task.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Check short i and long i reading, with the final e identified as part of the pattern in kite. Accept an everyday explanation.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-011",
+    "id": "ac9e1ly11-er6-p-011",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 01 explain",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you read a short vowel word?",
-    "audioPrompt": "Which tip would help you read a short vowel word?",
-    "visual": "🧠 Read a short vowel word; ➡️ Look at pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Read a short vowel word; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-002\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading of both and the spelling hope from the meaning cue. The final e is needed in the written target.",
+    "acceptanceNote": "Check accurate reading of both and the spelling hope from the meaning cue. The final e is needed in the written target.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'hop' and 'hope'. Cover the words and write the one that means wishing something will happen.",
+    "audioPrompt": "Read 'hop' and 'hope'. Cover the words and write the one that means wishing something will happen.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-002",
-      "alt_text": "🧠 Read a short vowel word; ➡️ Look at pattern; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not look through the whole word.",
-      "sh/ch/th can make one sound.",
-      "Leave out vowel."
-    ],
-    "correct": 1,
-    "explanation": "sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": "Check accurate reading of both and the spelling hope from the meaning cue. The final e is needed in the written target.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Check accurate reading of both and the spelling hope from the meaning cue. The final e is needed in the written target.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-012",
+    "id": "ac9e1ly11-er6-p-012",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 02 explain",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match patterns?",
-    "audioPrompt": "Which tip would help you match patterns?",
-    "visual": "🧠 Match patterns; ➡️ Say sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match patterns; ➡️ Say sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-004\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check distinct vowel sounds and correct spelling cube. The task uses a familiar silent-e pattern without claiming every final e behaves this way.",
+    "acceptanceNote": "Check distinct vowel sounds and correct spelling cube. The task uses a familiar silent-e pattern without claiming every final e behaves this way.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'cub' and 'cube'. Write the word for the solid shape.",
+    "audioPrompt": "Read 'cub' and 'cube'. Write the word for the solid shape.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-004",
-      "alt_text": "🧠 Match patterns; ➡️ Say sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Use this routine: Look at pattern → Say sound → Blend word → Write/check.",
-      "Leave out vowel.",
-      "Count both letters of a digraph as separate sounds."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: Look at pattern → Say sound → Blend word → Write/check.\nHint: Look through the whole word.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": "Check distinct vowel sounds and correct spelling cube. The task uses a familiar silent-e pattern without claiming every final e behaves this way.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at pattern → Say sound → Blend word → Write/check.",
-      "hint": "Look through the whole word."
+      "summary": "Check distinct vowel sounds and correct spelling cube. The task uses a familiar silent-e pattern without claiming every final e behaves this way.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-013",
+    "id": "ac9e1ly11-er6-p-013",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 03 explain",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you build a digraph word?",
-    "audioPrompt": "Which tip would help you build a digraph word?",
-    "visual": "🧠 Build a digraph word; ➡️ Blend word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Build a digraph word; ➡️ Blend word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-006\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check f-l-o-a-t, the /f/ /l/ blend and oa representing long o. Do not accept flat as the same word.",
+    "acceptanceNote": "Check f-l-o-a-t, the /f/ /l/ blend and oa representing long o. Do not accept flat as the same word.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'float' aloud. Point to the beginning blend and the vowel pair, then write it.",
+    "audioPrompt": "Read 'float' aloud. Point to the beginning blend and the vowel pair, then write it.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-006",
-      "alt_text": "🧠 Build a digraph word; ➡️ Blend word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word.",
-      "Look for blend and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for blend and check the whole example.\nHint: Every syllable needs a vowel sound.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": "Check f-l-o-a-t, the /f/ /l/ blend and oa representing long o. Do not accept flat as the same word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Look for blend and check the whole example.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "Check f-l-o-a-t, the /f/ /l/ blend and oa representing long o. Do not accept flat as the same word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-014",
+    "id": "ac9e1ly11-er6-p-014",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 04 explain",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you change short to long?",
-    "audioPrompt": "Which tip would help you change short to long?",
-    "visual": "🧠 Change short to long; ➡️ Write/check; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Change short to long; ➡️ Write/check; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-008\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check the initial /b/ /r/ cluster, final /sh/ phoneme and spelling brush. Keep all sounds when blending.",
+    "acceptanceNote": "Check the initial /b/ /r/ cluster, final /sh/ phoneme and spelling brush. Keep all sounds when blending.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'brush' aloud and write it after covering the model.",
+    "audioPrompt": "Read 'brush' aloud and write it after covering the model.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-008",
-      "alt_text": "🧠 Change short to long; ➡️ Write/check; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not look through the whole word.",
-      "Check that you can read digraphs.",
-      "Leave out vowel."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can read digraphs.\nHint: sh/ch/th can make one sound.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": "Check the initial /b/ /r/ cluster, final /sh/ phoneme and spelling brush. Keep all sounds when blending.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Check that you can read digraphs.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Check the initial /b/ /r/ cluster, final /sh/ phoneme and spelling brush. Keep all sounds when blending.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-015",
+    "id": "ac9e1ly11-er6-p-015",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 05 explain",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order blend sounds?",
-    "audioPrompt": "Which tip would help you order blend sounds?",
-    "visual": "🧠 Order blend sounds; ➡️ Look at pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order blend sounds; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-010\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check sun-set blended into sunset. Both syllables should be read in order; do not only name their letters.",
+    "acceptanceNote": "Check sun-set blended into sunset. Both syllables should be read in order; do not only name their letters.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'sunset' aloud by blending each spoken part and then the whole word.",
+    "audioPrompt": "Read 'sunset' aloud by blending each spoken part and then the whole word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-010",
-      "alt_text": "🧠 Order blend sounds; ➡️ Look at pattern; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Blending an initial consonant cluster.",
-      "Leave out vowel.",
-      "Count both letters of a digraph as separate sounds."
-    ],
-    "correct": 0,
-    "explanation": "Blending an initial consonant cluster.\nHint: Look through the whole word.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": "Check sun-set blended into sunset. Both syllables should be read in order; do not only name their letters.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Blending an initial consonant cluster.",
-      "hint": "Look through the whole word."
+      "summary": "Check sun-set blended into sunset. Both syllables should be read in order; do not only name their letters.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-016",
+    "id": "ac9e1ly11-er6-p-016",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 06 explain",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you draw sound buttons?",
-    "audioPrompt": "Which tip would help you draw sound buttons?",
-    "visual": "🧠 Draw sound buttons; ➡️ Say sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw sound buttons; ➡️ Say sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-012\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check nap-kin blended accurately and spelling napkin. Observe both short vowels and the order of consonants.",
+    "acceptanceNote": "Check nap-kin blended accurately and spelling napkin. Observe both short vowels and the order of consonants.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'napkin' aloud, then write it after looking carefully at both parts.",
+    "audioPrompt": "Read 'napkin' aloud, then write it after looking carefully at both parts.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-012",
-      "alt_text": "🧠 Draw sound buttons; ➡️ Say sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word.",
-      "Every syllable needs a vowel sound."
-    ],
-    "correct": 2,
-    "explanation": "Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": "Check nap-kin blended accurately and spelling napkin. Observe both short vowels and the order of consonants.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "Check nap-kin blended accurately and spelling napkin. Observe both short vowels and the order of consonants.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-017",
+    "id": "ac9e1ly11-er6-p-017",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 07 explain",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you compare blend and digraph?",
-    "audioPrompt": "Which tip would help you compare blend and digraph?",
-    "visual": "🧠 Compare blend and digraph; ➡️ Blend word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare blend and digraph; ➡️ Blend word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check stamp, including the initial st and final mp clusters around the short vowel. Do not show the spelling before the response.",
+    "acceptanceNote": "Check stamp, including the initial st and final mp clusters around the short vowel. Do not show the spelling before the response.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Grown-up: keep the screen hidden. Say 'stamp'. Ask the child to write the word from its sounds and then read what they wrote.",
+    "audioPrompt": "Grown-up: keep the screen hidden. Say 'stamp'. Ask the child to write the word from its sounds and then read what they wrote.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-014",
-      "alt_text": "🧠 Compare blend and digraph; ➡️ Blend word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not look through the whole word.",
-      "Use this routine: Look at pattern → Say sound → Blend word → Write/check.",
-      "Leave out vowel."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: Look at pattern → Say sound → Blend word → Write/check.\nHint: sh/ch/th can make one sound.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": "Check stamp, including the initial st and final mp clusters around the short vowel. Do not show the spelling before the response.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at pattern → Say sound → Blend word → Write/check.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Check stamp, including the initial st and final mp clusters around the short vowel. Do not show the spelling before the response.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-018",
+    "id": "ac9e1ly11-er6-p-018",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 08 explain",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you read a two-syllable word?",
-    "audioPrompt": "Which tip would help you read a two-syllable word?",
-    "visual": "🧠 Read a two-syllable word; ➡️ Write/check; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Read a two-syllable word; ➡️ Write/check; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check train, preserving tr and the common ai vowel spelling. Accept self-correction before comparing with the model.",
+    "acceptanceNote": "Check train, preserving tr and the common ai vowel spelling. Accept self-correction before comparing with the model.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Grown-up: hide the screen and say 'train'. Ask the child to write it, then read it back.",
+    "audioPrompt": "Grown-up: hide the screen and say 'train'. Ask the child to write it, then read it back.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-016",
-      "alt_text": "🧠 Read a two-syllable word; ➡️ Write/check; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Look for blend and check the whole example.",
-      "Leave out vowel.",
-      "Count both letters of a digraph as separate sounds."
-    ],
-    "correct": 0,
-    "explanation": "Look for blend and check the whole example.\nHint: Look through the whole word.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": "Check train, preserving tr and the common ai vowel spelling. Accept self-correction before comparing with the model.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Look for blend and check the whole example.",
-      "hint": "Look through the whole word."
+      "summary": "Check train, preserving tr and the common ai vowel spelling. Accept self-correction before comparing with the model.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-019",
+    "id": "ac9e1ly11-er6-p-019",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 09 explain",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you spell a long-a word?",
-    "audioPrompt": "Which tip would help you spell a long-a word?",
-    "visual": "🧠 Spell a long-a word; ➡️ Look at pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Spell a long-a word; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-018\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check shell: initial sh, short e and final ll in the standard spelling. The final double letter is not two separate phonemes.",
+    "acceptanceNote": "Check shell: initial sh, short e and final ll in the standard spelling. The final double letter is not two separate phonemes.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Grown-up: hide the screen. Say 'shell' and ask the child to write it and read it aloud.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'shell' and ask the child to write it and read it aloud.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-018",
-      "alt_text": "🧠 Spell a long-a word; ➡️ Look at pattern; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word.",
-      "Check that you can read digraphs."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can read digraphs.\nHint: Every syllable needs a vowel sound.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": "Check shell: initial sh, short e and final ll in the standard spelling. The final double letter is not two separate phonemes.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Check that you can read digraphs.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "Check shell: initial sh, short e and final ll in the standard spelling. The final double letter is not two separate phonemes.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-020",
+    "id": "ac9e1ly11-er6-p-020",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 10 explain",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match digraphs and words?",
-    "audioPrompt": "Which tip would help you match digraphs and words?",
-    "visual": "🧠 Match digraphs and words; ➡️ Say sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match digraphs and words; ➡️ Say sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-020\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check both two-syllable words accurately. Accept attention to vowel letters, endings or sounding out both syllables; do not accept guessing from the first letter alone.",
+    "acceptanceNote": "Check both two-syllable words accurately. Accept attention to vowel letters, endings or sounding out both syllables; do not accept guessing from the first letter alone.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'rabbit' and 'ribbon' aloud. Explain which parts you checked so you did not mix them up.",
+    "audioPrompt": "Read 'rabbit' and 'ribbon' aloud. Explain which parts you checked so you did not mix them up.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-020",
-      "alt_text": "🧠 Match digraphs and words; ➡️ Say sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not look through the whole word.",
-      "Connecting consonant digraphs with example words.",
-      "Leave out vowel."
-    ],
-    "correct": 1,
-    "explanation": "Connecting consonant digraphs with example words.\nHint: sh/ch/th can make one sound.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": "Check both two-syllable words accurately. Accept attention to vowel letters, endings or sounding out both syllables; do not accept guessing from the first letter alone.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Connecting consonant digraphs with example words.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Check both two-syllable words accurately. Accept attention to vowel letters, endings or sounding out both syllables; do not accept guessing from the first letter alone.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-021",
+    "id": "ac9e1ly11-er6-p-021",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 01 discriminate",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Read a short vowel word; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a short vowel word; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-001\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check sandpit, both short-vowel parts and the nd cluster. A correction following re-reading is acceptable.",
+    "acceptanceNote": "Check sandpit, both short-vowel parts and the nd cluster. A correction following re-reading is acceptable.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'sandpit'. Write it from memory after covering it, then re-read it to check both parts.",
+    "audioPrompt": "Read 'sandpit'. Write it from memory after covering it, then re-read it to check both parts.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-001",
-      "alt_text": "📖 Read a short vowel word; 🔎 short vowel; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Man",
-      "sh/ch/th can make one sound."
-    ],
-    "correct": 0,
-    "explanation": "Count both letters of a digraph as separate sounds. is the mix-up. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "Check sandpit, both short-vowel parts and the nd cluster. A correction following re-reading is acceptable.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Count both letters of a digraph as separate sounds. is the mix-up. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Check sandpit, both short-vowel parts and the nd cluster. A correction following re-reading is acceptable.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-022",
+    "id": "ac9e1ly11-er6-p-022",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 02 discriminate",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match patterns; 🔎 long vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match patterns; 🔎 long vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-003\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check bed-time, with short e in bed and long i in time. The final e is not a separate syllable.",
+    "acceptanceNote": "Check bed-time, with short e in bed and long i in time. The final e is not a separate syllable.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'bedtime'. Point to one short-vowel part and one long-vowel part, then say the whole word.",
+    "audioPrompt": "Read 'bedtime'. Point to one short-vowel part and one long-vowel part, then say the whole word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-003",
-      "alt_text": "📖 Match patterns; 🔎 long vowel; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Time ↔ long vowel; wish ↔ digraph; frog ↔ blend",
-      "Time ↔ digraph; wish ↔ blend; frog ↔ long vowel",
-      "Use this routine: Look at pattern → Say sound → Blend word → Write/check."
-    ],
-    "correct": 1,
-    "explanation": "Time ↔ digraph; wish ↔ blend; frog ↔ long vowel is the mix-up. Look through the whole word.\nHint: Look through the whole word.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Check bed-time, with short e in bed and long i in time. The final e is not a separate syllable.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Time ↔ digraph; wish ↔ blend; frog ↔ long vowel is the mix-up. Look through the whole word.",
-      "hint": "Look through the whole word."
+      "summary": "Check bed-time, with short e in bed and long i in time. The final e is not a separate syllable.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-023",
+    "id": "ac9e1ly11-er6-p-023",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 03 discriminate",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Build a digraph word; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build a digraph word; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-005\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check raincoat with ai and oa and both spoken syllables in order. This integrates two familiar vowel patterns in one word.",
+    "acceptanceNote": "Check raincoat with ai and oa and both spoken syllables in order. This integrates two familiar vowel patterns in one word.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Grown-up: hide the screen. Say 'raincoat'. Ask the child to write it and then read it back.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'raincoat'. Ask the child to write it and then read it back.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-005",
-      "alt_text": "📖 Build a digraph word; 🔎 blend; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "s-h-o-p in spelling; /sh/ /o/ /p/ in sounds",
-      "Look for blend and check the whole example.",
-      "Leave out vowel."
-    ],
-    "correct": 2,
-    "explanation": "Leave out vowel. is the mix-up. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Check raincoat with ai and oa and both spoken syllables in order. This integrates two familiar vowel patterns in one word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Leave out vowel. is the mix-up. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "Check raincoat with ai and oa and both spoken syllables in order. This integrates two familiar vowel patterns in one word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly11-p-024",
+    "id": "ac9e1ly11-er6-p-024",
     "curriculumCode": "AC9E1LY11",
     "bank": "practice",
-    "skill": "ac9e1ly11 04 discriminate",
+    "skill": "reading and writing words using vowel and consonant patterns",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Change short to long; 🔎 digraph; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Change short to long; 🔎 digraph; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-007\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check sunshine, with short u in sun and the long i pattern in shine. Observe both parts rather than awarding credit for copying alone.",
+    "acceptanceNote": "Check sunshine, with short u in sun and the long i pattern in shine. Observe both parts rather than awarding credit for copying alone.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'sunshine'. Write it after covering it, and re-read to check the short and long vowel patterns.",
+    "audioPrompt": "Read 'sunshine'. Write it after covering it, and re-read to check the short and long vowel patterns.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-007",
-      "alt_text": "📖 Change short to long; 🔎 digraph; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Kite; final e changes the vowel from short /i/ to long /i/",
-      "Check that you can read digraphs."
-    ],
-    "correct": 0,
-    "explanation": "Count both letters of a digraph as separate sounds. is the mix-up. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Check sunshine, with short u in sun and the long i pattern in shine. Observe both parts rather than awarding credit for copying alone.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Count both letters of a digraph as separate sounds. is the mix-up. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-025",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 05 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order blend sounds; 🔎 blend to read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order blend sounds; 🔎 blend to read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-009",
-      "alt_text": "📖 Order blend sounds; 🔎 blend to read; ✅ choose with evidence"
-    },
-    "answers": [
-      "/f/ /r/ /o/ /g/ → frog",
-      "frog → /f/ /r/ /o/ /g/",
-      "Blending an initial consonant cluster."
-    ],
-    "correct": 1,
-    "explanation": "frog → /f/ /r/ /o/ /g/ is the mix-up. Look through the whole word.\nHint: Look through the whole word.",
-    "structuredExplanation": {
-      "summary": "frog → /f/ /r/ /o/ /g/ is the mix-up. Look through the whole word.",
-      "hint": "Look through the whole word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-026",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 06 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw sound buttons; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound buttons; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-011",
-      "alt_text": "📖 Draw sound buttons; 🔎 short vowel; ✅ choose with evidence"
-    },
-    "answers": [
-      "Correct spelling and 3 sound markers, with sh grouped",
-      "Every syllable needs a vowel sound.",
-      "Correct spelling and 4 sound markers, with sh grouped"
-    ],
-    "correct": 2,
-    "explanation": "Correct spelling and 4 sound markers, with sh grouped is the mix-up. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
-    "structuredExplanation": {
-      "summary": "Correct spelling and 4 sound markers, with sh grouped is the mix-up. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-027",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare blend and digraph; 🔎 long vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare blend and digraph; 🔎 long vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-013",
-      "alt_text": "📖 Compare blend and digraph; 🔎 long vowel; ✅ choose with evidence"
-    },
-    "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Both /b/ and /r/ are heard separately; sh letters work together for one /sh/ sound",
-      "Use this routine: Look at pattern → Say sound → Blend word → Write/check."
-    ],
-    "correct": 0,
-    "explanation": "Count both letters of a digraph as separate sounds. is the mix-up. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
-    "structuredExplanation": {
-      "summary": "Count both letters of a digraph as separate sounds. is the mix-up. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-028",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Read a two-syllable word; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a two-syllable word; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-015",
-      "alt_text": "📖 Read a two-syllable word; 🔎 blend; ✅ choose with evidence"
-    },
-    "answers": [
-      "Sun/set; reads sun + set → sunset",
-      "sunset → Sun/set; reads sun + set",
-      "Look for blend and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "sunset → Sun/set; reads sun + set is the mix-up. Look through the whole word.\nHint: Look through the whole word.",
-    "structuredExplanation": {
-      "summary": "sunset → Sun/set; reads sun + set is the mix-up. Look through the whole word.",
-      "hint": "Look through the whole word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-029",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Spell a long-a word; 🔎 digraph; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell a long-a word; 🔎 digraph; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-017",
-      "alt_text": "📖 Spell a long-a word; 🔎 digraph; ✅ choose with evidence"
-    },
-    "answers": [
-      "Cake",
-      "Check that you can read digraphs.",
-      "the common a_e pattern"
-    ],
-    "correct": 2,
-    "explanation": "the common a_e pattern is the mix-up. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
-    "structuredExplanation": {
-      "summary": "the common a_e pattern is the mix-up. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-030",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match digraphs and words; 🔎 blend to read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match digraphs and words; 🔎 blend to read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-019",
-      "alt_text": "📖 Match digraphs and words; 🔎 blend to read; ✅ choose with evidence"
-    },
-    "answers": [
-      "sh ↔ chop; ch ↔ thin; th ↔ ship",
-      "sh ↔ ship; ch ↔ chop; th ↔ thin",
-      "Connecting consonant digraphs with example words."
-    ],
-    "correct": 0,
-    "explanation": "sh ↔ chop; ch ↔ thin; th ↔ ship is the mix-up. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
-    "structuredExplanation": {
-      "summary": "sh ↔ chop; ch ↔ thin; th ↔ ship is the mix-up. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-031",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Read a short vowel word; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a short vowel word; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-001",
-      "alt_text": "📖 Read a short vowel word; 🔎 short vowel; ✅ choose with evidence"
-    },
-    "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Man",
-      "Do not look through the whole word."
-    ],
-    "correct": 1,
-    "explanation": "Man uses the skill correctly. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
-    "structuredExplanation": {
-      "summary": "Man uses the skill correctly. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-032",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match patterns; 🔎 long vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match patterns; 🔎 long vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-003",
-      "alt_text": "📖 Match patterns; 🔎 long vowel; ✅ choose with evidence"
-    },
-    "answers": [
-      "Time ↔ digraph; wish ↔ blend; frog ↔ long vowel",
-      "Do not look through the whole word.",
-      "Time ↔ long vowel; wish ↔ digraph; frog ↔ blend"
-    ],
-    "correct": 2,
-    "explanation": "Time ↔ long vowel; wish ↔ digraph; frog ↔ blend uses the skill correctly. Look through the whole word.\nHint: Look through the whole word.",
-    "structuredExplanation": {
-      "summary": "Time ↔ long vowel; wish ↔ digraph; frog ↔ blend uses the skill correctly. Look through the whole word.",
-      "hint": "Look through the whole word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-033",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Build a digraph word; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build a digraph word; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-005",
-      "alt_text": "📖 Build a digraph word; 🔎 blend; ✅ choose with evidence"
-    },
-    "answers": [
-      "s-h-o-p in spelling; /sh/ /o/ /p/ in sounds",
-      "Leave out vowel.",
-      "Count both letters of a digraph as separate sounds."
-    ],
-    "correct": 0,
-    "explanation": "s-h-o-p in spelling; /sh/ /o/ /p/ in sounds uses the skill correctly. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
-    "structuredExplanation": {
-      "summary": "s-h-o-p in spelling; /sh/ /o/ /p/ in sounds uses the skill correctly. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-034",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Change short to long; 🔎 digraph; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Change short to long; 🔎 digraph; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-007",
-      "alt_text": "📖 Change short to long; 🔎 digraph; ✅ choose with evidence"
-    },
-    "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Kite; final e changes the vowel from short /i/ to long /i/",
-      "Do not look through the whole word."
-    ],
-    "correct": 1,
-    "explanation": "Kite; final e changes the vowel from short /i/ to long /i/ uses the skill correctly. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
-    "structuredExplanation": {
-      "summary": "Kite; final e changes the vowel from short /i/ to long /i/ uses the skill correctly. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-035",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order blend sounds; 🔎 blend to read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order blend sounds; 🔎 blend to read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-009",
-      "alt_text": "📖 Order blend sounds; 🔎 blend to read; ✅ choose with evidence"
-    },
-    "answers": [
-      "frog → /f/ /r/ /o/ /g/",
-      "Do not look through the whole word.",
-      "/f/ /r/ /o/ /g/ → frog"
-    ],
-    "correct": 2,
-    "explanation": "/f/ /r/ /o/ /g/ → frog uses the skill correctly. Look through the whole word.\nHint: Look through the whole word.",
-    "structuredExplanation": {
-      "summary": "/f/ /r/ /o/ /g/ → frog uses the skill correctly. Look through the whole word.",
-      "hint": "Look through the whole word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-036",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw sound buttons; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound buttons; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-011",
-      "alt_text": "📖 Draw sound buttons; 🔎 short vowel; ✅ choose with evidence"
-    },
-    "answers": [
-      "Correct spelling and 3 sound markers, with sh grouped",
-      "Correct spelling and 4 sound markers, with sh grouped",
-      "Correct spelling and 2 sound markers, with sh grouped"
-    ],
-    "correct": 0,
-    "explanation": "Correct spelling and 3 sound markers, with sh grouped uses the skill correctly. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
-    "structuredExplanation": {
-      "summary": "Correct spelling and 3 sound markers, with sh grouped uses the skill correctly. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-037",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare blend and digraph; 🔎 long vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare blend and digraph; 🔎 long vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-013",
-      "alt_text": "📖 Compare blend and digraph; 🔎 long vowel; ✅ choose with evidence"
-    },
-    "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Both /b/ and /r/ are heard separately; sh letters work together for one /sh/ sound",
-      "Do not look through the whole word."
-    ],
-    "correct": 1,
-    "explanation": "Both /b/ and /r/ are heard separately; sh letters work together for one /sh/ sound uses the skill correctly. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
-    "structuredExplanation": {
-      "summary": "Both /b/ and /r/ are heard separately; sh letters work together for one /sh/ sound uses the skill correctly. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-038",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Read a two-syllable word; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a two-syllable word; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-015",
-      "alt_text": "📖 Read a two-syllable word; 🔎 blend; ✅ choose with evidence"
-    },
-    "answers": [
-      "sunset → Sun/set; reads sun + set",
-      "Do not look through the whole word.",
-      "Sun/set; reads sun + set → sunset"
-    ],
-    "correct": 2,
-    "explanation": "Sun/set; reads sun + set → sunset uses the skill correctly. Look through the whole word.\nHint: Look through the whole word.",
-    "structuredExplanation": {
-      "summary": "Sun/set; reads sun + set → sunset uses the skill correctly. Look through the whole word.",
-      "hint": "Look through the whole word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-039",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Spell a long-a word; 🔎 digraph; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell a long-a word; 🔎 digraph; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-017",
-      "alt_text": "📖 Spell a long-a word; 🔎 digraph; ✅ choose with evidence"
-    },
-    "answers": [
-      "Cake",
-      "the common a_e pattern",
-      "ceke"
-    ],
-    "correct": 0,
-    "explanation": "Cake uses the skill correctly. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
-    "structuredExplanation": {
-      "summary": "Cake uses the skill correctly. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly11-p-040",
-    "curriculumCode": "AC9E1LY11",
-    "bank": "practice",
-    "skill": "ac9e1ly11 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match digraphs and words; 🔎 blend to read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match digraphs and words; 🔎 blend to read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-p-019",
-      "alt_text": "📖 Match digraphs and words; 🔎 blend to read; ✅ choose with evidence"
-    },
-    "answers": [
-      "sh ↔ chop; ch ↔ thin; th ↔ ship",
-      "sh ↔ ship; ch ↔ chop; th ↔ thin",
-      "Count both letters of a digraph as separate sounds."
-    ],
-    "correct": 1,
-    "explanation": "sh ↔ ship; ch ↔ chop; th ↔ thin uses the skill correctly. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
-    "structuredExplanation": {
-      "summary": "sh ↔ ship; ch ↔ chop; th ↔ thin uses the skill correctly. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Check sunshine, with short u in sun and the long i pattern in shine. Observe both parts rather than awarding credit for copying alone.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   }

@@ -1,1162 +1,794 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly14-p-001",
+    "id": "ac9e1ly14-er6-p-001",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 01 recognise",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Read the word one in 'I have one bag.'",
-    "audioPrompt": "Read the word one in 'I have one bag.'",
-    "visual": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and t-h-e in order. Either usual pronunciation of the in context is acceptable; the writing should be produced before the model is revealed.",
+    "acceptanceNote": "Check accurate reading and t-h-e in order. Either usual pronunciation of the in context is acceptable; the writing should be produced before the model is revealed.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read the word 'the' aloud. Cover it, write it on paper, then uncover it to check.",
+    "audioPrompt": "Read the word 'the' aloud. Cover it, write it on paper, then uncover it to check.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001",
-      "alt_text": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "One",
-      "I",
-      "have"
-    ],
-    "correct": 0,
-    "explanation": "One This matches the task.\nHint: Map sounds and tricky letters.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": "Check accurate reading and t-h-e in order. Either usual pronunciation of the in context is acceptable; the writing should be produced before the model is revealed.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "One This matches the task.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Check accurate reading and t-h-e in order. Either usual pronunciation of the in context is acceptable; the writing should be produced before the model is revealed.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-002",
+    "id": "ac9e1ly14-er6-p-002",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 02 recognise",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match words and sentences?",
-    "audioPrompt": "Which response would correctly match words and sentences?",
-    "visual": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check reading as the familiar past form and spelling w-a-s, not a purely sound-based alternative such as woz.",
+    "acceptanceNote": "Check reading as the familiar past form and spelling w-a-s, not a purely sound-based alternative such as woz.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'was' aloud. Cover the word and write it, then check the vowel letter.",
+    "audioPrompt": "Read 'was' aloud. Cover the word and write it, then check the vowel letter.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003",
-      "alt_text": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "I __ a hat",
-      "Mia __ hello",
-      "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell"
-    ],
-    "correct": 2,
-    "explanation": "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell This matches the task.\nHint: Use it in a sentence.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": "Check reading as the familiar past form and spelling w-a-s, not a purely sound-based alternative such as woz.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell This matches the task.",
-      "hint": "Use it in a sentence."
+      "summary": "Check reading as the familiar past form and spelling w-a-s, not a purely sound-based alternative such as woz.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-003",
+    "id": "ac9e1ly14-er6-p-003",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 03 recognise",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly write from memory?",
-    "audioPrompt": "Which response would correctly write from memory?",
-    "visual": "📖 Write from memory; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write from memory; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and y-o-u in order. This is supported retrieval after reading, not a timed fluency measure.",
+    "acceptanceNote": "Check accurate reading and y-o-u in order. This is supported retrieval after reading, not a timed fluency measure.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'you'. Cover it, write it from memory, and read your writing back.",
+    "audioPrompt": "Read 'you'. Cover it, write it from memory, and read your writing back.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005",
-      "alt_text": "📖 Write from memory; 🔎 read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Ignore errors.",
-      "h-a-v-e in correct order, with self-check",
-      "Memorise only the word shape."
-    ],
-    "correct": 1,
-    "explanation": "h-a-v-e in correct order, with self-check This matches the task.\nHint: Cover, write and check carefully.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": "Check accurate reading and y-o-u in order. This is supported retrieval after reading, not a timed fluency measure.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "h-a-v-e in correct order, with self-check This matches the task.",
-      "hint": "Cover, write and check carefully."
+      "summary": "Check accurate reading and y-o-u in order. This is supported retrieval after reading, not a timed fluency measure.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-004",
+    "id": "ac9e1ly14-er6-p-004",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 04 recognise",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly find the tricky part?",
-    "audioPrompt": "Which response would correctly find the tricky part?",
-    "visual": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the tricky part; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading in the child's accent and a-r-e in order. A silent letter in an accent still belongs in the spelling.",
+    "acceptanceNote": "Check accurate reading in the child's accent and a-r-e in order. A silent letter in an accent still belongs in the spelling.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'are' aloud. Hide the model and write the word.",
+    "audioPrompt": "Read 'are' aloud. Hide the model and write the word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007",
-      "alt_text": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "The whole pronunciation is less predictable from o-n-e",
-      "Memorise only the word shape.",
-      "Do not use it in a sentence."
-    ],
-    "correct": 0,
-    "explanation": "The whole pronunciation is less predictable from o-n-e This matches the task.\nHint: Map sounds and tricky letters.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": "Check accurate reading in the child's accent and a-r-e in order. A silent letter in an accent still belongs in the spelling.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The whole pronunciation is less predictable from o-n-e This matches the task.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Check accurate reading in the child's accent and a-r-e in order. A silent letter in an accent still belongs in the spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-005",
+    "id": "ac9e1ly14-er6-p-005",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 05 recognise",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly order word practice?",
-    "audioPrompt": "Which response would correctly order word practice?",
-    "visual": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order word practice; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check reading with the usual short e vowel and spelling s-a-i-d. Do not teach ai as always representing long a.",
+    "acceptanceNote": "Check reading with the usual short e vowel and spelling s-a-i-d. Do not teach ai as always representing long a.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'said'. Cover it and write it, then check the letters in the middle.",
+    "audioPrompt": "Read 'said'. Cover it and write it, then check the letters in the middle.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009",
-      "alt_text": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "check/correct → cover/write → notice → Read",
-      "Do not use it in a sentence.",
-      "Read → notice → cover/write → check/correct"
-    ],
-    "correct": 2,
-    "explanation": "Read → notice → cover/write → check/correct This matches the task.\nHint: Use it in a sentence.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": "Check reading with the usual short e vowel and spelling s-a-i-d. Do not teach ai as always representing long a.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Read → notice → cover/write → check/correct This matches the task.",
-      "hint": "Use it in a sentence."
+      "summary": "Check reading with the usual short e vowel and spelling s-a-i-d. Do not teach ai as always representing long a.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-006",
+    "id": "ac9e1ly14-er6-p-006",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 06 recognise",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly draw a word memory card?",
-    "audioPrompt": "Which response would correctly draw a word memory card?",
-    "visual": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading with its usual short a and spelling h-a-v-e. Not every final-e word has a long vowel.",
+    "acceptanceNote": "Check accurate reading with its usual short a and spelling h-a-v-e. Not every final-e word has a long vowel.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'have' aloud. Cover it, write it and compare with the model.",
+    "audioPrompt": "Read 'have' aloud. Cover it, write it and compare with the model.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011",
-      "alt_text": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Ignore errors.",
-      "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling",
-      "Memorise only the word shape."
-    ],
-    "correct": 1,
-    "explanation": "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling This matches the task.\nHint: Cover, write and check carefully.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": "Check accurate reading with its usual short a and spelling h-a-v-e. Not every final-e word has a long vowel.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling This matches the task.",
-      "hint": "Cover, write and check carefully."
+      "summary": "Check accurate reading with its usual short a and spelling h-a-v-e. Not every final-e word has a long vowel.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-007",
+    "id": "ac9e1ly14-er6-p-007",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 07 recognise",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Complete 'They __ coming with us' using are or our.",
-    "audioPrompt": "Complete 'They __ coming with us' using are or our.",
-    "visual": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and t-h-e-y in order. The th sound is voiced in this word; spelling should retain both letters.",
+    "acceptanceNote": "Check accurate reading and t-h-e-y in order. The th sound is voiced in this word; spelling should retain both letters.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'they'. Cover the word and write it on paper.",
+    "audioPrompt": "Read 'they'. Cover the word and write it on paper.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013",
-      "alt_text": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Are",
-      "our",
-      "They"
-    ],
-    "correct": 0,
-    "explanation": "Are This matches the task.\nHint: Map sounds and tricky letters.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": "Check accurate reading and t-h-e-y in order. The th sound is voiced in this word; spelling should retain both letters.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Are This matches the task.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Check accurate reading and t-h-e-y in order. The th sound is voiced in this word; spelling should retain both letters.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-008",
+    "id": "ac9e1ly14-er6-p-008",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 08 recognise",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Correct: 'I hav one littel bag.'",
-    "audioPrompt": "Correct: 'I hav one littel bag.'",
-    "visual": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and c-o-m-e. Its vowel does not follow the common long-o final-e example.",
+    "acceptanceNote": "Check accurate reading and c-o-m-e. Its vowel does not follow the common long-o final-e example.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'come'. Cover it and write it, then read your word back.",
+    "audioPrompt": "Read 'come'. Cover it and write it, then read your word back.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015",
-      "alt_text": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "I hav one littel bag",
-      "Do not use it in a sentence.",
-      "'I have one little bag.'"
-    ],
-    "correct": 2,
-    "explanation": "'I have one little bag.' This matches the task.\nHint: Use it in a sentence.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": "Check accurate reading and c-o-m-e. Its vowel does not follow the common long-o final-e example.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "'I have one little bag.' This matches the task.",
-      "hint": "Use it in a sentence."
+      "summary": "Check accurate reading and c-o-m-e. Its vowel does not follow the common long-o final-e example.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-009",
+    "id": "ac9e1ly14-er6-p-009",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 09 recognise",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly read without picture guessing?",
-    "audioPrompt": "Which response would correctly read without picture guessing?",
-    "visual": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read without picture guessing; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading of were in context and spelling w-e-r-e. Do not accept where, which is a different word.",
+    "acceptanceNote": "Check accurate reading of were in context and spelling w-e-r-e. Do not accept where, which is a different word.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'We were at the pond.' Point to 'were', then cover the sentence and write that word.",
+    "audioPrompt": "Read 'We were at the pond.' Point to 'were', then cover the sentence and write that word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017",
-      "alt_text": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Come here, please",
-      "Come and here",
-      "Ignore errors."
-    ],
-    "correct": 1,
-    "explanation": "Come and here This matches the task.\nHint: Cover, write and check carefully.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": "Check accurate reading of were in context and spelling w-e-r-e. Do not accept where, which is a different word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Come and here This matches the task.",
-      "hint": "Cover, write and check carefully."
+      "summary": "Check accurate reading of were in context and spelling w-e-r-e. Do not accept where, which is a different word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-010",
+    "id": "ac9e1ly14-er6-p-010",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 10 recognise",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match commonly confused words?",
-    "audioPrompt": "Which response would correctly match commonly confused words?",
-    "visual": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check reading in context and spelling t-h-e-r-e. The location meaning distinguishes it from their or they are.",
+    "acceptanceNote": "Check reading in context and spelling t-h-e-r-e. The location meaning distinguishes it from their or they are.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'The bag is there.' Point to 'there', hide it and write the target word.",
+    "audioPrompt": "Read 'The bag is there.' Point to 'there', hide it and write the target word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019",
-      "alt_text": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Where ↔ place question; were ↔ past are; we're ↔ we are",
-      "Where ↔ past are; were ↔ we are; we're ↔ place question",
-      "Memorise only the word shape."
-    ],
-    "correct": 0,
-    "explanation": "Where ↔ place question; were ↔ past are; we're ↔ we are This matches the task.\nHint: Map sounds and tricky letters.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": "Check reading in context and spelling t-h-e-r-e. The location meaning distinguishes it from their or they are.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Where ↔ place question; were ↔ past are; we're ↔ we are This matches the task.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Check reading in context and spelling t-h-e-r-e. The location meaning distinguishes it from their or they are.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-011",
+    "id": "ac9e1ly14-er6-p-011",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 01 explain",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you read a common word?",
-    "audioPrompt": "Which tip would help you read a common word?",
-    "visual": "🧠 Read a common word; ➡️ Read word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Read a common word; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-002\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and s-o-m-e. Its usual vowel is not the long o suggested by some other final-e words.",
+    "acceptanceNote": "Check accurate reading and s-o-m-e. Its usual vowel is not the long o suggested by some other final-e words.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'I have some paper.' Read 'some' again, then cover and write it.",
+    "audioPrompt": "Read 'I have some paper.' Read 'some' again, then cover and write it.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-002",
-      "alt_text": "🧠 Read a common word; ➡️ Read word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use it in a sentence.",
-      "Map sounds and tricky letters.",
-      "Ignore errors."
-    ],
-    "correct": 1,
-    "explanation": "Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": "Check accurate reading and s-o-m-e. Its usual vowel is not the long o suggested by some other final-e words.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Check accurate reading and s-o-m-e. Its usual vowel is not the long o suggested by some other final-e words.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-012",
+    "id": "ac9e1ly14-er6-p-012",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 02 explain",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match words and sentences?",
-    "audioPrompt": "Which tip would help you match words and sentences?",
-    "visual": "🧠 Match words and sentences; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match words and sentences; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-004\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check one read accurately and spelled o-n-e. The target is the number word, not the sound-alike won.",
+    "acceptanceNote": "Check one read accurately and spelled o-n-e. The target is the number word, not the sound-alike won.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'I found one shell.' Cover the sentence and write the word that tells how many.",
+    "audioPrompt": "Read 'I found one shell.' Cover the sentence and write the word that tells how many.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-004",
-      "alt_text": "🧠 Match words and sentences; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
-      "Ignore errors.",
-      "Memorise only the word shape."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.\nHint: Use it in a sentence.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": "Check one read accurately and spelled o-n-e. The target is the number word, not the sound-alike won.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
-      "hint": "Use it in a sentence."
+      "summary": "Check one read accurately and spelled o-n-e. The target is the number word, not the sound-alike won.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-013",
+    "id": "ac9e1ly14-er6-p-013",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 03 explain",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you write from memory?",
-    "audioPrompt": "Which tip would help you write from memory?",
-    "visual": "🧠 Write from memory; ➡️ Map tricky part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Write from memory; ➡️ Map tricky part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-006\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and w-h-a-t. Either capital W or lower-case w is acceptable when writing the word by itself.",
+    "acceptanceNote": "Check accurate reading and w-h-a-t. Either capital W or lower-case w is acceptable when writing the word by itself.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'What is in the box?' Point to 'What', then cover and write it.",
+    "audioPrompt": "Read 'What is in the box?' Point to 'What', then cover and write it.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-006",
-      "alt_text": "🧠 Write from memory; ➡️ Map tricky part; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Memorise only the word shape.",
-      "Do not use it in a sentence.",
-      "Look for read and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for read and check the whole example.\nHint: Cover, write and check carefully.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": "Check accurate reading and w-h-a-t. Either capital W or lower-case w is acceptable when writing the word by itself.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Look for read and check the whole example.",
-      "hint": "Cover, write and check carefully."
+      "summary": "Check accurate reading and w-h-a-t. Either capital W or lower-case w is acceptable when writing the word by itself.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-014",
+    "id": "ac9e1ly14-er6-p-014",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 04 explain",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you find the tricky part?",
-    "audioPrompt": "Which tip would help you find the tricky part?",
-    "visual": "🧠 Find the tricky part; ➡️ Write; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the tricky part; ➡️ Write; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-008\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check when read accurately and spelled w-h-e-n. Accept upper- or lower-case initial letter in the isolated response.",
+    "acceptanceNote": "Check when read accurately and spelled w-h-e-n. Accept upper- or lower-case initial letter in the isolated response.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'When can we go?' Cover the sentence and write its first word.",
+    "audioPrompt": "Read 'When can we go?' Cover the sentence and write its first word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-008",
-      "alt_text": "🧠 Find the tricky part; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use it in a sentence.",
-      "Check that you can use in sentences.",
-      "Ignore errors."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can use in sentences.\nHint: Map sounds and tricky letters.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": "Check when read accurately and spelled w-h-e-n. Accept upper- or lower-case initial letter in the isolated response.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Check that you can use in sentences.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Check when read accurately and spelled w-h-e-n. Accept upper- or lower-case initial letter in the isolated response.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-015",
+    "id": "ac9e1ly14-er6-p-015",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 05 explain",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order word practice?",
-    "audioPrompt": "Which tip would help you order word practice?",
-    "visual": "🧠 Order word practice; ➡️ Use in sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order word practice; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-010\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and w-i-t-h. Allow the usual voiced or unvoiced final th variation without changing spelling.",
+    "acceptanceNote": "Check accurate reading and w-i-t-h. Allow the usual voiced or unvoiced final th variation without changing spelling.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'I went with Mum.' Cover the sentence and write 'with'.",
+    "audioPrompt": "Read 'I went with Mum.' Cover the sentence and write 'with'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-010",
-      "alt_text": "🧠 Order word practice; ➡️ Use in sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Sequencing an effective high-frequency-word routine.",
-      "Ignore errors.",
-      "Memorise only the word shape."
-    ],
-    "correct": 0,
-    "explanation": "Sequencing an effective high-frequency-word routine.\nHint: Use it in a sentence.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": "Check accurate reading and w-i-t-h. Allow the usual voiced or unvoiced final th variation without changing spelling.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Sequencing an effective high-frequency-word routine.",
-      "hint": "Use it in a sentence."
+      "summary": "Check accurate reading and w-i-t-h. Allow the usual voiced or unvoiced final th variation without changing spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-016",
+    "id": "ac9e1ly14-er6-p-016",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 06 explain",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you draw a word memory card?",
-    "audioPrompt": "Which tip would help you draw a word memory card?",
-    "visual": "🧠 Draw a word memory card; ➡️ Read word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a word memory card; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-012\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and f-r-o-m, retaining the initial consonant cluster and o.",
+    "acceptanceNote": "Check accurate reading and f-r-o-m, retaining the initial consonant cluster and o.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'This note is from Dad.' Cover it and write the word 'from'.",
+    "audioPrompt": "Read 'This note is from Dad.' Cover it and write the word 'from'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-012",
-      "alt_text": "🧠 Draw a word memory card; ➡️ Read word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Memorise only the word shape.",
-      "Do not use it in a sentence.",
-      "Cover, write and check carefully."
-    ],
-    "correct": 2,
-    "explanation": "Cover, write and check carefully.\nHint: Cover, write and check carefully.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": "Check accurate reading and f-r-o-m, retaining the initial consonant cluster and o.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
+      "summary": "Check accurate reading and f-r-o-m, retaining the initial consonant cluster and o.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-017",
+    "id": "ac9e1ly14-er6-p-017",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 07 explain",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you choose the correct word?",
-    "audioPrompt": "Which tip would help you choose the correct word?",
-    "visual": "🧠 Choose the correct word; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose the correct word; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check c-o-u-l-d and accurate reading. The l is retained in the spelling although it is not pronounced in the usual form.",
+    "acceptanceNote": "Check c-o-u-l-d and accurate reading. The l is retained in the spelling although it is not pronounced in the usual form.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'We could build a den.' Cover the sentence and write 'could', then check for a letter you do not hear clearly.",
+    "audioPrompt": "Read 'We could build a den.' Cover the sentence and write 'could', then check for a letter you do not hear clearly.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-014",
-      "alt_text": "🧠 Choose the correct word; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use it in a sentence.",
-      "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
-      "Ignore errors."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.\nHint: Map sounds and tricky letters.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": "Check c-o-u-l-d and accurate reading. The l is retained in the spelling although it is not pronounced in the usual form.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Check c-o-u-l-d and accurate reading. The l is retained in the spelling although it is not pronounced in the usual form.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-018",
+    "id": "ac9e1ly14-er6-p-018",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 08 explain",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you edit a common-word sentence?",
-    "audioPrompt": "Which tip would help you edit a common-word sentence?",
-    "visual": "🧠 Edit a common-word sentence; ➡️ Map tricky part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Edit a common-word sentence; ➡️ Map tricky part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check w-o-u-l-d and correct reading in context. Do not accept wood, which sounds alike but has a different meaning and spelling.",
+    "acceptanceNote": "Check w-o-u-l-d and correct reading in context. Do not accept wood, which sounds alike but has a different meaning and spelling.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'I would like a turn.' Cover the sentence and write 'would'.",
+    "audioPrompt": "Read 'I would like a turn.' Cover the sentence and write 'would'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-016",
-      "alt_text": "🧠 Edit a common-word sentence; ➡️ Map tricky part; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Look for read and check the whole example.",
-      "Ignore errors.",
-      "Memorise only the word shape."
-    ],
-    "correct": 0,
-    "explanation": "Look for read and check the whole example.\nHint: Use it in a sentence.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": "Check w-o-u-l-d and correct reading in context. Do not accept wood, which sounds alike but has a different meaning and spelling.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Look for read and check the whole example.",
-      "hint": "Use it in a sentence."
+      "summary": "Check w-o-u-l-d and correct reading in context. Do not accept wood, which sounds alike but has a different meaning and spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-019",
+    "id": "ac9e1ly14-er6-p-019",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 09 explain",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you read without picture guessing?",
-    "audioPrompt": "Which tip would help you read without picture guessing?",
-    "visual": "🧠 Read without picture guessing; ➡️ Write; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Read without picture guessing; ➡️ Write; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-018\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check s-h-o-u-l-d, accurate reading and recognition of the shared ould spelling. The child need not state a formal rule.",
+    "acceptanceNote": "Check s-h-o-u-l-d, accurate reading and recognition of the shared ould spelling. The child need not state a formal rule.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'We should pack up.' Cover it and write 'should', then compare the ending with could.",
+    "audioPrompt": "Read 'We should pack up.' Cover it and write 'should', then compare the ending with could.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-018",
-      "alt_text": "🧠 Read without picture guessing; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Memorise only the word shape.",
-      "Do not use it in a sentence.",
-      "Check that you can use in sentences."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can use in sentences.\nHint: Cover, write and check carefully.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": "Check s-h-o-u-l-d, accurate reading and recognition of the shared ould spelling. The child need not state a formal rule.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Check that you can use in sentences.",
-      "hint": "Cover, write and check carefully."
+      "summary": "Check s-h-o-u-l-d, accurate reading and recognition of the shared ould spelling. The child need not state a formal rule.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-020",
+    "id": "ac9e1ly14-er6-p-020",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 10 explain",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match commonly confused words?",
-    "audioPrompt": "Which tip would help you match commonly confused words?",
-    "visual": "🧠 Match commonly confused words; ➡️ Use in sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match commonly confused words; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-020\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check where spelled w-h-e-r-e and read as the question word. Distinguish it from were.",
+    "acceptanceNote": "Check where spelled w-h-e-r-e and read as the question word. Distinguish it from were.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'Where is the lid?' Hide the sentence and write its first word.",
+    "audioPrompt": "Read 'Where is the lid?' Hide the sentence and write its first word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-020",
-      "alt_text": "🧠 Match commonly confused words; ➡️ Use in sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use it in a sentence.",
-      "Distinguishing visually similar frequent words.",
-      "Ignore errors."
-    ],
-    "correct": 1,
-    "explanation": "Distinguishing visually similar frequent words.\nHint: Map sounds and tricky letters.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": "Check where spelled w-h-e-r-e and read as the question word. Distinguish it from were.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Distinguishing visually similar frequent words.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Check where spelled w-h-e-r-e and read as the question word. Distinguish it from were.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-021",
+    "id": "ac9e1ly14-er6-p-021",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 01 discriminate",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check a-g-a-i-n. Accept ordinary local pronunciations of again; do not insist on one accent's vowel.",
+    "acceptanceNote": "Check a-g-a-i-n. Accept ordinary local pronunciations of again; do not insist on one accent's vowel.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'Please try again.' Cover the sentence and write 'again', then read your writing back.",
+    "audioPrompt": "Read 'Please try again.' Cover the sentence and write 'again', then read your writing back.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001",
-      "alt_text": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "I",
-      "One",
-      "Map sounds and tricky letters."
-    ],
-    "correct": 0,
-    "explanation": "I is the mix-up. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "Check a-g-a-i-n. Accept ordinary local pronunciations of again; do not insist on one accent's vowel.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "I is the mix-up. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Check a-g-a-i-n. Accept ordinary local pronunciations of again; do not insist on one accent's vowel.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-022",
+    "id": "ac9e1ly14-er6-p-022",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 02 discriminate",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check p-e-o-p-l-e and accurate reading. The task is recall of the word's standard spelling, not counting printed vowels as syllables.",
+    "acceptanceNote": "Check p-e-o-p-l-e and accurate reading. The task is recall of the word's standard spelling, not counting printed vowels as syllables.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'People are waiting.' Hide it and write 'people'. Check that you kept the whole word.",
+    "audioPrompt": "Read 'People are waiting.' Hide it and write 'people'. Check that you kept the whole word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003",
-      "alt_text": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell",
-      "I __ a hat",
-      "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence."
-    ],
-    "correct": 1,
-    "explanation": "I __ a hat is the mix-up. Use it in a sentence.\nHint: Use it in a sentence.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Check p-e-o-p-l-e and accurate reading. The task is recall of the word's standard spelling, not counting printed vowels as syllables.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "I __ a hat is the mix-up. Use it in a sentence.",
-      "hint": "Use it in a sentence."
+      "summary": "Check p-e-o-p-l-e and accurate reading. The task is recall of the word's standard spelling, not counting printed vowels as syllables.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-023",
+    "id": "ac9e1ly14-er6-p-023",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 03 discriminate",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Write from memory; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write from memory; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check l-i-t-t-l-e, with two t letters, and accurate reading. Accept the child's normal pronunciation.",
+    "acceptanceNote": "Check l-i-t-t-l-e, with two t letters, and accurate reading. Accept the child's normal pronunciation.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'A little bird landed.' Cover it and write 'little'. Check the repeated letter.",
+    "audioPrompt": "Read 'A little bird landed.' Cover it and write 'little'. Check the repeated letter.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005",
-      "alt_text": "📖 Write from memory; 🔎 read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "h-a-v-e in correct order, with self-check",
-      "Look for read and check the whole example.",
-      "Ignore errors."
-    ],
-    "correct": 2,
-    "explanation": "Ignore errors. is the mix-up. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Check l-i-t-t-l-e, with two t letters, and accurate reading. Accept the child's normal pronunciation.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Ignore errors. is the mix-up. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
+      "summary": "Check l-i-t-t-l-e, with two t letters, and accurate reading. Accept the child's normal pronunciation.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-024",
+    "id": "ac9e1ly14-er6-p-024",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 04 discriminate",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the tricky part; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check b-e-c-a-u-s-e and accurate reading in context. Allow time for spelling; do not demand speed as evidence of mastery.",
+    "acceptanceNote": "Check b-e-c-a-u-s-e and accurate reading in context. Allow time for spelling; do not demand speed as evidence of mastery.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'I stopped because I was tired.' Cover it and write 'because', then re-read to check all its parts.",
+    "audioPrompt": "Read 'I stopped because I was tired.' Cover it and write 'because', then re-read to check all its parts.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007",
-      "alt_text": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Memorise only the word shape.",
-      "The whole pronunciation is less predictable from o-n-e",
-      "Check that you can use in sentences."
-    ],
-    "correct": 0,
-    "explanation": "Memorise only the word shape. is the mix-up. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Check b-e-c-a-u-s-e and accurate reading in context. Allow time for spelling; do not demand speed as evidence of mastery.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Memorise only the word shape. is the mix-up. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-025",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 05 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order word practice; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009",
-      "alt_text": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence"
-    },
-    "answers": [
-      "Read → notice → cover/write → check/correct",
-      "check/correct → cover/write → notice → Read",
-      "Sequencing an effective high-frequency-word routine."
-    ],
-    "correct": 1,
-    "explanation": "check/correct → cover/write → notice → Read is the mix-up. Use it in a sentence.\nHint: Use it in a sentence.",
-    "structuredExplanation": {
-      "summary": "check/correct → cover/write → notice → Read is the mix-up. Use it in a sentence.",
-      "hint": "Use it in a sentence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-026",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 06 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011",
-      "alt_text": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence"
-    },
-    "answers": [
-      "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling",
-      "Cover, write and check carefully.",
-      "Ignore errors."
-    ],
-    "correct": 2,
-    "explanation": "Ignore errors. is the mix-up. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
-    "structuredExplanation": {
-      "summary": "Ignore errors. is the mix-up. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-027",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013",
-      "alt_text": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence"
-    },
-    "answers": [
-      "our",
-      "Are",
-      "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence."
-    ],
-    "correct": 0,
-    "explanation": "our is the mix-up. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
-    "structuredExplanation": {
-      "summary": "our is the mix-up. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-028",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015",
-      "alt_text": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence"
-    },
-    "answers": [
-      "'I have one little bag.'",
-      "I hav one littel bag",
-      "Look for read and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "I hav one littel bag is the mix-up. Use it in a sentence.\nHint: Use it in a sentence.",
-    "structuredExplanation": {
-      "summary": "I hav one littel bag is the mix-up. Use it in a sentence.",
-      "hint": "Use it in a sentence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-029",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read without picture guessing; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017",
-      "alt_text": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence"
-    },
-    "answers": [
-      "Come and here",
-      "Check that you can use in sentences.",
-      "Come here, please"
-    ],
-    "correct": 2,
-    "explanation": "Come here, please is the mix-up. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
-    "structuredExplanation": {
-      "summary": "Come here, please is the mix-up. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-030",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019",
-      "alt_text": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence"
-    },
-    "answers": [
-      "Where ↔ past are; were ↔ we are; we're ↔ place question",
-      "Where ↔ place question; were ↔ past are; we're ↔ we are",
-      "Distinguishing visually similar frequent words."
-    ],
-    "correct": 0,
-    "explanation": "Where ↔ past are; were ↔ we are; we're ↔ place question is the mix-up. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
-    "structuredExplanation": {
-      "summary": "Where ↔ past are; were ↔ we are; we're ↔ place question is the mix-up. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-031",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001",
-      "alt_text": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence"
-    },
-    "answers": [
-      "I",
-      "One",
-      "have"
-    ],
-    "correct": 1,
-    "explanation": "One uses the skill correctly. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
-    "structuredExplanation": {
-      "summary": "One uses the skill correctly. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-032",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003",
-      "alt_text": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence"
-    },
-    "answers": [
-      "I __ a hat",
-      "Mia __ hello",
-      "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell"
-    ],
-    "correct": 2,
-    "explanation": "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell uses the skill correctly. Use it in a sentence.\nHint: Use it in a sentence.",
-    "structuredExplanation": {
-      "summary": "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell uses the skill correctly. Use it in a sentence.",
-      "hint": "Use it in a sentence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-033",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Write from memory; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write from memory; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005",
-      "alt_text": "📖 Write from memory; 🔎 read; ✅ choose with evidence"
-    },
-    "answers": [
-      "h-a-v-e in correct order, with self-check",
-      "Ignore errors.",
-      "Memorise only the word shape."
-    ],
-    "correct": 0,
-    "explanation": "h-a-v-e in correct order, with self-check uses the skill correctly. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
-    "structuredExplanation": {
-      "summary": "h-a-v-e in correct order, with self-check uses the skill correctly. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-034",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the tricky part; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007",
-      "alt_text": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence"
-    },
-    "answers": [
-      "Memorise only the word shape.",
-      "The whole pronunciation is less predictable from o-n-e",
-      "Do not use it in a sentence."
-    ],
-    "correct": 1,
-    "explanation": "The whole pronunciation is less predictable from o-n-e uses the skill correctly. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
-    "structuredExplanation": {
-      "summary": "The whole pronunciation is less predictable from o-n-e uses the skill correctly. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-035",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order word practice; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009",
-      "alt_text": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence"
-    },
-    "answers": [
-      "check/correct → cover/write → notice → Read",
-      "Do not use it in a sentence.",
-      "Read → notice → cover/write → check/correct"
-    ],
-    "correct": 2,
-    "explanation": "Read → notice → cover/write → check/correct uses the skill correctly. Use it in a sentence.\nHint: Use it in a sentence.",
-    "structuredExplanation": {
-      "summary": "Read → notice → cover/write → check/correct uses the skill correctly. Use it in a sentence.",
-      "hint": "Use it in a sentence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-036",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011",
-      "alt_text": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence"
-    },
-    "answers": [
-      "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling",
-      "Ignore errors.",
-      "Memorise only the word shape."
-    ],
-    "correct": 0,
-    "explanation": "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling uses the skill correctly. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
-    "structuredExplanation": {
-      "summary": "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling uses the skill correctly. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-037",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013",
-      "alt_text": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence"
-    },
-    "answers": [
-      "our",
-      "Are",
-      "They"
-    ],
-    "correct": 1,
-    "explanation": "Are uses the skill correctly. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
-    "structuredExplanation": {
-      "summary": "Are uses the skill correctly. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-038",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015",
-      "alt_text": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence"
-    },
-    "answers": [
-      "I hav one littel bag",
-      "Do not use it in a sentence.",
-      "'I have one little bag.'"
-    ],
-    "correct": 2,
-    "explanation": "'I have one little bag.' uses the skill correctly. Use it in a sentence.\nHint: Use it in a sentence.",
-    "structuredExplanation": {
-      "summary": "'I have one little bag.' uses the skill correctly. Use it in a sentence.",
-      "hint": "Use it in a sentence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-039",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read without picture guessing; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017",
-      "alt_text": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence"
-    },
-    "answers": [
-      "Come and here",
-      "Come here, please",
-      "Ignore errors."
-    ],
-    "correct": 0,
-    "explanation": "Come and here uses the skill correctly. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
-    "structuredExplanation": {
-      "summary": "Come and here uses the skill correctly. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-040",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "ac9e1ly14 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019",
-      "alt_text": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence"
-    },
-    "answers": [
-      "Where ↔ past are; were ↔ we are; we're ↔ place question",
-      "Where ↔ place question; were ↔ past are; we're ↔ we are",
-      "Memorise only the word shape."
-    ],
-    "correct": 1,
-    "explanation": "Where ↔ place question; were ↔ past are; we're ↔ we are uses the skill correctly. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
-    "structuredExplanation": {
-      "summary": "Where ↔ place question; were ↔ past are; we're ↔ we are uses the skill correctly. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Check b-e-c-a-u-s-e and accurate reading in context. Allow time for spelling; do not demand speed as evidence of mastery.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
     "qualitySchema": "production-v1"
   }

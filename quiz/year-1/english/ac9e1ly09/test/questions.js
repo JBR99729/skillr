@@ -26,7 +26,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 1,
     "correct": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.",
-    "explanation": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -59,7 +59,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 2,
     "correct": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.",
-    "explanation": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -92,7 +92,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 3,
     "correct": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.",
-    "explanation": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -125,7 +125,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 4,
     "correct": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.",
-    "explanation": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -158,7 +158,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 5,
     "correct": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.",
-    "explanation": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -191,7 +191,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 6,
     "correct": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.",
-    "explanation": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -224,7 +224,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 7,
     "correct": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.",
-    "explanation": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -257,7 +257,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 8,
     "correct": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.",
-    "explanation": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -290,7 +290,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 9,
     "correct": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.",
-    "explanation": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -323,7 +323,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 10,
     "correct": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.",
-    "explanation": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -356,7 +356,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 11,
     "correct": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.",
-    "explanation": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -389,7 +389,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 12,
     "correct": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.",
-    "explanation": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -422,7 +422,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 13,
     "correct": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.",
-    "explanation": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -455,7 +455,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 14,
     "correct": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.",
-    "explanation": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -488,7 +488,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 15,
     "correct": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.",
-    "explanation": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -521,7 +521,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 16,
     "correct": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.",
-    "explanation": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.",
       "hint": "Complete the task before comparing your response with the guidance."

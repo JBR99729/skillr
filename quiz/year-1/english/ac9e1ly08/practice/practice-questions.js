@@ -26,7 +26,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 1,
     "correct": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.",
-    "explanation": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -59,7 +59,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 2,
     "correct": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.",
-    "explanation": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -92,7 +92,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 3,
     "correct": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.",
-    "explanation": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -125,7 +125,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 4,
     "correct": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.",
-    "explanation": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -158,7 +158,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 5,
     "correct": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.",
-    "explanation": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -191,7 +191,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 6,
     "correct": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.",
-    "explanation": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -224,7 +224,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 7,
     "correct": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.",
-    "explanation": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -257,7 +257,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 8,
     "correct": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.",
-    "explanation": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -290,7 +290,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 9,
     "correct": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.",
-    "explanation": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -323,7 +323,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 10,
     "correct": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.",
-    "explanation": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -356,7 +356,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 11,
     "correct": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.",
-    "explanation": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -389,7 +389,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 12,
     "correct": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.",
-    "explanation": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -422,7 +422,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 13,
     "correct": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.",
-    "explanation": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -455,7 +455,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 14,
     "correct": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.",
-    "explanation": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -488,7 +488,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 15,
     "correct": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.",
-    "explanation": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -521,7 +521,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 16,
     "correct": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.",
-    "explanation": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -554,7 +554,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 17,
     "correct": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.",
-    "explanation": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -587,7 +587,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 18,
     "correct": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.",
-    "explanation": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -620,7 +620,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 19,
     "correct": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.",
-    "explanation": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -653,7 +653,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 20,
     "correct": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.",
-    "explanation": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -686,7 +686,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 21,
     "correct": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.",
-    "explanation": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -719,7 +719,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 22,
     "correct": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.",
-    "explanation": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -752,7 +752,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 23,
     "correct": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.",
-    "explanation": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -785,7 +785,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 24,
     "correct": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.",
-    "explanation": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.",
       "hint": "Complete the task before comparing your response with the guidance."

@@ -26,7 +26,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 1,
     "correct": "Mat. Replace initial /k/ with /m/ and keep /a/ /t/. The child should produce the new spoken word without seeing its spelling.",
-    "explanation": "Mat. Replace initial /k/ with /m/ and keep /a/ /t/. The child should produce the new spoken word without seeing its spelling.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Mat. Replace initial /k/ with /m/ and keep /a/ /t/. The child should produce the new spoken word without seeing its spelling.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -59,7 +59,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 2,
     "correct": "Tin. Change /p/ to /t/ while retaining the vowel and final /n/.",
-    "explanation": "Tin. Change /p/ to /t/ while retaining the vowel and final /n/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Tin. Change /p/ to /t/ while retaining the vowel and final /n/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -92,7 +92,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 3,
     "correct": "Fun. Substitute /f/ for /s/ and preserve the remaining sounds.",
-    "explanation": "Fun. Substitute /f/ for /s/ and preserve the remaining sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Fun. Substitute /f/ for /s/ and preserve the remaining sounds.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -125,7 +125,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 4,
     "correct": "Dog. Replace /l/ with /d/ while keeping /o/ /g/.",
-    "explanation": "Dog. Replace /l/ with /d/ while keeping /o/ /g/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Dog. Replace /l/ with /d/ while keeping /o/ /g/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -158,7 +158,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 5,
     "correct": "Cat. Replace final /p/ with /t/ and keep the first two sounds.",
-    "explanation": "Cat. Replace final /p/ with /t/ and keep the first two sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Cat. Replace final /p/ with /t/ and keep the first two sounds.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -191,7 +191,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 6,
     "correct": "Ham. Replace final /t/ with /m/ and retain /h/ /a/.",
-    "explanation": "Ham. Replace final /t/ with /m/ and retain /h/ /a/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Ham. Replace final /t/ with /m/ and retain /h/ /a/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -224,7 +224,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 7,
     "correct": "Mat. Replace final /p/ with /t/ and keep /m/ /a/.",
-    "explanation": "Mat. Replace final /p/ with /t/ and keep /m/ /a/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Mat. Replace final /p/ with /t/ and keep /m/ /a/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -257,7 +257,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "recognise",
     "sequencePriority": 8,
     "correct": "Sip. Replace /t/ with /p/ while preserving /s/ /i/.",
-    "explanation": "Sip. Replace /t/ with /p/ while preserving /s/ /i/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Sip. Replace /t/ with /p/ while preserving /s/ /i/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -290,7 +290,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 9,
     "correct": "Big. Change short /a/ to short /i/ while keeping /b/ and /g/.",
-    "explanation": "Big. Change short /a/ to short /i/ while keeping /b/ and /g/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Big. Change short /a/ to short /i/ while keeping /b/ and /g/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -323,7 +323,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 10,
     "correct": "Pan. Change short /e/ to short /a/ and keep the consonants.",
-    "explanation": "Pan. Change short /e/ to short /a/ and keep the consonants.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Pan. Change short /e/ to short /a/ and keep the consonants.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -356,7 +356,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 11,
     "correct": "Hat. Change short /o/ to short /a/, keeping /h/ and /t/.",
-    "explanation": "Hat. Change short /o/ to short /a/, keeping /h/ and /t/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Hat. Change short /o/ to short /a/, keeping /h/ and /t/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -389,7 +389,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 12,
     "correct": "Cot. Change short /u/ to short /o/ while preserving the first and last sounds.",
-    "explanation": "Cot. Change short /u/ to short /o/ while preserving the first and last sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Cot. Change short /u/ to short /o/ while preserving the first and last sounds.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -422,7 +422,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 13,
     "correct": "Slip. Insert /l/ after /s/; the other sounds stay in order.",
-    "explanation": "Slip. Insert /l/ after /s/; the other sounds stay in order.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Slip. Insert /l/ after /s/; the other sounds stay in order.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -455,7 +455,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 14,
     "correct": "Spot. Add /s/ before /p/ /o/ /t/, without deleting an existing sound.",
-    "explanation": "Spot. Add /s/ before /p/ /o/ /t/, without deleting an existing sound.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Spot. Add /s/ before /p/ /o/ /t/, without deleting an existing sound.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -488,7 +488,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 15,
     "correct": "Tent. Add final /t/ after /t/ /e/ /n/; keep the original beginning /t/ too.",
-    "explanation": "Tent. Add final /t/ after /t/ /e/ /n/; keep the original beginning /t/ too.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Tent. Add final /t/ after /t/ /e/ /n/; keep the original beginning /t/ too.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -521,7 +521,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "apply",
     "sequencePriority": 16,
     "correct": "Ramp. Add final /p/ after /r/ /a/ /m/ without changing the earlier sounds.",
-    "explanation": "Ramp. Add final /p/ after /r/ /a/ /m/ without changing the earlier sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Ramp. Add final /p/ after /r/ /a/ /m/ without changing the earlier sounds.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -554,7 +554,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 17,
     "correct": "Top. Delete /s/ and blend the remaining /t/ /o/ /p/.",
-    "explanation": "Top. Delete /s/ and blend the remaining /t/ /o/ /p/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Top. Delete /s/ and blend the remaining /t/ /o/ /p/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -587,7 +587,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 18,
     "correct": "Cap. Remove /l/ from /k/ /l/ /a/ /p/, keeping the other sounds in order.",
-    "explanation": "Cap. Remove /l/ from /k/ /l/ /a/ /p/, keeping the other sounds in order.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Cap. Remove /l/ from /k/ /l/ /a/ /p/, keeping the other sounds in order.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -620,7 +620,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 19,
     "correct": "Sad. Delete /n/ from /s/ /a/ /n/ /d/ and retain the final /d/.",
-    "explanation": "Sad. Delete /n/ from /s/ /a/ /n/ /d/ and retain the final /d/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Sad. Delete /n/ from /s/ /a/ /n/ /d/ and retain the final /d/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -653,7 +653,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 20,
     "correct": "Ten. Delete the last /t/, not the first /t/, and blend the remaining sounds.",
-    "explanation": "Ten. Delete the last /t/, not the first /t/, and blend the remaining sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Ten. Delete the last /t/, not the first /t/, and blend the remaining sounds.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -686,7 +686,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 21,
     "correct": "Crack. Replace /b/ with /k/ while preserving the initial cluster and vowel. The target has four phonemes.",
-    "explanation": "Crack. Replace /b/ with /k/ while preserving the initial cluster and vowel. The target has four phonemes.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Crack. Replace /b/ with /k/ while preserving the initial cluster and vowel. The target has four phonemes.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -719,7 +719,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 22,
     "correct": "Bet. Delete /s/ from /b/ /e/ /s/ /t/ while preserving the other three sounds.",
-    "explanation": "Bet. Delete /s/ from /b/ /e/ /s/ /t/ while preserving the other three sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Bet. Delete /s/ from /b/ /e/ /s/ /t/ while preserving the other three sounds.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -752,7 +752,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 23,
     "correct": "Fish. Replace /n/ with the single /sh/ phoneme. This is one sound substitution even though spelling uses two letters for sh.",
-    "explanation": "Fish. Replace /n/ with the single /sh/ phoneme. This is one sound substitution even though spelling uses two letters for sh.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Fish. Replace /n/ with the single /sh/ phoneme. This is one sound substitution even though spelling uses two letters for sh.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -785,7 +785,7 @@ window.skillrPracticeQuestions = [
     "difficultyTier": "reason",
     "sequencePriority": 24,
     "correct": "Ship. Replace the single /ch/ phoneme with /sh/, keeping /i/ /p/.",
-    "explanation": "Ship. Replace the single /ch/ phoneme with /sh/, keeping /i/ /p/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Ship. Replace the single /ch/ phoneme with /sh/, keeping /i/ /p/.",
       "hint": "Complete the task before comparing your response with the guidance."

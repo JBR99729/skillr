@@ -3,7 +3,7 @@
 SkillrHub is a free Australian Curriculum-aligned K-10 learning resource site for Maths, Science and English. It provides topic guides, worksheets, practice, quizzes, tests, teacher slides and a 50,000+ question bank. Core online resources are free; optional premium books are separate bundled printable products.
 
 <!-- skillr-verification-summary:start -->
-Verified learning areas: Foundation Mathematics, Foundation Science and Year 1 Science. These learning areas have completed SkillrHub's documented content review. All other learning areas remain in quality review until every curriculum code in that year-and-subject group is published and recorded as reviewed.
+Verified learning areas: Foundation Mathematics, Foundation Science, Year 1 Science and Year 1 English. These learning areas have completed SkillrHub's documented content review. All other learning areas remain in quality review until every curriculum code in that year-and-subject group is published and recorded as reviewed.
 <!-- skillr-verification-summary:end -->
 
 Foundation/Kindergarten quality note: Foundation Maths and Science question banks have completed SkillrHub's content review for Australian Curriculum v9 alignment, Foundation relevance, age-appropriate language, answer accuracy, explanation quality and meaningful question variety. Foundation English review is still in progress. These resources are free supplementary practice and do not replace teacher judgement or classroom instruction.

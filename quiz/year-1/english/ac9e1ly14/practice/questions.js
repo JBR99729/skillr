@@ -1,1443 +1,796 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly14-p-001",
+    "id": "ac9e1ly14-er6-p-001",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes the sentence? “Mia ___ happy.”",
-    "audioPrompt": "Which word completes the sentence? “Mia ___ happy.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and t-h-e in order. Either usual pronunciation of the in context is acceptable; the writing should be produced before the model is revealed.",
+    "acceptanceNote": "Check accurate reading and t-h-e in order. Either usual pronunciation of the in context is acceptable; the writing should be produced before the model is revealed.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read the word 'the' aloud. Cover it, write it on paper, then uncover it to check.",
+    "audioPrompt": "Read the word 'the' aloud. Cover it, write it on paper, then uncover it to check.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "be",
-      "were",
-      "was"
-    ],
-    "correct": 2,
-    "explanation": "was is the best answer.",
-    "structuredExplanation": {
-      "summary": "was is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "sequencePriority": 1,
+    "correct": "Check accurate reading and t-h-e in order. Either usual pronunciation of the in context is acceptable; the writing should be produced before the model is revealed.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading and t-h-e in order. Either usual pronunciation of the in context is acceptable; the writing should be produced before the model is revealed.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-002",
+    "id": "ac9e1ly14-er6-p-002",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ dog is small.”",
-    "audioPrompt": "Which word completes: “___ dog is small.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check reading as the familiar past form and spelling w-a-s, not a purely sound-based alternative such as woz.",
+    "acceptanceNote": "Check reading as the familiar past form and spelling w-a-s, not a purely sound-based alternative such as woz.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'was' aloud. Cover the word and write it, then check the vowel letter.",
+    "audioPrompt": "Read 'was' aloud. Cover the word and write it, then check the vowel letter.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "They",
-      "The",
-      "Then"
-    ],
-    "correct": 1,
-    "explanation": "The is the best answer.",
-    "structuredExplanation": {
-      "summary": "The is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "sequencePriority": 2,
+    "correct": "Check reading as the familiar past form and spelling w-a-s, not a purely sound-based alternative such as woz.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check reading as the familiar past form and spelling w-a-s, not a purely sound-based alternative such as woz.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-003",
+    "id": "ac9e1ly14-er6-p-003",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Can ___ help me?”",
-    "audioPrompt": "Which word completes: “Can ___ help me?”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and y-o-u in order. This is supported retrieval after reading, not a timed fluency measure.",
+    "acceptanceNote": "Check accurate reading and y-o-u in order. This is supported retrieval after reading, not a timed fluency measure.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'you'. Cover it, write it from memory, and read your writing back.",
+    "audioPrompt": "Read 'you'. Cover it, write it from memory, and read your writing back.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "yes",
-      "you",
-      "your"
-    ],
-    "correct": 1,
-    "explanation": "you is the best answer.",
-    "structuredExplanation": {
-      "summary": "you is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 3
+    "sequencePriority": 3,
+    "correct": "Check accurate reading and y-o-u in order. This is supported retrieval after reading, not a timed fluency measure.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading and y-o-u in order. This is supported retrieval after reading, not a timed fluency measure.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-004",
+    "id": "ac9e1ly14-er6-p-004",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ are my friends.”",
-    "audioPrompt": "Which word completes: “___ are my friends.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading in the child's accent and a-r-e in order. A silent letter in an accent still belongs in the spelling.",
+    "acceptanceNote": "Check accurate reading in the child's accent and a-r-e in order. A silent letter in an accent still belongs in the spelling.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'are' aloud. Hide the model and write the word.",
+    "audioPrompt": "Read 'are' aloud. Hide the model and write the word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "The",
-      "They",
-      "Them"
-    ],
-    "correct": 1,
-    "explanation": "They is the best answer.",
-    "structuredExplanation": {
-      "summary": "They is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 4
+    "sequencePriority": 4,
+    "correct": "Check accurate reading in the child's accent and a-r-e in order. A silent letter in an accent still belongs in the spelling.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading in the child's accent and a-r-e in order. A silent letter in an accent still belongs in the spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-005",
+    "id": "ac9e1ly14-er6-p-005",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Please ___ here.”",
-    "audioPrompt": "Which word completes: “Please ___ here.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check reading with the usual short e vowel and spelling s-a-i-d. Do not teach ai as always representing long a.",
+    "acceptanceNote": "Check reading with the usual short e vowel and spelling s-a-i-d. Do not teach ai as always representing long a.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'said'. Cover it and write it, then check the letters in the middle.",
+    "audioPrompt": "Read 'said'. Cover it and write it, then check the letters in the middle.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "came",
-      "come",
-      "coming"
-    ],
-    "correct": 1,
-    "explanation": "come is the best answer.",
-    "structuredExplanation": {
-      "summary": "come is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 5
+    "sequencePriority": 5,
+    "correct": "Check reading with the usual short e vowel and spelling s-a-i-d. Do not teach ai as always representing long a.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check reading with the usual short e vowel and spelling s-a-i-d. Do not teach ai as always representing long a.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-006",
+    "id": "ac9e1ly14-er6-p-006",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “My kite is ___.”",
-    "audioPrompt": "Which word completes: “My kite is ___.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading with its usual short a and spelling h-a-v-e. Not every final-e word has a long vowel.",
+    "acceptanceNote": "Check accurate reading with its usual short a and spelling h-a-v-e. Not every final-e word has a long vowel.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'have' aloud. Cover it, write it and compare with the model.",
+    "audioPrompt": "Read 'have' aloud. Cover it, write it and compare with the model.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "her",
-      "hear",
-      "here"
-    ],
-    "correct": 2,
-    "explanation": "here is the best answer.",
-    "structuredExplanation": {
-      "summary": "here is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "sequencePriority": 6,
+    "correct": "Check accurate reading with its usual short a and spelling h-a-v-e. Not every final-e word has a long vowel.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading with its usual short a and spelling h-a-v-e. Not every final-e word has a long vowel.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-007",
+    "id": "ac9e1ly14-er6-p-007",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “I have ___ apples.”",
-    "audioPrompt": "Which word completes: “I have ___ apples.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and t-h-e-y in order. The th sound is voiced in this word; spelling should retain both letters.",
+    "acceptanceNote": "Check accurate reading and t-h-e-y in order. The th sound is voiced in this word; spelling should retain both letters.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'they'. Cover the word and write it on paper.",
+    "audioPrompt": "Read 'they'. Cover the word and write it on paper.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "same",
-      "some",
-      "sum"
-    ],
-    "correct": 1,
-    "explanation": "some is the best answer.",
-    "structuredExplanation": {
-      "summary": "some is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 7
+    "sequencePriority": 7,
+    "correct": "Check accurate reading and t-h-e-y in order. The th sound is voiced in this word; spelling should retain both letters.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading and t-h-e-y in order. The th sound is voiced in this word; spelling should retain both letters.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-008",
+    "id": "ac9e1ly14-er6-p-008",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Max ___ hello.”",
-    "audioPrompt": "Which word completes: “Max ___ hello.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and c-o-m-e. Its vowel does not follow the common long-o final-e example.",
+    "acceptanceNote": "Check accurate reading and c-o-m-e. Its vowel does not follow the common long-o final-e example.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'come'. Cover it and write it, then read your word back.",
+    "audioPrompt": "Read 'come'. Cover it and write it, then read your word back.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "say",
-      "said",
-      "sad"
-    ],
-    "correct": 1,
-    "explanation": "said is the best answer.",
-    "structuredExplanation": {
-      "summary": "said is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 8
+    "sequencePriority": 8,
+    "correct": "Check accurate reading and c-o-m-e. Its vowel does not follow the common long-o final-e example.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading and c-o-m-e. Its vowel does not follow the common long-o final-e example.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-009",
+    "id": "ac9e1ly14-er6-p-009",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes the sentence? “Ben ___ happy.”",
-    "audioPrompt": "Which word completes the sentence? “Ben ___ happy.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading of were in context and spelling w-e-r-e. Do not accept where, which is a different word.",
+    "acceptanceNote": "Check accurate reading of were in context and spelling w-e-r-e. Do not accept where, which is a different word.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'We were at the pond.' Point to 'were', then cover the sentence and write that word.",
+    "audioPrompt": "Read 'We were at the pond.' Point to 'were', then cover the sentence and write that word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "was",
-      "were",
-      "be"
-    ],
-    "correct": 0,
-    "explanation": "was is the best answer.",
-    "structuredExplanation": {
-      "summary": "was is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
-  },
-  {
-    "id": "ac9e1ly14-p-010",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ fox is small.”",
-    "audioPrompt": "Which word completes: “___ fox is small.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Then",
-      "They",
-      "The"
-    ],
-    "correct": 2,
-    "explanation": "The is the best answer.",
-    "structuredExplanation": {
-      "summary": "The is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10
-  },
-  {
-    "id": "ac9e1ly14-p-011",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Can ___ help me?”",
-    "audioPrompt": "Which word completes: “Can ___ help me?”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "your",
-      "you",
-      "yes"
-    ],
-    "correct": 1,
-    "explanation": "you is the best answer.",
-    "structuredExplanation": {
-      "summary": "you is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
-  },
-  {
-    "id": "ac9e1ly14-p-012",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ are my friends.”",
-    "audioPrompt": "Which word completes: “___ are my friends.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "They",
-      "The",
-      "Them"
-    ],
-    "correct": 0,
-    "explanation": "They is the best answer.",
-    "structuredExplanation": {
-      "summary": "They is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1ly14-p-013",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Please ___ here.”",
-    "audioPrompt": "Which word completes: “Please ___ here.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "coming",
-      "came",
-      "come"
-    ],
-    "correct": 2,
-    "explanation": "come is the best answer.",
-    "structuredExplanation": {
-      "summary": "come is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
-  },
-  {
-    "id": "ac9e1ly14-p-014",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “My hat is ___.”",
-    "audioPrompt": "Which word completes: “My hat is ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hear",
-      "here",
-      "her"
-    ],
-    "correct": 1,
-    "explanation": "here is the best answer.",
-    "structuredExplanation": {
-      "summary": "here is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
-  },
-  {
-    "id": "ac9e1ly14-p-015",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “I have ___ apples.”",
-    "audioPrompt": "Which word completes: “I have ___ apples.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "some",
-      "same",
-      "sum"
-    ],
-    "correct": 0,
-    "explanation": "some is the best answer.",
-    "structuredExplanation": {
-      "summary": "some is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
-  },
-  {
-    "id": "ac9e1ly14-p-016",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Mia ___ hello.”",
-    "audioPrompt": "Which word completes: “Mia ___ hello.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "say",
-      "sad",
-      "said"
-    ],
-    "correct": 2,
-    "explanation": "said is the best answer.",
-    "structuredExplanation": {
-      "summary": "said is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1ly14-p-017",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes the sentence? “Sam ___ happy.”",
-    "audioPrompt": "Which word completes the sentence? “Sam ___ happy.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "were",
-      "be",
-      "was"
-    ],
-    "correct": 2,
-    "explanation": "was is the best answer.",
-    "structuredExplanation": {
-      "summary": "was is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": "Check accurate reading of were in context and spelling w-e-r-e. Do not accept where, which is a different word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading of were in context and spelling w-e-r-e. Do not accept where, which is a different word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-018",
+    "id": "ac9e1ly14-er6-p-010",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ duck is small.”",
-    "audioPrompt": "Which word completes: “___ duck is small.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check reading in context and spelling t-h-e-r-e. The location meaning distinguishes it from their or they are.",
+    "acceptanceNote": "Check reading in context and spelling t-h-e-r-e. The location meaning distinguishes it from their or they are.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'The bag is there.' Point to 'there', hide it and write the target word.",
+    "audioPrompt": "Read 'The bag is there.' Point to 'there', hide it and write the target word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "The",
-      "Then",
-      "They"
-    ],
-    "correct": 0,
-    "explanation": "The is the best answer.",
-    "structuredExplanation": {
-      "summary": "The is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": "Check reading in context and spelling t-h-e-r-e. The location meaning distinguishes it from their or they are.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check reading in context and spelling t-h-e-r-e. The location meaning distinguishes it from their or they are.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-019",
+    "id": "ac9e1ly14-er6-p-011",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word completes: “Can ___ help me?”",
-    "audioPrompt": "Read and choose: Which word completes: “Can ___ help me?”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and s-o-m-e. Its usual vowel is not the long o suggested by some other final-e words.",
+    "acceptanceNote": "Check accurate reading and s-o-m-e. Its usual vowel is not the long o suggested by some other final-e words.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'I have some paper.' Read 'some' again, then cover and write it.",
+    "audioPrompt": "Read 'I have some paper.' Read 'some' again, then cover and write it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "yes",
-      "you",
-      "your"
-    ],
-    "correct": 1,
-    "explanation": "you is the best answer.",
-    "structuredExplanation": {
-      "summary": "you is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": "Check accurate reading and s-o-m-e. Its usual vowel is not the long o suggested by some other final-e words.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading and s-o-m-e. Its usual vowel is not the long o suggested by some other final-e words.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-020",
+    "id": "ac9e1ly14-er6-p-012",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ are my friends.”",
-    "audioPrompt": "Which word completes: “___ are my friends.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check one read accurately and spelled o-n-e. The target is the number word, not the sound-alike won.",
+    "acceptanceNote": "Check one read accurately and spelled o-n-e. The target is the number word, not the sound-alike won.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'I found one shell.' Cover the sentence and write the word that tells how many.",
+    "audioPrompt": "Read 'I found one shell.' Cover the sentence and write the word that tells how many.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "They",
-      "Them",
-      "The"
-    ],
-    "correct": 0,
-    "explanation": "They is the best answer.",
-    "structuredExplanation": {
-      "summary": "They is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": "Check one read accurately and spelled o-n-e. The target is the number word, not the sound-alike won.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check one read accurately and spelled o-n-e. The target is the number word, not the sound-alike won.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-021",
+    "id": "ac9e1ly14-er6-p-013",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Please ___ here.”",
-    "audioPrompt": "Which word completes: “Please ___ here.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and w-h-a-t. Either capital W or lower-case w is acceptable when writing the word by itself.",
+    "acceptanceNote": "Check accurate reading and w-h-a-t. Either capital W or lower-case w is acceptable when writing the word by itself.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'What is in the box?' Point to 'What', then cover and write it.",
+    "audioPrompt": "Read 'What is in the box?' Point to 'What', then cover and write it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "coming",
-      "come",
-      "came"
-    ],
-    "correct": 1,
-    "explanation": "come is the best answer.",
-    "structuredExplanation": {
-      "summary": "come is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": "Check accurate reading and w-h-a-t. Either capital W or lower-case w is acceptable when writing the word by itself.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading and w-h-a-t. Either capital W or lower-case w is acceptable when writing the word by itself.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-022",
+    "id": "ac9e1ly14-er6-p-014",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “My book is ___.”",
-    "audioPrompt": "Which word completes: “My book is ___.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check when read accurately and spelled w-h-e-n. Accept upper- or lower-case initial letter in the isolated response.",
+    "acceptanceNote": "Check when read accurately and spelled w-h-e-n. Accept upper- or lower-case initial letter in the isolated response.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'When can we go?' Cover the sentence and write its first word.",
+    "audioPrompt": "Read 'When can we go?' Cover the sentence and write its first word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "hear",
-      "her",
-      "here"
-    ],
-    "correct": 2,
-    "explanation": "here is the best answer.",
-    "structuredExplanation": {
-      "summary": "here is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": "Check when read accurately and spelled w-h-e-n. Accept upper- or lower-case initial letter in the isolated response.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check when read accurately and spelled w-h-e-n. Accept upper- or lower-case initial letter in the isolated response.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-023",
+    "id": "ac9e1ly14-er6-p-015",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word completes: “I have ___ apples.”",
-    "audioPrompt": "Read and choose: Which word completes: “I have ___ apples.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and w-i-t-h. Allow the usual voiced or unvoiced final th variation without changing spelling.",
+    "acceptanceNote": "Check accurate reading and w-i-t-h. Allow the usual voiced or unvoiced final th variation without changing spelling.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'I went with Mum.' Cover the sentence and write 'with'.",
+    "audioPrompt": "Read 'I went with Mum.' Cover the sentence and write 'with'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "same",
-      "some",
-      "sum"
-    ],
-    "correct": 1,
-    "explanation": "some is the best answer.",
-    "structuredExplanation": {
-      "summary": "some is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": "Check accurate reading and w-i-t-h. Allow the usual voiced or unvoiced final th variation without changing spelling.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading and w-i-t-h. Allow the usual voiced or unvoiced final th variation without changing spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-024",
+    "id": "ac9e1ly14-er6-p-016",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Ben ___ hello.”",
-    "audioPrompt": "Which word completes: “Ben ___ hello.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check accurate reading and f-r-o-m, retaining the initial consonant cluster and o.",
+    "acceptanceNote": "Check accurate reading and f-r-o-m, retaining the initial consonant cluster and o.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'This note is from Dad.' Cover it and write the word 'from'.",
+    "audioPrompt": "Read 'This note is from Dad.' Cover it and write the word 'from'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "say",
-      "said",
-      "sad"
-    ],
-    "correct": 1,
-    "explanation": "said is the best answer.",
-    "structuredExplanation": {
-      "summary": "said is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": "Check accurate reading and f-r-o-m, retaining the initial consonant cluster and o.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check accurate reading and f-r-o-m, retaining the initial consonant cluster and o.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-025",
+    "id": "ac9e1ly14-er6-p-017",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes the sentence? “Kim ___ happy.”",
-    "audioPrompt": "Which word completes the sentence? “Kim ___ happy.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check c-o-u-l-d and accurate reading. The l is retained in the spelling although it is not pronounced in the usual form.",
+    "acceptanceNote": "Check c-o-u-l-d and accurate reading. The l is retained in the spelling although it is not pronounced in the usual form.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'We could build a den.' Cover the sentence and write 'could', then check for a letter you do not hear clearly.",
+    "audioPrompt": "Read 'We could build a den.' Cover the sentence and write 'could', then check for a letter you do not hear clearly.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "be",
-      "were",
-      "was"
-    ],
-    "correct": 2,
-    "explanation": "was is the best answer.",
-    "structuredExplanation": {
-      "summary": "was is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1ly14-p-026",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ goat is small.”",
-    "audioPrompt": "Which word completes: “___ goat is small.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "They",
-      "The",
-      "Then"
-    ],
-    "correct": 1,
-    "explanation": "The is the best answer.",
-    "structuredExplanation": {
-      "summary": "The is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1ly14-p-027",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Can ___ help me?”",
-    "audioPrompt": "Which word completes: “Can ___ help me?”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "your",
-      "yes",
-      "you"
-    ],
-    "correct": 2,
-    "explanation": "you is the best answer.",
-    "structuredExplanation": {
-      "summary": "you is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1ly14-p-028",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word completes: “___ are my friends.”",
-    "audioPrompt": "Read and choose: Which word completes: “___ are my friends.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "They",
-      "Them",
-      "The"
-    ],
-    "correct": 0,
-    "explanation": "They is the best answer.",
-    "structuredExplanation": {
-      "summary": "They is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
-  },
-  {
-    "id": "ac9e1ly14-p-029",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word completes: “Please ___ here.”",
-    "audioPrompt": "Read and choose: Which word completes: “Please ___ here.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "coming",
-      "came",
-      "come"
-    ],
-    "correct": 2,
-    "explanation": "come is the best answer.",
-    "structuredExplanation": {
-      "summary": "come is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1ly14-p-030",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “My sock is ___.”",
-    "audioPrompt": "Which word completes: “My sock is ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hear",
-      "here",
-      "her"
-    ],
-    "correct": 1,
-    "explanation": "here is the best answer.",
-    "structuredExplanation": {
-      "summary": "here is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
-  },
-  {
-    "id": "ac9e1ly14-p-031",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “I have ___ apples.”",
-    "audioPrompt": "Which word completes: “I have ___ apples.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "some",
-      "sum",
-      "same"
-    ],
-    "correct": 0,
-    "explanation": "some is the best answer.",
-    "structuredExplanation": {
-      "summary": "some is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
-  },
-  {
-    "id": "ac9e1ly14-p-032",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Sam ___ hello.”",
-    "audioPrompt": "Which word completes: “Sam ___ hello.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "say",
-      "sad",
-      "said"
-    ],
-    "correct": 2,
-    "explanation": "said is the best answer.",
-    "structuredExplanation": {
-      "summary": "said is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1ly14-p-033",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes the sentence? “Ava ___ happy.”",
-    "audioPrompt": "Which word completes the sentence? “Ava ___ happy.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "were",
-      "was",
-      "be"
-    ],
-    "correct": 1,
-    "explanation": "was is the best answer.",
-    "structuredExplanation": {
-      "summary": "was is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": "Check c-o-u-l-d and accurate reading. The l is retained in the spelling although it is not pronounced in the usual form.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check c-o-u-l-d and accurate reading. The l is retained in the spelling although it is not pronounced in the usual form.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-034",
+    "id": "ac9e1ly14-er6-p-018",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ dog is small.”",
-    "audioPrompt": "Which word completes: “___ dog is small.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check w-o-u-l-d and correct reading in context. Do not accept wood, which sounds alike but has a different meaning and spelling.",
+    "acceptanceNote": "Check w-o-u-l-d and correct reading in context. Do not accept wood, which sounds alike but has a different meaning and spelling.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'I would like a turn.' Cover the sentence and write 'would'.",
+    "audioPrompt": "Read 'I would like a turn.' Cover the sentence and write 'would'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "The",
-      "Then",
-      "They"
-    ],
-    "correct": 0,
-    "explanation": "The is the best answer.",
-    "structuredExplanation": {
-      "summary": "The is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": "Check w-o-u-l-d and correct reading in context. Do not accept wood, which sounds alike but has a different meaning and spelling.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check w-o-u-l-d and correct reading in context. Do not accept wood, which sounds alike but has a different meaning and spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-035",
+    "id": "ac9e1ly14-er6-p-019",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which word completes: “Can ___ help me?”",
-    "audioPrompt": "Look and choose: Which word completes: “Can ___ help me?”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check s-h-o-u-l-d, accurate reading and recognition of the shared ould spelling. The child need not state a formal rule.",
+    "acceptanceNote": "Check s-h-o-u-l-d, accurate reading and recognition of the shared ould spelling. The child need not state a formal rule.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'We should pack up.' Cover it and write 'should', then compare the ending with could.",
+    "audioPrompt": "Read 'We should pack up.' Cover it and write 'should', then compare the ending with could.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "yes",
-      "you",
-      "your"
-    ],
-    "correct": 1,
-    "explanation": "you is the best answer.",
-    "structuredExplanation": {
-      "summary": "you is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": "Check s-h-o-u-l-d, accurate reading and recognition of the shared ould spelling. The child need not state a formal rule.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check s-h-o-u-l-d, accurate reading and recognition of the shared ould spelling. The child need not state a formal rule.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-036",
+    "id": "ac9e1ly14-er6-p-020",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ are my friends.”",
-    "audioPrompt": "Which word completes: “___ are my friends.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check where spelled w-h-e-r-e and read as the question word. Distinguish it from were.",
+    "acceptanceNote": "Check where spelled w-h-e-r-e and read as the question word. Distinguish it from were.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'Where is the lid?' Hide the sentence and write its first word.",
+    "audioPrompt": "Read 'Where is the lid?' Hide the sentence and write its first word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "Them",
-      "They",
-      "The"
-    ],
-    "correct": 1,
-    "explanation": "They is the best answer.",
-    "structuredExplanation": {
-      "summary": "They is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": "Check where spelled w-h-e-r-e and read as the question word. Distinguish it from were.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check where spelled w-h-e-r-e and read as the question word. Distinguish it from were.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-037",
+    "id": "ac9e1ly14-er6-p-021",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Please ___ here.”",
-    "audioPrompt": "Which word completes: “Please ___ here.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check a-g-a-i-n. Accept ordinary local pronunciations of again; do not insist on one accent's vowel.",
+    "acceptanceNote": "Check a-g-a-i-n. Accept ordinary local pronunciations of again; do not insist on one accent's vowel.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'Please try again.' Cover the sentence and write 'again', then read your writing back.",
+    "audioPrompt": "Read 'Please try again.' Cover the sentence and write 'again', then read your writing back.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "come",
-      "came",
-      "coming"
-    ],
-    "correct": 0,
-    "explanation": "come is the best answer.",
-    "structuredExplanation": {
-      "summary": "come is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "Check a-g-a-i-n. Accept ordinary local pronunciations of again; do not insist on one accent's vowel.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check a-g-a-i-n. Accept ordinary local pronunciations of again; do not insist on one accent's vowel.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-038",
+    "id": "ac9e1ly14-er6-p-022",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “My bag is ___.”",
-    "audioPrompt": "Which word completes: “My bag is ___.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check p-e-o-p-l-e and accurate reading. The task is recall of the word's standard spelling, not counting printed vowels as syllables.",
+    "acceptanceNote": "Check p-e-o-p-l-e and accurate reading. The task is recall of the word's standard spelling, not counting printed vowels as syllables.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'People are waiting.' Hide it and write 'people'. Check that you kept the whole word.",
+    "audioPrompt": "Read 'People are waiting.' Hide it and write 'people'. Check that you kept the whole word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "her",
-      "here",
-      "hear"
-    ],
-    "correct": 1,
-    "explanation": "here is the best answer.",
-    "structuredExplanation": {
-      "summary": "here is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Check p-e-o-p-l-e and accurate reading. The task is recall of the word's standard spelling, not counting printed vowels as syllables.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check p-e-o-p-l-e and accurate reading. The task is recall of the word's standard spelling, not counting printed vowels as syllables.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-039",
+    "id": "ac9e1ly14-er6-p-023",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “I have ___ apples.”",
-    "audioPrompt": "Which word completes: “I have ___ apples.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check l-i-t-t-l-e, with two t letters, and accurate reading. Accept the child's normal pronunciation.",
+    "acceptanceNote": "Check l-i-t-t-l-e, with two t letters, and accurate reading. Accept the child's normal pronunciation.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'A little bird landed.' Cover it and write 'little'. Check the repeated letter.",
+    "audioPrompt": "Read 'A little bird landed.' Cover it and write 'little'. Check the repeated letter.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "sum",
-      "same",
-      "some"
-    ],
-    "correct": 2,
-    "explanation": "some is the best answer.",
-    "structuredExplanation": {
-      "summary": "some is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Check l-i-t-t-l-e, with two t letters, and accurate reading. Accept the child's normal pronunciation.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Check l-i-t-t-l-e, with two t letters, and accurate reading. Accept the child's normal pronunciation.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly14-p-040",
+    "id": "ac9e1ly14-er6-p-024",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
+    "skill": "reading and writing high frequency words",
     "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Kim ___ hello.”",
-    "audioPrompt": "Which word completes: “Kim ___ hello.”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check b-e-c-a-u-s-e and accurate reading in context. Allow time for spelling; do not demand speed as evidence of mastery.",
+    "acceptanceNote": "Check b-e-c-a-u-s-e and accurate reading in context. Allow time for spelling; do not demand speed as evidence of mastery.",
+    "responseInstructions": "Try reading the target words yourself before using Read aloud. Complete the writing on paper; a grown-up checks both parts.",
+    "completionLabel": "I have completed the reading and writing task.",
+    "question": "Read 'I stopped because I was tired.' Cover it and write 'because', then re-read to check all its parts.",
+    "audioPrompt": "Read 'I stopped because I was tired.' Cover it and write 'because', then re-read to check all its parts.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "say",
-      "said",
-      "sad"
-    ],
-    "correct": 1,
-    "explanation": "said is the best answer.",
-    "structuredExplanation": {
-      "summary": "said is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly14-p-041",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes the sentence? “Leo ___ happy.”",
-    "audioPrompt": "Which word completes the sentence? “Leo ___ happy.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "be",
-      "were",
-      "was"
-    ],
-    "correct": 2,
-    "explanation": "was is the best answer.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Check b-e-c-a-u-s-e and accurate reading in context. Allow time for spelling; do not demand speed as evidence of mastery.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "was is the best answer."
+      "summary": "Check b-e-c-a-u-s-e and accurate reading in context. Allow time for spelling; do not demand speed as evidence of mastery.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-042",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ fox is small.”",
-    "audioPrompt": "Which word completes: “___ fox is small.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "They",
-      "Then",
-      "The"
-    ],
-    "correct": 2,
-    "explanation": "The is the best answer.",
-    "structuredExplanation": {
-      "summary": "The is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-043",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Can ___ help me?”",
-    "audioPrompt": "Which word completes: “Can ___ help me?”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "you",
-      "yes",
-      "your"
-    ],
-    "correct": 0,
-    "explanation": "you is the best answer.",
-    "structuredExplanation": {
-      "summary": "you is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-044",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “___ are my friends.”",
-    "audioPrompt": "Which word completes: “___ are my friends.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The",
-      "Them",
-      "They"
-    ],
-    "correct": 2,
-    "explanation": "They is the best answer.",
-    "structuredExplanation": {
-      "summary": "They is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-045",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word completes: “Please ___ here.”",
-    "audioPrompt": "Read and choose: Which word completes: “Please ___ here.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "come",
-      "came",
-      "coming"
-    ],
-    "correct": 0,
-    "explanation": "come is the best answer.",
-    "structuredExplanation": {
-      "summary": "come is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-046",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “My ball is ___.”",
-    "audioPrompt": "Which word completes: “My ball is ___.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hear",
-      "her",
-      "here"
-    ],
-    "correct": 2,
-    "explanation": "here is the best answer.",
-    "structuredExplanation": {
-      "summary": "here is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-047",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “I have ___ apples.”",
-    "audioPrompt": "Which word completes: “I have ___ apples.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sum",
-      "some",
-      "same"
-    ],
-    "correct": 1,
-    "explanation": "some is the best answer.",
-    "structuredExplanation": {
-      "summary": "some is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly14-p-048",
-    "curriculumCode": "AC9E1LY14",
-    "bank": "practice",
-    "skill": "read and write an increasing number of high-frequency words",
-    "printable": true,
-    "type": "single",
-    "question": "Which word completes: “Ava ___ hello.”",
-    "audioPrompt": "Which word completes: “Ava ___ hello.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sad",
-      "say",
-      "said"
-    ],
-    "correct": 2,
-    "explanation": "said is the best answer.",
-    "structuredExplanation": {
-      "summary": "said is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,1443 +1,796 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly13-p-001",
+    "id": "ac9e1ly13-er6-p-001",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Mia wants to write “rabbit”. Which spelling is correct?",
-    "audioPrompt": "Mia wants to write “rabbit”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Cat: c-a-t. Check the short vowel and all three letters in order. Read the sentence aloud without displaying the spelling.",
+    "acceptanceNote": "Cat: c-a-t. Check the short vowel and all three letters in order. Read the sentence aloud without displaying the spelling.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Say 'cat' in 'The cat is asleep.' Ask the child to spell the target on paper.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'cat' in 'The cat is asleep.' Ask the child to spell the target on paper.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "rabbitt",
-      "rabit",
-      "rabbit"
-    ],
-    "correct": 2,
-    "explanation": "rabbit is the best answer.",
-    "structuredExplanation": {
-      "summary": "rabbit is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "sequencePriority": 1,
+    "correct": "Cat: c-a-t. Check the short vowel and all three letters in order. Read the sentence aloud without displaying the spelling.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Cat: c-a-t. Check the short vowel and all three letters in order. Read the sentence aloud without displaying the spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-002",
+    "id": "ac9e1ly13-er6-p-002",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ben wants to write “sunset”. Which spelling is correct?",
-    "audioPrompt": "Ben wants to write “sunset”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Red: r-e-d. Check the short e and the ending d; do not accept a similar-looking real word.",
+    "acceptanceNote": "Red: r-e-d. Check the short e and the ending d; do not accept a similar-looking real word.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Dictate 'red' in 'I chose red paint.' Ask for the written word.",
+    "audioPrompt": "Grown-up: hide the screen. Dictate 'red' in 'I chose red paint.' Ask for the written word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "sunsat",
-      "sunset",
-      "sunsett"
-    ],
-    "correct": 1,
-    "explanation": "sunset is the best answer.",
-    "structuredExplanation": {
-      "summary": "sunset is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "sequencePriority": 2,
+    "correct": "Red: r-e-d. Check the short e and the ending d; do not accept a similar-looking real word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Red: r-e-d. Check the short e and the ending d; do not accept a similar-looking real word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-003",
+    "id": "ac9e1ly13-er6-p-003",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Sam wants to write “chicken”. Which spelling is correct?",
-    "audioPrompt": "Sam wants to write “chicken”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Fish: f-i-s-h. The final sh is a common two-letter spelling for one sound.",
+    "acceptanceNote": "Fish: f-i-s-h. The final sh is a common two-letter spelling for one sound.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: keep the screen hidden. Say 'fish' and ask the child to write it.",
+    "audioPrompt": "Grown-up: keep the screen hidden. Say 'fish' and ask the child to write it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "chikin",
-      "chicken",
-      "chiken"
-    ],
-    "correct": 1,
-    "explanation": "chicken is the best answer.",
-    "structuredExplanation": {
-      "summary": "chicken is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 3
+    "sequencePriority": 3,
+    "correct": "Fish: f-i-s-h. The final sh is a common two-letter spelling for one sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Fish: f-i-s-h. The final sh is a common two-letter spelling for one sound.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-004",
+    "id": "ac9e1ly13-er6-p-004",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Kim wants to write “picnic”. Which spelling is correct?",
-    "audioPrompt": "Kim wants to write “picnic”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Duck: d-u-c-k. Check the short vowel and the common ck ending.",
+    "acceptanceNote": "Duck: d-u-c-k. Check the short vowel and the common ck ending.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Say 'duck' in 'The duck swims.' Ask the child to spell duck.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'duck' in 'The duck swims.' Ask the child to spell duck.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "picnik",
-      "picnic",
-      "picknic"
-    ],
-    "correct": 1,
-    "explanation": "picnic is the best answer.",
-    "structuredExplanation": {
-      "summary": "picnic is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 4
+    "sequencePriority": 4,
+    "correct": "Duck: d-u-c-k. Check the short vowel and the common ck ending.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Duck: d-u-c-k. Check the short vowel and the common ck ending.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-005",
+    "id": "ac9e1ly13-er6-p-005",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ava wants to write “rocket”. Which spelling is correct?",
-    "audioPrompt": "Ava wants to write “rocket”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Bell: b-e-l-l. The standard spelling ends in ll even though the final phoneme is one sound.",
+    "acceptanceNote": "Bell: b-e-l-l. The standard spelling ends in ll even though the final phoneme is one sound.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Dictate 'bell' and ask for its spelling.",
+    "audioPrompt": "Grown-up: hide the screen. Dictate 'bell' and ask for its spelling.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "roket",
-      "rocket",
-      "rockit"
-    ],
-    "correct": 1,
-    "explanation": "rocket is the best answer.",
-    "structuredExplanation": {
-      "summary": "rocket is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 5
+    "sequencePriority": 5,
+    "correct": "Bell: b-e-l-l. The standard spelling ends in ll even though the final phoneme is one sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Bell: b-e-l-l. The standard spelling ends in ll even though the final phoneme is one sound.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-006",
+    "id": "ac9e1ly13-er6-p-006",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Leo wants to write “basket”. Which spelling is correct?",
-    "audioPrompt": "Leo wants to write “basket”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Shop: s-h-o-p. Check the initial sh digraph and short o spelling.",
+    "acceptanceNote": "Shop: s-h-o-p. Check the initial sh digraph and short o spelling.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: keep the model hidden. Say 'shop' in 'We went to the shop.' Ask the child to write the word.",
+    "audioPrompt": "Grown-up: keep the model hidden. Say 'shop' in 'We went to the shop.' Ask the child to write the word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "baskett",
-      "baskit",
-      "basket"
-    ],
-    "correct": 2,
-    "explanation": "basket is the best answer.",
-    "structuredExplanation": {
-      "summary": "basket is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "sequencePriority": 6,
+    "correct": "Shop: s-h-o-p. Check the initial sh digraph and short o spelling.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Shop: s-h-o-p. Check the initial sh digraph and short o spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-007",
+    "id": "ac9e1ly13-er6-p-007",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Zoe wants to write “kitten”. Which spelling is correct?",
-    "audioPrompt": "Zoe wants to write “kitten”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Chin: c-h-i-n. Check the initial ch digraph followed by i and n.",
+    "acceptanceNote": "Chin: c-h-i-n. Check the initial ch digraph followed by i and n.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Say 'chin' and ask the child to spell the word.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'chin' and ask the child to spell the word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "kiten",
-      "kitten",
-      "kittin"
-    ],
-    "correct": 1,
-    "explanation": "kitten is the best answer.",
-    "structuredExplanation": {
-      "summary": "kitten is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 7
+    "sequencePriority": 7,
+    "correct": "Chin: c-h-i-n. Check the initial ch digraph followed by i and n.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Chin: c-h-i-n. Check the initial ch digraph followed by i and n.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-008",
+    "id": "ac9e1ly13-er6-p-008",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Max wants to write “helmet”. Which spelling is correct?",
-    "audioPrompt": "Max wants to write “helmet”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Thin: t-h-i-n. The beginning th is a digraph representing one sound here.",
+    "acceptanceNote": "Thin: t-h-i-n. The beginning th is a digraph representing one sound here.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: keep the screen hidden. Dictate 'thin' in 'This paper is thin.' Ask for the target spelling.",
+    "audioPrompt": "Grown-up: keep the screen hidden. Dictate 'thin' in 'This paper is thin.' Ask for the target spelling.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "helmit",
-      "helmet",
-      "helmett"
-    ],
-    "correct": 1,
-    "explanation": "helmet is the best answer.",
-    "structuredExplanation": {
-      "summary": "helmet is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 8
+    "sequencePriority": 8,
+    "correct": "Thin: t-h-i-n. The beginning th is a digraph representing one sound here.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Thin: t-h-i-n. The beginning th is a digraph representing one sound here.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-009",
+    "id": "ac9e1ly13-er6-p-009",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ben wants to write “rabbit”. Which spelling is correct?",
-    "audioPrompt": "Ben wants to write “rabbit”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Flag: f-l-a-g. Retain both consonants in the initial blend.",
+    "acceptanceNote": "Flag: f-l-a-g. Retain both consonants in the initial blend.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Say 'flag'. Ask the child to write it and check the two beginning consonants.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'flag'. Ask the child to write it and check the two beginning consonants.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "rabbit",
-      "rabit",
-      "rabbitt"
-    ],
-    "correct": 0,
-    "explanation": "rabbit is the best answer.",
-    "structuredExplanation": {
-      "summary": "rabbit is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
-  },
-  {
-    "id": "ac9e1ly13-p-010",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Sam wants to write “sunset”. Which spelling is correct?",
-    "audioPrompt": "Sam wants to write “sunset”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sunsett",
-      "sunsat",
-      "sunset"
-    ],
-    "correct": 2,
-    "explanation": "sunset is the best answer.",
-    "structuredExplanation": {
-      "summary": "sunset is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10
-  },
-  {
-    "id": "ac9e1ly13-p-011",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Kim wants to write “chicken”. Which spelling is correct?",
-    "audioPrompt": "Kim wants to write “chicken”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "chiken",
-      "chicken",
-      "chikin"
-    ],
-    "correct": 1,
-    "explanation": "chicken is the best answer.",
-    "structuredExplanation": {
-      "summary": "chicken is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
-  },
-  {
-    "id": "ac9e1ly13-p-012",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Ava wants to write “picnic”. Which spelling is correct?",
-    "audioPrompt": "Ava wants to write “picnic”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "picnic",
-      "picnik",
-      "picknic"
-    ],
-    "correct": 0,
-    "explanation": "picnic is the best answer.",
-    "structuredExplanation": {
-      "summary": "picnic is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1ly13-p-013",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Leo wants to write “rocket”. Which spelling is correct?",
-    "audioPrompt": "Leo wants to write “rocket”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rockit",
-      "roket",
-      "rocket"
-    ],
-    "correct": 2,
-    "explanation": "rocket is the best answer.",
-    "structuredExplanation": {
-      "summary": "rocket is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
-  },
-  {
-    "id": "ac9e1ly13-p-014",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe wants to write “basket”. Which spelling is correct?",
-    "audioPrompt": "Zoe wants to write “basket”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "baskit",
-      "basket",
-      "baskett"
-    ],
-    "correct": 1,
-    "explanation": "basket is the best answer.",
-    "structuredExplanation": {
-      "summary": "basket is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
-  },
-  {
-    "id": "ac9e1ly13-p-015",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Max wants to write “kitten”. Which spelling is correct?",
-    "audioPrompt": "Max wants to write “kitten”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "kitten",
-      "kiten",
-      "kittin"
-    ],
-    "correct": 0,
-    "explanation": "kitten is the best answer.",
-    "structuredExplanation": {
-      "summary": "kitten is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
-  },
-  {
-    "id": "ac9e1ly13-p-016",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Mia wants to write “helmet”. Which spelling is correct?",
-    "audioPrompt": "Mia wants to write “helmet”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "helmit",
-      "helmett",
-      "helmet"
-    ],
-    "correct": 2,
-    "explanation": "helmet is the best answer.",
-    "structuredExplanation": {
-      "summary": "helmet is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1ly13-p-017",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Sam wants to write “rabbit”. Which spelling is correct?",
-    "audioPrompt": "Sam wants to write “rabbit”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rabit",
-      "rabbitt",
-      "rabbit"
-    ],
-    "correct": 2,
-    "explanation": "rabbit is the best answer.",
-    "structuredExplanation": {
-      "summary": "rabbit is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": "Flag: f-l-a-g. Retain both consonants in the initial blend.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Flag: f-l-a-g. Retain both consonants in the initial blend.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-018",
+    "id": "ac9e1ly13-er6-p-010",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Kim wants to write “sunset”. Which spelling is correct?",
-    "audioPrompt": "Kim wants to write “sunset”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Nest: n-e-s-t. The final cluster needs both s and t.",
+    "acceptanceNote": "Nest: n-e-s-t. The final cluster needs both s and t.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Dictate 'nest'. Ask the child to write it and check the ending.",
+    "audioPrompt": "Grown-up: hide the screen. Dictate 'nest'. Ask the child to write it and check the ending.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "sunset",
-      "sunsett",
-      "sunsat"
-    ],
-    "correct": 0,
-    "explanation": "sunset is the best answer.",
-    "structuredExplanation": {
-      "summary": "sunset is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": "Nest: n-e-s-t. The final cluster needs both s and t.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Nest: n-e-s-t. The final cluster needs both s and t.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-019",
+    "id": "ac9e1ly13-er6-p-011",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ava wants to write “chicken”. Which spelling is correct?",
-    "audioPrompt": "Ava wants to write “chicken”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Stamp: s-t-a-m-p. Check both the initial st and final mp clusters.",
+    "acceptanceNote": "Stamp: s-t-a-m-p. Check both the initial st and final mp clusters.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: keep the screen hidden. Say 'stamp' in 'Put a stamp on the letter.' Ask for the written target.",
+    "audioPrompt": "Grown-up: keep the screen hidden. Say 'stamp' in 'Put a stamp on the letter.' Ask for the written target.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "chikin",
-      "chicken",
-      "chiken"
-    ],
-    "correct": 1,
-    "explanation": "chicken is the best answer.",
-    "structuredExplanation": {
-      "summary": "chicken is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": "Stamp: s-t-a-m-p. Check both the initial st and final mp clusters.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Stamp: s-t-a-m-p. Check both the initial st and final mp clusters.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-020",
+    "id": "ac9e1ly13-er6-p-012",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Leo wants to write “picnic”. Which spelling is correct?",
-    "audioPrompt": "Leo wants to write “picnic”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Brush: b-r-u-s-h. The beginning blend and final digraph both need to be represented.",
+    "acceptanceNote": "Brush: b-r-u-s-h. The beginning blend and final digraph both need to be represented.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the model. Say 'brush' and ask the child to spell it.",
+    "audioPrompt": "Grown-up: hide the model. Say 'brush' and ask the child to spell it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "picnic",
-      "picknic",
-      "picnik"
-    ],
-    "correct": 0,
-    "explanation": "picnic is the best answer.",
-    "structuredExplanation": {
-      "summary": "picnic is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": "Brush: b-r-u-s-h. The beginning blend and final digraph both need to be represented.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Brush: b-r-u-s-h. The beginning blend and final digraph both need to be represented.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-021",
+    "id": "ac9e1ly13-er6-p-013",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Zoe wants to write “rocket”. Which spelling is correct?",
-    "audioPrompt": "Zoe wants to write “rocket”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Rain: r-a-i-n. The common ai pattern spells the long a sound in this weather word.",
+    "acceptanceNote": "Rain: r-a-i-n. The common ai pattern spells the long a sound in this weather word.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Dictate 'rain' in 'The rain has stopped.' Ask for the spelling.",
+    "audioPrompt": "Grown-up: hide the screen. Dictate 'rain' in 'The rain has stopped.' Ask for the spelling.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "rockit",
-      "rocket",
-      "roket"
-    ],
-    "correct": 1,
-    "explanation": "rocket is the best answer.",
-    "structuredExplanation": {
-      "summary": "rocket is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": "Rain: r-a-i-n. The common ai pattern spells the long a sound in this weather word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Rain: r-a-i-n. The common ai pattern spells the long a sound in this weather word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-022",
+    "id": "ac9e1ly13-er6-p-014",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Max wants to write “basket”. Which spelling is correct?",
-    "audioPrompt": "Max wants to write “basket”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Day: d-a-y. The common ay ending represents the long a sound.",
+    "acceptanceNote": "Day: d-a-y. The common ay ending represents the long a sound.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Say 'day' in 'It was a sunny day.' Ask the child to write day.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'day' in 'It was a sunny day.' Ask the child to write day.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "baskit",
-      "baskett",
-      "basket"
-    ],
-    "correct": 2,
-    "explanation": "basket is the best answer.",
-    "structuredExplanation": {
-      "summary": "basket is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": "Day: d-a-y. The common ay ending represents the long a sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Day: d-a-y. The common ay ending represents the long a sound.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-023",
+    "id": "ac9e1ly13-er6-p-015",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Mia wants to write “kitten”. Which spelling is correct?",
-    "audioPrompt": "Mia wants to write “kitten”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Feet: f-e-e-t. Check the ee pattern in this word, not a spelling of the sound alone.",
+    "acceptanceNote": "Feet: f-e-e-t. Check the ee pattern in this word, not a spelling of the sound alone.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: keep the screen hidden. Dictate 'feet' and ask the child to spell it.",
+    "audioPrompt": "Grown-up: keep the screen hidden. Dictate 'feet' and ask the child to spell it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "kiten",
-      "kitten",
-      "kittin"
-    ],
-    "correct": 1,
-    "explanation": "kitten is the best answer.",
-    "structuredExplanation": {
-      "summary": "kitten is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": "Feet: f-e-e-t. Check the ee pattern in this word, not a spelling of the sound alone.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Feet: f-e-e-t. Check the ee pattern in this word, not a spelling of the sound alone.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-024",
+    "id": "ac9e1ly13-er6-p-016",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ben wants to write “helmet”. Which spelling is correct?",
-    "audioPrompt": "Ben wants to write “helmet”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Boat: b-o-a-t. The long o sound is represented by oa in this word.",
+    "acceptanceNote": "Boat: b-o-a-t. The long o sound is represented by oa in this word.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Say 'boat' in 'The boat floats.' Ask for its spelling.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'boat' in 'The boat floats.' Ask for its spelling.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "helmit",
-      "helmet",
-      "helmett"
-    ],
-    "correct": 1,
-    "explanation": "helmet is the best answer.",
-    "structuredExplanation": {
-      "summary": "helmet is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": "Boat: b-o-a-t. The long o sound is represented by oa in this word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Boat: b-o-a-t. The long o sound is represented by oa in this word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-025",
+    "id": "ac9e1ly13-er6-p-017",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Kim wants to write “rabbit”. Which spelling is correct?",
-    "audioPrompt": "Kim wants to write “rabbit”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Cake: c-a-k-e. Check the a-consonant-e pattern, including the final e.",
+    "acceptanceNote": "Cake: c-a-k-e. Check the a-consonant-e pattern, including the final e.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Dictate 'cake'. Ask the child to write it and re-read the spelling before finishing.",
+    "audioPrompt": "Grown-up: hide the screen. Dictate 'cake'. Ask the child to write it and re-read the spelling before finishing.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "rabbitt",
-      "rabit",
-      "rabbit"
-    ],
-    "correct": 2,
-    "explanation": "rabbit is the best answer.",
-    "structuredExplanation": {
-      "summary": "rabbit is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1ly13-p-026",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Ava wants to write “sunset”. Which spelling is correct?",
-    "audioPrompt": "Ava wants to write “sunset”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sunsat",
-      "sunset",
-      "sunsett"
-    ],
-    "correct": 1,
-    "explanation": "sunset is the best answer.",
-    "structuredExplanation": {
-      "summary": "sunset is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1ly13-p-027",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Leo wants to write “chicken”. Which spelling is correct?",
-    "audioPrompt": "Leo wants to write “chicken”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "chiken",
-      "chikin",
-      "chicken"
-    ],
-    "correct": 2,
-    "explanation": "chicken is the best answer.",
-    "structuredExplanation": {
-      "summary": "chicken is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1ly13-p-028",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe wants to write “picnic”. Which spelling is correct?",
-    "audioPrompt": "Zoe wants to write “picnic”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "picnic",
-      "picknic",
-      "picnik"
-    ],
-    "correct": 0,
-    "explanation": "picnic is the best answer.",
-    "structuredExplanation": {
-      "summary": "picnic is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
-  },
-  {
-    "id": "ac9e1ly13-p-029",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Max wants to write “rocket”. Which spelling is correct?",
-    "audioPrompt": "Max wants to write “rocket”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rockit",
-      "roket",
-      "rocket"
-    ],
-    "correct": 2,
-    "explanation": "rocket is the best answer.",
-    "structuredExplanation": {
-      "summary": "rocket is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1ly13-p-030",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Mia wants to write “basket”. Which spelling is correct?",
-    "audioPrompt": "Mia wants to write “basket”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "baskit",
-      "basket",
-      "baskett"
-    ],
-    "correct": 1,
-    "explanation": "basket is the best answer.",
-    "structuredExplanation": {
-      "summary": "basket is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
-  },
-  {
-    "id": "ac9e1ly13-p-031",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Ben wants to write “kitten”. Which spelling is correct?",
-    "audioPrompt": "Ben wants to write “kitten”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "kitten",
-      "kittin",
-      "kiten"
-    ],
-    "correct": 0,
-    "explanation": "kitten is the best answer.",
-    "structuredExplanation": {
-      "summary": "kitten is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
-  },
-  {
-    "id": "ac9e1ly13-p-032",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Sam wants to write “helmet”. Which spelling is correct?",
-    "audioPrompt": "Sam wants to write “helmet”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "helmit",
-      "helmett",
-      "helmet"
-    ],
-    "correct": 2,
-    "explanation": "helmet is the best answer.",
-    "structuredExplanation": {
-      "summary": "helmet is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1ly13-p-033",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Ava wants to write “rabbit”. Which spelling is correct?",
-    "audioPrompt": "Ava wants to write “rabbit”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rabit",
-      "rabbit",
-      "rabbitt"
-    ],
-    "correct": 1,
-    "explanation": "rabbit is the best answer.",
-    "structuredExplanation": {
-      "summary": "rabbit is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": "Cake: c-a-k-e. Check the a-consonant-e pattern, including the final e.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Cake: c-a-k-e. Check the a-consonant-e pattern, including the final e.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-034",
+    "id": "ac9e1ly13-er6-p-018",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Leo wants to write “sunset”. Which spelling is correct?",
-    "audioPrompt": "Leo wants to write “sunset”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Time: t-i-m-e. Include the final e that belongs to this common long i pattern.",
+    "acceptanceNote": "Time: t-i-m-e. Include the final e that belongs to this common long i pattern.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: keep the screen hidden. Say 'time' in 'It is time to go.' Ask the child to spell time.",
+    "audioPrompt": "Grown-up: keep the screen hidden. Say 'time' in 'It is time to go.' Ask the child to spell time.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "sunset",
-      "sunsett",
-      "sunsat"
-    ],
-    "correct": 0,
-    "explanation": "sunset is the best answer.",
-    "structuredExplanation": {
-      "summary": "sunset is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": "Time: t-i-m-e. Include the final e that belongs to this common long i pattern.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Time: t-i-m-e. Include the final e that belongs to this common long i pattern.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-035",
+    "id": "ac9e1ly13-er6-p-019",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Zoe wants to write “chicken”. Which spelling is correct?",
-    "audioPrompt": "Zoe wants to write “chicken”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Home: h-o-m-e. Check the long o pattern with final e, not hom.",
+    "acceptanceNote": "Home: h-o-m-e. Check the long o pattern with final e, not hom.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Dictate 'home'. Ask the child to write and check it.",
+    "audioPrompt": "Grown-up: hide the screen. Dictate 'home'. Ask the child to write and check it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "chikin",
-      "chicken",
-      "chiken"
-    ],
-    "correct": 1,
-    "explanation": "chicken is the best answer.",
-    "structuredExplanation": {
-      "summary": "chicken is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": "Home: h-o-m-e. Check the long o pattern with final e, not hom.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Home: h-o-m-e. Check the long o pattern with final e, not hom.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-036",
+    "id": "ac9e1ly13-er6-p-020",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Max wants to write “picnic”. Which spelling is correct?",
-    "audioPrompt": "Max wants to write “picnic”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Sunset: s-u-n-s-e-t. Both short-vowel syllables need to be represented in order.",
+    "acceptanceNote": "Sunset: s-u-n-s-e-t. Both short-vowel syllables need to be represented in order.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: keep the screen hidden. Say 'sunset' in 'The sunset was bright.' Ask for the spelling.",
+    "audioPrompt": "Grown-up: keep the screen hidden. Say 'sunset' in 'The sunset was bright.' Ask for the spelling.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "picknic",
-      "picnic",
-      "picnik"
-    ],
-    "correct": 1,
-    "explanation": "picnic is the best answer.",
-    "structuredExplanation": {
-      "summary": "picnic is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": "Sunset: s-u-n-s-e-t. Both short-vowel syllables need to be represented in order.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Sunset: s-u-n-s-e-t. Both short-vowel syllables need to be represented in order.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-037",
+    "id": "ac9e1ly13-er6-p-021",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Mia wants to write “rocket”. Which spelling is correct?",
-    "audioPrompt": "Mia wants to write “rocket”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Rabbit: r-a-b-b-i-t. Check the double b and the vowels a and i in the standard spelling.",
+    "acceptanceNote": "Rabbit: r-a-b-b-i-t. Check the double b and the vowels a and i in the standard spelling.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Say 'rabbit'. Ask the child to spell it and check both spoken parts.",
+    "audioPrompt": "Grown-up: hide the screen. Say 'rabbit'. Ask the child to spell it and check both spoken parts.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "rocket",
-      "roket",
-      "rockit"
-    ],
-    "correct": 0,
-    "explanation": "rocket is the best answer.",
-    "structuredExplanation": {
-      "summary": "rocket is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "Rabbit: r-a-b-b-i-t. Check the double b and the vowels a and i in the standard spelling.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Rabbit: r-a-b-b-i-t. Check the double b and the vowels a and i in the standard spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-038",
+    "id": "ac9e1ly13-er6-p-022",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Ben wants to write “basket”. Which spelling is correct?",
-    "audioPrompt": "Ben wants to write “basket”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Napkin: n-a-p-k-i-n. Retain the two vowel letters and the consonants in order.",
+    "acceptanceNote": "Napkin: n-a-p-k-i-n. Retain the two vowel letters and the consonants in order.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Dictate 'napkin'. Ask for a spelling, then invite the child to check both syllables.",
+    "audioPrompt": "Grown-up: hide the screen. Dictate 'napkin'. Ask for a spelling, then invite the child to check both syllables.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "baskett",
-      "basket",
-      "baskit"
-    ],
-    "correct": 1,
-    "explanation": "basket is the best answer.",
-    "structuredExplanation": {
-      "summary": "basket is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Napkin: n-a-p-k-i-n. Retain the two vowel letters and the consonants in order.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Napkin: n-a-p-k-i-n. Retain the two vowel letters and the consonants in order.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-039",
+    "id": "ac9e1ly13-er6-p-023",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Sam wants to write “kitten”. Which spelling is correct?",
-    "audioPrompt": "Sam wants to write “kitten”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Sandpit: s-a-n-d-p-i-t. Keep sand and pit complete, including the adjacent d and p.",
+    "acceptanceNote": "Sandpit: s-a-n-d-p-i-t. Keep sand and pit complete, including the adjacent d and p.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: keep the screen hidden. Say 'sandpit'. Ask the child to write it and check both parts.",
+    "audioPrompt": "Grown-up: keep the screen hidden. Say 'sandpit'. Ask the child to write it and check both parts.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "kittin",
-      "kiten",
-      "kitten"
-    ],
-    "correct": 2,
-    "explanation": "kitten is the best answer.",
-    "structuredExplanation": {
-      "summary": "kitten is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Sandpit: s-a-n-d-p-i-t. Keep sand and pit complete, including the adjacent d and p.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Sandpit: s-a-n-d-p-i-t. Keep sand and pit complete, including the adjacent d and p.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly13-p-040",
+    "id": "ac9e1ly13-er6-p-024",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
+    "skill": "spelling words with common patterns",
     "printable": true,
-    "type": "single",
-    "question": "Kim wants to write “helmet”. Which spelling is correct?",
-    "audioPrompt": "Kim wants to write “helmet”. Which spelling is correct?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Raincoat: r-a-i-n-c-o-a-t. Check the ai and oa patterns in the two familiar parts.",
+    "acceptanceNote": "Raincoat: r-a-i-n-c-o-a-t. Check the ai and oa patterns in the two familiar parts.",
+    "responseInstructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Grown-up: hide the screen. Dictate 'raincoat' in 'I wore a raincoat.' Ask the child to spell it.",
+    "audioPrompt": "Grown-up: hide the screen. Dictate 'raincoat' in 'I wore a raincoat.' Ask the child to spell it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "helmit",
-      "helmet",
-      "helmett"
-    ],
-    "correct": 1,
-    "explanation": "helmet is the best answer.",
-    "structuredExplanation": {
-      "summary": "helmet is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly13-p-041",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Leo wants to write “rabbit”. Which spelling is correct?",
-    "audioPrompt": "Leo wants to write “rabbit”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rabbitt",
-      "rabit",
-      "rabbit"
-    ],
-    "correct": 2,
-    "explanation": "rabbit is the best answer.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Raincoat: r-a-i-n-c-o-a-t. Check the ai and oa patterns in the two familiar parts.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "rabbit is the best answer."
+      "summary": "Raincoat: r-a-i-n-c-o-a-t. Check the ai and oa patterns in the two familiar parts.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly13-p-042",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe wants to write “sunset”. Which spelling is correct?",
-    "audioPrompt": "Zoe wants to write “sunset”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sunsat",
-      "sunsett",
-      "sunset"
-    ],
-    "correct": 2,
-    "explanation": "sunset is the best answer.",
-    "structuredExplanation": {
-      "summary": "sunset is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly13-p-043",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Max wants to write “chicken”. Which spelling is correct?",
-    "audioPrompt": "Max wants to write “chicken”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "chicken",
-      "chikin",
-      "chiken"
-    ],
-    "correct": 0,
-    "explanation": "chicken is the best answer.",
-    "structuredExplanation": {
-      "summary": "chicken is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly13-p-044",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Mia wants to write “picnic”. Which spelling is correct?",
-    "audioPrompt": "Mia wants to write “picnic”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "picnik",
-      "picknic",
-      "picnic"
-    ],
-    "correct": 2,
-    "explanation": "picnic is the best answer.",
-    "structuredExplanation": {
-      "summary": "picnic is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly13-p-045",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Ben wants to write “rocket”. Which spelling is correct?",
-    "audioPrompt": "Ben wants to write “rocket”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rocket",
-      "roket",
-      "rockit"
-    ],
-    "correct": 0,
-    "explanation": "rocket is the best answer.",
-    "structuredExplanation": {
-      "summary": "rocket is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly13-p-046",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Sam wants to write “basket”. Which spelling is correct?",
-    "audioPrompt": "Sam wants to write “basket”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "baskit",
-      "baskett",
-      "basket"
-    ],
-    "correct": 2,
-    "explanation": "basket is the best answer.",
-    "structuredExplanation": {
-      "summary": "basket is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly13-p-047",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Kim wants to write “kitten”. Which spelling is correct?",
-    "audioPrompt": "Kim wants to write “kitten”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "kittin",
-      "kitten",
-      "kiten"
-    ],
-    "correct": 1,
-    "explanation": "kitten is the best answer.",
-    "structuredExplanation": {
-      "summary": "kitten is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly13-p-048",
-    "curriculumCode": "AC9E1LY13",
-    "bank": "practice",
-    "skill": "spell one- and two-syllable words with common letter patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Ava wants to write “helmet”. Which spelling is correct?",
-    "audioPrompt": "Ava wants to write “helmet”. Which spelling is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "helmett",
-      "helmit",
-      "helmet"
-    ],
-    "correct": 2,
-    "explanation": "helmet is the best answer.",
-    "structuredExplanation": {
-      "summary": "helmet is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

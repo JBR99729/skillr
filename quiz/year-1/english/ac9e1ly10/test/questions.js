@@ -26,7 +26,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 1,
     "correct": "Red. Replace /b/ with /r/ and retain the remaining two sounds.",
-    "explanation": "Red. Replace /b/ with /r/ and retain the remaining two sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Red. Replace /b/ with /r/ and retain the remaining two sounds.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -59,7 +59,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 2,
     "correct": "Van. Replace /f/ with /v/ while keeping /a/ /n/.",
-    "explanation": "Van. Replace /f/ with /v/ while keeping /a/ /n/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Van. Replace /f/ with /v/ while keeping /a/ /n/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -92,7 +92,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 3,
     "correct": "Rug. Replace /b/ with /g/, keeping the first sound and vowel.",
-    "explanation": "Rug. Replace /b/ with /g/, keeping the first sound and vowel.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Rug. Replace /b/ with /g/, keeping the first sound and vowel.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -125,7 +125,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 4,
     "correct": "Hop. Replace /t/ with /p/ while retaining /h/ /o/.",
-    "explanation": "Hop. Replace /t/ with /p/ while retaining /h/ /o/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Hop. Replace /t/ with /p/ while retaining /h/ /o/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -158,7 +158,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 5,
     "correct": "Pit. Substitute short /i/ for short /e/ and preserve the consonants.",
-    "explanation": "Pit. Substitute short /i/ for short /e/ and preserve the consonants.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Pit. Substitute short /i/ for short /e/ and preserve the consonants.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -191,7 +191,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 6,
     "correct": "Bag. Substitute short /a/ for short /u/, keeping /b/ and /g/.",
-    "explanation": "Bag. Substitute short /a/ for short /u/, keeping /b/ and /g/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Bag. Substitute short /a/ for short /u/, keeping /b/ and /g/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -224,7 +224,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 7,
     "correct": "Stop. Add initial /s/ while retaining all three sounds of top.",
-    "explanation": "Stop. Add initial /s/ while retaining all three sounds of top.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Stop. Add initial /s/ while retaining all three sounds of top.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -257,7 +257,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 8,
     "correct": "Slip. Add /s/ before /l/ /i/ /p/ to form the new spoken word.",
-    "explanation": "Slip. Add /s/ before /l/ /i/ /p/ to form the new spoken word.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Slip. Add /s/ before /l/ /i/ /p/ to form the new spoken word.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -290,7 +290,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 9,
     "correct": "Pant. Add final /t/ without changing /p/ /a/ /n/.",
-    "explanation": "Pant. Add final /t/ without changing /p/ /a/ /n/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Pant. Add final /t/ without changing /p/ /a/ /n/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -323,7 +323,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 10,
     "correct": "Clap. Insert /l/ between /k/ and /a/; do not put it at the start or end.",
-    "explanation": "Clap. Insert /l/ between /k/ and /a/; do not put it at the start or end.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Clap. Insert /l/ between /k/ and /a/; do not put it at the start or end.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -356,7 +356,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 11,
     "correct": "Pin. Remove /s/ and blend /p/ /i/ /n/.",
-    "explanation": "Pin. Remove /s/ and blend /p/ /i/ /n/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Pin. Remove /s/ and blend /p/ /i/ /n/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -389,7 +389,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 12,
     "correct": "Pain. Delete the final /t/ while keeping /p/, the long a vowel and /n/.",
-    "explanation": "Pain. Delete the final /t/ while keeping /p/, the long a vowel and /n/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Pain. Delete the final /t/ while keeping /p/, the long a vowel and /n/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -422,7 +422,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 13,
     "correct": "Bet. Delete /l/ from /b/ /e/ /l/ /t/ and blend the remaining sounds.",
-    "explanation": "Bet. Delete /l/ from /b/ /e/ /l/ /t/ and blend the remaining sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Bet. Delete /l/ from /b/ /e/ /l/ /t/ and blend the remaining sounds.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -455,7 +455,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 14,
     "correct": "Fog. Delete /r/ from the beginning cluster while retaining /f/ /o/ /g/.",
-    "explanation": "Fog. Delete /r/ from the beginning cluster while retaining /f/ /o/ /g/.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Fog. Delete /r/ from the beginning cluster while retaining /f/ /o/ /g/.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -488,7 +488,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 15,
     "correct": "Fin. Replace the single unvoiced /th/ with /f/ and keep the other sounds.",
-    "explanation": "Fin. Replace the single unvoiced /th/ with /f/ and keep the other sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Fin. Replace the single unvoiced /th/ with /f/ and keep the other sounds.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -521,7 +521,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 16,
     "correct": "Shin. Replace /p/ with /n/, retaining the initial /sh/ phoneme and short vowel.",
-    "explanation": "Shin. Replace /p/ with /n/, retaining the initial /sh/ phoneme and short vowel.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Shin. Replace /p/ with /n/, retaining the initial /sh/ phoneme and short vowel.",
       "hint": "Complete the task before comparing your response with the guidance."

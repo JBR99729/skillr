@@ -26,7 +26,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 1,
     "correct": "Accept a clear opening, two relevant details, conclusion and audible steady delivery. Different preferences are equally valid.",
-    "explanation": "Accept a clear opening, two relevant details, conclusion and audible steady delivery. Different preferences are equally valid.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a clear opening, two relevant details, conclusion and audible steady delivery. Different preferences are equally valid.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -59,7 +59,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 2,
     "correct": "Accept accurate simple information, a clear introduction and ending, and relevant words such as fin or swim. No species-specific expert knowledge is required.",
-    "explanation": "Accept accurate simple information, a clear introduction and ending, and relevant words such as fin or swim. No species-specific expert knowledge is required.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept accurate simple information, a clear introduction and ending, and relevant words such as fin or swim. No species-specific expert knowledge is required.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -92,7 +92,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 3,
     "correct": "Accept a coherent imagined design, a gesture linked to the explanation and a concluding statement. Check communication, not whether the design could be professionally built.",
-    "explanation": "Accept a coherent imagined design, a gesture linked to the explanation and a concluding statement. Check communication, not whether the design could be professionally built.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a coherent imagined design, a gesture linked to the explanation and a concluding statement. Check communication, not whether the design could be professionally built.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -125,7 +125,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 4,
     "correct": "Accept a relevant explanation and closing benefit, with clear speech. The child can choose a job they have observed rather than performed.",
-    "explanation": "Accept a relevant explanation and closing benefit, with clear speech. The child can choose a job they have observed rather than performed.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a relevant explanation and closing benefit, with clear speech. The child can choose a job they have observed rather than performed.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -158,7 +158,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 5,
     "correct": "Accept relevant weather words, organised observations and an ending. The event may be real or imagined if presented consistently.",
-    "explanation": "Accept relevant weather words, organised observations and an ending. The event may be real or imagined if presented consistently.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept relevant weather words, organised observations and an ending. The event may be real or imagined if presented consistently.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -191,7 +191,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 6,
     "correct": "Accept a clear opening, ordered actions and conclusion. Listen for useful material or action words and suitable pace.",
-    "explanation": "Accept a clear opening, ordered actions and conclusion. Listen for useful material or action words and suitable pace.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a clear opening, ordered actions and conclusion. Listen for useful material or action words and suitable pace.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -224,7 +224,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 7,
     "correct": "Accept features that match the object and a relevant use, with recognisable structure and understandable delivery.",
-    "explanation": "Accept features that match the object and a relevant use, with recognisable structure and understandable delivery.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept features that match the object and a relevant use, with recognisable structure and understandable delivery.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -257,7 +257,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 8,
     "correct": "Accept relevant story information and an opinion linked to the action. The child's opinion is not required to match an adult's.",
-    "explanation": "Accept relevant story information and an opinion linked to the action. The child's opinion is not required to match an adult's.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept relevant story information and an opinion linked to the action. The child's opinion is not required to match an adult's.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -290,7 +290,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 9,
     "correct": "Accept a meaningful link between visual support and speech, relevant middle detail and a closing statement. Assess the child's explanation, not drawing skill.",
-    "explanation": "Accept a meaningful link between visual support and speech, relevant middle detail and a closing statement. Assess the child's explanation, not drawing skill.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a meaningful link between visual support and speech, relevant middle detail and a closing statement. Assess the child's explanation, not drawing skill.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -323,7 +323,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 10,
     "correct": "Accept a coherent problem-step-result structure and clear pace. A plausible imagined solution is acceptable.",
-    "explanation": "Accept a coherent problem-step-result structure and clear pace. A plausible imagined solution is acceptable.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a coherent problem-step-result structure and clear pace. A plausible imagined solution is acceptable.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -356,7 +356,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 11,
     "correct": "Accept accurate simple vocabulary, an opening, relevant middle and conclusion. Suggested concepts include seed, leaf, soil and water, without requiring all four.",
-    "explanation": "Accept accurate simple vocabulary, an opening, relevant middle and conclusion. Suggested concepts include seed, leaf, soil and water, without requiring all four.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept accurate simple vocabulary, an opening, relevant middle and conclusion. Suggested concepts include seed, leaf, soil and water, without requiring all four.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -389,7 +389,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 12,
     "correct": "Accept a structured talk and appropriate use of feedback. If the original pace was suitable, accept maintaining it and explaining why.",
-    "explanation": "Accept a structured talk and appropriate use of feedback. If the original pace was suitable, accept maintaining it and explaining why.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a structured talk and appropriate use of feedback. If the original pace was suitable, accept maintaining it and explaining why.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -422,7 +422,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 13,
     "correct": "Accept a correct comparison, gesture matched to the picture and clear ending. No preference for either place is required.",
-    "explanation": "Accept a correct comparison, gesture matched to the picture and clear ending. No preference for either place is required.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a correct comparison, gesture matched to the picture and clear ending. No preference for either place is required.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -455,7 +455,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 14,
     "correct": "Accept relevant information and a conclusion that stays with the topic. The listener should be able to identify the talk's main idea.",
-    "explanation": "Accept relevant information and a conclusion that stays with the topic. The listener should be able to identify the talk's main idea.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept relevant information and a conclusion that stays with the topic. The listener should be able to identify the talk's main idea.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -488,7 +488,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 15,
     "correct": "Accept a clear opening, ordered middle and conclusion with a useful pause. Do not judge by speed alone or require theatrical performance.",
-    "explanation": "Accept a clear opening, ordered middle and conclusion with a useful pause. Do not judge by speed alone or require theatrical performance.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept a clear opening, ordered middle and conclusion with a useful pause. Do not judge by speed alone or require theatrical performance.",
       "hint": "Complete the task before comparing your response with the guidance."
@@ -521,7 +521,7 @@ window.skillrTestQuestions = [
     "difficultyTier": "independent",
     "sequencePriority": 16,
     "correct": "Accept all named elements when they support understanding. Check audible volume and manageable pace; allow notes, communication supports and a familiar topic.",
-    "explanation": "Accept all named elements when they support understanding. Check audible volume and manageable pace; allow notes, communication supports and a familiar topic.\nHint: Complete the task before comparing your response with the guidance.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Accept all named elements when they support understanding. Check audible volume and manageable pace; allow notes, communication supports and a familiar topic.",
       "hint": "Complete the task before comparing your response with the guidance."

@@ -11,8 +11,9 @@ const batch2 = process.argv.includes('--batch2');
 const batch3 = process.argv.includes('--batch3');
 const batch4 = process.argv.includes('--batch4');
 const batch5 = process.argv.includes('--batch5');
-const codes = batch5 ? ['ac9e1ly06','ac9e1ly07','ac9e1ly08','ac9e1ly09','ac9e1ly10'] : batch4 ? ['ac9e1ly01','ac9e1ly02','ac9e1ly03','ac9e1ly04','ac9e1ly05'] : batch3 ? ['ac9e1le01','ac9e1le02','ac9e1le03','ac9e1le04','ac9e1le05'] : batch2 ? ['ac9e1la06','ac9e1la07','ac9e1la08','ac9e1la09','ac9e1la10'] : ['ac9e1la01','ac9e1la02','ac9e1la03','ac9e1la04','ac9e1la05'];
-const tag = batch5 ? 'er5' : batch4 ? 'er4' : batch3 ? 'er3' : batch2 ? 'er2' : 'er1';
+const batch6 = process.argv.includes('--batch6');
+const codes = batch6 ? ['ac9e1ly11','ac9e1ly12','ac9e1ly13','ac9e1ly14','ac9e1ly15'] : batch5 ? ['ac9e1ly06','ac9e1ly07','ac9e1ly08','ac9e1ly09','ac9e1ly10'] : batch4 ? ['ac9e1ly01','ac9e1ly02','ac9e1ly03','ac9e1ly04','ac9e1ly05'] : batch3 ? ['ac9e1le01','ac9e1le02','ac9e1le03','ac9e1le04','ac9e1le05'] : batch2 ? ['ac9e1la06','ac9e1la07','ac9e1la08','ac9e1la09','ac9e1la10'] : ['ac9e1la01','ac9e1la02','ac9e1la03','ac9e1la04','ac9e1la05'];
+const tag = batch6 ? 'er6' : batch5 ? 'er5' : batch4 ? 'er4' : batch3 ? 'er3' : batch2 ? 'er2' : 'er1';
 let rendered = 0, visualCount = 0;
 (async()=>{
  for(const code of codes) {
