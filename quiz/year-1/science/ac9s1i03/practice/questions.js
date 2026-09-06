@@ -1,483 +1,751 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1i03-p-001",
+    "id": "ac9s1i03-r3-p-001",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You see three snails. What should you record?",
-    "explanation": "A record should tell what was observed.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A child sees three holes in a leaf. Which note records only what was seen?",
+    "audioPrompt": "A child sees three holes in a leaf. Which note records only what was seen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "“I saw 3 snails”",
-      "“Snails are magic”",
-      "“My lunch is nice”"
+      "The leaf has three holes.",
+      "A caterpillar made every hole.",
+      "The leaf will get more holes."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "audioPrompt": "You see three snails. What should you record?",
+    "explanation": "The first note records visible evidence. The others add a cause or prediction.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A record should tell what was observed."
-    }
+      "summary": "The first note records visible evidence. The others add a cause or prediction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-002",
+    "id": "ac9s1i03-r3-p-002",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "make observations",
-    "question": "The plant is taller today. What could you use?",
-    "explanation": "Blocks can be used as an informal measurement.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A seedling's height will be checked each week. What should each record include?",
+    "audioPrompt": "A seedling's height will be checked each week. What should each record include?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "A soccer ball",
-      "Blocks to measure height",
-      "A song book"
+      "the child's favourite plant",
+      "the date and height",
+      "the pot's colour only"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 1,
-    "audioPrompt": "The plant is taller today. What could you use?",
+    "explanation": "Dates and heights allow the observations to be compared over time.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Blocks can be used as an informal measurement."
-    }
+      "summary": "Dates and heights allow the observations to be compared over time.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-003",
+    "id": "ac9s1i03-r3-p-003",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You hear a loud shaker. What should you record?",
-    "explanation": "This records what was heard.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "Four birds land on a fence during an observation. Which entry matches?",
+    "audioPrompt": "Four birds land on a fence during an observation. Which entry matches?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "“It tastes round”",
-      "“It is sleepy”",
-      "“The shaker is loud”"
+      "Birds on fence: many more tomorrow",
+      "Birds on fence: probably hungry",
+      "Birds on fence: 4"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "audioPrompt": "You hear a loud shaker. What should you record?",
+    "explanation": "The count records what was observed, without adding an explanation or prediction.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "This records what was heard."
-    }
+      "summary": "The count records what was observed, without adding an explanation or prediction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-004",
+    "id": "ac9s1i03-r3-p-004",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "make observations",
-    "question": "You watch ice melt. What picture helps?",
-    "explanation": "Photos can help record changes over time.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A leaf spans five identical cubes laid end to end. How should its length be recorded?",
+    "audioPrompt": "A leaf spans five identical cubes laid end to end. How should its length be recorded?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "A photo before and after",
-      "A drawing of shoes",
-      "A secret mark"
+      "5 cubes long",
+      "5 steps long",
+      "5 leaves long"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "audioPrompt": "You watch ice melt. What picture helps?",
+    "explanation": "The recorded unit must match the objects used to measure.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Photos can help record changes over time."
-    }
+      "summary": "The recorded unit must match the objects used to measure.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-005",
+    "id": "ac9s1i03-r3-p-005",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You compare two leaves. What can you record?",
-    "explanation": "Leaf length is an observable feature.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "The weather is cloudy at the morning check. Which note is useful?",
+    "audioPrompt": "The weather is cloudy at the morning check. Which note is useful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Which leaf can talk",
-      "Which leaf is longer",
-      "Which leaf is happiest"
+      "Cloudy days are the best",
+      "Morning check: cloudy",
+      "The clouds will bring rain later"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 1,
-    "audioPrompt": "You compare two leaves. What can you record?",
+    "explanation": "The first note reports the weather at the stated observation time.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Leaf length is an observable feature."
-    }
+      "summary": "The first note reports the weather at the stated observation time.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-006",
+    "id": "ac9s1i03-r3-p-006",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "The puddle is smaller now. What should you record?",
-    "explanation": "This records the observed change.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A toy stops spinning. Which tool can help record how long it spun?",
+    "audioPrompt": "A toy stops spinning. Which tool can help record how long it spun?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "“The puddle is a toy”",
-      "“The puddle likes me”",
-      "“The puddle got smaller”"
+      "a magnifier",
+      "a balance",
+      "a timer"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "audioPrompt": "The puddle is smaller now. What should you record?",
+    "explanation": "A timer measures duration; the other tools measure or reveal different features.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "This records the observed change."
-    }
+      "summary": "A timer measures duration; the other tools measure or reveal different features.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-007",
+    "id": "ac9s1i03-r3-p-007",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You count five seeds. What should you write?",
-    "explanation": "The record gives the number observed.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A shell has a dark stripe near its edge. Which drawing would preserve this observation?",
+    "audioPrompt": "A shell has a dark stripe near its edge. Which drawing would preserve this observation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "“I counted 5 seeds”",
-      "“Seeds are secret”",
-      "“Seeds can sing”"
+      "a drawing with the stripe in its observed place",
+      "a drawing with stripes added all over",
+      "a drawing showing only the background"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "audioPrompt": "You count five seeds. What should you write?",
+    "explanation": "A science drawing should show the observed features accurately.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "The record gives the number observed."
-    }
+      "summary": "A science drawing should show the observed features accurately.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-008",
+    "id": "ac9s1i03-r3-p-008",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "use informal measurements",
-    "question": "You measure a shadow with footsteps. What are you using?",
-    "explanation": "Footsteps can be used as an informal way to measure length.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A class photographs the same plant on different days. What should be saved with each photo?",
+    "audioPrompt": "A class photographs the same plant on different days. What should be saved with each photo?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "A smell",
-      "An informal measurement",
-      "A guess only"
+      "the name of an unrelated plant",
+      "the date",
+      "a prediction written as a result"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
     "correct": 1,
-    "audioPrompt": "You measure a shadow with footsteps. What are you using?",
+    "explanation": "Dates help identify when each photograph was taken.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Footsteps can be used as an informal way to measure length."
-    }
+      "summary": "Dates help identify when each photograph was taken.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-009",
+    "id": "ac9s1i03-r3-p-009",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "use digital tools to record",
-    "question": "You take a tablet photo of a flower. Why?",
-    "explanation": "A digital photo can record an observation.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "Use the length model. Which record matches the leaf?",
+    "audioPrompt": "Use the length model. Which record matches the leaf?",
+    "visual": "Leaf spans 4 equal cubes, placed end to end with no gaps or overlaps.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Leaf spans 4 equal cubes, placed end to end with no gaps or overlaps.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i03-09.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Leaf spans 4 equal cubes, placed end to end with no gaps or overlaps.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i03-09.svg#model"
+    },
     "answers": [
-      "To hide the flower",
-      "To make it grow",
-      "To record what you saw"
+      "Leaf length: 5 cubes",
+      "Leaf length: 3 cubes",
+      "Leaf length: 4 cubes"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "audioPrompt": "You take a tablet photo of a flower. Why?",
+    "explanation": "Four equal cubes span the leaf from one end to the other.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A digital photo can record an observation."
-    }
+      "summary": "Four equal cubes span the leaf from one end to the other.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-010",
+    "id": "ac9s1i03-r3-p-010",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You feel rough bark. What should you record?",
-    "explanation": "This records a touch observation.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A child writes '6' after counting snails. What should be added?",
+    "audioPrompt": "A child writes '6' after counting snails. What should be added?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "“The bark feels rough”",
-      "“The bark is hungry”",
-      "“The bark will fly”"
+      "what was counted",
+      "a different number",
+      "a guess about tomorrow"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "audioPrompt": "You feel rough bark. What should you record?",
+    "explanation": "Writing '6 snails' makes the number meaningful.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "This records a touch observation."
-    }
+      "summary": "Writing '6 snails' makes the number meaningful.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-011",
+    "id": "ac9s1i03-r3-p-011",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "use informal measurements",
-    "question": "You compare two towers. What can you measure?",
-    "explanation": "Block count is an informal measurement of height.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "Two plants are being measured with blocks. What helps make their records comparable?",
+    "audioPrompt": "Two plants are being measured with blocks. What helps make their records comparable?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Which tower is loud",
-      "How many blocks tall",
-      "Which tower is kind"
+      "record one in blocks and one as 'tall'",
+      "use the same-sized blocks for both",
+      "use large blocks for one and small blocks for the other"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "audioPrompt": "You compare two towers. What can you measure?",
+    "explanation": "Equal-sized units allow the lengths to be compared directly.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Block count is an informal measurement of height."
-    }
+      "summary": "Equal-sized units allow the lengths to be compared directly.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-012",
+    "id": "ac9s1i03-r3-p-012",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You see rain in the gauge. What should you record?",
-    "explanation": "A rain gauge shows an amount that can be recorded.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A child sees water dripping from a wet cloth. Which record is an observation?",
+    "audioPrompt": "A child sees water dripping from a wet cloth. Which record is an observation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "“Rain is funny”",
-      "“The gauge is bored”",
-      "How much rain is shown"
+      "The cloth is upset.",
+      "The cloth will be dry by lunch.",
+      "Drops are falling from the cloth."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "audioPrompt": "You see rain in the gauge. What should you record?",
+    "explanation": "Falling drops can be seen. The other statements add an imagined cause or a prediction.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A rain gauge shows an amount that can be recorded."
-    }
+      "summary": "Falling drops can be seen. The other statements add an imagined cause or a prediction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-013",
+    "id": "ac9s1i03-r3-p-013",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "make observations",
-    "question": "You watch a seedling each day. What helps?",
-    "explanation": "Daily drawings can show changes over time.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A class checks a puddle before and after lunch. What record helps show the change?",
+    "audioPrompt": "A class checks a puddle before and after lunch. What record helps show the change?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "A daily drawing",
-      "A hidden cup",
-      "A noisy chair"
+      "labelled drawings from both times",
+      "one drawing labelled 'sometime'",
+      "a drawing of a different puddle"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "audioPrompt": "You watch a seedling each day. What helps?",
+    "explanation": "Matching the same puddle to both times helps preserve its change.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Daily drawings can show changes over time."
-    }
+      "summary": "Matching the same puddle to both times helps preserve its change.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-014",
+    "id": "ac9s1i03-r3-p-014",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You compare two sounds. What could you record?",
-    "explanation": "Louder and softer are sound observations.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A child counts visiting butterflies. How can tally marks help?",
+    "audioPrompt": "A child counts visiting butterflies. How can tally marks help?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Which sound is green",
-      "Which sound is louder",
-      "Which sound is square"
+      "use one mark for any number of visits",
+      "add one mark for each visit",
+      "add marks only when remembering later"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "audioPrompt": "You compare two sounds. What could you record?",
+    "explanation": "Recording each visit as it happens reduces reliance on memory.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Louder and softer are sound observations."
-    }
+      "summary": "Recording each visit as it happens reduces reliance on memory.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-015",
+    "id": "ac9s1i03-r3-p-015",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You count birds in a tree. What record fits?",
-    "explanation": "This record gives an observed number.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A child wants to record the pattern of spots on a leaf. Which digital tool is useful?",
+    "audioPrompt": "A child wants to record the pattern of spots on a leaf. Which digital tool is useful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "“The tree is shy”",
-      "“Birds like maths”",
-      "“I counted 4 birds”"
+      "a timer running beside the leaf",
+      "a calculator with no leaf information",
+      "a camera to photograph the leaf"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "audioPrompt": "You count birds in a tree. What record fits?",
+    "explanation": "A photograph can preserve the arrangement of visible spots.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "This record gives an observed number."
-    }
+      "summary": "A photograph can preserve the arrangement of visible spots.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-016",
+    "id": "ac9s1i03-r3-p-016",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "make observations",
-    "question": "You use a hand lens on a leaf. What should you draw?",
-    "explanation": "A hand lens helps you observe details closely.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A leaf is measured with cubes, but gaps are left between them. What should be done before recording its length?",
+    "audioPrompt": "A leaf is measured with cubes, but gaps are left between them. What should be done before recording its length?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "What you see closely",
-      "What the leaf wants",
-      "What the leaf says"
+      "line the cubes up without gaps and check again",
+      "count each gap as another cube",
+      "keep the count without checking"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "audioPrompt": "You use a hand lens on a leaf. What should you draw?",
+    "explanation": "Repeated units should touch end to end so the count represents the length.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A hand lens helps you observe details closely."
-    }
+      "summary": "Repeated units should touch end to end so the count represents the length.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-017",
+    "id": "ac9s1i03-r3-p-017",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You compare two rocks by touch. What can you record?",
-    "explanation": "Smoothness is an observable texture.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "Read the observation card. Which notebook entry keeps all the information?",
+    "audioPrompt": "Read the observation card. Which notebook entry keeps all the information?",
+    "visual": "Tuesday morning: 3 snails on the wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tuesday morning: 3 snails on the wall.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i03-17.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Tuesday morning: 3 snails on the wall.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i03-17.svg#model"
+    },
     "answers": [
-      "Which rock is famous",
-      "Which rock is smoother",
-      "Which rock is sleepy"
+      "Morning: snails might visit the wall",
+      "Tuesday morning: 3 snails on the wall",
+      "Tuesday: 3 animals somewhere"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "audioPrompt": "You compare two rocks by touch. What can you record?",
+    "explanation": "The complete entry records when, what, how many and where.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Smoothness is an observable texture."
-    }
+      "summary": "The complete entry records when, what, how many and where.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-018",
+    "id": "ac9s1i03-r3-p-018",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You record water drops each hour. What are you tracking?",
-    "explanation": "Repeated records can show change over time.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A child records two flowers, then notices another on the same plant. What should the record show?",
+    "audioPrompt": "A child records two flowers, then notices another on the same plant. What should the record show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Shoe colour",
-      "Story names",
-      "Changes over time"
+      "2 flowers because that was written first",
+      "4 flowers in case another appears",
+      "3 flowers"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "audioPrompt": "You record water drops each hour. What are you tracking?",
+    "explanation": "The record should be updated to match what is actually observed.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Repeated records can show change over time."
-    }
+      "summary": "The record should be updated to match what is actually observed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-019",
+    "id": "ac9s1i03-r3-p-019",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "use informal measurements",
-    "question": "You use cubes beside a plant. Why?",
-    "explanation": "Cubes can show how tall the plant is.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A plant looks taller than yesterday. How could the child make the comparison clearer?",
+    "audioPrompt": "A plant looks taller than yesterday. How could the child make the comparison clearer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "To measure height",
-      "To make the plant talk",
-      "To hide the stem"
+      "measure from the same starting point with the same units",
+      "measure from a new starting point with bigger units",
+      "replace both measurements with 'looks good'"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "audioPrompt": "You use cubes beside a plant. Why?",
+    "explanation": "Keeping the measurement method consistent makes the comparison more useful.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Cubes can show how tall the plant is."
-    }
+      "summary": "Keeping the measurement method consistent makes the comparison more useful.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-020",
+    "id": "ac9s1i03-r3-p-020",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You see a shell with spots. What should you record?",
-    "explanation": "Spots are an observable feature.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A sound lasts until a timer reads 7 seconds. What should be recorded?",
+    "audioPrompt": "A sound lasts until a timer reads 7 seconds. What should be recorded?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "“The shell is magic”",
-      "“The shell has spots”",
-      "“The shell is tomorrow”"
+      "Sound count: 7 sounds",
+      "Sound duration: 7 seconds",
+      "Sound length: 7 cubes"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "audioPrompt": "You see a shell with spots. What should you record?",
+    "explanation": "The number and unit must describe the duration measured.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Spots are an observable feature."
-    }
+      "summary": "The number and unit must describe the duration measured.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-021",
+    "id": "ac9s1i03-r3-p-021",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "use digital tools to record",
-    "question": "You film a toy car rolling. Why?",
-    "explanation": "Video can record movement for later viewing.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "The two records show a plant changing. Which record matches?",
+    "audioPrompt": "The two records show a plant changing. Which record matches?",
+    "visual": "First observation: 2 leaves. Later observation: 4 leaves.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"First observation: 2 leaves. Later observation: 4 leaves.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i03-21.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "First observation: 2 leaves. Later observation: 4 leaves.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i03-21.svg#model"
+    },
     "answers": [
-      "To make it faster",
-      "To stop the test",
-      "To record movement"
+      "Four leaves first; two leaves later",
+      "Four leaves in both records",
+      "Two leaves first; four leaves later"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "audioPrompt": "You film a toy car rolling. Why?",
+    "explanation": "The record must preserve the number and order of the observed leaves.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Video can record movement for later viewing."
-    }
+      "summary": "The record must preserve the number and order of the observed leaves.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-022",
+    "id": "ac9s1i03-r3-p-022",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "record observations",
-    "question": "You compare warm and cool water. What can you record?",
-    "explanation": "Warm and cool are observations that can be recorded safely with adult help.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A child records 'smooth' for one rock and 'heavy' for another. What extra observation helps compare texture?",
+    "audioPrompt": "A child records 'smooth' for one rock and 'heavy' for another. What extra observation helps compare texture?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Which feels warmer",
-      "Which cup is happiest",
-      "Which water is noisy"
+      "how the second rock's surface feels, if safe to touch",
+      "the second rock's colour only",
+      "how far the first rock rolls"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "audioPrompt": "You compare warm and cool water. What can you record?",
+    "explanation": "Texture should be recorded for both objects when comparing texture.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Warm and cool are observations that can be recorded safely with adult help."
-    }
+      "summary": "Texture should be recorded for both objects when comparing texture.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-023",
+    "id": "ac9s1i03-r3-p-023",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "use informal measurements",
-    "question": "You mark a plant’s height today. What can you compare later?",
-    "explanation": "A height mark helps compare growth later.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A ruler reading is unclear. What should the child do?",
+    "audioPrompt": "A ruler reading is unclear. What should the child do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The pot’s name",
-      "If the plant grew",
-      "The plant’s dreams"
+      "copy a friend's different object measurement",
+      "ask for help checking it before recording",
+      "write the largest visible number"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "audioPrompt": "You mark a plant’s height today. What can you compare later?",
+    "explanation": "Checking the reading is better than inventing or borrowing a result.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A height mark helps compare growth later."
-    }
+      "summary": "Checking the reading is better than inventing or borrowing a result.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i03-p-024",
+    "id": "ac9s1i03-r3-p-024",
     "curriculumCode": "AC9S1I03",
     "bank": "practice",
-    "skill": "make observations",
-    "question": "You finish observing. Where should results go?",
-    "explanation": "A chart helps keep observations clear.",
+    "skill": "making and recording observations and informal measurements",
     "printable": true,
     "type": "single",
+    "question": "A video shows a ball rolling, slowing, then stopping. Which note records that order?",
+    "audioPrompt": "A video shows a ball rolling, slowing, then stopping. Which note records that order?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "In your shoe",
-      "Under the table",
-      "On a chart"
+      "stopped, sped up, rolled",
+      "rolled at the same speed throughout",
+      "rolled, slowed, stopped"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "audioPrompt": "You finish observing. Where should results go?",
+    "explanation": "The note should match the sequence visible in the video.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A chart helps keep observations clear."
-    }
+      "summary": "The note should match the sequence visible in the video.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

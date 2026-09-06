@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1i05-p-001",
+    "id": "ac9s1i05-r3-p-001",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Prediction: “The sunny ice cube will melt first.” Result: the sunny cube melted first. What happened?",
-    "audioPrompt": "Prediction: “The sunny ice cube will melt first.” Result: the sunny cube melted first. What happened?",
+    "question": "A child predicted the sunny puddle would dry first. It did dry first. How does the result compare?",
+    "audioPrompt": "A child predicted the sunny puddle would dry first. It did dry first. How does the result compare?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,32 +16,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The result supported the prediction.",
-      "The prediction was wrong.",
-      "No comparison is possible.",
-      "The result should be changed."
+      "It matches the prediction this time.",
+      "It is the opposite of the prediction.",
+      "It tells us nothing about drying."
     ],
-    "correct": 0,
-    "explanation": "The observed result matched what was predicted.\nHint: Did the result match the expectation?",
-    "structuredExplanation": {
-      "summary": "The observed result matched what was predicted.",
-      "hint": "Did the result match the expectation?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The observed outcome matches the expected outcome in this test.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The observed outcome matches the expected outcome in this test.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-002",
+    "id": "ac9s1i05-r3-p-002",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Prediction: “The red car will roll farther.” Result: the blue car rolled farther. What happened?",
-    "audioPrompt": "Prediction: “The red car will roll farther.” Result: the blue car rolled farther. What happened?",
+    "question": "A child predicted the red car would go farther. The blue car went farther. What should they say?",
+    "audioPrompt": "A child predicted the red car would go farther. The blue car went farther. What should they say?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -49,32 +47,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The prediction was proved.",
-      "Both cars rolled equally.",
-      "The result should be ignored.",
-      "The result did not support the prediction."
+      "The red car went farther because I expected it.",
+      "The result did not match my prediction.",
+      "The result matched because a car moved."
     ],
-    "correct": 3,
-    "explanation": "The observed result was different from the prediction.\nHint: Compare expected with observed.",
-    "structuredExplanation": {
-      "summary": "The observed result was different from the prediction.",
-      "hint": "Compare expected with observed."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The comparison must use what actually happened, not just whether something moved.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The comparison must use what actually happened, not just whether something moved.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-003",
+    "id": "ac9s1i05-r3-p-003",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is a result?",
-    "audioPrompt": "Which sentence is a result?",
+    "question": "Two children watched the same bird. Both recorded that it flew to a branch. How do their observations compare?",
+    "audioPrompt": "Two children watched the same bird. Both recorded that it flew to a branch. How do their observations compare?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -82,32 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I think the sponge will win.",
-      "The sponge is my favourite.",
-      "The sponge absorbed 18 drops.",
-      "The sponge may absorb more."
+      "They disagree about where it went.",
+      "Neither child made an observation.",
+      "They agree about where it went."
     ],
-    "correct": 2,
-    "explanation": "A result reports what happened during the investigation.\nHint: Which event is complete?",
-    "structuredExplanation": {
-      "summary": "A result reports what happened during the investigation.",
-      "hint": "Which event is complete?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Both records describe the same movement to a branch.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Both records describe the same movement to a branch.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-004",
+    "id": "ac9s1i05-r3-p-004",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence compares prediction and result?",
-    "audioPrompt": "Which sentence compares prediction and result?",
+    "question": "A class predicted a paper cover would keep a toy dry. The toy became wet. What does the result show?",
+    "audioPrompt": "A class predicted a paper cover would keep a toy dry. The toy became wet. What does the result show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -115,32 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both cars have wheels.",
-      "I predicted A would roll farther, but B travelled farther.",
-      "Car A is red.",
-      "I like car B."
+      "The cover did not keep it dry in this test.",
+      "The cover kept it dry in this test.",
+      "The prediction must have been about colour."
     ],
-    "correct": 1,
-    "explanation": "The sentence places the expectation beside the observed outcome.\nHint: Look for “predicted…but…”.",
-    "structuredExplanation": {
-      "summary": "The sentence places the expectation beside the observed outcome.",
-      "hint": "Look for “predicted…but…”."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The observed wetness does not match the prediction of staying dry.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The observed wetness does not match the prediction of staying dry.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-005",
+    "id": "ac9s1i05-r3-p-005",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "If a prediction matches one result, is it guaranteed forever?",
-    "audioPrompt": "If a prediction matches one result, is it guaranteed forever?",
+    "question": "A child records a surprising result. Should it be kept?",
+    "audioPrompt": "A child records a surprising result. Should it be kept?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -148,32 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "No, more results may be different.",
-      "Yes, one match proves always.",
-      "Only if the object is blue.",
-      "Only on Mondays."
+      "No, it should be replaced with the prediction.",
+      "Yes, it is part of what happened.",
+      "No, only expected results belong in the record."
     ],
-    "correct": 0,
-    "explanation": "A single matching result supports a prediction in that test but does not guarantee every future result.\nHint: One result is not forever.",
-    "structuredExplanation": {
-      "summary": "A single matching result supports a prediction in that test but does not guarantee every future result.",
-      "hint": "One result is not forever."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Unexpected observations are still evidence to compare with the prediction.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Unexpected observations are still evidence to compare with the prediction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-006",
+    "id": "ac9s1i05-r3-p-006",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Which word means repeated results are similar?",
-    "audioPrompt": "Which word means repeated results are similar?",
+    "question": "A class compares two towels using the same amount of water on each. What is this helping them do?",
+    "audioPrompt": "A class compares two towels using the same amount of water on each. What is this helping them do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,32 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "invisible",
-      "randomly chosen",
-      "decorative",
-      "consistent"
+      "ensure both towels absorb equally",
+      "avoid looking at the results",
+      "make the comparison fairer"
     ],
-    "correct": 3,
-    "explanation": "Consistent results are similar across repeated trials.\nHint: Similar repeated results.",
-    "structuredExplanation": {
-      "summary": "Consistent results are similar across repeated trials.",
-      "hint": "Similar repeated results."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Using the same amount helps compare the towels; it does not guarantee equal results.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Using the same amount helps compare the towels; it does not guarantee equal results.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-007",
+    "id": "ac9s1i05-r3-p-007",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Trials give 42 cm, 40 cm, 41 cm. These results are:",
-    "audioPrompt": "Trials give 42 cm, 40 cm, 41 cm. These results are:",
+    "question": "A ball rolled farther than predicted. What should be compared?",
+    "audioPrompt": "A ball rolled farther than predicted. What should be compared?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -214,32 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "not measurements",
-      "all equal exactly",
-      "fairly consistent",
-      "completely different"
+      "the predicted travel and the observed travel",
+      "the ball's colour and the child's name",
+      "only the child's favourite result"
     ],
-    "correct": 2,
-    "explanation": "The distances are close to one another.\nHint: Are the numbers similar?",
-    "structuredExplanation": {
-      "summary": "The distances are close to one another.",
-      "hint": "Are the numbers similar?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The comparison needs the same outcome in the prediction and the observation.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The comparison needs the same outcome in the prediction and the observation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-008",
+    "id": "ac9s1i05-r3-p-008",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Trials give 20 cm, 55 cm, 23 cm. What should be noticed?",
-    "audioPrompt": "Trials give 20 cm, 55 cm, 23 cm. What should be noticed?",
+    "question": "A child's prediction matches one trial. What can they say?",
+    "audioPrompt": "A child's prediction matches one trial. What can they say?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -247,65 +233,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Distance cannot vary.",
-      "One result is much larger and may need checking.",
-      "All results are identical.",
-      "The middle result must be deleted."
+      "No more observations are possible.",
+      "It matched in this trial.",
+      "It must match every future trial."
     ],
-    "correct": 1,
-    "explanation": "The 55 cm result differs strongly from the others and should be checked, not automatically removed.\nHint: Which value stands out?",
-    "structuredExplanation": {
-      "summary": "The 55 cm result differs strongly from the others and should be checked, not automatically removed.",
-      "hint": "Which value stands out?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "One matching result supports the prediction for that trial, not every future situation.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "One matching result supports the prediction for that trial, not every future situation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-009",
+    "id": "ac9s1i05-r3-p-009",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Which result should be recorded?",
-    "audioPrompt": "Which result should be recorded?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the prediction and result cards. Which statement fits?",
+    "audioPrompt": "Read the prediction and result cards. Which statement fits?",
+    "visual": "Prediction: Towel A will hold more water.. Result: Towel B held more water..",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Prediction: Towel A will hold more water.. Result: Towel B held more water..\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-09.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Prediction: Towel A will hold more water.. Result: Towel B held more water..",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-09.svg#model"
     },
     "answers": [
-      "Every real result, including one that does not match the prediction.",
-      "Only results that match.",
-      "Only the largest result.",
-      "Only the favourite result."
+      "The result matched the prediction.",
+      "Only a prediction was recorded.",
+      "The result was the reverse of the prediction."
     ],
-    "correct": 0,
-    "explanation": "Scientific records keep all relevant evidence.\nHint: Do not hide surprises.",
-    "structuredExplanation": {
-      "summary": "Scientific records keep all relevant evidence.",
-      "hint": "Do not hide surprises."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The prediction favoured A, while the observed result favoured B.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The prediction favoured A, while the observed result favoured B.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-010",
+    "id": "ac9s1i05-r3-p-010",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Why repeat a simple trial?",
-    "audioPrompt": "Why repeat a simple trial?",
+    "question": "Two children counted insects in different garden patches. Their counts differ. What could help explain the difference?",
+    "audioPrompt": "Two children counted insects in different garden patches. Their counts differ. What could help explain the difference?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -313,32 +296,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "To force the prediction to win.",
-      "To make the object change colour.",
-      "To remove the need to record.",
-      "To see whether the result is similar or varied across attempts."
+      "They observed different places.",
+      "One child must have changed the record.",
+      "Different counts are never possible."
     ],
-    "correct": 3,
-    "explanation": "Repeated trials provide more evidence about consistency.\nHint: More trials, more evidence.",
-    "structuredExplanation": {
-      "summary": "Repeated trials provide more evidence about consistency.",
-      "hint": "More trials, more evidence."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Different locations can contain different numbers, so disagreement need not mean dishonesty.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Different locations can contain different numbers, so disagreement need not mean dishonesty.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-011",
+    "id": "ac9s1i05-r3-p-011",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Why keep the original prediction after the test?",
-    "audioPrompt": "Why keep the original prediction after the test?",
+    "question": "A child tests a strong push and a gentle push, but changes the car too. What makes the comparison unclear?",
+    "audioPrompt": "A child tests a strong push and a gentle push, but changes the car too. What makes the comparison unclear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,32 +327,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because predictions are always correct.",
-      "Because results do not matter.",
-      "So it can be honestly compared with the result.",
-      "So the result can be changed to match it."
+      "the cars were tested in the same room",
+      "both the push and the car changed",
+      "the child wrote down both results"
     ],
-    "correct": 2,
-    "explanation": "The original prediction shows what was expected before evidence was known.\nHint: Do not rewrite history.",
-    "structuredExplanation": {
-      "summary": "The original prediction shows what was expected before evidence was known.",
-      "hint": "Do not rewrite history."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The difference could be connected to either change, so it is hard to compare push strength alone.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The difference could be connected to either change, so it is hard to compare push strength alone.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-012",
+    "id": "ac9s1i05-r3-p-012",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Why is “My prediction was wrong, so the investigation failed” a poor conclusion?",
-    "audioPrompt": "Why is “My prediction was wrong, so the investigation failed” a poor conclusion?",
+    "question": "A paper bridge held fewer counters than expected. Which next question follows?",
+    "audioPrompt": "A paper bridge held fewer counters than expected. Which next question follows?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -379,32 +358,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Wrong predictions should be erased.",
-      "Unexpected evidence can still teach us something.",
-      "Predictions must always be right.",
-      "Investigations only count when guesses win."
+      "Which child likes bridges best?",
+      "What colour is the classroom door?",
+      "Would folding the paper help it hold more counters?"
     ],
-    "correct": 1,
-    "explanation": "Science learns from whether results support or challenge predictions.\nHint: Learning can come from surprise.",
-    "structuredExplanation": {
-      "summary": "Science learns from whether results support or challenge predictions.",
-      "hint": "Learning can come from surprise."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The question follows the observed weakness and suggests a related test.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The question follows the observed weakness and suggests a related test.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-013",
+    "id": "ac9s1i05-r3-p-013",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Why use all three trial results instead of choosing the one you like?",
-    "audioPrompt": "Why use all three trial results instead of choosing the one you like?",
+    "question": "Two observers watched the same plant at different times of day. One recorded more open flowers. What should they check?",
+    "audioPrompt": "Two observers watched the same plant at different times of day. One recorded more open flowers. What should they check?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -412,32 +389,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "All relevant evidence gives a more honest picture of what happened.",
-      "The highest number is always best.",
-      "One result always represents every trial.",
-      "Favourite results are more scientific."
+      "whether the flowers changed between those times",
+      "which observer has the neater writing",
+      "whether to erase the smaller count"
     ],
-    "correct": 0,
-    "explanation": "Selecting only preferred evidence can misrepresent the investigation.\nHint: Use the full record.",
-    "structuredExplanation": {
-      "summary": "Selecting only preferred evidence can misrepresent the investigation.",
-      "hint": "Use the full record."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The observation times may explain the different records.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The observation times may explain the different records.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-014",
+    "id": "ac9s1i05-r3-p-014",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Why might repeated results vary a little?",
-    "audioPrompt": "Why might repeated results vary a little?",
+    "question": "A child gives towel A ten drops and towel B twenty drops. Can that alone show which towel absorbs more under equal conditions?",
+    "audioPrompt": "A child gives towel A ten drops and towel B twenty drops. Can that alone show which towel absorbs more under equal conditions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -445,32 +420,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Science requires exactly identical numbers.",
-      "Variation means every trial is useless.",
-      "Numbers change because they are written down.",
-      "Small differences can come from normal variation or small changes in how the test was done."
+      "Yes, because twenty is a larger number.",
+      "No, the water amounts differ.",
+      "Yes, because both towels received water."
     ],
-    "correct": 3,
-    "explanation": "Real investigations often show some variation.\nHint: Similar does not mean identical.",
-    "structuredExplanation": {
-      "summary": "Real investigations often show some variation.",
-      "hint": "Similar does not mean identical."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The starting amounts differ, so this is not an equal comparison of the towels.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The starting amounts differ, so this is not an equal comparison of the towels.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-015",
+    "id": "ac9s1i05-r3-p-015",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Why should an unusual result be checked before being removed?",
-    "audioPrompt": "Why should an unusual result be checked before being removed?",
+    "question": "The results are A farther, B farther, then equal. What should the class report?",
+    "audioPrompt": "The results are A farther, B farther, then equal. What should the class report?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -478,32 +451,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only average results count.",
-      "Removing data makes predictions stronger.",
-      "It may be real, or it may reveal a measurement or procedure problem.",
-      "Unusual results are always wrong."
+      "A went farther in every trial",
+      "B went farther in every trial",
+      "the results were mixed"
     ],
-    "correct": 2,
-    "explanation": "Outliers need investigation rather than automatic deletion.\nHint: Check before deciding.",
-    "structuredExplanation": {
-      "summary": "Outliers need investigation rather than automatic deletion.",
-      "hint": "Check before deciding."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The report must include all three outcomes, not select just one.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The report must include all three outcomes, not select just one.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-016",
+    "id": "ac9s1i05-r3-p-016",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "A prediction was supported in four similar trials. What is a careful statement?",
-    "audioPrompt": "A prediction was supported in four similar trials. What is a careful statement?",
+    "question": "A seedling grew towards a window. Which further question explores that observation?",
+    "audioPrompt": "A seedling grew towards a window. Which further question explores that observation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -511,65 +482,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every object will behave the same.",
-      "The evidence supported the prediction in these trials.",
-      "The prediction is true forever.",
-      "No more evidence could ever matter."
+      "Would it grow towards light from another direction?",
+      "Which pot has the nicest pattern?",
+      "How many letters are in 'window'?"
     ],
-    "correct": 1,
-    "explanation": "Strong wording should stay within the evidence collected.\nHint: These trials, not all possible trials.",
-    "structuredExplanation": {
-      "summary": "Strong wording should stay within the evidence collected.",
-      "hint": "These trials, not all possible trials."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The question follows the observed relationship between light and growth direction.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The question follows the observed relationship between light and growth direction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-017",
+    "id": "ac9s1i05-r3-p-017",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Why compare observations with the prediction using the same outcome?",
-    "audioPrompt": "Why compare observations with the prediction using the same outcome?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the two observers' cards. What do they agree on?",
+    "audioPrompt": "Read the two observers' cards. What do they agree on?",
+    "visual": "Observer 1: 4 snails on the wall. Observer 2: 4 snails beside the gate.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observer 1: 4 snails on the wall. Observer 2: 4 snails beside the gate.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-17.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Observer 1: 4 snails on the wall. Observer 2: 4 snails beside the gate.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-17.svg#model"
     },
     "answers": [
-      "You need to compare like with like.",
-      "Any result can test any prediction.",
-      "Colour can test distance.",
-      "Opinions can replace measurements."
+      "both the count and the place",
+      "the number of snails",
+      "the place where the snails were"
     ],
-    "correct": 0,
-    "explanation": "A distance prediction needs distance results, a time prediction needs time results, and so on.\nHint: Same outcome.",
-    "structuredExplanation": {
-      "summary": "A distance prediction needs distance results, a time prediction needs time results, and so on.",
-      "hint": "Same outcome."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Both recorded four snails, but at different locations.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Both recorded four snails, but at different locations.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-018",
+    "id": "ac9s1i05-r3-p-018",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Why might a class repeat a test after an accidental bump?",
-    "audioPrompt": "Why might a class repeat a test after an accidental bump?",
+    "question": "A group wants to compare two ramp heights. What should it keep the same with guidance?",
+    "audioPrompt": "A group wants to compare two ramp heights. What should it keep the same with guidance?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -577,32 +545,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Accidents improve science.",
-      "The first result must be fake.",
-      "Repeating guarantees the prediction.",
-      "The bump may have changed the result, so a controlled repeat gives better evidence."
+      "the height of both ramps",
+      "only the names of the children",
+      "the car and the place it rolls onto"
     ],
-    "correct": 3,
-    "explanation": "A known disturbance can make a trial less comparable.\nHint: Control what you can.",
-    "structuredExplanation": {
-      "summary": "A known disturbance can make a trial less comparable.",
-      "hint": "Control what you can."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Keeping the car and surface the same helps focus the comparison on ramp height.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Keeping the car and surface the same helps focus the comparison on ramp height.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-019",
+    "id": "ac9s1i05-r3-p-019",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Why should a conclusion mention when a prediction was not supported?",
-    "audioPrompt": "Why should a conclusion mention when a prediction was not supported?",
+    "question": "A class predicted shade would keep ice longer. One shaded cube was much larger than the sunny cube. What should they question?",
+    "audioPrompt": "A class predicted shade would keep ice longer. One shaded cube was much larger than the sunny cube. What should they question?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,32 +576,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It hides the evidence.",
-      "It proves the opposite forever.",
-      "It accurately describes the relationship between expectation and evidence.",
-      "It makes the prediction stronger."
+      "whether cube size made the comparison unfair",
+      "whether the prediction was written neatly",
+      "whether shade has a shorter name"
     ],
-    "correct": 2,
-    "explanation": "Honest conclusions state whether evidence matched the prediction.\nHint: Say what the data showed.",
-    "structuredExplanation": {
-      "summary": "Honest conclusions state whether evidence matched the prediction.",
-      "hint": "Say what the data showed."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Different starting sizes could affect how long the cubes last.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Different starting sizes could affect how long the cubes last.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-020",
+    "id": "ac9s1i05-r3-p-020",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Why is “supported” often better than “proved” after a simple Year 1 test?",
-    "audioPrompt": "Why is “supported” often better than “proved” after a simple Year 1 test?",
+    "question": "A leaf with holes is found beside an unmarked leaf. Which question could extend the investigation?",
+    "audioPrompt": "A leaf with holes is found beside an unmarked leaf. Which question could extend the investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -643,65 +607,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Proved is required for every test.",
-      "A small investigation gives evidence but usually cannot rule out every other result.",
-      "Science never uses evidence.",
-      "Supported means wrong."
+      "Which child owns the green pencil?",
+      "Will more holes appear if we keep observing these leaves?",
+      "Which leaf has the nicest name?"
     ],
-    "correct": 1,
-    "explanation": "“Supported” reflects the limited amount of evidence more carefully.\nHint: Evidence can support without guaranteeing.",
-    "structuredExplanation": {
-      "summary": "“Supported” reflects the limited amount of evidence more carefully.",
-      "hint": "Evidence can support without guaranteeing."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Repeated observations can explore whether the visible difference changes.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Repeated observations can explore whether the visible difference changes.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-021",
+    "id": "ac9s1i05-r3-p-021",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Prediction: ball A farther. Trials: A 60/B 45, A 62/B 44, A 59/B 46. Best conclusion?",
-    "audioPrompt": "Prediction: ball A farther. Trials: A 60/B 45, A 62/B 44, A 59/B 46. Best conclusion?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Use the trial record. Which conclusion uses every result?",
+    "audioPrompt": "Use the trial record. Which conclusion uses every result?",
+    "visual": "Trial 1: Car A went farther.. Trial 2: Car B went farther.. Trial 3: Car A went farther..",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Trial 1: Car A went farther.. Trial 2: Car B went farther.. Trial 3: Car A went farther..\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-21.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Trial 1: Car A went farther.. Trial 2: Car B went farther.. Trial 3: Car A went farther..",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-21.svg#model"
     },
     "answers": [
-      "The results consistently supported the prediction in these trials.",
-      "B rolled farther.",
-      "The prediction is true forever.",
-      "The numbers should be averaged into one car."
+      "A went farther in all three trials.",
+      "B went farther in all three trials.",
+      "A went farther twice, and B went farther once."
     ],
-    "correct": 0,
-    "explanation": "All three trials show A travelling farther than B.\nHint: Compare each pair.",
-    "structuredExplanation": {
-      "summary": "All three trials show A travelling farther than B.",
-      "hint": "Compare each pair."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The conclusion must preserve both the repeated result and the different result.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The conclusion must preserve both the repeated result and the different result.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-022",
+    "id": "ac9s1i05-r3-p-022",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Prediction: towel A absorbs more. Results: A 8 drops, B 14 drops. Best conclusion?",
-    "audioPrompt": "Prediction: towel A absorbs more. Results: A 8 drops, B 14 drops. Best conclusion?",
+    "question": "Two children disagree about a count from the same photo. What could help?",
+    "audioPrompt": "Two children disagree about a count from the same photo. What could help?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -709,32 +670,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A absorbed more.",
-      "The test has no result.",
-      "Change 8 to 18.",
-      "The result did not support the prediction."
+      "look at the photo together and count carefully",
+      "keep only the larger count without checking",
+      "choose the count that matches the prediction"
     ],
-    "correct": 3,
-    "explanation": "B absorbed more than A, opposite to the prediction.\nHint: Which total is larger?",
-    "structuredExplanation": {
-      "summary": "B absorbed more than A, opposite to the prediction.",
-      "hint": "Which total is larger?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Rechecking the shared evidence can help resolve the disagreement.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Rechecking the shared evidence can help resolve the disagreement.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-023",
+    "id": "ac9s1i05-r3-p-023",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion is too strong?",
-    "audioPrompt": "Which conclusion is too strong?",
+    "question": "A toy car stopped early because someone touched it. What should the class do?",
+    "audioPrompt": "A toy car stopped early because someone touched it. What should the class do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -742,32 +701,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "“Our prediction was supported this time.”",
-      "“We could repeat the test.”",
-      "“The sunny puddle dried first once, so sunny puddles always dry first.”",
-      "“The sunny puddle dried first in this test.”"
+      "use it as proof that the ramp never works",
+      "note the touch and repeat without it",
+      "hide that trial and pretend it never happened"
     ],
-    "correct": 2,
-    "explanation": "One result cannot justify “always”.\nHint: Watch absolute words.",
-    "structuredExplanation": {
-      "summary": "One result cannot justify “always”.",
-      "hint": "Watch absolute words."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The touch affected the trial. Recording it and repeating helps make a clearer comparison.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The touch affected the trial. Recording it and repeating helps make a clearer comparison.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-024",
+    "id": "ac9s1i05-r3-p-024",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "Repeated distances are 30,31,29,30 cm. Which description fits?",
-    "audioPrompt": "Repeated distances are 30,31,29,30 cm. Which description fits?",
+    "question": "A test shows water passed through cloth but not plastic. Which further question follows?",
+    "audioPrompt": "A test shows water passed through cloth but not plastic. Which further question follows?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -775,549 +732,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The prediction must be wrong.",
-      "Results are very similar across trials.",
-      "Results are wildly different.",
-      "No result should be kept."
+      "Which colour of pencil is most popular?",
+      "How many chairs are in the room?",
+      "Would another cloth keep more water out?"
     ],
-    "correct": 1,
-    "explanation": "The measurements cluster closely around 30 cm.\nHint: How spread out are they?",
-    "structuredExplanation": {
-      "summary": "The measurements cluster closely around 30 cm.",
-      "hint": "How spread out are they?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-025",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Results are 12,13,40,12 seconds. What should be checked first?",
-    "audioPrompt": "Results are 12,13,40,12 seconds. What should be checked first?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Whether the 40-second trial used the same method.",
-      "Delete 40 immediately.",
-      "Change 40 to 13.",
-      "Ignore all four."
-    ],
-    "correct": 0,
-    "explanation": "The large difference may have a real cause or a procedure issue.\nHint: Investigate the unusual trial.",
-    "structuredExplanation": {
-      "summary": "The large difference may have a real cause or a procedure issue.",
-      "hint": "Investigate the unusual trial."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-026",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which student uses evidence honestly?",
-    "audioPrompt": "Which student uses evidence honestly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Noah erases the unexpected trial.",
-      "Mia changes her prediction after seeing the result and says it was original.",
-      "Leo records only the highest number.",
-      "Ava records the result even though it does not match her prediction."
-    ],
-    "correct": 3,
-    "explanation": "Ava keeps the actual evidence and original prediction.\nHint: Who preserves the real record?",
-    "structuredExplanation": {
-      "summary": "Ava keeps the actual evidence and original prediction.",
-      "hint": "Who preserves the real record?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-027",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement confuses support with proof?",
-    "audioPrompt": "Which statement confuses support with proof?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "“More trials could add evidence.”",
-      "“The result matched this time.”",
-      "“One matching result proves this will happen every time.”",
-      "“This result supports my prediction.”"
-    ],
     "correct": 2,
-    "explanation": "One matching result is not enough for a universal guarantee.\nHint: Proof forever is too strong.",
+    "explanation": "The question extends the observed difference in water resistance.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "One matching result is not enough for a universal guarantee.",
-      "hint": "Proof forever is too strong."
+      "summary": "The question extends the observed difference in water resistance.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-028",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A prediction is about melting time. Which result is relevant?",
-    "audioPrompt": "A prediction is about melting time. Which result is relevant?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Favourite cube",
-      "Minutes until each ice cube melted",
-      "Colour of the tray",
-      "Number of children watching"
-    ],
-    "correct": 1,
-    "explanation": "Melting time directly checks the predicted outcome.\nHint: Same outcome.",
-    "structuredExplanation": {
-      "summary": "Melting time directly checks the predicted outcome.",
-      "hint": "Same outcome."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-029",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which repeat is fairest after a car-roll trial?",
-    "audioPrompt": "Which repeat is fairest after a car-roll trial?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reset the same ramp and start line, then roll again.",
-      "Use a different ramp each time.",
-      "Push much harder in the repeat.",
-      "Change the surface."
-    ],
-    "correct": 0,
-    "explanation": "Keeping the setup similar makes repeated results more comparable.\nHint: Repeat the same method.",
-    "structuredExplanation": {
-      "summary": "Keeping the setup similar makes repeated results more comparable.",
-      "hint": "Repeat the same method."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-030",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which phrase best describes mixed results?",
-    "audioPrompt": "Which phrase best describes mixed results?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The prediction definitely won.",
-      "All trials were identical.",
-      "Mixed results must be hidden.",
-      "Some trials supported the prediction and some did not."
-    ],
-    "correct": 3,
-    "explanation": "Mixed results should be described accurately rather than forced into one outcome.\nHint: Say what happened across trials.",
-    "structuredExplanation": {
-      "summary": "Mixed results should be described accurately rather than forced into one outcome.",
-      "hint": "Say what happened across trials."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-031",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Prediction: “The larger parachute will fall more slowly.” Three trials show larger parachute slower each time. Best conclusion?",
-    "audioPrompt": "Prediction: “The larger parachute will fall more slowly.” Three trials show larger parachute slower each time. Best conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The smaller one was secretly better.",
-      "Three trials prove every future test.",
-      "The results supported the prediction in all three trials.",
-      "Large parachutes always fall slower everywhere."
-    ],
-    "correct": 2,
-    "explanation": "The conclusion accurately limits itself to the observed trials.\nHint: Use evidence without overclaiming.",
-    "structuredExplanation": {
-      "summary": "The conclusion accurately limits itself to the observed trials.",
-      "hint": "Use evidence without overclaiming."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-032",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A class predicted warm water would dissolve sugar faster. One trial showed cool water faster because the warm cup was accidentally bumped. What should they do?",
-    "audioPrompt": "A class predicted warm water would dissolve sugar faster. One trial showed cool water faster because the warm cup was accidentally bumped. What should they do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Declare the prediction false forever.",
-      "Record the trial, note the bump, then repeat under controlled conditions.",
-      "Erase the result.",
-      "Pretend the bump did not happen."
-    ],
-    "correct": 1,
-    "explanation": "Known interference should be documented and the test repeated fairly.\nHint: Keep the evidence and improve the repeat.",
-    "structuredExplanation": {
-      "summary": "Known interference should be documented and the test repeated fairly.",
-      "hint": "Keep the evidence and improve the repeat."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-033",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Five plant-height changes are 2,2,3,2,2 cm. What can the class say?",
-    "audioPrompt": "Five plant-height changes are 2,2,3,2,2 cm. What can the class say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Growth was similar across these measurements, with one slightly larger change.",
-      "Every plant grows exactly 2 cm.",
-      "The 3 must be wrong.",
-      "Growth can never vary."
-    ],
-    "correct": 0,
-    "explanation": "The data are mostly similar with modest variation.\nHint: Describe the pattern honestly.",
-    "structuredExplanation": {
-      "summary": "The data are mostly similar with modest variation.",
-      "hint": "Describe the pattern honestly."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-034",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A result disagrees with a prediction. Which reflection is strongest?",
-    "audioPrompt": "A result disagrees with a prediction. Which reflection is strongest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result does not count.",
-      "I was right because I guessed first.",
-      "I will change the numbers.",
-      "My prediction was not supported today; I should consider what the result suggests and test again."
-    ],
-    "correct": 3,
-    "explanation": "Scientific reflection uses unexpected evidence to guide next questions.\nHint: Evidence can change your thinking.",
-    "structuredExplanation": {
-      "summary": "Scientific reflection uses unexpected evidence to guide next questions.",
-      "hint": "Evidence can change your thinking."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-035",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Trials for two balls: trial 1 A farther, trial 2 B farther, trial 3 equal. Best conclusion?",
-    "audioPrompt": "Trials for two balls: trial 1 A farther, trial 2 B farther, trial 3 equal. Best conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "B definitely wins.",
-      "Equal forever.",
-      "The results were varied and did not show one ball consistently travelling farther.",
-      "A definitely wins."
-    ],
-    "correct": 2,
-    "explanation": "The three outcomes differ, so there is no consistent winner in these trials.\nHint: Look across all trials.",
-    "structuredExplanation": {
-      "summary": "The three outcomes differ, so there is no consistent winner in these trials.",
-      "hint": "Look across all trials."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-036",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A child forgot to start the timer until halfway through one trial. What should the record say?",
-    "audioPrompt": "A child forgot to start the timer until halfway through one trial. What should the record say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hide the mistake.",
-      "Mark that trial as affected by a timing problem and repeat it correctly.",
-      "Keep the time as fully reliable.",
-      "Change it to match other times."
-    ],
-    "correct": 1,
-    "explanation": "Documenting a known measurement issue supports honest interpretation.\nHint: Record the problem.",
-    "structuredExplanation": {
-      "summary": "Documenting a known measurement issue supports honest interpretation.",
-      "hint": "Record the problem."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-037",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A prediction says “paper will absorb more than foil”. Results are paper 20 drops, foil 2 drops. What is the best evidence statement?",
-    "audioPrompt": "A prediction says “paper will absorb more than foil”. Results are paper 20 drops, foil 2 drops. What is the best evidence statement?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Paper absorbed 18 more drops than foil in this test.",
-      "Paper is always the best material.",
-      "Foil cannot absorb anything ever.",
-      "The prediction caused the result."
-    ],
-    "correct": 0,
-    "explanation": "The numerical comparison stays close to the observed evidence.\nHint: State the measured difference.",
-    "structuredExplanation": {
-      "summary": "The numerical comparison stays close to the observed evidence.",
-      "hint": "State the measured difference."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-038",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Repeated bird counts are 4,7,4,6. Which conclusion is safest?",
-    "audioPrompt": "Repeated bird counts are 4,7,4,6. Which conclusion is safest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exactly 5 birds usually come.",
-      "Birds prefer even numbers.",
-      "Tomorrow must be 4.",
-      "Counts varied across observations, from 4 to 7."
-    ],
-    "correct": 3,
-    "explanation": "The data directly show variation within a range of 4–7.\nHint: Describe what the numbers show.",
-    "structuredExplanation": {
-      "summary": "The data directly show variation within a range of 4–7.",
-      "hint": "Describe what the numbers show."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-039",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A class wants stronger evidence for a prediction after one matching trial. What should they do?",
-    "audioPrompt": "A class wants stronger evidence for a prediction after one matching trial. What should they do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Change the question.",
-      "Only record future matching trials.",
-      "Repeat the investigation using the same method.",
-      "Stop because one match proves it."
-    ],
-    "correct": 2,
-    "explanation": "Repeated trials provide more evidence about consistency.\nHint: Check again.",
-    "structuredExplanation": {
-      "summary": "Repeated trials provide more evidence about consistency.",
-      "hint": "Check again."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i05-p-040",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which conclusion best uses all results: 5,5,6,5?",
-    "audioPrompt": "Which conclusion best uses all results: 5,5,6,5?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One result matters more than the others.",
-      "Results were very similar, with three 5s and one 6.",
-      "The result was always 5.",
-      "The 6 should be removed automatically."
-    ],
-    "correct": 1,
-    "explanation": "The conclusion reports both the common result and the variation.\nHint: Use every recorded value.",
-    "structuredExplanation": {
-      "summary": "The conclusion reports both the common result and the variation.",
-      "hint": "Use every recorded value."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
