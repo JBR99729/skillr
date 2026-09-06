@@ -3,10 +3,11 @@
 from __future__ import annotations
 import html,json,re,subprocess
 from collections import defaultdict
-from datetime import date
+from datetime import datetime
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import quote,unquote,urlparse
+from zoneinfo import ZoneInfo
 ROOT=Path(__file__).resolve().parents[1]; BASE="https://skillrhub.com"
 SKIP={"year1/maths/year-2-halves-quarters-and-eighths-in-everyday-life-activities-and-worksheets-ac9m2m02.html","quiz/grade-k/math/vocabulary/voabulary/index.html","quiz/year-2/math/addition-substraction-daily/index.html","year2/maths/addition-substraction-daily/index.html"}
 # Functional states have no independent search value. Keep the canonical learning entry points instead.
@@ -15,7 +16,41 @@ EXCLUDED_FILES={"offline.html"}
 EXCLUDED_PARTS={"teacher-slides"}
 EXCLUDED_ROOT_PARTS={"node_modules","playwright-report","test-results","screenshots"}
 PAUSED_PARTS={"daily-drills"}
-SECTION_LABELS={"foundation":"Foundation","year1":"Year 1","year2":"Year 2","year3":"Year 3","year4":"Year 4","year5":"Year 5","year6":"Year 6","year7":"Year 7","year8":"Year 8","year9":"Year 9","year10":"Year 10","quiz":"Practice, tests and worksheets","blogs":"Blogs","worksheets":"Worksheets"}
+SECTION_LABELS={"site":"Start here","foundation":"Foundation","year1":"Year 1","year2":"Year 2","year3":"Year 3","year4":"Year 4","year5":"Year 5","year6":"Year 6","year7":"Year 7","year8":"Year 8","year9":"Year 9","year10":"Year 10","mappings":"Curriculum mappings","help":"Help and information","quiz":"Practice, tests and worksheets","blogs":"Blogs","worksheets":"Worksheets"}
+HUMAN_SITE_LINKS={"/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"}
+HUMAN_HELP_LINKS={"/faq.html","/about.html","/contact.html","/support-skillrhub.html","/privacy-policy.html"}
+HUMAN_MAPPING_LINKS={"/nsw/mathematics/","/nsw/stage-5/mathematics/","/victoria/mathematics/","/victoria/year-10/mathematics/"}
+HUMAN_SITE_ORDER=["/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"]
+HUMAN_HELP_ORDER=["/faq.html","/about.html","/contact.html","/support-skillrhub.html","/privacy-policy.html"]
+HUMAN_MAPPING_ORDER=["/nsw/mathematics/","/nsw/stage-5/mathematics/","/victoria/mathematics/","/victoria/year-10/mathematics/"]
+HUMAN_LINK_LABELS={
+ "/":"Foundation to Year 10 learning resources",
+ "/worksheets/":"Free worksheets and homework",
+ "/blogs/":"Australian Curriculum guides and learning articles",
+ "/updates.html":"Latest SkillrHub updates",
+ "/why-skillrhub.html":"Why SkillrHub",
+ "/how-to-use-skillr.html":"How to use SkillrHub",
+ "/foundation/curriculum/":"Foundation Australian Curriculum",
+ "/year1/curriculum/":"Year 1 Australian Curriculum",
+ "/year2/curriculum/":"Year 2 Australian Curriculum",
+ "/year3/curriculum/":"Year 3 Australian Curriculum",
+ "/year4/curriculum/":"Year 4 Australian Curriculum",
+ "/year5/curriculum/":"Year 5 Australian Curriculum",
+ "/year6/curriculum/":"Year 6 Australian Curriculum",
+ "/year7/curriculum/":"Year 7 Australian Curriculum",
+ "/year8/curriculum/":"Year 8 Australian Curriculum",
+ "/year9/curriculum/":"Year 9 Australian Curriculum",
+ "/year10/curriculum/":"Year 10 Australian Curriculum",
+ "/nsw/mathematics/":"NSW Mathematics curriculum mapping",
+ "/nsw/stage-5/mathematics/":"NSW Stage 5 Mathematics mapping",
+ "/victoria/mathematics/":"Victorian Curriculum Mathematics mapping",
+ "/victoria/year-10/mathematics/":"Victorian Year 10 Mathematics mapping",
+ "/faq.html":"Frequently asked questions",
+ "/about.html":"About SkillrHub",
+ "/contact.html":"Contact SkillrHub",
+ "/support-skillrhub.html":"Support SkillrHub",
+ "/privacy-policy.html":"Privacy policy",
+}
 SEARCH_SKIP_TAGS={"script","style","svg","noscript","template"}
 COMMON_FACTOR_RE=re.compile(r"(?:lowest common multiple|highest common factor|greatest common divisor)",re.I)
 
@@ -85,24 +120,44 @@ def is_functional(path):
 def human_sitemap_page(url):
  """Keep the browser sitemap useful; XML sitemaps handle deep crawl discovery."""
  parts=[p for p in url.strip("/").split("/") if p]
- if not parts:return True
- if len(parts)==1:return True
- if parts[0]=="blogs":return len(parts)==1
+ if url in HUMAN_SITE_LINKS|HUMAN_HELP_LINKS|HUMAN_MAPPING_LINKS:return True
  if parts[0] in {"foundation",*[f"year{i}" for i in range(1,11)]}:
-  return len(parts)<=2 or (len(parts)==3 and parts[1]=="curriculum")
- if parts[0]=="worksheets":return len(parts)==1
+  return len(parts)==2 and parts[1]=="curriculum" or (len(parts)==3 and parts[1]=="curriculum" and parts[2] in {"maths","science","english"})
  return False
+def human_sitemap_key(url):
+ if url in HUMAN_SITE_LINKS:return "site"
+ if url in HUMAN_HELP_LINKS:return "help"
+ if url in HUMAN_MAPPING_LINKS:return "mappings"
+ return url.strip("/").split("/",1)[0] or "site"
+def human_sitemap_label(url,title):
+ m=re.fullmatch(r"/(foundation|year\d+)/curriculum/(maths|science|english)/",url)
+ if m:
+  level=SECTION_LABELS[m.group(1)]; subject=m.group(2).title()
+  return f"{level} {subject} curriculum resources"
+ return HUMAN_LINK_LABELS.get(url,title)
+def human_sitemap_sort_key(key,item):
+ url=item[0]
+ if key=="site":return (HUMAN_SITE_ORDER.index(url) if url in HUMAN_SITE_ORDER else 99,url)
+ if key=="help":return (HUMAN_HELP_ORDER.index(url) if url in HUMAN_HELP_ORDER else 99,url)
+ if key=="mappings":return (HUMAN_MAPPING_ORDER.index(url) if url in HUMAN_MAPPING_ORDER else 99,url)
+ m=re.fullmatch(r"/(foundation|year\d+)/curriculum(?:/(maths|science|english))?/",url)
+ if m:
+  order={None:0,"maths":1,"science":2,"english":3}
+  return (order.get(m.group(2),99),url)
+ return (99,url)
+def today_iso():
+ return datetime.now(ZoneInfo("Australia/Sydney")).date().isoformat()
 def git_dates():
  dates={};dirty=set()
  try:
-  hist=subprocess.check_output(["git","log","--format=@@%cs","--name-only","--diff-filter=ACMR"],cwd=ROOT,text=True); current=date.today().isoformat()
+  hist=subprocess.check_output(["git","log","--format=@@%cs","--name-only","--diff-filter=ACMR"],cwd=ROOT,text=True); current=today_iso()
   for line in hist.splitlines():
    if line.startswith("@@"):current=line[2:]
    elif line and line not in dates:dates[line]=current
   for cmd in (["git","diff","--name-only"],["git","diff","--cached","--name-only"],["git","ls-files","--others","--exclude-standard"]):dirty.update(subprocess.check_output(cmd,cwd=ROOT,text=True).splitlines())
  except (subprocess.CalledProcessError,FileNotFoundError):pass
  return dates,dirty
-def modified(path,dates,dirty):return date.today().isoformat() if path.as_posix() in dirty else dates.get(path.as_posix(),date.today().isoformat())
+def modified(path,dates,dirty):return today_iso() if path.as_posix() in dirty else dates.get(path.as_posix(),today_iso())
 def bucket(url):
  first=url.strip("/").split("/",1)[0] or "site"
  if first=="quiz": return "practice"
@@ -140,23 +195,25 @@ def main():
  idx.append("</sitemapindex>");(ROOT/"sitemap.xml").write_text("\n".join(idx)+"\n",encoding="utf-8")
  sections=defaultdict(list)
  for item in pages:
-  if human_sitemap_page(item[0]):sections[item[0].strip("/").split("/",1)[0] or "site"].append(item)
- html_order=["site","blogs","foundation"]+[f"year{i}" for i in range(1,11)]+["quiz","worksheets"]
+  if human_sitemap_page(item[0]):
+   sections[human_sitemap_key(item[0])].append((item[0],human_sitemap_label(item[0],item[1]),item[2],item[3]))
+ html_order=["site","foundation"]+[f"year{i}" for i in range(1,11)]+["mappings","help"]
  keys=[k for k in html_order if k in sections]+sorted(set(sections)-set(html_order))
  blocks=[]
  for key in keys:
-  label="Main pages" if key=="site" else SECTION_LABELS.get(key,key.replace("-"," ").title())
+  label=SECTION_LABELS.get(key,key.replace("-"," ").title())
+  sections[key].sort(key=lambda item:human_sitemap_sort_key(key,item))
   links="".join(f'<li><a href="{html.escape(item[0],quote=True)}">{html.escape(item[1])}</a></li>' for item in sections[key])
   blocks.append(f'<section class="sitemap-section"><h2>{html.escape(label)}</h2><ul>{links}</ul></section>')
- schema=json.dumps({"@context":"https://schema.org","@type":"CollectionPage","name":"SkillrHub website sitemap","url":f"{BASE}/sitemap.html","description":"Browse SkillrHub learning resources by year level and subject."},separators=(",",":"))
+ schema=json.dumps({"@context":"https://schema.org","@type":"CollectionPage","name":"SkillrHub Australian Curriculum resources sitemap","url":f"{BASE}/sitemap.html","description":"Browse Foundation to Year 10 Australian Curriculum Maths, Science and English resource hubs, worksheets, guides and curriculum mappings."},separators=(",",":"))
  doc=f'''<!DOCTYPE html>
 <html lang="en-AU"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Learning Resources Sitemap | SkillrHub</title>
-<meta name="description" content="Browse SkillrHub learning resources by year level and subject, including curriculum guides, practice, tests and printable worksheets.">
+<title>Australian Curriculum F–10 Resources Sitemap | SkillrHub</title>
+<meta name="description" content="Browse SkillrHub Foundation to Year 10 Australian Curriculum Maths, Science and English hubs, worksheets, guides and curriculum mappings.">
 <meta name="robots" content="index,follow"><link rel="canonical" href="{BASE}/sitemap.html">
-<meta property="og:title" content="SkillrHub Learning Resources Sitemap"><meta property="og:description" content="Find Australian Curriculum learning resources from Foundation to Year 10."><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/sitemap.html">
+<meta property="og:title" content="SkillrHub Australian Curriculum Resources Sitemap"><meta property="og:description" content="Find Foundation to Year 10 Australian Curriculum Maths, Science and English learning resources."><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/sitemap.html">
 <link rel="manifest" href="/manifest.webmanifest"><link rel="stylesheet" href="/style.css"><script type="application/ld+json">{schema}</script><meta name="google-adsense-account" content="ca-pub-7734963540104771"><script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","G-8P22BET45N");</script><!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script> --></head>
-<body><div class="container"><nav class="main-nav" aria-label="Primary"><a href="/">Home</a><a href="/blogs/">Blogs</a><a href="/worksheets/">Worksheets</a><a href="/sitemap.html" aria-current="page">Sitemap</a><a href="/about.html">About</a></nav><main><header class="sitemap-hero"><p class="eyebrow">Explore SkillrHub</p><h1>Learning resources sitemap</h1><p>Choose a year level or browse our main resource collections. Individual curriculum activities remain discoverable through each year and subject hub.</p></header><div class="sitemap-directory">{''.join(blocks)}</div></main><footer><p>&copy; 2026 Skillr Education. All rights reserved.</p><p><a href="/privacy-policy.html">Privacy</a> · <a href="/contact.html">Contact</a></p></footer></div><script src="/pwa-register.js?v=6"></script></body></html>'''
+<body><div class="container"><nav class="main-nav" aria-label="Primary"><a href="/">Home</a><a href="/blogs/">Blogs</a><a href="/worksheets/">Worksheets</a><a href="/updates.html">Updates</a><a href="/sitemap.html" aria-current="page">Sitemap</a><a href="/about.html">About</a></nav><main><header class="sitemap-hero"><p class="eyebrow">Explore SkillrHub</p><h1>Australian Curriculum learning resources sitemap</h1><p>Jump to a Foundation–Year 10 Maths, Science or English curriculum hub, worksheets, guides or curriculum mappings. Individual topic pages are linked from each subject hub so this directory stays quick to scan.</p></header><div class="sitemap-directory">{''.join(blocks)}</div></main><footer><p>&copy; 2026 Skillr Education. All rights reserved.</p><p><a href="/privacy-policy.html">Privacy</a> · <a href="/contact.html">Contact</a></p></footer></div><script src="/pwa-register.js?v=7"></script></body></html>'''
  (ROOT/"sitemap.html").write_text(doc,encoding="utf-8")
  search_count=write_search_index(pages)
  print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps, {len(pages)} canonical indexable URLs and {search_count} search entries.")
