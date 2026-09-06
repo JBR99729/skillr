@@ -62,3 +62,7 @@
 
 // Preserve authored LA05–LA09 worksheet banks for the scoped review.
 window.SkillrFoundationEnglishLanguageReview = Object.fromEntries(["AC9EFLA05", "AC9EFLA06", "AC9EFLA07", "AC9EFLA08", "AC9EFLA09"].map(code => [code, JSON.parse(JSON.stringify(window.SkillrFoundationEnglishWorksheetData[code]))]));
+
+
+// Preserve authored LE01–LE05 worksheet banks for the scoped literature review.
+window.SkillrFoundationEnglishLiteratureReview = Object.fromEntries(["AC9EFLE01", "AC9EFLE02", "AC9EFLE03", "AC9EFLE04", "AC9EFLE05"].map(code => [code, JSON.parse(JSON.stringify(window.SkillrFoundationEnglishWorksheetData[code]))]));
