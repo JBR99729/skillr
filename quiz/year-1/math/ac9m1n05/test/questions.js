@@ -4,457 +4,272 @@ window.skillrTestQuestions = [
     "id": "ac9m1n05-t-001",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "select operation",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "There are 8 books on a shelf. 4 more books are returned to the shelf. How many books are there now?",
+    "explanation": "8 + 4 = 12.",
     "printable": true,
     "type": "single",
-    "question": "A bag has 9 marbles and 7 more are added. Which operation is needed?",
-    "audioPrompt": "A bag has 9 marbles and 7 more are added. Which operation is needed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "addition",
-      "subtraction",
-      "sharing"
+      {"text": "4", "correct": false},
+      {"text": "12", "correct": true},
+      {"text": "13", "correct": false}
     ],
-    "correct": 0,
-    "explanation": "The marbles join, so add.\nHint: Start with the first amount and count on the second amount.",
-    "structuredExplanation": {
-      "summary": "The marbles join, so add.",
-      "hint": "Start with the first amount and count on the second amount."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Books are returned to the shelf. Does the number grow or shrink?",
+    "visualCue": "bookshelf"
   },
   {
     "id": "ac9m1n05-t-002",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "solve join story",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "Lily has $7. Her aunt gives her $8 more. How much money does Lily have altogether?",
+    "explanation": "$7 + $8 = $15.",
     "printable": true,
     "type": "single",
-    "question": "Sixteen children are in a hall. Three more enter. How many are there now?",
-    "audioPrompt": "Sixteen children are in a hall. Three more enter. How many are there now?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "18",
-      "19",
-      "20"
+      {"text": "$14", "correct": false},
+      {"text": "$1", "correct": false},
+      {"text": "$15", "correct": true}
     ],
-    "correct": 1,
-    "explanation": "16 + 3 = 19.\nHint: Count each amount carefully, then compare the two totals.",
-    "structuredExplanation": {
-      "summary": "16 + 3 = 19.",
-      "hint": "Count each amount carefully, then compare the two totals."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Join the two amounts of money.",
+    "visualCue": "two money groups"
   },
   {
     "id": "ac9m1n05-t-003",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "solve separate story",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "There are 17 oranges in a basket. 6 oranges are used. How many oranges are left?",
+    "explanation": "17 − 6 = 11.",
     "printable": true,
     "type": "single",
-    "question": "A tray holds 20 muffins. Eight are taken. How many remain?",
-    "audioPrompt": "A tray holds 20 muffins. Eight are taken. How many remain?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "11",
-      "13",
-      "12"
+      {"text": "11", "correct": true},
+      {"text": "12", "correct": false},
+      {"text": "9", "correct": false}
     ],
-    "correct": 2,
-    "explanation": "20 − 8 = 12.\nHint: Compare how much each container can hold, not only how tall it looks.",
-    "structuredExplanation": {
-      "summary": "20 − 8 = 12.",
-      "hint": "Compare how much each container can hold, not only how tall it looks."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Take 6 away from 17.",
+    "visualCue": "fruit basket"
   },
   {
     "id": "ac9m1n05-t-004",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "solve compare story",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "Finn has 9 cards. He gets some more cards. Now he has 14. How many cards did he get?",
+    "explanation": "9 + 5 = 14.",
     "printable": true,
     "type": "single",
-    "question": "One team has 17 points and another has 11. What is the difference?",
-    "audioPrompt": "One team has 17 points and another has 11. What is the difference?",
-    "visual": "One team has 17 points and another has 11. What is the difference?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"One team has 17 points and another has 11. What is the difference?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-004",
-      "alt_text": "One team has 17 points and another has 11. What is the difference?"
-    },
     "answers": [
-      "6",
-      "5",
-      "7"
+      {"text": "4", "correct": false},
+      {"text": "5", "correct": true},
+      {"text": "6", "correct": false}
     ],
-    "correct": 0,
-    "explanation": "17 − 11 = 6.\nHint: Show the starting amount, take away the given part, then count what remains.",
-    "structuredExplanation": {
-      "summary": "17 − 11 = 6.",
-      "hint": "Show the starting amount, take away the given part, then count what remains."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "What joins 9 to make 14?",
+    "visualCue": "part-part-whole frame"
   },
   {
     "id": "ac9m1n05-t-005",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "find missing start",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "A toy costs $6 and a book costs $9. How much do they cost altogether?",
+    "explanation": "$6 + $9 = $15.",
     "printable": true,
     "type": "single",
-    "question": "After 6 shells are found, a collection has 15. How many were there before?",
-    "audioPrompt": "After 6 shells are found, a collection has 15. How many were there before?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "8",
-      "9",
-      "10"
+      {"text": "$15", "correct": true},
+      {"text": "$3", "correct": false},
+      {"text": "$14", "correct": false}
     ],
-    "correct": 1,
-    "explanation": "15 − 6 = 9.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "15 − 6 = 9.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Add both prices.",
+    "visualCue": "two price tags"
   },
   {
     "id": "ac9m1n05-t-006",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "find missing change",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "There are 12 children in a room. 5 children leave. Which number sentence models the story?",
+    "explanation": "Five children leave, so subtract 5 from 12.",
     "printable": true,
     "type": "single",
-    "question": "A shelf had 18 books. Now it has 12. How many books were moved?",
-    "audioPrompt": "A shelf had 18 books. Now it has 12. How many books were moved?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "5",
-      "7",
-      "6"
+      {"text": "12 + 5 = 17", "correct": false},
+      {"text": "12 − 7 = 5", "correct": false},
+      {"text": "12 − 5 = 7", "correct": true}
     ],
-    "correct": 2,
-    "explanation": "18 − 12 = 6.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "18 − 12 = 6.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Choose the equation that shows children leaving.",
+    "visualCue": "doorway arrow out"
   },
   {
     "id": "ac9m1n05-t-007",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "match model",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "A box has 7 green balls and 8 yellow balls. Which model finds the total number of balls?",
+    "explanation": "Both groups are being combined to find the total.",
     "printable": true,
     "type": "single",
-    "question": "[Show the matching tens-and-ones blocks.] Which equation matches the bar model?",
-    "audioPrompt": "[Show the matching tens-and-ones blocks.] Which equation matches the bar model?",
     "answers": [
-      "8 + 5 = 13",
-      "13 + 5 = 18",
-      "8 − 5 = 3"
+      {"text": "Start with 8 and take away 7", "correct": false},
+      {"text": "Join a group of 7 and a group of 8", "correct": true},
+      {"text": "Take 7 away from 7", "correct": false}
     ],
-    "correct": 0,
-    "explanation": "The bar has parts 8 and 5 and whole 13.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "The bar has parts 8 and 5 and whole 13.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Which model puts both groups together?",
+    "visualCue": "two ball groups with joining arrow"
   },
   {
     "id": "ac9m1n05-t-008",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "count money",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "Aria has $18. She buys a game for $9. How much money is left?",
+    "explanation": "$18 − $9 = $9.",
     "printable": true,
     "type": "single",
-    "question": "What is the total value?",
-    "audioPrompt": "What is the total value?",
-    "visual": "What is the total value?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the total value?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-008\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-008",
-      "alt_text": "What is the total value?"
-    },
     "answers": [
-      "8",
-      "9",
-      "10"
+      {"text": "$10", "correct": false},
+      {"text": "$27", "correct": false},
+      {"text": "$9", "correct": true}
     ],
-    "correct": 1,
-    "explanation": "$5 + $2 + $2 = $9.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "$5 + $2 + $2 = $9.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Spending money makes the amount smaller.",
+    "visualCue": "shop counter"
   },
   {
     "id": "ac9m1n05-t-009",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "total cost",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "There are 13 fish in a tank. Some are moved to another tank. 8 fish stay. How many fish were moved?",
+    "explanation": "13 − 8 = 5.",
     "printable": true,
     "type": "single",
-    "question": "A cap costs $8 and a book costs $9. What is the total?",
-    "audioPrompt": "A cap costs $8 and a book costs $9. What is the total?",
-    "visual": "A cap costs $8 and a book costs $9. What is the total?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A cap costs $8 and a book costs $9. What is the total?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-009\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-009",
-      "alt_text": "A cap costs $8 and a book costs $9. What is the total?"
-    },
     "answers": [
-      "16",
-      "18",
-      "17"
+      {"text": "5", "correct": true},
+      {"text": "6", "correct": false},
+      {"text": "21", "correct": false}
     ],
-    "correct": 2,
-    "explanation": "$8 + $9 = $17.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "$8 + $9 = $17.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "The whole is 13. Eight stay. Find the missing part.",
+    "visualCue": "two fish tanks"
   },
   {
     "id": "ac9m1n05-t-010",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "money left",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "A class has 6 paintbrushes. The teacher brings 7 more. Which number sentence should be used?",
+    "explanation": "More paintbrushes arrive, so the two groups are added.",
     "printable": true,
     "type": "single",
-    "question": "Zara has $18 and spends $11. How much remains?",
-    "audioPrompt": "Zara has $18 and spends $11. How much remains?",
-    "visual": "Zara has $18 and spends $11. How much remains?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Zara has $18 and spends $11. How much remains?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-010\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-010",
-      "alt_text": "Zara has $18 and spends $11. How much remains?"
-    },
     "answers": [
-      "7",
-      "6",
-      "8"
+      {"text": "7 − 6 = 1", "correct": false},
+      {"text": "6 + 7 = 13", "correct": true},
+      {"text": "13 − 7 = 5", "correct": false}
     ],
-    "correct": 0,
-    "explanation": "$18 − $11 = $7.\nHint: Show the starting amount, take away the given part, then count what remains.",
-    "structuredExplanation": {
-      "summary": "$18 − $11 = $7.",
-      "hint": "Show the starting amount, take away the given part, then count what remains."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "What operation matches ‘brings more’?",
+    "visualCue": "paintbrush groups"
   },
   {
     "id": "ac9m1n05-t-011",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "diagnose operation error",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "Max has $16. He buys a puzzle for $7. Which model could help find his money left?",
+    "explanation": "Buying the puzzle means subtracting $7 from $16.",
     "printable": true,
     "type": "single",
-    "question": "A child adds in a story where 5 objects are removed. What should change?",
-    "audioPrompt": "A child adds in a story where 5 objects are removed. What should change?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "Keep addition because every story uses addition",
-      "Use subtraction because the collection decreases",
-      "Use multiplication"
+      {"text": "Start at 16 and jump forward 7", "correct": false},
+      {"text": "Join 16 counters and 7 counters", "correct": false},
+      {"text": "Start at 16 and count back 7", "correct": true}
     ],
-    "correct": 1,
-    "explanation": "The event removes objects, so subtraction represents the change.\nHint: Start with the first amount and count on the second amount.",
-    "structuredExplanation": {
-      "summary": "The event removes objects, so subtraction represents the change.",
-      "hint": "Start with the first amount and count on the second amount."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Which model shows spending?",
+    "visualCue": "backward number-line jumps"
   },
   {
     "id": "ac9m1n05-t-012",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "modelling sequence",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "There are 5 children at a table. 7 more children sit down. How many children are there altogether?",
+    "explanation": "5 + 7 = 12.",
     "printable": true,
     "type": "single",
-    "question": "Order the modelling steps. Which order is correct?",
-    "audioPrompt": "Order the modelling steps. Which order is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "Solve the equation → Identify the unknown → Check the answer in the story → Draw or choose a model",
-      "Check the answer in the story → Solve the equation → Draw or choose a model → Identify the unknown",
-      "Identify the unknown → Draw or choose a model → Solve the equation → Check the answer in the story"
+      {"text": "12", "correct": true},
+      {"text": "2", "correct": false},
+      {"text": "13", "correct": false}
     ],
-    "correct": 2,
-    "explanation": "First know what is unknown, represent it, solve, and check the result makes sense.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "First know what is unknown, represent it, solve, and check the result makes sense.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Join the first group and the new group.",
+    "visualCue": "table and children"
   },
   {
     "id": "ac9m1n05-t-013",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "solve money story",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "Ava had some stickers. She got 4 more and now has 13. How many stickers did she have at first?",
+    "explanation": "9 + 4 = 13.",
     "printable": true,
     "type": "single",
-    "question": "A toy costs 10 cents. You have 6 cents. How many more cents do you need?",
-    "audioPrompt": "A toy costs 10 cents. You have 6 cents. How many more cents do you need?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "4 cents",
-      "6 cents",
-      "16 cents"
+      {"text": "8", "correct": false},
+      {"text": "9", "correct": true},
+      {"text": "17", "correct": false}
     ],
-    "correct": 0,
-    "explanation": "Count on from 6 to 10: 7, 8, 9, 10. That is 4 more.\nHint: Count each amount carefully, then compare the two totals.",
-    "structuredExplanation": {
-      "summary": "Count on from 6 to 10: 7, 8, 9, 10. That is 4 more.",
-      "hint": "Count each amount carefully, then compare the two totals."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Find the missing starting number.",
+    "visualCue": "missing-part box"
   },
   {
     "id": "ac9m1n05-t-014",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "choose operation",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "Jack has $20. He buys a hat for $8. How much money does he have left?",
+    "explanation": "$20 − $8 = $12.",
     "printable": true,
     "type": "single",
-    "question": "Lina has 9 shells and finds 5 more. What should she do?",
-    "audioPrompt": "Lina has 9 shells and finds 5 more. What should she do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "subtract 5",
-      "add 9 and 5",
-      "ignore the 5"
+      {"text": "$28", "correct": false},
+      {"text": "$13", "correct": false},
+      {"text": "$12", "correct": true}
     ],
-    "correct": 1,
-    "explanation": "Finding more means join the groups, so use addition.\nHint: Count each amount carefully, then compare the two totals.",
-    "structuredExplanation": {
-      "summary": "Finding more means join the groups, so use addition.",
-      "hint": "Count each amount carefully, then compare the two totals."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "Take the price away from the money Jack had.",
+    "visualCue": "$20 and $8 price tag"
   },
   {
     "id": "ac9m1n05-t-015",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "missing addend",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "There are 18 counters. 7 are moved away. Which answer is reasonable?",
+    "explanation": "18 − 7 = 11.",
     "printable": true,
     "type": "single",
-    "question": "What number makes 8 + ___ = 13?",
-    "audioPrompt": "What number makes 8 + ___ = 13?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "4",
-      "13",
-      "5"
+      {"text": "11 counters are left.", "correct": true},
+      {"text": "25 counters are left.", "correct": false},
+      {"text": "18 counters are left.", "correct": false}
     ],
-    "correct": 2,
-    "explanation": "Count on from 8 to 13: 9, 10, 11, 12, 13. That is 5 steps.\nHint: Start with the first amount and count on the second amount.",
-    "structuredExplanation": {
-      "summary": "Count on from 8 to 13: 9, 10, 11, 12, 13. That is 5 steps.",
-      "hint": "Start with the first amount and count on the second amount."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "The group gets smaller. Which answer makes sense?",
+    "visualCue": "counters with some moved aside"
   },
   {
     "id": "ac9m1n05-t-016",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "compare money amounts",
+    "skill": "mathematical modelling of additive situations and simple money transactions",
+    "question": "Sophie buys a juice for $4 and fruit for $6. She has $15. How much money is left after buying both?",
+    "explanation": "The items cost $4 + $6 = $10. Then $15 − $10 = $5.",
     "printable": true,
     "type": "single",
-    "question": "Which is more: 15 cents or 12 cents?",
-    "audioPrompt": "Which is more: 15 cents or 12 cents?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "15 cents",
-      "12 cents",
-      "they are equal"
+      {"text": "$10", "correct": false},
+      {"text": "$5", "correct": true},
+      {"text": "$1", "correct": false}
     ],
-    "correct": 0,
-    "explanation": "15 is greater than 12.\nHint: Count each amount carefully, then compare the two totals.",
-    "structuredExplanation": {
-      "summary": "15 is greater than 12.",
-      "hint": "Count each amount carefully, then compare the two totals."
-    },
-    "qualitySchema": "production-v1"
+    "teacherScript": "First find the total cost. Then find what is left.",
+    "visualCue": "two price tags and $15"
   }
 ];
