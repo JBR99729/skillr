@@ -1,0 +1,42 @@
+# Practice: question | correct answer | distractor | distractor | explanation
+A snail eats a lettuce leaf. Which need is being met?|food|water|shelter|The leaf is food for the snail. Eating helps it live and grow.
+A rabbit rests under a bush during heavy rain. What does the bush provide?|shelter|food|drinking water|The bush gives the rabbit a protected place to rest.
+A duck dips its beak into a pond and drinks. What does it get?|water|shelter|food|Drinking pond water meets the duck's need for water.
+A bean plant is watered beside a bright window. Why is the light useful?|It helps the plant grow.|It replaces the plant's water.|It gives the roots more room.|Plants need light as well as water. One need does not replace another.
+A child breathes in. Which need does breathing meet?|air|food|shelter|Breathing brings air into the body.
+Grass and a horse both live in a field. What do both need?|water|hay to eat|a stable|Both need water. Grass does not eat hay or live in a stable.
+A bird takes a worm to its chicks. Which need is it meeting?|food|shelter|water|The chicks eat the worm. The nest meets a different need: shelter.
+A tree hollow stays dry inside when it rains. How could it help a possum?|give it shelter|give it fresh leaves to eat|give it drinking water|A dry hollow can be a sheltered resting place.
+A frog needs a damp place with insects to eat. Which place meets both needs?|a leafy pond edge|a dry pile of leaves|a bucket of clean water|The pond edge is damp and can have insects. Water alone does not meet both needs.
+A caterpillar eats leaves. Which garden change removes its food?|removing the plant it eats|adding a shallow water dish|leaving a shady resting place|Removing its food plant removes the leaves it eats.
+Two pots have room, water and air. One is in a dark cupboard. What is missing there?|light|water|space|The cupboard blocks light. The question tells us the other needs are met.
+A bird has seeds and drinking water. What would help it shelter from rain?|a protected resting place|a second water dish|more seeds|A protected resting place meets the missing shelter need.
+A worm needs damp soil. The topsoil has dried out. Where is it more likely to stay moist?|under damp leaves|on a dry brick|on dry sand|Damp leaves help keep the soil beneath them moist.
+A koala eats gum leaves. Which tree would help meet its food need?|a gum tree with leaves|a bare tree with a hollow|a tree with hanging water bowls|Gum leaves provide its food. A hollow or water bowl meets another need.
+The habitat cards show what is available. Which place meets the bird's food AND shelter needs?|Place B|Place A|Place C|Place B has seeds to eat and a protected place to rest.
+The plant cards show three setups. Which plant has both water and light?|Plant C|Plant A|Plant B|Plant C receives both resources. Neither water nor light replaces the other.
+A fish lives in pond water. A rabbit lives beside the pond. How do they use the water differently?|The fish lives in it; the rabbit drinks it.|Both live under the water.|Only the fish needs water.|The same pond can meet different needs for different animals.
+A bird's nest blows down. Seeds and drinking water remain. Which need is harder to meet now?|shelter|food|water|The bird has lost its sheltered nesting place, not the nearby food or water.
+A plant has enough water, light and air, but its roots are tightly crowded. What could help?|a larger suitable pot|another lamp|extra water every hour|A larger suitable pot gives growing roots more room.
+A beetle eats fallen leaves and hides under them. What do the leaves provide?|food and shelter|water and light|air and water|The leaves are both something to eat and a place to hide.
+Rain fills the birdbath, but all the seed plants are removed. Which need may still be hard to meet?|food|water|air|The birdbath supplies water. It does not replace the missing seeds.
+A seedling in a dark room is weak. It already has enough water. Which change best meets its missing need?|move it to suitable light|give it twice as much water|put it in a larger dark box|Suitable light meets the missing need. Extra water does not replace light.
+Two animals share a garden. One eats leaves; the other eats insects. What should the garden provide?|both leaves and insects|leaves only|insects only|Different animals can need different foods, even in the same place.
+A pond has water and food but no sheltered edges. Which change would help small pond animals hide?|add suitable pond plants|add more open water only|remove the remaining plants|Suitable pond plants can provide hiding places as well as improving the habitat.
+# Test
+A hen pecks grain from the ground. What does the grain provide?|food|shelter|water|Grain is food the hen can eat.
+A dog drinks after a walk. Which need is it meeting?|water|food|shelter|Drinking meets its need for water.
+A bat rests in a protected cave. Which need does the cave meet?|shelter|food|water|The cave gives it a protected resting place.
+A seedling has water and room to grow but no light. What should be provided?|suitable light|more room only|more water only|The missing resource is light, not water or room.
+A sheep and an apple tree share an orchard. What do both need?|water|grass to eat|a nest|Plants and animals both need water.
+A snail needs leafy food and a damp resting place. Which spot suits it best?|damp leaves beside a food plant|dry stones beside a food plant|a damp tray with no food plant|Only the first spot provides both the stated food and damp conditions.
+A pond animal eats tiny water insects. The insects disappear. Which need is affected first?|food|shelter|space|The animal has lost something it eats.
+A pet has enough food and water but nowhere protected to rest. What is missing?|shelter|food|water|Enough food and water do not provide a protected resting place.
+Use the garden cards. Which garden meets BOTH of the butterfly's listed needs?|Garden A|Garden B|Garden C|Garden A provides flowers for food and leaves for shelter.
+Use the plant cards. Which setup needs water added?|Setup B|Setup A|Setup C|Setup B has light and space, but its soil is dry.
+A possum eats leaves in one tree and rests in another tree's hollow. What do the two trees provide?|food and shelter|water and food|air and water|The leaves supply food; the hollow supplies shelter.
+A frog's pond dries up. Would adding a dry hiding box meet all its needs?|No, it still needs a suitable damp habitat.|Yes, shelter replaces water.|Yes, a box supplies food.|Shelter alone does not replace the damp habitat and other resources it needs.
+Two animals drink from a stream but eat different foods. What does this show?|They share some needs, but meet others differently.|They must eat the same food.|Only one of them needs water.|Both use the stream for water, while their food needs differ.
+A plant is growing in a pot. Its roots now fill the pot. What change gives them room?|move it to a larger suitable pot|move it into a dark cupboard|water it more without changing the pot|A larger suitable pot provides more space for roots.
+A bird has water and shelter. Its food plants are cut down. Will more shelter replace the lost food?|No, it still needs suitable food.|Yes, shelter meets every need.|Yes, if the shelter is larger.|Each need must be met. More shelter cannot be eaten instead of food.
+A garden has leaves to eat, water and protected hiding places. Why can it support several animals?|It can meet several different needs.|Every animal uses exactly the same food.|Water removes the need for shelter.|Different parts of a habitat can provide food, water and shelter.

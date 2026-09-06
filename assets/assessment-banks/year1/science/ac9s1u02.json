@@ -1,2730 +1,1692 @@
 [
   {
-    "id": "ac9s1u02-p-001",
-    "curriculumCode": "AC9S1U02",
+    "id": "ac9s1u02-r1-p-001",
+    "curriculum_code": "AC9S1U02",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which change happens every day?",
-    "audioPrompt": "Which change happens every day?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "The school yard is bright at lunchtime and dark after sunset. What has changed?",
+    "audio_prompt": "The school yard is bright at lunchtime and dark after sunset. What has changed?",
     "answers": [
       {
-        "text": "day changes to night",
+        "text": "day to night",
         "is_correct": true
       },
       {
-        "text": "winter changes to summer",
+        "text": "winter to summer",
         "is_correct": false
       },
       {
-        "text": "leaves always fall",
-        "is_correct": false
-      },
-      {
-        "text": "flowers always bloom",
+        "text": "rain to wind",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "Day and night repeat over a daily cycle.\nHint: Think about a change that happens each 24 hours.",
-    "structuredExplanation": {
-      "summary": "Day and night repeat over a daily cycle.",
-      "hint": "Think about a change that happens each 24 hours."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Day and night change within one day. Seasons change over much longer periods.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-002",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1u02-p-002",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which is usually warmer in summer than winter?",
-    "audioPrompt": "Which is usually warmer in summer than winter?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "Rain starts during lunch. Which change helps keep the outdoor reading books dry?",
+    "audio_prompt": "Rain starts during lunch. Which change helps keep the outdoor reading books dry?",
+    "answers": [
+      {
+        "text": "leave their covers open",
+        "is_correct": false
+      },
+      {
+        "text": "move them under cover",
+        "is_correct": true
+      },
+      {
+        "text": "spread them on the grass",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cover protects the books from the rain.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "moonlight",
-        "is_correct": false
-      },
-      {
-        "text": "classroom clock",
-        "is_correct": false
-      },
-      {
-        "text": "street signs",
-        "is_correct": false
-      },
-      {
-        "text": "daytime air temperature",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Seasonal changes can affect temperature.\nHint: Which feature changes with season?",
-    "structuredExplanation": {
-      "summary": "Seasonal changes can affect temperature.",
-      "hint": "Which feature changes with season?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-003",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1u02-p-003",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which observation belongs in a weather record?",
-    "audioPrompt": "Which observation belongs in a weather record?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "The air feels much colder before school today. What would help you stay warm?",
+    "audio_prompt": "The air feels much colder before school today. What would help you stay warm?",
+    "answers": [
+      {
+        "text": "a sunhat only",
+        "is_correct": false
+      },
+      {
+        "text": "lighter clothing",
+        "is_correct": false
+      },
+      {
+        "text": "a warm jumper",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A warm jumper helps when the air is cold.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "best weather",
-        "is_correct": false
-      },
-      {
-        "text": "tomorrow must rain",
-        "is_correct": false
-      },
-      {
-        "text": "cloudy and 17°C",
-        "is_correct": true
-      },
-      {
-        "text": "nice day",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Cloud cover and temperature are observable weather information.\nHint: Choose checkable evidence.",
-    "structuredExplanation": {
-      "summary": "Cloud cover and temperature are observable weather information.",
-      "hint": "Choose checkable evidence."
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-004",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1u02-p-004",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which can change across seasons?",
-    "audioPrompt": "Which can change across seasons?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Leaves and a flag are moving in the wind. Which word describes this weather?",
+    "audio_prompt": "Leaves and a flag are moving in the wind. Which word describes this weather?",
     "answers": [
       {
-        "text": "colour of a clock",
-        "is_correct": false
-      },
-      {
-        "text": "day length",
+        "text": "windy",
         "is_correct": true
       },
       {
-        "text": "number of letters in Monday",
+        "text": "rainy",
         "is_correct": false
       },
       {
-        "text": "shape of a ruler",
+        "text": "foggy",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Hours of daylight vary through the year.\nHint: What changes with season?",
-    "structuredExplanation": {
-      "summary": "Hours of daylight vary through the year.",
-      "hint": "What changes with season?"
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The moving flag and leaves are signs of wind, not proof of rain or fog.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-005",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1u02-p-005",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "What often happens to shadows between morning and midday?",
-    "audioPrompt": "What often happens to shadows between morning and midday?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "The weather cards show morning and afternoon. What changed?",
+    "audio_prompt": "The weather cards show morning and afternoon. What changed?",
     "answers": [
       {
-        "text": "their length and direction change",
+        "text": "rain continued all day",
+        "is_correct": false
+      },
+      {
+        "text": "rain stopped",
         "is_correct": true
       },
       {
-        "text": "they disappear forever",
-        "is_correct": false
-      },
-      {
-        "text": "they become heavier",
-        "is_correct": false
-      },
-      {
-        "text": "they turn into clouds",
+        "text": "rain started",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "The Sun’s apparent position changes, so shadows change.\nHint: Think position of light.",
-    "structuredExplanation": {
-      "summary": "The Sun’s apparent position changes, so shadows change.",
-      "hint": "Think position of light."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The morning card shows rain; the afternoon card shows no rain.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Morning: rain falling. Afternoon: no rain falling.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u02-05.svg#model"
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-006",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1u02-p-006",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which animals may be more active at night?",
-    "audioPrompt": "Which animals may be more active at night?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "The daylight cards show the same time on two days. On which day is it still light?",
+    "audio_prompt": "The daylight cards show the same time on two days. On which day is it still light?",
     "answers": [
       {
-        "text": "all animals",
+        "text": "Day A",
         "is_correct": false
       },
       {
-        "text": "only fish",
+        "text": "both days",
         "is_correct": false
       },
       {
-        "text": "no animals",
-        "is_correct": false
-      },
-      {
-        "text": "some possums and bats",
+        "text": "Day B",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Some animals are nocturnal and become active after dark.\nHint: Not every animal follows the same pattern.",
-    "structuredExplanation": {
-      "summary": "Some animals are nocturnal and become active after dark.",
-      "hint": "Not every animal follows the same pattern."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Day B is light at the recorded time. Day A is dark.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "svg",
+      "alt_text": "At 6 pm on Day A it is dark outside. At 6 pm on Day B it is light outside.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u02-06.svg#model"
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-007",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1u02-p-007",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which season usually comes after winter in Australia?",
-    "audioPrompt": "Which season usually comes after winter in Australia?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "An uncovered sandpit fills with puddles after rain. What needs checking before play?",
+    "audio_prompt": "An uncovered sandpit fills with puddles after rain. What needs checking before play?",
     "answers": [
       {
-        "text": "summer",
-        "is_correct": false
-      },
-      {
-        "text": "winter again immediately",
-        "is_correct": false
-      },
-      {
-        "text": "spring",
+        "text": "whether it is suitable to use",
         "is_correct": true
       },
       {
-        "text": "autumn",
+        "text": "whether tomorrow is summer",
+        "is_correct": false
+      },
+      {
+        "text": "whether the sand changed colour last month",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "The seasonal sequence is winter, spring, summer, autumn.\nHint: What follows winter?",
-    "structuredExplanation": {
-      "summary": "The seasonal sequence is winter, spring, summer, autumn.",
-      "hint": "What follows winter?"
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Today's rain changed the play area. Check its condition before using it.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-008",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1u02-p-008",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which observation might show spring change?",
-    "audioPrompt": "Which observation might show spring change?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A tree has bare branches in one photo and new leaves in a later photo. What changed?",
+    "audio_prompt": "A tree has bare branches in one photo and new leaves in a later photo. What changed?",
     "answers": [
       {
-        "text": "every day becomes identical",
+        "text": "the tree stayed the same",
         "is_correct": false
       },
       {
-        "text": "more flowers appearing on some plants",
+        "text": "the tree grew new leaves",
         "is_correct": true
       },
       {
-        "text": "the Sun never sets",
-        "is_correct": false
-      },
-      {
-        "text": "all leaves disappear",
+        "text": "the tree lost all its leaves",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Flowering can increase in spring for many plants.\nHint: Which is a seasonal biological change?",
-    "structuredExplanation": {
-      "summary": "Flowering can increase in spring for many plants.",
-      "hint": "Which is a seasonal biological change?"
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Comparing the photos shows new leaves appearing.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-009",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1u02-p-009",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which tool helps measure daily temperature?",
-    "audioPrompt": "Which tool helps measure daily temperature?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "The shade cards show where the tree's shade falls. Which seat is shaded in the afternoon?",
+    "audio_prompt": "The shade cards show where the tree's shade falls. Which seat is shaded in the afternoon?",
     "answers": [
       {
-        "text": "thermometer",
-        "is_correct": true
-      },
-      {
-        "text": "ruler",
+        "text": "Seat A",
         "is_correct": false
       },
       {
-        "text": "cup",
+        "text": "both seats",
         "is_correct": false
       },
       {
-        "text": "magnifying glass",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "A thermometer measures temperature.\nHint: Match tool to weather measurement.",
-    "structuredExplanation": {
-      "summary": "A thermometer measures temperature.",
-      "hint": "Match tool to weather measurement."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1u02-p-010",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why record observations at the same time each day?",
-    "audioPrompt": "Why record observations at the same time each day?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "to guarantee the same result",
-        "is_correct": false
-      },
-      {
-        "text": "to stop weather changing",
-        "is_correct": false
-      },
-      {
-        "text": "to make clocks unnecessary",
-        "is_correct": false
-      },
-      {
-        "text": "to make comparisons clearer",
+        "text": "Seat B",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Same-time observations reduce differences caused by time of day.\nHint: Keep the comparison consistent.",
-    "structuredExplanation": {
-      "summary": "Same-time observations reduce differences caused by time of day.",
-      "hint": "Keep the comparison consistent."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The afternoon card places the shade over Seat B.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1u02-p-011",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why does day length change across the year?",
-    "audioPrompt": "Why does day length change across the year?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+    "visual": {
+      "type": "svg",
+      "alt_text": "Morning: Seat A shaded and Seat B sunny. Afternoon: Seat A sunny and Seat B shaded.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u02-09.svg#model"
     },
-    "answers": [
-      {
-        "text": "Clocks change the sky.",
-        "is_correct": false
-      },
-      {
-        "text": "Clouds control every sunrise.",
-        "is_correct": false
-      },
-      {
-        "text": "Earth’s tilt and orbit change how long a place receives sunlight.",
-        "is_correct": true
-      },
-      {
-        "text": "The Sun becomes tired.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Seasonal daylight patterns come from Earth’s tilted axis as it orbits the Sun.\nHint: Think Earth and Sun.",
-    "structuredExplanation": {
-      "summary": "Seasonal daylight patterns come from Earth’s tilted axis as it orbits the Sun.",
-      "hint": "Think Earth and Sun."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-010",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1u02-p-012",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why can morning and afternoon temperatures differ?",
-    "audioPrompt": "Why can morning and afternoon temperatures differ?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Each evening it becomes dark and the path lights turn on. Which change is this linked to?",
+    "audio_prompt": "Each evening it becomes dark and the path lights turn on. Which change is this linked to?",
     "answers": [
       {
-        "text": "Morning is always hotter.",
-        "is_correct": false
-      },
-      {
-        "text": "Sunlight warms surfaces and air differently through the day.",
+        "text": "day becoming night",
         "is_correct": true
       },
       {
-        "text": "Thermometers choose random numbers.",
+        "text": "a new season starting",
         "is_correct": false
       },
       {
-        "text": "Time makes air heavier.",
+        "text": "rain always beginning",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Heating changes over the course of the day.\nHint: Sunlight changes with time.",
-    "structuredExplanation": {
-      "summary": "Heating changes over the course of the day.",
-      "hint": "Sunlight changes with time."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The lights respond to the daily change from light to dark.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-011",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1u02-p-013",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “It was hot today, so tomorrow must be hotter” too strong?",
-    "audioPrompt": "Why is “It was hot today, so tomorrow must be hotter” too strong?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "It rained on Monday but was dry on Tuesday. What can we say?",
+    "audio_prompt": "It rained on Monday but was dry on Tuesday. What can we say?",
     "answers": [
       {
-        "text": "One observation does not guarantee the next day.",
+        "text": "Every Tuesday will be dry.",
+        "is_correct": false
+      },
+      {
+        "text": "Weather can change from day to day.",
         "is_correct": true
       },
       {
-        "text": "Temperature cannot be measured.",
-        "is_correct": false
-      },
-      {
-        "text": "Tomorrow has no weather.",
-        "is_correct": false
-      },
-      {
-        "text": "Hot days never repeat.",
+        "text": "A whole season changed overnight.",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "Weather varies, so one day is not enough to guarantee the next.\nHint: One result is not a rule.",
-    "structuredExplanation": {
-      "summary": "Weather varies, so one day is not enough to guarantee the next.",
-      "hint": "One result is not a rule."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "These two days had different weather. They do not show what every Tuesday will be like.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-012",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1u02-p-014",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why might some trees lose leaves in cooler seasons?",
-    "audioPrompt": "Why might some trees lose leaves in cooler seasons?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In one town, winter mornings are often cold. Why might children wear coats then?",
+    "audio_prompt": "In one town, winter mornings are often cold. Why might children wear coats then?",
     "answers": [
       {
-        "text": "Trees decide to sleep.",
+        "text": "to make daylight last longer",
         "is_correct": false
       },
       {
-        "text": "Leaves become too old every winter exactly.",
+        "text": "to stop the season changing",
         "is_correct": false
       },
       {
-        "text": "Cold weather removes roots.",
-        "is_correct": false
-      },
-      {
-        "text": "Seasonal conditions can change plant growth and leaf retention.",
+        "text": "to stay warm in the cold air",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Plants respond to seasonal light and temperature changes.\nHint: Season affects plant activity.",
-    "structuredExplanation": {
-      "summary": "Plants respond to seasonal light and temperature changes.",
-      "hint": "Season affects plant activity."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Clothing choices can help people cope with seasonal conditions.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-013",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1u02-p-015",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why might a lizard be less active on a cold morning?",
-    "audioPrompt": "Why might a lizard be less active on a cold morning?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "The class's weather record shows three days. Which day would need a plan for rain?",
+    "audio_prompt": "The class's weather record shows three days. Which day would need a plan for rain?",
     "answers": [
       {
-        "text": "Morning removes food.",
-        "is_correct": false
-      },
-      {
-        "text": "Lizards cannot move in winter.",
-        "is_correct": false
-      },
-      {
-        "text": "Its body temperature and activity depend strongly on environmental warmth.",
+        "text": "Tuesday",
         "is_correct": true
       },
       {
-        "text": "Cold makes all animals sleep.",
+        "text": "Monday",
+        "is_correct": false
+      },
+      {
+        "text": "Wednesday",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Ectotherms rely on environmental heat.\nHint: Warmth affects activity.",
-    "structuredExplanation": {
-      "summary": "Ectotherms rely on environmental heat.",
-      "hint": "Warmth affects activity."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Tuesday is recorded as rainy. The other two days are recorded as dry.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Monday dry. Tuesday rainy. Wednesday dry.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u02-13.svg#model"
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-014",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1u02-p-016",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why are repeated weather records useful?",
-    "audioPrompt": "Why are repeated weather records useful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A tree drops many leaves over several weeks each autumn. Is this a daily or seasonal pattern?",
+    "audio_prompt": "A tree drops many leaves over several weeks each autumn. Is this a daily or seasonal pattern?",
     "answers": [
       {
-        "text": "They stop weather changing.",
+        "text": "a change every hour",
         "is_correct": false
       },
       {
-        "text": "They can reveal patterns across days or seasons.",
+        "text": "seasonal",
         "is_correct": true
       },
       {
-        "text": "They make weather predictable with certainty.",
-        "is_correct": false
-      },
-      {
-        "text": "One record is always enough.",
+        "text": "daily",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "A sequence of observations can reveal recurring changes.\nHint: More than one time point.",
-    "structuredExplanation": {
-      "summary": "A sequence of observations can reveal recurring changes.",
-      "hint": "More than one time point."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The repeated change occurs over weeks at a time of year, rather than within one day.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-015",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1u02-p-017",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why does a shadow point in different directions during the day?",
-    "audioPrompt": "Why does a shadow point in different directions during the day?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "A town has many rainy weeks in its wet season. Which plan suits that pattern?",
+    "audio_prompt": "A town has many rainy weeks in its wet season. Which plan suits that pattern?",
+    "answers": [
+      {
+        "text": "expect every day to stay dry",
+        "is_correct": false
+      },
+      {
+        "text": "pack away all raincoats",
+        "is_correct": false
+      },
+      {
+        "text": "keep a covered play space available",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A covered space helps when rain is common. It need not rain every day.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "The Sun’s apparent position changes across the sky.",
-        "is_correct": true
-      },
-      {
-        "text": "The object turns invisible.",
-        "is_correct": false
-      },
-      {
-        "text": "Wind pushes every shadow.",
-        "is_correct": false
-      },
-      {
-        "text": "Ground colour moves it.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Shadow direction depends on the direction of incoming light.\nHint: Where is the Sun relative to the object?",
-    "structuredExplanation": {
-      "summary": "Shadow direction depends on the direction of incoming light.",
-      "hint": "Where is the Sun relative to the object?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-016",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1u02-p-018",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why might birds change behaviour across seasons?",
-    "audioPrompt": "Why might birds change behaviour across seasons?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "It is summer, but today's air is cold. What should guide the clothes you choose today?",
+    "audio_prompt": "It is summer, but today's air is cold. What should guide the clothes you choose today?",
+    "answers": [
+      {
+        "text": "today's conditions",
+        "is_correct": true
+      },
+      {
+        "text": "the season name alone",
+        "is_correct": false
+      },
+      {
+        "text": "yesterday's clothes alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A season has usual patterns, but individual days can be different.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Birds read calendars.",
-        "is_correct": false
-      },
-      {
-        "text": "Seasons change bird species instantly.",
-        "is_correct": false
-      },
-      {
-        "text": "All birds behave identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Food, daylight, temperature and breeding conditions can change.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Seasonal environmental changes can influence animal activity.\nHint: Resources and conditions vary.",
-    "structuredExplanation": {
-      "summary": "Seasonal environmental changes can influence animal activity.",
-      "hint": "Resources and conditions vary."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-017",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1u02-p-019",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why should seasonal observations continue for weeks or months?",
-    "audioPrompt": "Why should seasonal observations continue for weeks or months?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "The morning was calm. By afternoon, strong wind blew leaves across the path. What changed?",
+    "audio_prompt": "The morning was calm. By afternoon, strong wind blew leaves across the path. What changed?",
     "answers": [
       {
-        "text": "Months make data correct.",
+        "text": "rain began for certain",
         "is_correct": false
       },
       {
-        "text": "Days are not science.",
-        "is_correct": false
-      },
-      {
-        "text": "Seasonal patterns develop over longer time scales than one day.",
+        "text": "the wind became stronger",
         "is_correct": true
       },
       {
-        "text": "One hour contains every season.",
+        "text": "the day became colder for certain",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Seasonal change unfolds gradually.\nHint: Use the right time scale.",
-    "structuredExplanation": {
-      "summary": "Seasonal change unfolds gradually.",
-      "hint": "Use the right time scale."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Moving leaves show a change in wind. They do not prove rain or colder air.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1u02-p-020",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why is the same location useful for repeated shadow measurements?",
-    "audioPrompt": "Why is the same location useful for repeated shadow measurements?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Different places are unsafe.",
-        "is_correct": false
-      },
-      {
-        "text": "It keeps one part of the setup consistent.",
-        "is_correct": true
-      },
-      {
-        "text": "It makes shadows identical.",
-        "is_correct": false
-      },
-      {
-        "text": "Location proves the cause.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Keeping location constant makes changes across time easier to compare.\nHint: Same place, different times.",
-    "structuredExplanation": {
-      "summary": "Keeping location constant makes changes across time easier to compare.",
-      "hint": "Same place, different times."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1u02-p-021",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which is a daily pattern rather than seasonal?",
-    "audioPrompt": "Which is a daily pattern rather than seasonal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Sunrise followed by daylight then sunset",
-        "is_correct": true
-      },
-      {
-        "text": "spring followed by summer",
-        "is_correct": false
-      },
-      {
-        "text": "leaf fall over months",
-        "is_correct": false
-      },
-      {
-        "text": "migration during a season",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "The light-dark cycle repeats each day.\nHint: Which repeats in about 24 hours?",
-    "structuredExplanation": {
-      "summary": "The light-dark cycle repeats each day.",
-      "hint": "Which repeats in about 24 hours?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1u02-p-022",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which is evidence of seasonal change?",
-    "audioPrompt": "Which is evidence of seasonal change?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "One hot drink",
-        "is_correct": false
-      },
-      {
-        "text": "A single clock time",
-        "is_correct": false
-      },
-      {
-        "text": "One shadow measurement",
-        "is_correct": false
-      },
-      {
-        "text": "Average afternoon temperatures rising over several weeks into summer",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Repeated temperature changes over weeks can show a seasonal trend.\nHint: Look across time.",
-    "structuredExplanation": {
-      "summary": "Repeated temperature changes over weeks can show a seasonal trend.",
-      "hint": "Look across time."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1u02-p-023",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which claim is too strong?",
-    "audioPrompt": "Which claim is too strong?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Temperature can vary within a season.",
-        "is_correct": false
-      },
-      {
-        "text": "Weather changes from day to day.",
-        "is_correct": false
-      },
-      {
-        "text": "Winter days are always exactly the same temperature.",
-        "is_correct": true
-      },
-      {
-        "text": "Winter is often cooler than summer in many Australian places.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Temperatures vary even within the same season.\nHint: Watch “always exactly”.",
-    "structuredExplanation": {
-      "summary": "Temperatures vary even within the same season.",
-      "hint": "Watch “always exactly”."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1u02-p-024",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which observation best compares morning and midday shadows?",
-    "audioPrompt": "Which observation best compares morning and midday shadows?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Compare colours only.",
-        "is_correct": false
-      },
-      {
-        "text": "Measure the same object’s shadow at both times.",
-        "is_correct": true
-      },
-      {
-        "text": "Use different objects in different places.",
-        "is_correct": false
-      },
-      {
-        "text": "Guess one shadow length.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Using the same object isolates time as the main difference.\nHint: Keep the object the same.",
-    "structuredExplanation": {
-      "summary": "Using the same object isolates time as the main difference.",
-      "hint": "Keep the object the same."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1u02-p-025",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement about night is correct?",
-    "audioPrompt": "Which statement about night is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It is dark because that part of Earth faces away from the Sun.",
-        "is_correct": true
-      },
-      {
-        "text": "The Sun switches off.",
-        "is_correct": false
-      },
-      {
-        "text": "The Moon blocks the Sun every night.",
-        "is_correct": false
-      },
-      {
-        "text": "Clouds make every night.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Earth’s rotation turns locations away from the Sun.\nHint: Earth rotates.",
-    "structuredExplanation": {
-      "summary": "Earth’s rotation turns locations away from the Sun.",
-      "hint": "Earth rotates."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1u02-p-026",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which seasonal observation is most careful?",
-    "audioPrompt": "Which seasonal observation is most careful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Every tree grows new leaves every spring.",
-        "is_correct": false
-      },
-      {
-        "text": "Spring always has flowers everywhere.",
-        "is_correct": false
-      },
-      {
-        "text": "Winter stops all plant growth.",
-        "is_correct": false
-      },
-      {
-        "text": "Many local trees had more new leaves in spring than winter.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The first stays close to observed local evidence.\nHint: Avoid universal claims.",
-    "structuredExplanation": {
-      "summary": "The first stays close to observed local evidence.",
-      "hint": "Avoid universal claims."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1u02-p-027",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which animal pattern is most likely linked to day/night?",
-    "audioPrompt": "Which animal pattern is most likely linked to day/night?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A river dries in drought.",
-        "is_correct": false
-      },
-      {
-        "text": "A flower blooms in spring.",
-        "is_correct": false
-      },
-      {
-        "text": "A possum becomes active after sunset.",
-        "is_correct": true
-      },
-      {
-        "text": "A tree grows over months.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Activity after sunset is tied directly to the daily light cycle.\nHint: Day versus night.",
-    "structuredExplanation": {
-      "summary": "Activity after sunset is tied directly to the daily light cycle.",
-      "hint": "Day versus night."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1u02-p-028",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which record is best for comparing seasonal temperature?",
-    "audioPrompt": "Which record is best for comparing seasonal temperature?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Favourite season votes",
-        "is_correct": false
-      },
-      {
-        "text": "Weekly temperature observations at the same time over several months",
-        "is_correct": true
-      },
-      {
-        "text": "One temperature in January",
-        "is_correct": false
-      },
-      {
-        "text": "Random temperatures with no dates",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Consistent repeated measurements across months support seasonal comparison.\nHint: Same method over longer time.",
-    "structuredExplanation": {
-      "summary": "Consistent repeated measurements across months support seasonal comparison.",
-      "hint": "Same method over longer time."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1u02-p-029",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly distinguishes weather and season?",
-    "audioPrompt": "Which statement correctly distinguishes weather and season?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Weather can change day to day; seasons are longer patterns across the year.",
-        "is_correct": true
-      },
-      {
-        "text": "Weather and season mean the same thing.",
-        "is_correct": false
-      },
-      {
-        "text": "Seasons change every hour.",
-        "is_correct": false
-      },
-      {
-        "text": "Weather never changes.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Weather is short-term; seasons are broader yearly patterns.\nHint: Short-term versus long-term.",
-    "structuredExplanation": {
-      "summary": "Weather is short-term; seasons are broader yearly patterns.",
-      "hint": "Short-term versus long-term."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1u02-p-030",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which observation would NOT help study daylight length?",
-    "audioPrompt": "Which observation would NOT help study daylight length?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "sunrise time",
-        "is_correct": false
-      },
-      {
-        "text": "sunset time",
-        "is_correct": false
-      },
-      {
-        "text": "hours between sunrise and sunset",
-        "is_correct": false
-      },
-      {
-        "text": "colour of the classroom door",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Door colour is unrelated to daylight duration.\nHint: Stay focused on daylight.",
-    "structuredExplanation": {
-      "summary": "Door colour is unrelated to daylight duration.",
-      "hint": "Stay focused on daylight."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1u02-p-031",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "A class wants to track daily temperature. Best plan?",
-    "audioPrompt": "A class wants to track daily temperature. Best plan?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Guess most days.",
-        "is_correct": false
-      },
-      {
-        "text": "Use different units each time.",
-        "is_correct": false
-      },
-      {
-        "text": "Measure at the same time each school day and record date and temperature.",
-        "is_correct": true
-      },
-      {
-        "text": "Measure whenever someone remembers.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Consistent timing and units make patterns easier to see.\nHint: Same time, same method.",
-    "structuredExplanation": {
-      "summary": "Consistent timing and units make patterns easier to see.",
-      "hint": "Same time, same method."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-018",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1u02-p-032",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "A child notices afternoon shadows are shorter than morning shadows. What should they do next?",
-    "audioPrompt": "A child notices afternoon shadows are shorter than morning shadows. What should they do next?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Some local trees grow flowers each spring. How can that affect bees?",
+    "audio_prompt": "Some local trees grow flowers each spring. How can that affect bees?",
     "answers": [
       {
-        "text": "Stop recording.",
+        "text": "bees no longer need food",
         "is_correct": false
       },
       {
-        "text": "Repeat measurements on other days at the same times.",
-        "is_correct": true
-      },
-      {
-        "text": "Say this must happen forever.",
+        "text": "all bees must leave the area",
         "is_correct": false
       },
       {
-        "text": "Change the morning result.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Repeating can show whether the pattern is consistent.\nHint: Check again.",
-    "structuredExplanation": {
-      "summary": "Repeating can show whether the pattern is consistent.",
-      "hint": "Check again."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1u02-p-033",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "A garden has more flowers in September than July. Which explanation is most careful?",
-    "audioPrompt": "A garden has more flowers in September than July. Which explanation is most careful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Seasonal changes in light and temperature may support more flowering in spring.",
-        "is_correct": true
-      },
-      {
-        "text": "September always makes every plant flower.",
-        "is_correct": false
-      },
-      {
-        "text": "July stops all life.",
-        "is_correct": false
-      },
-      {
-        "text": "Calendars cause flowers.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "The first connects seasonal conditions with a cautious explanation.\nHint: Conditions, not calendar magic.",
-    "structuredExplanation": {
-      "summary": "The first connects seasonal conditions with a cautious explanation.",
-      "hint": "Conditions, not calendar magic."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1u02-p-034",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "A class compares daylight in June and December. What information is most useful?",
-    "audioPrompt": "A class compares daylight in June and December. What information is most useful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "favourite season",
-        "is_correct": false
-      },
-      {
-        "text": "cloud colour",
-        "is_correct": false
-      },
-      {
-        "text": "number of school bags",
-        "is_correct": false
-      },
-      {
-        "text": "sunrise and sunset times for both periods",
+        "text": "more flowers may provide more food",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Sunrise and sunset times determine daylight duration.\nHint: Start and end of daylight.",
-    "structuredExplanation": {
-      "summary": "Sunrise and sunset times determine daylight duration.",
-      "hint": "Start and end of daylight."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Flowers can supply food for bees. Seasonal plant changes can affect animals.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1u02-p-035",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "A frog is heard calling more often after warm evenings in spring. Which statement is appropriate?",
-    "audioPrompt": "A frog is heard calling more often after warm evenings in spring. Which statement is appropriate?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Warmth forces every frog to call.",
-        "is_correct": false
-      },
-      {
-        "text": "One frog proves the pattern.",
-        "is_correct": false
-      },
-      {
-        "text": "The observations suggest activity may increase under those conditions.",
-        "is_correct": true
-      },
-      {
-        "text": "All frogs always call in spring.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The wording uses the observed association without claiming certainty.\nHint: Suggest, not guarantee.",
-    "structuredExplanation": {
-      "summary": "The wording uses the observed association without claiming certainty.",
-      "hint": "Suggest, not guarantee."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-019",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1u02-p-036",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "A class notices tree leaves changing colour over several autumn weeks. What type of change is this?",
-    "audioPrompt": "A class notices tree leaves changing colour over several autumn weeks. What type of change is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "The playground surface is very hot in the afternoon. Which plan uses the cooler part of the day?",
+    "audio_prompt": "The playground surface is very hot in the afternoon. Which plan uses the cooler part of the day?",
+    "answers": [
+      {
+        "text": "play there earlier, after checking it",
+        "is_correct": true
+      },
+      {
+        "text": "wait until the hottest time",
+        "is_correct": false
+      },
+      {
+        "text": "use it without checking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choosing a cooler time and checking the surface responds to the daily change.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "measurement error",
-        "is_correct": false
-      },
-      {
-        "text": "seasonal change",
-        "is_correct": true
-      },
-      {
-        "text": "hourly change",
-        "is_correct": false
-      },
-      {
-        "text": "instantaneous change only",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The change develops across a season.\nHint: Weeks across autumn.",
-    "structuredExplanation": {
-      "summary": "The change develops across a season.",
-      "hint": "Weeks across autumn."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-020",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1u02-p-037",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which observation plan best studies bird activity through a day?",
-    "audioPrompt": "Which observation plan best studies bird activity through a day?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "At the same afternoon time, the winter photo is dark and the summer photo is light. What does this show?",
+    "audio_prompt": "At the same afternoon time, the winter photo is dark and the summer photo is light. What does this show?",
+    "answers": [
+      {
+        "text": "winter has no daylight",
+        "is_correct": false
+      },
+      {
+        "text": "daylight can last later in summer",
+        "is_correct": true
+      },
+      {
+        "text": "summer has no night",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The photos show a difference in daylight at that time, not an absence of day or night.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "At 6 pm the winter photo is dark outside and the summer photo is light outside.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u02-20.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-021",
+    "curriculum_code": "AC9S1U02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "daily and seasonal changes",
+    "question": "The park record shows dry grass before weeks of rain and green grass afterwards. Which change is shown?",
+    "audio_prompt": "The park record shows dry grass before weeks of rain and green grass afterwards. Which change is shown?",
+    "answers": [
+      {
+        "text": "grass became drier after the rain",
+        "is_correct": false
+      },
+      {
+        "text": "grass stayed unchanged",
+        "is_correct": false
+      },
+      {
+        "text": "grass became greener after the rain",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The record shows a change in the grass following wetter conditions.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Before the rainy weeks, grass is dry and brown. After the rainy weeks, grass is green.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u02-21.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-022",
+    "curriculum_code": "AC9S1U02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "daily and seasonal changes",
+    "question": "A family sees that their usual path is flooded after heavy rain. What should they do?",
+    "audio_prompt": "A family sees that their usual path is flooded after heavy rain. What should they do?",
+    "answers": [
+      {
+        "text": "choose a safe different route",
+        "is_correct": true
+      },
+      {
+        "text": "use the path because it was dry yesterday",
+        "is_correct": false
+      },
+      {
+        "text": "assume the water is shallow",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recent weather can change a familiar place. Yesterday's conditions are not enough.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Count birds at fixed morning, midday and afternoon times.",
-        "is_correct": true
-      },
-      {
-        "text": "Count once only.",
-        "is_correct": false
-      },
-      {
-        "text": "Use different sites every time.",
-        "is_correct": false
-      },
-      {
-        "text": "Guess counts from memory.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Fixed times provide comparable observations across the day.\nHint: Repeated time points.",
-    "structuredExplanation": {
-      "summary": "Fixed times provide comparable observations across the day.",
-      "hint": "Repeated time points."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-023",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1u02-p-038",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "A week is unusually cold in summer. What should the class conclude?",
-    "audioPrompt": "A week is unusually cold in summer. What should the class conclude?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "A class sees more flowers over several spring weeks. Does that mean every plant flowers in spring?",
+    "audio_prompt": "A class sees more flowers over several spring weeks. Does that mean every plant flowers in spring?",
+    "answers": [
+      {
+        "text": "Yes, every plant flowers every day.",
+        "is_correct": false
+      },
+      {
+        "text": "No, plants can have different seasonal patterns.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, all plants flower together.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The observation concerns these plants. Other plants can respond differently.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Summer has turned into winter.",
-        "is_correct": false
-      },
-      {
-        "text": "Seasonal patterns are false.",
-        "is_correct": false
-      },
-      {
-        "text": "Summer must always be cold now.",
-        "is_correct": false
-      },
-      {
-        "text": "Weather can vary within a season.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Short-term weather can differ from typical seasonal conditions.\nHint: One week does not redefine the season.",
-    "structuredExplanation": {
-      "summary": "Short-term weather can differ from typical seasonal conditions.",
-      "hint": "One week does not redefine the season."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-p-024",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1u02-p-039",
-    "curriculumCode": "AC9S1U02",
     "bank": "practice",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "A student wants to show seasonal change in a plant. Which record is strongest?",
-    "audioPrompt": "A student wants to show seasonal change in a plant. Which record is strongest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Use the outdoor lunch cards. Which plan responds to the afternoon change?",
+    "audio_prompt": "Use the outdoor lunch cards. Which plan responds to the afternoon change?",
     "answers": [
       {
-        "text": "A drawing with no date",
+        "text": "leave the uncovered tables ready",
         "is_correct": false
       },
       {
-        "text": "A prediction only",
+        "text": "remove the covered area",
         "is_correct": false
       },
       {
-        "text": "Dated photos and measurements taken regularly across months",
+        "text": "move lunch under the covered area",
         "is_correct": true
-      },
-      {
-        "text": "One photo only",
-        "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Repeated dated records can reveal gradual changes.\nHint: Track over time.",
-    "structuredExplanation": {
-      "summary": "Repeated dated records can reveal gradual changes.",
-      "hint": "Track over time."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rain is expected in the afternoon, so cover helps keep the lunch area dry.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "apply",
+    "visual": {
+      "type": "svg",
+      "alt_text": "The morning is dry. The forecast says rain is expected in the afternoon.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u02-24.svg#model"
+    },
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1u02-r1-t-001",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1u02-p-040",
-    "curriculumCode": "AC9S1U02",
-    "bank": "practice",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why might an Australian family wear warmer clothes in July than January?",
-    "audioPrompt": "Why might an Australian family wear warmer clothes in July than January?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "January is always hot everywhere.",
-        "is_correct": false
-      },
-      {
-        "text": "Seasonal temperature patterns are usually cooler in winter than summer.",
-        "is_correct": true
-      },
-      {
-        "text": "July has fewer letters.",
-        "is_correct": false
-      },
-      {
-        "text": "Clothes change the season.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Clothing choices can respond to typical seasonal temperatures, while local weather still varies.\nHint: Connect decision to seasonal conditions.",
-    "structuredExplanation": {
-      "summary": "Clothing choices can respond to typical seasonal temperatures, while local weather still varies.",
-      "hint": "Connect decision to seasonal conditions."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1u02-t-001",
-    "curriculumCode": "AC9S1U02",
     "bank": "test",
     "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which change repeats every 24 hours?",
-    "audioPrompt": "Which change repeats every 24 hours?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "The sky becomes dark after sunset. Which change is happening?",
+    "audio_prompt": "The sky becomes dark after sunset. Which change is happening?",
+    "answers": [
+      {
+        "text": "day to night",
+        "is_correct": true
+      },
+      {
+        "text": "summer to winter",
+        "is_correct": false
+      },
+      {
+        "text": "dry season to wet season",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sunset is part of a daily light-to-dark change.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "summer and winter",
-        "is_correct": false
-      },
-      {
-        "text": "tree growth",
-        "is_correct": false
-      },
-      {
-        "text": "migration",
-        "is_correct": false
-      },
-      {
-        "text": "day and night",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Earth’s rotation produces the daily light-dark cycle.\nHint: Daily cycle.",
-    "structuredExplanation": {
-      "summary": "Earth’s rotation produces the daily light-dark cycle.",
-      "hint": "Daily cycle."
-    },
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1U02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-002",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which tool measures air temperature?",
-    "audioPrompt": "Which tool measures air temperature?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "timer",
-        "is_correct": false
-      },
-      {
-        "text": "cup",
-        "is_correct": false
-      },
-      {
-        "text": "thermometer",
-        "is_correct": true
-      },
-      {
-        "text": "ruler",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A thermometer measures temperature.\nHint: Temperature tool.",
-    "structuredExplanation": {
-      "summary": "A thermometer measures temperature.",
-      "hint": "Temperature tool."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-002",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "A class hears rain on the roof. Which outdoor area is likely to get wet?",
+    "audio_prompt": "A class hears rain on the roof. Which outdoor area is likely to get wet?",
+    "answers": [
+      {
+        "text": "under a sound roof",
+        "is_correct": false
+      },
+      {
+        "text": "the uncovered court",
+        "is_correct": true
+      },
+      {
+        "text": "inside the closed classroom",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rain reaches the uncovered court.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-003",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why measure weather at the same time each day?",
-    "audioPrompt": "Why measure weather at the same time each day?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "To make the Sun stay still.",
-        "is_correct": false
-      },
-      {
-        "text": "To make comparisons clearer.",
-        "is_correct": true
-      },
-      {
-        "text": "To stop weather changing.",
-        "is_correct": false
-      },
-      {
-        "text": "To guarantee equal results.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Time of day can affect temperature and conditions.\nHint: Keep one condition similar.",
-    "structuredExplanation": {
-      "summary": "Time of day can affect temperature and conditions.",
-      "hint": "Keep one condition similar."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-003",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "A strong wind starts blowing loose paper away. What would help?",
+    "audio_prompt": "A strong wind starts blowing loose paper away. What would help?",
+    "answers": [
+      {
+        "text": "spread out more loose paper",
+        "is_correct": false
+      },
+      {
+        "text": "leave the paper unattended",
+        "is_correct": false
+      },
+      {
+        "text": "move the activity indoors",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Moving indoors protects the activity from the wind.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-004",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which is a seasonal pattern?",
-    "audioPrompt": "Which is a seasonal pattern?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Longer daylight in summer than winter",
-        "is_correct": true
-      },
-      {
-        "text": "One cloud crossing the sky",
-        "is_correct": false
-      },
-      {
-        "text": "A five-minute rain shower",
-        "is_correct": false
-      },
-      {
-        "text": "A door opening",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Daylight length changes systematically across seasons.\nHint: Long-term yearly pattern.",
-    "structuredExplanation": {
-      "summary": "Daylight length changes systematically across seasons.",
-      "hint": "Long-term yearly pattern."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-004",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "The garden photos show fewer leaves on the same tree after several autumn weeks. What changed?",
+    "audio_prompt": "The garden photos show fewer leaves on the same tree after several autumn weeks. What changed?",
+    "answers": [
+      {
+        "text": "the tree lost leaves",
+        "is_correct": true
+      },
+      {
+        "text": "the tree grew more leaves",
+        "is_correct": false
+      },
+      {
+        "text": "the tree stayed unchanged",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Comparing the photos shows fewer leaves later.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-005",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why do shadows change through the day?",
-    "audioPrompt": "Why do shadows change through the day?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Shadows choose to move.",
-        "is_correct": false
-      },
-      {
-        "text": "Wind pushes all shadows.",
-        "is_correct": false
-      },
-      {
-        "text": "Ground turns.",
-        "is_correct": false
-      },
-      {
-        "text": "The Sun’s apparent position changes.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Changing light direction changes shadow length and direction.\nHint: Light direction.",
-    "structuredExplanation": {
-      "summary": "Changing light direction changes shadow length and direction.",
-      "hint": "Light direction."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-005",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "Read the two weather cards. How did the air change?",
+    "audio_prompt": "Read the two weather cards. How did the air change?",
+    "answers": [
+      {
+        "text": "it stayed equally warm",
+        "is_correct": false
+      },
+      {
+        "text": "it became cooler",
+        "is_correct": true
+      },
+      {
+        "text": "it became warmer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The first card says warm; the second says cool.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "First observation: warm air. Later observation: cool air.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u02-29.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-006",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement is too strong?",
-    "audioPrompt": "Which statement is too strong?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "We can check tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "Weather varies.",
-        "is_correct": false
-      },
-      {
-        "text": "It was windy today, so it will definitely be windy tomorrow.",
-        "is_correct": true
-      },
-      {
-        "text": "It may be windy tomorrow.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "One day cannot guarantee the next.\nHint: Avoid “definitely”.",
-    "structuredExplanation": {
-      "summary": "One day cannot guarantee the next.",
-      "hint": "Avoid “definitely”."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-006",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "Read the shade cards. Where should the children sit for shade at lunchtime?",
+    "audio_prompt": "Read the shade cards. Where should the children sit for shade at lunchtime?",
+    "answers": [
+      {
+        "text": "Bench B",
+        "is_correct": false
+      },
+      {
+        "text": "either bench",
+        "is_correct": false
+      },
+      {
+        "text": "Bench A",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The lunchtime card shows shade over Bench A only.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Morning: Bench A sunny and Bench B shaded. Lunchtime: Bench A shaded and Bench B sunny.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u02-30.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-007",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which record would show seasonal plant change?",
-    "audioPrompt": "Which record would show seasonal plant change?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "one temperature",
-        "is_correct": false
-      },
-      {
-        "text": "monthly photos with dates",
-        "is_correct": true
-      },
-      {
-        "text": "one drawing",
-        "is_correct": false
-      },
-      {
-        "text": "favourite colour",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "A sequence across months reveals gradual changes.\nHint: Track over months.",
-    "structuredExplanation": {
-      "summary": "A sequence across months reveals gradual changes.",
-      "hint": "Track over months."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-007",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "A town often has dry summers. Why might its garden need watering checks then?",
+    "audio_prompt": "A town often has dry summers. Why might its garden need watering checks then?",
+    "answers": [
+      {
+        "text": "there may be less rain",
+        "is_correct": true
+      },
+      {
+        "text": "plants stop needing water",
+        "is_correct": false
+      },
+      {
+        "text": "dry weather supplies extra water",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "When less rain falls, it is useful to check whether plants have enough water.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-008",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why might some animals be active at night?",
-    "audioPrompt": "Why might some animals be active at night?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Their behaviour is adapted to dark or cooler conditions.",
-        "is_correct": true
-      },
-      {
-        "text": "The Sun disappears forever.",
-        "is_correct": false
-      },
-      {
-        "text": "All animals sleep in day.",
-        "is_correct": false
-      },
-      {
-        "text": "Night creates animals.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Some species have nocturnal activity patterns.\nHint: Not all animals behave the same.",
-    "structuredExplanation": {
-      "summary": "Some species have nocturnal activity patterns.",
-      "hint": "Not all animals behave the same."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-008",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "Warm weather is common in this town's summer. Today is unusually cold. Can both statements be true?",
+    "audio_prompt": "Warm weather is common in this town's summer. Today is unusually cold. Can both statements be true?",
+    "answers": [
+      {
+        "text": "No, one cold day makes it winter.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, days can differ from the usual seasonal pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "No, every summer day must be hot.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Seasonal patterns describe what is common, not every single day.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-009",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which season follows spring in Australia?",
-    "audioPrompt": "Which season follows spring in Australia?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "winter",
-        "is_correct": false
-      },
-      {
-        "text": "autumn",
-        "is_correct": false
-      },
-      {
-        "text": "spring",
-        "is_correct": false
-      },
-      {
-        "text": "summer",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Spring is followed by summer.\nHint: Season sequence.",
-    "structuredExplanation": {
-      "summary": "Spring is followed by summer.",
-      "hint": "Season sequence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-009",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "The weekly record shows rain on Thursday. Which plan fits that day's weather?",
+    "audio_prompt": "The weekly record shows rain on Thursday. Which plan fits that day's weather?",
+    "answers": [
+      {
+        "text": "put uncovered cushions on the wet grass",
+        "is_correct": false
+      },
+      {
+        "text": "leave paper outside in the rain",
+        "is_correct": false
+      },
+      {
+        "text": "use the covered reading space",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A covered space protects the reading materials from rain.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Wednesday dry. Thursday rainy. Friday dry.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u02-33.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-010",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "A cold day occurs in summer. What does this show?",
-    "audioPrompt": "A cold day occurs in summer. What does this show?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "All summer days are cold.",
-        "is_correct": false
-      },
-      {
-        "text": "Seasons change daily.",
-        "is_correct": false
-      },
-      {
-        "text": "Weather can vary within a season.",
-        "is_correct": true
-      },
-      {
-        "text": "Summer is cancelled.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Short-term weather variation occurs within seasonal patterns.\nHint: Weather versus season.",
-    "structuredExplanation": {
-      "summary": "Short-term weather variation occurs within seasonal patterns.",
-      "hint": "Weather versus season."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-010",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "In the morning a puddle is large. Later it is much smaller. What has changed?",
+    "audio_prompt": "In the morning a puddle is large. Later it is much smaller. What has changed?",
+    "answers": [
+      {
+        "text": "the amount of water in the puddle",
+        "is_correct": true
+      },
+      {
+        "text": "the name of the season for certain",
+        "is_correct": false
+      },
+      {
+        "text": "the length of the whole year",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The observations directly show less water in the puddle.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-011",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which information helps calculate daylight length?",
-    "audioPrompt": "Which information helps calculate daylight length?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "number of trees",
-        "is_correct": false
-      },
-      {
-        "text": "sunrise and sunset times",
-        "is_correct": true
-      },
-      {
-        "text": "cloud colour",
-        "is_correct": false
-      },
-      {
-        "text": "wind direction only",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Daylight duration is the time between sunrise and sunset.\nHint: Start and end.",
-    "structuredExplanation": {
-      "summary": "Daylight duration is the time between sunrise and sunset.",
-      "hint": "Start and end."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-011",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "In one place, evenings stay light later in summer. How might this affect a family walk?",
+    "audio_prompt": "In one place, evenings stay light later in summer. How might this affect a family walk?",
+    "answers": [
+      {
+        "text": "the weather will always be dry",
+        "is_correct": false
+      },
+      {
+        "text": "it may still be light at their usual walking time",
+        "is_correct": true
+      },
+      {
+        "text": "there will never be darkness",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Longer daylight can change when it is light enough for an activity. It does not guarantee dry weather.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-012",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which is most likely a spring observation?",
-    "audioPrompt": "Which is most likely a spring observation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "new leaves or flowers appearing on some plants",
-        "is_correct": true
-      },
-      {
-        "text": "every river freezing",
-        "is_correct": false
-      },
-      {
-        "text": "the Sun never setting",
-        "is_correct": false
-      },
-      {
-        "text": "all animals disappearing",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Many plants show increased growth or flowering in spring.\nHint: Seasonal plant change.",
-    "structuredExplanation": {
-      "summary": "Many plants show increased growth or flowering in spring.",
-      "hint": "Seasonal plant change."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-012",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "A wet season brings weeks of frequent rain. Which everyday choice fits?",
+    "audio_prompt": "A wet season brings weeks of frequent rain. Which everyday choice fits?",
+    "answers": [
+      {
+        "text": "expect every path to remain dry",
+        "is_correct": false
+      },
+      {
+        "text": "store raincoats out of reach",
+        "is_correct": false
+      },
+      {
+        "text": "have rain protection ready",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Frequent rain makes rain protection useful.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-013",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Why repeat shadow measurements on several days?",
-    "audioPrompt": "Why repeat shadow measurements on several days?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "To force equal lengths.",
-        "is_correct": false
-      },
-      {
-        "text": "To change the Sun.",
-        "is_correct": false
-      },
-      {
-        "text": "To avoid recording.",
-        "is_correct": false
-      },
-      {
-        "text": "To see whether the daily pattern repeats.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Repeated observations strengthen evidence for a pattern.\nHint: Check again.",
-    "structuredExplanation": {
-      "summary": "Repeated observations strengthen evidence for a pattern.",
-      "hint": "Check again."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-013",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "The same tree's shadow falls in different places in morning and afternoon. What should you check for a picnic?",
+    "audio_prompt": "The same tree's shadow falls in different places in morning and afternoon. What should you check for a picnic?",
+    "answers": [
+      {
+        "text": "where the shade is at picnic time",
+        "is_correct": true
+      },
+      {
+        "text": "only where it was yesterday morning",
+        "is_correct": false
+      },
+      {
+        "text": "only the tree's height",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The shade's location changes during the day, so check it at the relevant time.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-014",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement best describes seasons?",
-    "audioPrompt": "Which statement best describes seasons?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Exactly the same everywhere.",
-        "is_correct": false
-      },
-      {
-        "text": "A type of weather tool.",
-        "is_correct": false
-      },
-      {
-        "text": "Longer-term patterns in conditions across the year.",
-        "is_correct": true
-      },
-      {
-        "text": "Changes every minute.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Seasons are broad yearly patterns.\nHint: Long-term cycle.",
-    "structuredExplanation": {
-      "summary": "Seasons are broad yearly patterns.",
-      "hint": "Long-term cycle."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-014",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "A plant grows new shoots over several spring weeks. Is this evidence of a change within one afternoon?",
+    "audio_prompt": "A plant grows new shoots over several spring weeks. Is this evidence of a change within one afternoon?",
+    "answers": [
+      {
+        "text": "Yes, spring lasts one afternoon.",
+        "is_correct": false
+      },
+      {
+        "text": "No, the record covers several weeks.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, all growth takes one afternoon.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The dates show a longer change across weeks.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-015",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "A class hears more cicadas on warm afternoons. Best next step?",
-    "audioPrompt": "A class hears more cicadas on warm afternoons. Best next step?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Change the counts.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep recording temperature and cicada activity over more days.",
-        "is_correct": true
-      },
-      {
-        "text": "Say warmth always causes cicadas.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore future observations.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "More observations can test whether the association repeats.\nHint: Collect more evidence.",
-    "structuredExplanation": {
-      "summary": "More observations can test whether the association repeats.",
-      "hint": "Collect more evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-015",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "The sports ground is muddy after overnight rain. Why might the game move to a suitable indoor space?",
+    "audio_prompt": "The sports ground is muddy after overnight rain. Why might the game move to a suitable indoor space?",
+    "answers": [
+      {
+        "text": "the season name changed overnight",
+        "is_correct": false
+      },
+      {
+        "text": "all outdoor games need darkness",
+        "is_correct": false
+      },
+      {
+        "text": "the rain changed the ground's condition",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Weather can change whether a place is suitable for an activity.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1u02-t-016",
-    "curriculumCode": "AC9S1U02",
-    "bank": "test",
-    "skill": "daily and seasonal changes",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice shows science helping daily life?",
-    "audioPrompt": "Which choice shows science helping daily life?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Checking forecast and temperature before planning outdoor sport.",
-        "is_correct": true
-      },
-      {
-        "text": "Choosing weather by favourite colour.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignoring conditions.",
-        "is_correct": false
-      },
-      {
-        "text": "Assuming yesterday repeats exactly.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Weather observations can inform practical decisions.\nHint: Use evidence to plan.",
-    "structuredExplanation": {
-      "summary": "Weather observations can inform practical decisions.",
-      "hint": "Use evidence to plan."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1u02-r1-t-016",
     "curriculum_code": "AC9S1U02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "daily and seasonal changes",
+    "question": "Morning fog clears before lunch. Which description matches both observations?",
+    "audio_prompt": "Morning fog clears before lunch. Which description matches both observations?",
+    "answers": [
+      {
+        "text": "foggy first, clearer later",
+        "is_correct": true
+      },
+      {
+        "text": "clear first, foggy later",
+        "is_correct": false
+      },
+      {
+        "text": "foggy the whole time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The description must preserve the observed order of the changes.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/weather-patterns",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence."
+    }
   }
 ]
