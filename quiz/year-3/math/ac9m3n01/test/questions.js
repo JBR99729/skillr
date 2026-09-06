@@ -4,28 +4,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-001",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "read large numeral",
+    "skill": "read notice",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, which numeral is 58,233 written without commas?",
-    "audioPrompt": "At the counting table, which numeral is 58,233 written without commas?",
-    "visual": "At the counting table: The numeral 58233 displayed on a place-value card.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: The numeral 58233 displayed on a place-value card.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-001\"></use></svg>",
+    "question": "A notice records the attendance as sixty-two thousand and seventeen. Which numeral matches it?",
+    "audioPrompt": "A notice records the attendance as sixty-two thousand and seventeen. Which numeral matches it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-001",
-      "alt_text": "At the counting table: The numeral 58233 displayed on a place-value card."
+      "type": "none"
     },
     "answers": [
-      "58233",
-      "58323",
-      "57333"
+      "62 170",
+      "62 017",
+      "620 017",
+      "6217"
     ],
-    "correct": 0,
-    "explanation": "58,233 has the same digits and place values as 58233.\nHint: Read from the highest place and keep every zero.",
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "62 thousands and 17 ones make 62 017; the hundreds digit is zero.\nHint: Keep room for an empty hundreds place.",
     "structuredExplanation": {
-      "summary": "58,233 has the same digits and place values as 58233.",
-      "hint": "Read from the highest place and keep every zero."
+      "summary": "62 thousands and 17 ones make 62 017; the hundreds digit is zero.",
+      "hint": "Keep room for an empty hundreds place."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-002",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "identify large place value",
+    "skill": "read zero group",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, what is the value of the first digit in 58233?",
-    "audioPrompt": "At the counting table, what is the value of the first digit in 58233?",
-    "visual": "At the counting table: The digits of 58233 arranged from ten-thousands to ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: The digits of 58233 arranged from ten-thousands to ones.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-002\"></use></svg>",
+    "question": "Which number name matches 304 090?",
+    "audioPrompt": "Which number name matches 304 090?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-002",
-      "alt_text": "At the counting table: The digits of 58233 arranged from ten-thousands to ones."
+      "type": "none"
     },
     "answers": [
-      "5000",
-      "50000",
-      "500"
+      "Thirty-four thousand and ninety",
+      "Three hundred and four thousand nine hundred",
+      "Three hundred and forty thousand and nine",
+      "Three hundred and four thousand and ninety"
     ],
-    "correct": 1,
-    "explanation": "The first digit is in the ten-thousands place, so its value is 50000.\nHint: Name the place before finding the value.",
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "The thousands group is 304 and the final group is 090, meaning ninety.\nHint: Read the thousands group separately from the final group.",
     "structuredExplanation": {
-      "summary": "The first digit is in the ten-thousands place, so its value is 50000.",
-      "hint": "Name the place before finding the value."
+      "summary": "The thousands group is 304 and the final group is 090, meaning ninety.",
+      "hint": "Read the thousands group separately from the final group."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-003",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "expand large number",
+    "skill": "chart missing digit",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, which expanded form represents 58233?",
-    "audioPrompt": "At the counting table, which expanded form represents 58233?",
-    "visual": "At the counting table: The numeral 58233 ready to be partitioned by place value.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: The numeral 58233 ready to be partitioned by place value.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-003\"></use></svg>",
+    "question": "A chart has columns hundred-thousands, ten-thousands, thousands, hundreds, tens, ones. Its entries are 1, 0, 7, 0, 2, 5. What number is represented?",
+    "audioPrompt": "A chart has columns hundred-thousands, ten-thousands, thousands, hundreds, tens, ones. Its entries are 1, 0, 7, 0, 2, 5. What number is represented?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-003",
-      "alt_text": "At the counting table: The numeral 58233 ready to be partitioned by place value."
+      "type": "none"
     },
     "answers": [
-      "5000 + 800 + 20 + 6",
-      "50000 + 8000 + 20 + 300 + 3",
-      "50000 + 8000 + 200 + 30 + 3"
+      "170 025",
+      "10 725",
+      "107 025",
+      "107 205"
     ],
+    "difficulty": 3,
     "correct": 2,
-    "explanation": "Each digit contributes its place value.\nHint: Match each digit to ten-thousands, thousands, hundreds, tens and ones.",
+    "explanation": "Read all six positions in order, keeping both zero placeholders.\nHint: Do not skip a column containing zero.",
     "structuredExplanation": {
-      "summary": "Each digit contributes its place value.",
-      "hint": "Match each digit to ten-thousands, thousands, hundreds, tens and ones."
+      "summary": "Read all six positions in order, keeping both zero placeholders.",
+      "hint": "Do not skip a column containing zero."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-004",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "compare large numbers",
+    "skill": "reconstruct part",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, which number is greater: 58233 or 58663?",
-    "audioPrompt": "At the counting table, which number is greater: 58233 or 58663?",
-    "visual": "At the counting table: The numerals 58233 and 58663 shown side by side.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: The numerals 58233 and 58663 shown side by side.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-004\"></use></svg>",
+    "question": "A number is 90 000 + 800 + 4. Which numeral represents it?",
+    "audioPrompt": "A number is 90 000 + 800 + 4. Which numeral represents it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-004",
-      "alt_text": "At the counting table: The numerals 58233 and 58663 shown side by side."
+      "type": "none"
     },
     "answers": [
-      "58663",
-      "58233",
-      "They are equal"
+      "90 804",
+      "9084",
+      "98 004",
+      "90 084"
     ],
+    "difficulty": 3,
     "correct": 0,
-    "explanation": "58663 is greater because the first different place has the larger digit.\nHint: Compare from the left.",
+    "explanation": "The thousands and tens places have no amount, so both need zero placeholders.\nHint: Use zero for each missing place-value part.",
     "structuredExplanation": {
-      "summary": "58663 is greater because the first different place has the larger digit.",
-      "hint": "Compare from the left."
+      "summary": "The thousands and tens places have no amount, so both need zero placeholders.",
+      "hint": "Use zero for each missing place-value part."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +120,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-005",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "order large numbers",
+    "skill": "repackage",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, put 58233, 58663 and 57733 in order from smallest to largest.",
-    "audioPrompt": "At the counting table, put 58233, 58663 and 57733 in order from smallest to largest.",
-    "visual": "At the counting table: Three large-number cards labelled 58233, 58663, and 57733.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: Three large-number cards labelled 58233, 58663, and 57733.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-005\"></use></svg>",
+    "question": "A store has 18 bags of 1000 counters and 3 bags of 100 counters. How many full bags of 100 would hold the same total?",
+    "audioPrompt": "A store has 18 bags of 1000 counters and 3 bags of 100 counters. How many full bags of 100 would hold the same total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-005",
-      "alt_text": "At the counting table: Three large-number cards labelled 58233, 58663, and 57733."
+      "type": "none"
     },
     "answers": [
-      "58663, 58233, 57733",
-      "57733, 58233, 58663",
-      "58233, 57733, 58663"
+      "1830",
+      "1803",
+      "183",
+      "21"
     ],
-    "correct": 1,
-    "explanation": "Compare the highest place first: 57733 < 58233 < 58663.\nHint: Find the smallest first, then compare the two remaining numbers.",
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "18 thousands is 180 hundreds. Add the other 3 hundreds to get 183 hundreds.\nHint: Trade each thousand for ten hundreds.",
     "structuredExplanation": {
-      "summary": "Compare the highest place first: 57733 < 58233 < 58663.",
-      "hint": "Find the smallest first, then compare the two remaining numbers."
+      "summary": "18 thousands is 180 hundreds. Add the other 3 hundreds to get 183 hundreds.",
+      "hint": "Trade each thousand for ten hundreds."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +149,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-006",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "cross place value boundary",
+    "skill": "representation match",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, what number is 1 more than 58242?",
-    "audioPrompt": "At the counting table, what number is 1 more than 58242?",
-    "visual": "At the counting table: 58242 plus one shown as a place-value change.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: 58242 plus one shown as a place-value change.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-006\"></use></svg>",
+    "question": "Which representation equals 46 080?",
+    "audioPrompt": "Which representation equals 46 080?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-006",
-      "alt_text": "At the counting table: 58242 plus one shown as a place-value change."
+      "type": "none"
     },
     "answers": [
-      "58242",
-      "58252",
-      "58243"
+      "46 hundreds and 8 tens",
+      "4 ten-thousands and 608 hundreds",
+      "460 thousands and 8 ones",
+      "45 thousands and 108 tens"
     ],
-    "correct": 2,
-    "explanation": "Adding 1 to 58242 gives 58243.\nHint: Watch whether the ones digit causes a regrouping.",
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "45 000 + 1080 = 46 080. Regrouping can put more than nine units in a named place.\nHint: Add the values of both parts, even if one part has more than nine units.",
     "structuredExplanation": {
-      "summary": "Adding 1 to 58242 gives 58243.",
-      "hint": "Watch whether the ones digit causes a regrouping."
+      "summary": "45 000 + 1080 = 46 080. Regrouping can put more than nine units in a named place.",
+      "hint": "Add the values of both parts, even if one part has more than nine units."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +178,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-007",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "rename large number",
+    "skill": "rollover display",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, which renaming has the same value as 58233?",
-    "audioPrompt": "At the counting table, which renaming has the same value as 58233?",
-    "visual": "At the counting table: The numeral 58233 beside a hundreds-and-ones renaming frame.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: The numeral 58233 beside a hundreds-and-ones renaming frame.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-007\"></use></svg>",
+    "question": "A display reads 79 999. After one more item is counted, what does it show?",
+    "audioPrompt": "A display reads 79 999. After one more item is counted, what does it show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-007",
-      "alt_text": "At the counting table: The numeral 58233 beside a hundreds-and-ones renaming frame."
+      "type": "none"
     },
     "answers": [
-      "582 hundreds and 33 ones",
-      "58 hundreds and 33 ones",
-      "5823 hundreds and 3 ones"
+      "79 100",
+      "80 000",
+      "80 999",
+      "79 990"
     ],
-    "correct": 0,
-    "explanation": "582 hundreds make 58200; adding 33 ones gives 58233.\nHint: Multiply the hundreds by 100, then add the ones.",
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "Adding one causes regrouping through all four lower places and raises 7 ten-thousands to 8.\nHint: Think about the next ten-thousand boundary.",
     "structuredExplanation": {
-      "summary": "582 hundreds make 58200; adding 33 ones gives 58233.",
-      "hint": "Multiply the hundreds by 100, then add the ones."
+      "summary": "Adding one causes regrouping through all four lower places and raises 7 ten-thousands to 8.",
+      "hint": "Think about the next ten-thousand boundary."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +207,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-008",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "explain large number comparison",
+    "skill": "backward hundreds",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, a counter says 58233 is smaller than 57233 because its last digit is smaller. What should be checked first?",
-    "audioPrompt": "At the counting table, a counter says 58233 is smaller than 57233 because its last digit is smaller. What should be checked first?",
-    "visual": "At the counting table: A comparison between 58233 and 57233 with a question mark.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: A comparison between 58233 and 57233 with a question mark.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-008\"></use></svg>",
+    "question": "A counter decreases by 100 each time: 60 040, 59 940, ___. What comes next?",
+    "audioPrompt": "A counter decreases by 100 each time: 60 040, 59 940, ___. What comes next?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-008",
-      "alt_text": "At the counting table: A comparison between 58233 and 57233 with a question mark."
+      "type": "none"
     },
     "answers": [
-      "The ones digit",
-      "The highest place value",
-      "The number of spaces"
+      "58 940",
+      "59 930",
+      "59 840",
+      "59 040"
     ],
-    "correct": 1,
-    "explanation": "Large numbers are compared from the highest place, not from the final digit.\nHint: Start on the left and stop at the first different digit.",
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "Subtract one hundred from 59 940. The tens and ones stay 40.\nHint: Count back one hundred, keeping the last two digits.",
     "structuredExplanation": {
-      "summary": "Large numbers are compared from the highest place, not from the final digit.",
-      "hint": "Start on the left and stop at the first different digit."
+      "summary": "Subtract one hundred from 59 940. The tens and ones stay 40.",
+      "hint": "Count back one hundred, keeping the last two digits."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-009",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "read large numeral",
+    "skill": "order representations",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, which numeral is 69,964 written without commas?",
-    "audioPrompt": "In the place-value challenge, which numeral is 69,964 written without commas?",
-    "visual": "In the place-value challenge: The numeral 69964 displayed on a place-value card.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: The numeral 69964 displayed on a place-value card.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-009\"></use></svg>",
+    "question": "Which list is in increasing order?",
+    "audioPrompt": "Which list is in increasing order?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-009",
-      "alt_text": "In the place-value challenge: The numeral 69964 displayed on a place-value card."
+      "type": "none"
     },
     "answers": [
-      "70054",
-      "69064",
-      "69964"
+      "80 005, 8050, 80 050, 80 500",
+      "8050, 80 050, 80 005, 80 500",
+      "80 500, 80 050, 80 005, 8050",
+      "8050, 80 005, 80 050, 80 500"
     ],
-    "correct": 2,
-    "explanation": "69,964 has the same digits and place values as 69964.\nHint: Read from the highest place and keep every zero.",
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "8050 has four digits. For the remaining numbers, compare hundreds, then tens, then ones.\nHint: Place the four-digit number before the five-digit numbers.",
     "structuredExplanation": {
-      "summary": "69,964 has the same digits and place values as 69964.",
-      "hint": "Read from the highest place and keep every zero."
+      "summary": "8050 has four digits. For the remaining numbers, compare hundreds, then tens, then ones.",
+      "hint": "Place the four-digit number before the five-digit numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +265,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-010",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "identify large place value",
+    "skill": "rank records",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, what is the value of the first digit in 69964?",
-    "audioPrompt": "In the place-value challenge, what is the value of the first digit in 69964?",
-    "visual": "In the place-value challenge: The digits of 69964 arranged from ten-thousands to ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: The digits of 69964 arranged from ten-thousands to ones.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-010\"></use></svg>",
+    "question": "Four records show 105 090, 105 900, 105 009 and 105 099. Which is third when ordered from largest to smallest?",
+    "audioPrompt": "Four records show 105 090, 105 900, 105 009 and 105 099. Which is third when ordered from largest to smallest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-010",
-      "alt_text": "In the place-value challenge: The digits of 69964 arranged from ten-thousands to ones."
+      "type": "none"
     },
     "answers": [
-      "60000",
-      "6000",
-      "600"
+      "105 009",
+      "105 099",
+      "105 900",
+      "105 090"
     ],
-    "correct": 0,
-    "explanation": "The first digit is in the ten-thousands place, so its value is 60000.\nHint: Name the place before finding the value.",
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "The descending order is 105 900, 105 099, 105 090, 105 009.\nHint: Order all four records, then select the third.",
     "structuredExplanation": {
-      "summary": "The first digit is in the ten-thousands place, so its value is 60000.",
-      "hint": "Name the place before finding the value."
+      "summary": "The descending order is 105 900, 105 099, 105 090, 105 009.",
+      "hint": "Order all four records, then select the third."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +294,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-011",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "expand large number",
+    "skill": "scale transfer",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, which expanded form represents 69964?",
-    "audioPrompt": "In the place-value challenge, which expanded form represents 69964?",
-    "visual": "In the place-value challenge: The numeral 69964 ready to be partitioned by place value.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: The numeral 69964 ready to be partitioned by place value.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-011\"></use></svg>",
+    "question": "A number line has four equally spaced ticks labelled 48 500, X, 49 500, 50 000. What is X?",
+    "audioPrompt": "A number line has four equally spaced ticks labelled 48 500, X, 49 500, 50 000. What is X?",
+    "visual": "Number line with equally spaced ticks labelled 48 500, X, 49 500, 50 000 from left to right.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with equally spaced ticks labelled 48 500, X, 49 500, 50 000 from left to right.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01-reviewed.svg#ac9m3n01-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-011",
-      "alt_text": "In the place-value challenge: The numeral 69964 ready to be partitioned by place value."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01-reviewed.svg#ac9m3n01-t-011",
+      "alt_text": "Number line with equally spaced ticks labelled 48 500, X, 49 500, 50 000 from left to right."
     },
     "answers": [
-      "6000 + 900 + 90 + 10",
-      "60000 + 9000 + 900 + 60 + 4",
-      "60000 + 9000 + 90 + 600 + 4"
+      "49 000",
+      "48 600",
+      "49 250",
+      "48 750"
     ],
-    "correct": 1,
-    "explanation": "Each digit contributes its place value.\nHint: Match each digit to ten-thousands, thousands, hundreds, tens and ones.",
+    "difficulty": 3,
+    "correct": 0,
+    "explanation": "The last interval is 500, so every interval is 500. One step after 48 500 is 49 000.\nHint: Use the spacing between the last two labels.",
     "structuredExplanation": {
-      "summary": "Each digit contributes its place value.",
-      "hint": "Match each digit to ten-thousands, thousands, hundreds, tens and ones."
+      "summary": "The last interval is 500, so every interval is 500. One step after 48 500 is 49 000.",
+      "hint": "Use the spacing between the last two labels."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +325,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-012",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "compare large numbers",
+    "skill": "max below limit",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, which number is greater: 69964 or 70435?",
-    "audioPrompt": "In the place-value challenge, which number is greater: 69964 or 70435?",
-    "visual": "In the place-value challenge: The numerals 69964 and 70435 shown side by side.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: The numerals 69964 and 70435 shown side by side.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-012\"></use></svg>",
+    "question": "Use each digit 0, 1, 4, 6 and 9 once. What is the greatest five-digit number below 60 000?",
+    "audioPrompt": "Use each digit 0, 1, 4, 6 and 9 once. What is the greatest five-digit number below 60 000?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-012",
-      "alt_text": "In the place-value challenge: The numerals 69964 and 70435 shown side by side."
+      "type": "none"
     },
     "answers": [
-      "69964",
-      "They are equal",
-      "70435"
+      "46 910",
+      "49 610",
+      "61 940",
+      "59 610"
     ],
-    "correct": 2,
-    "explanation": "70435 is greater because the first different place has the larger digit.\nHint: Compare from the left.",
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "The greatest available first digit below 6 is 4. Arrange the remaining digits as 9, 6, 1, 0. The choice starting with 5 uses an unavailable digit.\nHint: Check both the digit supply and the upper limit.",
     "structuredExplanation": {
-      "summary": "70435 is greater because the first different place has the larger digit.",
-      "hint": "Compare from the left."
+      "summary": "The greatest available first digit below 6 is 4. Arrange the remaining digits as 9, 6, 1, 0. The choice starting with 5 uses an unavailable digit.",
+      "hint": "Check both the digit supply and the upper limit."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +354,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-013",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "order large numbers",
+    "skill": "minimum repeated zero",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, put 69964, 70435 and 69464 in order from smallest to largest.",
-    "audioPrompt": "In the place-value challenge, put 69964, 70435 and 69464 in order from smallest to largest.",
-    "visual": "In the place-value challenge: Three large-number cards labelled 69964, 70435, and 69464.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: Three large-number cards labelled 69964, 70435, and 69464.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-013\"></use></svg>",
+    "question": "Use 0, 0, 2, 5 and 8 once each. What is the smallest five-digit number?",
+    "audioPrompt": "Use 0, 0, 2, 5 and 8 once each. What is the smallest five-digit number?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-013",
-      "alt_text": "In the place-value challenge: Three large-number cards labelled 69964, 70435, and 69464."
+      "type": "none"
     },
     "answers": [
-      "69464, 69964, 70435",
-      "70435, 69964, 69464",
-      "69964, 69464, 70435"
+      "50 028",
+      "20 085",
+      "20 058",
+      "25 008"
     ],
-    "correct": 0,
-    "explanation": "Compare the highest place first: 69464 < 69964 < 70435.\nHint: Find the smallest first, then compare the two remaining numbers.",
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "Start with the smallest non-zero digit, 2. Then use 0, 0, 5, 8 in that order.\nHint: Use the smallest non-zero digit first.",
     "structuredExplanation": {
-      "summary": "Compare the highest place first: 69464 < 69964 < 70435.",
-      "hint": "Find the smallest first, then compare the two remaining numbers."
+      "summary": "Start with the smallest non-zero digit, 2. Then use 0, 0, 5, 8 in that order.",
+      "hint": "Use the smallest non-zero digit first."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +383,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-014",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "cross place value boundary",
+    "skill": "digit possibilities",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, what number is 1 more than 69973?",
-    "audioPrompt": "In the place-value challenge, what number is 1 more than 69973?",
-    "visual": "In the place-value challenge: 69973 plus one shown as a place-value change.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: 69973 plus one shown as a place-value change.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-014\"></use></svg>",
+    "question": "Which digits can replace the box so that 28 460 < 28 4□5 < 28 490?",
+    "audioPrompt": "Which digits can replace the box so that 28 460 < 28 4□5 < 28 490?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-014",
-      "alt_text": "In the place-value challenge: 69973 plus one shown as a place-value change."
+      "type": "none"
     },
     "answers": [
-      "69973",
-      "69974",
-      "69983"
+      "6, 7, 8, 9",
+      "6, 7, 8",
+      "5, 6, 7, 8",
+      "7, 8"
     ],
+    "difficulty": 3,
     "correct": 1,
-    "explanation": "Adding 1 to 69973 gives 69974.\nHint: Watch whether the ones digit causes a regrouping.",
+    "explanation": "With 6, the number is 28 465, already above the lower limit. With 9, it is 28 495, above the upper limit.\nHint: Try the boundary digits as well as those in between.",
     "structuredExplanation": {
-      "summary": "Adding 1 to 69973 gives 69974.",
-      "hint": "Watch whether the ones digit causes a regrouping."
+      "summary": "With 6, the number is 28 465, already above the lower limit. With 9, it is 28 495, above the upper limit.",
+      "hint": "Try the boundary digits as well as those in between."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +412,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-015",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "rename large number",
+    "skill": "comparison claim",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, which renaming has the same value as 69964?",
-    "audioPrompt": "In the place-value challenge, which renaming has the same value as 69964?",
-    "visual": "In the place-value challenge: The numeral 69964 beside a hundreds-and-ones renaming frame.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: The numeral 69964 beside a hundreds-and-ones renaming frame.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-015\"></use></svg>",
+    "question": "A student says 93 018 is greater than 93 180 because 8 is greater than 0. Which response fixes the reasoning?",
+    "audioPrompt": "A student says 93 018 is greater than 93 180 because 8 is greater than 0. Which response fixes the reasoning?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-015",
-      "alt_text": "In the place-value challenge: The numeral 69964 beside a hundreds-and-ones renaming frame."
+      "type": "none"
     },
     "answers": [
-      "69 hundreds and 64 ones",
-      "6996 hundreds and 4 ones",
-      "699 hundreds and 64 ones"
+      "Compare hundreds first: 0 hundreds is less than 1 hundred",
+      "Compare thousands only: both have 3 thousands",
+      "Compare ones first: 8 ones is greater than 0 ones",
+      "Count spaces: both numbers have one space"
     ],
-    "correct": 2,
-    "explanation": "699 hundreds make 69900; adding 64 ones gives 69964.\nHint: Multiply the hundreds by 100, then add the ones.",
+    "difficulty": 3,
+    "correct": 0,
+    "explanation": "The first different place from the left is hundreds. Therefore 93 018 is less than 93 180, regardless of the ones.\nHint: Compare from the left, not from the ones.",
     "structuredExplanation": {
-      "summary": "699 hundreds make 69900; adding 64 ones gives 69964.",
-      "hint": "Multiply the hundreds by 100, then add the ones."
+      "summary": "The first different place from the left is hundreds. Therefore 93 018 is less than 93 180, regardless of the ones.",
+      "hint": "Compare from the left, not from the ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +441,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n01-t-016",
     "curriculumCode": "AC9M3N01",
     "bank": "test",
-    "skill": "explain large number comparison",
+    "skill": "rename and order",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, a counter says 69964 is smaller than 68964 because its last digit is smaller. What should be checked first?",
-    "audioPrompt": "In the place-value challenge, a counter says 69964 is smaller than 68964 because its last digit is smaller. What should be checked first?",
-    "visual": "In the place-value challenge: A comparison between 69964 and 68964 with a question mark.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: A comparison between 69964 and 68964 with a question mark.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-016\"></use></svg>",
+    "question": "A represents 240 hundreds. B represents 23 thousands and 9 hundreds. C represents 2 ten-thousands and 41 hundreds. Which order is smallest to largest?",
+    "audioPrompt": "A represents 240 hundreds. B represents 23 thousands and 9 hundreds. C represents 2 ten-thousands and 41 hundreds. Which order is smallest to largest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-016",
-      "alt_text": "In the place-value challenge: A comparison between 69964 and 68964 with a question mark."
+      "type": "none"
     },
     "answers": [
-      "The highest place value",
-      "The ones digit",
-      "The number of spaces"
+      "B, A, C",
+      "B, C, A",
+      "A, B, C",
+      "C, A, B"
     ],
+    "difficulty": 3,
     "correct": 0,
-    "explanation": "Large numbers are compared from the highest place, not from the final digit.\nHint: Start on the left and stop at the first different digit.",
+    "explanation": "A = 24 000, B = 23 900 and C = 24 100. Thus B < A < C.\nHint: Convert each description into a numeral before ordering.",
     "structuredExplanation": {
-      "summary": "Large numbers are compared from the highest place, not from the final digit.",
-      "hint": "Start on the left and stop at the first different digit."
+      "summary": "A = 24 000, B = 23 900 and C = 24 100. Thus B < A < C.",
+      "hint": "Convert each description into a numeral before ordering."
     },
     "qualitySchema": "production-v1"
   }

@@ -15,6 +15,8 @@ const filler = /all of the above|none of the above|because magic|the result is m
 
 for (const [index, item] of items.entries()) {
   const where = item.id || `item ${index + 1}`;
+  const year = Number(String(item.year_level).match(/\d+/)?.[0] || 0);
+  const answerCount = year >= 3 ? 4 : 3;
   for (const key of required) if (!(key in item)) errors.push(`${where}: missing ${key}`);
   if (ids.has(item.id)) errors.push(`${where}: duplicate id`);
   ids.add(item.id);
@@ -26,12 +28,12 @@ for (const [index, item] of items.entries()) {
   ].join("|");
   if (prompts.has(promptKey)) errors.push(`${where}: duplicate prompt with ${prompts.get(promptKey)}`);
   prompts.set(promptKey, where);
-  if (!Array.isArray(item.answers) || item.answers.length !== 3) errors.push(`${where}: early-years item must have exactly 3 answers`);
+  if (!Array.isArray(item.answers) || item.answers.length !== answerCount) errors.push(`${where}: ${item.year_level} item must have exactly ${answerCount} answers`);
   if (item.audio_answers !== undefined && (!Array.isArray(item.audio_answers) || item.audio_answers.length !== item.answers?.length || item.audio_answers.some((answer) => !String(answer).trim()))) errors.push(`${where}: audio_answers must describe every visible answer`);
   if (new Set((item.answers || []).map((answer) => String(answer.text).replace(/\s+/g, " ").trim())).size !== (item.answers || []).length) errors.push(`${where}: duplicate answer choices`);
   const correct = (item.answers || []).filter((answer) => answer.is_correct);
   if (correct.length !== 1) errors.push(`${where}: expected exactly one correct answer`);
-  if (!Number.isInteger(item.correct_index) || item.correct_index < 0 || item.correct_index > 2) errors.push(`${where}: invalid correct_index`);
+  if (!Number.isInteger(item.correct_index) || item.correct_index < 0 || item.correct_index >= answerCount) errors.push(`${where}: invalid correct_index`);
   if (item.answers?.[item.correct_index]?.is_correct !== true) errors.push(`${where}: correct_index does not match answers`);
   if ((item.answers || []).some((answer) => !String(answer.text).trim() || filler.test(answer.text))) errors.push(`${where}: empty or filler answer`);
   if (!item.explanation?.summary || !item.explanation?.hint) errors.push(`${where}: incomplete two-part explanation`);
@@ -39,7 +41,7 @@ for (const [index, item] of items.entries()) {
   if (!item.visual || !["svg", "none"].includes(item.visual.type)) errors.push(`${where}: invalid visual type`);
   if (item.visual?.type === "svg" && (!item.visual.asset_path || !item.visual.alt_text)) errors.push(`${where}: SVG requires asset_path and alt_text`);
   const key = `${item.curriculum_code}|${item.bank}`;
-  distributions[key] ||= [0, 0, 0];
+  distributions[key] ||= Array(answerCount).fill(0);
   distributions[key][item.correct_index] += 1;
   bankCounts[item.curriculum_code] ||= { practice: 0, test: 0 };
   if (item.bank === "practice" || item.bank === "test") bankCounts[item.curriculum_code][item.bank] += 1;
@@ -51,7 +53,9 @@ for (const [key, counts] of Object.entries(distributions)) {
 }
 
 for (const [code, counts] of Object.entries(bankCounts)) {
-  if (counts.practice < 24) errors.push(`${code}: Practice bank has ${counts.practice}; minimum is 24`);
+  const year = Number(String(items.find((item) => item.curriculum_code === code).year_level).match(/\d+/)?.[0] || 0);
+  const minimum = year >= 3 ? 48 : 24;
+  if (counts.practice < minimum) errors.push(`${code}: Practice bank has ${counts.practice}; minimum is ${minimum}`);
   if (counts.test < 16) errors.push(`${code}: Test bank has ${counts.test}; minimum is 16`);
 }
 

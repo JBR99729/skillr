@@ -5,36 +5,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "read_large_numeral",
-    "question": "With base-ten blocks, which numeral is 23,040 written without commas?",
-    "audio_prompt": "With base-ten blocks, which numeral is 23,040 written without commas?",
+    "skill": "name_zero",
+    "question": "Which numeral means twelve thousand and sixty-five?",
+    "audio_prompt": "Which numeral means twelve thousand and sixty-five?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-001",
-      "alt_text": "With base-ten blocks: The numeral 23040 displayed on a place-value card."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "23040",
+        "text": "12 605",
+        "is_correct": false
+      },
+      {
+        "text": "1265",
+        "is_correct": false
+      },
+      {
+        "text": "120 065",
+        "is_correct": false
+      },
+      {
+        "text": "12 065",
         "is_correct": true
-      },
-      {
-        "text": "23130",
-        "is_correct": false
-      },
-      {
-        "text": "22140",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "23,040 has the same digits and place values as 23040.",
-      "hint": "Read from the highest place and keep every zero."
+      "summary": "Twelve thousand is 12 000 and sixty-five is 65. The zero keeps the hundreds place empty.",
+      "hint": "Build the thousands group first, then the last three places."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-002",
@@ -42,36 +42,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "identify_large_place_value",
-    "question": "With base-ten blocks, what is the value of the first digit in 23040?",
-    "audio_prompt": "With base-ten blocks, what is the value of the first digit in 23040?",
+    "skill": "read_teen",
+    "question": "How do you read 31 018?",
+    "audio_prompt": "How do you read 31 018?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-002",
-      "alt_text": "With base-ten blocks: The digits of 23040 arranged from ten-thousands to ones."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "2000",
+        "text": "Thirty-one thousand and eighty",
         "is_correct": false
       },
       {
-        "text": "20000",
+        "text": "Three thousand one hundred and eighteen",
+        "is_correct": false
+      },
+      {
+        "text": "Thirty-one thousand one hundred and eight",
+        "is_correct": false
+      },
+      {
+        "text": "Thirty-one thousand and eighteen",
         "is_correct": true
-      },
-      {
-        "text": "200",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The first digit is in the ten-thousands place, so its value is 20000.",
-      "hint": "Name the place before finding the value."
+      "summary": "Read 31 as the thousands group and 018 as eighteen; the zero does not remove a place.",
+      "hint": "Read the last three digits as one group."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-003",
@@ -79,36 +79,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "expand_large_number",
-    "question": "With base-ten blocks, which expanded form represents 23040?",
-    "audio_prompt": "With base-ten blocks, which expanded form represents 23040?",
+    "skill": "chart_to_number",
+    "question": "A place-value chart has 2 ten-thousands, 6 thousands, 0 hundreds, 4 tens and 3 ones. Which number does it show?",
+    "audio_prompt": "A place-value chart has 2 ten-thousands, 6 thousands, 0 hundreds, 4 tens and 3 ones. Which number does it show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-003",
-      "alt_text": "With base-ten blocks: The numeral 23040 ready to be partitioned by place value."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "2000 + 300 + 0 + 4",
-        "is_correct": false
-      },
-      {
-        "text": "20000 + 3000 + 0 + 400 + 0",
-        "is_correct": false
-      },
-      {
-        "text": "20000 + 3000 + 0 + 40 + 0",
+        "text": "26 043",
         "is_correct": true
+      },
+      {
+        "text": "26 403",
+        "is_correct": false
+      },
+      {
+        "text": "260 043",
+        "is_correct": false
+      },
+      {
+        "text": "2643",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Each digit contributes its place value.",
-      "hint": "Match each digit to ten-thousands, thousands, hundreds, tens and ones."
+      "summary": "The five places contain 2, 6, 0, 4 and 3 in that order.",
+      "hint": "Write a digit in every named column, including zero."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-004",
@@ -116,36 +116,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "compare_large_numbers",
-    "question": "With base-ten blocks, which number is greater: 23040 or 23347?",
-    "audio_prompt": "With base-ten blocks, which number is greater: 23040 or 23347?",
+    "skill": "missing_place",
+    "question": "In 58 206, which place has a zero?",
+    "audio_prompt": "In 58 206, which place has a zero?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-004",
-      "alt_text": "With base-ten blocks: The numerals 23040 and 23347 shown side by side."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "23347",
+        "text": "Thousands",
+        "is_correct": false
+      },
+      {
+        "text": "Tens",
         "is_correct": true
       },
       {
-        "text": "23040",
+        "text": "Ones",
         "is_correct": false
       },
       {
-        "text": "They are equal",
+        "text": "Hundreds",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "23347 is greater because the first different place has the larger digit.",
-      "hint": "Compare from the left."
+      "summary": "From the right, 6 is in the ones place, 0 in tens and 2 in hundreds.",
+      "hint": "Count places from the right: ones, tens, hundreds."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-005",
@@ -153,36 +153,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "order_large_numbers",
-    "question": "With base-ten blocks, put 23040, 23347 and 22540 in order from smallest to largest.",
-    "audio_prompt": "With base-ten blocks, put 23040, 23347 and 22540 in order from smallest to largest.",
+    "skill": "digit_value",
+    "question": "In 72 451, what is the value of the digit 7?",
+    "audio_prompt": "In 72 451, what is the value of the digit 7?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-005",
-      "alt_text": "With base-ten blocks: Three large-number cards labelled 23040, 23347, and 22540."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "23347, 23040, 22540",
+        "text": "700",
         "is_correct": false
       },
       {
-        "text": "22540, 23040, 23347",
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "70 000",
         "is_correct": true
       },
       {
-        "text": "23040, 22540, 23347",
+        "text": "7000",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Compare the highest place first: 22540 < 23040 < 23347.",
-      "hint": "Find the smallest first, then compare the two remaining numbers."
+      "summary": "The 7 represents seven ten-thousands, so its value is 70 000.",
+      "hint": "Name the position of 7 before giving its value."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-006",
@@ -190,36 +190,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "cross_place_value_boundary",
-    "question": "With base-ten blocks, what number is 1 more than 23049?",
-    "audio_prompt": "With base-ten blocks, what number is 1 more than 23049?",
+    "skill": "repeated_digit",
+    "question": "In 44 080, what do the two 4s represent, from left to right?",
+    "audio_prompt": "In 44 080, what do the two 4s represent, from left to right?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-006",
-      "alt_text": "With base-ten blocks: 23049 plus one shown as a place-value change."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "23049",
+        "text": "4000 and 40",
         "is_correct": false
       },
       {
-        "text": "23059",
-        "is_correct": false
-      },
-      {
-        "text": "23050",
+        "text": "40 000 and 4000",
         "is_correct": true
+      },
+      {
+        "text": "4000 and 400",
+        "is_correct": false
+      },
+      {
+        "text": "40 000 and 400",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Adding 1 to 23049 gives 23050.",
-      "hint": "Watch whether the ones digit causes a regrouping."
+      "summary": "The same digit has different values in the ten-thousands and thousands places.",
+      "hint": "Compare the positions of the two identical digits."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-007",
@@ -227,36 +227,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "rename_large_number",
-    "question": "With base-ten blocks, which renaming has the same value as 23040?",
-    "audio_prompt": "With base-ten blocks, which renaming has the same value as 23040?",
+    "skill": "expanded_zero",
+    "question": "Which sum represents 60 309?",
+    "audio_prompt": "Which sum represents 60 309?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-007",
-      "alt_text": "With base-ten blocks: The numeral 23040 beside a hundreds-and-ones renaming frame."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "230 hundreds and 40 ones",
+        "text": "60 000 + 30 + 9",
+        "is_correct": false
+      },
+      {
+        "text": "60 000 + 3000 + 9",
+        "is_correct": false
+      },
+      {
+        "text": "60 000 + 300 + 9",
         "is_correct": true
       },
       {
-        "text": "23 hundreds and 40 ones",
-        "is_correct": false
-      },
-      {
-        "text": "2304 hundreds and 0 ones",
+        "text": "6000 + 300 + 9",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "230 hundreds make 23000; adding 40 ones gives 23040.",
-      "hint": "Multiply the hundreds by 100, then add the ones."
+      "summary": "There are six ten-thousands, three hundreds and nine ones; the thousands and tens places are zero.",
+      "hint": "Match each non-zero digit to a place-value part."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-008",
@@ -264,36 +264,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "explain_large_number_comparison",
-    "question": "With base-ten blocks, a counter says 23040 is smaller than 22040 because its last digit is smaller. What should be checked first?",
-    "audio_prompt": "With base-ten blocks, a counter says 23040 is smaller than 22040 because its last digit is smaller. What should be checked first?",
+    "skill": "compose_reordered",
+    "question": "What number is 80 + 40 000 + 6 + 2000?",
+    "audio_prompt": "What number is 80 + 40 000 + 6 + 2000?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-008",
-      "alt_text": "With base-ten blocks: A comparison between 23040 and 22040 with a question mark."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The ones digit",
+        "text": "420 086",
         "is_correct": false
       },
       {
-        "text": "The highest place value",
+        "text": "42 806",
+        "is_correct": false
+      },
+      {
+        "text": "42 086",
         "is_correct": true
       },
       {
-        "text": "The number of spaces",
+        "text": "40 286",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Large numbers are compared from the highest place, not from the final digit.",
-      "hint": "Start on the left and stop at the first different digit."
+      "summary": "Arrange the parts by place: 40 000 + 2000 + 80 + 6 = 42 086.",
+      "hint": "Reorder the parts from highest value to lowest."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-009",
@@ -301,35 +301,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "read_large_numeral",
-    "question": "On the class number line, which numeral is 34,771 written without commas?",
-    "audio_prompt": "On the class number line, which numeral is 34,771 written without commas?",
+    "skill": "read_thousands_group",
+    "question": "Which numeral means one hundred and eight thousand?",
+    "audio_prompt": "Which numeral means one hundred and eight thousand?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-009",
-      "alt_text": "On the class number line: The numeral 34771 displayed on a place-value card."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "34861",
+        "text": "180 000",
         "is_correct": false
       },
       {
-        "text": "33871",
+        "text": "18 000",
         "is_correct": false
       },
       {
-        "text": "34771",
+        "text": "100 008",
+        "is_correct": false
+      },
+      {
+        "text": "108 000",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "34,771 has the same digits and place values as 34771.",
-      "hint": "Read from the highest place and keep every zero."
+      "summary": "There are 108 groups of one thousand, giving 108 000.",
+      "hint": "The word thousand means groups of one thousand."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-010",
@@ -337,35 +338,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "identify_large_place_value",
-    "question": "On the class number line, what is the value of the first digit in 34771?",
-    "audio_prompt": "On the class number line, what is the value of the first digit in 34771?",
+    "skill": "read_six_digits",
+    "question": "How do you read 206 014?",
+    "audio_prompt": "How do you read 206 014?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-010",
-      "alt_text": "On the class number line: The digits of 34771 arranged from ten-thousands to ones."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "30000",
+        "text": "Two hundred and sixty thousand and fourteen",
+        "is_correct": false
+      },
+      {
+        "text": "Two hundred and six thousand and fourteen",
         "is_correct": true
       },
       {
-        "text": "3000",
+        "text": "Twenty-six thousand and fourteen",
         "is_correct": false
       },
       {
-        "text": "300",
+        "text": "Two hundred and six thousand one hundred and forty",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The first digit is in the ten-thousands place, so its value is 30000.",
-      "hint": "Name the place before finding the value."
+      "summary": "Split the numeral into 206 thousands and 014 ones. The final group is fourteen.",
+      "hint": "Split the numeral into two groups of three digits."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-011",
@@ -373,35 +375,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "expand_large_number",
-    "question": "On the class number line, which expanded form represents 34771?",
-    "audio_prompt": "On the class number line, which expanded form represents 34771?",
+    "skill": "written_grouping",
+    "question": "Use spaces to group the digits of 345067 in threes from the right. Which is correct?",
+    "audio_prompt": "Use spaces to group the digits of 345067 in threes from the right. Which is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-011",
-      "alt_text": "On the class number line: The numeral 34771 ready to be partitioned by place value."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "3000 + 400 + 70 + 8",
+        "text": "3 450 67",
         "is_correct": false
       },
       {
-        "text": "30000 + 4000 + 700 + 70 + 1",
+        "text": "34 506 7",
+        "is_correct": false
+      },
+      {
+        "text": "3450 67",
+        "is_correct": false
+      },
+      {
+        "text": "345 067",
         "is_correct": true
-      },
-      {
-        "text": "30000 + 4000 + 70 + 700 + 1",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Each digit contributes its place value.",
-      "hint": "Match each digit to ten-thousands, thousands, hundreds, tens and ones."
+      "summary": "Count three digits from the right: 067. The remaining group is 345.",
+      "hint": "Start grouping at the right-hand end."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-012",
@@ -409,35 +412,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "compare_large_numbers",
-    "question": "On the class number line, which number is greater: 34771 or 35119?",
-    "audio_prompt": "On the class number line, which number is greater: 34771 or 35119?",
+    "skill": "number_from_words_error",
+    "question": "Someone writes twenty thousand and nine as 209. What has been left out?",
+    "audio_prompt": "Someone writes twenty thousand and nine as 209. What has been left out?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-012",
-      "alt_text": "On the class number line: The numerals 34771 and 35119 shown side by side."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "34771",
-        "is_correct": false
-      },
-      {
-        "text": "They are equal",
-        "is_correct": false
-      },
-      {
-        "text": "35119",
+        "text": "Two zero placeholders between 2 and 9",
         "is_correct": true
+      },
+      {
+        "text": "A zero after 9",
+        "is_correct": false
+      },
+      {
+        "text": "A 2 in the thousands place",
+        "is_correct": false
+      },
+      {
+        "text": "A 9 in the tens place",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "35119 is greater because the first different place has the larger digit.",
-      "hint": "Compare from the left."
+      "summary": "The correct numeral is 20 009. Its zeros keep the 2 in the ten-thousands place and the 9 in ones.",
+      "hint": "Place the 2 in ten-thousands and the 9 in ones."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3N01-P-013",
@@ -445,35 +449,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "order_large_numbers",
-    "question": "On the class number line, put 34771, 35119 and 34271 in order from smallest to largest.",
-    "audio_prompt": "On the class number line, put 34771, 35119 and 34271 in order from smallest to largest.",
+    "skill": "rename_hundreds",
+    "question": "A model shows 3 thousands, 4 hundreds, 2 tens and 8 ones. Trade all the thousands for hundreds. What does it show now?",
+    "audio_prompt": "A model shows 3 thousands, 4 hundreds, 2 tens and 8 ones. Trade all the thousands for hundreds. What does it show now?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-013",
-      "alt_text": "On the class number line: Three large-number cards labelled 34771, 35119, and 34271."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "34271, 34771, 35119",
+        "text": "304 hundreds, 2 tens and 8 ones",
+        "is_correct": false
+      },
+      {
+        "text": "30 hundreds, 4 tens and 8 ones",
+        "is_correct": false
+      },
+      {
+        "text": "7 hundreds, 2 tens and 8 ones",
+        "is_correct": false
+      },
+      {
+        "text": "34 hundreds, 2 tens and 8 ones",
         "is_correct": true
-      },
-      {
-        "text": "35119, 34771, 34271",
-        "is_correct": false
-      },
-      {
-        "text": "34771, 34271, 35119",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Compare the highest place first: 34271 < 34771 < 35119.",
-      "hint": "Find the smallest first, then compare the two remaining numbers."
+      "summary": "Three thousands become 30 hundreds. With the existing 4 hundreds, that is 34 hundreds.",
+      "hint": "Each thousand can be traded for ten hundreds."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-014",
@@ -481,35 +486,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "cross_place_value_boundary",
-    "question": "On the class number line, what number is 1 more than 34780?",
-    "audio_prompt": "On the class number line, what number is 1 more than 34780?",
+    "skill": "rename_tens",
+    "question": "Which has the same value as 12 300?",
+    "audio_prompt": "Which has the same value as 12 300?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-014",
-      "alt_text": "On the class number line: 34780 plus one shown as a place-value change."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "34780",
+        "text": "123 tens",
         "is_correct": false
       },
       {
-        "text": "34781",
+        "text": "1230 tens",
         "is_correct": true
       },
       {
-        "text": "34790",
+        "text": "12 300 tens",
+        "is_correct": false
+      },
+      {
+        "text": "1230 hundreds",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Adding 1 to 34780 gives 34781.",
-      "hint": "Watch whether the ones digit causes a regrouping."
+      "summary": "Each ten is worth 10, so 1230 tens make 12 300.",
+      "hint": "A group of ten is ten times one."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-015",
@@ -517,35 +523,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "rename_large_number",
-    "question": "On the class number line, which renaming has the same value as 34771?",
-    "audio_prompt": "On the class number line, which renaming has the same value as 34771?",
+    "skill": "rename_nonstandard",
+    "question": "A collection has 14 thousands and 6 hundreds. Which numeral represents it?",
+    "audio_prompt": "A collection has 14 thousands and 6 hundreds. Which numeral represents it?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-015",
-      "alt_text": "On the class number line: The numeral 34771 beside a hundreds-and-ones renaming frame."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "34 hundreds and 71 ones",
-        "is_correct": false
-      },
-      {
-        "text": "3477 hundreds and 1 ones",
-        "is_correct": false
-      },
-      {
-        "text": "347 hundreds and 71 ones",
+        "text": "14 600",
         "is_correct": true
+      },
+      {
+        "text": "1460",
+        "is_correct": false
+      },
+      {
+        "text": "140 600",
+        "is_correct": false
+      },
+      {
+        "text": "10 460",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "347 hundreds make 34700; adding 71 ones gives 34771.",
-      "hint": "Multiply the hundreds by 100, then add the ones."
+      "summary": "Fourteen thousands make 14 000. Add 600 to get 14 600.",
+      "hint": "Separate fourteen thousands from six hundreds."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-016",
@@ -553,35 +560,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "explain_large_number_comparison",
-    "question": "On the class number line, a counter says 34771 is smaller than 33771 because its last digit is smaller. What should be checked first?",
-    "audio_prompt": "On the class number line, a counter says 34771 is smaller than 33771 because its last digit is smaller. What should be checked first?",
+    "skill": "missing_part",
+    "question": "Complete the representation: 53 072 = 50 000 + ___ + 70 + 2.",
+    "audio_prompt": "Complete the representation: 53 072 = 50 000 + ___ + 70 + 2.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-016",
-      "alt_text": "On the class number line: A comparison between 34771 and 33771 with a question mark."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The highest place value",
+        "text": "30 000",
+        "is_correct": false
+      },
+      {
+        "text": "300",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "3000",
         "is_correct": true
-      },
-      {
-        "text": "The ones digit",
-        "is_correct": false
-      },
-      {
-        "text": "The number of spaces",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Large numbers are compared from the highest place, not from the final digit.",
-      "hint": "Start on the left and stop at the first different digit."
+      "summary": "The missing part is the value of the 3 in the thousands place: 3000.",
+      "hint": "Look for the part between ten-thousands and hundreds."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-017",
@@ -589,35 +597,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "read_large_numeral",
-    "question": "In the number-card game, which numeral is 46,502 written without commas?",
-    "audio_prompt": "In the number-card game, which numeral is 46,502 written without commas?",
+    "skill": "equivalent_representations",
+    "question": "Which pair represents the same number?",
+    "audio_prompt": "Which pair represents the same number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-017",
-      "alt_text": "In the number-card game: The numeral 46502 displayed on a place-value card."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "46592",
+        "text": "28 hundreds and 2800 hundreds",
         "is_correct": false
       },
       {
-        "text": "46502",
+        "text": "280 tens and 28 thousands",
+        "is_correct": false
+      },
+      {
+        "text": "28 thousands and 280 hundreds",
         "is_correct": true
       },
       {
-        "text": "45602",
+        "text": "28 thousands and 28 hundreds",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "46,502 has the same digits and place values as 46502.",
-      "hint": "Read from the highest place and keep every zero."
+      "summary": "28 thousands and 280 hundreds both equal 28 000.",
+      "hint": "Express each side in ones to check its value."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-018",
@@ -625,35 +634,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "identify_large_place_value",
-    "question": "In the number-card game, what is the value of the first digit in 46502?",
-    "audio_prompt": "In the number-card game, what is the value of the first digit in 46502?",
+    "skill": "trade_one_unit",
+    "question": "A chart shows 2 ten-thousands and 7 thousands. Trade one ten-thousand for thousands. Which representation keeps the value?",
+    "audio_prompt": "A chart shows 2 ten-thousands and 7 thousands. Trade one ten-thousand for thousands. Which representation keeps the value?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-018",
-      "alt_text": "In the number-card game: The digits of 46502 arranged from ten-thousands to ones."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "4000",
+        "text": "2 ten-thousands and 17 thousands",
         "is_correct": false
       },
       {
-        "text": "400",
+        "text": "1 ten-thousand and 7 thousands",
         "is_correct": false
       },
       {
-        "text": "40000",
+        "text": "1 ten-thousand and 17 thousands",
         "is_correct": true
+      },
+      {
+        "text": "1 ten-thousand and 8 thousands",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The first digit is in the ten-thousands place, so its value is 40000.",
-      "hint": "Name the place before finding the value."
+      "summary": "One ten-thousand becomes 10 thousands. Add these to the existing 7 thousands.",
+      "hint": "Trading must keep the total unchanged."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-019",
@@ -661,35 +671,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "expand_large_number",
-    "question": "In the number-card game, which expanded form represents 46502?",
-    "audio_prompt": "In the number-card game, which expanded form represents 46502?",
+    "skill": "number_boundary",
+    "question": "What number comes immediately after 19 999?",
+    "audio_prompt": "What number comes immediately after 19 999?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-019",
-      "alt_text": "In the number-card game: The numeral 46502 ready to be partitioned by place value."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "40000 + 6000 + 500 + 0 + 2",
+        "text": "19 100",
+        "is_correct": false
+      },
+      {
+        "text": "20 999",
+        "is_correct": false
+      },
+      {
+        "text": "20 000",
         "is_correct": true
       },
       {
-        "text": "4000 + 600 + 50 + 2",
-        "is_correct": false
-      },
-      {
-        "text": "40000 + 6000 + 50 + 0 + 2",
+        "text": "19 990",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Each digit contributes its place value.",
-      "hint": "Match each digit to ten-thousands, thousands, hundreds, tens and ones."
+      "summary": "Adding one regroups the ones, tens, hundreds and thousands, producing 20 000.",
+      "hint": "Watch the run of 9s at the end."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-020",
@@ -697,35 +708,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "compare_large_numbers",
-    "question": "In the number-card game, which number is greater: 46502 or 46891?",
-    "audio_prompt": "In the number-card game, which number is greater: 46502 or 46891?",
+    "skill": "ten_boundary",
+    "question": "A counter reads 29 995. It increases by one ten. What does it read?",
+    "audio_prompt": "A counter reads 29 995. It increases by one ten. What does it read?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-020",
-      "alt_text": "In the number-card game: The numerals 46502 and 46891 shown side by side."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "46502",
+        "text": "29 996",
         "is_correct": false
       },
       {
-        "text": "46891",
+        "text": "30 000",
+        "is_correct": false
+      },
+      {
+        "text": "30 095",
+        "is_correct": false
+      },
+      {
+        "text": "30 005",
         "is_correct": true
-      },
-      {
-        "text": "They are equal",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "46891 is greater because the first different place has the larger digit.",
-      "hint": "Compare from the left."
+      "summary": "Five more reaches 30 000 and five more reaches 30 005. The ones digit stays 5.",
+      "hint": "Add ten, not one; the ones digit stays unchanged."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-021",
@@ -733,35 +745,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "order_large_numbers",
-    "question": "In the number-card game, put 46502, 46891 and 46002 in order from smallest to largest.",
-    "audio_prompt": "In the number-card game, put 46502, 46891 and 46002 in order from smallest to largest.",
+    "skill": "hundred_boundary",
+    "question": "Which number is one hundred more than 49 950?",
+    "audio_prompt": "Which number is one hundred more than 49 950?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-021",
-      "alt_text": "In the number-card game: Three large-number cards labelled 46502, 46891, and 46002."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "46891, 46502, 46002",
+        "text": "50 950",
         "is_correct": false
       },
       {
-        "text": "46502, 46002, 46891",
+        "text": "50 000",
         "is_correct": false
       },
       {
-        "text": "46002, 46502, 46891",
+        "text": "49 960",
+        "is_correct": false
+      },
+      {
+        "text": "50 050",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Compare the highest place first: 46002 < 46502 < 46891.",
-      "hint": "Find the smallest first, then compare the two remaining numbers."
+      "summary": "Adding 100 crosses 50 000 and finishes at 50 050; the tens and ones stay 50.",
+      "hint": "Keep tens and ones unchanged while adding a hundred."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-022",
@@ -769,35 +782,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "cross_place_value_boundary",
-    "question": "In the number-card game, what number is 1 more than 46511?",
-    "audio_prompt": "In the number-card game, what number is 1 more than 46511?",
+    "skill": "predecessor",
+    "question": "What is the whole number immediately before 100 000?",
+    "audio_prompt": "What is the whole number immediately before 100 000?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-022",
-      "alt_text": "In the number-card game: 46511 plus one shown as a place-value change."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "46512",
+        "text": "99 990",
+        "is_correct": false
+      },
+      {
+        "text": "100 001",
+        "is_correct": false
+      },
+      {
+        "text": "99 999",
         "is_correct": true
       },
       {
-        "text": "46511",
-        "is_correct": false
-      },
-      {
-        "text": "46521",
+        "text": "90 999",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Adding 1 to 46511 gives 46512.",
-      "hint": "Watch whether the ones digit causes a regrouping."
+      "summary": "Subtract one from 100 000. Each of the five lower places becomes 9.",
+      "hint": "Count back one from the six-digit boundary."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-023",
@@ -805,35 +819,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "rename_large_number",
-    "question": "In the number-card game, which renaming has the same value as 46502?",
-    "audio_prompt": "In the number-card game, which renaming has the same value as 46502?",
+    "skill": "explain_carry",
+    "question": "When 1 is added to 38 999, which digits change?",
+    "audio_prompt": "When 1 is added to 38 999, which digits change?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-023",
-      "alt_text": "In the number-card game: The numeral 46502 beside a hundreds-and-ones renaming frame."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "46 hundreds and 2 ones",
+        "text": "Ten-thousands and thousands only",
         "is_correct": false
       },
       {
-        "text": "465 hundreds and 2 ones",
+        "text": "Only the ones",
+        "is_correct": false
+      },
+      {
+        "text": "Only the ten-thousands",
+        "is_correct": false
+      },
+      {
+        "text": "Thousands, hundreds, tens and ones",
         "is_correct": true
-      },
-      {
-        "text": "4650 hundreds and 2 ones",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "465 hundreds make 46500; adding 2 ones gives 46502.",
-      "hint": "Multiply the hundreds by 100, then add the ones."
+      "summary": "38 999 becomes 39 000. The 3 stays unchanged; the other four digits change.",
+      "hint": "Write the new number and compare corresponding places."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N01-P-024",
@@ -841,35 +856,928 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "practice",
-    "skill": "explain_large_number_comparison",
-    "question": "In the number-card game, a counter says 46502 is smaller than 45502 because its last digit is smaller. What should be checked first?",
-    "audio_prompt": "In the number-card game, a counter says 46502 is smaller than 45502 because its last digit is smaller. What should be checked first?",
+    "skill": "missing_count",
+    "question": "Fill the gap when counting in hundreds: 17 850, 17 950, ___, 18 150.",
+    "audio_prompt": "Fill the gap when counting in hundreds: 17 850, 17 950, ___, 18 150.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-p-024",
-      "alt_text": "In the number-card game: A comparison between 46502 and 45502 with a question mark."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The ones digit",
-        "is_correct": false
-      },
-      {
-        "text": "The number of spaces",
-        "is_correct": false
-      },
-      {
-        "text": "The highest place value",
+        "text": "18 050",
         "is_correct": true
+      },
+      {
+        "text": "17 960",
+        "is_correct": false
+      },
+      {
+        "text": "18 000",
+        "is_correct": false
+      },
+      {
+        "text": "18 950",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Add 100 to 17 950. Keep the tens and ones as 50 while crossing the thousands boundary.",
+      "hint": "Check the size of each step before filling the gap."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-025",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "compare_digit_length",
+    "question": "Which number is greater than 98 765?",
+    "audio_prompt": "Which number is greater than 98 765?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "102 003",
+        "is_correct": true
+      },
+      {
+        "text": "89 999",
+        "is_correct": false
+      },
+      {
+        "text": "98 756",
+        "is_correct": false
+      },
+      {
+        "text": "97 865",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "102 003 has six digits and is greater than each of the five-digit numbers.",
+      "hint": "Compare how many digit positions each number has."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-026",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "compare_close",
+    "question": "Which comparison is correct?",
+    "audio_prompt": "Which comparison is correct?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "63 480 < 63 048",
+        "is_correct": false
+      },
+      {
+        "text": "63 408 < 63 480",
+        "is_correct": true
+      },
+      {
+        "text": "63 408 > 63 480",
+        "is_correct": false
+      },
+      {
+        "text": "63 408 = 63 480",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The first different place is tens: 0 tens is less than 8 tens, so 63 408 is smaller.",
+      "hint": "Start comparing from the highest place."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-027",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "comparison_reason",
+    "question": "Why is 81 209 greater than 81 190?",
+    "audio_prompt": "Why is 81 209 greater than 81 190?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Its ones digit is greater, so no other place matters",
+        "is_correct": false
+      },
+      {
+        "text": "Its thousands digit is greater",
+        "is_correct": false
+      },
+      {
+        "text": "The hundreds digit is greater at the first place where they differ",
+        "is_correct": true
+      },
+      {
+        "text": "It has more digits",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Large numbers are compared from the highest place, not from the final digit.",
-      "hint": "Start on the left and stop at the first different digit."
+      "summary": "The ten-thousands and thousands match. Compare hundreds next: 2 hundreds is greater than 1 hundred.",
+      "hint": "Find the first place that differs from the left."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-028",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "equality_parts",
+    "question": "Which number equals 50 thousands and 12 ones?",
+    "audio_prompt": "Which number equals 50 thousands and 12 ones?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "50 012",
+        "is_correct": true
+      },
+      {
+        "text": "512 000",
+        "is_correct": false
+      },
+      {
+        "text": "5012",
+        "is_correct": false
+      },
+      {
+        "text": "50 120",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "50 thousands is 50 000. Twelve ones add 12, giving 50 012.",
+      "hint": "Write the thousands and ones amounts separately."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-029",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "ascending_shared_digits",
+    "question": "Which list is in order from smallest to largest?",
+    "audio_prompt": "Which list is in order from smallest to largest?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "24 068, 26 048, 24 608, 26 408",
+        "is_correct": false
+      },
+      {
+        "text": "26 408, 26 048, 24 608, 24 068",
+        "is_correct": false
+      },
+      {
+        "text": "24 608, 24 068, 26 048, 26 408",
+        "is_correct": false
+      },
+      {
+        "text": "24 068, 24 608, 26 048, 26 408",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The 24-thousand numbers come first. Within each thousands group, compare hundreds next.",
+      "hint": "Compare the thousands groups before hundreds."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-030",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "descending_boundary",
+    "question": "Which list is in order from largest to smallest?",
+    "audio_prompt": "Which list is in order from largest to smallest?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "100 020, 99 999, 100 002, 99 990",
+        "is_correct": false
+      },
+      {
+        "text": "99 999, 99 990, 100 020, 100 002",
+        "is_correct": false
+      },
+      {
+        "text": "100 020, 100 002, 99 999, 99 990",
+        "is_correct": true
+      },
+      {
+        "text": "100 002, 100 020, 99 999, 99 990",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both 100-thousand numbers exceed the 99-thousand numbers. Compare tens and ones within each pair.",
+      "hint": "Find the largest first and then compare the remaining numbers."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-031",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "insert_order",
+    "question": "Which number fits the blank to keep the list increasing? 45 070, ___, 45 700, 46 000.",
+    "audio_prompt": "Which number fits the blank to keep the list increasing? 45 070, ___, 45 700, 46 000.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "46 070",
+        "is_correct": false
+      },
+      {
+        "text": "45 007",
+        "is_correct": false
+      },
+      {
+        "text": "45 607",
+        "is_correct": true
+      },
+      {
+        "text": "45 770",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "45 607 is greater than 45 070 and less than 45 700.",
+      "hint": "Check both neighbours of the blank."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-032",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "rank_context",
+    "question": "Four water tanks have labels showing their capacities: A 18 500 L, B 18 050 L, C 18 505 L, D 18 550 L. Which has the second-largest capacity?",
+    "audio_prompt": "Four water tanks have labels showing their capacities: A 18 500 L, B 18 050 L, C 18 505 L, D 18 550 L. Which has the second-largest capacity?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Tank D",
+        "is_correct": false
+      },
+      {
+        "text": "Tank C",
+        "is_correct": true
+      },
+      {
+        "text": "Tank A",
+        "is_correct": false
+      },
+      {
+        "text": "Tank B",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "In increasing order the capacities are B, A, C, D. Tank C is just below the largest.",
+      "hint": "Find the largest capacity, then the largest remaining one."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-033",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "interval_membership",
+    "question": "Which number is strictly between 70 090 and 70 100?",
+    "audio_prompt": "Which number is strictly between 70 090 and 70 100?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "70 099",
+        "is_correct": true
+      },
+      {
+        "text": "70 100",
+        "is_correct": false
+      },
+      {
+        "text": "70 109",
+        "is_correct": false
+      },
+      {
+        "text": "70 009",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "70 099 is greater than 70 090 and less than 70 100. Strictly between excludes both endpoints.",
+      "hint": "Strictly between means neither endpoint is allowed."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-034",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "line_direction",
+    "question": "On a number line that increases to the right, which number belongs to the left of 32 040?",
+    "audio_prompt": "On a number line that increases to the right, which number belongs to the left of 32 040?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "32 400",
+        "is_correct": false
+      },
+      {
+        "text": "32 041",
+        "is_correct": false
+      },
+      {
+        "text": "32 004",
+        "is_correct": true
+      },
+      {
+        "text": "33 004",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "32 004 is smaller than 32 040, so it belongs to its left.",
+      "hint": "Smaller values belong further left."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-035",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "line_midpoint",
+    "question": "The endpoints of a number-line segment are 12 000 and 14 000. What number is exactly halfway between them?",
+    "audio_prompt": "The endpoints of a number-line segment are 12 000 and 14 000. What number is exactly halfway between them?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01-reviewed.svg#ac9m3n01-p-035",
+      "alt_text": "Number line with equally spaced ticks labelled 12 000, ?, 14 000 from left to right."
+    },
+    "answers": [
+      {
+        "text": "13 000",
+        "is_correct": true
+      },
+      {
+        "text": "12 500",
+        "is_correct": false
+      },
+      {
+        "text": "26 000",
+        "is_correct": false
+      },
+      {
+        "text": "13 500",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The gap is 2000. Half is 1000, so the midpoint is 1000 above 12 000.",
+      "hint": "Split the distance between the endpoints into two equal jumps."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-036",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "line_scale",
+    "question": "Five equally spaced ticks are labelled 21 000, 21 200, A, 21 600, 21 800. What is A?",
+    "audio_prompt": "Five equally spaced ticks are labelled 21 000, 21 200, A, 21 600, 21 800. What is A?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01-reviewed.svg#ac9m3n01-p-036",
+      "alt_text": "Number line with equally spaced ticks labelled 21 000, 21 200, A, 21 600, 21 800 from left to right."
+    },
+    "answers": [
+      {
+        "text": "22 000",
+        "is_correct": false
+      },
+      {
+        "text": "21 400",
+        "is_correct": true
+      },
+      {
+        "text": "21 300",
+        "is_correct": false
+      },
+      {
+        "text": "21 500",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each interval is 200. One interval after 21 200 is 21 400.",
+      "hint": "Find the change between two neighbouring labelled ticks."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N01-P-037",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "maximum_digits",
+    "question": "Use each digit 2, 8, 1, 6 and 4 once. What is the greatest five-digit number?",
+    "audio_prompt": "Use each digit 2, 8, 1, 6 and 4 once. What is the greatest five-digit number?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "84 621",
+        "is_correct": false
+      },
+      {
+        "text": "86 421",
+        "is_correct": true
+      },
+      {
+        "text": "12 468",
+        "is_correct": false
+      },
+      {
+        "text": "86 412",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Put larger digits in higher places: 8, 6, 4, 2, 1.",
+      "hint": "Give the largest digit the highest-value place."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-038",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "minimum_zero",
+    "question": "Use each digit 0, 3, 7, 1 and 5 once. What is the smallest five-digit number?",
+    "audio_prompt": "Use each digit 0, 3, 7, 1 and 5 once. What is the smallest five-digit number?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "10 375",
+        "is_correct": false
+      },
+      {
+        "text": "13 057",
+        "is_correct": false
+      },
+      {
+        "text": "30 157",
+        "is_correct": false
+      },
+      {
+        "text": "10 357",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A five-digit number cannot start with zero. Start with 1, then place the remaining digits in increasing order.",
+      "hint": "The first digit cannot be zero in a five-digit number."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-039",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "constrained_maximum",
+    "question": "Use 1, 3, 5, 7 and 9 once each. Keep 5 in the hundreds place. What is the greatest number possible?",
+    "audio_prompt": "Use 1, 3, 5, 7 and 9 once each. Keep 5 in the hundreds place. What is the greatest number possible?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "97 531",
+        "is_correct": true
+      },
+      {
+        "text": "79 531",
+        "is_correct": false
+      },
+      {
+        "text": "97 513",
+        "is_correct": false
+      },
+      {
+        "text": "95 731",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Place 9 and 7 in the two highest places, keep 5 in hundreds, then place 3 before 1.",
+      "hint": "Reserve the hundreds place before ordering the remaining digits."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-040",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "minimum_above_limit",
+    "question": "Use the digits 0, 2, 4, 6 and 8 once each. What is the smallest number greater than 40 000?",
+    "audio_prompt": "Use the digits 0, 2, 4, 6 and 8 once each. What is the smallest number greater than 40 000?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "40 268",
+        "is_correct": true
+      },
+      {
+        "text": "60 248",
+        "is_correct": false
+      },
+      {
+        "text": "42 068",
+        "is_correct": false
+      },
+      {
+        "text": "40 286",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first digit must be at least 4. Start with 4 and arrange the remaining digits as 0, 2, 6, 8.",
+      "hint": "Choose the lowest possible first digit that meets the limit."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-041",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "unknown_digit_range",
+    "question": "The box is one digit: 54 200 < 54 □00 < 54 600. Which list gives every possible digit?",
+    "audio_prompt": "The box is one digit: 54 200 < 54 □00 < 54 600. Which list gives every possible digit?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "3, 4, 5",
+        "is_correct": true
+      },
+      {
+        "text": "3, 4",
+        "is_correct": false
+      },
+      {
+        "text": "4, 5, 6",
+        "is_correct": false
+      },
+      {
+        "text": "2, 3, 4, 5, 6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The hundreds digit must be greater than 2 and less than 6. Both endpoints are excluded.",
+      "hint": "Check that your digit makes both comparisons true."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-042",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "swap_effect",
+    "question": "Swap the 2 and 7 in 27 406. What happens to the number?",
+    "audio_prompt": "Swap the 2 and 7 in 27 406. What happens to the number?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "It becomes 72 406 and is smaller",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes 72 406 and is greater",
+        "is_correct": true
+      },
+      {
+        "text": "It becomes 27 604 and is greater",
+        "is_correct": false
+      },
+      {
+        "text": "It stays equal because the digits are the same",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The swap puts 7 in ten-thousands and 2 in thousands. Changing positions changes their values.",
+      "hint": "A digit changes value when it changes position."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-043",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "all_clues",
+    "question": "Which number has 6 in the ten-thousands place, 3 in the hundreds place, no tens, and is greater than 65 000?",
+    "audio_prompt": "Which number has 6 in the ten-thousands place, 3 in the hundreds place, no tens, and is greater than 65 000?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "86 304",
+        "is_correct": false
+      },
+      {
+        "text": "68 340",
+        "is_correct": false
+      },
+      {
+        "text": "64 309",
+        "is_correct": false
+      },
+      {
+        "text": "68 304",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "68 304 meets all four clues. The other choices fail the size, tens or ten-thousands condition.",
+      "hint": "Check every clue, not just the first one."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-044",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "zero_explanation",
+    "question": "Why are 70 005 and 7005 different numbers?",
+    "audio_prompt": "Why are 70 005 and 7005 different numbers?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Zeros always add one each",
+        "is_correct": false
+      },
+      {
+        "text": "The 7 is in a different place",
+        "is_correct": true
+      },
+      {
+        "text": "Spaces make a number greater",
+        "is_correct": false
+      },
+      {
+        "text": "The 5 has a different value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "In 70 005 the 7 means 70 000; in 7005 it means 7000. The 5 means five in both.",
+      "hint": "Count the digit positions in each numeral."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-045",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "correct_representation",
+    "question": "A student writes 40 070 = 4 thousands + 7 tens. Which single change fixes the representation?",
+    "audio_prompt": "A student writes 40 070 = 4 thousands + 7 tens. Which single change fixes the representation?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Change 7 tens to 70 hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "Change 4 thousands to 40 hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "Change 4 thousands to 4 ten-thousands",
+        "is_correct": true
+      },
+      {
+        "text": "Change 7 tens to 7 hundreds",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "4 ten-thousands is 40 000 and 7 tens is 70. Together they make 40 070.",
+      "hint": "Find the unit that makes the 4 worth forty thousand."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-046",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "nonstandard_comparison",
+    "question": "Box A contains 125 hundreds of beads. Box B contains 12 thousands of beads. Which comparison is correct?",
+    "audio_prompt": "Box A contains 125 hundreds of beads. Box B contains 12 thousands of beads. Which comparison is correct?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "They are equal: both have 12 thousands",
+        "is_correct": false
+      },
+      {
+        "text": "A has more: 12 500 > 12 000",
+        "is_correct": true
+      },
+      {
+        "text": "B has more: 125 < 12 000",
+        "is_correct": false
+      },
+      {
+        "text": "B has more: 1250 < 12 000",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Convert both representations into numerals before comparing. A contains 12 500 and B contains 12 000.",
+      "hint": "Rename both amounts into the same units."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-047",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "combined_constraints",
+    "question": "Which number is greater than 90 000, less than 91 000, and has 6 in the tens place?",
+    "audio_prompt": "Which number is greater than 90 000, less than 91 000, and has 6 in the tens place?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "91 064",
+        "is_correct": false
+      },
+      {
+        "text": "90 764",
+        "is_correct": true
+      },
+      {
+        "text": "90 647",
+        "is_correct": false
+      },
+      {
+        "text": "89 960",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "90 764 is inside the interval and has 6 tens. Check every condition.",
+      "hint": "Test the size limits and the tens place separately."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N01-P-048",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N01",
+    "bank": "practice",
+    "skill": "reason_without_ones",
+    "question": "Two numbers are 76 4□2 and 76 5□1. Each box can hold any digit. What can you be sure of?",
+    "audio_prompt": "Two numbers are 76 4□2 and 76 5□1. Each box can hold any digit. What can you be sure of?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The second number is always greater",
+        "is_correct": true
+      },
+      {
+        "text": "The numbers can be equal",
+        "is_correct": false
+      },
+      {
+        "text": "The boxes must be known before comparing",
+        "is_correct": false
+      },
+      {
+        "text": "The first number is always greater",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Their highest matching places are 76 thousands. At the next place, 5 hundreds is greater than 4 hundreds, whatever the tens digits are.",
+      "hint": "A difference in hundreds settles this comparison before tens."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-001",
@@ -877,33 +1785,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "read_large_numeral",
-    "question": "At the counting table, which numeral is 58,233 written without commas?",
-    "audio_prompt": "At the counting table, which numeral is 58,233 written without commas?",
+    "skill": "read_notice",
+    "question": "A notice records the attendance as sixty-two thousand and seventeen. Which numeral matches it?",
+    "audio_prompt": "A notice records the attendance as sixty-two thousand and seventeen. Which numeral matches it?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-001",
-      "alt_text": "At the counting table: The numeral 58233 displayed on a place-value card."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "58233",
+        "text": "62 170",
+        "is_correct": false
+      },
+      {
+        "text": "62 017",
         "is_correct": true
       },
       {
-        "text": "58323",
+        "text": "620 017",
         "is_correct": false
       },
       {
-        "text": "57333",
+        "text": "6217",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "58,233 has the same digits and place values as 58233.",
-      "hint": "Read from the highest place and keep every zero."
-    }
+      "summary": "62 thousands and 17 ones make 62 017; the hundreds digit is zero.",
+      "hint": "Keep room for an empty hundreds place."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-002",
@@ -911,33 +1822,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "identify_large_place_value",
-    "question": "At the counting table, what is the value of the first digit in 58233?",
-    "audio_prompt": "At the counting table, what is the value of the first digit in 58233?",
+    "skill": "read_zero_group",
+    "question": "Which number name matches 304 090?",
+    "audio_prompt": "Which number name matches 304 090?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-002",
-      "alt_text": "At the counting table: The digits of 58233 arranged from ten-thousands to ones."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "5000",
+        "text": "Thirty-four thousand and ninety",
         "is_correct": false
       },
       {
-        "text": "50000",
+        "text": "Three hundred and four thousand nine hundred",
+        "is_correct": false
+      },
+      {
+        "text": "Three hundred and forty thousand and nine",
+        "is_correct": false
+      },
+      {
+        "text": "Three hundred and four thousand and ninety",
         "is_correct": true
-      },
-      {
-        "text": "500",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The first digit is in the ten-thousands place, so its value is 50000.",
-      "hint": "Name the place before finding the value."
-    }
+      "summary": "The thousands group is 304 and the final group is 090, meaning ninety.",
+      "hint": "Read the thousands group separately from the final group."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-003",
@@ -945,33 +1859,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "expand_large_number",
-    "question": "At the counting table, which expanded form represents 58233?",
-    "audio_prompt": "At the counting table, which expanded form represents 58233?",
+    "skill": "chart_missing_digit",
+    "question": "A chart has columns hundred-thousands, ten-thousands, thousands, hundreds, tens, ones. Its entries are 1, 0, 7, 0, 2, 5. What number is represented?",
+    "audio_prompt": "A chart has columns hundred-thousands, ten-thousands, thousands, hundreds, tens, ones. Its entries are 1, 0, 7, 0, 2, 5. What number is represented?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-003",
-      "alt_text": "At the counting table: The numeral 58233 ready to be partitioned by place value."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "5000 + 800 + 20 + 6",
+        "text": "170 025",
         "is_correct": false
       },
       {
-        "text": "50000 + 8000 + 20 + 300 + 3",
+        "text": "10 725",
         "is_correct": false
       },
       {
-        "text": "50000 + 8000 + 200 + 30 + 3",
+        "text": "107 025",
         "is_correct": true
+      },
+      {
+        "text": "107 205",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Each digit contributes its place value.",
-      "hint": "Match each digit to ten-thousands, thousands, hundreds, tens and ones."
-    }
+      "summary": "Read all six positions in order, keeping both zero placeholders.",
+      "hint": "Do not skip a column containing zero."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-004",
@@ -979,33 +1896,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "compare_large_numbers",
-    "question": "At the counting table, which number is greater: 58233 or 58663?",
-    "audio_prompt": "At the counting table, which number is greater: 58233 or 58663?",
+    "skill": "reconstruct_part",
+    "question": "A number is 90 000 + 800 + 4. Which numeral represents it?",
+    "audio_prompt": "A number is 90 000 + 800 + 4. Which numeral represents it?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-004",
-      "alt_text": "At the counting table: The numerals 58233 and 58663 shown side by side."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "58663",
+        "text": "90 804",
         "is_correct": true
       },
       {
-        "text": "58233",
+        "text": "9084",
         "is_correct": false
       },
       {
-        "text": "They are equal",
+        "text": "98 004",
+        "is_correct": false
+      },
+      {
+        "text": "90 084",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "58663 is greater because the first different place has the larger digit.",
-      "hint": "Compare from the left."
-    }
+      "summary": "The thousands and tens places have no amount, so both need zero placeholders.",
+      "hint": "Use zero for each missing place-value part."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-005",
@@ -1013,33 +1933,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "order_large_numbers",
-    "question": "At the counting table, put 58233, 58663 and 57733 in order from smallest to largest.",
-    "audio_prompt": "At the counting table, put 58233, 58663 and 57733 in order from smallest to largest.",
+    "skill": "repackage",
+    "question": "A store has 18 bags of 1000 counters and 3 bags of 100 counters. How many full bags of 100 would hold the same total?",
+    "audio_prompt": "A store has 18 bags of 1000 counters and 3 bags of 100 counters. How many full bags of 100 would hold the same total?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-005",
-      "alt_text": "At the counting table: Three large-number cards labelled 58233, 58663, and 57733."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "58663, 58233, 57733",
+        "text": "1830",
         "is_correct": false
       },
       {
-        "text": "57733, 58233, 58663",
+        "text": "1803",
+        "is_correct": false
+      },
+      {
+        "text": "183",
         "is_correct": true
       },
       {
-        "text": "58233, 57733, 58663",
+        "text": "21",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Compare the highest place first: 57733 < 58233 < 58663.",
-      "hint": "Find the smallest first, then compare the two remaining numbers."
-    }
+      "summary": "18 thousands is 180 hundreds. Add the other 3 hundreds to get 183 hundreds.",
+      "hint": "Trade each thousand for ten hundreds."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-006",
@@ -1047,33 +1970,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "cross_place_value_boundary",
-    "question": "At the counting table, what number is 1 more than 58242?",
-    "audio_prompt": "At the counting table, what number is 1 more than 58242?",
+    "skill": "representation_match",
+    "question": "Which representation equals 46 080?",
+    "audio_prompt": "Which representation equals 46 080?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-006",
-      "alt_text": "At the counting table: 58242 plus one shown as a place-value change."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "58242",
+        "text": "46 hundreds and 8 tens",
         "is_correct": false
       },
       {
-        "text": "58252",
+        "text": "4 ten-thousands and 608 hundreds",
         "is_correct": false
       },
       {
-        "text": "58243",
+        "text": "460 thousands and 8 ones",
+        "is_correct": false
+      },
+      {
+        "text": "45 thousands and 108 tens",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Adding 1 to 58242 gives 58243.",
-      "hint": "Watch whether the ones digit causes a regrouping."
-    }
+      "summary": "45 000 + 1080 = 46 080. Regrouping can put more than nine units in a named place.",
+      "hint": "Add the values of both parts, even if one part has more than nine units."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-007",
@@ -1081,33 +2007,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "rename_large_number",
-    "question": "At the counting table, which renaming has the same value as 58233?",
-    "audio_prompt": "At the counting table, which renaming has the same value as 58233?",
+    "skill": "rollover_display",
+    "question": "A display reads 79 999. After one more item is counted, what does it show?",
+    "audio_prompt": "A display reads 79 999. After one more item is counted, what does it show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-007",
-      "alt_text": "At the counting table: The numeral 58233 beside a hundreds-and-ones renaming frame."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "582 hundreds and 33 ones",
+        "text": "79 100",
+        "is_correct": false
+      },
+      {
+        "text": "80 000",
         "is_correct": true
       },
       {
-        "text": "58 hundreds and 33 ones",
+        "text": "80 999",
         "is_correct": false
       },
       {
-        "text": "5823 hundreds and 3 ones",
+        "text": "79 990",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "582 hundreds make 58200; adding 33 ones gives 58233.",
-      "hint": "Multiply the hundreds by 100, then add the ones."
-    }
+      "summary": "Adding one causes regrouping through all four lower places and raises 7 ten-thousands to 8.",
+      "hint": "Think about the next ten-thousand boundary."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-008",
@@ -1115,33 +2044,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "explain_large_number_comparison",
-    "question": "At the counting table, a counter says 58233 is smaller than 57233 because its last digit is smaller. What should be checked first?",
-    "audio_prompt": "At the counting table, a counter says 58233 is smaller than 57233 because its last digit is smaller. What should be checked first?",
+    "skill": "backward_hundreds",
+    "question": "A counter decreases by 100 each time: 60 040, 59 940, ___. What comes next?",
+    "audio_prompt": "A counter decreases by 100 each time: 60 040, 59 940, ___. What comes next?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-008",
-      "alt_text": "At the counting table: A comparison between 58233 and 57233 with a question mark."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The ones digit",
+        "text": "58 940",
         "is_correct": false
       },
       {
-        "text": "The highest place value",
+        "text": "59 930",
+        "is_correct": false
+      },
+      {
+        "text": "59 840",
         "is_correct": true
       },
       {
-        "text": "The number of spaces",
+        "text": "59 040",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Large numbers are compared from the highest place, not from the final digit.",
-      "hint": "Start on the left and stop at the first different digit."
-    }
+      "summary": "Subtract one hundred from 59 940. The tens and ones stay 40.",
+      "hint": "Count back one hundred, keeping the last two digits."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-009",
@@ -1149,33 +2081,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "read_large_numeral",
-    "question": "In the place-value challenge, which numeral is 69,964 written without commas?",
-    "audio_prompt": "In the place-value challenge, which numeral is 69,964 written without commas?",
+    "skill": "order_representations",
+    "question": "Which list is in increasing order?",
+    "audio_prompt": "Which list is in increasing order?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-009",
-      "alt_text": "In the place-value challenge: The numeral 69964 displayed on a place-value card."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "70054",
+        "text": "80 005, 8050, 80 050, 80 500",
         "is_correct": false
       },
       {
-        "text": "69064",
+        "text": "8050, 80 050, 80 005, 80 500",
         "is_correct": false
       },
       {
-        "text": "69964",
+        "text": "80 500, 80 050, 80 005, 8050",
+        "is_correct": false
+      },
+      {
+        "text": "8050, 80 005, 80 050, 80 500",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "69,964 has the same digits and place values as 69964.",
-      "hint": "Read from the highest place and keep every zero."
-    }
+      "summary": "8050 has four digits. For the remaining numbers, compare hundreds, then tens, then ones.",
+      "hint": "Place the four-digit number before the five-digit numbers."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-010",
@@ -1183,33 +2118,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "identify_large_place_value",
-    "question": "In the place-value challenge, what is the value of the first digit in 69964?",
-    "audio_prompt": "In the place-value challenge, what is the value of the first digit in 69964?",
+    "skill": "rank_records",
+    "question": "Four records show 105 090, 105 900, 105 009 and 105 099. Which is third when ordered from largest to smallest?",
+    "audio_prompt": "Four records show 105 090, 105 900, 105 009 and 105 099. Which is third when ordered from largest to smallest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-010",
-      "alt_text": "In the place-value challenge: The digits of 69964 arranged from ten-thousands to ones."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "60000",
+        "text": "105 009",
+        "is_correct": false
+      },
+      {
+        "text": "105 099",
+        "is_correct": false
+      },
+      {
+        "text": "105 900",
+        "is_correct": false
+      },
+      {
+        "text": "105 090",
         "is_correct": true
-      },
-      {
-        "text": "6000",
-        "is_correct": false
-      },
-      {
-        "text": "600",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The first digit is in the ten-thousands place, so its value is 60000.",
-      "hint": "Name the place before finding the value."
-    }
+      "summary": "The descending order is 105 900, 105 099, 105 090, 105 009.",
+      "hint": "Order all four records, then select the third."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-011",
@@ -1217,33 +2155,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "expand_large_number",
-    "question": "In the place-value challenge, which expanded form represents 69964?",
-    "audio_prompt": "In the place-value challenge, which expanded form represents 69964?",
+    "skill": "scale_transfer",
+    "question": "A number line has four equally spaced ticks labelled 48 500, X, 49 500, 50 000. What is X?",
+    "audio_prompt": "A number line has four equally spaced ticks labelled 48 500, X, 49 500, 50 000. What is X?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-011",
-      "alt_text": "In the place-value challenge: The numeral 69964 ready to be partitioned by place value."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01-reviewed.svg#ac9m3n01-t-011",
+      "alt_text": "Number line with equally spaced ticks labelled 48 500, X, 49 500, 50 000 from left to right."
     },
     "answers": [
       {
-        "text": "6000 + 900 + 90 + 10",
-        "is_correct": false
-      },
-      {
-        "text": "60000 + 9000 + 900 + 60 + 4",
+        "text": "49 000",
         "is_correct": true
       },
       {
-        "text": "60000 + 9000 + 90 + 600 + 4",
+        "text": "48 600",
+        "is_correct": false
+      },
+      {
+        "text": "49 250",
+        "is_correct": false
+      },
+      {
+        "text": "48 750",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Each digit contributes its place value.",
-      "hint": "Match each digit to ten-thousands, thousands, hundreds, tens and ones."
-    }
+      "summary": "The last interval is 500, so every interval is 500. One step after 48 500 is 49 000.",
+      "hint": "Use the spacing between the last two labels."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-012",
@@ -1251,33 +2194,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "compare_large_numbers",
-    "question": "In the place-value challenge, which number is greater: 69964 or 70435?",
-    "audio_prompt": "In the place-value challenge, which number is greater: 69964 or 70435?",
+    "skill": "max_below_limit",
+    "question": "Use each digit 0, 1, 4, 6 and 9 once. What is the greatest five-digit number below 60 000?",
+    "audio_prompt": "Use each digit 0, 1, 4, 6 and 9 once. What is the greatest five-digit number below 60 000?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-012",
-      "alt_text": "In the place-value challenge: The numerals 69964 and 70435 shown side by side."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "69964",
+        "text": "46 910",
         "is_correct": false
       },
       {
-        "text": "They are equal",
-        "is_correct": false
-      },
-      {
-        "text": "70435",
+        "text": "49 610",
         "is_correct": true
+      },
+      {
+        "text": "61 940",
+        "is_correct": false
+      },
+      {
+        "text": "59 610",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "70435 is greater because the first different place has the larger digit.",
-      "hint": "Compare from the left."
-    }
+      "summary": "The greatest available first digit below 6 is 4. Arrange the remaining digits as 9, 6, 1, 0. The choice starting with 5 uses an unavailable digit.",
+      "hint": "Check both the digit supply and the upper limit."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-013",
@@ -1285,33 +2231,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "order_large_numbers",
-    "question": "In the place-value challenge, put 69964, 70435 and 69464 in order from smallest to largest.",
-    "audio_prompt": "In the place-value challenge, put 69964, 70435 and 69464 in order from smallest to largest.",
+    "skill": "minimum_repeated_zero",
+    "question": "Use 0, 0, 2, 5 and 8 once each. What is the smallest five-digit number?",
+    "audio_prompt": "Use 0, 0, 2, 5 and 8 once each. What is the smallest five-digit number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-013",
-      "alt_text": "In the place-value challenge: Three large-number cards labelled 69964, 70435, and 69464."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "69464, 69964, 70435",
+        "text": "50 028",
+        "is_correct": false
+      },
+      {
+        "text": "20 085",
+        "is_correct": false
+      },
+      {
+        "text": "20 058",
         "is_correct": true
       },
       {
-        "text": "70435, 69964, 69464",
-        "is_correct": false
-      },
-      {
-        "text": "69964, 69464, 70435",
+        "text": "25 008",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Compare the highest place first: 69464 < 69964 < 70435.",
-      "hint": "Find the smallest first, then compare the two remaining numbers."
-    }
+      "summary": "Start with the smallest non-zero digit, 2. Then use 0, 0, 5, 8 in that order.",
+      "hint": "Use the smallest non-zero digit first."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-014",
@@ -1319,33 +2268,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "cross_place_value_boundary",
-    "question": "In the place-value challenge, what number is 1 more than 69973?",
-    "audio_prompt": "In the place-value challenge, what number is 1 more than 69973?",
+    "skill": "digit_possibilities",
+    "question": "Which digits can replace the box so that 28 460 < 28 4□5 < 28 490?",
+    "audio_prompt": "Which digits can replace the box so that 28 460 < 28 4□5 < 28 490?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-014",
-      "alt_text": "In the place-value challenge: 69973 plus one shown as a place-value change."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "69973",
+        "text": "6, 7, 8, 9",
         "is_correct": false
       },
       {
-        "text": "69974",
+        "text": "6, 7, 8",
         "is_correct": true
       },
       {
-        "text": "69983",
+        "text": "5, 6, 7, 8",
+        "is_correct": false
+      },
+      {
+        "text": "7, 8",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Adding 1 to 69973 gives 69974.",
-      "hint": "Watch whether the ones digit causes a regrouping."
-    }
+      "summary": "With 6, the number is 28 465, already above the lower limit. With 9, it is 28 495, above the upper limit.",
+      "hint": "Try the boundary digits as well as those in between."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-015",
@@ -1353,33 +2305,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "rename_large_number",
-    "question": "In the place-value challenge, which renaming has the same value as 69964?",
-    "audio_prompt": "In the place-value challenge, which renaming has the same value as 69964?",
+    "skill": "comparison_claim",
+    "question": "A student says 93 018 is greater than 93 180 because 8 is greater than 0. Which response fixes the reasoning?",
+    "audio_prompt": "A student says 93 018 is greater than 93 180 because 8 is greater than 0. Which response fixes the reasoning?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-015",
-      "alt_text": "In the place-value challenge: The numeral 69964 beside a hundreds-and-ones renaming frame."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "69 hundreds and 64 ones",
-        "is_correct": false
-      },
-      {
-        "text": "6996 hundreds and 4 ones",
-        "is_correct": false
-      },
-      {
-        "text": "699 hundreds and 64 ones",
+        "text": "Compare hundreds first: 0 hundreds is less than 1 hundred",
         "is_correct": true
+      },
+      {
+        "text": "Compare thousands only: both have 3 thousands",
+        "is_correct": false
+      },
+      {
+        "text": "Compare ones first: 8 ones is greater than 0 ones",
+        "is_correct": false
+      },
+      {
+        "text": "Count spaces: both numbers have one space",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "699 hundreds make 69900; adding 64 ones gives 69964.",
-      "hint": "Multiply the hundreds by 100, then add the ones."
-    }
+      "summary": "The first different place from the left is hundreds. Therefore 93 018 is less than 93 180, regardless of the ones.",
+      "hint": "Compare from the left, not from the ones."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N01-T-016",
@@ -1387,32 +2342,35 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N01",
     "bank": "test",
-    "skill": "explain_large_number_comparison",
-    "question": "In the place-value challenge, a counter says 69964 is smaller than 68964 because its last digit is smaller. What should be checked first?",
-    "audio_prompt": "In the place-value challenge, a counter says 69964 is smaller than 68964 because its last digit is smaller. What should be checked first?",
+    "skill": "rename_and_order",
+    "question": "A represents 240 hundreds. B represents 23 thousands and 9 hundreds. C represents 2 ten-thousands and 41 hundreds. Which order is smallest to largest?",
+    "audio_prompt": "A represents 240 hundreds. B represents 23 thousands and 9 hundreds. C represents 2 ten-thousands and 41 hundreds. Which order is smallest to largest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n01.svg#ac9m3n01-t-016",
-      "alt_text": "In the place-value challenge: A comparison between 69964 and 68964 with a question mark."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The highest place value",
+        "text": "B, A, C",
         "is_correct": true
       },
       {
-        "text": "The ones digit",
+        "text": "B, C, A",
         "is_correct": false
       },
       {
-        "text": "The number of spaces",
+        "text": "A, B, C",
+        "is_correct": false
+      },
+      {
+        "text": "C, A, B",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Large numbers are compared from the highest place, not from the final digit.",
-      "hint": "Start on the left and stop at the first different digit."
-    }
+      "summary": "A = 24 000, B = 23 900 and C = 24 100. Thus B < A < C.",
+      "hint": "Convert each description into a numeral before ordering."
+    },
+    "difficulty": 3
   }
 ]
