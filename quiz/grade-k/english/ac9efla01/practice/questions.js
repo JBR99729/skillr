@@ -5,14 +5,22 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You cannot find your hat at school. What could you ask your teacher?",
-    "explanation": "This is a relevant question that asks for the information you need.",
+    "question": "You need help with a classroom activity. Which words best suit speaking to your teacher?",
+    "explanation": "A polite request suits a student speaking to a teacher at school.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "A polite request suits a student speaking to a teacher at school."
+    },
     "printable": true,
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 1,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Where is my hat?",
-      "My hat is blue.",
-      "I like hats."
+      "Could you help me, please?",
+      "Move over now.",
+      "That is my pencil."
     ],
     "correct": 0
   },
@@ -21,46 +29,70 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You want to know your friend's name. What could you ask?",
-    "explanation": "This question asks your friend for their name.",
+    "question": "At home, your brother has the blocks. Which words best suit asking for a turn?",
+    "explanation": "Family language can still be polite, but it is usually more familiar than formal school language.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "Family language can still be polite, but it is usually more familiar than formal school language."
+    },
     "printable": true,
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 2,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "What is your name?",
-      "My name is Sam.",
-      "I have a friend."
+      "Dear Principal, I request the blocks.",
+      "Can I have a turn after you?",
+      "Everyone line up now."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": "ac9efla01-p03",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You do not know where to put your schoolbag. What could you ask?",
-    "explanation": "This is a useful question for the school situation.",
+    "question": "You meet the principal in the school office. What is the best greeting?",
+    "explanation": "A respectful greeting suits a school adult you may not know well.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "A respectful greeting suits a school adult you may not know well."
+    },
     "printable": true,
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 3,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Where should I put my bag?",
-      "This is my bag.",
-      "I like my bag."
+      "Hey, move!",
+      "This is my lunch.",
+      "Good morning, Ms Singh."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9efla01-p04",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You want to know what game your friend is playing. What could you say?",
-    "explanation": "This asks your friend for the information you want.",
+    "question": "Your friend asks you to play at recess. Which answer sounds friendly and suited to a friend?",
+    "explanation": "Friendly everyday words suit talking with a classmate.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "Friendly everyday words suit talking with a classmate."
+    },
     "printable": true,
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 4,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "What game are you playing?",
-      "That game is red.",
-      "I have a game."
+      "Yes, I would like to play.",
+      "Please complete the roll.",
+      "I am writing to inform you."
     ],
     "correct": 0
   },
@@ -69,46 +101,70 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Your teacher gives you a new activity. You do not know what to do. What could you ask?",
-    "explanation": "This question helps you find out what to do.",
+    "question": "You want your teacher to repeat an instruction. Which words suit the classroom?",
+    "explanation": "The words are clear and polite for speaking to a teacher.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "The words are clear and polite for speaking to a teacher."
+    },
     "printable": true,
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 5,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "What do I do first?",
-      "I have a pencil.",
-      "This is easy."
+      "Say it again!",
+      "Could you say that again, please?",
+      "My dog is brown."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": "ac9efla01-p06",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You want to know when lunch starts. What could you ask?",
-    "explanation": "This question asks about the time of lunch.",
+    "question": "At home, you want more rice at dinner. Which words best suit talking to a parent or carer?",
+    "explanation": "This request suits a child speaking politely at home.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "This request suits a child speaking politely at home."
+    },
     "printable": true,
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 6,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "When is lunchtime?",
-      "Where is my lunchbox?",
-      "I have an apple."
+      "Students, open your books.",
+      "Good afternoon, Principal.",
+      "May I have some more rice, please?"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9efla01-p07",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Your friend has a new book. You want to know what it is about. What could you ask?",
-    "explanation": "This is a friendly, relevant question about the book.",
+    "question": "Your class is sitting on the mat. Which words suit the teacher speaking to the class?",
+    "explanation": "The teacher's words are for a school group.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "The teacher's words are for a school group."
+    },
     "printable": true,
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 7,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "What is your book about?",
-      "Give me the book.",
-      "My book is bigger."
+      "Please sit where you can see the book.",
+      "Can I come to your birthday?",
+      "Mum, where is my jumper?"
     ],
     "correct": 0
   },
@@ -117,46 +173,70 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You do not know where the bathroom is at a shop. What is a good question?",
-    "explanation": "This is a clear and polite question to an unfamiliar adult.",
+    "question": "You accidentally bump a classmate. What could you say?",
+    "explanation": "A short apology is suitable language with a classmate.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "A short apology is suitable language with a classmate."
+    },
     "printable": true,
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 8,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Excuse me, where is the bathroom?",
-      "I have to go.",
-      "Bathroom!"
+      "Give me that.",
+      "Sorry, are you okay?",
+      "This sign says stop."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": "ac9efla01-p09",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You need help from your teacher. What could you say?",
-    "explanation": "This is a polite request that suits talking to a teacher.",
+    "question": "Which sentence is more suited to school assembly than the playground?",
+    "explanation": "Assembly language is usually more formal and organised.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "Assembly language is usually more formal and organised."
+    },
     "printable": true,
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 9,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Can you help me, please?",
-      "Help me now!",
-      "I have a bag."
+      "Do you want to chase me?",
+      "Pass the ball quickly!",
+      "Please welcome our visitor."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9efla01-p10",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You want to know why your friend is laughing. What could you ask?",
-    "explanation": "This is a relevant question to your friend.",
+    "question": "You are talking to a new student. Which words help build a friendly relationship?",
+    "explanation": "The words invite the new student kindly.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "The words invite the new student kindly."
+    },
     "printable": true,
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 10,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Why are you laughing?",
-      "Stop laughing.",
-      "I can laugh too."
+      "Would you like to sit with us?",
+      "You cannot sit here.",
+      "Teacher, mark the roll."
     ],
     "correct": 0
   },
@@ -165,46 +245,70 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You need a pencil from your teacher. What is the best thing to say?",
-    "explanation": "This is a clear, polite request to a teacher.",
+    "question": "You need to ask the librarian for a book. Which words suit that person and place?",
+    "explanation": "A polite question suits asking an adult helper at school.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "A polite question suits asking an adult helper at school."
+    },
     "printable": true,
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 11,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Can I please have a pencil?",
-      "Pencil!",
-      "Give me one."
+      "Hey, give me animals.",
+      "Excuse me, where are the animal books?",
+      "My sister likes cats."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": "ac9efla01-p12",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Your friend has the glue. You need it next. What could you say?",
-    "explanation": "This friendly request suits talking to a classmate.",
+    "question": "Your dad asks what happened at school. Which answer suits home talk?",
+    "explanation": "The child is sharing school news with family at home.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "The child is sharing school news with family at home."
+    },
     "printable": true,
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 12,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Can I use the glue when you're finished?",
-      "That's mine now.",
-      "Give it!"
+      "Class, pack your bags.",
+      "Please sign in at the office.",
+      "We painted leaves today."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9efla01-p13",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You need help tying your shoelace. What could you say to Dad?",
-    "explanation": "This clearly asks a parent for help.",
+    "question": "Which words suit a teacher giving a safety reminder?",
+    "explanation": "A teacher may use clear, polite directions to keep students safe.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "A teacher may use clear, polite directions to keep students safe."
+    },
     "printable": true,
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 13,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Dad, can you help me tie my shoelace?",
-      "My shoes are blue.",
-      "Shoes!"
+      "Walk inside, please.",
+      "Can I sleep at your house?",
+      "I prefer the red one."
     ],
     "correct": 0
   },
@@ -213,46 +317,70 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You would like to join your friend's game. What could you say?",
-    "explanation": "This is a friendly request between friends.",
+    "question": "You want a friend's crayon. Which wording best suits the relationship?",
+    "explanation": "A polite everyday request suits a friend.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "A polite everyday request suits a friend."
+    },
     "printable": true,
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 14,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Can I play too?",
-      "Go away.",
-      "I'm playing now."
+      "You must give me the crayon.",
+      "Can I borrow your crayon, please?",
+      "Dear families, return forms."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": "ac9efla01-p15",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You want some water at home. What could you say?",
-    "explanation": "This is a clear and polite request to a family member.",
+    "question": "Which is the most respectful way to ask an office adult for help?",
+    "explanation": "Respectful school language often begins with words such as 'excuse me'.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "Respectful school language often begins with words such as 'excuse me'."
+    },
     "printable": true,
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 15,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Mum, can I have some water, please?",
-      "Water now!",
-      "I see water."
+      "Move. I am lost.",
+      "That game is fun.",
+      "Excuse me, I need help finding my class."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9efla01-p16",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Your teacher is talking to another child. You need help. What should you do?",
-    "explanation": "Waiting and asking politely suits the school situation.",
+    "question": "Your teacher says, “Please put your hand up.” Why do those words suit school?",
+    "explanation": "Classroom language often helps a group listen and take turns.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "Classroom language often helps a group listen and take turns."
+    },
     "printable": true,
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 16,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Wait, then ask, ‘Can you help me, please?’",
-      "Shout, ‘HELP ME!’",
-      "Grab the teacher."
+      "They help the class take turns speaking.",
+      "They tell someone what food you like.",
+      "They are a bedtime story title."
     ],
     "correct": 0
   },
@@ -261,46 +389,70 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You want your brother to pass you a crayon. What could you say?",
-    "explanation": "This is a clear request to a sibling.",
+    "question": "Which words best suit talking to a baby cousin?",
+    "explanation": "Language changes with the age and relationship of the listener.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "Language changes with the age and relationship of the listener."
+    },
     "printable": true,
+    "difficulty": 3,
+    "difficultyTier": "stretch",
+    "sequencePriority": 17,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Can you pass me the crayon, please?",
-      "That's a crayon.",
-      "I don't like crayons."
+      "Please complete your worksheet.",
+      "Hello, little one.",
+      "Good morning, Principal."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": "ac9efla01-p18",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You are at a shop and would like an apple. What could you say?",
-    "explanation": "This polite request suits talking to a shopkeeper.",
+    "question": "You ask a friend to stop pushing in line. Which words are firm but suitable?",
+    "explanation": "The words explain the problem without being rude.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "The words explain the problem without being rude."
+    },
     "printable": true,
+    "difficulty": 3,
+    "difficultyTier": "stretch",
+    "sequencePriority": 18,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Can I please have an apple?",
-      "Apple!",
-      "Give me that!"
+      "You are the worst.",
+      "Dear teacher, I resign.",
+      "Please stop pushing me."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9efla01-p19",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You cannot open your lunchbox. What could you say to your teacher?",
-    "explanation": "This clearly and politely asks the teacher for help.",
+    "question": "Which words suit a parent reminding a child before school?",
+    "explanation": "The parent is speaking in a home-and-family situation.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "The parent is speaking in a home-and-family situation."
+    },
     "printable": true,
+    "difficulty": 3,
+    "difficultyTier": "stretch",
+    "sequencePriority": 19,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Can you please help me open this?",
-      "Lunchboxes are hard.",
-      "Open!"
+      "Remember your hat and drink bottle.",
+      "Students, open to page ten.",
+      "Can I play chase?"
     ],
     "correct": 0
   },
@@ -309,46 +461,70 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Your friend has put a bag where you need to sit. What could you say?",
-    "explanation": "This is a friendly request that explains what you need.",
+    "question": "You thank a canteen helper. Which words suit the helper?",
+    "explanation": "Thanks are respectful and suited to an adult helper.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "Thanks are respectful and suited to an adult helper."
+    },
     "printable": true,
+    "difficulty": 3,
+    "difficultyTier": "stretch",
+    "sequencePriority": 20,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Could you please move your bag a little?",
-      "MOVE!",
-      "You're sitting there."
+      "You are my best friend.",
+      "Thank you for my lunch.",
+      "Open your homework book."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": "ac9efla01-p21",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You need help from your teacher. What could you say?",
-    "explanation": "‘I think’ tells your opinion.",
+    "question": "Which words show school language between teacher and student?",
+    "explanation": "Lining up at the door is a common classroom instruction.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "Lining up at the door is a common classroom instruction."
+    },
     "printable": true,
+    "difficulty": 3,
+    "difficultyTier": "stretch",
+    "sequencePriority": 21,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Can you help me, please?",
-      "Help me now!",
-      "I have a bag."
+      "Grandma, can I help cook?",
+      "Come to my cubby.",
+      "Please line up at the door."
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9efla01-p22",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You want to join a friend's game. What could you say?",
-    "explanation": "This expresses your opinion about the pictures.",
+    "question": "You want to join a playground game. What could you say?",
+    "explanation": "This is friendly playground language for classmates.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "This is friendly playground language for classmates."
+    },
     "printable": true,
+    "difficulty": 3,
+    "difficultyTier": "stretch",
+    "sequencePriority": 22,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Can I play too?",
-      "Go away.",
-      "Give me the game."
+      "May I play too?",
+      "Where is the principal's office?",
+      "This book has a title."
     ],
     "correct": 0
   },
@@ -357,287 +533,47 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "You cannot find the bathroom at a shop. What could you ask an adult?",
-    "explanation": "This tells your opinion about the story.",
+    "question": "Which words suit a child speaking to a grandparent?",
+    "explanation": "The words suit a family relationship at home.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "The words suit a family relationship at home."
+    },
     "printable": true,
+    "difficulty": 3,
+    "difficultyTier": "stretch",
+    "sequencePriority": 23,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Excuse me, where is the bathroom?",
-      "Bathroom!",
-      "I like shops."
+      "Class, pencils down.",
+      "Can you tell me that story again?",
+      "Please swipe the screen."
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": "ac9efla01-p24",
     "curriculumCode": "AC9EFLA01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Your brother has the red crayon. What could you say?",
-    "explanation": "This tells what someone thinks about a colour.",
+    "question": "Why might you say “Good morning, Mr Lee” at school but “Hi Dad” at home?",
+    "explanation": "Language changes to suit the context and relationship.",
+    "structuredExplanation": {
+      "approach": "Read the situation, notice the text or language feature, then choose the answer that best fits the Foundation English idea.",
+      "reasoning": "Language changes to suit the context and relationship."
+    },
     "printable": true,
+    "difficulty": 3,
+    "difficultyTier": "stretch",
+    "sequencePriority": 24,
+    "qualitySchema": "20260906-foundation-english-la01-la05-ixl-standard:text-only-balanced-distractors",
     "type": "single",
     "answers": [
-      "Can I use the red crayon next, please?",
-      "Mine!",
-      "Crayons are red."
+      "The words must always rhyme.",
+      "Books always start with greetings.",
+      "The people and places are different."
     ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p25",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "You need help from your teacher. What could you say?",
-    "explanation": "This gives a relevant opinion about the drawing.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Can you help me, please?",
-      "Help me now!",
-      "I have a bag."
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p26",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "The teacher asks which playground activity you enjoy. What could you say?",
-    "explanation": "This answers the teacher by giving your opinion.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "I like the swings best.",
-      "Where is the playground?",
-      "Can I have a pencil?"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p27",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "Which child is giving an opinion?",
-    "explanation": "Leo is telling what he thinks about strawberries.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Leo: ‘I think strawberries taste great.’",
-      "Ben: ‘Can I have some milk?’",
-      "Ava: ‘Where is my cup?’"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p28",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "Your parent asks which shirt you prefer. What could you say?",
-    "explanation": "This clearly expresses your preference.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "I like the green one better.",
-      "Where are my shoes?",
-      "Give me a shirt."
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p29",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "You need help from your teacher. Which is the better choice?",
-    "explanation": "This respectful request suits the teacher–student relationship.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Excuse me, can you help me, please?",
-      "Hey! Do this!",
-      "You!"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p30",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "You are buying a muffin from a shopkeeper. What could you say?",
-    "explanation": "This polite request suits a customer speaking to a shopkeeper.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Can I please have that muffin?",
-      "Give me that one!",
-      "Muffin!"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p31",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "You want your friend to come and play. What could you say?",
-    "explanation": "This is a friendly invitation between friends.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Would you like to play with me?",
-      "You must play.",
-      "Go away."
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p32",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "Your teacher asks you to put away the blocks. What is a suitable response?",
-    "explanation": "This response suits a student speaking to a teacher.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Okay, I'll put them away.",
-      "No! You do it!",
-      "Blocks!"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p33",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "You need help from your teacher. What could you say?",
-    "explanation": "This is clear and polite language for a customer.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Can you help me, please?",
-      "Help me now!",
-      "I have a bag."
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p34",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "Your friend accidentally takes your pencil. What could you say?",
-    "explanation": "This calmly explains the problem and makes a friendly request.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "I think that's my pencil. Can I have it back, please?",
-      "You're bad!",
-      "Give it NOW!"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p35",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "You cannot find the bathroom at a shop. What could you ask an adult?",
-    "explanation": "This gives a clear choice in a way that suits talking to a teacher.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Excuse me, where is the bathroom?",
-      "Bathroom!",
-      "I like shops."
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p36",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "Max says to his teacher, ‘Give me the scissors!’ Which is a better way to ask?",
-    "explanation": "This changes the command into a polite school request.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Can I please have the scissors?",
-      "Scissors!",
-      "I want them now!"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p37",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "Ella wants to play with Mia. Ella says, ‘Move! I'm playing!’ What could she say instead?",
-    "explanation": "This is a friendly way to ask to join a game.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Can I play with you?",
-      "Move faster!",
-      "That's my game now."
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p38",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "Noah cannot find his classroom. He sees a teacher. What should he say?",
-    "explanation": "This is a clear and respectful request to a teacher.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Excuse me, can you help me find my classroom?",
-      "ROOM!",
-      "You! Come here!"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p39",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "Zara wants her sister's blue crayon. Which is the best choice?",
-    "explanation": "This request suits talking to a sibling and taking turns.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Can I use the blue crayon when you're finished?",
-      "Give it!",
-      "That's mine."
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9efla01-p40",
-    "curriculumCode": "AC9EFLA01",
-    "bank": "practice",
-    "sourceType": "Multiple choice",
-    "question": "You want a shopkeeper to help you find the milk. Which is the best choice?",
-    "explanation": "This polite question suits talking to a shopkeeper.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Excuse me, can you please show me where the milk is?",
-      "Where's milk?",
-      "You need to find milk."
-    ],
-    "correct": 0
+    "correct": 2
   }
 ];
