@@ -4,757 +4,960 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la02-p-001",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "preference reason",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The beetle wore boots and danced on a spoon.' Which response explains enjoyment of the line?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The beetle wore boots and danced on a spoon.' Which response explains enjoyment of the line?",
     "audioPrompt": "Read: 'The beetle wore boots and danced on a spoon.' Which response explains enjoyment of the line?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "I like the silly picture of a beetle dancing in boots.",
-      "The line is printed in a book.",
-      "I have seen a beetle before."
+      {
+        "text": "I like the silly picture of a beetle dancing in boots.",
+        "is_correct": true
+      },
+      {
+        "text": "The line is printed in a book.",
+        "is_correct": false
+      },
+      {
+        "text": "I have seen a beetle before.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "The response links enjoyment to a specific amusing image in the words.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "The response links enjoyment to a specific amusing image in the words.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The response links enjoyment to a specific amusing image in the words.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-002",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "sound response",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Read aloud: 'Tip, tap, tiny rain; tip, tap, on the pane.' Which reason supports liking its sound?",
+    "type": "multiple-choice",
+    "prompt": "Read aloud: 'Tip, tap, tiny rain; tip, tap, on the pane.' Which reason supports liking its sound?",
     "audioPrompt": "Read aloud: 'Tip, tap, tiny rain; tip, tap, on the pane.' Which reason supports liking its sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The poem tells me where to buy a window.",
-      "The repeated 'tip, tap' sounds like little raindrops.",
-      "The line has no repeated words."
+      {
+        "text": "The poem tells me where to buy a window.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated 'tip, tap' sounds like little raindrops.",
+        "is_correct": true
+      },
+      {
+        "text": "The line has no repeated words.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "The reader connects the repeated sound pattern with rain.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "The reader connects the repeated sound pattern with rain.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The reader connects the repeated sound pattern with rain.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-003",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "character response",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The gate was heavy. Ada held it open until everyone had passed.' Which appreciation fits?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The gate was heavy. Ada held it open until everyone had passed.' Which appreciation fits?",
     "audioPrompt": "Read: 'The gate was heavy. Ada held it open until everyone had passed.' Which appreciation fits?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "I like Ada because she wins the race.",
-      "I like Ada's joke about the gate.",
-      "I like Ada's kindness because she waits for everyone."
+      {
+        "text": "I like Ada because she wins the race.",
+        "is_correct": false
+      },
+      {
+        "text": "I like Ada's joke about the gate.",
+        "is_correct": false
+      },
+      {
+        "text": "I like Ada's kindness because she waits for everyone.",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "Holding the gate for others is evidence of consideration; no race or joke appears.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 3,
-    "correct": 2,
-    "explanation": "Holding the gate for others is evidence of consideration; no race or joke appears.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Holding the gate for others is evidence of consideration; no race or joke appears.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-004",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "setting response",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'Soft moss covered the path. A stream whispered beside it.' Which response uses details to explain a feeling?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Soft moss covered the path. A stream whispered beside it.' Which response uses details to explain a feeling?",
     "audioPrompt": "Read: 'Soft moss covered the path. A stream whispered beside it.' Which response uses details to explain a feeling?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "I enjoyed the peaceful setting because of the soft moss and quiet stream.",
-      "I enjoyed the crowded setting because everyone shouted.",
-      "I enjoyed the setting because it was a setting."
+      {
+        "text": "I enjoyed the peaceful setting because of the soft moss and quiet stream.",
+        "is_correct": true
+      },
+      {
+        "text": "I enjoyed the crowded setting because everyone shouted.",
+        "is_correct": false
+      },
+      {
+        "text": "I enjoyed the setting because it was a setting.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "The response names language that creates a calm impression.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 4,
-    "correct": 0,
-    "explanation": "The response names language that creates a calm impression.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The response names language that creates a calm impression.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-005",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "information response",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "A page explains how a seed grows and labels its root and shoot. Which reason explains why a reader values the page?",
+    "type": "multiple-choice",
+    "prompt": "A page explains how a seed grows and labels its root and shoot. Which reason explains why a reader values the page?",
     "audioPrompt": "A page explains how a seed grows and labels its root and shoot. Which reason explains why a reader values the page?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The page must be good because it has a number.",
-      "The labels help me tell the root from the shoot.",
-      "Every page about seeds is my favourite."
+      {
+        "text": "The page must be good because it has a number.",
+        "is_correct": false
+      },
+      {
+        "text": "The labels help me tell the root from the shoot.",
+        "is_correct": true
+      },
+      {
+        "text": "Every page about seeds is my favourite.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "The reader identifies a feature and explains how it helps understanding.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 5,
-    "correct": 1,
-    "explanation": "The reader identifies a feature and explains how it helps understanding.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The reader identifies a feature and explains how it helps understanding.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-006",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "precise appreciation",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Which word best completes this response? 'The puppy kept slipping on the shiny floor. That scene made me laugh; it was ___. '",
+    "type": "multiple-choice",
+    "prompt": "Which word best completes this response? 'The puppy kept slipping on the shiny floor. That scene made me laugh; it was ___. '",
     "audioPrompt": "Which word best completes this response? 'The puppy kept slipping on the shiny floor. That scene made me laugh; it was ___. '",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "frightening",
-      "lonely",
-      "amusing"
+      {
+        "text": "frightening",
+        "is_correct": false
+      },
+      {
+        "text": "lonely",
+        "is_correct": false
+      },
+      {
+        "text": "amusing",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "Amusing describes something that makes the reader laugh.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 6,
-    "correct": 2,
-    "explanation": "Amusing describes something that makes the reader laugh.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Amusing describes something that makes the reader laugh.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-007",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "preference comparison",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Text A lists facts about clouds. Text B follows a cloud on an imaginary journey. Which response gives a reason for preferring B?",
+    "type": "multiple-choice",
+    "prompt": "Text A lists facts about clouds. Text B follows a cloud on an imaginary journey. Which response gives a reason for preferring B?",
     "audioPrompt": "Text A lists facts about clouds. Text B follows a cloud on an imaginary journey. Which response gives a reason for preferring B?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "I prefer B because I enjoy imagining an adventure.",
-      "I prefer B because A is a text.",
-      "B is better and nobody may disagree."
+      {
+        "text": "I prefer B because I enjoy imagining an adventure.",
+        "is_correct": true
+      },
+      {
+        "text": "I prefer B because A is a text.",
+        "is_correct": false
+      },
+      {
+        "text": "B is better and nobody may disagree.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "The reader connects a personal preference with the imaginative feature of B.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 7,
-    "correct": 0,
-    "explanation": "The reader connects a personal preference with the imaginative feature of B.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The reader connects a personal preference with the imaginative feature of B.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-008",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "different preferences",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Jay enjoys a fast chase in a story. Lee enjoys the quiet ending. Which response respects both views?",
+    "type": "multiple-choice",
+    "prompt": "Jay enjoys a fast chase in a story. Lee enjoys the quiet ending. Which response respects both views?",
     "audioPrompt": "Jay enjoys a fast chase in a story. Lee enjoys the quiet ending. Which response respects both views?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Only the first reader's opinion counts.",
-      "We enjoyed different parts, and we can explain why.",
-      "We must choose the same favourite part."
+      {
+        "text": "Only the first reader's opinion counts.",
+        "is_correct": false
+      },
+      {
+        "text": "We enjoyed different parts, and we can explain why.",
+        "is_correct": true
+      },
+      {
+        "text": "We must choose the same favourite part.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "Text preferences can differ while still being supported with reasons.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 8,
-    "correct": 1,
-    "explanation": "Text preferences can differ while still being supported with reasons.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Text preferences can differ while still being supported with reasons.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-009",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "dislike reason",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "A story changes location so often that a reader loses track. Which response explains a dislike usefully?",
+    "type": "multiple-choice",
+    "prompt": "A story changes location so often that a reader loses track. Which response explains a dislike usefully?",
     "audioPrompt": "A story changes location so often that a reader loses track. Which response explains a dislike usefully?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The author is a bad person.",
-      "Everyone must dislike this book.",
-      "I found the quick changes confusing because I could not tell where the characters were."
+      {
+        "text": "The author is a bad person.",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone must dislike this book.",
+        "is_correct": false
+      },
+      {
+        "text": "I found the quick changes confusing because I could not tell where the characters were.",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "The response explains the effect of a text feature without attacking the author.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 9,
-    "correct": 2,
-    "explanation": "The response explains the effect of a text feature without attacking the author.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The response explains the effect of a text feature without attacking the author.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-010",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "evidence choice",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "A reader says, 'I liked the surprising ending.' Which ending supports that reason?",
+    "type": "multiple-choice",
+    "prompt": "A reader says, 'I liked the surprising ending.' Which ending supports that reason?",
     "audioPrompt": "A reader says, 'I liked the surprising ending.' Which ending supports that reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The missing crown was on the queen's head all along.",
-      "The queen put on the crown exactly as planned.",
-      "The crown was described on the first page."
+      {
+        "text": "The missing crown was on the queen's head all along.",
+        "is_correct": true
+      },
+      {
+        "text": "The queen put on the crown exactly as planned.",
+        "is_correct": false
+      },
+      {
+        "text": "The crown was described on the first page.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "An unexpected discovery explains the reader's sense of surprise.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 10,
-    "correct": 0,
-    "explanation": "An unexpected discovery explains the reader's sense of surprise.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "An unexpected discovery explains the reader's sense of surprise.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-011",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "strength of feeling",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Which response expresses stronger enjoyment than 'I liked the story'?",
+    "type": "multiple-choice",
+    "prompt": "Which response expresses stronger enjoyment than 'I liked the story'?",
     "audioPrompt": "Which response expresses stronger enjoyment than 'I liked the story'?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "I noticed that the story had pages.",
-      "I loved the story and wanted to read it again.",
-      "I did not enjoy the story."
+      {
+        "text": "I noticed that the story had pages.",
+        "is_correct": false
+      },
+      {
+        "text": "I loved the story and wanted to read it again.",
+        "is_correct": true
+      },
+      {
+        "text": "I did not enjoy the story.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "Loved and wanting to reread express stronger enthusiasm than liked.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 11,
-    "correct": 1,
-    "explanation": "Loved and wanting to reread express stronger enthusiasm than liked.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Loved and wanting to reread express stronger enthusiasm than liked.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-012",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "gentle vocabulary",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The moon rocked the sleepy sea.' Which response best explains the gentle language?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The moon rocked the sleepy sea.' Which response best explains the gentle language?",
     "audioPrompt": "Read: 'The moon rocked the sleepy sea.' Which response best explains the gentle language?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "I found it noisy because it described a loud crash.",
-      "I found it useful because it listed boat prices.",
-      "I found it soothing because it made me imagine slow, calm movement."
+      {
+        "text": "I found it noisy because it described a loud crash.",
+        "is_correct": false
+      },
+      {
+        "text": "I found it useful because it listed boat prices.",
+        "is_correct": false
+      },
+      {
+        "text": "I found it soothing because it made me imagine slow, calm movement.",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "The rocking image and sleepy sea support a calm response.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 12,
-    "correct": 2,
-    "explanation": "The rocking image and sleepy sea support a calm response.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The rocking image and sleepy sea support a calm response.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-013",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "supported humour",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'Dad searched for his glasses. They were sitting on his nose.' Which reason fits finding this funny?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Dad searched for his glasses. They were sitting on his nose.' Which reason fits finding this funny?",
     "audioPrompt": "Read: 'Dad searched for his glasses. They were sitting on his nose.' Which reason fits finding this funny?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "He is looking for something already on his face.",
-      "He is wearing a red coat.",
-      "He has broken his glasses."
+      {
+        "text": "He is looking for something already on his face.",
+        "is_correct": true
+      },
+      {
+        "text": "He is wearing a red coat.",
+        "is_correct": false
+      },
+      {
+        "text": "He has broken his glasses.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "The humour comes from the difference between what Dad thinks and where the glasses are.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 13,
-    "correct": 0,
-    "explanation": "The humour comes from the difference between what Dad thinks and where the glasses are.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The humour comes from the difference between what Dad thinks and where the glasses are.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-014",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "improve response",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "A reader says, 'The map was good.' Which addition makes the appreciation more useful?",
+    "type": "multiple-choice",
+    "prompt": "A reader says, 'The map was good.' Which addition makes the appreciation more useful?",
     "audioPrompt": "A reader says, 'The map was good.' Which addition makes the appreciation more useful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "It was somewhere inside the book.",
-      "It showed the route so I could follow the explorers.",
-      "Good maps are always good."
+      {
+        "text": "It was somewhere inside the book.",
+        "is_correct": false
+      },
+      {
+        "text": "It showed the route so I could follow the explorers.",
+        "is_correct": true
+      },
+      {
+        "text": "Good maps are always good.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "The added reason explains what the map helped the reader do.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 14,
-    "correct": 1,
-    "explanation": "The added reason explains what the map helped the reader do.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The added reason explains what the map helped the reader do.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-015",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "opinion fact",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Which sentence expresses appreciation rather than only a fact about a book?",
+    "type": "multiple-choice",
+    "prompt": "Which sentence expresses appreciation rather than only a fact about a book?",
     "audioPrompt": "Which sentence expresses appreciation rather than only a fact about a book?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The book has two sisters in it.",
-      "The title contains four words.",
-      "I enjoyed the lively dialogue between the sisters."
+      {
+        "text": "The book has two sisters in it.",
+        "is_correct": false
+      },
+      {
+        "text": "The title contains four words.",
+        "is_correct": false
+      },
+      {
+        "text": "I enjoyed the lively dialogue between the sisters.",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "Enjoyed expresses a personal response to a feature of the writing.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 15,
-    "correct": 2,
-    "explanation": "Enjoyed expresses a personal response to a feature of the writing.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Enjoyed expresses a personal response to a feature of the writing.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-016",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "reason link",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Complete: 'I preferred the recipe with numbered steps because ___.'",
+    "type": "multiple-choice",
+    "prompt": "Complete: 'I preferred the recipe with numbered steps because ___.'",
     "audioPrompt": "Complete: 'I preferred the recipe with numbered steps because ___.'",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "I could follow the order easily",
-      "its page number was even",
-      "the other recipe also used flour"
+      {
+        "text": "I could follow the order easily",
+        "is_correct": true
+      },
+      {
+        "text": "its page number was even",
+        "is_correct": false
+      },
+      {
+        "text": "the other recipe also used flour",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "Numbered steps support an ordered sequence, giving a relevant reason for the preference.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 16,
-    "correct": 0,
-    "explanation": "Numbered steps support an ordered sequence, giving a relevant reason for the preference.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Numbered steps support an ordered sequence, giving a relevant reason for the preference.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-017",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "compare words",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "A reader felt a little uneasy, not terrified, during a storm scene. Which response matches?",
+    "type": "multiple-choice",
+    "prompt": "A reader felt a little uneasy, not terrified, during a storm scene. Which response matches?",
     "audioPrompt": "A reader felt a little uneasy, not terrified, during a storm scene. Which response matches?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The scene frightened me more than anything ever has.",
-      "The scene made me slightly nervous.",
-      "The scene made me completely relaxed."
+      {
+        "text": "The scene frightened me more than anything ever has.",
+        "is_correct": false
+      },
+      {
+        "text": "The scene made me slightly nervous.",
+        "is_correct": true
+      },
+      {
+        "text": "The scene made me completely relaxed.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 1,
+    "explanation": "Slightly nervous matches a mild response rather than extreme fear or calm.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 17,
-    "correct": 1,
-    "explanation": "Slightly nervous matches a mild response rather than extreme fear or calm.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Slightly nervous matches a mild response rather than extreme fear or calm.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-018",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "author choice",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The old door creaked. Something scratched on the other side.' Which appreciation connects to the author's choices?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The old door creaked. Something scratched on the other side.' Which appreciation connects to the author's choices?",
     "audioPrompt": "Read: 'The old door creaked. Something scratched on the other side.' Which appreciation connects to the author's choices?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "I liked the clear answer because the creature was named.",
-      "I liked the recipe because each step was numbered.",
-      "I liked the suspense because the sounds made me wonder what was there."
+      {
+        "text": "I liked the clear answer because the creature was named.",
+        "is_correct": false
+      },
+      {
+        "text": "I liked the recipe because each step was numbered.",
+        "is_correct": false
+      },
+      {
+        "text": "I liked the suspense because the sounds made me wonder what was there.",
+        "is_correct": true
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 2,
+    "explanation": "Unexplained sounds create curiosity and tension.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 18,
-    "correct": 2,
-    "explanation": "Unexplained sounds create curiosity and tension.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Unexplained sounds create curiosity and tension.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-019",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "ending response",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'After weeks of trying, the small bird finally flew.' Which response explains satisfaction with the ending?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'After weeks of trying, the small bird finally flew.' Which response explains satisfaction with the ending?",
     "audioPrompt": "Read: 'After weeks of trying, the small bird finally flew.' Which response explains satisfaction with the ending?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "I felt pleased because the bird's effort finally paid off.",
-      "I felt pleased because the story never ended.",
-      "I felt pleased because the bird gave up."
+      {
+        "text": "I felt pleased because the bird's effort finally paid off.",
+        "is_correct": true
+      },
+      {
+        "text": "I felt pleased because the story never ended.",
+        "is_correct": false
+      },
+      {
+        "text": "I felt pleased because the bird gave up.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 0,
+    "explanation": "The ending resolves the bird's struggle with success.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 19,
-    "correct": 0,
-    "explanation": "The ending resolves the bird's struggle with success.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The ending resolves the bird's struggle with success.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-020",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "support preference",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Which detail would help explain preferring a wildlife book for learning?",
+    "type": "multiple-choice",
+    "prompt": "Which detail would help explain preferring a wildlife book for learning?",
     "audioPrompt": "Which detail would help explain preferring a wildlife book for learning?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The cover happens to match my shoes.",
-      "Clear captions explain what each animal is doing.",
-      "My friend placed it on the top shelf."
+      {
+        "text": "The cover happens to match my shoes.",
+        "is_correct": false
+      },
+      {
+        "text": "Clear captions explain what each animal is doing.",
+        "is_correct": true
+      },
+      {
+        "text": "My friend placed it on the top shelf.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 1,
+    "explanation": "Captions contribute to learning about the animals; the other details do not.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 20,
-    "correct": 1,
-    "explanation": "Captions contribute to learning about the animals; the other details do not.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Captions contribute to learning about the animals; the other details do not.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-021",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "respectful recommendation",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Which recommendation gives another reader a useful reason?",
+    "type": "multiple-choice",
+    "prompt": "Which recommendation gives another reader a useful reason?",
     "audioPrompt": "Which recommendation gives another reader a useful reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Read it because everyone has to like my book.",
-      "Read it because books are made of paper.",
-      "Try this story if you enjoy solving clues before the detective."
+      {
+        "text": "Read it because everyone has to like my book.",
+        "is_correct": false
+      },
+      {
+        "text": "Read it because books are made of paper.",
+        "is_correct": false
+      },
+      {
+        "text": "Try this story if you enjoy solving clues before the detective.",
+        "is_correct": true
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 2,
+    "explanation": "The recommendation connects the story's feature to a possible reader interest.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 21,
-    "correct": 2,
-    "explanation": "The recommendation connects the story's feature to a possible reader interest.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The recommendation connects the story's feature to a possible reader interest.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-022",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "text specific reason",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The train clattered, rattled and roared into the station.' Which comment appreciates these words?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The train clattered, rattled and roared into the station.' Which comment appreciates these words?",
     "audioPrompt": "Read: 'The train clattered, rattled and roared into the station.' Which comment appreciates these words?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The noisy verbs helped me hear the train in my mind.",
-      "The words explained the price of a ticket.",
-      "The words made the train seem silent."
+      {
+        "text": "The noisy verbs helped me hear the train in my mind.",
+        "is_correct": true
+      },
+      {
+        "text": "The words explained the price of a ticket.",
+        "is_correct": false
+      },
+      {
+        "text": "The words made the train seem silent.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 0,
+    "explanation": "The sound-rich verbs support an imagined sound experience.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 22,
-    "correct": 0,
-    "explanation": "The sound-rich verbs support an imagined sound experience.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "The sound-rich verbs support an imagined sound experience.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-023",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "personal response",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "self-check",
-    "gradingMode": "adult-review",
-    "responseType": "short_answer",
-    "modelAnswer": "Example: 'I enjoyed it because the beetle acting like a captain was funny.' A reasoned dislike is equally acceptable.",
-    "acceptanceNote": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.",
-    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
-    "completionLabel": "Ready for adult review",
-    "question": "Read: 'A paper boat sailed down the gutter. A beetle rode on top like a captain.' Say or write whether you enjoyed this tiny story and give a reason linked to its words.",
+    "type": "multiple-choice",
+    "prompt": "Read: 'A paper boat sailed down the gutter. A beetle rode on top like a captain.' Say or write whether you enjoyed this tiny story and give a reason linked to its words.",
     "audioPrompt": "Read: 'A paper boat sailed down the gutter. A beetle rode on top like a captain.' Say or write whether you enjoyed this tiny story and give a reason linked to its words.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Response not yet reviewed",
-      "Adult review required",
-      "Revise with an adult"
+      {
+        "text": "Response not yet reviewed",
+        "is_correct": false
+      },
+      {
+        "text": "Adult review required",
+        "is_correct": true
+      },
+      {
+        "text": "Revise with an adult",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
-    "difficultyTier": "transfer",
+    "difficultyTier": "stretch",
     "sequencePriority": 23,
-    "correct": "Example: 'I enjoyed it because the beetle acting like a captain was funny.' A reasoned dislike is equally acceptable.",
-    "explanation": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la02-p-024",
     "curriculumCode": "AC9E2LA02",
     "bank": "practice",
-    "skill": "compare response",
+    "skill": "giving_reasons_for_text_preferences",
     "printable": true,
-    "type": "self-check",
-    "gradingMode": "adult-review",
-    "responseType": "short_answer",
-    "modelAnswer": "Example: 'I prefer B because I can picture where the water drips.' A may be preferred for its brevity with a reason.",
-    "acceptanceNote": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.",
-    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
-    "completionLabel": "Ready for adult review",
-    "question": "Read A: 'The dog is wet.' Read B: 'Water dripped from the dog's whiskers onto my shoes.' Choose the version you prefer and explain why.",
+    "type": "multiple-choice",
+    "prompt": "Read A: 'The dog is wet.' Read B: 'Water dripped from the dog's whiskers onto my shoes.' Choose the version you prefer and explain why.",
     "audioPrompt": "Read A: 'The dog is wet.' Read B: 'Water dripped from the dog's whiskers onto my shoes.' Choose the version you prefer and explain why.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Response not yet reviewed",
-      "Revise with an adult",
-      "Adult review required"
+      {
+        "text": "Response not yet reviewed",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with an adult",
+        "is_correct": false
+      },
+      {
+        "text": "Adult review required",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
-    "difficultyTier": "transfer",
+    "difficultyTier": "stretch",
     "sequencePriority": 24,
-    "correct": "Example: 'I prefer B because I can picture where the water drips.' A may be preferred for its brevity with a reason.",
-    "explanation": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.\nHint: Connect your response to a particular word, event or feature of the text.",
-    "structuredExplanation": {
-      "summary": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.",
-      "hint": "Connect your response to a particular word, event or feature of the text."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

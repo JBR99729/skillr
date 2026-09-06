@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “the secret garden”?",
-    "audio_prompt": "Which version correctly writes “the secret garden”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which version is the correctly capitalised story title?",
+    "audio_prompt": "Which version is the correctly capitalised story title?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The Secret Garden",
+        "text": "The Lost Puppy",
         "is_correct": true
       },
       {
-        "text": "The secret Garden",
+        "text": "the lost puppy",
         "is_correct": false
       },
       {
-        "text": "the Secret garden",
+        "text": "The lost puppy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The important words Lost and Puppy begin with capitals, as does the first word The.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “apples pears and plums”?",
-    "audio_prompt": "Which version correctly writes “apples pears and plums”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence separates the fruit clearly?",
+    "audio_prompt": "Which sentence separates the fruit clearly?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "apples pears, and plums",
+        "text": "We bought apples pears and grapes.",
         "is_correct": false
       },
       {
-        "text": "apples pears and, plums",
-        "is_correct": false
-      },
-      {
-        "text": "apples, pears and plums",
+        "text": "We bought apples, pears and grapes.",
         "is_correct": true
+      },
+      {
+        "text": "We, bought, apples pears and grapes.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Commas separate apples and pears from the next list item; and introduces the final item.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “my trip to mars”?",
-    "audio_prompt": "Which version correctly writes “my trip to mars”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which title uses capitals correctly?",
+    "audio_prompt": "Which title uses capitals correctly?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "my Trip to Mars",
+        "text": "a trip to the moon",
         "is_correct": false
       },
       {
-        "text": "My Trip to Mars",
+        "text": "A trip To The moon",
+        "is_correct": false
+      },
+      {
+        "text": "A Trip to the Moon",
         "is_correct": true
-      },
-      {
-        "text": "My trip To mars",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “red blue green and gold”?",
-    "audio_prompt": "Which version correctly writes “red blue green and gold”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence correctly lists four things in the bag?",
+    "audio_prompt": "Which sentence correctly lists four things in the bag?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "red, blue, green and gold",
+        "text": "We packed hats, water, snacks and towels.",
         "is_correct": true
       },
       {
-        "text": "red blue, green and gold",
+        "text": "We packed hats water snacks and towels.",
         "is_correct": false
       },
       {
-        "text": "red, blue green and gold",
+        "text": "We packed, hats, water snacks and towels.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The commas show where hats, water and snacks end before the final item towels.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “the secret garden”?",
-    "audio_prompt": "Which version correctly writes “the secret garden”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which line correctly shows a title followed by a three-item animal list?",
+    "audio_prompt": "Which line correctly shows a title followed by a three-item animal list?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The secret Garden",
+        "text": "farmyard friends — cows ducks and goats",
         "is_correct": false
       },
       {
-        "text": "the Secret garden",
-        "is_correct": false
-      },
-      {
-        "text": "The Secret Garden",
+        "text": "Farmyard Friends — cows, ducks and goats",
         "is_correct": true
+      },
+      {
+        "text": "Farmyard friends — cows, ducks, and, goats",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The title's important words use capitals, and commas separate the animal items.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “apples pears and plums”?",
-    "audio_prompt": "Which version correctly writes “apples pears and plums”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence uses commas only where they are needed for the list?",
+    "audio_prompt": "Which sentence uses commas only where they are needed for the list?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "apples pears and, plums",
+        "text": "On, the desk, were pencils rulers and glue.",
         "is_correct": false
       },
       {
-        "text": "apples, pears and plums",
+        "text": "On the desk were pencils rulers, and glue.",
+        "is_correct": false
+      },
+      {
+        "text": "On the desk were pencils, rulers and glue.",
         "is_correct": true
-      },
-      {
-        "text": "apples pears, and plums",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The comma separates pencils from rulers; and introduces the last item glue.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “my trip to mars”?",
-    "audio_prompt": "Which version correctly writes “my trip to mars”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "A student writes the report title “life on the reef”. Which edit is best?",
+    "audio_prompt": "A student writes the report title “life on the reef”. Which edit is best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "My Trip to Mars",
+        "text": "Life on the Reef",
         "is_correct": true
       },
       {
-        "text": "My trip To mars",
+        "text": "life on the reef",
         "is_correct": false
       },
       {
-        "text": "my Trip to Mars",
+        "text": "Life On The reef",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “red blue green and gold”?",
-    "audio_prompt": "Which version correctly writes “red blue green and gold”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence clearly lists the four team members?",
+    "audio_prompt": "Which sentence clearly lists the four team members?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "red blue, green and gold",
+        "text": "Our team has Ava Ben Kai and Mia.",
         "is_correct": false
       },
       {
-        "text": "red, blue green and gold",
-        "is_correct": false
-      },
-      {
-        "text": "red, blue, green and gold",
+        "text": "Our team has Ava, Ben, Kai and Mia.",
         "is_correct": true
+      },
+      {
+        "text": "Our, team has Ava, Ben Kai, and Mia.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Commas separate Ava, Ben and Kai before the final name Mia.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-009",
@@ -310,36 +310,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “the secret garden”?",
-    "audio_prompt": "Which version correctly writes “the secret garden”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which version is the correctly capitalised book title?",
+    "audio_prompt": "Which version is the correctly capitalised book title?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the Secret garden",
+        "text": "the night train",
         "is_correct": false
       },
       {
-        "text": "The Secret Garden",
+        "text": "The night train",
+        "is_correct": false
+      },
+      {
+        "text": "The Night Train",
         "is_correct": true
-      },
-      {
-        "text": "The secret Garden",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The first word and the important words Night and Train begin with capitals.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-010",
@@ -348,36 +348,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “apples pears and plums”?",
-    "audio_prompt": "Which version correctly writes “apples pears and plums”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence correctly lists three things the class will do?",
+    "audio_prompt": "Which sentence correctly lists three things the class will do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "apples, pears and plums",
+        "text": "We will sketch birds, label plants and photograph insects.",
         "is_correct": true
       },
       {
-        "text": "apples pears, and plums",
+        "text": "We will sketch birds label plants and photograph insects.",
         "is_correct": false
       },
       {
-        "text": "apples pears and, plums",
+        "text": "We will, sketch birds, label plants, and photograph insects.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The comma separates the first full activity from the second, and and introduces the last.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-011",
@@ -386,36 +386,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “my trip to mars”?",
-    "audio_prompt": "Which version correctly writes “my trip to mars”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which version is the correctly capitalised story title? Why is “The Lost Puppy” the best answer?",
+    "audio_prompt": "Which version is the correctly capitalised story title? Why is “The Lost Puppy” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "My trip To mars",
+        "text": "It is best only because it is longer than “the lost puppy”.",
         "is_correct": false
       },
       {
-        "text": "my Trip to Mars",
-        "is_correct": false
-      },
-      {
-        "text": "My Trip to Mars",
+        "text": "The important words Lost and Puppy begin with capitals, as does the first word The.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The important words Lost and Puppy begin with capitals, as does the first word The.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-012",
@@ -424,36 +424,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “red blue green and gold”?",
-    "audio_prompt": "Which version correctly writes “red blue green and gold”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence separates the fruit clearly? Why is “We bought apples, pears and grapes.” the best answer?",
+    "audio_prompt": "Which sentence separates the fruit clearly? Why is “We bought apples, pears and grapes.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "red, blue green and gold",
+        "text": "It is best only because it is longer than “We bought apples pears and grapes.”.",
         "is_correct": false
       },
       {
-        "text": "red, blue, green and gold",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Commas separate apples and pears from the next list item; and introduces the final item.",
         "is_correct": true
-      },
-      {
-        "text": "red blue, green and gold",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Commas separate apples and pears from the next list item; and introduces the final item.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-013",
@@ -462,36 +462,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “the secret garden”?",
-    "audio_prompt": "Which version correctly writes “the secret garden”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which title uses capitals correctly? Why is “A Trip to the Moon” the best answer?",
+    "audio_prompt": "Which title uses capitals correctly? Why is “A Trip to the Moon” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The Secret Garden",
+        "text": "A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
         "is_correct": true
       },
       {
-        "text": "The secret Garden",
+        "text": "It is best only because it is longer than “a trip to the moon”.",
         "is_correct": false
       },
       {
-        "text": "the Secret garden",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-014",
@@ -500,36 +500,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “apples pears and plums”?",
-    "audio_prompt": "Which version correctly writes “apples pears and plums”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence correctly lists four things in the bag? Why is “We packed hats, water, snacks and towels.” the best answer?",
+    "audio_prompt": "Which sentence correctly lists four things in the bag? Why is “We packed hats, water, snacks and towels.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "apples pears, and plums",
+        "text": "It is best only because it is longer than “We packed hats water snacks and towels.”.",
         "is_correct": false
       },
       {
-        "text": "apples pears and, plums",
-        "is_correct": false
-      },
-      {
-        "text": "apples, pears and plums",
+        "text": "The commas show where hats, water and snacks end before the final item towels.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The commas show where hats, water and snacks end before the final item towels.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-015",
@@ -538,36 +538,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “my trip to mars”?",
-    "audio_prompt": "Which version correctly writes “my trip to mars”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which line correctly shows a title followed by a three-item animal list? Why is “Farmyard Friends — cows, ducks and goats” the best answer?",
+    "audio_prompt": "Which line correctly shows a title followed by a three-item animal list? Why is “Farmyard Friends — cows, ducks and goats” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "my Trip to Mars",
+        "text": "It is best only because it is longer than “farmyard friends — cows ducks and goats”.",
         "is_correct": false
       },
       {
-        "text": "My Trip to Mars",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The title's important words use capitals, and commas separate the animal items.",
         "is_correct": true
-      },
-      {
-        "text": "My trip To mars",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The title's important words use capitals, and commas separate the animal items.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-016",
@@ -576,36 +576,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “red blue green and gold”?",
-    "audio_prompt": "Which version correctly writes “red blue green and gold”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence uses commas only where they are needed for the list? Why is “On the desk were pencils, rulers and glue.” the best answer?",
+    "audio_prompt": "Which sentence uses commas only where they are needed for the list? Why is “On the desk were pencils, rulers and glue.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "red, blue, green and gold",
+        "text": "The comma separates pencils from rulers; and introduces the last item glue.",
         "is_correct": true
       },
       {
-        "text": "red blue, green and gold",
+        "text": "It is best only because it is longer than “On, the desk, were pencils rulers and glue.”.",
         "is_correct": false
       },
       {
-        "text": "red, blue green and gold",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The comma separates pencils from rulers; and introduces the last item glue.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “the secret garden”?",
-    "audio_prompt": "Which version correctly writes “the secret garden”?",
+    "stage": "independent",
+    "skill": "titles_and_commas_in_lists",
+    "question": "A student writes the report title “life on the reef”. Which edit is best? Why is “Life on the Reef” the best answer?",
+    "audio_prompt": "A student writes the report title “life on the reef”. Which edit is best? Why is “Life on the Reef” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The secret Garden",
+        "text": "It is best only because it is longer than “life on the reef”.",
         "is_correct": false
       },
       {
-        "text": "the Secret garden",
-        "is_correct": false
-      },
-      {
-        "text": "The Secret Garden",
+        "text": "Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 17,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “apples pears and plums”?",
-    "audio_prompt": "Which version correctly writes “apples pears and plums”?",
+    "stage": "independent",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence clearly lists the four team members? Why is “Our team has Ava, Ben, Kai and Mia.” the best answer?",
+    "audio_prompt": "Which sentence clearly lists the four team members? Why is “Our team has Ava, Ben, Kai and Mia.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "apples pears and, plums",
+        "text": "It is best only because it is longer than “Our team has Ava Ben Kai and Mia.”.",
         "is_correct": false
       },
       {
-        "text": "apples, pears and plums",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Commas separate Ava, Ben and Kai before the final name Mia.",
         "is_correct": true
-      },
-      {
-        "text": "apples pears, and plums",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Commas separate Ava, Ben and Kai before the final name Mia.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 18,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “my trip to mars”?",
-    "audio_prompt": "Which version correctly writes “my trip to mars”?",
+    "stage": "independent",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which version is the correctly capitalised book title? Why is “The Night Train” the best answer?",
+    "audio_prompt": "Which version is the correctly capitalised book title? Why is “The Night Train” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "My Trip to Mars",
+        "text": "The first word and the important words Night and Train begin with capitals.",
         "is_correct": true
       },
       {
-        "text": "My trip To mars",
+        "text": "It is best only because it is longer than “the night train”.",
         "is_correct": false
       },
       {
-        "text": "my Trip to Mars",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The first word and the important words Night and Train begin with capitals.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 19,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “red blue green and gold”?",
-    "audio_prompt": "Which version correctly writes “red blue green and gold”?",
+    "stage": "independent",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence correctly lists three things the class will do? Why is “We will sketch birds, label plants and photograph insects.” the best answer?",
+    "audio_prompt": "Which sentence correctly lists three things the class will do? Why is “We will sketch birds, label plants and photograph insects.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "red blue, green and gold",
+        "text": "It is best only because it is longer than “We will sketch birds label plants and photograph insects.”.",
         "is_correct": false
       },
       {
-        "text": "red, blue green and gold",
-        "is_correct": false
-      },
-      {
-        "text": "red, blue, green and gold",
+        "text": "The comma separates the first full activity from the second, and and introduces the last.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The comma separates the first full activity from the second, and and introduces the last.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 20,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “the secret garden”?",
-    "audio_prompt": "Which version correctly writes “the secret garden”?",
+    "stage": "independent",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which title uses capitals correctly? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which title uses capitals correctly? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the Secret garden",
+        "text": "A Trip to the Moon",
         "is_correct": false
       },
       {
-        "text": "The Secret Garden",
+        "text": "A trip To The moon",
+        "is_correct": false
+      },
+      {
+        "text": "a trip to the moon",
         "is_correct": true
-      },
-      {
-        "text": "The secret Garden",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“a trip to the moon” is the mix-up to avoid. Capitalise the first and important title words, not every small joining word.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 21,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “apples pears and plums”?",
-    "audio_prompt": "Which version correctly writes “apples pears and plums”?",
+    "stage": "independent",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence correctly lists four things in the bag? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sentence correctly lists four things in the bag? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "apples, pears and plums",
+        "text": "We packed hats water snacks and towels.",
         "is_correct": true
       },
       {
-        "text": "apples pears, and plums",
+        "text": "We packed hats, water, snacks and towels.",
         "is_correct": false
       },
       {
-        "text": "apples pears and, plums",
+        "text": "We packed, hats, water snacks and towels.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“We packed hats water snacks and towels.” is the mix-up to avoid. Say each item separately and put commas between the listed items.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 22,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-023",
@@ -841,43 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LA10. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LA10. Use your own example.",
+    "stage": "independent",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which line correctly shows a title followed by a three-item animal list? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which line correctly shows a title followed by a three-item animal list? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Farmyard Friends — cows, ducks and goats",
+        "is_correct": false
+      },
+      {
+        "text": "farmyard friends — cows ducks and goats",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "Farmyard friends — cows, ducks, and, goats",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Capital Letters in Titles and Commas in Lists.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“farmyard friends — cows ducks and goats” is the mix-up to avoid. Check title capitals first, then check only the list for commas.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Capital Letters in Titles and Commas in Lists.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-P-024",
@@ -885,43 +879,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA10",
     "bank": "practice",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LA10, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LA10, then explain the answer.",
+    "stage": "independent",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence uses commas only where they are needed for the list? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sentence uses commas only where they are needed for the list? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "On the desk were pencils, rulers and glue.",
+        "is_correct": false
+      },
+      {
+        "text": "On the desk were pencils rulers, and glue.",
+        "is_correct": false
+      },
+      {
+        "text": "On, the desk, were pencils rulers and glue.",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“On, the desk, were pencils rulers and glue.” is the mix-up to avoid. Do not place commas after ordinary sentence words—use them between list items.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-001",
@@ -930,36 +918,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “the secret garden”?",
-    "audio_prompt": "Which version correctly writes “the secret garden”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which version is the correctly capitalised mystery title?",
+    "audio_prompt": "Which version is the correctly capitalised mystery title?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The Secret Garden",
+        "text": "Under the Old Bridge",
         "is_correct": true
       },
       {
-        "text": "The secret Garden",
+        "text": "under the old bridge",
         "is_correct": false
       },
       {
-        "text": "the Secret garden",
+        "text": "Under The old bridge",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Under, Old and Bridge are important title words and begin with capitals in this style.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-002",
@@ -968,36 +956,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “apples pears and plums”?",
-    "audio_prompt": "Which version correctly writes “apples pears and plums”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence correctly lists the science materials?",
+    "audio_prompt": "Which sentence correctly lists the science materials?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "apples pears, and plums",
+        "text": "We need a cup soil seeds and water.",
         "is_correct": false
       },
       {
-        "text": "apples pears and, plums",
-        "is_correct": false
-      },
-      {
-        "text": "apples, pears and plums",
+        "text": "We need a cup, soil, seeds and water.",
         "is_correct": true
+      },
+      {
+        "text": "We need, a cup, soil seeds, and water.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Commas separate cup, soil and seeds before the final item water.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-003",
@@ -1006,36 +994,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “my trip to mars”?",
-    "audio_prompt": "Which version correctly writes “my trip to mars”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which invitation sentence shows three activities clearly?",
+    "audio_prompt": "Which invitation sentence shows three activities clearly?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "my Trip to Mars",
+        "text": "We will play games make masks and sing songs.",
         "is_correct": false
       },
       {
-        "text": "My Trip to Mars",
+        "text": "We will, play games, make masks, and sing songs.",
+        "is_correct": false
+      },
+      {
+        "text": "We will play games, make masks and sing songs.",
         "is_correct": true
-      },
-      {
-        "text": "My trip To mars",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A comma separates the first activity from the second, and and introduces the final activity.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-004",
@@ -1044,36 +1032,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “red blue green and gold”?",
-    "audio_prompt": "Which version correctly writes “red blue green and gold”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which title is capitalised correctly?",
+    "audio_prompt": "Which title is capitalised correctly?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "red, blue, green and gold",
+        "text": "Journey to the Red Centre",
         "is_correct": true
       },
       {
-        "text": "red blue, green and gold",
+        "text": "journey to the red centre",
         "is_correct": false
       },
       {
-        "text": "red, blue green and gold",
+        "text": "Journey To The red Centre",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Journey, Red and Centre are important title words; to and the stay lower-case in this style.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-005",
@@ -1082,36 +1070,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “the secret garden”?",
-    "audio_prompt": "Which version correctly writes “the secret garden”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which complete sentence punctuates the list correctly?",
+    "audio_prompt": "Which complete sentence punctuates the list correctly?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The secret Garden",
+        "text": "We saw bread cheese flowers and honey at the market.",
         "is_correct": false
       },
       {
-        "text": "the Secret garden",
-        "is_correct": false
-      },
-      {
-        "text": "The Secret Garden",
+        "text": "We saw bread, cheese, flowers and honey at the market.",
         "is_correct": true
+      },
+      {
+        "text": "We saw, bread, cheese flowers, and honey at the market.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The list commas separate bread, cheese, flowers and honey; the sentence ends with a full stop.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-006",
@@ -1120,36 +1108,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “apples pears and plums”?",
-    "audio_prompt": "Which version correctly writes “apples pears and plums”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which line correctly edits “my weekend at the farm” and its animal list?",
+    "audio_prompt": "Which line correctly edits “my weekend at the farm” and its animal list?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "apples pears and, plums",
+        "text": "my weekend at the farm — horses sheep hens and pigs",
         "is_correct": false
       },
       {
-        "text": "apples, pears and plums",
+        "text": "My weekend At The farm — horses, sheep hens, and pigs",
+        "is_correct": false
+      },
+      {
+        "text": "My Weekend at the Farm — horses, sheep, hens and pigs",
         "is_correct": true
-      },
-      {
-        "text": "apples pears, and plums",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Important title words use capitals, while commas separate the four animals.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-007",
@@ -1158,36 +1146,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “my trip to mars”?",
-    "audio_prompt": "Which version correctly writes “my trip to mars”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which version is the correctly capitalised adventure title?",
+    "audio_prompt": "Which version is the correctly capitalised adventure title?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "My Trip to Mars",
+        "text": "Across the Wide River",
         "is_correct": true
       },
       {
-        "text": "My trip To mars",
+        "text": "across the wide river",
         "is_correct": false
       },
       {
-        "text": "my Trip to Mars",
+        "text": "Across The wide River",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Across, Wide and River are important title words; the stays lower-case.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-008",
@@ -1196,36 +1184,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "recognise",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “red blue green and gold”?",
-    "audio_prompt": "Which version correctly writes “red blue green and gold”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence correctly separates the three colours?",
+    "audio_prompt": "Which sentence correctly separates the three colours?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "red blue, green and gold",
+        "text": "The flag is red white and blue.",
         "is_correct": false
       },
       {
-        "text": "red, blue green and gold",
-        "is_correct": false
-      },
-      {
-        "text": "red, blue, green and gold",
+        "text": "The flag is red, white and blue.",
         "is_correct": true
+      },
+      {
+        "text": "The flag, is red, white, and blue.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A comma separates red from white, and and introduces the final colour blue.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-009",
@@ -1234,36 +1222,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “the secret garden”?",
-    "audio_prompt": "Which version correctly writes “the secret garden”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which version is the correctly capitalised mystery title? Which reason best supports the correct choice?",
+    "audio_prompt": "Which version is the correctly capitalised mystery title? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the Secret garden",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "The Secret Garden",
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Under, Old and Bridge are important title words and begin with capitals in this style.",
         "is_correct": true
-      },
-      {
-        "text": "The secret Garden",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Under, Old and Bridge are important title words and begin with capitals in this style.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-010",
@@ -1272,36 +1260,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “apples pears and plums”?",
-    "audio_prompt": "Which version correctly writes “apples pears and plums”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence correctly lists the science materials? Which reason best supports the correct choice?",
+    "audio_prompt": "Which sentence correctly lists the science materials? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "apples, pears and plums",
+        "text": "Commas separate cup, soil and seeds before the final item water.",
         "is_correct": true
       },
       {
-        "text": "apples pears, and plums",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "apples pears and, plums",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Commas separate cup, soil and seeds before the final item water.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-011",
@@ -1310,36 +1298,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “my trip to mars”?",
-    "audio_prompt": "Which version correctly writes “my trip to mars”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which invitation sentence shows three activities clearly? Which reason best supports the correct choice?",
+    "audio_prompt": "Which invitation sentence shows three activities clearly? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "My trip To mars",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "my Trip to Mars",
-        "is_correct": false
-      },
-      {
-        "text": "My Trip to Mars",
+        "text": "A comma separates the first activity from the second, and and introduces the final activity.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A comma separates the first activity from the second, and and introduces the final activity.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-012",
@@ -1348,36 +1336,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “red blue green and gold”?",
-    "audio_prompt": "Which version correctly writes “red blue green and gold”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which title is capitalised correctly? Which reason best supports the correct choice?",
+    "audio_prompt": "Which title is capitalised correctly? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "red, blue green and gold",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "red, blue, green and gold",
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Journey, Red and Centre are important title words; to and the stay lower-case in this style.",
         "is_correct": true
-      },
-      {
-        "text": "red blue, green and gold",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Journey, Red and Centre are important title words; to and the stay lower-case in this style.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-013",
@@ -1386,36 +1374,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “the secret garden”?",
-    "audio_prompt": "Which version correctly writes “the secret garden”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which complete sentence punctuates the list correctly? Which reason best supports the correct choice?",
+    "audio_prompt": "Which complete sentence punctuates the list correctly? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The Secret Garden",
+        "text": "The list commas separate bread, cheese, flowers and honey; the sentence ends with a full stop.",
         "is_correct": true
       },
       {
-        "text": "The secret Garden",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "the Secret garden",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The list commas separate bread, cheese, flowers and honey; the sentence ends with a full stop.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-014",
@@ -1424,36 +1412,36 @@
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
     "stage": "apply",
-    "skill": "titles and lists",
-    "question": "Which version correctly writes “apples pears and plums”?",
-    "audio_prompt": "Which version correctly writes “apples pears and plums”?",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which line correctly edits “my weekend at the farm” and its animal list? Which reason best supports the correct choice?",
+    "audio_prompt": "Which line correctly edits “my weekend at the farm” and its animal list? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "apples pears, and plums",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "apples pears and, plums",
-        "is_correct": false
-      },
-      {
-        "text": "apples, pears and plums",
+        "text": "Important title words use capitals, while commas separate the four animals.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Titles use capital letters for important words, and commas separate items in a list.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Important title words use capitals, while commas separate the four animals.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-015",
@@ -1461,43 +1449,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LA10. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LA10. Use your own example.",
+    "stage": "apply",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which version is the correctly capitalised adventure title? Which reason best supports the correct choice?",
+    "audio_prompt": "Which version is the correctly capitalised adventure title? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Across, Wide and River are important title words; the stays lower-case.",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Capital Letters in Titles and Commas in Lists.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "Across, Wide and River are important title words; the stays lower-case.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Capital Letters in Titles and Commas in Lists.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA10-T-016",
@@ -1505,42 +1487,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA10",
     "bank": "test",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LA10, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LA10, then explain the answer.",
+    "stage": "apply",
+    "skill": "titles_and_commas_in_lists",
+    "question": "Which sentence correctly separates the three colours? Which reason best supports the correct choice?",
+    "audio_prompt": "Which sentence correctly separates the three colours? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "A comma separates red from white, and and introduces the final colour blue.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "A comma separates red from white, and and introduces the final colour blue.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   }
 ]

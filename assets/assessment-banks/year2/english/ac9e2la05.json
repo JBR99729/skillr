@@ -6,7 +6,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "contents_page",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Contents: 'Getting started — 3; Feeding a rabbit — 8; Keeping its home clean — 14.' Where would you begin reading about food?",
     "audio_prompt": "Contents: 'Getting started — 3; Feeding a rabbit — 8; Keeping its home clean — 14.' Where would you begin reading about food?",
     "visual": {
@@ -30,12 +30,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "The table of contents links the feeding chapter to page 8.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-002",
@@ -44,7 +44,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "chapter_choice",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Chapters: '1 A Strange Noise; 2 The Search; 3 Home at Last.' Which chapter would you revisit for the search?",
     "audio_prompt": "Chapters: '1 A Strange Noise; 2 The Search; 3 Home at Last.' Which chapter would you revisit for the search?",
     "visual": {
@@ -68,12 +68,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "The chapter title identifies the part about searching.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-003",
@@ -82,7 +82,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "index_specific",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Index: 'beaks 6, 12; feathers 4; nests 9.' Which pages might tell you about beaks?",
     "audio_prompt": "Index: 'beaks 6, 12; feathers 4; nests 9.' Which pages might tell you about beaks?",
     "visual": {
@@ -106,12 +106,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "An index can list more than one page for the same topic.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-004",
@@ -120,7 +120,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "index_letters",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "An index is alphabetical. Where should 'dolphins' appear?",
     "audio_prompt": "An index is alphabetical. Where should 'dolphins' appear?",
     "visual": {
@@ -144,12 +144,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "The starting letters c, d and e show the correct alphabetical position.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-005",
@@ -158,7 +158,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "contents_vs_index",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "You want a chapter overview of a whole book before reading it. Which feature helps most?",
     "audio_prompt": "You want a chapter overview of a whole book before reading it. Which feature helps most?",
     "visual": {
@@ -182,12 +182,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "A table of contents lists the main sections in their reading order.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-006",
@@ -196,7 +196,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "index_vs_contents",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "You want every page that mentions 'nectar', even inside different chapters. Which feature is designed for that?",
     "audio_prompt": "You want every page that mentions 'nectar', even inside different chapters. Which feature is designed for that?",
     "visual": {
@@ -220,12 +220,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "An index points from a specific topic to the pages where it appears.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-007",
@@ -234,7 +234,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sidebar",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A website side-bar lists 'Animals', 'Plants' and 'Weather'. Where should you look for an article about rain?",
     "audio_prompt": "A website side-bar lists 'Animals', 'Plants' and 'Weather'. Where should you look for an article about rain?",
     "visual": {
@@ -258,12 +258,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "The menu labels group topics, and rain belongs under weather.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-008",
@@ -272,7 +272,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "dropdown",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A button says 'Choose a year'. Opening it shows 'Year 1', 'Year 2', 'Year 3'. What should a Year 2 reader select?",
     "audio_prompt": "A button says 'Choose a year'. Opening it shows 'Year 1', 'Year 2', 'Year 3'. What should a Year 2 reader select?",
     "visual": {
@@ -296,12 +296,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "The drop-down options let the reader select the required year level.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-009",
@@ -309,8 +309,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "link_label",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A page has links 'Listen to the story', 'Meet the author' and 'Print the map'. Which opens information about the writer?",
     "audio_prompt": "A page has links 'Listen to the story', 'Meet the author' and 'Print the map'. Which opens information about the writer?",
     "visual": {
@@ -334,12 +334,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "Author means writer, so the label predicts the destination.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-010",
@@ -347,8 +347,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "menu_path",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Home menu: 'Learn' and 'Shop'. Under Learn: 'Birds' and 'Rocks'. Which path leads to bird facts?",
     "audio_prompt": "Home menu: 'Learn' and 'Shop'. Under Learn: 'Birds' and 'Rocks'. Which path leads to bird facts?",
     "visual": {
@@ -372,12 +372,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "The reader first selects the learning section, then the specific topic.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-011",
@@ -385,8 +385,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "page_range",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Contents: 'Tide pools — 5; Sand dunes — 11; Cliffs — 18.' Which chapter includes page 14?",
     "audio_prompt": "Contents: 'Tide pools — 5; Sand dunes — 11; Cliffs — 18.' Which chapter includes page 14?",
     "visual": {
@@ -410,12 +410,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "Sand dunes starts at 11 and the next chapter starts at 18, so 14 is within it.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-012",
@@ -423,8 +423,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "index_range",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Index: 'seeds 7–9'. What does this entry tell you to check?",
     "audio_prompt": "Index: 'seeds 7–9'. What does this entry tell you to check?",
     "visual": {
@@ -448,12 +448,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "A page range includes the pages between its endpoints.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-013",
@@ -461,8 +461,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "chapter_heading",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "You open a book at page 20 and see 'Chapter 4: Winter'. How can that heading help?",
     "audio_prompt": "You open a book at page 20 and see 'Chapter 4: Winter'. How can that heading help?",
     "visual": {
@@ -486,12 +486,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "A chapter heading identifies the current section of the text.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-014",
@@ -499,8 +499,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "link_purpose",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "The words 'See the full timetable' are a link beneath a short event notice. What would you expect after selecting it?",
     "audio_prompt": "The words 'See the full timetable' are a link beneath a short event notice. What would you expect after selecting it?",
     "visual": {
@@ -524,12 +524,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "The link label describes the information at its destination.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-015",
@@ -537,8 +537,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "sidebar_return",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "You are reading a page about frogs. The side-bar still shows 'Home', 'Animals' and 'Plants'. To browse other animals, which label would you choose?",
     "audio_prompt": "You are reading a page about frogs. The side-bar still shows 'Home', 'Animals' and 'Plants'. To browse other animals, which label would you choose?",
     "visual": {
@@ -562,12 +562,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "The Animals section is the most direct menu route to related animal pages.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-016",
@@ -575,8 +575,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "dropdown_category",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A museum page has a 'Visit' drop-down with 'Opening hours', 'Tickets' and 'Getting here'. Which option helps plan a bus trip to it?",
     "audio_prompt": "A museum page has a 'Visit' drop-down with 'Opening hours', 'Tickets' and 'Getting here'. Which option helps plan a bus trip to it?",
     "visual": {
@@ -600,12 +600,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "Getting here is the option about reaching the location.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-017",
@@ -613,8 +613,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "index_lookup",
+    "stage": "independent",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Index: 'bats 10; bees 5; beetles 6; birds 12'. Which entry would you use for beetles?",
     "audio_prompt": "Index: 'bats 10; bees 5; beetles 6; birds 12'. Which entry would you use for beetles?",
     "visual": {
@@ -638,12 +638,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "Match the whole word, not just its first letters, before using the page number.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 17,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-018",
@@ -651,8 +651,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "contents_order",
+    "stage": "independent",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Contents lists 'Planning — 2; Building — 6; Testing — 10'. What does this order help a reader follow?",
     "audio_prompt": "Contents lists 'Planning — 2; Building — 6; Testing — 10'. What does this order help a reader follow?",
     "visual": {
@@ -676,12 +676,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "Contents follows the book's section order, which here follows a project sequence.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 18,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-019",
@@ -689,8 +689,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "multiple_routes",
+    "stage": "independent",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "You need the 'Habitat' chapter. The contents gives page 16, and a screen version has a 'Habitat' link. How can you reach it in each version?",
     "audio_prompt": "You need the 'Habitat' chapter. The contents gives page 16, and a screen version has a 'Habitat' link. How can you reach it in each version?",
     "visual": {
@@ -714,12 +714,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "Print page references and screen links are different navigation tools for the same section.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 19,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-020",
@@ -727,8 +727,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "wrong_destination",
+    "stage": "independent",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "You select 'Games' but need a fact page. The side-bar offers 'Facts'. What is the most direct next step?",
     "audio_prompt": "You select 'Games' but need a fact page. The side-bar offers 'Facts'. What is the most direct next step?",
     "visual": {
@@ -752,12 +752,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "A relevant navigation label helps correct the route efficiently.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 20,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-021",
@@ -765,8 +765,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "contents_selection",
+    "stage": "independent",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Contents: 'Before the walk — 4; Along the track — 9; After the walk — 17'. Where should you look for preparation advice?",
     "audio_prompt": "Contents: 'Before the walk — 4; Along the track — 9; After the walk — 17'. Where should you look for preparation advice?",
     "visual": {
@@ -790,12 +790,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "The heading before the walk signals information needed in preparation.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 21,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-022",
@@ -803,8 +803,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "connect",
-    "skill": "link_vs_heading",
+    "stage": "independent",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A screen heading says 'Whales'. Below it, a link says 'Read about whale sounds'. Which part would you select to reach the sound article?",
     "audio_prompt": "A screen heading says 'Whales'. Below it, a link says 'Read about whale sounds'. Which part would you select to reach the sound article?",
     "visual": {
@@ -828,12 +828,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "The labelled link is the navigation control described in the question.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 22,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-023",
@@ -841,8 +841,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "navigate_print",
+    "stage": "independent",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "With an adult, use a book with a contents page. Choose a chapter, say its starting page and turn to it. Show how you know you reached the right chapter.",
     "audio_prompt": "With an adult, use a book with a contents page. Choose a chapter, say its starting page and turn to it. Show how you know you reached the right chapter.",
     "visual": {
@@ -866,17 +866,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "Accept successful navigation using an actual book. If none is available, the adult may make three numbered paper sections with a contents list; do not award completion for naming a feature only.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
-    "difficulty_tier": "transfer",
+    "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "year2-english-first5-original-v1",
-    "grading_mode": "adult-review",
-    "model_answer": "The child matches a contents entry to its page and checks the chapter heading.",
-    "acceptance_note": "Accept successful navigation using an actual book. If none is available, the adult may make three numbered paper sections with a contents list; do not award completion for naming a feature only.",
-    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-P-024",
@@ -884,8 +879,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "navigate_screen",
+    "stage": "independent",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "With an adult, use a suitable website or a paper mock-up of a website with a side-bar and a drop-down. Choose a topic and show the route using both controls.",
     "audio_prompt": "With an adult, use a suitable website or a paper mock-up of a website with a side-bar and a drop-down. Choose a topic and show the route using both controls.",
     "visual": {
@@ -909,17 +904,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "Accept a demonstrated route with explanation of the selected labels. A prepared paper interface is valid if the child actually follows its labelled choices.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
-    "difficulty_tier": "transfer",
+    "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "year2-english-first5-original-v1",
-    "grading_mode": "adult-review",
-    "model_answer": "The child selects a relevant side-bar category, opens the drop-down and chooses the matching option.",
-    "acceptance_note": "Accept a demonstrated route with explanation of the selected labels. A prepared paper interface is valid if the child actually follows its labelled choices.",
-    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-001",
@@ -928,7 +918,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
     "stage": "recognise",
-    "skill": "test_contents",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Contents: 'The coast — 4; The desert — 13; The forest — 21'. Where should you turn to begin the desert chapter?",
     "audio_prompt": "Contents: 'The coast — 4; The desert — 13; The forest — 21'. Where should you turn to begin the desert chapter?",
     "visual": {
@@ -952,12 +942,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "The desert entry points to its start on page 13.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-002",
@@ -966,7 +956,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
     "stage": "recognise",
-    "skill": "test_index",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Index: 'comets 8, 19; moons 11; stars 3–6'. Where should you check for comets?",
     "audio_prompt": "Index: 'comets 8, 19; moons 11; stars 3–6'. Where should you check for comets?",
     "visual": {
@@ -990,12 +980,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "The numbers beside comets identify both listed locations.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-003",
@@ -1004,7 +994,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
     "stage": "recognise",
-    "skill": "test_chapter",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A story has 'Chapter 5: The Rescue' and 'Chapter 6: The Journey Home'. Which chapter would you choose to reread how someone was saved?",
     "audio_prompt": "A story has 'Chapter 5: The Rescue' and 'Chapter 6: The Journey Home'. Which chapter would you choose to reread how someone was saved?",
     "visual": {
@@ -1028,12 +1018,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "The rescue title points to the saving event.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-004",
@@ -1042,7 +1032,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
     "stage": "recognise",
-    "skill": "test_sidebar",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A school site side-bar lists 'News', 'Calendar' and 'Class work'. Which is the best first choice for dates of upcoming events?",
     "audio_prompt": "A school site side-bar lists 'News', 'Calendar' and 'Class work'. Which is the best first choice for dates of upcoming events?",
     "visual": {
@@ -1066,12 +1056,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "A calendar is organised around dates and scheduled events.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-005",
@@ -1080,7 +1070,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
     "stage": "recognise",
-    "skill": "test_dropdown",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A library's 'Borrow' menu opens 'Books', 'Audiobooks' and 'Magazines'. Which option helps you find a story to listen to?",
     "audio_prompt": "A library's 'Borrow' menu opens 'Books', 'Audiobooks' and 'Magazines'. Which option helps you find a story to listen to?",
     "visual": {
@@ -1104,12 +1094,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "Audiobooks provide recorded reading, matching the listening goal.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-006",
@@ -1118,7 +1108,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
     "stage": "recognise",
-    "skill": "test_link",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "You want to hear how a new word sounds. Which link label best matches?",
     "audio_prompt": "You want to hear how a new word sounds. Which link label best matches?",
     "visual": {
@@ -1142,12 +1132,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "The label explicitly offers the pronunciation or spoken word.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-007",
@@ -1156,7 +1146,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
     "stage": "recognise",
-    "skill": "test_feature_choice",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "You remember a small mention of 'camouflage' but not its chapter. What should you check first if the book has one?",
     "audio_prompt": "You remember a small mention of 'camouflage' but not its chapter. What should you check first if the book has one?",
     "visual": {
@@ -1180,12 +1170,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "An index can locate a specific topic without knowing its chapter.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-008",
@@ -1194,7 +1184,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
     "stage": "recognise",
-    "skill": "test_overview",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A reader wants to see which major topics a book covers. What should they scan?",
     "audio_prompt": "A reader wants to see which major topics a book covers. What should they scan?",
     "visual": {
@@ -1218,12 +1208,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "The contents offers an overview of the book's sections.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-009",
@@ -1231,8 +1221,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
-    "stage": "connect",
-    "skill": "test_range",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Contents: 'Tracks — 6; Nests — 12; Burrows — 20'. Page 17 is most likely in which section?",
     "audio_prompt": "Contents: 'Tracks — 6; Nests — 12; Burrows — 20'. Page 17 is most likely in which section?",
     "visual": {
@@ -1256,12 +1246,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "The Nests section starts at 12 and continues until the next section at 20.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-010",
@@ -1269,8 +1259,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
-    "stage": "connect",
-    "skill": "test_alphabetical",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Where would 'lizards' go in an alphabetical index?",
     "audio_prompt": "Where would 'lizards' go in an alphabetical index?",
     "visual": {
@@ -1294,12 +1284,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "Within the l entries, le comes before li, and li before lo.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-011",
@@ -1307,8 +1297,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
-    "stage": "connect",
-    "skill": "test_nested_menu",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "On a nature site choose 'Explore', then a menu offers 'Ocean' and 'Bushland'. Where would you go for rock-pool animals?",
     "audio_prompt": "On a nature site choose 'Explore', then a menu offers 'Ocean' and 'Bushland'. Where would you go for rock-pool animals?",
     "visual": {
@@ -1332,12 +1322,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "Rock pools are coastal, so the Ocean category is the relevant route.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-012",
@@ -1345,8 +1335,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
-    "stage": "connect",
-    "skill": "test_verify",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "You follow a contents entry to page 25. What should you check to confirm the destination?",
     "audio_prompt": "You follow a contents entry to page 25. What should you check to confirm the destination?",
     "visual": {
@@ -1370,12 +1360,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "The heading confirms the page belongs to the intended section.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-013",
@@ -1383,8 +1373,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
-    "stage": "connect",
-    "skill": "test_link_prediction",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A link says 'Download the walking map'. What would you expect it to provide?",
     "audio_prompt": "A link says 'Download the walking map'. What would you expect it to provide?",
     "visual": {
@@ -1408,12 +1398,12 @@
     "correct_index": 0,
     "explanation": {
       "summary": "The link describes both an action, download, and the content, the map.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-014",
@@ -1421,8 +1411,8 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
-    "stage": "connect",
-    "skill": "test_topic_match",
+    "stage": "apply",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "A drop-down under 'Care for your pet' shows 'Food', 'Exercise' and 'Health checks'. Which should you select for advice about daily walks?",
     "audio_prompt": "A drop-down under 'Care for your pet' shows 'Food', 'Exercise' and 'Health checks'. Which should you select for advice about daily walks?",
     "visual": {
@@ -1446,12 +1436,12 @@
     "correct_index": 1,
     "explanation": {
       "summary": "Walking is an exercise topic, making it the most direct choice.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
-    "difficulty_tier": "developing",
+    "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-first5-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-015",
@@ -1460,7 +1450,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_print_route",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "Use a book's index to find a topic and turn to one listed page. Show the adult the information you found and explain how the entry helped.",
     "audio_prompt": "Use a book's index to find a topic and turn to one listed page. Show the adult the information you found and explain how the entry helped.",
     "visual": {
@@ -1484,17 +1474,12 @@
     "correct_index": 2,
     "explanation": {
       "summary": "Accept a real book or an adult-prepared numbered paper text with an index. Require demonstrated use, not a memorised definition.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "transfer",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-first5-original-v1",
-    "grading_mode": "adult-review",
-    "model_answer": "The child uses a topic entry and its page number, then locates relevant information on that page.",
-    "acceptance_note": "Accept a real book or an adult-prepared numbered paper text with an index. Require demonstrated use, not a memorised definition.",
-    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA05-T-016",
@@ -1503,7 +1488,7 @@
     "curriculum_code": "AC9E2LA05",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_screen_route",
+    "skill": "finding_information_in_print_and_screen_texts",
     "question": "On an adult-approved website or prepared paper screen, find a menu link leading to a chosen topic. Follow it and explain how you checked the destination.",
     "audio_prompt": "On an adult-approved website or prepared paper screen, find a menu link leading to a chosen topic. Follow it and explain how you checked the destination.",
     "visual": {
@@ -1527,16 +1512,11 @@
     "correct_index": 0,
     "explanation": {
       "summary": "Accept successful navigation and checking. Do not require typing credentials, downloading files or visiting unfamiliar sites.",
-      "hint": "Match the information you need to the label, topic entry or page reference."
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "transfer",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-first5-original-v1",
-    "grading_mode": "adult-review",
-    "model_answer": "The child predicts the destination from the label, follows the link and checks the resulting title or content.",
-    "acceptance_note": "Accept successful navigation and checking. Do not require typing credentials, downloading files or visiting unfamiliar sites.",
-    "response_instructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   }
 ]

@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "What does reread mean?",
-    "audio_prompt": "What does reread mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word belongs to the same meaningful family as help?",
+    "audio_prompt": "Which word belongs to the same meaningful family as help?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "read again",
+        "text": "helmet",
+        "is_correct": false
+      },
+      {
+        "text": "held",
+        "is_correct": false
+      },
+      {
+        "text": "helper",
         "is_correct": true
-      },
-      {
-        "text": "read before",
-        "is_correct": false
-      },
-      {
-        "text": "read badly",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Helper contains the base help and the suffix er.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "What does misplace mean?",
-    "audio_prompt": "What does misplace mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word means not happy?",
+    "audio_prompt": "Which word means not happy?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "place again",
-        "is_correct": false
-      },
-      {
-        "text": "place before",
-        "is_correct": false
-      },
-      {
-        "text": "place wrongly",
+        "text": "unhappy",
         "is_correct": true
+      },
+      {
+        "text": "rehappy",
+        "is_correct": false
+      },
+      {
+        "text": "happyful",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The prefix un before happy adds the meaning not.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "Which word means full of care?",
-    "audio_prompt": "Which word means full of care?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word names a person who plays?",
+    "audio_prompt": "Which word names a person who plays?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "caringly",
+        "text": "playful",
         "is_correct": false
       },
       {
-        "text": "careful",
+        "text": "player",
         "is_correct": true
       },
       {
-        "text": "careless",
+        "text": "replay",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix er can mean a person who performs the action in the base word.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "Make the regular plural of box.",
-    "audio_prompt": "Make the regular plural of box.",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word means full of care?",
+    "audio_prompt": "Which word means full of care?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "boxes",
+        "text": "careless",
+        "is_correct": false
+      },
+      {
+        "text": "recare",
+        "is_correct": false
+      },
+      {
+        "text": "careful",
         "is_correct": true
-      },
-      {
-        "text": "boxs",
-        "is_correct": false
-      },
-      {
-        "text": "boxies",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix ful adds the meaning full of to the base care.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "What does reread mean?",
-    "audio_prompt": "What does reread mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word shows that the jumping happened in the past?",
+    "audio_prompt": "Which word shows that the jumping happened in the past?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "read before",
-        "is_correct": false
-      },
-      {
-        "text": "read badly",
-        "is_correct": false
-      },
-      {
-        "text": "read again",
+        "text": "jumped",
         "is_correct": true
+      },
+      {
+        "text": "jumper",
+        "is_correct": false
+      },
+      {
+        "text": "jumping",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix ed marks the action as having happened in the past.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "What does misplace mean?",
-    "audio_prompt": "What does misplace mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word is built from kind and means the quality of being kind?",
+    "audio_prompt": "Which word is built from kind and means the quality of being kind?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "place before",
+        "text": "unkind",
         "is_correct": false
       },
       {
-        "text": "place wrongly",
+        "text": "kindness",
         "is_correct": true
       },
       {
-        "text": "place again",
+        "text": "kindly",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix ness changes kind into a noun naming the quality.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "Which word means full of care?",
-    "audio_prompt": "Which word means full of care?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which set contains only members of the play word family?",
+    "audio_prompt": "Which set contains only members of the play word family?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "careful",
+        "text": "play, plate, plant",
+        "is_correct": false
+      },
+      {
+        "text": "player, place, plain",
+        "is_correct": false
+      },
+      {
+        "text": "play, player, playful",
         "is_correct": true
-      },
-      {
-        "text": "careless",
-        "is_correct": false
-      },
-      {
-        "text": "caringly",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Each correct word keeps the meaningful base play.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "Make the regular plural of box.",
-    "audio_prompt": "Make the regular plural of box.",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "A wall needs to be painted again. Which word names the action?",
+    "audio_prompt": "A wall needs to be painted again. Which word names the action?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "boxs",
-        "is_correct": false
-      },
-      {
-        "text": "boxies",
-        "is_correct": false
-      },
-      {
-        "text": "boxes",
+        "text": "repaint",
         "is_correct": true
+      },
+      {
+        "text": "painter",
+        "is_correct": false
+      },
+      {
+        "text": "painted",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The prefix re before paint adds the meaning again.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-009",
@@ -310,36 +310,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does reread mean?",
-    "audio_prompt": "What does reread mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "A child is in the middle of a jump. Which word shows the action is happening now?",
+    "audio_prompt": "A child is in the middle of a jump. Which word shows the action is happening now?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "read badly",
+        "text": "jumped",
         "is_correct": false
       },
       {
-        "text": "read again",
+        "text": "jumping",
         "is_correct": true
       },
       {
-        "text": "read before",
+        "text": "jumper",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix ing forms jumping, which can show an action in progress.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-010",
@@ -348,36 +348,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does misplace mean?",
-    "audio_prompt": "What does misplace mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word adds a suffix to show more than one cat?",
+    "audio_prompt": "Which word adds a suffix to show more than one cat?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "place wrongly",
+        "text": "catty",
+        "is_correct": false
+      },
+      {
+        "text": "recat",
+        "is_correct": false
+      },
+      {
+        "text": "cats",
         "is_correct": true
-      },
-      {
-        "text": "place again",
-        "is_correct": false
-      },
-      {
-        "text": "place before",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The plural suffix s changes cat to cats.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-011",
@@ -386,36 +386,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "Which word means full of care?",
-    "audio_prompt": "Which word means full of care?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word belongs to the same meaningful family as help? Why is “helper” the best answer?",
+    "audio_prompt": "Which word belongs to the same meaningful family as help? Why is “helper” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "careless",
-        "is_correct": false
-      },
-      {
-        "text": "caringly",
-        "is_correct": false
-      },
-      {
-        "text": "careful",
+        "text": "Helper contains the base help and the suffix er.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “helmet”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Helper contains the base help and the suffix er.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-012",
@@ -424,36 +424,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "Make the regular plural of box.",
-    "audio_prompt": "Make the regular plural of box.",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word means not happy? Why is “unhappy” the best answer?",
+    "audio_prompt": "Which word means not happy? Why is “unhappy” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "boxies",
+        "text": "It is best only because it is longer than “rehappy”.",
         "is_correct": false
       },
       {
-        "text": "boxes",
+        "text": "The prefix un before happy adds the meaning not.",
         "is_correct": true
       },
       {
-        "text": "boxs",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The prefix un before happy adds the meaning not.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-013",
@@ -462,36 +462,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does reread mean?",
-    "audio_prompt": "What does reread mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word names a person who plays? Why is “player” the best answer?",
+    "audio_prompt": "Which word names a person who plays? Why is “player” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "read again",
+        "text": "It is best only because it is longer than “playful”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The suffix er can mean a person who performs the action in the base word.",
         "is_correct": true
-      },
-      {
-        "text": "read before",
-        "is_correct": false
-      },
-      {
-        "text": "read badly",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix er can mean a person who performs the action in the base word.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-014",
@@ -500,36 +500,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does misplace mean?",
-    "audio_prompt": "What does misplace mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word means full of care? Why is “careful” the best answer?",
+    "audio_prompt": "Which word means full of care? Why is “careful” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "place again",
-        "is_correct": false
-      },
-      {
-        "text": "place before",
-        "is_correct": false
-      },
-      {
-        "text": "place wrongly",
+        "text": "The suffix ful adds the meaning full of to the base care.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “careless”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix ful adds the meaning full of to the base care.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-015",
@@ -538,36 +538,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "Which word means full of care?",
-    "audio_prompt": "Which word means full of care?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word shows that the jumping happened in the past? Why is “jumped” the best answer?",
+    "audio_prompt": "Which word shows that the jumping happened in the past? Why is “jumped” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "caringly",
+        "text": "It is best only because it is longer than “jumper”.",
         "is_correct": false
       },
       {
-        "text": "careful",
+        "text": "The suffix ed marks the action as having happened in the past.",
         "is_correct": true
       },
       {
-        "text": "careless",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix ed marks the action as having happened in the past.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-016",
@@ -576,36 +576,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "Make the regular plural of box.",
-    "audio_prompt": "Make the regular plural of box.",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word is built from kind and means the quality of being kind? Why is “kindness” the best answer?",
+    "audio_prompt": "Which word is built from kind and means the quality of being kind? Why is “kindness” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "boxes",
+        "text": "It is best only because it is longer than “unkind”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The suffix ness changes kind into a noun naming the quality.",
         "is_correct": true
-      },
-      {
-        "text": "boxs",
-        "is_correct": false
-      },
-      {
-        "text": "boxies",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix ness changes kind into a noun naming the quality.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does reread mean?",
-    "audio_prompt": "What does reread mean?",
+    "stage": "independent",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which set contains only members of the play word family? Why is “play, player, playful” the best answer?",
+    "audio_prompt": "Which set contains only members of the play word family? Why is “play, player, playful” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "read before",
-        "is_correct": false
-      },
-      {
-        "text": "read badly",
-        "is_correct": false
-      },
-      {
-        "text": "read again",
+        "text": "Each correct word keeps the meaningful base play.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “play, plate, plant”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Each correct word keeps the meaningful base play.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 17,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does misplace mean?",
-    "audio_prompt": "What does misplace mean?",
+    "stage": "independent",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "A wall needs to be painted again. Which word names the action? Why is “repaint” the best answer?",
+    "audio_prompt": "A wall needs to be painted again. Which word names the action? Why is “repaint” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "place before",
+        "text": "It is best only because it is longer than “painter”.",
         "is_correct": false
       },
       {
-        "text": "place wrongly",
+        "text": "The prefix re before paint adds the meaning again.",
         "is_correct": true
       },
       {
-        "text": "place again",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The prefix re before paint adds the meaning again.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 18,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "morphemes",
-    "question": "Which word means full of care?",
-    "audio_prompt": "Which word means full of care?",
+    "stage": "independent",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "A child is in the middle of a jump. Which word shows the action is happening now? Why is “jumping” the best answer?",
+    "audio_prompt": "A child is in the middle of a jump. Which word shows the action is happening now? Why is “jumping” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "careful",
+        "text": "It is best only because it is longer than “jumped”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The suffix ing forms jumping, which can show an action in progress.",
         "is_correct": true
-      },
-      {
-        "text": "careless",
-        "is_correct": false
-      },
-      {
-        "text": "caringly",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix ing forms jumping, which can show an action in progress.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 19,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "morphemes",
-    "question": "Make the regular plural of box.",
-    "audio_prompt": "Make the regular plural of box.",
+    "stage": "independent",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word adds a suffix to show more than one cat? Why is “cats” the best answer?",
+    "audio_prompt": "Which word adds a suffix to show more than one cat? Why is “cats” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "boxs",
-        "is_correct": false
-      },
-      {
-        "text": "boxies",
-        "is_correct": false
-      },
-      {
-        "text": "boxes",
+        "text": "The plural suffix s changes cat to cats.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “catty”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The plural suffix s changes cat to cats.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 20,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does reread mean?",
-    "audio_prompt": "What does reread mean?",
+    "stage": "independent",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word names a person who plays? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which word names a person who plays? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "read badly",
+        "text": "player",
         "is_correct": false
       },
       {
-        "text": "read again",
+        "text": "playful",
         "is_correct": true
       },
       {
-        "text": "read before",
+        "text": "replay",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“playful” is the mix-up to avoid. Find the word part that names the person doing the action.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 21,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does misplace mean?",
-    "audio_prompt": "What does misplace mean?",
+    "stage": "independent",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word means full of care? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which word means full of care? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "place wrongly",
+        "text": "careful",
+        "is_correct": false
+      },
+      {
+        "text": "recare",
+        "is_correct": false
+      },
+      {
+        "text": "careless",
         "is_correct": true
-      },
-      {
-        "text": "place again",
-        "is_correct": false
-      },
-      {
-        "text": "place before",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“careless” is the mix-up to avoid. Match the suffix meaning to the clue full of.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 22,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-023",
@@ -841,43 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LY12. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY12. Use your own example.",
+    "stage": "independent",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word shows that the jumping happened in the past? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which word shows that the jumping happened in the past? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "jumper",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "jumped",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "jumping",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Morphemic Word Families.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“jumper” is the mix-up to avoid. Choose the suffix that fits an action already completed.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Morphemic Word Families.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-P-024",
@@ -885,43 +879,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY12",
     "bank": "practice",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LY12, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LY12, then explain the answer.",
+    "stage": "independent",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word is built from kind and means the quality of being kind? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which word is built from kind and means the quality of being kind? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "kindness",
+        "is_correct": false
+      },
+      {
+        "text": "unkind",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "kindly",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“unkind” is the mix-up to avoid. Look for the suffix that names a state or quality.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-001",
@@ -930,36 +918,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "What does reread mean?",
-    "audio_prompt": "What does reread mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Mia reads a page again. Which word uses a prefix to name this action?",
+    "audio_prompt": "Mia reads a page again. Which word uses a prefix to name this action?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "read again",
+        "text": "reader",
+        "is_correct": false
+      },
+      {
+        "text": "reading",
+        "is_correct": false
+      },
+      {
+        "text": "reread",
         "is_correct": true
-      },
-      {
-        "text": "read before",
-        "is_correct": false
-      },
-      {
-        "text": "read badly",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The prefix re adds the meaning again to the base read.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-002",
@@ -968,36 +956,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "What does misplace mean?",
-    "audio_prompt": "What does misplace mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word means without hope?",
+    "audio_prompt": "Which word means without hope?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "place again",
-        "is_correct": false
-      },
-      {
-        "text": "place before",
-        "is_correct": false
-      },
-      {
-        "text": "place wrongly",
+        "text": "hopeless",
         "is_correct": true
+      },
+      {
+        "text": "hopeful",
+        "is_correct": false
+      },
+      {
+        "text": "rehoped",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix less adds the meaning without to the base hope.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-003",
@@ -1006,36 +994,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "Which word means full of care?",
-    "audio_prompt": "Which word means full of care?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word means a person who teaches?",
+    "audio_prompt": "Which word means a person who teaches?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "caringly",
+        "text": "teaching",
         "is_correct": false
       },
       {
-        "text": "careful",
+        "text": "teacher",
         "is_correct": true
       },
       {
-        "text": "careless",
+        "text": "reteach",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix er changes teach into a noun for the person doing the action.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-004",
@@ -1044,36 +1032,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "Make the regular plural of box.",
-    "audio_prompt": "Make the regular plural of box.",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "What does the prefix dis add in disagree?",
+    "audio_prompt": "What does the prefix dis add in disagree?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "boxes",
+        "text": "the meaning agree many times",
+        "is_correct": false
+      },
+      {
+        "text": "the meaning a person who agrees",
+        "is_correct": false
+      },
+      {
+        "text": "the meaning not or the opposite of agreeing",
         "is_correct": true
-      },
-      {
-        "text": "boxs",
-        "is_correct": false
-      },
-      {
-        "text": "boxies",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Dis changes agree to mean not having the same opinion.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-005",
@@ -1082,36 +1070,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "What does reread mean?",
-    "audio_prompt": "What does reread mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Three towers are tall, taller and tallest. Which suffix shows the greatest amount?",
+    "audio_prompt": "Three towers are tall, taller and tallest. Which suffix shows the greatest amount?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "read before",
-        "is_correct": false
-      },
-      {
-        "text": "read badly",
-        "is_correct": false
-      },
-      {
-        "text": "read again",
+        "text": "est",
         "is_correct": true
+      },
+      {
+        "text": "er",
+        "is_correct": false
+      },
+      {
+        "text": "ed",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix est in tallest marks the greatest degree among the towers.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-006",
@@ -1120,36 +1108,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "What does misplace mean?",
-    "audio_prompt": "What does misplace mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Why does worm not belong in the work word family?",
+    "audio_prompt": "Why does worm not belong in the work word family?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "place before",
+        "text": "Worm does not rhyme exactly with work.",
         "is_correct": false
       },
       {
-        "text": "place wrongly",
+        "text": "Worm does not contain the meaningful base work.",
         "is_correct": true
       },
       {
-        "text": "place again",
+        "text": "Family words must begin with work and keep the same ending sound.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Similar first letters do not create a morphemic family when the base and meaning differ.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-007",
@@ -1158,36 +1146,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "Which word means full of care?",
-    "audio_prompt": "Which word means full of care?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "The oven must heat before the food goes in. Which word uses a prefix to name this action?",
+    "audio_prompt": "The oven must heat before the food goes in. Which word uses a prefix to name this action?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "careful",
+        "text": "reheat",
+        "is_correct": false
+      },
+      {
+        "text": "heater",
+        "is_correct": false
+      },
+      {
+        "text": "preheat",
         "is_correct": true
-      },
-      {
-        "text": "careless",
-        "is_correct": false
-      },
-      {
-        "text": "caringly",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The prefix pre adds the meaning before to the base heat.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-008",
@@ -1196,36 +1184,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "recognise",
-    "skill": "morphemes",
-    "question": "Make the regular plural of box.",
-    "audio_prompt": "Make the regular plural of box.",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "A turtle moves in a slow way. Which word adds a suffix to describe how it moves?",
+    "audio_prompt": "A turtle moves in a slow way. Which word adds a suffix to describe how it moves?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "boxs",
-        "is_correct": false
-      },
-      {
-        "text": "boxies",
-        "is_correct": false
-      },
-      {
-        "text": "boxes",
+        "text": "slowly",
         "is_correct": true
+      },
+      {
+        "text": "slower",
+        "is_correct": false
+      },
+      {
+        "text": "slowest",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix ly changes slow into an adverb describing how the turtle moves.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-009",
@@ -1234,36 +1222,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does reread mean?",
-    "audio_prompt": "What does reread mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Mia reads a page again. Which word uses a prefix to name this action? Which reason best supports the correct choice?",
+    "audio_prompt": "Mia reads a page again. Which word uses a prefix to name this action? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "read badly",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "read again",
+        "text": "The prefix re adds the meaning again to the base read.",
         "is_correct": true
       },
       {
-        "text": "read before",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The prefix re adds the meaning again to the base read.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-010",
@@ -1272,36 +1260,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does misplace mean?",
-    "audio_prompt": "What does misplace mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word means without hope? Which reason best supports the correct choice?",
+    "audio_prompt": "Which word means without hope? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "place wrongly",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The suffix less adds the meaning without to the base hope.",
         "is_correct": true
-      },
-      {
-        "text": "place again",
-        "is_correct": false
-      },
-      {
-        "text": "place before",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix less adds the meaning without to the base hope.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-011",
@@ -1310,36 +1298,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "Which word means full of care?",
-    "audio_prompt": "Which word means full of care?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Which word means a person who teaches? Which reason best supports the correct choice?",
+    "audio_prompt": "Which word means a person who teaches? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "careless",
-        "is_correct": false
-      },
-      {
-        "text": "caringly",
-        "is_correct": false
-      },
-      {
-        "text": "careful",
+        "text": "The suffix er changes teach into a noun for the person doing the action.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix er changes teach into a noun for the person doing the action.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-012",
@@ -1348,36 +1336,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "Make the regular plural of box.",
-    "audio_prompt": "Make the regular plural of box.",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "What does the prefix dis add in disagree? Which reason best supports the correct choice?",
+    "audio_prompt": "What does the prefix dis add in disagree? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "boxies",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "boxes",
+        "text": "Dis changes agree to mean not having the same opinion.",
         "is_correct": true
       },
       {
-        "text": "boxs",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Dis changes agree to mean not having the same opinion.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-013",
@@ -1386,36 +1374,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does reread mean?",
-    "audio_prompt": "What does reread mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Three towers are tall, taller and tallest. Which suffix shows the greatest amount? Which reason best supports the correct choice?",
+    "audio_prompt": "Three towers are tall, taller and tallest. Which suffix shows the greatest amount? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "read again",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The suffix est in tallest marks the greatest degree among the towers.",
         "is_correct": true
-      },
-      {
-        "text": "read before",
-        "is_correct": false
-      },
-      {
-        "text": "read badly",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The suffix est in tallest marks the greatest degree among the towers.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-014",
@@ -1424,36 +1412,36 @@
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
     "stage": "apply",
-    "skill": "morphemes",
-    "question": "What does misplace mean?",
-    "audio_prompt": "What does misplace mean?",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "Why does worm not belong in the work word family? Which reason best supports the correct choice?",
+    "audio_prompt": "Why does worm not belong in the work word family? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "place again",
-        "is_correct": false
-      },
-      {
-        "text": "place before",
-        "is_correct": false
-      },
-      {
-        "text": "place wrongly",
+        "text": "Similar first letters do not create a morphemic family when the base and meaning differ.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Prefixes, suffixes and endings change word meaning or grammar.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Similar first letters do not create a morphemic family when the base and meaning differ.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-015",
@@ -1461,43 +1449,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LY12. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY12. Use your own example.",
+    "stage": "apply",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "The oven must heat before the food goes in. Which word uses a prefix to name this action? Which reason best supports the correct choice?",
+    "audio_prompt": "The oven must heat before the food goes in. Which word uses a prefix to name this action? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The prefix pre adds the meaning before to the base heat.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Morphemic Word Families.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "The prefix pre adds the meaning before to the base heat.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Morphemic Word Families.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY12-T-016",
@@ -1505,42 +1487,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY12",
     "bank": "test",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LY12, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LY12, then explain the answer.",
+    "stage": "apply",
+    "skill": "prefixes_suffixes_and_word_families",
+    "question": "A turtle moves in a slow way. Which word adds a suffix to describe how it moves? Which reason best supports the correct choice?",
+    "audio_prompt": "A turtle moves in a slow way. Which word adds a suffix to describe how it moves? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The suffix ly changes slow into an adverb describing how the turtle moves.",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "The suffix ly changes slow into an adverb describing how the turtle moves.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   }
 ]

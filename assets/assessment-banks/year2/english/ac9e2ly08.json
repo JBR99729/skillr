@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which word shows clear lower-case letters?",
-    "audio_prompt": "Which word shows clear lower-case letters?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A handwriting sample says ‘thebigdog’ with no gaps. Which change improves legibility?",
+    "audio_prompt": "A handwriting sample says ‘thebigdog’ with no gaps. Which change improves legibility?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "garden",
+        "text": "Join every word into one longer shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Write ‘the big dog’ with a clear space between each word.",
         "is_correct": true
       },
       {
-        "text": "GaRdEn",
-        "is_correct": false
-      },
-      {
-        "text": "g ar den with missing letters",
+        "text": "Put a space between every letter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Word spaces show where one word ends and the next begins.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which pair shows upper-case then lower-case for m?",
-    "audio_prompt": "Which pair shows upper-case then lower-case for m?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "In a sample, some letters float above the writing line. What should the writer practise?",
+    "audio_prompt": "In a sample, some letters float above the writing line. What should the writer practise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "m M",
+        "text": "making every letter the same size while leaving it above the line",
         "is_correct": false
       },
       {
-        "text": "N n",
+        "text": "making the word darker without changing where its letters sit",
         "is_correct": false
       },
       {
-        "text": "M m",
+        "text": "placing the main parts of letters on the line",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Consistent placement on the line makes words easier to recognise.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "What helps handwriting fluency?",
-    "audio_prompt": "What helps handwriting fluency?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "The letters in ‘market’ change from tiny to very large. Which goal is most useful?",
+    "audio_prompt": "The letters in ‘market’ change from tiny to very large. Which goal is most useful?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "mixing letters randomly",
-        "is_correct": false
-      },
-      {
-        "text": "steady letter size and spacing",
+        "text": "Keep letters of the same kind at a consistent size.",
         "is_correct": true
       },
       {
-        "text": "writing over every line twice",
+        "text": "Make every letter as tall as the lower-case k.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the changing sizes but place the word carefully on the line.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Consistent letter size helps the word look clear and balanced.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which sentence is easiest to read?",
-    "audio_prompt": "Which sentence is easiest to read?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A lower-case a is open at the side and looks like u. What change helps?",
+    "audio_prompt": "A lower-case a is open at the side and looks like u. What change helps?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The duck swims.",
+        "text": "Add a tall downstroke so the open shape looks like d.",
+        "is_correct": false
+      },
+      {
+        "text": "Close the round part before adding the short downstroke.",
         "is_correct": true
       },
       {
-        "text": "tHe duCk sWims",
-        "is_correct": false
-      },
-      {
-        "text": "Theduckswims",
+        "text": "Make the open round part smaller but leave the gap at its side.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Closing the round part preserves the recognisable shape of lower-case a.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which word shows clear lower-case letters?",
-    "audio_prompt": "Which word shows clear lower-case letters?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Which sample uses unjoined upper- and lower-case letters clearly for the name ‘Mina’ ?",
+    "audio_prompt": "Which sample uses unjoined upper- and lower-case letters clearly for the name ‘Mina’ ?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "GaRdEn",
+        "text": "mINA — lower-case first letter and three capitals",
         "is_correct": false
       },
       {
-        "text": "g ar den with missing letters",
+        "text": "MINa — three capitals then lower-case a",
         "is_correct": false
       },
       {
-        "text": "garden",
+        "text": "Mina — capital first letter only",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The name begins with an upper-case M followed by clear lower-case letters.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which pair shows upper-case then lower-case for m?",
-    "audio_prompt": "Which pair shows upper-case then lower-case for m?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Zac forms letters clearly when writing slowly. What is the best way to build speed?",
+    "audio_prompt": "Zac forms letters clearly when writing slowly. What is the best way to build speed?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "N n",
-        "is_correct": false
-      },
-      {
-        "text": "M m",
+        "text": "Repeat short accurate practice and increase pace gradually.",
         "is_correct": true
       },
       {
-        "text": "m M",
+        "text": "Rush long pages until letter shapes disappear.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop checking formation once the first word is written.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Brief accurate repetition builds smoother movement without losing legibility.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "What helps handwriting fluency?",
-    "audio_prompt": "What helps handwriting fluency?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "After writing a sentence, Priya sees clear letters but two words touch. What should she fix?",
+    "audio_prompt": "After writing a sentence, Priya sees clear letters but two words touch. What should she fix?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "steady letter size and spacing",
+        "text": "the darkness of the letters that are already clear",
+        "is_correct": false
+      },
+      {
+        "text": "the spaces between those words",
         "is_correct": true
       },
       {
-        "text": "writing over every line twice",
-        "is_correct": false
-      },
-      {
-        "text": "mixing letters randomly",
+        "text": "the size of every letter, without separating the words",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The letter shapes are clear, so the specific next improvement is word spacing.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which sentence is easiest to read?",
-    "audio_prompt": "Which sentence is easiest to read?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "In a sample, h and l are much shorter than the other tall letters. What should the writer practise?",
+    "audio_prompt": "In a sample, h and l are much shorter than the other tall letters. What should the writer practise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "tHe duCk sWims",
+        "text": "making every letter the height of a lower-case a",
         "is_correct": false
       },
       {
-        "text": "Theduckswims",
+        "text": "changing h and l into capital letters",
         "is_correct": false
       },
       {
-        "text": "The duck swims.",
+        "text": "making h and l reach the same tall-letter height",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Consistent tall-letter height helps h and l stay recognisable and balanced.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-009",
@@ -310,36 +310,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which word shows clear lower-case letters?",
-    "audio_prompt": "Which word shows clear lower-case letters?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "The tail of lower-case g sits on the writing line instead of below it. Which change helps?",
+    "audio_prompt": "The tail of lower-case g sits on the writing line instead of below it. Which change helps?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "g ar den with missing letters",
-        "is_correct": false
-      },
-      {
-        "text": "garden",
+        "text": "Let the tail extend below the line while the round part sits on it.",
         "is_correct": true
       },
       {
-        "text": "GaRdEn",
+        "text": "Lift the whole g above the line.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the tail so g looks like a.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Lower-case g has a main part on the line and a descender below it.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-010",
@@ -348,36 +348,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which pair shows upper-case then lower-case for m?",
-    "audio_prompt": "Which pair shows upper-case then lower-case for m?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Which handwritten sentence begins with the correct case?",
+    "audio_prompt": "Which handwritten sentence begins with the correct case?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "M m",
+        "text": "birds build nests. — lower-case b begins the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Birds build nests. — capital B begins the sentence",
         "is_correct": true
       },
       {
-        "text": "m M",
-        "is_correct": false
-      },
-      {
-        "text": "N n",
+        "text": "bIRDS build nests. — capitals appear inside the first word",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A sentence begins with an upper-case letter and continues with suitable lower-case letters.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-011",
@@ -386,36 +386,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "What helps handwriting fluency?",
-    "audio_prompt": "What helps handwriting fluency?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A handwriting sample says ‘thebigdog’ with no gaps. Which change improves legibility? Why is “Write ‘the big dog’ with a clear space between each word.” the best answer?",
+    "audio_prompt": "A handwriting sample says ‘thebigdog’ with no gaps. Which change improves legibility? Why is “Write ‘the big dog’ with a clear space between each word.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "writing over every line twice",
+        "text": "It is best only because it is longer than “Join every word into one longer shape.”.",
         "is_correct": false
       },
       {
-        "text": "mixing letters randomly",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "steady letter size and spacing",
+        "text": "Word spaces show where one word ends and the next begins.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Word spaces show where one word ends and the next begins.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-012",
@@ -424,36 +424,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which sentence is easiest to read?",
-    "audio_prompt": "Which sentence is easiest to read?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "In a sample, some letters float above the writing line. What should the writer practise? Why is “placing the main parts of letters on the line” the best answer?",
+    "audio_prompt": "In a sample, some letters float above the writing line. What should the writer practise? Why is “placing the main parts of letters on the line” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Theduckswims",
-        "is_correct": false
-      },
-      {
-        "text": "The duck swims.",
+        "text": "Consistent placement on the line makes words easier to recognise.",
         "is_correct": true
       },
       {
-        "text": "tHe duCk sWims",
+        "text": "It is best only because it is longer than “making every letter the same size while leaving it above the line”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Consistent placement on the line makes words easier to recognise.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-013",
@@ -462,36 +462,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which word shows clear lower-case letters?",
-    "audio_prompt": "Which word shows clear lower-case letters?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "The letters in ‘market’ change from tiny to very large. Which goal is most useful? Why is “Keep letters of the same kind at a consistent size.” the best answer?",
+    "audio_prompt": "The letters in ‘market’ change from tiny to very large. Which goal is most useful? Why is “Keep letters of the same kind at a consistent size.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "garden",
+        "text": "It is best only because it is longer than “Make every letter as tall as the lower-case k.”.",
+        "is_correct": false
+      },
+      {
+        "text": "Consistent letter size helps the word look clear and balanced.",
         "is_correct": true
       },
       {
-        "text": "GaRdEn",
-        "is_correct": false
-      },
-      {
-        "text": "g ar den with missing letters",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Consistent letter size helps the word look clear and balanced.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-014",
@@ -500,36 +500,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which pair shows upper-case then lower-case for m?",
-    "audio_prompt": "Which pair shows upper-case then lower-case for m?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A lower-case a is open at the side and looks like u. What change helps? Why is “Close the round part before adding the short downstroke.” the best answer?",
+    "audio_prompt": "A lower-case a is open at the side and looks like u. What change helps? Why is “Close the round part before adding the short downstroke.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "m M",
+        "text": "It is best only because it is longer than “Add a tall downstroke so the open shape looks like d.”.",
         "is_correct": false
       },
       {
-        "text": "N n",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "M m",
+        "text": "Closing the round part preserves the recognisable shape of lower-case a.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Closing the round part preserves the recognisable shape of lower-case a.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-015",
@@ -538,36 +538,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "What helps handwriting fluency?",
-    "audio_prompt": "What helps handwriting fluency?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Which sample uses unjoined upper- and lower-case letters clearly for the name ‘Mina’ ? Why is “Mina — capital first letter only” the best answer?",
+    "audio_prompt": "Which sample uses unjoined upper- and lower-case letters clearly for the name ‘Mina’ ? Why is “Mina — capital first letter only” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "mixing letters randomly",
-        "is_correct": false
-      },
-      {
-        "text": "steady letter size and spacing",
+        "text": "The name begins with an upper-case M followed by clear lower-case letters.",
         "is_correct": true
       },
       {
-        "text": "writing over every line twice",
+        "text": "It is best only because it is longer than “mINA — lower-case first letter and three capitals”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The name begins with an upper-case M followed by clear lower-case letters.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-016",
@@ -576,36 +576,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which sentence is easiest to read?",
-    "audio_prompt": "Which sentence is easiest to read?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Zac forms letters clearly when writing slowly. What is the best way to build speed? Why is “Repeat short accurate practice and increase pace gradually.” the best answer?",
+    "audio_prompt": "Zac forms letters clearly when writing slowly. What is the best way to build speed? Why is “Repeat short accurate practice and increase pace gradually.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The duck swims.",
+        "text": "It is best only because it is longer than “Rush long pages until letter shapes disappear.”.",
+        "is_correct": false
+      },
+      {
+        "text": "Brief accurate repetition builds smoother movement without losing legibility.",
         "is_correct": true
       },
       {
-        "text": "tHe duCk sWims",
-        "is_correct": false
-      },
-      {
-        "text": "Theduckswims",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Brief accurate repetition builds smoother movement without losing legibility.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which word shows clear lower-case letters?",
-    "audio_prompt": "Which word shows clear lower-case letters?",
+    "stage": "independent",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "After writing a sentence, Priya sees clear letters but two words touch. What should she fix? Why is “the spaces between those words” the best answer?",
+    "audio_prompt": "After writing a sentence, Priya sees clear letters but two words touch. What should she fix? Why is “the spaces between those words” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "GaRdEn",
+        "text": "It is best only because it is longer than “the darkness of the letters that are already clear”.",
         "is_correct": false
       },
       {
-        "text": "g ar den with missing letters",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "garden",
+        "text": "The letter shapes are clear, so the specific next improvement is word spacing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The letter shapes are clear, so the specific next improvement is word spacing.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 17,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which pair shows upper-case then lower-case for m?",
-    "audio_prompt": "Which pair shows upper-case then lower-case for m?",
+    "stage": "independent",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "In a sample, h and l are much shorter than the other tall letters. What should the writer practise? Why is “making h and l reach the same tall-letter height” the best answer?",
+    "audio_prompt": "In a sample, h and l are much shorter than the other tall letters. What should the writer practise? Why is “making h and l reach the same tall-letter height” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "N n",
-        "is_correct": false
-      },
-      {
-        "text": "M m",
+        "text": "Consistent tall-letter height helps h and l stay recognisable and balanced.",
         "is_correct": true
       },
       {
-        "text": "m M",
+        "text": "It is best only because it is longer than “making every letter the height of a lower-case a”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Consistent tall-letter height helps h and l stay recognisable and balanced.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 18,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "handwriting",
-    "question": "What helps handwriting fluency?",
-    "audio_prompt": "What helps handwriting fluency?",
+    "stage": "independent",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "The tail of lower-case g sits on the writing line instead of below it. Which change helps? Why is “Let the tail extend below the line while the round part sits on it.” the best answer?",
+    "audio_prompt": "The tail of lower-case g sits on the writing line instead of below it. Which change helps? Why is “Let the tail extend below the line while the round part sits on it.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "steady letter size and spacing",
+        "text": "It is best only because it is longer than “Lift the whole g above the line.”.",
+        "is_correct": false
+      },
+      {
+        "text": "Lower-case g has a main part on the line and a descender below it.",
         "is_correct": true
       },
       {
-        "text": "writing over every line twice",
-        "is_correct": false
-      },
-      {
-        "text": "mixing letters randomly",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Lower-case g has a main part on the line and a descender below it.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 19,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which sentence is easiest to read?",
-    "audio_prompt": "Which sentence is easiest to read?",
+    "stage": "independent",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Which handwritten sentence begins with the correct case? Why is “Birds build nests. — capital B begins the sentence” the best answer?",
+    "audio_prompt": "Which handwritten sentence begins with the correct case? Why is “Birds build nests. — capital B begins the sentence” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "tHe duCk sWims",
+        "text": "It is best only because it is longer than “birds build nests. — lower-case b begins the sentence”.",
         "is_correct": false
       },
       {
-        "text": "Theduckswims",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "The duck swims.",
+        "text": "A sentence begins with an upper-case letter and continues with suitable lower-case letters.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A sentence begins with an upper-case letter and continues with suitable lower-case letters.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 20,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which word shows clear lower-case letters?",
-    "audio_prompt": "Which word shows clear lower-case letters?",
+    "stage": "independent",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "The letters in ‘market’ change from tiny to very large. Which goal is most useful? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "The letters in ‘market’ change from tiny to very large. Which goal is most useful? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "g ar den with missing letters",
-        "is_correct": false
-      },
-      {
-        "text": "garden",
+        "text": "Make every letter as tall as the lower-case k.",
         "is_correct": true
       },
       {
-        "text": "GaRdEn",
+        "text": "Keep letters of the same kind at a consistent size.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the changing sizes but place the word carefully on the line.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“Make every letter as tall as the lower-case k.” is the mix-up to avoid. Compare letters with similar height and adjust them to match.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 21,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which pair shows upper-case then lower-case for m?",
-    "audio_prompt": "Which pair shows upper-case then lower-case for m?",
+    "stage": "independent",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A lower-case a is open at the side and looks like u. What change helps? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A lower-case a is open at the side and looks like u. What change helps? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "M m",
+        "text": "Close the round part before adding the short downstroke.",
+        "is_correct": false
+      },
+      {
+        "text": "Add a tall downstroke so the open shape looks like d.",
         "is_correct": true
       },
       {
-        "text": "m M",
-        "is_correct": false
-      },
-      {
-        "text": "N n",
+        "text": "Make the open round part smaller but leave the gap at its side.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“Add a tall downstroke so the open shape looks like d.” is the mix-up to avoid. Focus on the movement that distinguishes the two letter shapes.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 22,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-023",
@@ -841,43 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LY08. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY08. Use your own example.",
+    "stage": "independent",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Which sample uses unjoined upper- and lower-case letters clearly for the name ‘Mina’ ? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sample uses unjoined upper- and lower-case letters clearly for the name ‘Mina’ ? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Mina — capital first letter only",
+        "is_correct": false
+      },
+      {
+        "text": "MINa — three capitals then lower-case a",
+        "is_correct": false
+      },
+      {
+        "text": "mINA — lower-case first letter and three capitals",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Legible Upper-case and Lower-case Writing.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“mINA — lower-case first letter and three capitals” is the mix-up to avoid. Use a capital at the start of the name and lower-case for the remaining letters.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Legible Upper-case and Lower-case Writing.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-P-024",
@@ -885,43 +879,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY08",
     "bank": "practice",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LY08, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LY08, then explain the answer.",
+    "stage": "independent",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Zac forms letters clearly when writing slowly. What is the best way to build speed? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Zac forms letters clearly when writing slowly. What is the best way to build speed? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Rush long pages until letter shapes disappear.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "Repeat short accurate practice and increase pace gradually.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "Stop checking formation once the first word is written.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“Rush long pages until letter shapes disappear.” is the mix-up to avoid. Keep clear formation while increasing pace a little at a time.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-001",
@@ -930,36 +918,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which word shows clear lower-case letters?",
-    "audio_prompt": "Which word shows clear lower-case letters?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Sample A has clear shapes and even spaces. Sample B is faster but several letters overlap. Which sample is more legible?",
+    "audio_prompt": "Sample A has clear shapes and even spaces. Sample B is faster but several letters overlap. Which sample is more legible?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "garden",
+        "text": "Sample B because finishing faster makes writing clearer",
+        "is_correct": false
+      },
+      {
+        "text": "Sample A",
         "is_correct": true
       },
       {
-        "text": "GaRdEn",
-        "is_correct": false
-      },
-      {
-        "text": "g ar den with missing letters",
+        "text": "Both, because even spaces can make overlapping shapes readable",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Clear shapes and even spacing make Sample A easier to read.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-002",
@@ -968,36 +956,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which pair shows upper-case then lower-case for m?",
-    "audio_prompt": "Which pair shows upper-case then lower-case for m?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "In ‘red kite’, the gap between d and k is the same as gaps inside each word. What should change?",
+    "audio_prompt": "In ‘red kite’, the gap between d and k is the same as gaps inside each word. What should change?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "m M",
+        "text": "Remove every gap in both words.",
         "is_correct": false
       },
       {
-        "text": "N n",
+        "text": "Put a large gap between each letter.",
         "is_correct": false
       },
       {
-        "text": "M m",
+        "text": "Make the gap between red and kite wider than letter gaps.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A wider word space separates red from kite while letters within each word stay grouped.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-003",
@@ -1006,36 +994,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "What helps handwriting fluency?",
-    "audio_prompt": "What helps handwriting fluency?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A writer starts lower-case d with a tall line, then cannot make its round part clearly. Which practice can help?",
+    "audio_prompt": "A writer starts lower-case d with a tall line, then cannot make its round part clearly. Which practice can help?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "mixing letters randomly",
-        "is_correct": false
-      },
-      {
-        "text": "steady letter size and spacing",
+        "text": "Form the round part first, then move up and down for the tall stroke.",
         "is_correct": true
       },
       {
-        "text": "writing over every line twice",
+        "text": "Add a separate dot above the d.",
+        "is_correct": false
+      },
+      {
+        "text": "Turn every lower-case d into upper-case D.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A consistent movement pattern helps form a recognisable unjoined lower-case d.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-004",
@@ -1044,36 +1032,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which sentence is easiest to read?",
-    "audio_prompt": "Which sentence is easiest to read?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Most letters in a sentence sit on the line, but the word sun floats above it. What is the precise goal?",
+    "audio_prompt": "Most letters in a sentence sit on the line, but the word sun floats above it. What is the precise goal?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The duck swims.",
+        "text": "Raise every other word to different heights.",
+        "is_correct": false
+      },
+      {
+        "text": "Place sun on the same baseline as the other words.",
         "is_correct": true
       },
       {
-        "text": "tHe duCk sWims",
-        "is_correct": false
-      },
-      {
-        "text": "Theduckswims",
+        "text": "Make sun darker without moving it.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Using one baseline keeps the whole sentence aligned and readable.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-005",
@@ -1082,36 +1070,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which word shows clear lower-case letters?",
-    "audio_prompt": "Which word shows clear lower-case letters?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A student writes ‘bIke’ in the middle of a sentence. Which edit gives consistent lower-case letters?",
+    "audio_prompt": "A student writes ‘bIke’ in the middle of a sentence. Which edit gives consistent lower-case letters?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "GaRdEn",
+        "text": "BIke — B and I are capitals",
         "is_correct": false
       },
       {
-        "text": "g ar den with missing letters",
+        "text": "bIKE — I, K and E are capitals",
         "is_correct": false
       },
       {
-        "text": "garden",
+        "text": "bike — all four letters are lower-case",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Bike uses lower-case letters consistently when no capital is needed.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-006",
@@ -1120,36 +1108,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which pair shows upper-case then lower-case for m?",
-    "audio_prompt": "Which pair shows upper-case then lower-case for m?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A sample has neat letter shapes, even size and uneven word spaces. Which self-check goal is best?",
+    "audio_prompt": "A sample has neat letter shapes, even size and uneven word spaces. Which self-check goal is best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "N n",
-        "is_correct": false
-      },
-      {
-        "text": "M m",
+        "text": "Leave one clear, even gap between words.",
         "is_correct": true
       },
       {
-        "text": "m M",
+        "text": "Make all the already-even letters larger.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise the already-neat letter shapes before checking spaces.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The evidence identifies spacing as the one feature that needs improvement.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-007",
@@ -1158,36 +1146,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "What helps handwriting fluency?",
-    "audio_prompt": "What helps handwriting fluency?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A writer's lower-case m has only one hump and looks like n. What is the useful correction?",
+    "audio_prompt": "A writer's lower-case m has only one hump and looks like n. What is the useful correction?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "steady letter size and spacing",
+        "text": "Add a dot above m.",
+        "is_correct": false
+      },
+      {
+        "text": "Form two clear humps for m.",
         "is_correct": true
       },
       {
-        "text": "writing over every line twice",
-        "is_correct": false
-      },
-      {
-        "text": "mixing letters randomly",
+        "text": "Use one hump but make it much taller.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Two clear humps distinguish lower-case m from lower-case n.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-008",
@@ -1196,36 +1184,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "recognise",
-    "skill": "handwriting",
-    "question": "Which sentence is easiest to read?",
-    "audio_prompt": "Which sentence is easiest to read?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "On Monday, Ivo writes one clear sentence in two minutes. On Friday, he writes it clearly in one minute. What is a fair conclusion?",
+    "audio_prompt": "On Monday, Ivo writes one clear sentence in two minutes. On Friday, he writes it clearly in one minute. What is a fair conclusion?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "tHe duCk sWims",
+        "text": "His fluency stayed the same because the sentence did not change.",
         "is_correct": false
       },
       {
-        "text": "Theduckswims",
+        "text": "Speed alone proves improvement even if the letters cannot be read.",
         "is_correct": false
       },
       {
-        "text": "The duck swims.",
+        "text": "His fluency improved while legibility stayed secure.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The same clear result completed more smoothly is evidence of growing fluency.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-009",
@@ -1234,36 +1222,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which word shows clear lower-case letters?",
-    "audio_prompt": "Which word shows clear lower-case letters?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Sample A has clear shapes and even spaces. Sample B is faster but several letters overlap. Which sample is more legible? Which reason best supports the correct choice?",
+    "audio_prompt": "Sample A has clear shapes and even spaces. Sample B is faster but several letters overlap. Which sample is more legible? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "g ar den with missing letters",
-        "is_correct": false
-      },
-      {
-        "text": "garden",
+        "text": "Clear shapes and even spacing make Sample A easier to read.",
         "is_correct": true
       },
       {
-        "text": "GaRdEn",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Clear shapes and even spacing make Sample A easier to read.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-010",
@@ -1272,36 +1260,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which pair shows upper-case then lower-case for m?",
-    "audio_prompt": "Which pair shows upper-case then lower-case for m?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "In ‘red kite’, the gap between d and k is the same as gaps inside each word. What should change? Which reason best supports the correct choice?",
+    "audio_prompt": "In ‘red kite’, the gap between d and k is the same as gaps inside each word. What should change? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "M m",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "A wider word space separates red from kite while letters within each word stay grouped.",
         "is_correct": true
       },
       {
-        "text": "m M",
-        "is_correct": false
-      },
-      {
-        "text": "N n",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A wider word space separates red from kite while letters within each word stay grouped.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-011",
@@ -1310,36 +1298,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "What helps handwriting fluency?",
-    "audio_prompt": "What helps handwriting fluency?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A writer starts lower-case d with a tall line, then cannot make its round part clearly. Which practice can help? Which reason best supports the correct choice?",
+    "audio_prompt": "A writer starts lower-case d with a tall line, then cannot make its round part clearly. Which practice can help? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "writing over every line twice",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "mixing letters randomly",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "steady letter size and spacing",
+        "text": "A consistent movement pattern helps form a recognisable unjoined lower-case d.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A consistent movement pattern helps form a recognisable unjoined lower-case d.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-012",
@@ -1348,36 +1336,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which sentence is easiest to read?",
-    "audio_prompt": "Which sentence is easiest to read?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "Most letters in a sentence sit on the line, but the word sun floats above it. What is the precise goal? Which reason best supports the correct choice?",
+    "audio_prompt": "Most letters in a sentence sit on the line, but the word sun floats above it. What is the precise goal? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Theduckswims",
-        "is_correct": false
-      },
-      {
-        "text": "The duck swims.",
+        "text": "Using one baseline keeps the whole sentence aligned and readable.",
         "is_correct": true
       },
       {
-        "text": "tHe duCk sWims",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Using one baseline keeps the whole sentence aligned and readable.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-013",
@@ -1386,36 +1374,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which word shows clear lower-case letters?",
-    "audio_prompt": "Which word shows clear lower-case letters?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A student writes ‘bIke’ in the middle of a sentence. Which edit gives consistent lower-case letters? Which reason best supports the correct choice?",
+    "audio_prompt": "A student writes ‘bIke’ in the middle of a sentence. Which edit gives consistent lower-case letters? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "garden",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Bike uses lower-case letters consistently when no capital is needed.",
         "is_correct": true
       },
       {
-        "text": "GaRdEn",
-        "is_correct": false
-      },
-      {
-        "text": "g ar den with missing letters",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Bike uses lower-case letters consistently when no capital is needed.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-014",
@@ -1424,36 +1412,36 @@
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
     "stage": "apply",
-    "skill": "handwriting",
-    "question": "Which pair shows upper-case then lower-case for m?",
-    "audio_prompt": "Which pair shows upper-case then lower-case for m?",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A sample has neat letter shapes, even size and uneven word spaces. Which self-check goal is best? Which reason best supports the correct choice?",
+    "audio_prompt": "A sample has neat letter shapes, even size and uneven word spaces. Which self-check goal is best? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "m M",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "N n",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "M m",
+        "text": "The evidence identifies spacing as the one feature that needs improvement.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Legible writing uses clear unjoined upper-case and lower-case letters with spacing.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The evidence identifies spacing as the one feature that needs improvement.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-015",
@@ -1461,43 +1449,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LY08. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY08. Use your own example.",
+    "stage": "apply",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "A writer's lower-case m has only one hump and looks like n. What is the useful correction? Which reason best supports the correct choice?",
+    "audio_prompt": "A writer's lower-case m has only one hump and looks like n. What is the useful correction? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Two clear humps distinguish lower-case m from lower-case n.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Legible Upper-case and Lower-case Writing.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "Two clear humps distinguish lower-case m from lower-case n.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Legible Upper-case and Lower-case Writing.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY08-T-016",
@@ -1505,42 +1487,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY08",
     "bank": "test",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LY08, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LY08, then explain the answer.",
+    "stage": "apply",
+    "skill": "legible_and_fluent_handwriting",
+    "question": "On Monday, Ivo writes one clear sentence in two minutes. On Friday, he writes it clearly in one minute. What is a fair conclusion? Which reason best supports the correct choice?",
+    "audio_prompt": "On Monday, Ivo writes one clear sentence in two minutes. On Friday, he writes it clearly in one minute. What is a fair conclusion? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The same clear result completed more smoothly is evidence of growing fluency.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "The same clear result completed more smoothly is evidence of growing fluency.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   }
 ]

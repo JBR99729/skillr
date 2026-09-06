@@ -4,34 +4,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-001",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
+    "prompt": "Which sentence adds “Sam labelled it” to “Mia drew a map” without showing a contrast?",
+    "audioPrompt": "Which sentence adds “Sam labelled it” to “Mia drew a map” without showing a contrast?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "so",
+        "text": "Mia drew a map, but Sam labelled it.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia drew a map and labelled.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia drew a map, and Sam labelled it.",
         "is_correct": true
-      },
-      {
-        "text": "and",
-        "is_correct": false
-      },
-      {
-        "text": "or",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "so is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "And joins the two related actions, and both sides express a complete idea.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -44,34 +44,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-002",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
+    "prompt": "The day was sunny. The air was cold. Which joined sentence shows the contrast?",
+    "audioPrompt": "The day was sunny. The air was cold. Which joined sentence shows the contrast?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "so",
-        "is_correct": false
-      },
-      {
-        "text": "and",
-        "is_correct": false
-      },
-      {
-        "text": "but",
+        "text": "The day was sunny, but the air was cold.",
         "is_correct": true
+      },
+      {
+        "text": "The day was sunny, so the air was cold.",
+        "is_correct": false
+      },
+      {
+        "text": "The day was sunny and because the air was cold.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "but is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "But shows the contrast between sunshine and cold air.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -84,34 +84,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-003",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: We can draw a map ___ write a list.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: We can draw a map ___ write a list.",
+    "prompt": "Which sentence gives a choice between two art tools?",
+    "audioPrompt": "Which sentence gives a choice between two art tools?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "so",
+        "text": "You can use paint, so you can use pencils.",
         "is_correct": false
       },
       {
-        "text": "or",
+        "text": "You can use paint, or you can use pencils.",
         "is_correct": true
       },
       {
-        "text": "but",
+        "text": "You can use paint or pencils can.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "or is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Or connects two complete choices: use paint or use pencils.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -124,34 +124,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-004",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The dog barked ___ wagged its tail.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The dog barked ___ wagged its tail.",
+    "prompt": "The oval was wet. The game moved indoors. Which sentence shows the result?",
+    "audioPrompt": "The oval was wet. The game moved indoors. Which sentence shows the result?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "and",
+        "text": "The oval was wet, but the game moved indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "The oval was wet, or the game moved indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "The oval was wet, so the game moved indoors.",
         "is_correct": true
-      },
-      {
-        "text": "or",
-        "is_correct": false
-      },
-      {
-        "text": "but",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "and is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "So shows that moving indoors happened as a result of the wet oval.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -164,34 +164,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-005",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
+    "prompt": "Which compound sentence has a complete idea on both sides of “and”?",
+    "audioPrompt": "Which compound sentence has a complete idea on both sides of “and”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "and",
-        "is_correct": false
-      },
-      {
-        "text": "or",
-        "is_correct": false
-      },
-      {
-        "text": "so",
+        "text": "The bell rang, and the students lined up.",
         "is_correct": true
+      },
+      {
+        "text": "The bell rang, and near the gate.",
+        "is_correct": false
+      },
+      {
+        "text": "The loud bell and the students.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "so is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "The bell rang and the students lined up can each stand as complete sentences.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -204,34 +204,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-006",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
+    "prompt": "The sentence says, “The cat slept, and on the mat.” Which repair makes both halves complete?",
+    "audioPrompt": "The sentence says, “The cat slept, and on the mat.” Which repair makes both halves complete?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "and",
+        "text": "The cat slept, and under the chair.",
         "is_correct": false
       },
       {
-        "text": "but",
+        "text": "The cat slept, and the dog played on the mat.",
         "is_correct": true
       },
       {
-        "text": "so",
+        "text": "The cat, and the dog on the mat.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "but is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Adding the dog played creates a second complete idea after and.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -244,34 +244,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-007",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: We can draw a map ___ write a list.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: We can draw a map ___ write a list.",
+    "prompt": "I wore my raincoat. I still got wet. Which sentence keeps the intended meaning?",
+    "audioPrompt": "I wore my raincoat. I still got wet. Which sentence keeps the intended meaning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "or",
+        "text": "I wore my raincoat, so I still got wet.",
+        "is_correct": false
+      },
+      {
+        "text": "I wore my raincoat, or I still got wet.",
+        "is_correct": false
+      },
+      {
+        "text": "I wore my raincoat, but I still got wet.",
         "is_correct": true
-      },
-      {
-        "text": "but",
-        "is_correct": false
-      },
-      {
-        "text": "so",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "or is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "But shows the unexpected contrast between wearing a raincoat and getting wet.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -284,34 +284,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-008",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The dog barked ___ wagged its tail.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The dog barked ___ wagged its tail.",
+    "prompt": "Luca handed out books. Mae collected pencils. Which sentence simply adds the two jobs?",
+    "audioPrompt": "Luca handed out books. Mae collected pencils. Which sentence simply adds the two jobs?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "or",
-        "is_correct": false
-      },
-      {
-        "text": "but",
-        "is_correct": false
-      },
-      {
-        "text": "and",
+        "text": "Luca handed out books, and Mae collected pencils.",
         "is_correct": true
+      },
+      {
+        "text": "Luca handed out books, but Mae collected pencils.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca handed out books, so Mae collected pencils.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "and is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "And adds one related classroom action to another without showing contrast or result.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -324,32 +324,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-009",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
+    "prompt": "Which sentence gives a choice between two complete lunch plans?",
+    "audioPrompt": "Which sentence gives a choice between two complete lunch plans?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "or",
+        "text": "We can eat outside, and we can sit in the hall.",
         "is_correct": false
       },
       {
-        "text": "so",
+        "text": "We can eat outside, or we can sit in the hall.",
         "is_correct": true
       },
       {
-        "text": "and",
+        "text": "We can eat outside, so we can sit in the hall.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "so is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "Or shows that the class can choose one place or the other.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 9,
@@ -364,32 +364,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-010",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
+    "prompt": "Ari practised every day. The song was still difficult. Which sentence shows the contrast?",
+    "audioPrompt": "Ari practised every day. The song was still difficult. Which sentence shows the contrast?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "but",
+        "text": "Ari practised every day, so the song was still difficult.",
+        "is_correct": false
+      },
+      {
+        "text": "Ari practised every day, or the song was still difficult.",
+        "is_correct": false
+      },
+      {
+        "text": "Ari practised every day, but the song was still difficult.",
         "is_correct": true
-      },
-      {
-        "text": "so",
-        "is_correct": false
-      },
-      {
-        "text": "and",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "but is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "But connects the strong effort with the unexpected continuing difficulty.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 10,
@@ -404,32 +404,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-011",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: We can draw a map ___ write a list.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: We can draw a map ___ write a list.",
+    "prompt": "Which sentence adds “Sam labelled it” to “Mia drew a map” without showing a contrast? Why is “Mia drew a map, and Sam labelled it.” the best answer?",
+    "audioPrompt": "Which sentence adds “Sam labelled it” to “Mia drew a map” without showing a contrast? Why is “Mia drew a map, and Sam labelled it.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "but",
-        "is_correct": false
-      },
-      {
-        "text": "so",
-        "is_correct": false
-      },
-      {
-        "text": "or",
+        "text": "And joins the two related actions, and both sides express a complete idea.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “Mia drew a map, but Sam labelled it.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "or is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "And joins the two related actions, and both sides express a complete idea.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 11,
@@ -444,32 +444,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-012",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The dog barked ___ wagged its tail.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The dog barked ___ wagged its tail.",
+    "prompt": "The day was sunny. The air was cold. Which joined sentence shows the contrast? Why is “The day was sunny, but the air was cold.” the best answer?",
+    "audioPrompt": "The day was sunny. The air was cold. Which joined sentence shows the contrast? Why is “The day was sunny, but the air was cold.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "but",
+        "text": "It is best only because it is longer than “The day was sunny, so the air was cold.”.",
         "is_correct": false
       },
       {
-        "text": "and",
+        "text": "But shows the contrast between sunshine and cold air.",
         "is_correct": true
       },
       {
-        "text": "or",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "and is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "But shows the contrast between sunshine and cold air.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 12,
@@ -484,32 +484,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-013",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
+    "prompt": "Which sentence gives a choice between two art tools? Why is “You can use paint, or you can use pencils.” the best answer?",
+    "audioPrompt": "Which sentence gives a choice between two art tools? Why is “You can use paint, or you can use pencils.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "so",
+        "text": "It is best only because it is longer than “You can use paint, so you can use pencils.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Or connects two complete choices: use paint or use pencils.",
         "is_correct": true
-      },
-      {
-        "text": "and",
-        "is_correct": false
-      },
-      {
-        "text": "or",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "so is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "Or connects two complete choices: use paint or use pencils.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 13,
@@ -524,32 +524,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-014",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
+    "prompt": "The oval was wet. The game moved indoors. Which sentence shows the result? Why is “The oval was wet, so the game moved indoors.” the best answer?",
+    "audioPrompt": "The oval was wet. The game moved indoors. Which sentence shows the result? Why is “The oval was wet, so the game moved indoors.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "so",
-        "is_correct": false
-      },
-      {
-        "text": "and",
-        "is_correct": false
-      },
-      {
-        "text": "but",
+        "text": "So shows that moving indoors happened as a result of the wet oval.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “The oval was wet, but the game moved indoors.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "but is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "So shows that moving indoors happened as a result of the wet oval.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 14,
@@ -564,32 +564,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-015",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: We can draw a map ___ write a list.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: We can draw a map ___ write a list.",
+    "prompt": "Which compound sentence has a complete idea on both sides of “and”? Why is “The bell rang, and the students lined up.” the best answer?",
+    "audioPrompt": "Which compound sentence has a complete idea on both sides of “and”? Why is “The bell rang, and the students lined up.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "so",
+        "text": "It is best only because it is longer than “The bell rang, and near the gate.”.",
         "is_correct": false
       },
       {
-        "text": "or",
+        "text": "The bell rang and the students lined up can each stand as complete sentences.",
         "is_correct": true
       },
       {
-        "text": "but",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "or is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "The bell rang and the students lined up can each stand as complete sentences.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 15,
@@ -604,32 +604,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-016",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The dog barked ___ wagged its tail.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The dog barked ___ wagged its tail.",
+    "prompt": "The sentence says, “The cat slept, and on the mat.” Which repair makes both halves complete? Why is “The cat slept, and the dog played on the mat.” the best answer?",
+    "audioPrompt": "The sentence says, “The cat slept, and on the mat.” Which repair makes both halves complete? Why is “The cat slept, and the dog played on the mat.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "and",
+        "text": "It is best only because it is longer than “The cat slept, and under the chair.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Adding the dog played creates a second complete idea after and.",
         "is_correct": true
-      },
-      {
-        "text": "or",
-        "is_correct": false
-      },
-      {
-        "text": "but",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "and is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "Adding the dog played creates a second complete idea after and.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 16,
@@ -644,34 +644,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-017",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
+    "prompt": "I wore my raincoat. I still got wet. Which sentence keeps the intended meaning? Why is “I wore my raincoat, but I still got wet.” the best answer?",
+    "audioPrompt": "I wore my raincoat. I still got wet. Which sentence keeps the intended meaning? Why is “I wore my raincoat, but I still got wet.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "and",
-        "is_correct": false
-      },
-      {
-        "text": "or",
-        "is_correct": false
-      },
-      {
-        "text": "so",
+        "text": "But shows the unexpected contrast between wearing a raincoat and getting wet.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “I wore my raincoat, so I still got wet.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "so is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "But shows the unexpected contrast between wearing a raincoat and getting wet.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 17,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -684,34 +684,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-018",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
+    "prompt": "Luca handed out books. Mae collected pencils. Which sentence simply adds the two jobs? Why is “Luca handed out books, and Mae collected pencils.” the best answer?",
+    "audioPrompt": "Luca handed out books. Mae collected pencils. Which sentence simply adds the two jobs? Why is “Luca handed out books, and Mae collected pencils.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "and",
+        "text": "It is best only because it is longer than “Luca handed out books, but Mae collected pencils.”.",
         "is_correct": false
       },
       {
-        "text": "but",
+        "text": "And adds one related classroom action to another without showing contrast or result.",
         "is_correct": true
       },
       {
-        "text": "so",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "but is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "And adds one related classroom action to another without showing contrast or result.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 18,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -724,34 +724,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-019",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: We can draw a map ___ write a list.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: We can draw a map ___ write a list.",
+    "prompt": "Which sentence gives a choice between two complete lunch plans? Why is “We can eat outside, or we can sit in the hall.” the best answer?",
+    "audioPrompt": "Which sentence gives a choice between two complete lunch plans? Why is “We can eat outside, or we can sit in the hall.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "or",
+        "text": "It is best only because it is longer than “We can eat outside, and we can sit in the hall.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Or shows that the class can choose one place or the other.",
         "is_correct": true
-      },
-      {
-        "text": "but",
-        "is_correct": false
-      },
-      {
-        "text": "so",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "or is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "Or shows that the class can choose one place or the other.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 19,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -764,34 +764,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-020",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The dog barked ___ wagged its tail.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The dog barked ___ wagged its tail.",
+    "prompt": "Ari practised every day. The song was still difficult. Which sentence shows the contrast? Why is “Ari practised every day, but the song was still difficult.” the best answer?",
+    "audioPrompt": "Ari practised every day. The song was still difficult. Which sentence shows the contrast? Why is “Ari practised every day, but the song was still difficult.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "or",
-        "is_correct": false
-      },
-      {
-        "text": "but",
-        "is_correct": false
-      },
-      {
-        "text": "and",
+        "text": "But connects the strong effort with the unexpected continuing difficulty.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “Ari practised every day, so the song was still difficult.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "and is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "But connects the strong effort with the unexpected continuing difficulty.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 20,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -804,34 +804,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-021",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: The sky was dark, ___ we packed raincoats.",
+    "prompt": "Which sentence gives a choice between two art tools? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Which sentence gives a choice between two art tools? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "or",
+        "text": "You can use paint, or you can use pencils.",
         "is_correct": false
       },
       {
-        "text": "so",
+        "text": "You can use paint, so you can use pencils.",
         "is_correct": true
       },
       {
-        "text": "and",
+        "text": "You can use paint or pencils can.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "so is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "“You can use paint, so you can use pencils.” is the mix-up to avoid. Look for two complete ideas and a joining word that signals choice.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 21,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -844,34 +844,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-022",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "compound sentence",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
-    "audioPrompt": "Choose the conjunction that best joins the ideas: Mia wanted soup, ___ Ben wanted noodles.",
+    "prompt": "The oval was wet. The game moved indoors. Which sentence shows the result? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "The oval was wet. The game moved indoors. Which sentence shows the result? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "but",
+        "text": "The oval was wet, so the game moved indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "The oval was wet, or the game moved indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "The oval was wet, but the game moved indoors.",
         "is_correct": true
-      },
-      {
-        "text": "so",
-        "is_correct": false
-      },
-      {
-        "text": "and",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "but is the conjunction that fits the connection between the two ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "“The oval was wet, but the game moved indoors.” is the mix-up to avoid. Ask whether the second idea happened because of the first.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 22,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -884,80 +884,80 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la06-p-023",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "explain concept",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LA06. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LA06. Use your own example.",
+    "prompt": "Which compound sentence has a complete idea on both sides of “and”? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Which compound sentence has a complete idea on both sides of “and”? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The bell rang, and near the gate.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The bell rang, and the students lined up.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The loud bell and the students.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Compound Sentences with Conjunctions.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
+    "explanation": "“The bell rang, and near the gate.” is the mix-up to avoid. Cover the joining word and read each side on its own.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
     "difficultyTier": "stretch",
     "sequencePriority": 23,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Compound Sentences with Conjunctions.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la06-p-024",
     "curriculumCode": "AC9E2LA06",
     "bank": "practice",
-    "skill": "apply concept",
+    "skill": "joining_ideas_in_compound_sentences",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LA06, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LA06, then explain the answer.",
+    "prompt": "The sentence says, “The cat slept, and on the mat.” Which repair makes both halves complete? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "The sentence says, “The cat slept, and on the mat.” Which repair makes both halves complete? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The cat slept, and the dog played on the mat.",
+        "is_correct": false
+      },
+      {
+        "text": "The cat slept, and under the chair.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The cat, and the dog on the mat.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
+    "correctIndex": 1,
+    "explanation": "“The cat slept, and under the chair.” is the mix-up to avoid. The second half needs someone or something and what it did.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
     "difficultyTier": "stretch",
     "sequencePriority": 24,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];

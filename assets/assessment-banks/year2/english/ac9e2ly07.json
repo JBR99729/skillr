@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "You present instructions for planting seeds. What structure fits?",
-    "audio_prompt": "You present instructions for planting seeds. What structure fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which opening clearly introduces a one-minute talk about bees?",
+    "audio_prompt": "Which opening clearly introduces a one-minute talk about bees?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "materials, steps, closing tip",
+        "text": "Today I will explain how bees carry pollen between flowers.",
         "is_correct": true
       },
       {
-        "text": "characters, problem, magic ending",
+        "text": "Today I am going to say some facts about bees.",
         "is_correct": false
       },
       {
-        "text": "only a title",
+        "text": "Bees are interesting, so please listen to my talk.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The opening names the topic and tells the audience what will be explained.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "The room is noisy. What should you vary?",
-    "audio_prompt": "The room is noisy. What should you vary?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A student explains the frog life cycle. Which visual would help the audience most?",
+    "audio_prompt": "A student explains the frog life cycle. Which visual would help the audience most?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "spelling pattern",
+        "text": "one large photo showing only an adult frog",
         "is_correct": false
       },
       {
-        "text": "index page",
-        "is_correct": false
-      },
-      {
-        "text": "volume",
+        "text": "an ordered diagram from eggs to tadpole to adult frog",
         "is_correct": true
+      },
+      {
+        "text": "pictures of the stages placed randomly without arrows",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "An ordered life-cycle diagram makes the changing stages easier to follow.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "You are telling a calm poem. Which tone fits?",
-    "audio_prompt": "You are telling a calm poem. Which tone fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which sentence uses accurate vocabulary in a talk about weather?",
+    "audio_prompt": "Which sentence uses accurate vocabulary in a talk about weather?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "silent with no pace",
+        "text": "The weather container caught about this much rain.",
         "is_correct": false
       },
       {
-        "text": "gentle and steady",
+        "text": "The wind vane collected 12 millimetres of rain.",
+        "is_correct": false
+      },
+      {
+        "text": "The rain gauge collected 12 millimetres of rain.",
         "is_correct": true
-      },
-      {
-        "text": "shouting every word",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Rain gauge and millimetres are precise words for reporting rainfall.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "A familiar audience of classmates needs ___.",
-    "audio_prompt": "A familiar audience of classmates needs ___.",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Ava is presenting to the whole class. Her first row can hear, but the back row cannot. What should she change?",
+    "audio_prompt": "Ava is presenting to the whole class. Her first row can hear, but the back row cannot. What should she change?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "clear topic words they understand",
+        "text": "Increase her volume enough for the back row to hear clearly.",
         "is_correct": true
       },
       {
-        "text": "private passwords",
+        "text": "Keep the same volume but move closer to the first row.",
         "is_correct": false
       },
       {
-        "text": "unrelated facts",
+        "text": "Use her loudest voice for every word, even when the room can hear.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A suitable volume reaches the whole audience without becoming an uncomfortable shout.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "You present instructions for planting seeds. What structure fits?",
-    "audio_prompt": "You present instructions for planting seeds. What structure fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Leo is about to explain the most important safety rule. Which delivery choice helps listeners?",
+    "audio_prompt": "Leo is about to explain the most important safety rule. Which delivery choice helps listeners?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "characters, problem, magic ending",
+        "text": "Rush the rule so the talk ends sooner.",
         "is_correct": false
       },
       {
-        "text": "only a title",
-        "is_correct": false
-      },
-      {
-        "text": "materials, steps, closing tip",
+        "text": "Slow slightly and pause before the rule.",
         "is_correct": true
+      },
+      {
+        "text": "Mumble the rule while changing the slide.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A slower pace and purposeful pause draw attention to the key rule.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "The room is noisy. What should you vary?",
-    "audio_prompt": "The room is noisy. What should you vary?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which tone best suits a cheerful welcome to new students?",
+    "audio_prompt": "Which tone best suits a cheerful welcome to new students?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "index page",
+        "text": "angry and accusing",
         "is_correct": false
       },
       {
-        "text": "volume",
+        "text": "bored and dismissive",
+        "is_correct": false
+      },
+      {
+        "text": "warm and friendly",
         "is_correct": true
-      },
-      {
-        "text": "spelling pattern",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A warm, friendly tone supports the purpose of making newcomers feel welcome.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "You are telling a calm poem. Which tone fits?",
-    "audio_prompt": "You are telling a calm poem. Which tone fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A partner says, ‘Your diagram is clear, but you speak too fast.’ What should the presenter try next?",
+    "audio_prompt": "A partner says, ‘Your diagram is clear, but you speak too fast.’ What should the presenter try next?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "gentle and steady",
+        "text": "Rehearse again at a steadier pace while keeping the diagram.",
         "is_correct": true
       },
       {
-        "text": "shouting every word",
+        "text": "Keep the fast pace but repeat every sentence a second time.",
         "is_correct": false
       },
       {
-        "text": "silent with no pace",
+        "text": "Slow down only while pointing to the diagram, then rush the spoken points.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The presenter can keep the strength and practise the delivery point that needs work.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "A familiar audience of classmates needs ___.",
-    "audio_prompt": "A familiar audience of classmates needs ___.",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which greeting best starts a class presentation for visiting families?",
+    "audio_prompt": "Which greeting best starts a class presentation for visiting families?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "private passwords",
+        "text": "Hello. Our garden changed in some ways.",
         "is_correct": false
       },
       {
-        "text": "unrelated facts",
-        "is_correct": false
-      },
-      {
-        "text": "clear topic words they understand",
+        "text": "Good afternoon, families. We will show how our garden has changed.",
         "is_correct": true
+      },
+      {
+        "text": "Good afternoon. Gardens are places where people grow plants.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The greeting welcomes the audience and clearly introduces the topic.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-009",
@@ -310,36 +310,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "You present instructions for planting seeds. What structure fits?",
-    "audio_prompt": "You present instructions for planting seeds. What structure fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A talk explains how to care for a pet fish. Which order is easiest to follow?",
+    "audio_prompt": "A talk explains how to care for a pet fish. Which order is easiest to follow?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "only a title",
+        "text": "safe tank, final reminder, food, clean water",
         "is_correct": false
       },
       {
-        "text": "materials, steps, closing tip",
+        "text": "food, clean water, food again, final reminder",
+        "is_correct": false
+      },
+      {
+        "text": "food, clean water, safe tank, final reminder",
         "is_correct": true
-      },
-      {
-        "text": "characters, problem, magic ending",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Related care points follow a clear sequence before the closing reminder.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-010",
@@ -348,36 +348,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "The room is noisy. What should you vary?",
-    "audio_prompt": "The room is noisy. What should you vary?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which prompt card would help a student speak to the audience instead of reading every word?",
+    "audio_prompt": "Which prompt card would help a student speak to the audience instead of reading every word?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "volume",
+        "text": "three short key phrases in large print",
         "is_correct": true
       },
       {
-        "text": "spelling pattern",
+        "text": "the full talk written as several small paragraphs",
         "is_correct": false
       },
       {
-        "text": "index page",
+        "text": "one detailed topic picture with no words to cue the speaking points",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Short key phrases remind the speaker of ideas while allowing eye contact.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-011",
@@ -386,36 +386,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "You are telling a calm poem. Which tone fits?",
-    "audio_prompt": "You are telling a calm poem. Which tone fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which opening clearly introduces a one-minute talk about bees? Why is “Today I will explain how bees carry pollen between flowers.” the best answer?",
+    "audio_prompt": "Which opening clearly introduces a one-minute talk about bees? Why is “Today I will explain how bees carry pollen between flowers.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "shouting every word",
+        "text": "It is best only because it is longer than “Today I am going to say some facts about bees.”.",
         "is_correct": false
       },
       {
-        "text": "silent with no pace",
-        "is_correct": false
-      },
-      {
-        "text": "gentle and steady",
+        "text": "The opening names the topic and tells the audience what will be explained.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The opening names the topic and tells the audience what will be explained.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-012",
@@ -424,36 +424,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "A familiar audience of classmates needs ___.",
-    "audio_prompt": "A familiar audience of classmates needs ___.",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A student explains the frog life cycle. Which visual would help the audience most? Why is “an ordered diagram from eggs to tadpole to adult frog” the best answer?",
+    "audio_prompt": "A student explains the frog life cycle. Which visual would help the audience most? Why is “an ordered diagram from eggs to tadpole to adult frog” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "unrelated facts",
+        "text": "It is best only because it is longer than “one large photo showing only an adult frog”.",
         "is_correct": false
       },
       {
-        "text": "clear topic words they understand",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "An ordered life-cycle diagram makes the changing stages easier to follow.",
         "is_correct": true
-      },
-      {
-        "text": "private passwords",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "An ordered life-cycle diagram makes the changing stages easier to follow.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-013",
@@ -462,36 +462,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "You present instructions for planting seeds. What structure fits?",
-    "audio_prompt": "You present instructions for planting seeds. What structure fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which sentence uses accurate vocabulary in a talk about weather? Why is “The rain gauge collected 12 millimetres of rain.” the best answer?",
+    "audio_prompt": "Which sentence uses accurate vocabulary in a talk about weather? Why is “The rain gauge collected 12 millimetres of rain.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "materials, steps, closing tip",
+        "text": "Rain gauge and millimetres are precise words for reporting rainfall.",
         "is_correct": true
       },
       {
-        "text": "characters, problem, magic ending",
+        "text": "It is best only because it is longer than “The weather container caught about this much rain.”.",
         "is_correct": false
       },
       {
-        "text": "only a title",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Rain gauge and millimetres are precise words for reporting rainfall.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-014",
@@ -500,36 +500,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "The room is noisy. What should you vary?",
-    "audio_prompt": "The room is noisy. What should you vary?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Ava is presenting to the whole class. Her first row can hear, but the back row cannot. What should she change? Why is “Increase her volume enough for the back row to hear clearly.” the best answer?",
+    "audio_prompt": "Ava is presenting to the whole class. Her first row can hear, but the back row cannot. What should she change? Why is “Increase her volume enough for the back row to hear clearly.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "spelling pattern",
+        "text": "It is best only because it is longer than “Keep the same volume but move closer to the first row.”.",
         "is_correct": false
       },
       {
-        "text": "index page",
-        "is_correct": false
-      },
-      {
-        "text": "volume",
+        "text": "A suitable volume reaches the whole audience without becoming an uncomfortable shout.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A suitable volume reaches the whole audience without becoming an uncomfortable shout.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-015",
@@ -538,36 +538,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "You are telling a calm poem. Which tone fits?",
-    "audio_prompt": "You are telling a calm poem. Which tone fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Leo is about to explain the most important safety rule. Which delivery choice helps listeners? Why is “Slow slightly and pause before the rule.” the best answer?",
+    "audio_prompt": "Leo is about to explain the most important safety rule. Which delivery choice helps listeners? Why is “Slow slightly and pause before the rule.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "silent with no pace",
+        "text": "It is best only because it is longer than “Rush the rule so the talk ends sooner.”.",
         "is_correct": false
       },
       {
-        "text": "gentle and steady",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "A slower pace and purposeful pause draw attention to the key rule.",
         "is_correct": true
-      },
-      {
-        "text": "shouting every word",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A slower pace and purposeful pause draw attention to the key rule.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-016",
@@ -576,36 +576,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "A familiar audience of classmates needs ___.",
-    "audio_prompt": "A familiar audience of classmates needs ___.",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which tone best suits a cheerful welcome to new students? Why is “warm and friendly” the best answer?",
+    "audio_prompt": "Which tone best suits a cheerful welcome to new students? Why is “warm and friendly” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "clear topic words they understand",
+        "text": "A warm, friendly tone supports the purpose of making newcomers feel welcome.",
         "is_correct": true
       },
       {
-        "text": "private passwords",
+        "text": "It is best only because it is longer than “angry and accusing”.",
         "is_correct": false
       },
       {
-        "text": "unrelated facts",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A warm, friendly tone supports the purpose of making newcomers feel welcome.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "oral presentation",
-    "question": "You present instructions for planting seeds. What structure fits?",
-    "audio_prompt": "You present instructions for planting seeds. What structure fits?",
+    "stage": "independent",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A partner says, ‘Your diagram is clear, but you speak too fast.’ What should the presenter try next? Why is “Rehearse again at a steadier pace while keeping the diagram.” the best answer?",
+    "audio_prompt": "A partner says, ‘Your diagram is clear, but you speak too fast.’ What should the presenter try next? Why is “Rehearse again at a steadier pace while keeping the diagram.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "characters, problem, magic ending",
+        "text": "It is best only because it is longer than “Keep the fast pace but repeat every sentence a second time.”.",
         "is_correct": false
       },
       {
-        "text": "only a title",
-        "is_correct": false
-      },
-      {
-        "text": "materials, steps, closing tip",
+        "text": "The presenter can keep the strength and practise the delivery point that needs work.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The presenter can keep the strength and practise the delivery point that needs work.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 17,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "oral presentation",
-    "question": "The room is noisy. What should you vary?",
-    "audio_prompt": "The room is noisy. What should you vary?",
+    "stage": "independent",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which greeting best starts a class presentation for visiting families? Why is “Good afternoon, families. We will show how our garden has changed.” the best answer?",
+    "audio_prompt": "Which greeting best starts a class presentation for visiting families? Why is “Good afternoon, families. We will show how our garden has changed.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "index page",
+        "text": "It is best only because it is longer than “Hello. Our garden changed in some ways.”.",
         "is_correct": false
       },
       {
-        "text": "volume",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The greeting welcomes the audience and clearly introduces the topic.",
         "is_correct": true
-      },
-      {
-        "text": "spelling pattern",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The greeting welcomes the audience and clearly introduces the topic.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 18,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "oral presentation",
-    "question": "You are telling a calm poem. Which tone fits?",
-    "audio_prompt": "You are telling a calm poem. Which tone fits?",
+    "stage": "independent",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A talk explains how to care for a pet fish. Which order is easiest to follow? Why is “food, clean water, safe tank, final reminder” the best answer?",
+    "audio_prompt": "A talk explains how to care for a pet fish. Which order is easiest to follow? Why is “food, clean water, safe tank, final reminder” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "gentle and steady",
+        "text": "Related care points follow a clear sequence before the closing reminder.",
         "is_correct": true
       },
       {
-        "text": "shouting every word",
+        "text": "It is best only because it is longer than “safe tank, final reminder, food, clean water”.",
         "is_correct": false
       },
       {
-        "text": "silent with no pace",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Related care points follow a clear sequence before the closing reminder.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 19,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "oral presentation",
-    "question": "A familiar audience of classmates needs ___.",
-    "audio_prompt": "A familiar audience of classmates needs ___.",
+    "stage": "independent",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which prompt card would help a student speak to the audience instead of reading every word? Why is “three short key phrases in large print” the best answer?",
+    "audio_prompt": "Which prompt card would help a student speak to the audience instead of reading every word? Why is “three short key phrases in large print” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "private passwords",
+        "text": "It is best only because it is longer than “the full talk written as several small paragraphs”.",
         "is_correct": false
       },
       {
-        "text": "unrelated facts",
-        "is_correct": false
-      },
-      {
-        "text": "clear topic words they understand",
+        "text": "Short key phrases remind the speaker of ideas while allowing eye contact.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Short key phrases remind the speaker of ideas while allowing eye contact.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 20,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "oral presentation",
-    "question": "You present instructions for planting seeds. What structure fits?",
-    "audio_prompt": "You present instructions for planting seeds. What structure fits?",
+    "stage": "independent",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which sentence uses accurate vocabulary in a talk about weather? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sentence uses accurate vocabulary in a talk about weather? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "only a title",
+        "text": "The rain gauge collected 12 millimetres of rain.",
         "is_correct": false
       },
       {
-        "text": "materials, steps, closing tip",
+        "text": "The wind vane collected 12 millimetres of rain.",
+        "is_correct": false
+      },
+      {
+        "text": "The weather container caught about this much rain.",
         "is_correct": true
-      },
-      {
-        "text": "characters, problem, magic ending",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“The weather container caught about this much rain.” is the mix-up to avoid. Choose topic words that name the tool and measurement accurately.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 21,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "oral presentation",
-    "question": "The room is noisy. What should you vary?",
-    "audio_prompt": "The room is noisy. What should you vary?",
+    "stage": "independent",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Ava is presenting to the whole class. Her first row can hear, but the back row cannot. What should she change? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Ava is presenting to the whole class. Her first row can hear, but the back row cannot. What should she change? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "volume",
+        "text": "Keep the same volume but move closer to the first row.",
         "is_correct": true
       },
       {
-        "text": "spelling pattern",
+        "text": "Increase her volume enough for the back row to hear clearly.",
         "is_correct": false
       },
       {
-        "text": "index page",
+        "text": "Use her loudest voice for every word, even when the room can hear.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“Keep the same volume but move closer to the first row.” is the mix-up to avoid. Match volume to the size and distance of the audience.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 22,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-023",
@@ -841,43 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LY07. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY07. Use your own example.",
+    "stage": "independent",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Leo is about to explain the most important safety rule. Which delivery choice helps listeners? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Leo is about to explain the most important safety rule. Which delivery choice helps listeners? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Slow slightly and pause before the rule.",
+        "is_correct": false
+      },
+      {
+        "text": "Rush the rule so the talk ends sooner.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "Mumble the rule while changing the slide.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Short Oral Presentations.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“Rush the rule so the talk ends sooner.” is the mix-up to avoid. Use pace and pauses to make important meaning clear.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Short Oral Presentations.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-P-024",
@@ -885,43 +879,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY07",
     "bank": "practice",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LY07, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LY07, then explain the answer.",
+    "stage": "independent",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Which tone best suits a cheerful welcome to new students? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which tone best suits a cheerful welcome to new students? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "warm and friendly",
+        "is_correct": false
+      },
+      {
+        "text": "bored and dismissive",
+        "is_correct": false
+      },
+      {
+        "text": "angry and accusing",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“angry and accusing” is the mix-up to avoid. Match the feeling in the voice to the message and audience.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-001",
@@ -930,36 +918,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "You present instructions for planting seeds. What structure fits?",
-    "audio_prompt": "You present instructions for planting seeds. What structure fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A talk about caring for a class plant has these parts: watering advice, greeting, final reminder, sunlight advice. Which order is clearest?",
+    "audio_prompt": "A talk about caring for a class plant has these parts: watering advice, greeting, final reminder, sunlight advice. Which order is clearest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "materials, steps, closing tip",
+        "text": "greeting, watering advice, sunlight advice, final reminder",
         "is_correct": true
       },
       {
-        "text": "characters, problem, magic ending",
+        "text": "final reminder, sunlight advice, greeting, watering advice",
         "is_correct": false
       },
       {
-        "text": "only a title",
+        "text": "watering advice repeated four times with no opening",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A clear talk opens the topic, groups useful points and closes with a reminder.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-002",
@@ -968,36 +956,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "The room is noisy. What should you vary?",
-    "audio_prompt": "The room is noisy. What should you vary?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A speaker says every word on a slide that contains a long paragraph. What would improve the slide?",
+    "audio_prompt": "A speaker says every word on a slide that contains a long paragraph. What would improve the slide?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "spelling pattern",
+        "text": "Keep the paragraph and highlight nearly every sentence.",
         "is_correct": false
       },
       {
-        "text": "index page",
-        "is_correct": false
-      },
-      {
-        "text": "volume",
+        "text": "Replace the paragraph with a few key words and one useful image.",
         "is_correct": true
+      },
+      {
+        "text": "Change the paragraph into ten full-sentence bullet points.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Brief prompts and a relevant image support the speaker instead of duplicating the whole talk.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-003",
@@ -1006,36 +994,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "You are telling a calm poem. Which tone fits?",
-    "audio_prompt": "You are telling a calm poem. Which tone fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A presenter asks, ‘Which material absorbed the most water?’ What should happen next?",
+    "audio_prompt": "A presenter asks, ‘Which material absorbed the most water?’ What should happen next?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "silent with no pace",
+        "text": "Repeat the question straight away without waiting for anyone.",
         "is_correct": false
       },
       {
-        "text": "gentle and steady",
+        "text": "Move to the next slide after one second without looking for responses.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause briefly so the audience can think or respond.",
         "is_correct": true
-      },
-      {
-        "text": "shouting every word",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A short pause gives listeners time to process and respond to the question.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-004",
@@ -1044,36 +1032,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "A familiar audience of classmates needs ___.",
-    "audio_prompt": "A familiar audience of classmates needs ___.",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A student will explain recycling to a Foundation class. Which change best suits the audience?",
+    "audio_prompt": "A student will explain recycling to a Foundation class. Which change best suits the audience?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "clear topic words they understand",
+        "text": "Use familiar words, short points and clear pictures of the bins.",
         "is_correct": true
       },
       {
-        "text": "private passwords",
+        "text": "Use unexplained technical terms in long sentences.",
         "is_correct": false
       },
       {
-        "text": "unrelated facts",
+        "text": "Speak quickly because younger listeners need less time.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Familiar language, concise points and clear pictures support younger listeners.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-005",
@@ -1082,36 +1070,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "You present instructions for planting seeds. What structure fits?",
-    "audio_prompt": "You present instructions for planting seeds. What structure fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "During rehearsal, listeners miss the ending because the speaker's voice becomes very quiet. What is the best revision?",
+    "audio_prompt": "During rehearsal, listeners miss the ending because the speaker's voice becomes very quiet. What is the best revision?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "characters, problem, magic ending",
+        "text": "Repeat the ending twice while keeping the same quiet volume.",
         "is_correct": false
       },
       {
-        "text": "only a title",
-        "is_correct": false
-      },
-      {
-        "text": "materials, steps, closing tip",
+        "text": "Practise the ending with steady volume and a clear final sentence.",
         "is_correct": true
+      },
+      {
+        "text": "Add more details to the ending without changing the volume.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A steady volume and clear final sentence help the audience hear the conclusion.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-006",
@@ -1120,36 +1108,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "The room is noisy. What should you vary?",
-    "audio_prompt": "The room is noisy. What should you vary?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "After a talk, the audience recalls the pictures but not the main message. What should the speaker improve next time?",
+    "audio_prompt": "After a talk, the audience recalls the pictures but not the main message. What should the speaker improve next time?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "index page",
+        "text": "Add labels to every picture but leave the main message unstated.",
         "is_correct": false
       },
       {
-        "text": "volume",
+        "text": "State the main message once in the middle, between two pictures.",
+        "is_correct": false
+      },
+      {
+        "text": "State the main message clearly in the opening and ending.",
         "is_correct": true
-      },
-      {
-        "text": "spelling pattern",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Repeating the main message at key structural points makes it easier to remember.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-007",
@@ -1158,36 +1146,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "You are telling a calm poem. Which tone fits?",
-    "audio_prompt": "You are telling a calm poem. Which tone fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A speaker explains that water changes into vapour. Which word names this process accurately?",
+    "audio_prompt": "A speaker explains that water changes into vapour. Which word names this process accurately?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "gentle and steady",
+        "text": "evaporation",
         "is_correct": true
       },
       {
-        "text": "shouting every word",
+        "text": "melting",
         "is_correct": false
       },
       {
-        "text": "silent with no pace",
+        "text": "freezing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Evaporation is the process in which liquid water changes into water vapour.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-008",
@@ -1196,36 +1184,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "oral presentation",
-    "question": "A familiar audience of classmates needs ___.",
-    "audio_prompt": "A familiar audience of classmates needs ___.",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Listeners say the labels on a map are too small to read. What should the presenter revise?",
+    "audio_prompt": "Listeners say the labels on a map are too small to read. What should the presenter revise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "private passwords",
+        "text": "Make the labels smaller so more fit.",
         "is_correct": false
       },
       {
-        "text": "unrelated facts",
-        "is_correct": false
-      },
-      {
-        "text": "clear topic words they understand",
+        "text": "Enlarge the labels and check them from the back of the room.",
         "is_correct": true
+      },
+      {
+        "text": "Keep the map unchanged and speak about unseen labels.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Larger labels tested at audience distance make the visual usable.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-009",
@@ -1234,36 +1222,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "You present instructions for planting seeds. What structure fits?",
-    "audio_prompt": "You present instructions for planting seeds. What structure fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A talk about caring for a class plant has these parts: watering advice, greeting, final reminder, sunlight advice. Which order is clearest? Which reason best supports the correct choice?",
+    "audio_prompt": "A talk about caring for a class plant has these parts: watering advice, greeting, final reminder, sunlight advice. Which order is clearest? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "only a title",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "materials, steps, closing tip",
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "A clear talk opens the topic, groups useful points and closes with a reminder.",
         "is_correct": true
-      },
-      {
-        "text": "characters, problem, magic ending",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A clear talk opens the topic, groups useful points and closes with a reminder.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-010",
@@ -1272,36 +1260,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "The room is noisy. What should you vary?",
-    "audio_prompt": "The room is noisy. What should you vary?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A speaker says every word on a slide that contains a long paragraph. What would improve the slide? Which reason best supports the correct choice?",
+    "audio_prompt": "A speaker says every word on a slide that contains a long paragraph. What would improve the slide? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "volume",
+        "text": "Brief prompts and a relevant image support the speaker instead of duplicating the whole talk.",
         "is_correct": true
       },
       {
-        "text": "spelling pattern",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "index page",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Brief prompts and a relevant image support the speaker instead of duplicating the whole talk.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-011",
@@ -1310,36 +1298,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "You are telling a calm poem. Which tone fits?",
-    "audio_prompt": "You are telling a calm poem. Which tone fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A presenter asks, ‘Which material absorbed the most water?’ What should happen next? Which reason best supports the correct choice?",
+    "audio_prompt": "A presenter asks, ‘Which material absorbed the most water?’ What should happen next? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "shouting every word",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "silent with no pace",
-        "is_correct": false
-      },
-      {
-        "text": "gentle and steady",
+        "text": "A short pause gives listeners time to process and respond to the question.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A short pause gives listeners time to process and respond to the question.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-012",
@@ -1348,36 +1336,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "A familiar audience of classmates needs ___.",
-    "audio_prompt": "A familiar audience of classmates needs ___.",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A student will explain recycling to a Foundation class. Which change best suits the audience? Which reason best supports the correct choice?",
+    "audio_prompt": "A student will explain recycling to a Foundation class. Which change best suits the audience? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "unrelated facts",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "clear topic words they understand",
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Familiar language, concise points and clear pictures support younger listeners.",
         "is_correct": true
-      },
-      {
-        "text": "private passwords",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Familiar language, concise points and clear pictures support younger listeners.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-013",
@@ -1386,36 +1374,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "You present instructions for planting seeds. What structure fits?",
-    "audio_prompt": "You present instructions for planting seeds. What structure fits?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "During rehearsal, listeners miss the ending because the speaker's voice becomes very quiet. What is the best revision? Which reason best supports the correct choice?",
+    "audio_prompt": "During rehearsal, listeners miss the ending because the speaker's voice becomes very quiet. What is the best revision? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "materials, steps, closing tip",
+        "text": "A steady volume and clear final sentence help the audience hear the conclusion.",
         "is_correct": true
       },
       {
-        "text": "characters, problem, magic ending",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "only a title",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A steady volume and clear final sentence help the audience hear the conclusion.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-014",
@@ -1424,36 +1412,36 @@
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
     "stage": "apply",
-    "skill": "oral presentation",
-    "question": "The room is noisy. What should you vary?",
-    "audio_prompt": "The room is noisy. What should you vary?",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "After a talk, the audience recalls the pictures but not the main message. What should the speaker improve next time? Which reason best supports the correct choice?",
+    "audio_prompt": "After a talk, the audience recalls the pictures but not the main message. What should the speaker improve next time? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "spelling pattern",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "index page",
-        "is_correct": false
-      },
-      {
-        "text": "volume",
+        "text": "Repeating the main message at key structural points makes it easier to remember.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Presentations need structure, topic vocabulary and suitable tone, volume and pace.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Repeating the main message at key structural points makes it easier to remember.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-015",
@@ -1461,43 +1449,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LY07. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY07. Use your own example.",
+    "stage": "apply",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "A speaker explains that water changes into vapour. Which word names this process accurately? Which reason best supports the correct choice?",
+    "audio_prompt": "A speaker explains that water changes into vapour. Which word names this process accurately? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation is the process in which liquid water changes into water vapour.",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Short Oral Presentations.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "Evaporation is the process in which liquid water changes into water vapour.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Short Oral Presentations.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY07-T-016",
@@ -1505,42 +1487,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY07",
     "bank": "test",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LY07, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LY07, then explain the answer.",
+    "stage": "apply",
+    "skill": "rehearsing_and_delivering_presentations",
+    "question": "Listeners say the labels on a map are too small to read. What should the presenter revise? Which reason best supports the correct choice?",
+    "audio_prompt": "Listeners say the labels on a map are too small to read. What should the presenter revise? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Larger labels tested at audience distance make the visual usable.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "Larger labels tested at audience distance make the visual usable.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   }
 ]

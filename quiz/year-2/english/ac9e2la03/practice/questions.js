@@ -4,757 +4,960 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la03-p-001",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "procedure",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Read: '1. Fold the paper. 2. Press the crease. 3. Open the paper.' Why are these instructions numbered?",
+    "type": "multiple-choice",
+    "prompt": "Read: '1. Fold the paper. 2. Press the crease. 3. Open the paper.' Why are these instructions numbered?",
     "audioPrompt": "Read: '1. Fold the paper. 2. Press the crease. 3. Open the paper.' Why are these instructions numbered?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "To show the order of the actions.",
-      "To show which action is funniest.",
-      "To name the people in a story."
+      {
+        "text": "To show the order of the actions.",
+        "is_correct": true
+      },
+      {
+        "text": "To show which action is funniest.",
+        "is_correct": false
+      },
+      {
+        "text": "To name the people in a story.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "Numbering guides the reader through a procedure in sequence.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Numbering guides the reader through a procedure in sequence.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "Numbering guides the reader through a procedure in sequence.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-002",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "report",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "A page about frogs has sections called 'Body', 'Food' and 'Habitat'. How is it organised?",
+    "type": "multiple-choice",
+    "prompt": "A page about frogs has sections called 'Body', 'Food' and 'Habitat'. How is it organised?",
     "audioPrompt": "A page about frogs has sections called 'Body', 'Food' and 'Habitat'. How is it organised?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Events are told in the order they happened.",
-      "Facts are grouped by topic.",
-      "A problem is followed by a story ending."
+      {
+        "text": "Events are told in the order they happened.",
+        "is_correct": false
+      },
+      {
+        "text": "Facts are grouped by topic.",
+        "is_correct": true
+      },
+      {
+        "text": "A problem is followed by a story ending.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "Each heading gathers information about one aspect of frogs.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Each heading gathers information about one aspect of frogs.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "Each heading gathers information about one aspect of frogs.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-003",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "narrative",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'One morning, a rabbit found a locked box. He searched for a key.' What makes this a story opening?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'One morning, a rabbit found a locked box. He searched for a key.' What makes this a story opening?",
     "audioPrompt": "Read: 'One morning, a rabbit found a locked box. He searched for a key.' What makes this a story opening?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "It lists materials for making a box.",
-      "It gives facts under science headings.",
-      "It introduces a character and a problem."
+      {
+        "text": "It lists materials for making a box.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives facts under science headings.",
+        "is_correct": false
+      },
+      {
+        "text": "It introduces a character and a problem.",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "The rabbit and locked box set up characters and events for a narrative.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 3,
-    "correct": 2,
-    "explanation": "The rabbit and locked box set up characters and events for a narrative.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "The rabbit and locked box set up characters and events for a narrative.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-004",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "persuasion",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'Our playground needs more shade. Trees would keep us cool. Please help us plant some.' How does the text support its request?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Our playground needs more shade. Trees would keep us cool. Please help us plant some.' How does the text support its request?",
     "audioPrompt": "Read: 'Our playground needs more shade. Trees would keep us cool. Please help us plant some.' How does the text support its request?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "It gives a reason before asking people to help.",
-      "It lists the parts of a tree.",
-      "It tells a pretend adventure."
+      {
+        "text": "It gives a reason before asking people to help.",
+        "is_correct": true
+      },
+      {
+        "text": "It lists the parts of a tree.",
+        "is_correct": false
+      },
+      {
+        "text": "It tells a pretend adventure.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "The reason explains why the writer wants the reader to act.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 4,
-    "correct": 0,
-    "explanation": "The reason explains why the writer wants the reader to act.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "The reason explains why the writer wants the reader to act.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-005",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "recount",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'On Monday we visited the farm. Next we fed the hens. Finally we went home.' What helps organise this recount?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'On Monday we visited the farm. Next we fed the hens. Finally we went home.' What helps organise this recount?",
     "audioPrompt": "Read: 'On Monday we visited the farm. Next we fed the hens. Finally we went home.' What helps organise this recount?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Headings sort animals by size.",
-      "Time words put past events in order.",
-      "Rhyming words tell us what to sing."
+      {
+        "text": "Headings sort animals by size.",
+        "is_correct": false
+      },
+      {
+        "text": "Time words put past events in order.",
+        "is_correct": true
+      },
+      {
+        "text": "Rhyming words tell us what to sing.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "Next and finally signal the sequence of events that already happened.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 5,
-    "correct": 1,
-    "explanation": "Next and finally signal the sequence of events that already happened.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "Next and finally signal the sequence of events that already happened.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-006",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "recipe features",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Which opening best suits a recipe?",
+    "type": "multiple-choice",
+    "prompt": "Which opening best suits a recipe?",
     "audioPrompt": "Which opening best suits a recipe?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Once upon a time, a bowl ran away.",
-      "I believe bowls should be blue.",
-      "You will need: oats, milk and a bowl."
+      {
+        "text": "Once upon a time, a bowl ran away.",
+        "is_correct": false
+      },
+      {
+        "text": "I believe bowls should be blue.",
+        "is_correct": false
+      },
+      {
+        "text": "You will need: oats, milk and a bowl.",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "A recipe commonly starts with what is needed before the method.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 6,
-    "correct": 2,
-    "explanation": "A recipe commonly starts with what is needed before the method.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "A recipe commonly starts with what is needed before the method.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-007",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "comparison",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'Both buses and trains carry passengers. Trains use tracks, but buses use roads.' Which words signal a difference?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Both buses and trains carry passengers. Trains use tracks, but buses use roads.' Which words signal a difference?",
     "audioPrompt": "Read: 'Both buses and trains carry passengers. Trains use tracks, but buses use roads.' Which words signal a difference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "but buses use roads",
-      "Both buses and trains",
-      "carry passengers"
+      {
+        "text": "but buses use roads",
+        "is_correct": true
+      },
+      {
+        "text": "Both buses and trains",
+        "is_correct": false
+      },
+      {
+        "text": "carry passengers",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "But introduces the contrasting feature of buses.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 7,
-    "correct": 0,
-    "explanation": "But introduces the contrasting feature of buses.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "But introduces the contrasting feature of buses.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-008",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "shared feature",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'A snail has a shell. A slug does not. Both have soft bodies.' Which information belongs under 'Both'?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'A snail has a shell. A slug does not. Both have soft bodies.' Which information belongs under 'Both'?",
     "audioPrompt": "Read: 'A snail has a shell. A slug does not. Both have soft bodies.' Which information belongs under 'Both'?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "a shell",
-      "soft bodies",
-      "no shell"
+      {
+        "text": "a shell",
+        "is_correct": false
+      },
+      {
+        "text": "soft bodies",
+        "is_correct": true
+      },
+      {
+        "text": "no shell",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "Both explicitly marks the shared feature.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 8,
-    "correct": 1,
-    "explanation": "Both explicitly marks the shared feature.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "Both explicitly marks the shared feature.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-009",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "purpose language",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Which sentence belongs in directions for planting a seed?",
+    "type": "multiple-choice",
+    "prompt": "Which sentence belongs in directions for planting a seed?",
     "audioPrompt": "Which sentence belongs in directions for planting a seed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The seed dreamed of being a giant.",
-      "I think this is the prettiest seed.",
-      "Make a small hole in the soil."
+      {
+        "text": "The seed dreamed of being a giant.",
+        "is_correct": false
+      },
+      {
+        "text": "I think this is the prettiest seed.",
+        "is_correct": false
+      },
+      {
+        "text": "Make a small hole in the soil.",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "The action verb make tells the reader what to do.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 9,
-    "correct": 2,
-    "explanation": "The action verb make tells the reader what to do.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "The action verb make tells the reader what to do.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-010",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "report language",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Which sentence suits a factual report about penguins?",
+    "type": "multiple-choice",
+    "prompt": "Which sentence suits a factual report about penguins?",
     "audioPrompt": "Which sentence suits a factual report about penguins?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Penguins have feathers and wings.",
-      "Please buy my penguin badge today!",
-      "The penguin invited the moon to tea."
+      {
+        "text": "Penguins have feathers and wings.",
+        "is_correct": true
+      },
+      {
+        "text": "Please buy my penguin badge today!",
+        "is_correct": false
+      },
+      {
+        "text": "The penguin invited the moon to tea.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "The sentence supplies factual information rather than persuasion or fantasy.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 10,
-    "correct": 0,
-    "explanation": "The sentence supplies factual information rather than persuasion or fantasy.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "The sentence supplies factual information rather than persuasion or fantasy.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-011",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "headings",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "A text explains how to care for a pet fish. Where should 'Give a small amount of food each day' go?",
+    "type": "multiple-choice",
+    "prompt": "A text explains how to care for a pet fish. Where should 'Give a small amount of food each day' go?",
     "audioPrompt": "A text explains how to care for a pet fish. Where should 'Give a small amount of food each day' go?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Tank cleaning",
-      "Feeding",
-      "Buying equipment"
+      {
+        "text": "Tank cleaning",
+        "is_correct": false
+      },
+      {
+        "text": "Feeding",
+        "is_correct": true
+      },
+      {
+        "text": "Buying equipment",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "The information concerns food, so the feeding heading groups it logically.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 11,
-    "correct": 1,
-    "explanation": "The information concerns food, so the feeding heading groups it logically.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "The information concerns food, so the feeding heading groups it logically.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-012",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "same topic",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Text A gives numbered steps for making a kite. Text B tells how a kite escaped from a child. How do their structures differ?",
+    "type": "multiple-choice",
+    "prompt": "Text A gives numbered steps for making a kite. Text B tells how a kite escaped from a child. How do their structures differ?",
     "audioPrompt": "Text A gives numbered steps for making a kite. Text B tells how a kite escaped from a child. How do their structures differ?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "A tells a story; B lists instructions.",
-      "Both must be shopping lists.",
-      "A orders instructions; B follows story events."
+      {
+        "text": "A tells a story; B lists instructions.",
+        "is_correct": false
+      },
+      {
+        "text": "Both must be shopping lists.",
+        "is_correct": false
+      },
+      {
+        "text": "A orders instructions; B follows story events.",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "The purpose of making something differs from narrating an event.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 12,
-    "correct": 2,
-    "explanation": "The purpose of making something differs from narrating an event.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "The purpose of making something differs from narrating an event.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-013",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "invitation",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "An invitation says 'Art show, Friday, 3 pm, school hall'. Why are these details grouped together?",
+    "type": "multiple-choice",
+    "prompt": "An invitation says 'Art show, Friday, 3 pm, school hall'. Why are these details grouped together?",
     "audioPrompt": "An invitation says 'Art show, Friday, 3 pm, school hall'. Why are these details grouped together?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "They tell guests what, when and where.",
-      "They explain how paint is made.",
-      "They describe the ending of a story."
+      {
+        "text": "They tell guests what, when and where.",
+        "is_correct": true
+      },
+      {
+        "text": "They explain how paint is made.",
+        "is_correct": false
+      },
+      {
+        "text": "They describe the ending of a story.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "An invitation makes event information easy for guests to find.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 13,
-    "correct": 0,
-    "explanation": "An invitation makes event information easy for guests to find.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "An invitation makes event information easy for guests to find.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-014",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "poem lines",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "A poem places short lines under one another and repeats a line after each verse. What can this arrangement help a reader notice?",
+    "type": "multiple-choice",
+    "prompt": "A poem places short lines under one another and repeats a line after each verse. What can this arrangement help a reader notice?",
     "audioPrompt": "A poem places short lines under one another and repeats a line after each verse. What can this arrangement help a reader notice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The price of each word.",
-      "The pattern and repeated rhythm.",
-      "The dates when events happened."
+      {
+        "text": "The price of each word.",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern and repeated rhythm.",
+        "is_correct": true
+      },
+      {
+        "text": "The dates when events happened.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "Line breaks and repeated lines can shape the pattern of a poem.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 14,
-    "correct": 1,
-    "explanation": "Line breaks and repeated lines can shape the pattern of a poem.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "Line breaks and repeated lines can shape the pattern of a poem.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-015",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "science sequence",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "A science text has headings 'Question', 'What we did' and 'What we noticed'. What is its main organising job?",
+    "type": "multiple-choice",
+    "prompt": "A science text has headings 'Question', 'What we did' and 'What we noticed'. What is its main organising job?",
     "audioPrompt": "A science text has headings 'Question', 'What we did' and 'What we noticed'. What is its main organising job?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "To rank the funniest characters.",
-      "To list books alphabetically.",
-      "To separate the investigation's parts."
+      {
+        "text": "To rank the funniest characters.",
+        "is_correct": false
+      },
+      {
+        "text": "To list books alphabetically.",
+        "is_correct": false
+      },
+      {
+        "text": "To separate the investigation's parts.",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "The headings distinguish the enquiry, method and observations.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 15,
-    "correct": 2,
-    "explanation": "The headings distinguish the enquiry, method and observations.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "The headings distinguish the enquiry, method and observations.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-016",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "maths explanation",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'I made ten first. Then I added the remaining two. The total was twelve.' Why does this maths explanation use 'first' and 'then'?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'I made ten first. Then I added the remaining two. The total was twelve.' Why does this maths explanation use 'first' and 'then'?",
     "audioPrompt": "Read: 'I made ten first. Then I added the remaining two. The total was twelve.' Why does this maths explanation use 'first' and 'then'?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "To show the order of the thinking.",
-      "To describe where the numbers live.",
-      "To persuade someone to buy counters."
+      {
+        "text": "To show the order of the thinking.",
+        "is_correct": true
+      },
+      {
+        "text": "To describe where the numbers live.",
+        "is_correct": false
+      },
+      {
+        "text": "To persuade someone to buy counters.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "Sequence words help the reader follow the method.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 16,
-    "correct": 0,
-    "explanation": "Sequence words help the reader follow the method.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "Sequence words help the reader follow the method.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-017",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "persuasive reason",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "A poster says, 'Walk to school when you can.' Which addition gives a reason supporting its purpose?",
+    "type": "multiple-choice",
+    "prompt": "A poster says, 'Walk to school when you can.' Which addition gives a reason supporting its purpose?",
     "audioPrompt": "A poster says, 'Walk to school when you can.' Which addition gives a reason supporting its purpose?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Our school has a long name.",
-      "Walking gives us exercise.",
-      "Yesterday I found a pebble."
+      {
+        "text": "Our school has a long name.",
+        "is_correct": false
+      },
+      {
+        "text": "Walking gives us exercise.",
+        "is_correct": true
+      },
+      {
+        "text": "Yesterday I found a pebble.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 1,
+    "explanation": "The reason explains a benefit of the requested action.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 17,
-    "correct": 1,
-    "explanation": "The reason explains a benefit of the requested action.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "The reason explains a benefit of the requested action.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-018",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "story resolution",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "A story begins with a lost puppy. Which event would resolve that problem?",
+    "type": "multiple-choice",
+    "prompt": "A story begins with a lost puppy. Which event would resolve that problem?",
     "audioPrompt": "A story begins with a lost puppy. Which event would resolve that problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "A second puppy appears on another street.",
-      "The weather becomes cloudy.",
-      "The puppy's owner finds it and takes it home."
+      {
+        "text": "A second puppy appears on another street.",
+        "is_correct": false
+      },
+      {
+        "text": "The weather becomes cloudy.",
+        "is_correct": false
+      },
+      {
+        "text": "The puppy's owner finds it and takes it home.",
+        "is_correct": true
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 2,
+    "explanation": "A resolution addresses the central problem introduced in the story.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 18,
-    "correct": 2,
-    "explanation": "A resolution addresses the central problem introduced in the story.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "A resolution addresses the central problem introduced in the story.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-019",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "instructions repair",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "Instructions say, 'Put the lid on. Fill the bottle.' What change helps their purpose?",
+    "type": "multiple-choice",
+    "prompt": "Instructions say, 'Put the lid on. Fill the bottle.' What change helps their purpose?",
     "audioPrompt": "Instructions say, 'Put the lid on. Fill the bottle.' What change helps their purpose?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Put filling before closing the lid.",
-      "Replace every verb with a colour.",
-      "Remove both actions."
+      {
+        "text": "Put filling before closing the lid.",
+        "is_correct": true
+      },
+      {
+        "text": "Replace every verb with a colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove both actions.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 0,
+    "explanation": "The order must let the reader complete the task successfully.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 19,
-    "correct": 0,
-    "explanation": "The order must let the reader complete the task successfully.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "The order must let the reader complete the task successfully.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-020",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "letter organisation",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "A letter begins 'Dear Uncle' and ends 'Love from Kim'. What do these parts do?",
+    "type": "multiple-choice",
+    "prompt": "A letter begins 'Dear Uncle' and ends 'Love from Kim'. What do these parts do?",
     "audioPrompt": "A letter begins 'Dear Uncle' and ends 'Love from Kim'. What do these parts do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "List materials and tools.",
-      "Identify who is addressed and who is writing.",
-      "Show two chapter titles."
+      {
+        "text": "List materials and tools.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify who is addressed and who is writing.",
+        "is_correct": true
+      },
+      {
+        "text": "Show two chapter titles.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 1,
+    "explanation": "A greeting and closing frame a personal message between people.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 20,
-    "correct": 1,
-    "explanation": "A greeting and closing frame a personal message between people.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "A greeting and closing frame a personal message between people.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-021",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "compare formats",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "A timetable puts activities beside times. A recount describes a finished excursion in sentences. Why are they arranged differently?",
+    "type": "multiple-choice",
+    "prompt": "A timetable puts activities beside times. A recount describes a finished excursion in sentences. Why are they arranged differently?",
     "audioPrompt": "A timetable puts activities beside times. A recount describes a finished excursion in sentences. Why are they arranged differently?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Every text must use a different font.",
-      "Timetables cannot contain words.",
-      "One helps plan when; the other tells what happened."
+      {
+        "text": "Every text must use a different font.",
+        "is_correct": false
+      },
+      {
+        "text": "Timetables cannot contain words.",
+        "is_correct": false
+      },
+      {
+        "text": "One helps plan when; the other tells what happened.",
+        "is_correct": true
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 2,
+    "explanation": "Organisation follows what the reader needs the text to do.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 21,
-    "correct": 2,
-    "explanation": "Organisation follows what the reader needs the text to do.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "Organisation follows what the reader needs the text to do.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-022",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "choose structure",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "single",
-    "question": "You want classmates to learn how to play a new game. Which plan best suits that purpose?",
+    "type": "multiple-choice",
+    "prompt": "You want classmates to learn how to play a new game. Which plan best suits that purpose?",
     "audioPrompt": "You want classmates to learn how to play a new game. Which plan best suits that purpose?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Equipment, aim, then ordered rules.",
-      "Characters, a mystery, then a surprise ending.",
-      "Opinion, unrelated joke, then a list of colours."
+      {
+        "text": "Equipment, aim, then ordered rules.",
+        "is_correct": true
+      },
+      {
+        "text": "Characters, a mystery, then a surprise ending.",
+        "is_correct": false
+      },
+      {
+        "text": "Opinion, unrelated joke, then a list of colours.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 0,
+    "explanation": "A game explanation needs materials, purpose and steps or rules.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 22,
-    "correct": 0,
-    "explanation": "A game explanation needs materials, purpose and steps or rules.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "A game explanation needs materials, purpose and steps or rules.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-023",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "structure apply",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "self-check",
-    "gradingMode": "adult-review",
-    "responseType": "short_answer",
-    "modelAnswer": "Example: 'Packing my bag': check the timetable, then put in the books needed.",
-    "acceptanceNote": "Accept a relevant heading and sensible ordered actions; the child should explain that the sequence helps someone do the task.",
-    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
-    "completionLabel": "Ready for adult review",
-    "question": "Choose a simple classroom task. Tell an adult how you would organise written instructions for it. Give a heading and at least two steps.",
+    "type": "multiple-choice",
+    "prompt": "Choose a simple classroom task. Tell an adult how you would organise written instructions for it. Give a heading and at least two steps.",
     "audioPrompt": "Choose a simple classroom task. Tell an adult how you would organise written instructions for it. Give a heading and at least two steps.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Response not yet reviewed",
-      "Adult review required",
-      "Revise with an adult"
+      {
+        "text": "Response not yet reviewed",
+        "is_correct": false
+      },
+      {
+        "text": "Adult review required",
+        "is_correct": true
+      },
+      {
+        "text": "Revise with an adult",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "Accept a relevant heading and sensible ordered actions; the child should explain that the sequence helps someone do the task.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
-    "difficultyTier": "transfer",
+    "difficultyTier": "stretch",
     "sequencePriority": 23,
-    "correct": "Example: 'Packing my bag': check the timetable, then put in the books needed.",
-    "explanation": "Accept a relevant heading and sensible ordered actions; the child should explain that the sequence helps someone do the task.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "Accept a relevant heading and sensible ordered actions; the child should explain that the sequence helps someone do the task.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la03-p-024",
     "curriculumCode": "AC9E2LA03",
     "bank": "practice",
-    "skill": "compare apply",
+    "skill": "text_structures_for_different_purposes",
     "printable": true,
-    "type": "self-check",
-    "gradingMode": "adult-review",
-    "responseType": "short_answer",
-    "modelAnswer": "Example: a story introduces a character and follows events; a recipe lists ingredients and uses action instructions.",
-    "acceptanceNote": "Accept two accurate differences linked to the texts' purposes, not only cover colour or length.",
-    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
-    "completionLabel": "Ready for adult review",
-    "question": "Compare a storybook with a recipe you have, or use these descriptions: a story follows a lost cat; a recipe lists ingredients and steps. Explain two differences in organisation or language.",
+    "type": "multiple-choice",
+    "prompt": "Compare a storybook with a recipe you have, or use these descriptions: a story follows a lost cat; a recipe lists ingredients and steps. Explain two differences in organisation or language.",
     "audioPrompt": "Compare a storybook with a recipe you have, or use these descriptions: a story follows a lost cat; a recipe lists ingredients and steps. Explain two differences in organisation or language.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Response not yet reviewed",
-      "Revise with an adult",
-      "Adult review required"
+      {
+        "text": "Response not yet reviewed",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with an adult",
+        "is_correct": false
+      },
+      {
+        "text": "Adult review required",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "Accept two accurate differences linked to the texts' purposes, not only cover colour or length.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
-    "difficultyTier": "transfer",
+    "difficultyTier": "stretch",
     "sequencePriority": 24,
-    "correct": "Example: a story introduces a character and follows events; a recipe lists ingredients and uses action instructions.",
-    "explanation": "Accept two accurate differences linked to the texts' purposes, not only cover colour or length.\nHint: Ask what the text helps its reader do and how its parts support that purpose.",
-    "structuredExplanation": {
-      "summary": "Accept two accurate differences linked to the texts' purposes, not only cover colour or length.",
-      "hint": "Ask what the text helps its reader do and how its parts support that purpose."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

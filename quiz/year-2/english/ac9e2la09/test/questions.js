@@ -4,34 +4,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-001",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “crept” in: The kitten crept under the chair.",
-    "audioPrompt": "Which meaning or role best fits the word “crept” in: The kitten crept under the chair.",
+    "prompt": "The Moon followed its path around Earth. Which topic word says this most precisely?",
+    "audioPrompt": "The Moon followed its path around Earth. Which topic word says this most precisely?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "moved quietly",
+        "text": "circled",
+        "is_correct": false
+      },
+      {
+        "text": "travelled",
+        "is_correct": false
+      },
+      {
+        "text": "orbited",
         "is_correct": true
-      },
-      {
-        "text": "shouted loudly",
-        "is_correct": false
-      },
-      {
-        "text": "a comma in a list",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Vocabulary should suit the topic and action.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "Orbited is the accurate space word for moving in a path around another object.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -44,34 +44,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-002",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “Next” in: First, rinse the rice. Next, add water.",
-    "audioPrompt": "Which meaning or role best fits the word “Next” in: First, rinse the rice. Next, add water.",
+    "prompt": "Rosa moved the soup around the pot with a spoon. Which verb fits best?",
+    "audioPrompt": "Rosa moved the soup around the pot with a spoon. Which verb fits best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "feeling word",
-        "is_correct": false
-      },
-      {
-        "text": "a comma in a list",
-        "is_correct": false
-      },
-      {
-        "text": "time order",
+        "text": "stirred",
         "is_correct": true
+      },
+      {
+        "text": "mixed",
+        "is_correct": false
+      },
+      {
+        "text": "poured",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Time-order words organise steps.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "Stirred precisely names moving food around with a spoon.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -84,34 +84,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-003",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “observed” in: The scientist observed the beetle.",
-    "audioPrompt": "Which meaning or role best fits the word “observed” in: The scientist observed the beetle.",
+    "prompt": "Tiny drops of rain fell gently for an hour. Which weather verb is most precise?",
+    "audioPrompt": "Tiny drops of rain fell gently for an hour. Which weather verb is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a comma in a list",
+        "text": "rained",
         "is_correct": false
       },
       {
-        "text": "looked carefully",
+        "text": "drizzled",
         "is_correct": true
       },
       {
-        "text": "forgot quickly",
+        "text": "poured",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Topic vocabulary can be more precise than everyday words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Drizzled tells readers that the rain was light and made of fine drops.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -124,34 +124,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-004",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “enormous” in: The giant was enormous.",
-    "audioPrompt": "Which meaning or role best fits the word “enormous” in: The giant was enormous.",
+    "prompt": "The scientist used a thermometer and wrote down 24°C. Which verb best replaces “looked at”?",
+    "audioPrompt": "The scientist used a thermometer and wrote down 24°C. Which verb best replaces “looked at”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "very large",
+        "text": "observed",
+        "is_correct": false
+      },
+      {
+        "text": "estimated",
+        "is_correct": false
+      },
+      {
+        "text": "measured",
         "is_correct": true
-      },
-      {
-        "text": "very tiny",
-        "is_correct": false
-      },
-      {
-        "text": "a comma in a list",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Context and synonyms help choose strong vocabulary.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "Measured accurately describes using an instrument to find and record a value.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -164,34 +164,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-005",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “crept” in: The kitten crept under the chair.",
-    "audioPrompt": "Which meaning or role best fits the word “crept” in: The kitten crept under the chair.",
+    "prompt": "Cal caught his foot on a rock and almost fell. Which verb best describes how he moved?",
+    "audioPrompt": "Cal caught his foot on a rock and almost fell. Which verb best describes how he moved?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "shouted loudly",
-        "is_correct": false
-      },
-      {
-        "text": "a comma in a list",
-        "is_correct": false
-      },
-      {
-        "text": "moved quietly",
+        "text": "stumbled",
         "is_correct": true
+      },
+      {
+        "text": "walked",
+        "is_correct": false
+      },
+      {
+        "text": "glided",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Vocabulary should suit the topic and action.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "Stumbled precisely describes losing balance while moving.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -204,34 +204,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-006",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “Next” in: First, rinse the rice. Next, add water.",
-    "audioPrompt": "Which meaning or role best fits the word “Next” in: First, rinse the rice. Next, add water.",
+    "prompt": "The canoe moved smoothly and quietly across the still lake. Which verb creates the clearest calm picture?",
+    "audioPrompt": "The canoe moved smoothly and quietly across the still lake. Which verb creates the clearest calm picture?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a comma in a list",
+        "text": "went",
         "is_correct": false
       },
       {
-        "text": "time order",
+        "text": "glided",
         "is_correct": true
       },
       {
-        "text": "feeling word",
+        "text": "charged",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Time-order words organise steps.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Glided suggests smooth, quiet movement and suits the calm lake.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -244,34 +244,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-007",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “observed” in: The scientist observed the beetle.",
-    "audioPrompt": "Which meaning or role best fits the word “observed” in: The scientist observed the beetle.",
+    "prompt": "The small possum moved quickly along the branch with light steps. Which verb is most precise?",
+    "audioPrompt": "The small possum moved quickly along the branch with light steps. Which verb is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "looked carefully",
+        "text": "moved",
+        "is_correct": false
+      },
+      {
+        "text": "stomped",
+        "is_correct": false
+      },
+      {
+        "text": "scampered",
         "is_correct": true
-      },
-      {
-        "text": "forgot quickly",
-        "is_correct": false
-      },
-      {
-        "text": "a comma in a list",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Topic vocabulary can be more precise than everyday words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "Scampered suggests quick, light steps and suits the small possum.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -284,34 +284,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-008",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “enormous” in: The giant was enormous.",
-    "audioPrompt": "Which meaning or role best fits the word “enormous” in: The giant was enormous.",
+    "prompt": "After hiking all day, Luis could barely lift his feet. Which adjective is most precise?",
+    "audioPrompt": "After hiking all day, Luis could barely lift his feet. Which adjective is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "very tiny",
-        "is_correct": false
-      },
-      {
-        "text": "a comma in a list",
-        "is_correct": false
-      },
-      {
-        "text": "very large",
+        "text": "exhausted",
         "is_correct": true
+      },
+      {
+        "text": "tired",
+        "is_correct": false
+      },
+      {
+        "text": "sleepy",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Context and synonyms help choose strong vocabulary.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "Exhausted expresses the very strong tiredness shown by barely being able to walk.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -324,32 +324,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-009",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “crept” in: The kitten crept under the chair.",
-    "audioPrompt": "Which meaning or role best fits the word “crept” in: The kitten crept under the chair.",
+    "prompt": "The Moon followed its path around Earth. Which topic word says this most precisely? Which reason best supports the correct choice?",
+    "audioPrompt": "The Moon followed its path around Earth. Which topic word says this most precisely? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a comma in a list",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "moved quietly",
+        "text": "Orbited is the accurate space word for moving in a path around another object.",
         "is_correct": true
       },
       {
-        "text": "shouted loudly",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Vocabulary should suit the topic and action.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "Orbited is the accurate space word for moving in a path around another object.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 9,
@@ -364,32 +364,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-010",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “Next” in: First, rinse the rice. Next, add water.",
-    "audioPrompt": "Which meaning or role best fits the word “Next” in: First, rinse the rice. Next, add water.",
+    "prompt": "Rosa moved the soup around the pot with a spoon. Which verb fits best? Which reason best supports the correct choice?",
+    "audioPrompt": "Rosa moved the soup around the pot with a spoon. Which verb fits best? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "time order",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Stirred precisely names moving food around with a spoon.",
         "is_correct": true
-      },
-      {
-        "text": "feeling word",
-        "is_correct": false
-      },
-      {
-        "text": "a comma in a list",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Time-order words organise steps.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "Stirred precisely names moving food around with a spoon.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 10,
@@ -404,32 +404,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-011",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “observed” in: The scientist observed the beetle.",
-    "audioPrompt": "Which meaning or role best fits the word “observed” in: The scientist observed the beetle.",
+    "prompt": "Tiny drops of rain fell gently for an hour. Which weather verb is most precise? Which reason best supports the correct choice?",
+    "audioPrompt": "Tiny drops of rain fell gently for an hour. Which weather verb is most precise? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "forgot quickly",
-        "is_correct": false
-      },
-      {
-        "text": "a comma in a list",
-        "is_correct": false
-      },
-      {
-        "text": "looked carefully",
+        "text": "Drizzled tells readers that the rain was light and made of fine drops.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Topic vocabulary can be more precise than everyday words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "Drizzled tells readers that the rain was light and made of fine drops.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 11,
@@ -444,32 +444,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-012",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “enormous” in: The giant was enormous.",
-    "audioPrompt": "Which meaning or role best fits the word “enormous” in: The giant was enormous.",
+    "prompt": "The scientist used a thermometer and wrote down 24°C. Which verb best replaces “looked at”? Which reason best supports the correct choice?",
+    "audioPrompt": "The scientist used a thermometer and wrote down 24°C. Which verb best replaces “looked at”? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a comma in a list",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "very large",
+        "text": "Measured accurately describes using an instrument to find and record a value.",
         "is_correct": true
       },
       {
-        "text": "very tiny",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Context and synonyms help choose strong vocabulary.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "Measured accurately describes using an instrument to find and record a value.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 12,
@@ -484,32 +484,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-013",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “crept” in: The kitten crept under the chair.",
-    "audioPrompt": "Which meaning or role best fits the word “crept” in: The kitten crept under the chair.",
+    "prompt": "Cal caught his foot on a rock and almost fell. Which verb best describes how he moved? Which reason best supports the correct choice?",
+    "audioPrompt": "Cal caught his foot on a rock and almost fell. Which verb best describes how he moved? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "moved quietly",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Stumbled precisely describes losing balance while moving.",
         "is_correct": true
-      },
-      {
-        "text": "shouted loudly",
-        "is_correct": false
-      },
-      {
-        "text": "a comma in a list",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Vocabulary should suit the topic and action.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "Stumbled precisely describes losing balance while moving.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 13,
@@ -524,32 +524,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-014",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "vocabulary choice",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which meaning or role best fits the word “Next” in: First, rinse the rice. Next, add water.",
-    "audioPrompt": "Which meaning or role best fits the word “Next” in: First, rinse the rice. Next, add water.",
+    "prompt": "The canoe moved smoothly and quietly across the still lake. Which verb creates the clearest calm picture? Which reason best supports the correct choice?",
+    "audioPrompt": "The canoe moved smoothly and quietly across the still lake. Which verb creates the clearest calm picture? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "feeling word",
-        "is_correct": false
-      },
-      {
-        "text": "a comma in a list",
-        "is_correct": false
-      },
-      {
-        "text": "time order",
+        "text": "Glided suggests smooth, quiet movement and suits the calm lake.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Time-order words organise steps.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "Glided suggests smooth, quiet movement and suits the calm lake.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 14,
@@ -564,80 +564,80 @@ window.skillrTestQuestions = [
     "id": "ac9e2la09-t-015",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LA09. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LA09. Use your own example.",
+    "prompt": "The small possum moved quickly along the branch with light steps. Which verb is most precise? Which reason best supports the correct choice?",
+    "audioPrompt": "The small possum moved quickly along the branch with light steps. Which verb is most precise? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Scampered suggests quick, light steps and suits the small possum.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Vocabulary for Topic and Meaning.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
-    "difficulty": 3,
-    "difficultyTier": "stretch",
+    "correctIndex": 1,
+    "explanation": "Scampered suggests quick, light steps and suits the small possum.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Vocabulary for Topic and Meaning.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la09-t-016",
     "curriculumCode": "AC9E2LA09",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "choosing_precise_vocabulary",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LA09, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LA09, then explain the answer.",
+    "prompt": "After hiking all day, Luis could barely lift his feet. Which adjective is most precise? Which reason best supports the correct choice?",
+    "audioPrompt": "After hiking all day, Luis could barely lift his feet. Which adjective is most precise? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Exhausted expresses the very strong tiredness shown by barely being able to walk.",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
-    "difficulty": 3,
-    "difficultyTier": "stretch",
+    "correctIndex": 2,
+    "explanation": "Exhausted expresses the very strong tiredness shown by barely being able to walk.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];

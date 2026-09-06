@@ -4,34 +4,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-001",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "prompt": "A child plants shade trees in a bare schoolyard. How are character and setting connected?",
+    "audioPrompt": "A child plants shade trees in a bare schoolyard. How are character and setting connected?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "determined",
+        "text": "The character plants trees because a friend likes gardening.",
+        "is_correct": false
+      },
+      {
+        "text": "The hot schoolyard motivates the character to plant shade trees.",
         "is_correct": true
       },
       {
-        "text": "bored",
-        "is_correct": false
-      },
-      {
-        "text": "greedy",
+        "text": "The schoolyard becomes cooler before the character plants anything.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "The hot, bare setting motivates the character to plant shade trees.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -44,34 +44,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-002",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "prompt": "In a story, Uncle teaches Jai to watch waterbird nests from the marked path. What guides Jai's action?",
+    "audioPrompt": "In a story, Uncle teaches Jai to watch waterbird nests from the marked path. What guides Jai's action?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "busy",
+        "text": "Jai's idea that moving closer will always improve the view",
         "is_correct": false
       },
       {
-        "text": "sunny",
+        "text": "one watching rule that Jai assumes suits every wetland",
         "is_correct": false
       },
       {
-        "text": "mysterious",
+        "text": "Uncle's knowledge and care for that particular wetland",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Jai follows knowledge shared for that particular wetland and its nesting birds.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -84,34 +84,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-003",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "prompt": "A character plans to cross an open plain at midday. The day becomes extremely hot. Which change makes sense?",
+    "audioPrompt": "A character plans to cross an open plain at midday. The day becomes extremely hot. Which change makes sense?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "angry",
-        "is_correct": false
-      },
-      {
-        "text": "kind",
+        "text": "travel earlier and rest in shade at midday",
         "is_correct": true
       },
       {
-        "text": "forgetful",
+        "text": "wear a thicker coat but keep travelling at midday",
+        "is_correct": false
+      },
+      {
+        "text": "follow the original plan because the time was already chosen",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "The extreme heat changes when the character can travel safely.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -124,34 +124,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-004",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "prompt": "A character smells bread from the corner bakery and remembers cooking with Grandpa. What connects the character and setting?",
+    "audioPrompt": "A character smells bread from the corner bakery and remembers cooking with Grandpa. What connects the character and setting?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "setting affects events",
+        "text": "the smell matters because the character must be planning to buy bread",
+        "is_correct": false
+      },
+      {
+        "text": "the familiar bakery smell brings back a family memory",
         "is_correct": true
       },
       {
-        "text": "title has commas",
-        "is_correct": false
-      },
-      {
-        "text": "word has a suffix",
+        "text": "the bakery must be the same kitchen where the character cooked with Grandpa",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "A sensory detail in the familiar setting prompts the character's memory.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -164,34 +164,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-005",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "prompt": "One story shows a harbour through a fisher's daily work. Another shows it through a visitor's first trip. Why might the settings feel different?",
+    "audioPrompt": "One story shows a harbour through a fisher's daily work. Another shows it through a visitor's first trip. Why might the settings feel different?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bored",
+        "text": "the harbour physically changes to match whoever looks at it",
         "is_correct": false
       },
       {
-        "text": "greedy",
+        "text": "the visitor must notice the same details once the fisher explains them",
         "is_correct": false
       },
       {
-        "text": "determined",
+        "text": "the characters notice the harbour through different experiences",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "A fisher and a first-time visitor bring different experiences to the same kind of setting.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -204,34 +204,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-006",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "prompt": "A story family hears a cyclone warning and shutters the windows. What does the setting cause them to do next?",
+    "audioPrompt": "A story family hears a cyclone warning and shutters the windows. What does the setting cause them to do next?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sunny",
-        "is_correct": false
-      },
-      {
-        "text": "mysterious",
+        "text": "move to their prepared safe room",
         "is_correct": true
       },
       {
-        "text": "busy",
+        "text": "stay beside a window so they can keep watching the storm",
+        "is_correct": false
+      },
+      {
+        "text": "finish packing the outdoor picnic before following the safety plan",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "The cyclone warning and shutters show that the family needs to follow its safety plan promptly.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -244,34 +244,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-007",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "prompt": "A class reads two books by named First Nations creators from different Nations. Which comment is respectful?",
+    "audioPrompt": "A class reads two books by named First Nations creators from different Nations. Which comment is respectful?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "kind",
+        "text": "Both books must teach the same ideas because the creators are First Nations.",
+        "is_correct": false
+      },
+      {
+        "text": "Each creator shares a particular story, so we should discuss each book's own details.",
         "is_correct": true
       },
       {
-        "text": "forgetful",
-        "is_correct": false
-      },
-      {
-        "text": "angry",
+        "text": "We can add cultural meanings that neither creator included.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "First Nations texts should be discussed as specific works by specific creators, not treated as one shared viewpoint.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -284,34 +284,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-008",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "prompt": "A market closes early when heavy rain floods the street. How could this change the main character's goal?",
+    "audioPrompt": "A market closes early when heavy rain floods the street. How could this change the main character's goal?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "title has commas",
+        "text": "The character keeps the usual route because the delivery address has not changed.",
         "is_correct": false
       },
       {
-        "text": "word has a suffix",
+        "text": "The character keeps walking through deep water because the goal matters more than safety.",
         "is_correct": false
       },
       {
-        "text": "setting affects events",
+        "text": "The character must find another safe way to deliver the parcel.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "The flooded market creates an obstacle that requires a new, safe plan.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -324,32 +324,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-009",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "prompt": "A child plants shade trees in a bare schoolyard. How are character and setting connected? Which reason best supports the correct choice?",
+    "audioPrompt": "A child plants shade trees in a bare schoolyard. How are character and setting connected? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "greedy",
-        "is_correct": false
-      },
-      {
-        "text": "determined",
+        "text": "The hot, bare setting motivates the character to plant shade trees.",
         "is_correct": true
       },
       {
-        "text": "bored",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "The hot, bare setting motivates the character to plant shade trees.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 9,
@@ -364,32 +364,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-010",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "prompt": "In a story, Uncle teaches Jai to watch waterbird nests from the marked path. What guides Jai's action? Which reason best supports the correct choice?",
+    "audioPrompt": "In a story, Uncle teaches Jai to watch waterbird nests from the marked path. What guides Jai's action? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "mysterious",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Jai follows knowledge shared for that particular wetland and its nesting birds.",
         "is_correct": true
       },
       {
-        "text": "busy",
-        "is_correct": false
-      },
-      {
-        "text": "sunny",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 1,
+    "explanation": "Jai follows knowledge shared for that particular wetland and its nesting birds.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 10,
@@ -404,32 +404,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-011",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "prompt": "A character plans to cross an open plain at midday. The day becomes extremely hot. Which change makes sense? Which reason best supports the correct choice?",
+    "audioPrompt": "A character plans to cross an open plain at midday. The day becomes extremely hot. Which change makes sense? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "forgetful",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "angry",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "kind",
+        "text": "The extreme heat changes when the character can travel safely.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "The extreme heat changes when the character can travel safely.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 11,
@@ -444,32 +444,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-012",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "prompt": "A character smells bread from the corner bakery and remembers cooking with Grandpa. What connects the character and setting? Which reason best supports the correct choice?",
+    "audioPrompt": "A character smells bread from the corner bakery and remembers cooking with Grandpa. What connects the character and setting? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "word has a suffix",
-        "is_correct": false
-      },
-      {
-        "text": "setting affects events",
+        "text": "A sensory detail in the familiar setting prompts the character's memory.",
         "is_correct": true
       },
       {
-        "text": "title has commas",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "A sensory detail in the familiar setting prompts the character's memory.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 12,
@@ -484,32 +484,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-013",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "prompt": "One story shows a harbour through a fisher's daily work. Another shows it through a visitor's first trip. Why might the settings feel different? Which reason best supports the correct choice?",
+    "audioPrompt": "One story shows a harbour through a fisher's daily work. Another shows it through a visitor's first trip. Why might the settings feel different? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "determined",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "A fisher and a first-time visitor bring different experiences to the same kind of setting.",
         "is_correct": true
       },
       {
-        "text": "bored",
-        "is_correct": false
-      },
-      {
-        "text": "greedy",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 1,
+    "explanation": "A fisher and a first-time visitor bring different experiences to the same kind of setting.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 13,
@@ -524,32 +524,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-014",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "prompt": "A story family hears a cyclone warning and shutters the windows. What does the setting cause them to do next? Which reason best supports the correct choice?",
+    "audioPrompt": "A story family hears a cyclone warning and shutters the windows. What does the setting cause them to do next? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "busy",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "sunny",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "mysterious",
+        "text": "The cyclone warning and shutters show that the family needs to follow its safety plan promptly.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "The cyclone warning and shutters show that the family needs to follow its safety plan promptly.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 14,
@@ -564,80 +564,80 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-015",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LE01. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LE01. Use your own example.",
+    "prompt": "A class reads two books by named First Nations creators from different Nations. Which comment is respectful? Which reason best supports the correct choice?",
+    "audioPrompt": "A class reads two books by named First Nations creators from different Nations. Which comment is respectful? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "First Nations texts should be discussed as specific works by specific creators, not treated as one shared viewpoint.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Characters and Settings Across Literature.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
-    "difficulty": 3,
-    "difficultyTier": "stretch",
+    "explanation": "First Nations texts should be discussed as specific works by specific creators, not treated as one shared viewpoint.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Characters and Settings Across Literature.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2le01-t-016",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "characters_settings_and_cultural_contexts",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LE01, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LE01, then explain the answer.",
+    "prompt": "A market closes early when heavy rain floods the street. How could this change the main character's goal? Which reason best supports the correct choice?",
+    "audioPrompt": "A market closes early when heavy rain floods the street. How could this change the main character's goal? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The flooded market creates an obstacle that requires a new, safe plan.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
-    "difficulty": 3,
-    "difficultyTier": "stretch",
+    "correctIndex": 1,
+    "explanation": "The flooded market creates an obstacle that requires a new, safe plan.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];

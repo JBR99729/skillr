@@ -1,11 +1,10 @@
 {
   "curriculum_code": "AC9E2LY03",
-  "status": "reviewed",
+  "status": "user-edited-source-validated",
   "question_count": 40,
   "practice_count": 24,
   "test_count": 16,
-  "ixl_evidence": "Writer purpose",
-  "official_descriptor": "Identify the purpose and audience of imaginative, informative and persuasive texts",
-  "quality_schema": "year2-english-remaining-original-v1",
-  "review_notes": "Original Year 2 English bank generated after reviewing official descriptor, IXL standards mapping and representative IXL worked examples."
+  "source": "SkillrHub-Year2-English-current-edited-questions(1).csv",
+  "quality_schema": "production-v1",
+  "review_notes": "Imported from the owner's edited Year 2 English CSV; schema, IDs, counts, options, answer keys and exact prompt uniqueness validated before publication."
 }

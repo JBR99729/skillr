@@ -4,34 +4,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-001",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with the vowel digraph oa.",
-    "audioPrompt": "Choose the word with the vowel digraph oa.",
+    "prompt": "Which word uses ai to represent the long a sound?",
+    "audioPrompt": "Which word uses ai to represent the long a sound?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "boat",
+        "text": "rain",
         "is_correct": true
       },
       {
-        "text": "bat",
+        "text": "ran",
         "is_correct": false
       },
       {
-        "text": "bite",
+        "text": "ring",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "In rain, the letters ai work together to represent the long a sound.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -44,34 +44,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-002",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word has a silent letter?",
-    "audioPrompt": "Which word has a silent letter?",
+    "prompt": "Something used for travelling on water floated on the lake. Which word names it?",
+    "audioPrompt": "Something used for travelling on water floated on the lake. Which word names it?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "nest",
+        "text": "bot",
         "is_correct": false
       },
       {
-        "text": "kite",
-        "is_correct": false
-      },
-      {
-        "text": "knee",
+        "text": "boat",
         "is_correct": true
+      },
+      {
+        "text": "boot",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "Boat fits the meaning and uses oa for the long o sound.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -84,34 +84,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-003",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word is a compound word?",
-    "audioPrompt": "Which word is a compound word?",
+    "prompt": "Which spelling keeps both starting sounds in the spoken word frog?",
+    "audioPrompt": "Which spelling keeps both starting sounds in the spoken word frog?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "setting",
+        "text": "fog",
         "is_correct": false
       },
       {
-        "text": "sunset",
+        "text": "rog",
+        "is_correct": false
+      },
+      {
+        "text": "frog",
         "is_correct": true
-      },
-      {
-        "text": "sunny",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "The cluster fr preserves the f and r sounds at the start of frog.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -124,34 +124,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-004",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with final blend st.",
-    "audioPrompt": "Choose the word with final blend st.",
+    "prompt": "Which letter is not heard at the start of knee?",
+    "audioPrompt": "Which letter is not heard at the start of knee?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "nest",
+        "text": "k",
         "is_correct": true
       },
       {
-        "text": "net",
+        "text": "n",
         "is_correct": false
       },
       {
-        "text": "need",
+        "text": "ee",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Knee begins with the written pattern kn, but k is silent.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -164,34 +164,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-005",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with the vowel digraph oa.",
-    "audioPrompt": "Choose the word with the vowel digraph oa.",
+    "prompt": "Which two words combine to make sunset?",
+    "audioPrompt": "Which two words combine to make sunset?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bat",
+        "text": "suns + et",
         "is_correct": false
       },
       {
-        "text": "bite",
-        "is_correct": false
-      },
-      {
-        "text": "boat",
+        "text": "sun + set",
         "is_correct": true
+      },
+      {
+        "text": "sun + sit",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "Sunset is a compound word built from the complete words sun and set.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -204,34 +204,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-006",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word has a silent letter?",
-    "audioPrompt": "Which word has a silent letter?",
+    "prompt": "Which way correctly parts robot into spoken syllables?",
+    "audioPrompt": "Which way correctly parts robot into spoken syllables?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "kite",
+        "text": "r-ob-ot",
         "is_correct": false
       },
       {
-        "text": "knee",
+        "text": "rob-o-t",
+        "is_correct": false
+      },
+      {
+        "text": "ro-bot",
         "is_correct": true
-      },
-      {
-        "text": "nest",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "Robot has two spoken beats: ro and bot.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -244,34 +244,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-007",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word is a compound word?",
-    "audioPrompt": "Which word is a compound word?",
+    "prompt": "Which grapheme represents the long o sound in road?",
+    "audioPrompt": "Which grapheme represents the long o sound in road?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sunset",
+        "text": "oa",
         "is_correct": true
       },
       {
-        "text": "sunny",
+        "text": "o",
         "is_correct": false
       },
       {
-        "text": "setting",
+        "text": "a",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "The two letters oa represent one long o phoneme in road.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -284,34 +284,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-008",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with final blend st.",
-    "audioPrompt": "Choose the word with final blend st.",
+    "prompt": "Which word uses ee to represent a long e sound?",
+    "audioPrompt": "Which word uses ee to represent a long e sound?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "net",
+        "text": "grin",
         "is_correct": false
       },
       {
-        "text": "need",
-        "is_correct": false
-      },
-      {
-        "text": "nest",
+        "text": "green",
         "is_correct": true
+      },
+      {
+        "text": "grain",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "The vowel digraph ee represents the long e sound in green.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -324,32 +324,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-009",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with the vowel digraph oa.",
-    "audioPrompt": "Choose the word with the vowel digraph oa.",
+    "prompt": "Which letter is silent at the start of wrist?",
+    "audioPrompt": "Which letter is silent at the start of wrist?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bite",
+        "text": "r",
         "is_correct": false
       },
       {
-        "text": "boat",
+        "text": "t",
+        "is_correct": false
+      },
+      {
+        "text": "w",
         "is_correct": true
-      },
-      {
-        "text": "bat",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "Wrist begins with the written pattern wr, but the w is not pronounced.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 9,
@@ -364,32 +364,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-010",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word has a silent letter?",
-    "audioPrompt": "Which word has a silent letter?",
+    "prompt": "Which two words combine to make raincoat?",
+    "audioPrompt": "Which two words combine to make raincoat?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "knee",
+        "text": "rain + coat",
         "is_correct": true
       },
       {
-        "text": "nest",
+        "text": "rain + cot",
         "is_correct": false
       },
       {
-        "text": "kite",
+        "text": "ray + coat",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "Raincoat combines two complete words whose meanings explain the compound.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 10,
@@ -404,32 +404,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-011",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word is a compound word?",
-    "audioPrompt": "Which word is a compound word?",
+    "prompt": "Which word uses ai to represent the long a sound? Why is “rain” the best answer?",
+    "audioPrompt": "Which word uses ai to represent the long a sound? Why is “rain” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sunny",
+        "text": "It is best only because it is longer than “ran”.",
         "is_correct": false
       },
       {
-        "text": "setting",
-        "is_correct": false
-      },
-      {
-        "text": "sunset",
+        "text": "In rain, the letters ai work together to represent the long a sound.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 1,
+    "explanation": "In rain, the letters ai work together to represent the long a sound.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 11,
@@ -444,32 +444,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-012",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with final blend st.",
-    "audioPrompt": "Choose the word with final blend st.",
+    "prompt": "Something used for travelling on water floated on the lake. Which word names it? Why is “boat” the best answer?",
+    "audioPrompt": "Something used for travelling on water floated on the lake. Which word names it? Why is “boat” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "need",
+        "text": "It is best only because it is longer than “bot”.",
         "is_correct": false
       },
       {
-        "text": "nest",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Boat fits the meaning and uses oa for the long o sound.",
         "is_correct": true
-      },
-      {
-        "text": "net",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "Boat fits the meaning and uses oa for the long o sound.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 12,
@@ -484,32 +484,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-013",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with the vowel digraph oa.",
-    "audioPrompt": "Choose the word with the vowel digraph oa.",
+    "prompt": "Which spelling keeps both starting sounds in the spoken word frog? Why is “frog” the best answer?",
+    "audioPrompt": "Which spelling keeps both starting sounds in the spoken word frog? Why is “frog” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "boat",
+        "text": "The cluster fr preserves the f and r sounds at the start of frog.",
         "is_correct": true
       },
       {
-        "text": "bat",
+        "text": "It is best only because it is longer than “fog”.",
         "is_correct": false
       },
       {
-        "text": "bite",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "The cluster fr preserves the f and r sounds at the start of frog.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 13,
@@ -524,32 +524,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-014",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word has a silent letter?",
-    "audioPrompt": "Which word has a silent letter?",
+    "prompt": "Which letter is not heard at the start of knee? Why is “k” the best answer?",
+    "audioPrompt": "Which letter is not heard at the start of knee? Why is “k” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "nest",
+        "text": "It is best only because it is longer than “n”.",
         "is_correct": false
       },
       {
-        "text": "kite",
-        "is_correct": false
-      },
-      {
-        "text": "knee",
+        "text": "Knee begins with the written pattern kn, but k is silent.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 1,
+    "explanation": "Knee begins with the written pattern kn, but k is silent.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 14,
@@ -564,32 +564,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-015",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word is a compound word?",
-    "audioPrompt": "Which word is a compound word?",
+    "prompt": "Which two words combine to make sunset? Why is “sun + set” the best answer?",
+    "audioPrompt": "Which two words combine to make sunset? Why is “sun + set” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "setting",
+        "text": "It is best only because it is longer than “suns + et”.",
         "is_correct": false
       },
       {
-        "text": "sunset",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Sunset is a compound word built from the complete words sun and set.",
         "is_correct": true
-      },
-      {
-        "text": "sunny",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "Sunset is a compound word built from the complete words sun and set.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 15,
@@ -604,32 +604,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-016",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with final blend st.",
-    "audioPrompt": "Choose the word with final blend st.",
+    "prompt": "Which way correctly parts robot into spoken syllables? Why is “ro-bot” the best answer?",
+    "audioPrompt": "Which way correctly parts robot into spoken syllables? Why is “ro-bot” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "nest",
+        "text": "Robot has two spoken beats: ro and bot.",
         "is_correct": true
       },
       {
-        "text": "net",
+        "text": "It is best only because it is longer than “r-ob-ot”.",
         "is_correct": false
       },
       {
-        "text": "need",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "Robot has two spoken beats: ro and bot.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 16,
@@ -644,34 +644,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-017",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with the vowel digraph oa.",
-    "audioPrompt": "Choose the word with the vowel digraph oa.",
+    "prompt": "Which grapheme represents the long o sound in road? Why is “oa” the best answer?",
+    "audioPrompt": "Which grapheme represents the long o sound in road? Why is “oa” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bat",
+        "text": "It is best only because it is longer than “o”.",
         "is_correct": false
       },
       {
-        "text": "bite",
-        "is_correct": false
-      },
-      {
-        "text": "boat",
+        "text": "The two letters oa represent one long o phoneme in road.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "The two letters oa represent one long o phoneme in road.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 17,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -684,34 +684,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-018",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word has a silent letter?",
-    "audioPrompt": "Which word has a silent letter?",
+    "prompt": "Which word uses ee to represent a long e sound? Why is “green” the best answer?",
+    "audioPrompt": "Which word uses ee to represent a long e sound? Why is “green” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "kite",
+        "text": "It is best only because it is longer than “grin”.",
         "is_correct": false
       },
       {
-        "text": "knee",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The vowel digraph ee represents the long e sound in green.",
         "is_correct": true
-      },
-      {
-        "text": "nest",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "The vowel digraph ee represents the long e sound in green.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 18,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -724,34 +724,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-019",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word is a compound word?",
-    "audioPrompt": "Which word is a compound word?",
+    "prompt": "Which letter is silent at the start of wrist? Why is “w” the best answer?",
+    "audioPrompt": "Which letter is silent at the start of wrist? Why is “w” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sunset",
+        "text": "Wrist begins with the written pattern wr, but the w is not pronounced.",
         "is_correct": true
       },
       {
-        "text": "sunny",
+        "text": "It is best only because it is longer than “r”.",
         "is_correct": false
       },
       {
-        "text": "setting",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Wrist begins with the written pattern wr, but the w is not pronounced.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 19,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -764,34 +764,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-020",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with final blend st.",
-    "audioPrompt": "Choose the word with final blend st.",
+    "prompt": "Which two words combine to make raincoat? Why is “rain + coat” the best answer?",
+    "audioPrompt": "Which two words combine to make raincoat? Why is “rain + coat” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "net",
+        "text": "It is best only because it is longer than “rain + cot”.",
         "is_correct": false
       },
       {
-        "text": "need",
-        "is_correct": false
-      },
-      {
-        "text": "nest",
+        "text": "Raincoat combines two complete words whose meanings explain the compound.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "Raincoat combines two complete words whose meanings explain the compound.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 20,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -804,34 +804,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-021",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Choose the word with the vowel digraph oa.",
-    "audioPrompt": "Choose the word with the vowel digraph oa.",
+    "prompt": "Which spelling keeps both starting sounds in the spoken word frog? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Which spelling keeps both starting sounds in the spoken word frog? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bite",
+        "text": "frog",
         "is_correct": false
       },
       {
-        "text": "boat",
+        "text": "rog",
+        "is_correct": false
+      },
+      {
+        "text": "fog",
         "is_correct": true
-      },
-      {
-        "text": "bat",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "“fog” is the mix-up to avoid. Stretch the beginning and listen for both consonant sounds.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 21,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -844,34 +844,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-022",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "sound letter patterns",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word has a silent letter?",
-    "audioPrompt": "Which word has a silent letter?",
+    "prompt": "Which letter is not heard at the start of knee? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Which letter is not heard at the start of knee? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "knee",
+        "text": "n",
         "is_correct": true
       },
       {
-        "text": "nest",
+        "text": "k",
         "is_correct": false
       },
       {
-        "text": "kite",
+        "text": "ee",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Sound-letter knowledge includes digraphs, blends, silent letters, syllables and compound words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "“n” is the mix-up to avoid. Compare the written letters with the sounds you actually say.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 22,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -884,80 +884,80 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly10-p-023",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "explain concept",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LY10. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY10. Use your own example.",
+    "prompt": "Which two words combine to make sunset? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Which two words combine to make sunset? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "sun + set",
+        "is_correct": false
+      },
+      {
+        "text": "suns + et",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "sun + sit",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Sound-letter Patterns in Multisyllable Words.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
+    "correctIndex": 1,
+    "explanation": "“suns + et” is the mix-up to avoid. Look for two meaningful words that remain visible in the compound.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
     "difficultyTier": "stretch",
     "sequencePriority": 23,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Sound-letter Patterns in Multisyllable Words.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly10-p-024",
     "curriculumCode": "AC9E2LY10",
     "bank": "practice",
-    "skill": "apply concept",
+    "skill": "advanced_sound_letter_patterns",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LY10, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LY10, then explain the answer.",
+    "prompt": "Which way correctly parts robot into spoken syllables? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Which way correctly parts robot into spoken syllables? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "ro-bot",
+        "is_correct": false
+      },
+      {
+        "text": "rob-o-t",
+        "is_correct": false
+      },
+      {
+        "text": "r-ob-ot",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
+    "correctIndex": 2,
+    "explanation": "“r-ob-ot” is the mix-up to avoid. Say the word naturally and clap each syllable.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
     "difficultyTier": "stretch",
     "sequencePriority": 24,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];

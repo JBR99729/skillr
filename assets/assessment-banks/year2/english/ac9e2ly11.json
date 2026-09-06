@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Choose the high-frequency word: I ___ seen that bird before.",
-    "audio_prompt": "Choose the high-frequency word: I ___ seen that bird before.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which strategy best helps spell said?",
+    "audio_prompt": "Which strategy best helps spell said?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "have",
+        "text": "Write sed because the spoken sounds are enough to choose every letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Map the sounds, then remember that ai represents the middle sound.",
         "is_correct": true
       },
       {
-        "text": "hive",
-        "is_correct": false
-      },
-      {
-        "text": "heavy",
+        "text": "Copy said many times without noticing or recalling the tricky part.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Said has useful sound clues plus an unusual ai spelling that must be remembered.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Which word is not fully predictable from its sounds?",
-    "audio_prompt": "Which word is not fully predictable from its sounds?",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "A student writes woz for was. What should the student remember?",
+    "audio_prompt": "A student writes woz for was. What should the student remember?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "went",
+        "text": "Keep woz because matching the spoken sounds is enough.",
         "is_correct": false
       },
       {
-        "text": "lamp",
+        "text": "Change only the vowel and write wiz from the sounds.",
         "is_correct": false
       },
       {
-        "text": "once",
+        "text": "The word is spelled w-a-s even though the vowel sounds different.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Was is a high-frequency word with a less predictable vowel spelling.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Complete: They ___ going to the library.",
-    "audio_prompt": "Complete: They ___ going to the library.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Several children are ready. Which spelling correctly names the children at the start of the sentence?",
+    "audio_prompt": "Several children are ready. Which spelling correctly names the children at the start of the sentence?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "ear",
-        "is_correct": false
-      },
-      {
-        "text": "are",
+        "text": "They",
         "is_correct": true
       },
       {
-        "text": "air",
+        "text": "Thay",
+        "is_correct": false
+      },
+      {
+        "text": "Thea",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "They uses the less common ey pattern for the long a sound.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Choose the best word: Please put it over ___.",
-    "audio_prompt": "Choose the best word: Please put it over ___.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which word is built from help plus the suffix ful?",
+    "audio_prompt": "Which word is built from help plus the suffix ful?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "there",
+        "text": "helping",
+        "is_correct": false
+      },
+      {
+        "text": "helpful",
         "is_correct": true
       },
       {
-        "text": "three",
-        "is_correct": false
-      },
-      {
-        "text": "tree",
+        "text": "helmet",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Helpful keeps the meaningful base help and adds ful, meaning full of.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Choose the high-frequency word: I ___ seen that bird before.",
-    "audio_prompt": "Choose the high-frequency word: I ___ seen that bird before.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which base word helps spell jumping?",
+    "audio_prompt": "Which base word helps spell jumping?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "hive",
+        "text": "jum",
         "is_correct": false
       },
       {
-        "text": "heavy",
+        "text": "ping",
         "is_correct": false
       },
       {
-        "text": "have",
+        "text": "jump",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Jumping keeps the base jump and adds the suffix ing.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Which word is not fully predictable from its sounds?",
-    "audio_prompt": "Which word is not fully predictable from its sounds?",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which spelling names what we did in the park yesterday and correctly combines play plus ed?",
+    "audio_prompt": "Which spelling names what we did in the park yesterday and correctly combines play plus ed?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "lamp",
-        "is_correct": false
-      },
-      {
-        "text": "once",
+        "text": "played",
         "is_correct": true
       },
       {
-        "text": "went",
+        "text": "playd",
+        "is_correct": false
+      },
+      {
+        "text": "plaied",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Played keeps the base play and adds the past-tense suffix ed.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Complete: They ___ going to the library.",
-    "audio_prompt": "Complete: They ___ going to the library.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "After noticing the tricky letters in friend, which practice is most useful?",
+    "audio_prompt": "After noticing the tricky letters in friend, which practice is most useful?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "are",
+        "text": "Copy friend many times while looking at it, without testing memory.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the word, name the tricky ie part, cover it, write it and check.",
         "is_correct": true
       },
       {
-        "text": "air",
-        "is_correct": false
-      },
-      {
-        "text": "ear",
+        "text": "Practise only the sound-based spelling frend and do not compare it.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Focused recall and checking strengthen memory for the less predictable ie spelling.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Choose the best word: Please put it over ___.",
-    "audio_prompt": "Choose the best word: Please put it over ___.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "A student spells come as cum. Which part of come needs special attention?",
+    "audio_prompt": "A student spells come as cum. Which part of come needs special attention?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "three",
+        "text": "a double m in the middle",
         "is_correct": false
       },
       {
-        "text": "tree",
+        "text": "a silent c at the start",
         "is_correct": false
       },
       {
-        "text": "there",
+        "text": "the written o and final silent e",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Come contains an o and final e that are not fully predictable from the spoken sounds.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-009",
@@ -310,36 +310,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Choose the high-frequency word: I ___ seen that bird before.",
-    "audio_prompt": "Choose the high-frequency word: I ___ seen that bird before.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which pair shares a spelling pattern that can help a reader?",
+    "audio_prompt": "Which pair shares a spelling pattern that can help a reader?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "heavy",
-        "is_correct": false
-      },
-      {
-        "text": "have",
+        "text": "light and night",
         "is_correct": true
       },
       {
-        "text": "hive",
+        "text": "light and little",
+        "is_correct": false
+      },
+      {
+        "text": "night and nest",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Light and night share the ight pattern and its long i sound.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-010",
@@ -348,36 +348,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Which word is not fully predictable from its sounds?",
-    "audio_prompt": "Which word is not fully predictable from its sounds?",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which spelling correctly combines look and ed?",
+    "audio_prompt": "Which spelling correctly combines look and ed?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "once",
+        "text": "lookt",
+        "is_correct": false
+      },
+      {
+        "text": "looked",
         "is_correct": true
       },
       {
-        "text": "went",
-        "is_correct": false
-      },
-      {
-        "text": "lamp",
+        "text": "luked",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Looked keeps the familiar base look and adds the suffix ed.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-011",
@@ -386,36 +386,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Complete: They ___ going to the library.",
-    "audio_prompt": "Complete: They ___ going to the library.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which strategy best helps spell said? Why is “Map the sounds, then remember that ai represents the middle sound.” the best answer?",
+    "audio_prompt": "Which strategy best helps spell said? Why is “Map the sounds, then remember that ai represents the middle sound.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "air",
+        "text": "It is best only because it is longer than “Write sed because the spoken sounds are enough to choose every letter.”.",
         "is_correct": false
       },
       {
-        "text": "ear",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "are",
+        "text": "Said has useful sound clues plus an unusual ai spelling that must be remembered.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Said has useful sound clues plus an unusual ai spelling that must be remembered.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-012",
@@ -424,36 +424,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Choose the best word: Please put it over ___.",
-    "audio_prompt": "Choose the best word: Please put it over ___.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "A student writes woz for was. What should the student remember? Why is “The word is spelled w-a-s even though the vowel sounds different.” the best answer?",
+    "audio_prompt": "A student writes woz for was. What should the student remember? Why is “The word is spelled w-a-s even though the vowel sounds different.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "tree",
-        "is_correct": false
-      },
-      {
-        "text": "there",
+        "text": "Was is a high-frequency word with a less predictable vowel spelling.",
         "is_correct": true
       },
       {
-        "text": "three",
+        "text": "It is best only because it is longer than “Keep woz because matching the spoken sounds is enough.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Was is a high-frequency word with a less predictable vowel spelling.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-013",
@@ -462,36 +462,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Choose the high-frequency word: I ___ seen that bird before.",
-    "audio_prompt": "Choose the high-frequency word: I ___ seen that bird before.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Several children are ready. Which spelling correctly names the children at the start of the sentence? Why is “They” the best answer?",
+    "audio_prompt": "Several children are ready. Which spelling correctly names the children at the start of the sentence? Why is “They” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "have",
+        "text": "It is best only because it is longer than “Thay”.",
+        "is_correct": false
+      },
+      {
+        "text": "They uses the less common ey pattern for the long a sound.",
         "is_correct": true
       },
       {
-        "text": "hive",
-        "is_correct": false
-      },
-      {
-        "text": "heavy",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "They uses the less common ey pattern for the long a sound.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-014",
@@ -500,36 +500,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Which word is not fully predictable from its sounds?",
-    "audio_prompt": "Which word is not fully predictable from its sounds?",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which word is built from help plus the suffix ful? Why is “helpful” the best answer?",
+    "audio_prompt": "Which word is built from help plus the suffix ful? Why is “helpful” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "went",
+        "text": "It is best only because it is longer than “helping”.",
         "is_correct": false
       },
       {
-        "text": "lamp",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "once",
+        "text": "Helpful keeps the meaningful base help and adds ful, meaning full of.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Helpful keeps the meaningful base help and adds ful, meaning full of.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-015",
@@ -538,36 +538,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Complete: They ___ going to the library.",
-    "audio_prompt": "Complete: They ___ going to the library.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which base word helps spell jumping? Why is “jump” the best answer?",
+    "audio_prompt": "Which base word helps spell jumping? Why is “jump” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "ear",
-        "is_correct": false
-      },
-      {
-        "text": "are",
+        "text": "Jumping keeps the base jump and adds the suffix ing.",
         "is_correct": true
       },
       {
-        "text": "air",
+        "text": "It is best only because it is longer than “jum”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Jumping keeps the base jump and adds the suffix ing.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-016",
@@ -576,36 +576,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Choose the best word: Please put it over ___.",
-    "audio_prompt": "Choose the best word: Please put it over ___.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which spelling names what we did in the park yesterday and correctly combines play plus ed? Why is “played” the best answer?",
+    "audio_prompt": "Which spelling names what we did in the park yesterday and correctly combines play plus ed? Why is “played” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "there",
+        "text": "It is best only because it is longer than “playd”.",
+        "is_correct": false
+      },
+      {
+        "text": "Played keeps the base play and adds the past-tense suffix ed.",
         "is_correct": true
       },
       {
-        "text": "three",
-        "is_correct": false
-      },
-      {
-        "text": "tree",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Played keeps the base play and adds the past-tense suffix ed.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Choose the high-frequency word: I ___ seen that bird before.",
-    "audio_prompt": "Choose the high-frequency word: I ___ seen that bird before.",
+    "stage": "independent",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "After noticing the tricky letters in friend, which practice is most useful? Why is “Say the word, name the tricky ie part, cover it, write it and check.” the best answer?",
+    "audio_prompt": "After noticing the tricky letters in friend, which practice is most useful? Why is “Say the word, name the tricky ie part, cover it, write it and check.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "hive",
+        "text": "It is best only because it is longer than “Copy friend many times while looking at it, without testing memory.”.",
         "is_correct": false
       },
       {
-        "text": "heavy",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "have",
+        "text": "Focused recall and checking strengthen memory for the less predictable ie spelling.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Focused recall and checking strengthen memory for the less predictable ie spelling.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 17,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Which word is not fully predictable from its sounds?",
-    "audio_prompt": "Which word is not fully predictable from its sounds?",
+    "stage": "independent",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "A student spells come as cum. Which part of come needs special attention? Why is “the written o and final silent e” the best answer?",
+    "audio_prompt": "A student spells come as cum. Which part of come needs special attention? Why is “the written o and final silent e” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "lamp",
-        "is_correct": false
-      },
-      {
-        "text": "once",
+        "text": "Come contains an o and final e that are not fully predictable from the spoken sounds.",
         "is_correct": true
       },
       {
-        "text": "went",
+        "text": "It is best only because it is longer than “a double m in the middle”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Come contains an o and final e that are not fully predictable from the spoken sounds.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 18,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Complete: They ___ going to the library.",
-    "audio_prompt": "Complete: They ___ going to the library.",
+    "stage": "independent",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which pair shares a spelling pattern that can help a reader? Why is “light and night” the best answer?",
+    "audio_prompt": "Which pair shares a spelling pattern that can help a reader? Why is “light and night” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "are",
+        "text": "It is best only because it is longer than “light and little”.",
+        "is_correct": false
+      },
+      {
+        "text": "Light and night share the ight pattern and its long i sound.",
         "is_correct": true
       },
       {
-        "text": "air",
-        "is_correct": false
-      },
-      {
-        "text": "ear",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Light and night share the ight pattern and its long i sound.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 19,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Choose the best word: Please put it over ___.",
-    "audio_prompt": "Choose the best word: Please put it over ___.",
+    "stage": "independent",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which spelling correctly combines look and ed? Why is “looked” the best answer?",
+    "audio_prompt": "Which spelling correctly combines look and ed? Why is “looked” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "three",
+        "text": "It is best only because it is longer than “lookt”.",
         "is_correct": false
       },
       {
-        "text": "tree",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "there",
+        "text": "Looked keeps the familiar base look and adds the suffix ed.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Looked keeps the familiar base look and adds the suffix ed.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 20,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Choose the high-frequency word: I ___ seen that bird before.",
-    "audio_prompt": "Choose the high-frequency word: I ___ seen that bird before.",
+    "stage": "independent",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Several children are ready. Which spelling correctly names the children at the start of the sentence? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Several children are ready. Which spelling correctly names the children at the start of the sentence? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "heavy",
-        "is_correct": false
-      },
-      {
-        "text": "have",
+        "text": "Thay",
         "is_correct": true
       },
       {
-        "text": "hive",
+        "text": "They",
+        "is_correct": false
+      },
+      {
+        "text": "Thea",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“Thay” is the mix-up to avoid. Recall the whole familiar word and check its ending letters.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 21,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Which word is not fully predictable from its sounds?",
-    "audio_prompt": "Which word is not fully predictable from its sounds?",
+    "stage": "independent",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which word is built from help plus the suffix ful? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which word is built from help plus the suffix ful? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "once",
+        "text": "helpful",
+        "is_correct": false
+      },
+      {
+        "text": "helping",
         "is_correct": true
       },
       {
-        "text": "went",
-        "is_correct": false
-      },
-      {
-        "text": "lamp",
+        "text": "helmet",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“helping” is the mix-up to avoid. Find the word containing the complete base and requested suffix.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 22,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-023",
@@ -841,43 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LY11. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY11. Use your own example.",
+    "stage": "independent",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which base word helps spell jumping? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which base word helps spell jumping? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "jump",
+        "is_correct": false
+      },
+      {
+        "text": "ping",
+        "is_correct": false
+      },
+      {
+        "text": "jum",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Spelling Patterns and High-frequency Words.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“jum” is the mix-up to avoid. Remove the ending ing and check the meaningful word that remains.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Spelling Patterns and High-frequency Words.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-P-024",
@@ -885,43 +879,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LY11, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LY11, then explain the answer.",
+    "stage": "independent",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which spelling names what we did in the park yesterday and correctly combines play plus ed? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which spelling names what we did in the park yesterday and correctly combines play plus ed? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "playd",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "played",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "plaied",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“playd” is the mix-up to avoid. Use the familiar base word before adding the ending.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-001",
@@ -930,36 +918,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Choose the high-frequency word: I ___ seen that bird before.",
-    "audio_prompt": "Choose the high-frequency word: I ___ seen that bird before.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "A student writes cud for could. Which part must be remembered?",
+    "audio_prompt": "A student writes cud for could. Which part must be remembered?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "have",
+        "text": "a double final d",
+        "is_correct": false
+      },
+      {
+        "text": "the letters ou and the silent l in could",
         "is_correct": true
       },
       {
-        "text": "hive",
-        "is_correct": false
-      },
-      {
-        "text": "heavy",
+        "text": "a silent c at the beginning",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Could contains spelling information that cannot be recovered from sound alone.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-002",
@@ -968,36 +956,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Which word is not fully predictable from its sounds?",
-    "audio_prompt": "Which word is not fully predictable from its sounds?",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which common word means for the reason that when explaining why we stayed inside?",
+    "audio_prompt": "Which common word means for the reason that when explaining why we stayed inside?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "went",
+        "text": "becos",
         "is_correct": false
       },
       {
-        "text": "lamp",
+        "text": "becawz",
         "is_correct": false
       },
       {
-        "text": "once",
+        "text": "because",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Because is a common word whose conventional spelling needs pattern and memory knowledge.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-003",
@@ -1006,36 +994,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Complete: They ___ going to the library.",
-    "audio_prompt": "Complete: They ___ going to the library.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which spelling correctly names more than one person?",
+    "audio_prompt": "Which spelling correctly names more than one person?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "ear",
-        "is_correct": false
-      },
-      {
-        "text": "are",
+        "text": "people",
         "is_correct": true
       },
       {
-        "text": "air",
+        "text": "peeple",
+        "is_correct": false
+      },
+      {
+        "text": "pepole",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "People uses the less predictable middle letters eo and the ending le.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-004",
@@ -1044,36 +1032,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Choose the best word: Please put it over ___.",
-    "audio_prompt": "Choose the best word: Please put it over ___.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "The word unhappy contains un plus happy. How does un help the reader?",
+    "audio_prompt": "The word unhappy contains un plus happy. How does un help the reader?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "there",
+        "text": "It adds the meaning again to the base word happy.",
+        "is_correct": false
+      },
+      {
+        "text": "It adds the meaning not to the base word happy.",
         "is_correct": true
       },
       {
-        "text": "three",
-        "is_correct": false
-      },
-      {
-        "text": "tree",
+        "text": "It adds the meaning full of to the base word happy.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Recognising the prefix supports both the spelling and meaning of unhappy.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-005",
@@ -1082,36 +1070,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Choose the high-frequency word: I ___ seen that bird before.",
-    "audio_prompt": "Choose the high-frequency word: I ___ seen that bird before.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which spelling shows more than one dog by adding the suffix s?",
+    "audio_prompt": "Which spelling shows more than one dog by adding the suffix s?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "hive",
+        "text": "dogz",
         "is_correct": false
       },
       {
-        "text": "heavy",
+        "text": "doges",
         "is_correct": false
       },
       {
-        "text": "have",
+        "text": "dogs",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Dogs keeps the base dog and adds the plural morpheme s.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-006",
@@ -1120,36 +1108,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Which word is not fully predictable from its sounds?",
-    "audio_prompt": "Which word is not fully predictable from its sounds?",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Mila keeps misspelling were. Which plan is strongest?",
+    "audio_prompt": "Mila keeps misspelling were. Which plan is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "lamp",
-        "is_correct": false
-      },
-      {
-        "text": "once",
+        "text": "Mark the tricky part, say the word, write it from memory and check it.",
         "is_correct": true
       },
       {
-        "text": "went",
+        "text": "Copy were while the model stays visible and never test memory.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise only the sound-based spelling wur without checking the word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Analysing, recalling and checking targets the exact high-frequency word.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-007",
@@ -1158,36 +1146,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Complete: They ___ going to the library.",
-    "audio_prompt": "Complete: They ___ going to the library.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Our team was the winner of the game. Which word tells what the team did?",
+    "audio_prompt": "Our team was the winner of the game. Which word tells what the team did?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "are",
+        "text": "one",
+        "is_correct": false
+      },
+      {
+        "text": "won",
         "is_correct": true
       },
       {
-        "text": "air",
-        "is_correct": false
-      },
-      {
-        "text": "ear",
+        "text": "wun",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Won is the past form of win; one is the number word with the same sound.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-008",
@@ -1196,36 +1184,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "recognise",
-    "skill": "high frequency spelling",
-    "question": "Choose the best word: Please put it over ___.",
-    "audio_prompt": "Choose the best word: Please put it over ___.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "A student writes evry. Which conventional spelling is correct?",
+    "audio_prompt": "A student writes evry. Which conventional spelling is correct?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "three",
+        "text": "everry",
         "is_correct": false
       },
       {
-        "text": "tree",
+        "text": "evrey",
         "is_correct": false
       },
       {
-        "text": "there",
+        "text": "every",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Every is a high-frequency word whose middle spelling needs to be remembered.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-009",
@@ -1234,36 +1222,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Choose the high-frequency word: I ___ seen that bird before.",
-    "audio_prompt": "Choose the high-frequency word: I ___ seen that bird before.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "A student writes cud for could. Which part must be remembered? Which reason best supports the correct choice?",
+    "audio_prompt": "A student writes cud for could. Which part must be remembered? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "heavy",
-        "is_correct": false
-      },
-      {
-        "text": "have",
+        "text": "Could contains spelling information that cannot be recovered from sound alone.",
         "is_correct": true
       },
       {
-        "text": "hive",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Could contains spelling information that cannot be recovered from sound alone.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-010",
@@ -1272,36 +1260,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Which word is not fully predictable from its sounds?",
-    "audio_prompt": "Which word is not fully predictable from its sounds?",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which common word means for the reason that when explaining why we stayed inside? Which reason best supports the correct choice?",
+    "audio_prompt": "Which common word means for the reason that when explaining why we stayed inside? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "once",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Because is a common word whose conventional spelling needs pattern and memory knowledge.",
         "is_correct": true
       },
       {
-        "text": "went",
-        "is_correct": false
-      },
-      {
-        "text": "lamp",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Because is a common word whose conventional spelling needs pattern and memory knowledge.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-011",
@@ -1310,36 +1298,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Complete: They ___ going to the library.",
-    "audio_prompt": "Complete: They ___ going to the library.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which spelling correctly names more than one person? Which reason best supports the correct choice?",
+    "audio_prompt": "Which spelling correctly names more than one person? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "air",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "ear",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "are",
+        "text": "People uses the less predictable middle letters eo and the ending le.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "People uses the less predictable middle letters eo and the ending le.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-012",
@@ -1348,36 +1336,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Choose the best word: Please put it over ___.",
-    "audio_prompt": "Choose the best word: Please put it over ___.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "The word unhappy contains un plus happy. How does un help the reader? Which reason best supports the correct choice?",
+    "audio_prompt": "The word unhappy contains un plus happy. How does un help the reader? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "tree",
-        "is_correct": false
-      },
-      {
-        "text": "there",
+        "text": "Recognising the prefix supports both the spelling and meaning of unhappy.",
         "is_correct": true
       },
       {
-        "text": "three",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Recognising the prefix supports both the spelling and meaning of unhappy.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-013",
@@ -1386,36 +1374,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Choose the high-frequency word: I ___ seen that bird before.",
-    "audio_prompt": "Choose the high-frequency word: I ___ seen that bird before.",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Which spelling shows more than one dog by adding the suffix s? Which reason best supports the correct choice?",
+    "audio_prompt": "Which spelling shows more than one dog by adding the suffix s? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "have",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Dogs keeps the base dog and adds the plural morpheme s.",
         "is_correct": true
       },
       {
-        "text": "hive",
-        "is_correct": false
-      },
-      {
-        "text": "heavy",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Dogs keeps the base dog and adds the plural morpheme s.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-014",
@@ -1424,36 +1412,36 @@
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
     "stage": "apply",
-    "skill": "high frequency spelling",
-    "question": "Which word is not fully predictable from its sounds?",
-    "audio_prompt": "Which word is not fully predictable from its sounds?",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Mila keeps misspelling were. Which plan is strongest? Which reason best supports the correct choice?",
+    "audio_prompt": "Mila keeps misspelling were. Which plan is strongest? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "went",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "lamp",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "once",
+        "text": "Analysing, recalling and checking targets the exact high-frequency word.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Some common words need to be recognised and spelled by memory as well as sound.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Analysing, recalling and checking targets the exact high-frequency word.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-015",
@@ -1461,43 +1449,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LY11. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY11. Use your own example.",
+    "stage": "apply",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "Our team was the winner of the game. Which word tells what the team did? Which reason best supports the correct choice?",
+    "audio_prompt": "Our team was the winner of the game. Which word tells what the team did? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Won is the past form of win; one is the number word with the same sound.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Spelling Patterns and High-frequency Words.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "Won is the past form of win; one is the number word with the same sound.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Spelling Patterns and High-frequency Words.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY11-T-016",
@@ -1505,42 +1487,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LY11, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LY11, then explain the answer.",
+    "stage": "apply",
+    "skill": "spelling_patterns_and_high_frequency_words",
+    "question": "A student writes evry. Which conventional spelling is correct? Which reason best supports the correct choice?",
+    "audio_prompt": "A student writes evry. Which conventional spelling is correct? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Every is a high-frequency word whose middle spelling needs to be remembered.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "Every is a high-frequency word whose middle spelling needs to be remembered.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   }
 ]

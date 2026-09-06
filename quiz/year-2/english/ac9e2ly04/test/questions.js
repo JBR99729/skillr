@@ -4,34 +4,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-001",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
-    "audioPrompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "prompt": "How should ‘Where did the silver key go?’ be read?",
+    "audioPrompt": "How should ‘Where did the silver key go?’ be read?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Mira opened the box.",
+        "text": "as one smooth question with the voice lifting naturally at the end",
         "is_correct": true
       },
       {
-        "text": "Mira showed Dad.",
+        "text": "as a flat statement with the voice dropping at the end",
         "is_correct": false
       },
       {
-        "text": "Mira lost the shell.",
+        "text": "as a question that pauses after key and rushes the final word",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "The question mark and sentence meaning guide a natural questioning tone.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -44,34 +44,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-002",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
-    "audioPrompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "prompt": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ?",
+    "audioPrompt": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep reading without thinking.",
+        "text": "Pause after Under, then pause again after two.",
         "is_correct": false
       },
       {
-        "text": "Change every word.",
-        "is_correct": false
-      },
-      {
-        "text": "Reread and self-correct the meaning.",
+        "text": "Pause briefly after bridge, then read two ducks rested quietly together.",
         "is_correct": true
+      },
+      {
+        "text": "Pause after old and after rested, breaking both ideas apart.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "The opening place phrase stays together before a brief pause and the main idea.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -84,34 +84,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-003",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Liam packed a towel and sunscreen. Where might he be going?",
-    "audioPrompt": "Liam packed a towel and sunscreen. Where might he be going?",
+    "prompt": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first?",
+    "audioPrompt": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bed",
+        "text": "the, because it is the shortest word in the sentence",
         "is_correct": false
       },
       {
-        "text": "the beach",
+        "text": "horse, because the first content word should be checked first",
+        "is_correct": false
+      },
+      {
+        "text": "house, because it does not fit the sentence meaning",
         "is_correct": true
-      },
-      {
-        "text": "the library",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "House makes the sentence nonsensical and may be a misreading of grass.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -124,34 +124,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-004",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A summary should ___.",
-    "audioPrompt": "A summary should ___.",
+    "prompt": "A passage explains three steps for a science test. Which pace best supports listeners?",
+    "audioPrompt": "A passage explains three steps for a science test. Which pace best supports listeners?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "tell the main ideas briefly",
+        "text": "steady enough for each step to be understood",
         "is_correct": true
       },
       {
-        "text": "copy every word",
+        "text": "so fast that step words run together",
         "is_correct": false
       },
       {
-        "text": "list only commas",
+        "text": "so slow that every sound is separated from its word",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "A steady pace helps the audience follow ordered information.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -164,34 +164,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-005",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
-    "audioPrompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "prompt": "A reader knows play and sees played. What can help read the longer word accurately?",
+    "audioPrompt": "A reader knows play and sees played. What can help read the longer word accurately?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Mira showed Dad.",
+        "text": "Use the picture to guess played without checking all its letters.",
         "is_correct": false
       },
       {
-        "text": "Mira lost the shell.",
-        "is_correct": false
-      },
-      {
-        "text": "Mira opened the box.",
+        "text": "Read the known base play, then add the ending ed.",
         "is_correct": true
+      },
+      {
+        "text": "Read the familiar base play and treat ed as a silent ending.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "Recognising the base and ending supports accurate word reading.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -204,34 +204,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-006",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
-    "audioPrompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "prompt": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show?",
+    "audioPrompt": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Change every word.",
+        "text": "Her reading improved only because the second attempt was faster.",
         "is_correct": false
       },
       {
-        "text": "Reread and self-correct the meaning.",
+        "text": "Her phrasing improved, but correcting word errors is not part of fluency.",
+        "is_correct": false
+      },
+      {
+        "text": "Her accuracy and phrasing have improved.",
         "is_correct": true
-      },
-      {
-        "text": "Keep reading without thinking.",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "Correcting errors and improving phrasing are signs of stronger fluency.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -244,34 +244,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-007",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Liam packed a towel and sunscreen. Where might he be going?",
-    "audioPrompt": "Liam packed a towel and sunscreen. Where might he be going?",
+    "prompt": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction?",
+    "audioPrompt": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the beach",
+        "text": "Coal ends with l, and coal can keep a fire warm.",
         "is_correct": true
       },
       {
-        "text": "the library",
+        "text": "Coat and coal begin with co, so either word must be correct.",
         "is_correct": false
       },
       {
-        "text": "bed",
+        "text": "The fire picture decides the word without checking its final letter.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "The final consonant and sentence meaning together confirm coal.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -284,34 +284,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-008",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A summary should ___.",
-    "audioPrompt": "A summary should ___.",
+    "prompt": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning?",
+    "audioPrompt": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "copy every word",
+        "text": "Read slowly at first, then rush through began to turn.",
         "is_correct": false
       },
       {
-        "text": "list only commas",
-        "is_correct": false
-      },
-      {
-        "text": "tell the main ideas briefly",
+        "text": "Read at a controlled slower pace and pause at the ending.",
         "is_correct": true
+      },
+      {
+        "text": "Use an even, cheerful tone while pausing only after slowly.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "A slower pace and final pause support the suspense created by the words.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -324,32 +324,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-009",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
-    "audioPrompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "prompt": "How should ‘Where did the silver key go?’ be read? Which reason best supports the correct choice?",
+    "audioPrompt": "How should ‘Where did the silver key go?’ be read? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Mira lost the shell.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Mira opened the box.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The question mark and sentence meaning guide a natural questioning tone.",
         "is_correct": true
-      },
-      {
-        "text": "Mira showed Dad.",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "The question mark and sentence meaning guide a natural questioning tone.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 9,
@@ -364,32 +364,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-010",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
-    "audioPrompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "prompt": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ? Which reason best supports the correct choice?",
+    "audioPrompt": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Reread and self-correct the meaning.",
+        "text": "The opening place phrase stays together before a brief pause and the main idea.",
         "is_correct": true
       },
       {
-        "text": "Keep reading without thinking.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Change every word.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "The opening place phrase stays together before a brief pause and the main idea.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 10,
@@ -404,32 +404,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-011",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Liam packed a towel and sunscreen. Where might he be going?",
-    "audioPrompt": "Liam packed a towel and sunscreen. Where might he be going?",
+    "prompt": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first? Which reason best supports the correct choice?",
+    "audioPrompt": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the library",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "bed",
-        "is_correct": false
-      },
-      {
-        "text": "the beach",
+        "text": "House makes the sentence nonsensical and may be a misreading of grass.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 1,
+    "explanation": "House makes the sentence nonsensical and may be a misreading of grass.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 11,
@@ -444,32 +444,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-012",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A summary should ___.",
-    "audioPrompt": "A summary should ___.",
+    "prompt": "A passage explains three steps for a science test. Which pace best supports listeners? Which reason best supports the correct choice?",
+    "audioPrompt": "A passage explains three steps for a science test. Which pace best supports listeners? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "list only commas",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "tell the main ideas briefly",
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "A steady pace helps the audience follow ordered information.",
         "is_correct": true
-      },
-      {
-        "text": "copy every word",
-        "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "A steady pace helps the audience follow ordered information.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 12,
@@ -484,32 +484,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-013",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
-    "audioPrompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "prompt": "A reader knows play and sees played. What can help read the longer word accurately? Which reason best supports the correct choice?",
+    "audioPrompt": "A reader knows play and sees played. What can help read the longer word accurately? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Mira opened the box.",
+        "text": "Recognising the base and ending supports accurate word reading.",
         "is_correct": true
       },
       {
-        "text": "Mira showed Dad.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Mira lost the shell.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "Recognising the base and ending supports accurate word reading.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 13,
@@ -524,32 +524,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-014",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "reading comprehension",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
-    "audioPrompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "prompt": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show? Which reason best supports the correct choice?",
+    "audioPrompt": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep reading without thinking.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Change every word.",
-        "is_correct": false
-      },
-      {
-        "text": "Reread and self-correct the meaning.",
+        "text": "Correcting errors and improving phrasing are signs of stronger fluency.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 1,
+    "explanation": "Correcting errors and improving phrasing are signs of stronger fluency.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 14,
@@ -564,80 +564,80 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly04-t-015",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LY04. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY04. Use your own example.",
+    "prompt": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction? Which reason best supports the correct choice?",
+    "audioPrompt": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The final consonant and sentence meaning together confirm coal.",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Fluent Reading and Self Correction.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
-    "difficulty": 3,
-    "difficultyTier": "stretch",
+    "correctIndex": 2,
+    "explanation": "The final consonant and sentence meaning together confirm coal.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Fluent Reading and Self Correction.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly04-t-016",
     "curriculumCode": "AC9E2LY04",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "fluent_reading_and_self_correction",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LY04, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LY04, then explain the answer.",
+    "prompt": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning? Which reason best supports the correct choice?",
+    "audioPrompt": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "A slower pace and final pause support the suspense created by the words.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
-    "difficulty": 3,
-    "difficultyTier": "stretch",
+    "explanation": "A slower pace and final pause support the suspense created by the words.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];

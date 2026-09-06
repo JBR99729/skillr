@@ -4,757 +4,960 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2la04-p-001",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "personal subject",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The chicks hatched today. They are fluffy.' What does 'They' refer to?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The chicks hatched today. They are fluffy.' What does 'They' refer to?",
     "audioPrompt": "Read: 'The chicks hatched today. They are fluffy.' What does 'They' refer to?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "the chicks",
-      "today",
-      "the nest"
+      {
+        "text": "the chicks",
+        "is_correct": true
+      },
+      {
+        "text": "today",
+        "is_correct": false
+      },
+      {
+        "text": "the nest",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "They carries the reference to the plural noun chicks into the next sentence.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "They carries the reference to the plural noun chicks into the next sentence.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "They carries the reference to the plural noun chicks into the next sentence.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-002",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "personal object",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'I found a shell and washed it.' What was washed?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'I found a shell and washed it.' What was washed?",
     "audioPrompt": "Read: 'I found a shell and washed it.' What was washed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "the speaker",
-      "the shell",
-      "the beach"
+      {
+        "text": "the speaker",
+        "is_correct": false
+      },
+      {
+        "text": "the shell",
+        "is_correct": true
+      },
+      {
+        "text": "the beach",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "It replaces shell, keeping the two actions connected.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "It replaces shell, keeping the two actions connected.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "It replaces shell, keeping the two actions connected.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-003",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "speaker group",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "A speaker and two friends built a cubby. Complete: '___ built it together.'",
+    "type": "multiple-choice",
+    "prompt": "A speaker and two friends built a cubby. Complete: '___ built it together.'",
     "audioPrompt": "A speaker and two friends built a cubby. Complete: '___ built it together.'",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "She",
-      "It",
-      "We"
+      {
+        "text": "She",
+        "is_correct": false
+      },
+      {
+        "text": "It",
+        "is_correct": false
+      },
+      {
+        "text": "We",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "We includes the speaker and other people.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 3,
-    "correct": 2,
-    "explanation": "We includes the speaker and other people.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "We includes the speaker and other people.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-004",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "object group",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The books were muddy. Dad cleaned them.' Which word avoids repeating 'the books'?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The books were muddy. Dad cleaned them.' Which word avoids repeating 'the books'?",
     "audioPrompt": "Read: 'The books were muddy. Dad cleaned them.' Which word avoids repeating 'the books'?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "them",
-      "Dad",
-      "cleaned"
+      {
+        "text": "them",
+        "is_correct": true
+      },
+      {
+        "text": "Dad",
+        "is_correct": false
+      },
+      {
+        "text": "cleaned",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "Them refers back to the books as the things being cleaned.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 4,
-    "correct": 0,
-    "explanation": "Them refers back to the books as the things being cleaned.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Them refers back to the books as the things being cleaned.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-005",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "pronoun replace",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The puppy barked. The puppy wanted dinner.' Which second sentence avoids repeating the noun?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The puppy barked. The puppy wanted dinner.' Which second sentence avoids repeating the noun?",
     "audioPrompt": "Read: 'The puppy barked. The puppy wanted dinner.' Which second sentence avoids repeating the noun?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Dinner wanted the puppy.",
-      "It wanted dinner.",
-      "They wanted the puppy."
+      {
+        "text": "Dinner wanted the puppy.",
+        "is_correct": false
+      },
+      {
+        "text": "It wanted dinner.",
+        "is_correct": true
+      },
+      {
+        "text": "They wanted the puppy.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "It keeps the puppy as the subject without repeating its name.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 5,
-    "correct": 1,
-    "explanation": "It keeps the puppy as the subject without repeating its name.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "It keeps the puppy as the subject without repeating its name.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-006",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "possessive mine",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Mina says, 'This scarf belongs to me. It is ___.'",
+    "type": "multiple-choice",
+    "prompt": "Mina says, 'This scarf belongs to me. It is ___.'",
     "audioPrompt": "Mina says, 'This scarf belongs to me. It is ___.'",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "yours",
-      "theirs",
-      "mine"
+      {
+        "text": "yours",
+        "is_correct": false
+      },
+      {
+        "text": "theirs",
+        "is_correct": false
+      },
+      {
+        "text": "mine",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "Mine expresses possession by the speaker.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 6,
-    "correct": 2,
-    "explanation": "Mine expresses possession by the speaker.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Mine expresses possession by the speaker.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-007",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "possessive ours",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "You and your brother share a tent. You say, 'That tent is ___.'",
+    "type": "multiple-choice",
+    "prompt": "You and your brother share a tent. You say, 'That tent is ___.'",
     "audioPrompt": "You and your brother share a tent. You say, 'That tent is ___.'",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "ours",
-      "hers",
-      "his"
+      {
+        "text": "ours",
+        "is_correct": true
+      },
+      {
+        "text": "hers",
+        "is_correct": false
+      },
+      {
+        "text": "his",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "Ours refers to something belonging to the speaker and another person or people.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 7,
-    "correct": 0,
-    "explanation": "Ours refers to something belonging to the speaker and another person or people.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Ours refers to something belonging to the speaker and another person or people.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-008",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "possessive theirs",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The players own these caps. The caps are theirs.' Who owns the caps?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The players own these caps. The caps are theirs.' Who owns the caps?",
     "audioPrompt": "Read: 'The players own these caps. The caps are theirs.' Who owns the caps?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "one unnamed visitor",
-      "the players",
-      "the caps"
+      {
+        "text": "one unnamed visitor",
+        "is_correct": false
+      },
+      {
+        "text": "the players",
+        "is_correct": true
+      },
+      {
+        "text": "the caps",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "Theirs refers back to the plural owners, the players.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 8,
-    "correct": 1,
-    "explanation": "Theirs refers back to the plural owners, the players.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Theirs refers back to the plural owners, the players.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-009",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "possessive reference",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'Nora packed her boots.' Whose boots does 'her' refer to here?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Nora packed her boots.' Whose boots does 'her' refer to here?",
     "audioPrompt": "Read: 'Nora packed her boots.' Whose boots does 'her' refer to here?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "the reader's",
-      "the teacher's",
-      "Nora's"
+      {
+        "text": "the reader's",
+        "is_correct": false
+      },
+      {
+        "text": "the teacher's",
+        "is_correct": false
+      },
+      {
+        "text": "Nora's",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "With Nora as the only person named, her links the boots to Nora.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 9,
-    "correct": 2,
-    "explanation": "With Nora as the only person named, her links the boots to Nora.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "With Nora as the only person named, her links the boots to Nora.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-010",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "possessive contrast",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Kai owns the red bike. Ella owns the blue one. Ella says, 'The blue bike is mine; the red bike is ___.'",
+    "type": "multiple-choice",
+    "prompt": "Kai owns the red bike. Ella owns the blue one. Ella says, 'The blue bike is mine; the red bike is ___.'",
     "audioPrompt": "Kai owns the red bike. Ella owns the blue one. Ella says, 'The blue bike is mine; the red bike is ___.'",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "his",
-      "hers",
-      "ours"
+      {
+        "text": "his",
+        "is_correct": true
+      },
+      {
+        "text": "hers",
+        "is_correct": false
+      },
+      {
+        "text": "ours",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "His refers to Kai's ownership; mine refers to Ella as the speaker.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 10,
-    "correct": 0,
-    "explanation": "His refers to Kai's ownership; mine refers to Ella as the speaker.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "His refers to Kai's ownership; mine refers to Ella as the speaker.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-011",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "ellipsis object",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'Would you like a pear?' 'Yes, please.' What does the short reply mean?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Would you like a pear?' 'Yes, please.' What does the short reply mean?",
     "audioPrompt": "Read: 'Would you like a pear?' 'Yes, please.' What does the short reply mean?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Yes, I have planted a tree.",
-      "Yes, I would like a pear, please.",
-      "Yes, the pear is blue."
+      {
+        "text": "Yes, I have planted a tree.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, I would like a pear, please.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, the pear is blue.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "The question supplies the words omitted from the natural short answer.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 11,
-    "correct": 1,
-    "explanation": "The question supplies the words omitted from the natural short answer.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "The question supplies the words omitted from the natural short answer.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-012",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "ellipsis verb",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'I can swim, and my cousin can too.' What can the cousin do?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'I can swim, and my cousin can too.' What can the cousin do?",
     "audioPrompt": "Read: 'I can swim, and my cousin can too.' What can the cousin do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "read",
-      "run",
-      "swim"
+      {
+        "text": "read",
+        "is_correct": false
+      },
+      {
+        "text": "run",
+        "is_correct": false
+      },
+      {
+        "text": "swim",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "Can too leaves out swim because the first clause already supplies it.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 12,
-    "correct": 2,
-    "explanation": "Can too leaves out swim because the first clause already supplies it.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Can too leaves out swim because the first clause already supplies it.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-013",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "ellipsis noun",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'I chose the green cup. Tessa chose the yellow.' What word is understood after 'yellow'?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'I chose the green cup. Tessa chose the yellow.' What word is understood after 'yellow'?",
     "audioPrompt": "Read: 'I chose the green cup. Tessa chose the yellow.' What word is understood after 'yellow'?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "cup",
-      "coat",
-      "flower"
+      {
+        "text": "cup",
+        "is_correct": true
+      },
+      {
+        "text": "coat",
+        "is_correct": false
+      },
+      {
+        "text": "flower",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "Cup is carried over from the earlier sentence, so it need not be repeated.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 13,
-    "correct": 0,
-    "explanation": "Cup is carried over from the earlier sentence, so it need not be repeated.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Cup is carried over from the earlier sentence, so it need not be repeated.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-014",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "ellipsis subject",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The dog stretched and yawned.' Who yawned?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The dog stretched and yawned.' Who yawned?",
     "audioPrompt": "Read: 'The dog stretched and yawned.' Who yawned?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "an unnamed child",
-      "the dog",
-      "the reader"
+      {
+        "text": "an unnamed child",
+        "is_correct": false
+      },
+      {
+        "text": "the dog",
+        "is_correct": true
+      },
+      {
+        "text": "the reader",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "The dog is the understood subject of both linked actions.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 14,
-    "correct": 1,
-    "explanation": "The dog is the understood subject of both linked actions.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "The dog is the understood subject of both linked actions.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-015",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "short answer",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'Who has the tickets?' 'Uncle Pat.' Which full answer has the same meaning?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Who has the tickets?' 'Uncle Pat.' Which full answer has the same meaning?",
     "audioPrompt": "Read: 'Who has the tickets?' 'Uncle Pat.' Which full answer has the same meaning?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Uncle Pat wants some tickets.",
-      "The tickets have Uncle Pat.",
-      "Uncle Pat has the tickets."
+      {
+        "text": "Uncle Pat wants some tickets.",
+        "is_correct": false
+      },
+      {
+        "text": "The tickets have Uncle Pat.",
+        "is_correct": false
+      },
+      {
+        "text": "Uncle Pat has the tickets.",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "The short reply omits has the tickets because it is clear from the question.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 15,
-    "correct": 2,
-    "explanation": "The short reply omits has the tickets because it is clear from the question.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "The short reply omits has the tickets because it is clear from the question.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-016",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "avoid ambiguity",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'Lena met Rose. She carried a red bag.' You mean Rose carried it. Which change makes this certain?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Lena met Rose. She carried a red bag.' You mean Rose carried it. Which change makes this certain?",
     "audioPrompt": "Read: 'Lena met Rose. She carried a red bag.' You mean Rose carried it. Which change makes this certain?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Lena met Rose. Rose carried a red bag.",
-      "Lena met Rose. She carried it.",
-      "Lena met Rose. Someone carried something."
+      {
+        "text": "Lena met Rose. Rose carried a red bag.",
+        "is_correct": true
+      },
+      {
+        "text": "Lena met Rose. She carried it.",
+        "is_correct": false
+      },
+      {
+        "text": "Lena met Rose. Someone carried something.",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "Repeating Rose removes ambiguity when she could refer to either person.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
-    "difficultyTier": "developing",
+    "difficultyTier": "core",
     "sequencePriority": 16,
-    "correct": 0,
-    "explanation": "Repeating Rose removes ambiguity when she could refer to either person.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Repeating Rose removes ambiguity when she could refer to either person.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-017",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "clear reference",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Which pair makes 'it' easy to understand?",
+    "type": "multiple-choice",
+    "prompt": "Which pair makes 'it' easy to understand?",
     "audioPrompt": "Which pair makes 'it' easy to understand?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "A balloon passed a kite. It was red.",
-      "A balloon floated up. It caught on a branch.",
-      "A balloon passed a ball. It was round."
+      {
+        "text": "A balloon passed a kite. It was red.",
+        "is_correct": false
+      },
+      {
+        "text": "A balloon floated up. It caught on a branch.",
+        "is_correct": true
+      },
+      {
+        "text": "A balloon passed a ball. It was round.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 1,
+    "explanation": "The first pair has one clear object for it to refer back to.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 17,
-    "correct": 1,
-    "explanation": "The first pair has one clear object for it to refer back to.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "The first pair has one clear object for it to refer back to.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-018",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "pronoun agreement",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'The children put on raincoats. ___ walked outside.'",
+    "type": "multiple-choice",
+    "prompt": "Read: 'The children put on raincoats. ___ walked outside.'",
     "audioPrompt": "Read: 'The children put on raincoats. ___ walked outside.'",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "It",
-      "He",
-      "They"
+      {
+        "text": "It",
+        "is_correct": false
+      },
+      {
+        "text": "He",
+        "is_correct": false
+      },
+      {
+        "text": "They",
+        "is_correct": true
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 2,
+    "explanation": "They agrees with the plural children and keeps the reference clear.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 18,
-    "correct": 2,
-    "explanation": "They agrees with the plural children and keeps the reference clear.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "They agrees with the plural children and keeps the reference clear.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-019",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "cohesion edit",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Which version keeps the meaning with less repetition?",
+    "type": "multiple-choice",
+    "prompt": "Which version keeps the meaning with less repetition?",
     "audioPrompt": "Which version keeps the meaning with less repetition?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Mum found the keys and put them in her bag.",
-      "Mum found the keys and put Mum in the keys.",
-      "Mum found them and put it in them."
+      {
+        "text": "Mum found the keys and put them in her bag.",
+        "is_correct": true
+      },
+      {
+        "text": "Mum found the keys and put Mum in the keys.",
+        "is_correct": false
+      },
+      {
+        "text": "Mum found them and put it in them.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 0,
+    "explanation": "Them clearly replaces keys; her refers to Mum.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 19,
-    "correct": 0,
-    "explanation": "Them clearly replaces keys; her refers to Mum.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Them clearly replaces keys; her refers to Mum.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-020",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "omission limit",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'I saw a bird beside a plane. It was blue.' Why might a reader be unsure?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'I saw a bird beside a plane. It was blue.' Why might a reader be unsure?",
     "audioPrompt": "Read: 'I saw a bird beside a plane. It was blue.' Why might a reader be unsure?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Blue cannot describe anything.",
-      "It could refer to the bird or the plane.",
-      "Every sentence needs a person's name."
+      {
+        "text": "Blue cannot describe anything.",
+        "is_correct": false
+      },
+      {
+        "text": "It could refer to the bird or the plane.",
+        "is_correct": true
+      },
+      {
+        "text": "Every sentence needs a person's name.",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 1,
+    "explanation": "Two possible nouns make the reference ambiguous without further context.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 20,
-    "correct": 1,
-    "explanation": "Two possible nouns make the reference ambiguous without further context.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Two possible nouns make the reference ambiguous without further context.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-021",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "restore words",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'Zoe chose two apples, and I chose three.' What did the speaker choose three of?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Zoe chose two apples, and I chose three.' What did the speaker choose three of?",
     "audioPrompt": "Read: 'Zoe chose two apples, and I chose three.' What did the speaker choose three of?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "bowls",
-      "oranges",
-      "apples"
+      {
+        "text": "bowls",
+        "is_correct": false
+      },
+      {
+        "text": "oranges",
+        "is_correct": false
+      },
+      {
+        "text": "apples",
+        "is_correct": true
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 2,
+    "explanation": "Apples is omitted after three because the earlier clause supplies that meaning.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 21,
-    "correct": 2,
-    "explanation": "Apples is omitted after three because the earlier clause supplies that meaning.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Apples is omitted after three because the earlier clause supplies that meaning.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-022",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "ellipsis meaning",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "single",
-    "question": "Read: 'Will you come on Friday?' 'I hope so.' What does 'so' stand for?",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Will you come on Friday?' 'I hope so.' What does 'so' stand for?",
     "audioPrompt": "Read: 'Will you come on Friday?' 'I hope so.' What does 'so' stand for?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "that I will come on Friday",
-      "that Friday has been cancelled",
-      "that I came yesterday"
+      {
+        "text": "that I will come on Friday",
+        "is_correct": true
+      },
+      {
+        "text": "that Friday has been cancelled",
+        "is_correct": false
+      },
+      {
+        "text": "that I came yesterday",
+        "is_correct": false
+      }
     ],
-    "difficulty": 2,
-    "difficultyTier": "developing",
+    "correctIndex": 0,
+    "explanation": "So refers to the idea in the question without repeating the whole clause.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 22,
-    "correct": 0,
-    "explanation": "So refers to the idea in the question without repeating the whole clause.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "So refers to the idea in the question without repeating the whole clause.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-023",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "rewrite cohesion",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "self-check",
-    "gradingMode": "adult-review",
-    "responseType": "short_answer",
-    "modelAnswer": "The kittens found a box. They climbed into it.",
-    "acceptanceNote": "Accept a clear rewrite using they for kittens and it for box, or another unambiguous cohesive wording that preserves both actions.",
-    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
-    "completionLabel": "Ready for adult review",
-    "question": "Rewrite or say this with less repetition: 'The kittens found a box. The kittens climbed into the box.' Keep it clear who did what.",
+    "type": "multiple-choice",
+    "prompt": "Rewrite or say this with less repetition: 'The kittens found a box. The kittens climbed into the box.' Keep it clear who did what.",
     "audioPrompt": "Rewrite or say this with less repetition: 'The kittens found a box. The kittens climbed into the box.' Keep it clear who did what.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Response not yet reviewed",
-      "Adult review required",
-      "Revise with an adult"
+      {
+        "text": "Response not yet reviewed",
+        "is_correct": false
+      },
+      {
+        "text": "Adult review required",
+        "is_correct": true
+      },
+      {
+        "text": "Revise with an adult",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 1,
+    "explanation": "Accept a clear rewrite using they for kittens and it for box, or another unambiguous cohesive wording that preserves both actions.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
-    "difficultyTier": "transfer",
+    "difficultyTier": "stretch",
     "sequencePriority": 23,
-    "correct": "The kittens found a box. They climbed into it.",
-    "explanation": "Accept a clear rewrite using they for kittens and it for box, or another unambiguous cohesive wording that preserves both actions.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Accept a clear rewrite using they for kittens and it for box, or another unambiguous cohesive wording that preserves both actions.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la04-p-024",
     "curriculumCode": "AC9E2LA04",
     "bank": "practice",
-    "skill": "restore ellipsis",
+    "skill": "pronouns_and_cohesion",
     "printable": true,
-    "type": "self-check",
-    "gradingMode": "adult-review",
-    "responseType": "short_answer",
-    "modelAnswer": "I have not finished my puzzle yet. The question tells us which action and object the reply means.",
-    "acceptanceNote": "Accept the restored meaning and an explanation referring to the context provided by the question.",
-    "responseInstructions": "Say your answer to an adult or type it here. An adult checks this task in Review answers.",
-    "completionLabel": "Ready for adult review",
-    "question": "Read: 'Have you finished your puzzle?' 'Not yet.' Say the full meaning of 'Not yet' and explain why the shorter reply is understandable.",
+    "type": "multiple-choice",
+    "prompt": "Read: 'Have you finished your puzzle?' 'Not yet.' Say the full meaning of 'Not yet' and explain why the shorter reply is understandable.",
     "audioPrompt": "Read: 'Have you finished your puzzle?' 'Not yet.' Say the full meaning of 'Not yet' and explain why the shorter reply is understandable.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Response not yet reviewed",
-      "Revise with an adult",
-      "Adult review required"
+      {
+        "text": "Response not yet reviewed",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with an adult",
+        "is_correct": false
+      },
+      {
+        "text": "Adult review required",
+        "is_correct": true
+      }
     ],
+    "correctIndex": 2,
+    "explanation": "Accept the restored meaning and an explanation referring to the context provided by the question.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
-    "difficultyTier": "transfer",
+    "difficultyTier": "stretch",
     "sequencePriority": 24,
-    "correct": "I have not finished my puzzle yet. The question tells us which action and object the reply means.",
-    "explanation": "Accept the restored meaning and an explanation referring to the context provided by the question.\nHint: Read the nearby words to work out who, what or which action is meant.",
-    "structuredExplanation": {
-      "summary": "Accept the restored meaning and an explanation referring to the context provided by the question.",
-      "hint": "Read the nearby words to work out who, what or which action is meant."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

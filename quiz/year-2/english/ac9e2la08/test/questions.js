@@ -4,34 +4,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-001",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the garden. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the garden. What does the image add?",
+    "prompt": "Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add?",
+    "audioPrompt": "Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "Turn right when you reach the river.",
+        "is_correct": false
+      },
+      {
+        "text": "Turn left when you reach the river.",
         "is_correct": true
       },
       {
-        "text": "It repeats only the same words.",
-        "is_correct": false
-      },
-      {
-        "text": "It tells the reader to ignore the words.",
+        "text": "Turn left before you reach the river.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "The map adds the direction and landmark that the words do not give.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -44,34 +44,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-002",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the beach. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the beach. What does the image add?",
+    "prompt": "A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add?",
+    "audioPrompt": "A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It repeats only the same words.",
+        "text": "It suggests a dripping tap cannot affect the water supply.",
         "is_correct": false
       },
       {
-        "text": "It tells the reader to ignore the words.",
+        "text": "It suggests the empty dam is sending water to the tap.",
         "is_correct": false
       },
       {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "It shows water being wasted and why saving it matters.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "The dripping tap and empty dam make the need to save water clearer and more urgent.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -84,34 +84,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-003",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the library. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the library. What does the image add?",
+    "prompt": "In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know?",
+    "audioPrompt": "In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It tells the reader to ignore the words.",
-        "is_correct": false
-      },
-      {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "Pip is close to the exit even if Pip cannot see it.",
         "is_correct": true
       },
       {
-        "text": "It repeats only the same words.",
+        "text": "Pip has already left the maze.",
+        "is_correct": false
+      },
+      {
+        "text": "The maze has no exit at all.",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "The overhead view gives the reader information hidden from the character.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -124,34 +124,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-004",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the school fair. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the school fair. What does the image add?",
+    "prompt": "Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add?",
+    "audioPrompt": "Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "Every class collected exactly 12 cans.",
+        "is_correct": false
+      },
+      {
+        "text": "Class 2B collected the most cans.",
         "is_correct": true
       },
       {
-        "text": "It repeats only the same words.",
-        "is_correct": false
-      },
-      {
-        "text": "It tells the reader to ignore the words.",
+        "text": "Class 2A collected more than 2B.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "The graph adds amounts that allow the classes to be compared.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -164,34 +164,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-005",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the park. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the park. What does the image add?",
+    "prompt": "Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together?",
+    "audioPrompt": "Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It repeats only the same words.",
+        "text": "The child is complaining that the sandwich is too small.",
         "is_correct": false
       },
       {
-        "text": "It tells the reader to ignore the words.",
+        "text": "The sandwich is ordinary-sized but drawn closer to the reader.",
         "is_correct": false
       },
       {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "The child is joking because the sandwich is enormous.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "The child and sandwich are shown together, so tiny becomes humorous rather than literal.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -204,34 +204,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-006",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the museum. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the museum. What does the image add?",
+    "prompt": "A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add?",
+    "audioPrompt": "A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It tells the reader to ignore the words.",
-        "is_correct": false
-      },
-      {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "the direction and exact corners for this fold",
         "is_correct": true
       },
       {
-        "text": "It repeats only the same words.",
+        "text": "which side of the paper should face up",
+        "is_correct": false
+      },
+      {
+        "text": "how many more folds come after this one",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "The diagram makes the movement and meeting corners clear.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -244,34 +244,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-007",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the classroom. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the classroom. What does the image add?",
+    "prompt": "Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add?",
+    "audioPrompt": "Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "The cub is moving farther away from every animal.",
+        "is_correct": false
+      },
+      {
+        "text": "The cub may soon find its mother.",
         "is_correct": true
       },
       {
-        "text": "It repeats only the same words.",
-        "is_correct": false
-      },
-      {
-        "text": "It tells the reader to ignore the words.",
+        "text": "The cub's mother has left the forest.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "The partly hidden mother gives the reader a hopeful clue not known by the cub.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -284,34 +284,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-008",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the farm. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the farm. What does the image add?",
+    "prompt": "A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add?",
+    "audioPrompt": "A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It repeats only the same words.",
+        "text": "The puddle freezes the sunlight into ice.",
         "is_correct": false
       },
       {
-        "text": "It tells the reader to ignore the words.",
+        "text": "The arrows show the ice moving closer to the sun.",
         "is_correct": false
       },
       {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "Sunlight warms the ice and helps it melt into water.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "The arrows and puddle show the direction of heat and the change from ice to water.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -324,32 +324,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-009",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the market. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the market. What does the image add?",
+    "prompt": "Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add? Which reason best supports the correct choice?",
+    "audioPrompt": "Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It tells the reader to ignore the words.",
-        "is_correct": false
-      },
-      {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "The map adds the direction and landmark that the words do not give.",
         "is_correct": true
       },
       {
-        "text": "It repeats only the same words.",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "The map adds the direction and landmark that the words do not give.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 9,
@@ -364,32 +364,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-010",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the bus stop. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the bus stop. What does the image add?",
+    "prompt": "A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add? Which reason best supports the correct choice?",
+    "audioPrompt": "A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The dripping tap and empty dam make the need to save water clearer and more urgent.",
         "is_correct": true
       },
       {
-        "text": "It repeats only the same words.",
-        "is_correct": false
-      },
-      {
-        "text": "It tells the reader to ignore the words.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 1,
+    "explanation": "The dripping tap and empty dam make the need to save water clearer and more urgent.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 10,
@@ -404,32 +404,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-011",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the sports day. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the sports day. What does the image add?",
+    "prompt": "In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know? Which reason best supports the correct choice?",
+    "audioPrompt": "In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It repeats only the same words.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "It tells the reader to ignore the words.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "The overhead view gives the reader information hidden from the character.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "The overhead view gives the reader information hidden from the character.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 11,
@@ -444,32 +444,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-012",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the rainy walk. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the rainy walk. What does the image add?",
+    "prompt": "Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add? Which reason best supports the correct choice?",
+    "audioPrompt": "Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It tells the reader to ignore the words.",
-        "is_correct": false
-      },
-      {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "The graph adds amounts that allow the classes to be compared.",
         "is_correct": true
       },
       {
-        "text": "It repeats only the same words.",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "The graph adds amounts that allow the classes to be compared.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 12,
@@ -484,32 +484,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-013",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the garden. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the garden. What does the image add?",
+    "prompt": "Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together? Which reason best supports the correct choice?",
+    "audioPrompt": "Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The child and sandwich are shown together, so tiny becomes humorous rather than literal.",
         "is_correct": true
       },
       {
-        "text": "It repeats only the same words.",
-        "is_correct": false
-      },
-      {
-        "text": "It tells the reader to ignore the words.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 1,
+    "explanation": "The child and sandwich are shown together, so tiny becomes humorous rather than literal.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 13,
@@ -524,32 +524,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-014",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "image meaning",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the beach. What does the image add?",
-    "audioPrompt": "A page says “The path was safe.” The picture shows a child stepping around broken glass on the beach. What does the image add?",
+    "prompt": "A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add? Which reason best supports the correct choice?",
+    "audioPrompt": "A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It repeats only the same words.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "It tells the reader to ignore the words.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "It adds extra information that the reader must think about.",
+        "text": "The diagram makes the movement and meeting corners clear.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Images can add to or change the meaning made by the written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "The diagram makes the movement and meeting corners clear.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 14,
@@ -564,80 +564,80 @@ window.skillrTestQuestions = [
     "id": "ac9e2la08-t-015",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LA08. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LA08. Use your own example.",
+    "prompt": "Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add? Which reason best supports the correct choice?",
+    "audioPrompt": "Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The partly hidden mother gives the reader a hopeful clue not known by the cub.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for How Images Add Meaning.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
-    "difficulty": 3,
-    "difficultyTier": "stretch",
+    "explanation": "The partly hidden mother gives the reader a hopeful clue not known by the cub.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for How Images Add Meaning.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2la08-t-016",
     "curriculumCode": "AC9E2LA08",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "how_images_add_meaning",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LA08, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LA08, then explain the answer.",
+    "prompt": "A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add? Which reason best supports the correct choice?",
+    "audioPrompt": "A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The arrows and puddle show the direction of heat and the change from ice to water.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
-    "difficulty": 3,
-    "difficultyTier": "stretch",
+    "correctIndex": 1,
+    "explanation": "The arrows and puddle show the direction of heat and the change from ice to water.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];

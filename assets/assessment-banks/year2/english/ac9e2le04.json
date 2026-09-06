@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "The frog sat on a log in the fog. Which word rhymes with log?",
-    "audio_prompt": "The frog sat on a log in the fog. Which word rhymes with log?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which pair could end two rhyming lines?",
+    "audio_prompt": "Which pair could end two rhyming lines?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "fog",
+        "text": "boat and bird",
+        "is_correct": false
+      },
+      {
+        "text": "boat and goat",
         "is_correct": true
       },
       {
-        "text": "fig",
-        "is_correct": false
-      },
-      {
-        "text": "flag",
+        "text": "goat and gate",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Boat and goat share the same ending sound.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
-    "audio_prompt": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Clap this line: ‘Tap, tap, toes on the floor.’ What helps make the beat?",
+    "audio_prompt": "Clap this line: ‘Tap, tap, toes on the floor.’ What helps make the beat?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a list with commas",
+        "text": "the word floor appearing once at the end",
         "is_correct": false
       },
       {
-        "text": "a title capital",
+        "text": "reading every word with no strong or weak beats",
         "is_correct": false
       },
       {
-        "text": "repeated rhythm and rhyme",
+        "text": "the repeated tap pattern at the start",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Repeating tap creates a clear rhythmic beat.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
-    "audio_prompt": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which word completes this rhyme? ‘The bright moon glows; the night wind does this.’",
+    "audio_prompt": "Which word completes this rhyme? ‘The bright moon glows; the night wind does this.’",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "leaf",
-        "is_correct": false
-      },
-      {
-        "text": "light",
+        "text": "blows",
         "is_correct": true
       },
       {
-        "text": "late",
+        "text": "sings",
+        "is_correct": false
+      },
+      {
+        "text": "runs",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Glows and blows share the same ending sound and complete the rhyme.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Which pair has the same ending sound?",
-    "audio_prompt": "Which pair has the same ending sound?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A chant repeats ‘March, march, march!’ What does the repetition help readers do?",
+    "audio_prompt": "A chant repeats ‘March, march, march!’ What does the repetition help readers do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "chair / bear",
+        "text": "change the action from marching to running",
+        "is_correct": false
+      },
+      {
+        "text": "join and keep the chant's strong beat",
         "is_correct": true
       },
       {
-        "text": "chair / chalk",
-        "is_correct": false
-      },
-      {
-        "text": "bear / bird",
+        "text": "make each March quieter than the one before",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The repeated word strengthens the beat and makes the chant easy to join.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "The frog sat on a log in the fog. Which word rhymes with log?",
-    "audio_prompt": "The frog sat on a log in the fog. Which word rhymes with log?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which new line keeps the pattern ‘Clap twice, stamp once’?",
+    "audio_prompt": "Which new line keeps the pattern ‘Clap twice, stamp once’?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "fig",
+        "text": "Clap, stamp, stamp!",
         "is_correct": false
       },
       {
-        "text": "flag",
+        "text": "Clap, stamp, clap!",
         "is_correct": false
       },
       {
-        "text": "fog",
+        "text": "Clap, clap, stamp!",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Two claps followed by one stamp reproduces the given pattern.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
-    "audio_prompt": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which phrase repeats the first sound to make a playful pattern?",
+    "audio_prompt": "Which phrase repeats the first sound to make a playful pattern?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a title capital",
-        "is_correct": false
-      },
-      {
-        "text": "repeated rhythm and rhyme",
+        "text": "busy buzzing bees",
         "is_correct": true
       },
       {
-        "text": "a list with commas",
+        "text": "bees fly home",
+        "is_correct": false
+      },
+      {
+        "text": "a yellow flower",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Busy, buzzing and bees repeat the /b/ sound.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
-    "audio_prompt": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "The line is ‘A frog sat on a log.’ Which change keeps the rhyme?",
+    "audio_prompt": "The line is ‘A frog sat on a log.’ Which change keeps the rhyme?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "light",
+        "text": "A fish sat on a log.",
+        "is_correct": false
+      },
+      {
+        "text": "A dog sat on a log.",
         "is_correct": true
       },
       {
-        "text": "late",
-        "is_correct": false
-      },
-      {
-        "text": "leaf",
+        "text": "A frog swam in a pond.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Dog and log rhyme, so the sound pattern remains.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Which pair has the same ending sound?",
-    "audio_prompt": "Which pair has the same ending sound?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A chant pattern is stomp, clap, stomp, clap. What comes next?",
+    "audio_prompt": "A chant pattern is stomp, clap, stomp, clap. What comes next?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "chair / chalk",
+        "text": "clap",
         "is_correct": false
       },
       {
-        "text": "bear / bird",
+        "text": "stomp and clap together",
         "is_correct": false
       },
       {
-        "text": "chair / bear",
+        "text": "stomp",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The alternating stomp-clap pattern repeats with stomp next.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-009",
@@ -310,36 +310,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "The frog sat on a log in the fog. Which word rhymes with log?",
-    "audio_prompt": "The frog sat on a log in the fog. Which word rhymes with log?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which second line rhymes with ‘A snail sailed by in the rain’?",
+    "audio_prompt": "Which second line rhymes with ‘A snail sailed by in the rain’?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "flag",
-        "is_correct": false
-      },
-      {
-        "text": "fog",
+        "text": "It waved from a silver train.",
         "is_correct": true
       },
       {
-        "text": "fig",
+        "text": "It slept beside a tree.",
+        "is_correct": false
+      },
+      {
+        "text": "The snail was very slow.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Rain and train share the ending sound, forming a rhyming pair.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-010",
@@ -348,36 +348,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
-    "audio_prompt": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A song uses ‘Home again’ after every verse. What is this repeated line doing?",
+    "audio_prompt": "A song uses ‘Home again’ after every verse. What is this repeated line doing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "repeated rhythm and rhyme",
+        "text": "beginning the next verse with a different pattern",
+        "is_correct": false
+      },
+      {
+        "text": "creating a refrain listeners can expect",
         "is_correct": true
       },
       {
-        "text": "a list with commas",
-        "is_correct": false
-      },
-      {
-        "text": "a title capital",
+        "text": "ending the song permanently after the first verse",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A line repeated after each verse is a refrain and supports the song pattern.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-011",
@@ -386,36 +386,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
-    "audio_prompt": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which pair could end two rhyming lines? Why is “boat and goat” the best answer?",
+    "audio_prompt": "Which pair could end two rhyming lines? Why is “boat and goat” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "late",
+        "text": "It is best only because it is longer than “boat and bird”.",
         "is_correct": false
       },
       {
-        "text": "leaf",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "light",
+        "text": "Boat and goat share the same ending sound.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Boat and goat share the same ending sound.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-012",
@@ -424,36 +424,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Which pair has the same ending sound?",
-    "audio_prompt": "Which pair has the same ending sound?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Clap this line: ‘Tap, tap, toes on the floor.’ What helps make the beat? Why is “the repeated tap pattern at the start” the best answer?",
+    "audio_prompt": "Clap this line: ‘Tap, tap, toes on the floor.’ What helps make the beat? Why is “the repeated tap pattern at the start” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bear / bird",
-        "is_correct": false
-      },
-      {
-        "text": "chair / bear",
+        "text": "Repeating tap creates a clear rhythmic beat.",
         "is_correct": true
       },
       {
-        "text": "chair / chalk",
+        "text": "It is best only because it is longer than “the word floor appearing once at the end”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Repeating tap creates a clear rhythmic beat.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-013",
@@ -462,36 +462,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "The frog sat on a log in the fog. Which word rhymes with log?",
-    "audio_prompt": "The frog sat on a log in the fog. Which word rhymes with log?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which word completes this rhyme? ‘The bright moon glows; the night wind does this.’ Why is “blows” the best answer?",
+    "audio_prompt": "Which word completes this rhyme? ‘The bright moon glows; the night wind does this.’ Why is “blows” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "fog",
+        "text": "It is best only because it is longer than “sings”.",
+        "is_correct": false
+      },
+      {
+        "text": "Glows and blows share the same ending sound and complete the rhyme.",
         "is_correct": true
       },
       {
-        "text": "fig",
-        "is_correct": false
-      },
-      {
-        "text": "flag",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Glows and blows share the same ending sound and complete the rhyme.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-014",
@@ -500,36 +500,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
-    "audio_prompt": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A chant repeats ‘March, march, march!’ What does the repetition help readers do? Why is “join and keep the chant's strong beat” the best answer?",
+    "audio_prompt": "A chant repeats ‘March, march, march!’ What does the repetition help readers do? Why is “join and keep the chant's strong beat” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a list with commas",
+        "text": "It is best only because it is longer than “change the action from marching to running”.",
         "is_correct": false
       },
       {
-        "text": "a title capital",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "repeated rhythm and rhyme",
+        "text": "The repeated word strengthens the beat and makes the chant easy to join.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The repeated word strengthens the beat and makes the chant easy to join.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-015",
@@ -538,36 +538,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
-    "audio_prompt": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which new line keeps the pattern ‘Clap twice, stamp once’? Why is “Clap, clap, stamp!” the best answer?",
+    "audio_prompt": "Which new line keeps the pattern ‘Clap twice, stamp once’? Why is “Clap, clap, stamp!” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "leaf",
-        "is_correct": false
-      },
-      {
-        "text": "light",
+        "text": "Two claps followed by one stamp reproduces the given pattern.",
         "is_correct": true
       },
       {
-        "text": "late",
+        "text": "It is best only because it is longer than “Clap, stamp, stamp!”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Two claps followed by one stamp reproduces the given pattern.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-016",
@@ -576,36 +576,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Which pair has the same ending sound?",
-    "audio_prompt": "Which pair has the same ending sound?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which phrase repeats the first sound to make a playful pattern? Why is “busy buzzing bees” the best answer?",
+    "audio_prompt": "Which phrase repeats the first sound to make a playful pattern? Why is “busy buzzing bees” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "chair / bear",
+        "text": "It is best only because it is longer than “bees fly home”.",
+        "is_correct": false
+      },
+      {
+        "text": "Busy, buzzing and bees repeat the /b/ sound.",
         "is_correct": true
       },
       {
-        "text": "chair / chalk",
-        "is_correct": false
-      },
-      {
-        "text": "bear / bird",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Busy, buzzing and bees repeat the /b/ sound.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound pattern",
-    "question": "The frog sat on a log in the fog. Which word rhymes with log?",
-    "audio_prompt": "The frog sat on a log in the fog. Which word rhymes with log?",
+    "stage": "independent",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "The line is ‘A frog sat on a log.’ Which change keeps the rhyme? Why is “A dog sat on a log.” the best answer?",
+    "audio_prompt": "The line is ‘A frog sat on a log.’ Which change keeps the rhyme? Why is “A dog sat on a log.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "fig",
+        "text": "It is best only because it is longer than “A fish sat on a log.”.",
         "is_correct": false
       },
       {
-        "text": "flag",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "fog",
+        "text": "Dog and log rhyme, so the sound pattern remains.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Dog and log rhyme, so the sound pattern remains.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 17,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
-    "audio_prompt": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
+    "stage": "independent",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A chant pattern is stomp, clap, stomp, clap. What comes next? Why is “stomp” the best answer?",
+    "audio_prompt": "A chant pattern is stomp, clap, stomp, clap. What comes next? Why is “stomp” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a title capital",
-        "is_correct": false
-      },
-      {
-        "text": "repeated rhythm and rhyme",
+        "text": "The alternating stomp-clap pattern repeats with stomp next.",
         "is_correct": true
       },
       {
-        "text": "a list with commas",
+        "text": "It is best only because it is longer than “clap”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The alternating stomp-clap pattern repeats with stomp next.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 18,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
-    "audio_prompt": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
+    "stage": "independent",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which second line rhymes with ‘A snail sailed by in the rain’? Why is “It waved from a silver train.” the best answer?",
+    "audio_prompt": "Which second line rhymes with ‘A snail sailed by in the rain’? Why is “It waved from a silver train.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "light",
+        "text": "It is best only because it is longer than “It slept beside a tree.”.",
+        "is_correct": false
+      },
+      {
+        "text": "Rain and train share the ending sound, forming a rhyming pair.",
         "is_correct": true
       },
       {
-        "text": "late",
-        "is_correct": false
-      },
-      {
-        "text": "leaf",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Rain and train share the ending sound, forming a rhyming pair.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 19,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Which pair has the same ending sound?",
-    "audio_prompt": "Which pair has the same ending sound?",
+    "stage": "independent",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A song uses ‘Home again’ after every verse. What is this repeated line doing? Why is “creating a refrain listeners can expect” the best answer?",
+    "audio_prompt": "A song uses ‘Home again’ after every verse. What is this repeated line doing? Why is “creating a refrain listeners can expect” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "chair / chalk",
+        "text": "It is best only because it is longer than “beginning the next verse with a different pattern”.",
         "is_correct": false
       },
       {
-        "text": "bear / bird",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "chair / bear",
+        "text": "A line repeated after each verse is a refrain and supports the song pattern.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A line repeated after each verse is a refrain and supports the song pattern.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 20,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound pattern",
-    "question": "The frog sat on a log in the fog. Which word rhymes with log?",
-    "audio_prompt": "The frog sat on a log in the fog. Which word rhymes with log?",
+    "stage": "independent",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which word completes this rhyme? ‘The bright moon glows; the night wind does this.’ Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which word completes this rhyme? ‘The bright moon glows; the night wind does this.’ Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "flag",
-        "is_correct": false
-      },
-      {
-        "text": "fog",
+        "text": "sings",
         "is_correct": true
       },
       {
-        "text": "fig",
+        "text": "blows",
+        "is_correct": false
+      },
+      {
+        "text": "runs",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“sings” is the mix-up to avoid. Choose a word that makes sense and rhymes with glows.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 21,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
-    "audio_prompt": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
+    "stage": "independent",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A chant repeats ‘March, march, march!’ What does the repetition help readers do? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A chant repeats ‘March, march, march!’ What does the repetition help readers do? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "repeated rhythm and rhyme",
+        "text": "join and keep the chant's strong beat",
+        "is_correct": false
+      },
+      {
+        "text": "change the action from marching to running",
         "is_correct": true
       },
       {
-        "text": "a list with commas",
-        "is_correct": false
-      },
-      {
-        "text": "a title capital",
+        "text": "make each March quieter than the one before",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“change the action from marching to running” is the mix-up to avoid. Think about how repeated words sound in performance.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 22,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-023",
@@ -841,43 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LE04. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LE04. Use your own example.",
+    "stage": "independent",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which new line keeps the pattern ‘Clap twice, stamp once’? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which new line keeps the pattern ‘Clap twice, stamp once’? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Clap, clap, stamp!",
+        "is_correct": false
+      },
+      {
+        "text": "Clap, stamp, clap!",
+        "is_correct": false
+      },
+      {
+        "text": "Clap, stamp, stamp!",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Rhythm Rhyme and Word Patterns.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“Clap, stamp, stamp!” is the mix-up to avoid. Match the number and order of sounds.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Rhythm Rhyme and Word Patterns.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-P-024",
@@ -885,43 +879,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE04",
     "bank": "practice",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LE04, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LE04, then explain the answer.",
+    "stage": "independent",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which phrase repeats the first sound to make a playful pattern? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which phrase repeats the first sound to make a playful pattern? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "bees fly home",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "busy buzzing bees",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "a yellow flower",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“bees fly home” is the mix-up to avoid. Listen to the first sound in each word.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-001",
@@ -930,36 +918,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "The frog sat on a log in the fog. Which word rhymes with log?",
-    "audio_prompt": "The frog sat on a log in the fog. Which word rhymes with log?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A poem repeats ‘Hush’ three times. Which performance best matches the word and its even pattern?",
+    "audio_prompt": "A poem repeats ‘Hush’ three times. Which performance best matches the word and its even pattern?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "fog",
+        "text": "say each Hush loudly and speed up each time",
+        "is_correct": false
+      },
+      {
+        "text": "say each Hush softly with an even pause",
         "is_correct": true
       },
       {
-        "text": "fig",
-        "is_correct": false
-      },
-      {
-        "text": "flag",
+        "text": "say the first Hush softly, then rush through the next two",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Soft delivery and even pauses reproduce the repeated hush pattern.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-002",
@@ -968,36 +956,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
-    "audio_prompt": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which line has four clear beats to match ‘STOMP your FEET and CLAP your HANDS’?",
+    "audio_prompt": "Which line has four clear beats to match ‘STOMP your FEET and CLAP your HANDS’?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a list with commas",
+        "text": "TURN and TOUCH the GROUND",
         "is_correct": false
       },
       {
-        "text": "a title capital",
+        "text": "TURN a-ROUND, then JUMP up HIGH and CLAP",
         "is_correct": false
       },
       {
-        "text": "repeated rhythm and rhyme",
+        "text": "TURN a-ROUND and TOUCH the GROUND",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The new line can be spoken in four strong beat groups like the model.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-003",
@@ -1006,36 +994,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
-    "audio_prompt": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "The chant says, ‘Run to the gate; do not be late.’ Which change keeps the rhythm and creates a new rhyme?",
+    "audio_prompt": "The chant says, ‘Run to the gate; do not be late.’ Which change keeps the rhythm and creates a new rhyme?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "leaf",
-        "is_correct": false
-      },
-      {
-        "text": "light",
+        "text": "Hop to the chair; meet me there.",
         "is_correct": true
       },
       {
-        "text": "late",
+        "text": "Hop very slowly over to the tall chair near me.",
+        "is_correct": false
+      },
+      {
+        "text": "Run to the gate; do not be slow.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The new line keeps two short balanced parts and rhymes chair with there.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-004",
@@ -1044,36 +1032,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Which pair has the same ending sound?",
-    "audio_prompt": "Which pair has the same ending sound?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which pair rhymes even though the endings are spelled differently?",
+    "audio_prompt": "Which pair rhymes even though the endings are spelled differently?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "chair / bear",
+        "text": "blue and glow",
+        "is_correct": false
+      },
+      {
+        "text": "blue and shoe",
         "is_correct": true
       },
       {
-        "text": "chair / chalk",
-        "is_correct": false
-      },
-      {
-        "text": "bear / bird",
+        "text": "shoe and show",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Blue and shoe share the /oo/ ending sound despite different spellings.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-005",
@@ -1082,36 +1070,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "The frog sat on a log in the fog. Which word rhymes with log?",
-    "audio_prompt": "The frog sat on a log in the fog. Which word rhymes with log?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A poem repeats ‘closer, closer, closer’ as footsteps approach. What effect does the pattern create?",
+    "audio_prompt": "A poem repeats ‘closer, closer, closer’ as footsteps approach. What effect does the pattern create?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "fig",
+        "text": "it makes the approaching footsteps seem farther away",
         "is_correct": false
       },
       {
-        "text": "flag",
+        "text": "it creates a calm mood because the repeated word stays even",
         "is_correct": false
       },
       {
-        "text": "fog",
+        "text": "it builds suspense as the sound seems nearer",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Repeating closer intensifies the approach and builds suspense.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-006",
@@ -1120,36 +1108,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
-    "audio_prompt": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Leader: ‘Who can help?’ Group: ‘We can help!’ What should follow another leader call?",
+    "audio_prompt": "Leader: ‘Who can help?’ Group: ‘We can help!’ What should follow another leader call?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a title capital",
-        "is_correct": false
-      },
-      {
-        "text": "repeated rhythm and rhyme",
+        "text": "a group reply that matches the same response pattern",
         "is_correct": true
       },
       {
-        "text": "a list with commas",
+        "text": "a silent pause that ends the chant",
+        "is_correct": false
+      },
+      {
+        "text": "a long solo story with no group reply",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Call-and-response alternates a leader's line with a related group reply.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-007",
@@ -1158,36 +1146,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
-    "audio_prompt": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which line repeats the sound heard at the start of moon to make a gentle pattern?",
+    "audio_prompt": "Which line repeats the sound heard at the start of moon to make a gentle pattern?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "light",
+        "text": "Nina sings a noisy noon tune.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia hums a mellow morning tune.",
         "is_correct": true
       },
       {
-        "text": "late",
-        "is_correct": false
-      },
-      {
-        "text": "leaf",
+        "text": "Bella beats a bright blue drum.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Mia, hums, mellow and morning repeat the soft sound heard at the start of moon.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-008",
@@ -1196,36 +1184,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "recognise",
-    "skill": "sound pattern",
-    "question": "Which pair has the same ending sound?",
-    "audio_prompt": "Which pair has the same ending sound?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Two groups perform the same chant. Group A keeps an even beat; Group B speeds up and loses words. Which group reproduces the rhythm more accurately?",
+    "audio_prompt": "Two groups perform the same chant. Group A keeps an even beat; Group B speeds up and loses words. Which group reproduces the rhythm more accurately?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "chair / chalk",
+        "text": "Group B, because a faster performance has a stronger beat",
         "is_correct": false
       },
       {
-        "text": "bear / bird",
+        "text": "Both, because they began with the same written chant",
         "is_correct": false
       },
       {
-        "text": "chair / bear",
+        "text": "Group A, because its beat stays steady",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A steady repeated beat reproduces the chant's rhythm more accurately.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-009",
@@ -1234,36 +1222,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "The frog sat on a log in the fog. Which word rhymes with log?",
-    "audio_prompt": "The frog sat on a log in the fog. Which word rhymes with log?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A poem repeats ‘Hush’ three times. Which performance best matches the word and its even pattern? Which reason best supports the correct choice?",
+    "audio_prompt": "A poem repeats ‘Hush’ three times. Which performance best matches the word and its even pattern? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "flag",
-        "is_correct": false
-      },
-      {
-        "text": "fog",
+        "text": "Soft delivery and even pauses reproduce the repeated hush pattern.",
         "is_correct": true
       },
       {
-        "text": "fig",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Soft delivery and even pauses reproduce the repeated hush pattern.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-010",
@@ -1272,36 +1260,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
-    "audio_prompt": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which line has four clear beats to match ‘STOMP your FEET and CLAP your HANDS’? Which reason best supports the correct choice?",
+    "audio_prompt": "Which line has four clear beats to match ‘STOMP your FEET and CLAP your HANDS’? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "repeated rhythm and rhyme",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The new line can be spoken in four strong beat groups like the model.",
         "is_correct": true
       },
       {
-        "text": "a list with commas",
-        "is_correct": false
-      },
-      {
-        "text": "a title capital",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The new line can be spoken in four strong beat groups like the model.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-011",
@@ -1310,36 +1298,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
-    "audio_prompt": "Complete: The bright red kite flew out of sight. It danced all day in golden ___.",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "The chant says, ‘Run to the gate; do not be late.’ Which change keeps the rhythm and creates a new rhyme? Which reason best supports the correct choice?",
+    "audio_prompt": "The chant says, ‘Run to the gate; do not be late.’ Which change keeps the rhythm and creates a new rhyme? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "late",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "leaf",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "light",
+        "text": "The new line keeps two short balanced parts and rhymes chair with there.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The new line keeps two short balanced parts and rhymes chair with there.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-012",
@@ -1348,36 +1336,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Which pair has the same ending sound?",
-    "audio_prompt": "Which pair has the same ending sound?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which pair rhymes even though the endings are spelled differently? Which reason best supports the correct choice?",
+    "audio_prompt": "Which pair rhymes even though the endings are spelled differently? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bear / bird",
-        "is_correct": false
-      },
-      {
-        "text": "chair / bear",
+        "text": "Blue and shoe share the /oo/ ending sound despite different spellings.",
         "is_correct": true
       },
       {
-        "text": "chair / chalk",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Blue and shoe share the /oo/ ending sound despite different spellings.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-013",
@@ -1386,36 +1374,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "The frog sat on a log in the fog. Which word rhymes with log?",
-    "audio_prompt": "The frog sat on a log in the fog. Which word rhymes with log?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "A poem repeats ‘closer, closer, closer’ as footsteps approach. What effect does the pattern create? Which reason best supports the correct choice?",
+    "audio_prompt": "A poem repeats ‘closer, closer, closer’ as footsteps approach. What effect does the pattern create? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "fog",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeating closer intensifies the approach and builds suspense.",
         "is_correct": true
       },
       {
-        "text": "fig",
-        "is_correct": false
-      },
-      {
-        "text": "flag",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Repeating closer intensifies the approach and builds suspense.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-014",
@@ -1424,36 +1412,36 @@
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound pattern",
-    "question": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
-    "audio_prompt": "Clap the chant: “Tap, tap, tap on the map.” What pattern do you hear?",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Leader: ‘Who can help?’ Group: ‘We can help!’ What should follow another leader call? Which reason best supports the correct choice?",
+    "audio_prompt": "Leader: ‘Who can help?’ Group: ‘We can help!’ What should follow another leader call? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a list with commas",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "a title capital",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "repeated rhythm and rhyme",
+        "text": "Call-and-response alternates a leader's line with a related group reply.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rhythm and rhyme depend on repeated beats or ending sounds.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Call-and-response alternates a leader's line with a related group reply.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-015",
@@ -1461,43 +1449,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LE04. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LE04. Use your own example.",
+    "stage": "apply",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Which line repeats the sound heard at the start of moon to make a gentle pattern? Which reason best supports the correct choice?",
+    "audio_prompt": "Which line repeats the sound heard at the start of moon to make a gentle pattern? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Mia, hums, mellow and morning repeat the soft sound heard at the start of moon.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Rhythm Rhyme and Word Patterns.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "Mia, hums, mellow and morning repeat the soft sound heard at the start of moon.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Rhythm Rhyme and Word Patterns.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LE04-T-016",
@@ -1505,42 +1487,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE04",
     "bank": "test",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LE04, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LE04, then explain the answer.",
+    "stage": "apply",
+    "skill": "rhythm_rhyme_and_repetition",
+    "question": "Two groups perform the same chant. Group A keeps an even beat; Group B speeds up and loses words. Which group reproduces the rhythm more accurately? Which reason best supports the correct choice?",
+    "audio_prompt": "Two groups perform the same chant. Group A keeps an even beat; Group B speeds up and loses words. Which group reproduces the rhythm more accurately? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "A steady repeated beat reproduces the chant's rhythm more accurately.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "A steady repeated beat reproduces the chant's rhythm more accurately.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   }
 ]

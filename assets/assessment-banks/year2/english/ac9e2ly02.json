@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "A partner is explaining the game rules. What should you do first?",
-    "audio_prompt": "A partner is explaining the game rules. What should you do first?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Lina says, ‘The class garden needs more shade.’ Which reply shows active listening?",
+    "audio_prompt": "Lina says, ‘The class garden needs more shade.’ Which reply shows active listening?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "Gardens have plants, and shade cloth comes in many colours.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree because the seedlings dried out. We could add a shade cloth.",
         "is_correct": true
       },
       {
-        "text": "Talk over the speaker with a new story.",
-        "is_correct": false
-      },
-      {
-        "text": "Walk away before the instructions end.",
+        "text": "No, the garden is fine, so we do not need to discuss your idea.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The reply connects to Lina's point, gives a reason and extends the idea.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "You disagree with an idea in group talk. What is appropriate?",
-    "audio_prompt": "You disagree with an idea in group talk. What is appropriate?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding?",
+    "audio_prompt": "The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "That is silly and wrong.",
+        "text": "I will do something with leaves later.",
         "is_correct": false
       },
       {
-        "text": "I will not listen now.",
+        "text": "I heard the word group, so I can skip the other steps.",
         "is_correct": false
       },
       {
-        "text": "I see it differently because the text says…",
+        "text": "So I collect a tray and three leaves before joining my group?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The reply restates the important steps in order and asks for confirmation.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "The teacher gives two steps. What helps you receive the instructions?",
-    "audio_prompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Sam says the story should end at the cave. Which response disagrees respectfully?",
+    "audio_prompt": "Sam says the story should end at the cave. Which response disagrees respectfully?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Guess without listening.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "I think it should continue because the lost map has not been found.",
         "is_correct": true
       },
       {
-        "text": "Change the topic.",
+        "text": "That is a terrible idea.",
+        "is_correct": false
+      },
+      {
+        "text": "You are wrong, and I will not explain.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The response states a different opinion and supports it without insulting Sam.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "You want to extend an idea. What could you say?",
-    "audio_prompt": "You want to extend an idea. What could you say?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Which instruction clearly explains how to plant a seed?",
+    "audio_prompt": "Which instruction clearly explains how to plant a seed?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "We could also add a labelled picture.",
+        "text": "First water the empty pot, then add the seed, then find some soil.",
+        "is_correct": false
+      },
+      {
+        "text": "First fill the pot, next place the seed, then cover and water it.",
         "is_correct": true
       },
       {
-        "text": "Stop talking forever.",
-        "is_correct": false
-      },
-      {
-        "text": "That has no topic.",
+        "text": "Fill the pot and add the seed; cover or water it sometime later.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The clear instruction uses precise actions in a logical order.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "A partner is explaining the game rules. What should you do first?",
-    "audio_prompt": "A partner is explaining the game rules. What should you do first?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A partner says, ‘Put it over there.’ What is the most useful question?",
+    "audio_prompt": "A partner says, ‘Put it over there.’ What is the most useful question?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Talk over the speaker with a new story.",
+        "text": "Which shelf has the tallest books?",
         "is_correct": false
       },
       {
-        "text": "Walk away before the instructions end.",
+        "text": "Should I put all the books somewhere on these shelves?",
         "is_correct": false
       },
       {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "Which book should I put on which shelf?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The question asks for the missing object and location.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "You disagree with an idea in group talk. What is appropriate?",
-    "audio_prompt": "You disagree with an idea in group talk. What is appropriate?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
+    "audio_prompt": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I will not listen now.",
-        "is_correct": false
-      },
-      {
-        "text": "I see it differently because the text says…",
+        "text": "Use a clear voice that the table group can hear.",
         "is_correct": true
       },
       {
-        "text": "That is silly and wrong.",
+        "text": "Use a soft voice while looking down, even if group members miss words.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a whole-class voice that carries clearly to every other table.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A small-group voice should be clear to the group without disturbing everyone else.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "The teacher gives two steps. What helps you receive the instructions?",
-    "audio_prompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
+    "audio_prompt": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "We could decorate every plane before deciding which flew farthest.",
+        "is_correct": false
+      },
+      {
+        "text": "We could launch each plane from the same line and measure the distance.",
         "is_correct": true
       },
       {
-        "text": "Change the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Guess without listening.",
+        "text": "We could launch the planes from different places to finish faster.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The reply adds a fair way to carry out Arlo's suggested test.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "You want to extend an idea. What could you say?",
-    "audio_prompt": "You want to extend an idea. What could you say?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
+    "audio_prompt": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Stop talking forever.",
+        "text": "You suggest a noisy game corner with cushions by the door.",
         "is_correct": false
       },
       {
-        "text": "That has no topic.",
+        "text": "You want a quiet reading corner, but its place and furniture do not matter.",
         "is_correct": false
       },
       {
-        "text": "We could also add a labelled picture.",
+        "text": "You suggest a comfortable, quiet reading place near the window.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The reply restates Zoe's main idea without changing it.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-009",
@@ -310,36 +310,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "A partner is explaining the game rules. What should you do first?",
-    "audio_prompt": "A partner is explaining the game rules. What should you do first?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
+    "audio_prompt": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Walk away before the instructions end.",
-        "is_correct": false
-      },
-      {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "Thanks, let's move that step earlier and read the order again.",
         "is_correct": true
       },
       {
-        "text": "Talk over the speaker with a new story.",
+        "text": "Let's move that step to the end without checking when the glue dries.",
+        "is_correct": false
+      },
+      {
+        "text": "Let's keep the order and change only the picture beside that step.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The response accepts useful feedback and checks the revised sequence.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-010",
@@ -348,36 +348,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "You disagree with an idea in group talk. What is appropriate?",
-    "audio_prompt": "You disagree with an idea in group talk. What is appropriate?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "The class is sharing observations about a shell. Which statement is clear and relevant?",
+    "audio_prompt": "The class is sharing observations about a shell. Which statement is clear and relevant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I see it differently because the text says…",
+        "text": "The shell looks nice and has some colours.",
+        "is_correct": false
+      },
+      {
+        "text": "The shell has five dark stripes and one chipped edge.",
         "is_correct": true
       },
       {
-        "text": "That is silly and wrong.",
-        "is_correct": false
-      },
-      {
-        "text": "I will not listen now.",
+        "text": "The shell probably came from the biggest animal in the sea.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The statement reports specific visible features of the shell.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-011",
@@ -386,36 +386,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "The teacher gives two steps. What helps you receive the instructions?",
-    "audio_prompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Lina says, ‘The class garden needs more shade.’ Which reply shows active listening? Why is “I agree because the seedlings dried out. We could add a shade cloth.” the best answer?",
+    "audio_prompt": "Lina says, ‘The class garden needs more shade.’ Which reply shows active listening? Why is “I agree because the seedlings dried out. We could add a shade cloth.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Change the topic.",
+        "text": "It is best only because it is longer than “Gardens have plants, and shade cloth comes in many colours.”.",
         "is_correct": false
       },
       {
-        "text": "Guess without listening.",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "The reply connects to Lina's point, gives a reason and extends the idea.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The reply connects to Lina's point, gives a reason and extends the idea.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-012",
@@ -424,36 +424,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "You want to extend an idea. What could you say?",
-    "audio_prompt": "You want to extend an idea. What could you say?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding? Why is “So I collect a tray and three leaves before joining my group?” the best answer?",
+    "audio_prompt": "The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding? Why is “So I collect a tray and three leaves before joining my group?” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "That has no topic.",
-        "is_correct": false
-      },
-      {
-        "text": "We could also add a labelled picture.",
+        "text": "The reply restates the important steps in order and asks for confirmation.",
         "is_correct": true
       },
       {
-        "text": "Stop talking forever.",
+        "text": "It is best only because it is longer than “I will do something with leaves later.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The reply restates the important steps in order and asks for confirmation.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-013",
@@ -462,36 +462,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "A partner is explaining the game rules. What should you do first?",
-    "audio_prompt": "A partner is explaining the game rules. What should you do first?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Sam says the story should end at the cave. Which response disagrees respectfully? Why is “I think it should continue because the lost map has not been found.” the best answer?",
+    "audio_prompt": "Sam says the story should end at the cave. Which response disagrees respectfully? Why is “I think it should continue because the lost map has not been found.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "It is best only because it is longer than “That is a terrible idea.”.",
+        "is_correct": false
+      },
+      {
+        "text": "The response states a different opinion and supports it without insulting Sam.",
         "is_correct": true
       },
       {
-        "text": "Talk over the speaker with a new story.",
-        "is_correct": false
-      },
-      {
-        "text": "Walk away before the instructions end.",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The response states a different opinion and supports it without insulting Sam.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-014",
@@ -500,36 +500,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "You disagree with an idea in group talk. What is appropriate?",
-    "audio_prompt": "You disagree with an idea in group talk. What is appropriate?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Which instruction clearly explains how to plant a seed? Why is “First fill the pot, next place the seed, then cover and water it.” the best answer?",
+    "audio_prompt": "Which instruction clearly explains how to plant a seed? Why is “First fill the pot, next place the seed, then cover and water it.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "That is silly and wrong.",
+        "text": "It is best only because it is longer than “First water the empty pot, then add the seed, then find some soil.”.",
         "is_correct": false
       },
       {
-        "text": "I will not listen now.",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "I see it differently because the text says…",
+        "text": "The clear instruction uses precise actions in a logical order.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The clear instruction uses precise actions in a logical order.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-015",
@@ -538,36 +538,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "The teacher gives two steps. What helps you receive the instructions?",
-    "audio_prompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A partner says, ‘Put it over there.’ What is the most useful question? Why is “Which book should I put on which shelf?” the best answer?",
+    "audio_prompt": "A partner says, ‘Put it over there.’ What is the most useful question? Why is “Which book should I put on which shelf?” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Guess without listening.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "The question asks for the missing object and location.",
         "is_correct": true
       },
       {
-        "text": "Change the topic.",
+        "text": "It is best only because it is longer than “Which shelf has the tallest books?”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The question asks for the missing object and location.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-016",
@@ -576,36 +576,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "You want to extend an idea. What could you say?",
-    "audio_prompt": "You want to extend an idea. What could you say?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group? Why is “Use a clear voice that the table group can hear.” the best answer?",
+    "audio_prompt": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group? Why is “Use a clear voice that the table group can hear.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "We could also add a labelled picture.",
+        "text": "It is best only because it is longer than “Use a soft voice while looking down, even if group members miss words.”.",
+        "is_correct": false
+      },
+      {
+        "text": "A small-group voice should be clear to the group without disturbing everyone else.",
         "is_correct": true
       },
       {
-        "text": "Stop talking forever.",
-        "is_correct": false
-      },
-      {
-        "text": "That has no topic.",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A small-group voice should be clear to the group without disturbing everyone else.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "A partner is explaining the game rules. What should you do first?",
-    "audio_prompt": "A partner is explaining the game rules. What should you do first?",
+    "stage": "independent",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan? Why is “We could launch each plane from the same line and measure the distance.” the best answer?",
+    "audio_prompt": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan? Why is “We could launch each plane from the same line and measure the distance.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Talk over the speaker with a new story.",
+        "text": "It is best only because it is longer than “We could decorate every plane before deciding which flew farthest.”.",
         "is_correct": false
       },
       {
-        "text": "Walk away before the instructions end.",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "The reply adds a fair way to carry out Arlo's suggested test.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The reply adds a fair way to carry out Arlo's suggested test.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 17,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "You disagree with an idea in group talk. What is appropriate?",
-    "audio_prompt": "You disagree with an idea in group talk. What is appropriate?",
+    "stage": "independent",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea? Why is “You suggest a comfortable, quiet reading place near the window.” the best answer?",
+    "audio_prompt": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea? Why is “You suggest a comfortable, quiet reading place near the window.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I will not listen now.",
-        "is_correct": false
-      },
-      {
-        "text": "I see it differently because the text says…",
+        "text": "The reply restates Zoe's main idea without changing it.",
         "is_correct": true
       },
       {
-        "text": "That is silly and wrong.",
+        "text": "It is best only because it is longer than “You suggest a noisy game corner with cushions by the door.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The reply restates Zoe's main idea without changing it.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 18,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "The teacher gives two steps. What helps you receive the instructions?",
-    "audio_prompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "stage": "independent",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair? Why is “Thanks, let's move that step earlier and read the order again.” the best answer?",
+    "audio_prompt": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair? Why is “Thanks, let's move that step earlier and read the order again.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "It is best only because it is longer than “Let's move that step to the end without checking when the glue dries.”.",
+        "is_correct": false
+      },
+      {
+        "text": "The response accepts useful feedback and checks the revised sequence.",
         "is_correct": true
       },
       {
-        "text": "Change the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Guess without listening.",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The response accepts useful feedback and checks the revised sequence.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 19,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "You want to extend an idea. What could you say?",
-    "audio_prompt": "You want to extend an idea. What could you say?",
+    "stage": "independent",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "The class is sharing observations about a shell. Which statement is clear and relevant? Why is “The shell has five dark stripes and one chipped edge.” the best answer?",
+    "audio_prompt": "The class is sharing observations about a shell. Which statement is clear and relevant? Why is “The shell has five dark stripes and one chipped edge.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Stop talking forever.",
+        "text": "It is best only because it is longer than “The shell looks nice and has some colours.”.",
         "is_correct": false
       },
       {
-        "text": "That has no topic.",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "We could also add a labelled picture.",
+        "text": "The statement reports specific visible features of the shell.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The statement reports specific visible features of the shell.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 20,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "A partner is explaining the game rules. What should you do first?",
-    "audio_prompt": "A partner is explaining the game rules. What should you do first?",
+    "stage": "independent",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Sam says the story should end at the cave. Which response disagrees respectfully? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Sam says the story should end at the cave. Which response disagrees respectfully? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Walk away before the instructions end.",
-        "is_correct": false
-      },
-      {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "That is a terrible idea.",
         "is_correct": true
       },
       {
-        "text": "Talk over the speaker with a new story.",
+        "text": "I think it should continue because the lost map has not been found.",
+        "is_correct": false
+      },
+      {
+        "text": "You are wrong, and I will not explain.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“That is a terrible idea.” is the mix-up to avoid. Look for a calm disagreement with a relevant reason.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 21,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "You disagree with an idea in group talk. What is appropriate?",
-    "audio_prompt": "You disagree with an idea in group talk. What is appropriate?",
+    "stage": "independent",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Which instruction clearly explains how to plant a seed? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which instruction clearly explains how to plant a seed? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I see it differently because the text says…",
+        "text": "First fill the pot, next place the seed, then cover and water it.",
+        "is_correct": false
+      },
+      {
+        "text": "First water the empty pot, then add the seed, then find some soil.",
         "is_correct": true
       },
       {
-        "text": "That is silly and wrong.",
-        "is_correct": false
-      },
-      {
-        "text": "I will not listen now.",
+        "text": "Fill the pot and add the seed; cover or water it sometime later.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“First water the empty pot, then add the seed, then find some soil.” is the mix-up to avoid. Choose steps another person could follow without guessing.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 22,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-023",
@@ -841,43 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LY02. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY02. Use your own example.",
+    "stage": "independent",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A partner says, ‘Put it over there.’ What is the most useful question? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A partner says, ‘Put it over there.’ What is the most useful question? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Which book should I put on which shelf?",
+        "is_correct": false
+      },
+      {
+        "text": "Should I put all the books somewhere on these shelves?",
+        "is_correct": false
+      },
+      {
+        "text": "Which shelf has the tallest books?",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Interaction Skills for Speaking and Listening.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“Which shelf has the tallest books?” is the mix-up to avoid. Identify exactly what the unclear words fail to tell you.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Interaction Skills for Speaking and Listening.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-P-024",
@@ -885,43 +879,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY02",
     "bank": "practice",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LY02, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LY02, then explain the answer.",
+    "stage": "independent",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Use a soft voice while looking down, even if group members miss words.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "Use a clear voice that the table group can hear.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "Use a whole-class voice that carries clearly to every other table.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“Use a soft voice while looking down, even if group members miss words.” is the mix-up to avoid. Match the volume to the size and distance of the audience.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-001",
@@ -930,36 +918,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "A partner is explaining the game rules. What should you do first?",
-    "audio_prompt": "A partner is explaining the game rules. What should you do first?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A group must choose a class pet. Which student response helps the discussion move forward?",
+    "audio_prompt": "A group must choose a class pet. Which student response helps the discussion move forward?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "Let's vote before anyone explains what each pet needs.",
+        "is_correct": false
+      },
+      {
+        "text": "Let's list what each animal needs before we decide.",
         "is_correct": true
       },
       {
-        "text": "Talk over the speaker with a new story.",
-        "is_correct": false
-      },
-      {
-        "text": "Walk away before the instructions end.",
+        "text": "Let's choose the smallest animal because it must be the easiest to care for.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Listing needs helps the group compare ideas using relevant information.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-002",
@@ -968,36 +956,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "You disagree with an idea in group talk. What is appropriate?",
-    "audio_prompt": "You disagree with an idea in group talk. What is appropriate?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second?",
+    "audio_prompt": "The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "That is silly and wrong.",
+        "text": "wait beside the gate",
         "is_correct": false
       },
       {
-        "text": "I will not listen now.",
+        "text": "walk back to the coach",
         "is_correct": false
       },
       {
-        "text": "I see it differently because the text says…",
+        "text": "turn left",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Turning left is the second action in the spoken sequence.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-003",
@@ -1006,36 +994,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "The teacher gives two steps. What helps you receive the instructions?",
-    "audio_prompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant?",
+    "audio_prompt": "Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Guess without listening.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "I prefer it too, and the arrows also show how the parts connect.",
         "is_correct": true
       },
       {
-        "text": "Change the topic.",
+        "text": "I like the colours, but I did not read any labels.",
+        "is_correct": false
+      },
+      {
+        "text": "I prefer all diagrams because pictures are always clearer than words.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The reply responds to Eli's reason and adds another feature of the diagram.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-004",
@@ -1044,36 +1032,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "You want to extend an idea. What could you say?",
-    "audio_prompt": "You want to extend an idea. What could you say?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Which directions help a visitor reach the library from the office?",
+    "audio_prompt": "Which directions help a visitor reach the library from the office?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "We could also add a labelled picture.",
+        "text": "Turn right somewhere after leaving the office.",
+        "is_correct": false
+      },
+      {
+        "text": "Go straight past two rooms, turn right, and enter the door marked Library.",
         "is_correct": true
       },
       {
-        "text": "Stop talking forever.",
-        "is_correct": false
-      },
-      {
-        "text": "That has no topic.",
+        "text": "Walk down the hall until the library seems close.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The directions give an ordered route with clear landmarks.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-005",
@@ -1082,36 +1070,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "A partner is explaining the game rules. What should you do first?",
-    "audio_prompt": "A partner is explaining the game rules. What should you do first?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "During a discussion, which sentence is an opinion that invites a response?",
+    "audio_prompt": "During a discussion, which sentence is an opinion that invites a response?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Talk over the speaker with a new story.",
+        "text": "The plan shows two paths.",
         "is_correct": false
       },
       {
-        "text": "Walk away before the instructions end.",
+        "text": "Draw the path with a ruler.",
         "is_correct": false
       },
       {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "I think the new playground plan is safer because the path is wider.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "I think signals an opinion, and the speaker gives a reason others can discuss.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-006",
@@ -1120,36 +1108,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "You disagree with an idea in group talk. What is appropriate?",
-    "audio_prompt": "You disagree with an idea in group talk. What is appropriate?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A student says, ‘Make the puppet.’ Which added detail helps a listener begin?",
+    "audio_prompt": "A student says, ‘Make the puppet.’ Which added detail helps a listener begin?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I will not listen now.",
-        "is_correct": false
-      },
-      {
-        "text": "I see it differently because the text says…",
+        "text": "First cut the paper shape along the dotted line.",
         "is_correct": true
       },
       {
-        "text": "That is silly and wrong.",
+        "text": "Choose colours before finding the puppet template.",
+        "is_correct": false
+      },
+      {
+        "text": "Cut out all the pieces somehow, then start making it.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The added first step names a precise action and where to do it.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-007",
@@ -1158,36 +1146,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "The teacher gives two steps. What helps you receive the instructions?",
-    "audio_prompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A science group needs one person to pour water and one to record results. Which instruction is clearest?",
+    "audio_prompt": "A science group needs one person to pour water and one to record results. Which instruction is clearest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "Kim and Jay, share the jobs as you go.",
+        "is_correct": false
+      },
+      {
+        "text": "Kim, pour to the marked line; Jay, write each result in the table.",
         "is_correct": true
       },
       {
-        "text": "Change the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Guess without listening.",
+        "text": "Kim, do the water job; Jay, help with the results.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The instruction names each role and the exact action required.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-008",
@@ -1196,36 +1184,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "recognise",
-    "skill": "speaking and listening",
-    "question": "You want to extend an idea. What could you say?",
-    "audio_prompt": "You want to extend an idea. What could you say?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask?",
+    "audio_prompt": "A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Stop talking forever.",
+        "text": "Should I bring some equipment from either shed?",
         "is_correct": false
       },
       {
-        "text": "That has no topic.",
+        "text": "Can I meet beside the closest shed without checking which one?",
         "is_correct": false
       },
       {
-        "text": "We could also add a labelled picture.",
+        "text": "Do you mean the sports shed or the garden shed?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The question identifies the two possible locations and requests a precise choice.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-009",
@@ -1234,36 +1222,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "A partner is explaining the game rules. What should you do first?",
-    "audio_prompt": "A partner is explaining the game rules. What should you do first?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A group must choose a class pet. Which student response helps the discussion move forward? Which reason best supports the correct choice?",
+    "audio_prompt": "A group must choose a class pet. Which student response helps the discussion move forward? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Walk away before the instructions end.",
-        "is_correct": false
-      },
-      {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "Listing needs helps the group compare ideas using relevant information.",
         "is_correct": true
       },
       {
-        "text": "Talk over the speaker with a new story.",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Listing needs helps the group compare ideas using relevant information.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-010",
@@ -1272,36 +1260,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "You disagree with an idea in group talk. What is appropriate?",
-    "audio_prompt": "You disagree with an idea in group talk. What is appropriate?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second? Which reason best supports the correct choice?",
+    "audio_prompt": "The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I see it differently because the text says…",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Turning left is the second action in the spoken sequence.",
         "is_correct": true
       },
       {
-        "text": "That is silly and wrong.",
-        "is_correct": false
-      },
-      {
-        "text": "I will not listen now.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Turning left is the second action in the spoken sequence.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-011",
@@ -1310,36 +1298,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "The teacher gives two steps. What helps you receive the instructions?",
-    "audio_prompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant? Which reason best supports the correct choice?",
+    "audio_prompt": "Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Change the topic.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Guess without listening.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "The reply responds to Eli's reason and adds another feature of the diagram.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The reply responds to Eli's reason and adds another feature of the diagram.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-012",
@@ -1348,36 +1336,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "You want to extend an idea. What could you say?",
-    "audio_prompt": "You want to extend an idea. What could you say?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "Which directions help a visitor reach the library from the office? Which reason best supports the correct choice?",
+    "audio_prompt": "Which directions help a visitor reach the library from the office? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "That has no topic.",
-        "is_correct": false
-      },
-      {
-        "text": "We could also add a labelled picture.",
+        "text": "The directions give an ordered route with clear landmarks.",
         "is_correct": true
       },
       {
-        "text": "Stop talking forever.",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The directions give an ordered route with clear landmarks.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-013",
@@ -1386,36 +1374,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "A partner is explaining the game rules. What should you do first?",
-    "audio_prompt": "A partner is explaining the game rules. What should you do first?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "During a discussion, which sentence is an opinion that invites a response? Which reason best supports the correct choice?",
+    "audio_prompt": "During a discussion, which sentence is an opinion that invites a response? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "I think signals an opinion, and the speaker gives a reason others can discuss.",
         "is_correct": true
       },
       {
-        "text": "Talk over the speaker with a new story.",
-        "is_correct": false
-      },
-      {
-        "text": "Walk away before the instructions end.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "I think signals an opinion, and the speaker gives a reason others can discuss.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-014",
@@ -1424,36 +1412,36 @@
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
     "stage": "apply",
-    "skill": "speaking and listening",
-    "question": "You disagree with an idea in group talk. What is appropriate?",
-    "audio_prompt": "You disagree with an idea in group talk. What is appropriate?",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A student says, ‘Make the puppet.’ Which added detail helps a listener begin? Which reason best supports the correct choice?",
+    "audio_prompt": "A student says, ‘Make the puppet.’ Which added detail helps a listener begin? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "That is silly and wrong.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "I will not listen now.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "I see it differently because the text says…",
+        "text": "The added first step names a precise action and where to do it.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Interaction skills include listening, responding politely and adding relevant ideas.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The added first step names a precise action and where to do it.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-015",
@@ -1461,43 +1449,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LY02. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY02. Use your own example.",
+    "stage": "apply",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A science group needs one person to pour water and one to record results. Which instruction is clearest? Which reason best supports the correct choice?",
+    "audio_prompt": "A science group needs one person to pour water and one to record results. Which instruction is clearest? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The instruction names each role and the exact action required.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Interaction Skills for Speaking and Listening.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "The instruction names each role and the exact action required.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Interaction Skills for Speaking and Listening.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LY02-T-016",
@@ -1505,42 +1487,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY02",
     "bank": "test",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LY02, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LY02, then explain the answer.",
+    "stage": "apply",
+    "skill": "listening_speaking_and_giving_instructions",
+    "question": "A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask? Which reason best supports the correct choice?",
+    "audio_prompt": "A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The question identifies the two possible locations and requests a precise choice.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "The question identifies the two possible locations and requests a precise choice.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   }
 ]

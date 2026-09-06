@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "jumped",
-    "question": "In “the tiny green frog”, which choice names the jumped part?",
-    "audio_prompt": "In “the tiny green frog”, which choice names the jumped part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows one tiny beetle with black spots. Which noun group matches it best?",
+    "audio_prompt": "A picture shows one tiny beetle with black spots. Which noun group matches it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "frog",
+        "text": "the tiny spotted beetle",
         "is_correct": true
       },
       {
-        "text": "tiny",
+        "text": "the large spotted beetle",
         "is_correct": false
       },
       {
-        "text": "jumped",
+        "text": "the tiny plain beetle",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The article and adjectives add accurate details to the noun beetle.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "rang",
-    "question": "In “three silver bells”, which choice names the rang part?",
-    "audio_prompt": "In “three silver bells”, which choice names the rang part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows two muddy boots beside a door. Which noun group names them accurately?",
+    "audio_prompt": "A picture shows two muddy boots beside a door. Which noun group names them accurately?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "silver",
+        "text": "The two clean boots",
         "is_correct": false
       },
       {
-        "text": "rang",
-        "is_correct": false
-      },
-      {
-        "text": "bells",
+        "text": "The two muddy boots",
         "is_correct": true
+      },
+      {
+        "text": "The muddy boot",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The, two and muddy expand the noun boots with useful matching details.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "picture",
-    "question": "In “will carefully paint”, which choice names the picture part?",
-    "audio_prompt": "In “will carefully paint”, which choice names the picture part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "The green frog is moving across the path now. Which two-word verb group tells what it is doing?",
+    "audio_prompt": "The green frog is moving across the path now. Which two-word verb group tells what it is doing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "picture",
+        "text": "hopped",
         "is_correct": false
       },
       {
-        "text": "will paint",
+        "text": "the quick hop",
+        "is_correct": false
+      },
+      {
+        "text": "is hopping",
         "is_correct": true
-      },
-      {
-        "text": "carefully",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Is hopping is a two-word verb group that tells what the frog is doing.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "station",
-    "question": "In “has been waiting”, which choice names the station part?",
-    "audio_prompt": "In “has been waiting”, which choice names the station part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Our class plans to go to the farm tomorrow. Which verb group states that plan?",
+    "audio_prompt": "Our class plans to go to the farm tomorrow. Which verb group states that plan?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "has been waiting",
+        "text": "will visit",
         "is_correct": true
       },
       {
-        "text": "been",
+        "text": "visited",
         "is_correct": false
       },
       {
-        "text": "station",
+        "text": "the farm visit",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Will visit is a verb group that shows an action planned for the future.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "jumped",
-    "question": "In “the tiny green frog”, which choice names the jumped part?",
-    "audio_prompt": "In “the tiny green frog”, which choice names the jumped part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group?",
+    "audio_prompt": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "tiny",
+        "text": "The green parrots fly above the trees.",
         "is_correct": false
       },
       {
-        "text": "jumped",
-        "is_correct": false
-      },
-      {
-        "text": "frog",
+        "text": "The bright green parrots are flying above the trees.",
         "is_correct": true
+      },
+      {
+        "text": "The bright green parrots above the trees.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The noun group names and describes the birds; are flying shows the action.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "rang",
-    "question": "In “three silver bells”, which choice names the rang part?",
-    "audio_prompt": "In “three silver bells”, which choice names the rang part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "In “The three smooth stones rolled downhill,” which words form the complete noun group?",
+    "audio_prompt": "In “The three smooth stones rolled downhill,” which words form the complete noun group?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "rang",
+        "text": "smooth stones rolled",
         "is_correct": false
       },
       {
-        "text": "bells",
+        "text": "rolled downhill",
+        "is_correct": false
+      },
+      {
+        "text": "The three smooth stones",
         "is_correct": true
-      },
-      {
-        "text": "silver",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The three smooth stones work together to identify and describe what rolled.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "picture",
-    "question": "In “will carefully paint”, which choice names the picture part?",
-    "audio_prompt": "In “will carefully paint”, which choice names the picture part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail?",
+    "audio_prompt": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "will paint",
+        "text": "the small wet puppy",
         "is_correct": true
       },
       {
-        "text": "carefully",
+        "text": "the small dry puppy",
         "is_correct": false
       },
       {
-        "text": "picture",
+        "text": "the large wet puppy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Small and wet help readers picture the puppy and fit the observed scene.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "station",
-    "question": "In “has been waiting”, which choice names the station part?",
-    "audio_prompt": "In “has been waiting”, which choice names the station part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows one fluffy white rabbit. Which noun group matches the picture?",
+    "audio_prompt": "A picture shows one fluffy white rabbit. Which noun group matches the picture?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "been",
+        "text": "a smooth white rabbit",
         "is_correct": false
       },
       {
-        "text": "station",
-        "is_correct": false
-      },
-      {
-        "text": "has been waiting",
+        "text": "a fluffy white rabbit",
         "is_correct": true
+      },
+      {
+        "text": "a fluffy grey rabbit",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A, fluffy and white expand rabbit with the visible details.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-009",
@@ -310,36 +310,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "jumped",
-    "question": "In “the tiny green frog”, which choice names the jumped part?",
-    "audio_prompt": "In “the tiny green frog”, which choice names the jumped part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "The full moon gave light above the trees. Which two-word verb group tells what it was doing?",
+    "audio_prompt": "The full moon gave light above the trees. Which two-word verb group tells what it was doing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "jumped",
+        "text": "shone",
         "is_correct": false
       },
       {
-        "text": "frog",
+        "text": "the shining moon",
+        "is_correct": false
+      },
+      {
+        "text": "was shining",
         "is_correct": true
-      },
-      {
-        "text": "tiny",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Was shining works together to tell what the moon was doing.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-010",
@@ -348,36 +348,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "rang",
-    "question": "In “three silver bells”, which choice names the rang part?",
-    "audio_prompt": "In “three silver bells”, which choice names the rang part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A child must collect the one large yellow leaf. Which label identifies it best?",
+    "audio_prompt": "A child must collect the one large yellow leaf. Which label identifies it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bells",
+        "text": "the large yellow leaf",
         "is_correct": true
       },
       {
-        "text": "silver",
+        "text": "a small yellow leaf",
         "is_correct": false
       },
       {
-        "text": "rang",
+        "text": "the large green leaf",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Large and yellow distinguish the correct leaf from the close alternatives.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-011",
@@ -386,36 +386,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "picture",
-    "question": "In “will carefully paint”, which choice names the picture part?",
-    "audio_prompt": "In “will carefully paint”, which choice names the picture part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows one tiny beetle with black spots. Which noun group matches it best? Why is “the tiny spotted beetle” the best answer?",
+    "audio_prompt": "A picture shows one tiny beetle with black spots. Which noun group matches it best? Why is “the tiny spotted beetle” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "carefully",
+        "text": "It is best only because it is longer than “the large spotted beetle”.",
         "is_correct": false
       },
       {
-        "text": "picture",
-        "is_correct": false
-      },
-      {
-        "text": "will paint",
+        "text": "The article and adjectives add accurate details to the noun beetle.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The article and adjectives add accurate details to the noun beetle.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-012",
@@ -424,36 +424,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "station",
-    "question": "In “has been waiting”, which choice names the station part?",
-    "audio_prompt": "In “has been waiting”, which choice names the station part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows two muddy boots beside a door. Which noun group names them accurately? Why is “The two muddy boots” the best answer?",
+    "audio_prompt": "A picture shows two muddy boots beside a door. Which noun group names them accurately? Why is “The two muddy boots” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "station",
+        "text": "It is best only because it is longer than “The two clean boots”.",
         "is_correct": false
       },
       {
-        "text": "has been waiting",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The, two and muddy expand the noun boots with useful matching details.",
         "is_correct": true
-      },
-      {
-        "text": "been",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The, two and muddy expand the noun boots with useful matching details.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-013",
@@ -462,36 +462,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "jumped",
-    "question": "In “the tiny green frog”, which choice names the jumped part?",
-    "audio_prompt": "In “the tiny green frog”, which choice names the jumped part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "The green frog is moving across the path now. Which two-word verb group tells what it is doing? Why is “is hopping” the best answer?",
+    "audio_prompt": "The green frog is moving across the path now. Which two-word verb group tells what it is doing? Why is “is hopping” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "frog",
+        "text": "Is hopping is a two-word verb group that tells what the frog is doing.",
         "is_correct": true
       },
       {
-        "text": "tiny",
+        "text": "It is best only because it is longer than “hopped”.",
         "is_correct": false
       },
       {
-        "text": "jumped",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Is hopping is a two-word verb group that tells what the frog is doing.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-014",
@@ -500,36 +500,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "rang",
-    "question": "In “three silver bells”, which choice names the rang part?",
-    "audio_prompt": "In “three silver bells”, which choice names the rang part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Our class plans to go to the farm tomorrow. Which verb group states that plan? Why is “will visit” the best answer?",
+    "audio_prompt": "Our class plans to go to the farm tomorrow. Which verb group states that plan? Why is “will visit” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "silver",
+        "text": "It is best only because it is longer than “visited”.",
         "is_correct": false
       },
       {
-        "text": "rang",
-        "is_correct": false
-      },
-      {
-        "text": "bells",
+        "text": "Will visit is a verb group that shows an action planned for the future.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Will visit is a verb group that shows an action planned for the future.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-015",
@@ -538,36 +538,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "picture",
-    "question": "In “will carefully paint”, which choice names the picture part?",
-    "audio_prompt": "In “will carefully paint”, which choice names the picture part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group? Why is “The bright green parrots are flying above the trees.” the best answer?",
+    "audio_prompt": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group? Why is “The bright green parrots are flying above the trees.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "picture",
+        "text": "It is best only because it is longer than “The green parrots fly above the trees.”.",
         "is_correct": false
       },
       {
-        "text": "will paint",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The noun group names and describes the birds; are flying shows the action.",
         "is_correct": true
-      },
-      {
-        "text": "carefully",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The noun group names and describes the birds; are flying shows the action.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-016",
@@ -576,36 +576,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "station",
-    "question": "In “has been waiting”, which choice names the station part?",
-    "audio_prompt": "In “has been waiting”, which choice names the station part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "In “The three smooth stones rolled downhill,” which words form the complete noun group? Why is “The three smooth stones” the best answer?",
+    "audio_prompt": "In “The three smooth stones rolled downhill,” which words form the complete noun group? Why is “The three smooth stones” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "has been waiting",
+        "text": "The three smooth stones work together to identify and describe what rolled.",
         "is_correct": true
       },
       {
-        "text": "been",
+        "text": "It is best only because it is longer than “smooth stones rolled”.",
         "is_correct": false
       },
       {
-        "text": "station",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The three smooth stones work together to identify and describe what rolled.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "jumped",
-    "question": "In “the tiny green frog”, which choice names the jumped part?",
-    "audio_prompt": "In “the tiny green frog”, which choice names the jumped part?",
+    "stage": "independent",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail? Why is “the small wet puppy” the best answer?",
+    "audio_prompt": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail? Why is “the small wet puppy” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "tiny",
+        "text": "It is best only because it is longer than “the small dry puppy”.",
         "is_correct": false
       },
       {
-        "text": "jumped",
-        "is_correct": false
-      },
-      {
-        "text": "frog",
+        "text": "Small and wet help readers picture the puppy and fit the observed scene.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Small and wet help readers picture the puppy and fit the observed scene.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 17,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "rang",
-    "question": "In “three silver bells”, which choice names the rang part?",
-    "audio_prompt": "In “three silver bells”, which choice names the rang part?",
+    "stage": "independent",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows one fluffy white rabbit. Which noun group matches the picture? Why is “a fluffy white rabbit” the best answer?",
+    "audio_prompt": "A picture shows one fluffy white rabbit. Which noun group matches the picture? Why is “a fluffy white rabbit” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "rang",
+        "text": "It is best only because it is longer than “a smooth white rabbit”.",
         "is_correct": false
       },
       {
-        "text": "bells",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "A, fluffy and white expand rabbit with the visible details.",
         "is_correct": true
-      },
-      {
-        "text": "silver",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "A, fluffy and white expand rabbit with the visible details.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 18,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "picture",
-    "question": "In “will carefully paint”, which choice names the picture part?",
-    "audio_prompt": "In “will carefully paint”, which choice names the picture part?",
+    "stage": "independent",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "The full moon gave light above the trees. Which two-word verb group tells what it was doing? Why is “was shining” the best answer?",
+    "audio_prompt": "The full moon gave light above the trees. Which two-word verb group tells what it was doing? Why is “was shining” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "will paint",
+        "text": "Was shining works together to tell what the moon was doing.",
         "is_correct": true
       },
       {
-        "text": "carefully",
+        "text": "It is best only because it is longer than “shone”.",
         "is_correct": false
       },
       {
-        "text": "picture",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Was shining works together to tell what the moon was doing.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 19,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "station",
-    "question": "In “has been waiting”, which choice names the station part?",
-    "audio_prompt": "In “has been waiting”, which choice names the station part?",
+    "stage": "independent",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A child must collect the one large yellow leaf. Which label identifies it best? Why is “the large yellow leaf” the best answer?",
+    "audio_prompt": "A child must collect the one large yellow leaf. Which label identifies it best? Why is “the large yellow leaf” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "been",
+        "text": "It is best only because it is longer than “a small yellow leaf”.",
         "is_correct": false
       },
       {
-        "text": "station",
-        "is_correct": false
-      },
-      {
-        "text": "has been waiting",
+        "text": "Large and yellow distinguish the correct leaf from the close alternatives.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Large and yellow distinguish the correct leaf from the close alternatives.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 20,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "jumped",
-    "question": "In “the tiny green frog”, which choice names the jumped part?",
-    "audio_prompt": "In “the tiny green frog”, which choice names the jumped part?",
+    "stage": "independent",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "The green frog is moving across the path now. Which two-word verb group tells what it is doing? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "The green frog is moving across the path now. Which two-word verb group tells what it is doing? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "jumped",
+        "text": "is hopping",
         "is_correct": false
       },
       {
-        "text": "frog",
+        "text": "the quick hop",
+        "is_correct": false
+      },
+      {
+        "text": "hopped",
         "is_correct": true
-      },
-      {
-        "text": "tiny",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“hopped” is the mix-up to avoid. Look for a helping word followed by an action word.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 21,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "rang",
-    "question": "In “three silver bells”, which choice names the rang part?",
-    "audio_prompt": "In “three silver bells”, which choice names the rang part?",
+    "stage": "independent",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Our class plans to go to the farm tomorrow. Which verb group states that plan? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Our class plans to go to the farm tomorrow. Which verb group states that plan? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bells",
+        "text": "visited",
         "is_correct": true
       },
       {
-        "text": "silver",
+        "text": "will visit",
         "is_correct": false
       },
       {
-        "text": "rang",
+        "text": "the farm visit",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“visited” is the mix-up to avoid. Choose two words that tell what the class plans to do.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "stretch",
     "sequence_priority": 22,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-023",
@@ -841,43 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LA07. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LA07. Use your own example.",
+    "stage": "independent",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The bright green parrots are flying above the trees.",
+        "is_correct": false
+      },
+      {
+        "text": "The green parrots fly above the trees.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The bright green parrots above the trees.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Noun Groups and Verb Groups.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“The green parrots fly above the trees.” is the mix-up to avoid. Find both a detailed naming group and a complete two-word action group.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Noun Groups and Verb Groups.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-P-024",
@@ -885,43 +879,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA07",
     "bank": "practice",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LA07, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LA07, then explain the answer.",
+    "stage": "independent",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "In “The three smooth stones rolled downhill,” which words form the complete noun group? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "In “The three smooth stones rolled downhill,” which words form the complete noun group? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The three smooth stones",
+        "is_correct": false
+      },
+      {
+        "text": "rolled downhill",
+        "is_correct": false
+      },
+      {
+        "text": "smooth stones rolled",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“smooth stones rolled” is the mix-up to avoid. Start at the article and stop before the action word.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-001",
@@ -930,36 +918,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "jumped",
-    "question": "In “the tiny green frog”, which choice names the jumped part?",
-    "audio_prompt": "In “the tiny green frog”, which choice names the jumped part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group?",
+    "audio_prompt": "A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "frog",
+        "text": "The two enormous grey waves were crashing onto the rocks.",
         "is_correct": true
       },
       {
-        "text": "tiny",
+        "text": "The two small grey waves were crashing onto the rocks.",
         "is_correct": false
       },
       {
-        "text": "jumped",
+        "text": "The two enormous grey waves crashed onto the rocks.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The expanded noun group matches the waves, and were crashing clearly expresses their action.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-002",
@@ -968,36 +956,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "rang",
-    "question": "In “three silver bells”, which choice names the rang part?",
-    "audio_prompt": "In “three silver bells”, which choice names the rang part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Mina completed her model before lunch. Which complete verb group can tell what she did?",
+    "audio_prompt": "Mina completed her model before lunch. Which complete verb group can tell what she did?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "silver",
+        "text": "finished",
         "is_correct": false
       },
       {
-        "text": "rang",
-        "is_correct": false
-      },
-      {
-        "text": "bells",
+        "text": "has finished",
         "is_correct": true
+      },
+      {
+        "text": "the finished model",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Has finished is a verb group telling what Mina completed.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-003",
@@ -1006,36 +994,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "picture",
-    "question": "In “will carefully paint”, which choice names the picture part?",
-    "audio_prompt": "In “will carefully paint”, which choice names the picture part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "The lost bag is red and torn. Which noun group identifies it precisely?",
+    "audio_prompt": "The lost bag is red and torn. Which noun group identifies it precisely?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "picture",
+        "text": "the new red backpack",
         "is_correct": false
       },
       {
-        "text": "will paint",
+        "text": "the torn blue backpack",
+        "is_correct": false
+      },
+      {
+        "text": "the torn red backpack",
         "is_correct": true
-      },
-      {
-        "text": "carefully",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The adjectives torn and red point to the correct backpack.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-004",
@@ -1044,36 +1032,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "station",
-    "question": "In “has been waiting”, which choice names the station part?",
-    "audio_prompt": "In “has been waiting”, which choice names the station part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Which edit gives accurate detail about a nervous brown dog that kept barking?",
+    "audio_prompt": "Which edit gives accurate detail about a nervous brown dog that kept barking?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "has been waiting",
+        "text": "The nervous brown dog was barking.",
         "is_correct": true
       },
       {
-        "text": "been",
+        "text": "The calm brown dog was barking.",
         "is_correct": false
       },
       {
-        "text": "station",
+        "text": "The nervous brown dog barked once.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The noun group describes the correct dog, and was barking expresses the continuing action.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-005",
@@ -1082,36 +1070,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "jumped",
-    "question": "In “the tiny green frog”, which choice names the jumped part?",
-    "audio_prompt": "In “the tiny green frog”, which choice names the jumped part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "In “The three silver planes have landed safely,” which words form the complete verb group?",
+    "audio_prompt": "In “The three silver planes have landed safely,” which words form the complete verb group?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "tiny",
+        "text": "landed",
         "is_correct": false
       },
       {
-        "text": "jumped",
-        "is_correct": false
-      },
-      {
-        "text": "frog",
+        "text": "have landed",
         "is_correct": true
+      },
+      {
+        "text": "The three silver planes",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Have landed works together to express what the planes have done.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-006",
@@ -1120,36 +1108,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "rang",
-    "question": "In “three silver bells”, which choice names the rang part?",
-    "audio_prompt": "In “three silver bells”, which choice names the rang part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Which noun group best matches a picture of one crooked old bridge?",
+    "audio_prompt": "Which noun group best matches a picture of one crooked old bridge?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "rang",
+        "text": "the crooked new bridge",
         "is_correct": false
       },
       {
-        "text": "bells",
+        "text": "the straight old bridge",
+        "is_correct": false
+      },
+      {
+        "text": "the crooked old bridge",
         "is_correct": true
-      },
-      {
-        "text": "silver",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Crooked and old give accurate details about the noun bridge.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-007",
@@ -1158,36 +1146,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "picture",
-    "question": "In “will carefully paint”, which choice names the picture part?",
-    "audio_prompt": "In “will carefully paint”, which choice names the picture part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting?",
+    "audio_prompt": "Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "will paint",
+        "text": "The two tired young hikers were resting beside the track.",
         "is_correct": true
       },
       {
-        "text": "carefully",
+        "text": "The two energetic young hikers were resting beside the track.",
         "is_correct": false
       },
       {
-        "text": "picture",
+        "text": "The two tired young hikers rested beside the track.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The noun group identifies the hikers and were resting tells their continuing action.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-008",
@@ -1196,36 +1184,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "recognise",
-    "skill": "station",
-    "question": "In “has been waiting”, which choice names the station part?",
-    "audio_prompt": "In “has been waiting”, which choice names the station part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”?",
+    "audio_prompt": "A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "been",
+        "text": "the rough round pebble",
         "is_correct": false
       },
       {
-        "text": "station",
-        "is_correct": false
-      },
-      {
-        "text": "has been waiting",
+        "text": "the smooth round pebble",
         "is_correct": true
+      },
+      {
+        "text": "the smooth square pebble",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Smooth and round accurately expand the noun pebble using the photo evidence.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-009",
@@ -1234,36 +1222,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "apply",
-    "skill": "jumped",
-    "question": "In “the tiny green frog”, which choice names the jumped part?",
-    "audio_prompt": "In “the tiny green frog”, which choice names the jumped part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group? Which reason best supports the correct choice?",
+    "audio_prompt": "A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "jumped",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "frog",
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The expanded noun group matches the waves, and were crashing clearly expresses their action.",
         "is_correct": true
-      },
-      {
-        "text": "tiny",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The expanded noun group matches the waves, and were crashing clearly expresses their action.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-010",
@@ -1272,36 +1260,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "apply",
-    "skill": "rang",
-    "question": "In “three silver bells”, which choice names the rang part?",
-    "audio_prompt": "In “three silver bells”, which choice names the rang part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Mina completed her model before lunch. Which complete verb group can tell what she did? Which reason best supports the correct choice?",
+    "audio_prompt": "Mina completed her model before lunch. Which complete verb group can tell what she did? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bells",
+        "text": "Has finished is a verb group telling what Mina completed.",
         "is_correct": true
       },
       {
-        "text": "silver",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "rang",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Has finished is a verb group telling what Mina completed.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-011",
@@ -1310,36 +1298,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "apply",
-    "skill": "picture",
-    "question": "In “will carefully paint”, which choice names the picture part?",
-    "audio_prompt": "In “will carefully paint”, which choice names the picture part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "The lost bag is red and torn. Which noun group identifies it precisely? Which reason best supports the correct choice?",
+    "audio_prompt": "The lost bag is red and torn. Which noun group identifies it precisely? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "carefully",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "picture",
-        "is_correct": false
-      },
-      {
-        "text": "will paint",
+        "text": "The adjectives torn and red point to the correct backpack.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The adjectives torn and red point to the correct backpack.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-012",
@@ -1348,36 +1336,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "apply",
-    "skill": "station",
-    "question": "In “has been waiting”, which choice names the station part?",
-    "audio_prompt": "In “has been waiting”, which choice names the station part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Which edit gives accurate detail about a nervous brown dog that kept barking? Which reason best supports the correct choice?",
+    "audio_prompt": "Which edit gives accurate detail about a nervous brown dog that kept barking? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "station",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "has been waiting",
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The noun group describes the correct dog, and was barking expresses the continuing action.",
         "is_correct": true
-      },
-      {
-        "text": "been",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The noun group describes the correct dog, and was barking expresses the continuing action.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-013",
@@ -1386,36 +1374,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "apply",
-    "skill": "jumped",
-    "question": "In “the tiny green frog”, which choice names the jumped part?",
-    "audio_prompt": "In “the tiny green frog”, which choice names the jumped part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "In “The three silver planes have landed safely,” which words form the complete verb group? Which reason best supports the correct choice?",
+    "audio_prompt": "In “The three silver planes have landed safely,” which words form the complete verb group? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "frog",
+        "text": "Have landed works together to express what the planes have done.",
         "is_correct": true
       },
       {
-        "text": "tiny",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "jumped",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Have landed works together to express what the planes have done.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-014",
@@ -1424,36 +1412,36 @@
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
     "stage": "apply",
-    "skill": "rang",
-    "question": "In “three silver bells”, which choice names the rang part?",
-    "audio_prompt": "In “three silver bells”, which choice names the rang part?",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Which noun group best matches a picture of one crooked old bridge? Which reason best supports the correct choice?",
+    "audio_prompt": "Which noun group best matches a picture of one crooked old bridge? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "silver",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "rang",
-        "is_correct": false
-      },
-      {
-        "text": "bells",
+        "text": "Crooked and old give accurate details about the noun bridge.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer shows the main word group used in the sentence part.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Crooked and old give accurate details about the noun bridge.",
+      "hint": "Use the clues in the question and check every choice."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-015",
@@ -1461,43 +1449,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LA07. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LA07. Use your own example.",
+    "stage": "apply",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting? Which reason best supports the correct choice?",
+    "audio_prompt": "Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The noun group identifies the hikers and were resting tells their continuing action.",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for Noun Groups and Verb Groups.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "The noun group identifies the hikers and were resting tells their continuing action.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for Noun Groups and Verb Groups.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   },
   {
     "id": "AC9E2LA07-T-016",
@@ -1505,42 +1487,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA07",
     "bank": "test",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LA07, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LA07, then explain the answer.",
+    "stage": "apply",
+    "skill": "building_noun_groups_and_verb_groups",
+    "question": "A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”? Which reason best supports the correct choice?",
+    "audio_prompt": "A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "Smooth and round accurately expand the noun pebble using the photo evidence.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "Smooth and round accurately expand the noun pebble using the photo evidence.",
+      "hint": "Use the clues in the question and check every choice."
     },
-    "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "production-v1"
   }
 ]

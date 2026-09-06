@@ -4,34 +4,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-001",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A partner is explaining the game rules. What should you do first?",
-    "audioPrompt": "A partner is explaining the game rules. What should you do first?",
+    "prompt": "A group must choose a class pet. Which student response helps the discussion move forward?",
+    "audioPrompt": "A group must choose a class pet. Which student response helps the discussion move forward?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "Let's vote before anyone explains what each pet needs.",
+        "is_correct": false
+      },
+      {
+        "text": "Let's list what each animal needs before we decide.",
         "is_correct": true
       },
       {
-        "text": "Talk over the speaker with a new story.",
-        "is_correct": false
-      },
-      {
-        "text": "Walk away before the instructions end.",
+        "text": "Let's choose the smallest animal because it must be the easiest to care for.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "Listing needs helps the group compare ideas using relevant information.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -44,34 +44,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-002",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "You disagree with an idea in group talk. What is appropriate?",
-    "audioPrompt": "You disagree with an idea in group talk. What is appropriate?",
+    "prompt": "The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second?",
+    "audioPrompt": "The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "That is silly and wrong.",
+        "text": "wait beside the gate",
         "is_correct": false
       },
       {
-        "text": "I will not listen now.",
+        "text": "walk back to the coach",
         "is_correct": false
       },
       {
-        "text": "I see it differently because the text says…",
+        "text": "turn left",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Turning left is the second action in the spoken sequence.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -84,34 +84,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-003",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "The teacher gives two steps. What helps you receive the instructions?",
-    "audioPrompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "prompt": "Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant?",
+    "audioPrompt": "Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Guess without listening.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "I prefer it too, and the arrows also show how the parts connect.",
         "is_correct": true
       },
       {
-        "text": "Change the topic.",
+        "text": "I like the colours, but I did not read any labels.",
+        "is_correct": false
+      },
+      {
+        "text": "I prefer all diagrams because pictures are always clearer than words.",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "The reply responds to Eli's reason and adds another feature of the diagram.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -124,34 +124,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-004",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "You want to extend an idea. What could you say?",
-    "audioPrompt": "You want to extend an idea. What could you say?",
+    "prompt": "Which directions help a visitor reach the library from the office?",
+    "audioPrompt": "Which directions help a visitor reach the library from the office?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "We could also add a labelled picture.",
+        "text": "Turn right somewhere after leaving the office.",
+        "is_correct": false
+      },
+      {
+        "text": "Go straight past two rooms, turn right, and enter the door marked Library.",
         "is_correct": true
       },
       {
-        "text": "Stop talking forever.",
-        "is_correct": false
-      },
-      {
-        "text": "That has no topic.",
+        "text": "Walk down the hall until the library seems close.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "The directions give an ordered route with clear landmarks.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -164,34 +164,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-005",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A partner is explaining the game rules. What should you do first?",
-    "audioPrompt": "A partner is explaining the game rules. What should you do first?",
+    "prompt": "During a discussion, which sentence is an opinion that invites a response?",
+    "audioPrompt": "During a discussion, which sentence is an opinion that invites a response?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Talk over the speaker with a new story.",
+        "text": "The plan shows two paths.",
         "is_correct": false
       },
       {
-        "text": "Walk away before the instructions end.",
+        "text": "Draw the path with a ruler.",
         "is_correct": false
       },
       {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "I think the new playground plan is safer because the path is wider.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "I think signals an opinion, and the speaker gives a reason others can discuss.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -204,34 +204,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-006",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "You disagree with an idea in group talk. What is appropriate?",
-    "audioPrompt": "You disagree with an idea in group talk. What is appropriate?",
+    "prompt": "A student says, ‘Make the puppet.’ Which added detail helps a listener begin?",
+    "audioPrompt": "A student says, ‘Make the puppet.’ Which added detail helps a listener begin?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I will not listen now.",
-        "is_correct": false
-      },
-      {
-        "text": "I see it differently because the text says…",
+        "text": "First cut the paper shape along the dotted line.",
         "is_correct": true
       },
       {
-        "text": "That is silly and wrong.",
+        "text": "Choose colours before finding the puppet template.",
+        "is_correct": false
+      },
+      {
+        "text": "Cut out all the pieces somehow, then start making it.",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "The added first step names a precise action and where to do it.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -244,34 +244,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-007",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "The teacher gives two steps. What helps you receive the instructions?",
-    "audioPrompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "prompt": "A science group needs one person to pour water and one to record results. Which instruction is clearest?",
+    "audioPrompt": "A science group needs one person to pour water and one to record results. Which instruction is clearest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "Kim and Jay, share the jobs as you go.",
+        "is_correct": false
+      },
+      {
+        "text": "Kim, pour to the marked line; Jay, write each result in the table.",
         "is_correct": true
       },
       {
-        "text": "Change the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Guess without listening.",
+        "text": "Kim, do the water job; Jay, help with the results.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 1,
+    "explanation": "The instruction names each role and the exact action required.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -284,34 +284,34 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-008",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "You want to extend an idea. What could you say?",
-    "audioPrompt": "You want to extend an idea. What could you say?",
+    "prompt": "A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask?",
+    "audioPrompt": "A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Stop talking forever.",
+        "text": "Should I bring some equipment from either shed?",
         "is_correct": false
       },
       {
-        "text": "That has no topic.",
+        "text": "Can I meet beside the closest shed without checking which one?",
         "is_correct": false
       },
       {
-        "text": "We could also add a labelled picture.",
+        "text": "Do you mean the sports shed or the garden shed?",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "The question identifies the two possible locations and requests a precise choice.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -324,32 +324,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-009",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A partner is explaining the game rules. What should you do first?",
-    "audioPrompt": "A partner is explaining the game rules. What should you do first?",
+    "prompt": "A group must choose a class pet. Which student response helps the discussion move forward? Which reason best supports the correct choice?",
+    "audioPrompt": "A group must choose a class pet. Which student response helps the discussion move forward? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Walk away before the instructions end.",
-        "is_correct": false
-      },
-      {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "Listing needs helps the group compare ideas using relevant information.",
         "is_correct": true
       },
       {
-        "text": "Talk over the speaker with a new story.",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "Listing needs helps the group compare ideas using relevant information.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 9,
@@ -364,32 +364,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-010",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "You disagree with an idea in group talk. What is appropriate?",
-    "audioPrompt": "You disagree with an idea in group talk. What is appropriate?",
+    "prompt": "The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second? Which reason best supports the correct choice?",
+    "audioPrompt": "The coach says, ‘Walk to the blue cone, turn left, then wait beside the gate.’ What should Mia do second? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I see it differently because the text says…",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Turning left is the second action in the spoken sequence.",
         "is_correct": true
       },
       {
-        "text": "That is silly and wrong.",
-        "is_correct": false
-      },
-      {
-        "text": "I will not listen now.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 1,
+    "explanation": "Turning left is the second action in the spoken sequence.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 10,
@@ -404,32 +404,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-011",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "The teacher gives two steps. What helps you receive the instructions?",
-    "audioPrompt": "The teacher gives two steps. What helps you receive the instructions?",
+    "prompt": "Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant? Which reason best supports the correct choice?",
+    "audioPrompt": "Eli says, ‘I prefer the diagram because the labels are clear.’ Which reply is most relevant? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Change the topic.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Guess without listening.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "Repeat the steps quietly to check them.",
+        "text": "The reply responds to Eli's reason and adds another feature of the diagram.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "The reply responds to Eli's reason and adds another feature of the diagram.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 11,
@@ -444,32 +444,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-012",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "You want to extend an idea. What could you say?",
-    "audioPrompt": "You want to extend an idea. What could you say?",
+    "prompt": "Which directions help a visitor reach the library from the office? Which reason best supports the correct choice?",
+    "audioPrompt": "Which directions help a visitor reach the library from the office? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "That has no topic.",
-        "is_correct": false
-      },
-      {
-        "text": "We could also add a labelled picture.",
+        "text": "The directions give an ordered route with clear landmarks.",
         "is_correct": true
       },
       {
-        "text": "Stop talking forever.",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 1,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "The directions give an ordered route with clear landmarks.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 12,
@@ -484,32 +484,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-013",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "A partner is explaining the game rules. What should you do first?",
-    "audioPrompt": "A partner is explaining the game rules. What should you do first?",
+    "prompt": "During a discussion, which sentence is an opinion that invites a response? Which reason best supports the correct choice?",
+    "audioPrompt": "During a discussion, which sentence is an opinion that invites a response? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Look at the speaker and listen before asking a question.",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "I think signals an opinion, and the speaker gives a reason others can discuss.",
         "is_correct": true
       },
       {
-        "text": "Talk over the speaker with a new story.",
-        "is_correct": false
-      },
-      {
-        "text": "Walk away before the instructions end.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 1,
+    "explanation": "I think signals an opinion, and the speaker gives a reason others can discuss.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 13,
@@ -524,32 +524,32 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-014",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "speaking and listening",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "You disagree with an idea in group talk. What is appropriate?",
-    "audioPrompt": "You disagree with an idea in group talk. What is appropriate?",
+    "prompt": "A student says, ‘Make the puppet.’ Which added detail helps a listener begin? Which reason best supports the correct choice?",
+    "audioPrompt": "A student says, ‘Make the puppet.’ Which added detail helps a listener begin? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "That is silly and wrong.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "I will not listen now.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "I see it differently because the text says…",
+        "text": "The added first step names a precise action and where to do it.",
         "is_correct": true
       }
     ],
     "correctIndex": 2,
-    "explanation": "Interaction skills include listening, responding politely and adding relevant ideas.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "The added first step names a precise action and where to do it.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 14,
@@ -564,80 +564,80 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly02-t-015",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LY02. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY02. Use your own example.",
+    "prompt": "A science group needs one person to pour water and one to record results. Which instruction is clearest? Which reason best supports the correct choice?",
+    "audioPrompt": "A science group needs one person to pour water and one to record results. Which instruction is clearest? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The instruction names each role and the exact action required.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Interaction Skills for Speaking and Listening.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
-    "difficulty": 3,
-    "difficultyTier": "stretch",
+    "explanation": "The instruction names each role and the exact action required.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Interaction Skills for Speaking and Listening.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly02-t-016",
     "curriculumCode": "AC9E2LY02",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "listening_speaking_and_giving_instructions",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LY02, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LY02, then explain the answer.",
+    "prompt": "A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask? Which reason best supports the correct choice?",
+    "audioPrompt": "A teacher says, ‘Meet near the equipment after recess.’ There are two equipment sheds. What should a student ask? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The question identifies the two possible locations and requests a precise choice.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
-    "difficulty": 3,
-    "difficultyTier": "stretch",
+    "correctIndex": 1,
+    "explanation": "The question identifies the two possible locations and requests a precise choice.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];

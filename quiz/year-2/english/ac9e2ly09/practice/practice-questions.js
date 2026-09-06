@@ -4,34 +4,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-001",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Change “smile” by deleting /s/. What word is left?",
-    "audioPrompt": "Change “smile” by deleting /s/. What word is left?",
+    "prompt": "Blend these cue sounds in order: the first sound in fish, the first sound in red, the middle sound in hot and the final sound in bag. Which word do they make?",
+    "audioPrompt": "Blend these cue sounds in order: the first sound in fish, the first sound in red, the middle sound in hot and the final sound in bag. Which word do they make?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "mile",
+        "text": "fog",
+        "is_correct": false
+      },
+      {
+        "text": "from",
+        "is_correct": false
+      },
+      {
+        "text": "frog",
         "is_correct": true
-      },
-      {
-        "text": "slime",
-        "is_correct": false
-      },
-      {
-        "text": "small",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "Using all four cue sounds in order makes frog.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 1,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -44,34 +44,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-002",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word begins with a three-sound blend?",
-    "audioPrompt": "Which word begins with a three-sound blend?",
+    "prompt": "Which cue-word sequence shows the three spoken sounds in ship?",
+    "audioPrompt": "Which cue-word sequence shows the three spoken sounds in ship?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sing",
-        "is_correct": false
-      },
-      {
-        "text": "ring",
-        "is_correct": false
-      },
-      {
-        "text": "string",
+        "text": "start of shoe, middle of sit, end of cup",
         "is_correct": true
+      },
+      {
+        "text": "start of sun, start of hat, middle of sit, end of cup",
+        "is_correct": false
+      },
+      {
+        "text": "start of shoe, middle of sit, end of top",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "Ship has three sounds: the start of shoe, the middle of sit and the end of cup.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 2,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -84,34 +84,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-003",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Is the syllable “me” open or closed?",
-    "audioPrompt": "Is the syllable “me” open or closed?",
+    "prompt": "Remove the first sound from stop. Which word remains?",
+    "audioPrompt": "Remove the first sound from stop. Which word remains?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "compound",
+        "text": "shop",
         "is_correct": false
       },
       {
-        "text": "open",
+        "text": "top",
         "is_correct": true
       },
       {
-        "text": "closed",
+        "text": "step",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Stop begins with the sound heard at the start of sun; removing it leaves top.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 3,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -124,34 +124,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-004",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Substitute /m/ in mat with /s/. What word do you make?",
-    "audioPrompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "prompt": "Change the first sound in map to the sound heard at the start of top. What new word is made?",
+    "audioPrompt": "Change the first sound in map to the sound heard at the start of top. What new word is made?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sat",
+        "text": "mat",
+        "is_correct": false
+      },
+      {
+        "text": "tip",
+        "is_correct": false
+      },
+      {
+        "text": "tap",
         "is_correct": true
-      },
-      {
-        "text": "map",
-        "is_correct": false
-      },
-      {
-        "text": "meat",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "Replacing the start of map with the start of top while keeping the rest makes tap.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 4,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -164,34 +164,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-005",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Change “smile” by deleting /s/. What word is left?",
-    "audioPrompt": "Change “smile” by deleting /s/. What word is left?",
+    "prompt": "How many spoken sounds are in frog?",
+    "audioPrompt": "How many spoken sounds are in frog?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "slime",
-        "is_correct": false
-      },
-      {
-        "text": "small",
-        "is_correct": false
-      },
-      {
-        "text": "mile",
+        "text": "4",
         "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "Frog has four sounds: the start of fish, the start of red, the middle of hot and the end of bag.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 5,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -204,34 +204,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-006",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word begins with a three-sound blend?",
-    "audioPrompt": "Which word begins with a three-sound blend?",
+    "prompt": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made?",
+    "audioPrompt": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "ring",
+        "text": "shop",
         "is_correct": false
       },
       {
-        "text": "string",
+        "text": "chip",
         "is_correct": true
       },
       {
-        "text": "sing",
+        "text": "chop",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Changing the start of ship from the shoe sound to the chair sound while keeping the rest makes chip.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 6,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -244,34 +244,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-007",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Is the syllable “me” open or closed?",
-    "audioPrompt": "Is the syllable “me” open or closed?",
+    "prompt": "Which chain changes only one spoken sound at each step?",
+    "audioPrompt": "Which chain changes only one spoken sound at each step?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "open",
+        "text": "map, then mop, then sip",
+        "is_correct": false
+      },
+      {
+        "text": "map, then mat, then sit",
+        "is_correct": false
+      },
+      {
+        "text": "map, then tap, then tip",
         "is_correct": true
-      },
-      {
-        "text": "closed",
-        "is_correct": false
-      },
-      {
-        "text": "compound",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "Map to tap changes the first sound; tap to tip changes the middle sound.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 7,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -284,34 +284,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-008",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Substitute /m/ in mat with /s/. What word do you make?",
-    "audioPrompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "prompt": "Remove the final sound from cart. Which word remains?",
+    "audioPrompt": "Remove the final sound from cart. Which word remains?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "map",
-        "is_correct": false
-      },
-      {
-        "text": "meat",
-        "is_correct": false
-      },
-      {
-        "text": "sat",
+        "text": "car",
         "is_correct": true
+      },
+      {
+        "text": "cat",
+        "is_correct": false
+      },
+      {
+        "text": "art",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "Cart ends with the sound heard at the start of top; removing it leaves car.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
     "sequencePriority": 8,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -324,32 +324,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-009",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Change “smile” by deleting /s/. What word is left?",
-    "audioPrompt": "Change “smile” by deleting /s/. What word is left?",
+    "prompt": "Change the middle sound in pin to the middle sound in cat. What word is made?",
+    "audioPrompt": "Change the middle sound in pin to the middle sound in cat. What word is made?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "small",
+        "text": "pat",
         "is_correct": false
       },
       {
-        "text": "mile",
+        "text": "pan",
         "is_correct": true
       },
       {
-        "text": "slime",
+        "text": "pen",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "Keeping the start and end of pin while using the middle sound in cat makes pan.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 9,
@@ -364,32 +364,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-010",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word begins with a three-sound blend?",
-    "audioPrompt": "Which word begins with a three-sound blend?",
+    "prompt": "Which cue-word sequence shows the four spoken sounds in train?",
+    "audioPrompt": "Which cue-word sequence shows the four spoken sounds in train?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "string",
+        "text": "whole start of tree, middle of day, end of sun",
+        "is_correct": false
+      },
+      {
+        "text": "start of top, then the whole word rain",
+        "is_correct": false
+      },
+      {
+        "text": "start of top, start of red, middle of day, end of sun",
         "is_correct": true
-      },
-      {
-        "text": "sing",
-        "is_correct": false
-      },
-      {
-        "text": "ring",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "Train has two separate starting sounds, followed by the long vowel in day and the final sound in sun.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 10,
@@ -404,32 +404,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-011",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Is the syllable “me” open or closed?",
-    "audioPrompt": "Is the syllable “me” open or closed?",
+    "prompt": "Blend these cue sounds in order: the first sound in fish, the first sound in red, the middle sound in hot and the final sound in bag. Which word do they make? Why is “frog” the best answer?",
+    "audioPrompt": "Blend these cue sounds in order: the first sound in fish, the first sound in red, the middle sound in hot and the final sound in bag. Which word do they make? Why is “frog” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "closed",
-        "is_correct": false
-      },
-      {
-        "text": "compound",
-        "is_correct": false
-      },
-      {
-        "text": "open",
+        "text": "Using all four cue sounds in order makes frog.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “fog”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "Using all four cue sounds in order makes frog.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 11,
@@ -444,32 +444,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-012",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Substitute /m/ in mat with /s/. What word do you make?",
-    "audioPrompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "prompt": "Which cue-word sequence shows the three spoken sounds in ship? Why is “start of shoe, middle of sit, end of cup” the best answer?",
+    "audioPrompt": "Which cue-word sequence shows the three spoken sounds in ship? Why is “start of shoe, middle of sit, end of cup” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "meat",
+        "text": "It is best only because it is longer than “start of sun, start of hat, middle of sit, end of cup”.",
         "is_correct": false
       },
       {
-        "text": "sat",
+        "text": "Ship has three sounds: the start of shoe, the middle of sit and the end of cup.",
         "is_correct": true
       },
       {
-        "text": "map",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "Ship has three sounds: the start of shoe, the middle of sit and the end of cup.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 12,
@@ -484,32 +484,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-013",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Change “smile” by deleting /s/. What word is left?",
-    "audioPrompt": "Change “smile” by deleting /s/. What word is left?",
+    "prompt": "Remove the first sound from stop. Which word remains? Why is “top” the best answer?",
+    "audioPrompt": "Remove the first sound from stop. Which word remains? Why is “top” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "mile",
+        "text": "It is best only because it is longer than “shop”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop begins with the sound heard at the start of sun; removing it leaves top.",
         "is_correct": true
-      },
-      {
-        "text": "slime",
-        "is_correct": false
-      },
-      {
-        "text": "small",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "Stop begins with the sound heard at the start of sun; removing it leaves top.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 13,
@@ -524,32 +524,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-014",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word begins with a three-sound blend?",
-    "audioPrompt": "Which word begins with a three-sound blend?",
+    "prompt": "Change the first sound in map to the sound heard at the start of top. What new word is made? Why is “tap” the best answer?",
+    "audioPrompt": "Change the first sound in map to the sound heard at the start of top. What new word is made? Why is “tap” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sing",
-        "is_correct": false
-      },
-      {
-        "text": "ring",
-        "is_correct": false
-      },
-      {
-        "text": "string",
+        "text": "Replacing the start of map with the start of top while keeping the rest makes tap.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “mat”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 0,
+    "explanation": "Replacing the start of map with the start of top while keeping the rest makes tap.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 14,
@@ -564,32 +564,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-015",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Is the syllable “me” open or closed?",
-    "audioPrompt": "Is the syllable “me” open or closed?",
+    "prompt": "How many spoken sounds are in frog? Why is “4” the best answer?",
+    "audioPrompt": "How many spoken sounds are in frog? Why is “4” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "compound",
+        "text": "It is best only because it is longer than “3”.",
         "is_correct": false
       },
       {
-        "text": "open",
+        "text": "Frog has four sounds: the start of fish, the start of red, the middle of hot and the end of bag.",
         "is_correct": true
       },
       {
-        "text": "closed",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "explanation": "Frog has four sounds: the start of fish, the start of red, the middle of hot and the end of bag.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 15,
@@ -604,32 +604,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-016",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Substitute /m/ in mat with /s/. What word do you make?",
-    "audioPrompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "prompt": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made? Why is “chip” the best answer?",
+    "audioPrompt": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made? Why is “chip” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sat",
+        "text": "It is best only because it is longer than “shop”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Changing the start of ship from the shoe sound to the chair sound while keeping the rest makes chip.",
         "is_correct": true
-      },
-      {
-        "text": "map",
-        "is_correct": false
-      },
-      {
-        "text": "meat",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "correctIndex": 2,
+    "explanation": "Changing the start of ship from the shoe sound to the chair sound while keeping the rest makes chip.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 16,
@@ -644,34 +644,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-017",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Change “smile” by deleting /s/. What word is left?",
-    "audioPrompt": "Change “smile” by deleting /s/. What word is left?",
+    "prompt": "Which chain changes only one spoken sound at each step? Why is “map, then tap, then tip” the best answer?",
+    "audioPrompt": "Which chain changes only one spoken sound at each step? Why is “map, then tap, then tip” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "slime",
-        "is_correct": false
-      },
-      {
-        "text": "small",
-        "is_correct": false
-      },
-      {
-        "text": "mile",
+        "text": "Map to tap changes the first sound; tap to tip changes the middle sound.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “map, then mop, then sip”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "Map to tap changes the first sound; tap to tip changes the middle sound.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 17,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -684,34 +684,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-018",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word begins with a three-sound blend?",
-    "audioPrompt": "Which word begins with a three-sound blend?",
+    "prompt": "Remove the final sound from cart. Which word remains? Why is “car” the best answer?",
+    "audioPrompt": "Remove the final sound from cart. Which word remains? Why is “car” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "ring",
+        "text": "It is best only because it is longer than “cat”.",
         "is_correct": false
       },
       {
-        "text": "string",
+        "text": "Cart ends with the sound heard at the start of top; removing it leaves car.",
         "is_correct": true
       },
       {
-        "text": "sing",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "Cart ends with the sound heard at the start of top; removing it leaves car.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 18,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -724,34 +724,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-019",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Is the syllable “me” open or closed?",
-    "audioPrompt": "Is the syllable “me” open or closed?",
+    "prompt": "Change the middle sound in pin to the middle sound in cat. What word is made? Why is “pan” the best answer?",
+    "audioPrompt": "Change the middle sound in pin to the middle sound in cat. What word is made? Why is “pan” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "open",
+        "text": "It is best only because it is longer than “pat”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Keeping the start and end of pin while using the middle sound in cat makes pan.",
         "is_correct": true
-      },
-      {
-        "text": "closed",
-        "is_correct": false
-      },
-      {
-        "text": "compound",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "Keeping the start and end of pin while using the middle sound in cat makes pan.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 19,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -764,34 +764,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-020",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Substitute /m/ in mat with /s/. What word do you make?",
-    "audioPrompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "prompt": "Which cue-word sequence shows the four spoken sounds in train? Why is “start of top, start of red, middle of day, end of sun” the best answer?",
+    "audioPrompt": "Which cue-word sequence shows the four spoken sounds in train? Why is “start of top, start of red, middle of day, end of sun” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "map",
-        "is_correct": false
-      },
-      {
-        "text": "meat",
-        "is_correct": false
-      },
-      {
-        "text": "sat",
+        "text": "Train has two separate starting sounds, followed by the long vowel in day and the final sound in sun.",
         "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “whole start of tree, middle of day, end of sun”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correctIndex": 2,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 0,
+    "explanation": "Train has two separate starting sounds, followed by the long vowel in day and the final sound in sun.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 20,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -804,34 +804,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-021",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Change “smile” by deleting /s/. What word is left?",
-    "audioPrompt": "Change “smile” by deleting /s/. What word is left?",
+    "prompt": "Remove the first sound from stop. Which word remains? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Remove the first sound from stop. Which word remains? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "small",
+        "text": "top",
         "is_correct": false
       },
       {
-        "text": "mile",
+        "text": "shop",
         "is_correct": true
       },
       {
-        "text": "slime",
+        "text": "step",
         "is_correct": false
       }
     ],
     "correctIndex": 1,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "explanation": "“shop” is the mix-up to avoid. After removing the first sound, blend from the sound at the start of top.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 21,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -844,34 +844,34 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-022",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "sound manipulation",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Which word begins with a three-sound blend?",
-    "audioPrompt": "Which word begins with a three-sound blend?",
+    "prompt": "Change the first sound in map to the sound heard at the start of top. What new word is made? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Change the first sound in map to the sound heard at the start of top. What new word is made? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "string",
+        "text": "tap",
+        "is_correct": false
+      },
+      {
+        "text": "tip",
+        "is_correct": false
+      },
+      {
+        "text": "mat",
         "is_correct": true
-      },
-      {
-        "text": "sing",
-        "is_correct": false
-      },
-      {
-        "text": "ring",
-        "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "correctIndex": 2,
+    "explanation": "“mat” is the mix-up to avoid. Change only the first sound and keep the middle and final sounds steady.",
+    "hint": "Use the clues in the question and check every choice.",
+    "difficulty": 3,
+    "difficultyTier": "stretch",
     "sequencePriority": 22,
     "responseType": "multiple_choice",
     "gradingMode": "auto",
@@ -884,80 +884,80 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly09-p-023",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "explain concept",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LY09. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY09. Use your own example.",
+    "prompt": "How many spoken sounds are in frog? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "How many spoken sounds are in frog? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "3",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "5",
         "is_correct": false
       }
     ],
     "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Manipulate Sounds in Words.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
+    "explanation": "“3” is the mix-up to avoid. Stretch the word and move one counter for each sound.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
     "difficultyTier": "stretch",
     "sequencePriority": 23,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Manipulate Sounds in Words.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-p-024",
     "curriculumCode": "AC9E2LY09",
     "bank": "practice",
-    "skill": "apply concept",
+    "skill": "manipulating_sounds_in_words",
     "printable": true,
     "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LY09, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LY09, then explain the answer.",
+    "prompt": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "chip",
+        "is_correct": false
+      },
+      {
+        "text": "shop",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "chop",
         "is_correct": false
       }
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
+    "correctIndex": 1,
+    "explanation": "“shop” is the mix-up to avoid. Change the first sound only, then blend the whole word again.",
+    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 3,
     "difficultyTier": "stretch",
     "sequencePriority": 24,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   }
 ];
