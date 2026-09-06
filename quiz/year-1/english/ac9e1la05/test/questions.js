@@ -1,14 +1,14 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e1la05-t-001",
+    "id": "ac9e1la05-er1-t-001",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "understand how print and screen texts are organised",
+    "skill": "print and screen organisation and navigation",
     "printable": true,
     "type": "single",
-    "question": "Zoe is looking at a text. Where would you look to find the name of a book?",
-    "audioPrompt": "Zoe is looking at a text. Where would you look to find the name of a book?",
+    "question": "A cover says 'Things That Fly'. What is its title helping the reader know?",
+    "audioPrompt": "A cover says 'Things That Fly'. What is its title helping the reader know?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,29 +16,61 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the last page",
-      "the cover",
-      "the page number"
+      "The book's broad subject.",
+      "The number of words on page 3.",
+      "The exact price of every book."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "A title signals what the book is likely to be about.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A title signals what the book is likely to be about.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la05-er1-t-002",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "printable": true,
+    "type": "single",
+    "question": "Contents: 'Wheels — 5; Engines — 9; Lights — 13.' Where does the engines section start?",
+    "audioPrompt": "Contents: 'Wheels — 5; Engines — 9; Lights — 13.' Where does the engines section start?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Page 13.",
+      "Page 9.",
+      "Page 5."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "the cover is the best answer.",
+    "explanation": "The engine entry pairs its topic with page 9.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "the cover is the best answer."
+      "summary": "The engine entry pairs its topic with page 9.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la05-t-002",
+    "id": "ac9e1la05-er1-t-003",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "understand how print and screen texts are organised",
+    "skill": "print and screen organisation and navigation",
     "printable": true,
     "type": "single",
-    "question": "Max is looking at a text. What does a heading tell you?",
-    "audioPrompt": "Max is looking at a text. What does a heading tell you?",
+    "question": "Which fact fits under the heading 'How Seeds Travel'?",
+    "audioPrompt": "Which fact fits under the heading 'How Seeds Travel'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,29 +78,92 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "who owns the book",
-      "what the part is about",
-      "how much it costs"
+      "Some leaves are broad and green.",
+      "Some pots are made of clay.",
+      "Some seeds are carried by the wind."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The heading asks for information about seed movement.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The heading asks for information about seed movement.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la05-er1-t-004",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "printable": true,
+    "type": "single",
+    "question": "A digital story has a 'Previous page' button. What should happen when you select it?",
+    "audioPrompt": "A digital story has a 'Previous page' button. What should happen when you select it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The page before this one appears.",
+      "The page after this one appears.",
+      "The story must start at the beginning."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Previous means the one before the current page.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Previous means the one before the current page.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la05-er1-t-005",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "printable": true,
+    "type": "single",
+    "question": "You are on page 14 and need page 15. Which way should you move?",
+    "audioPrompt": "You are on page 14 and need page 15. Which way should you move?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Back to page 1.",
+      "Forward one page.",
+      "Back one page."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "what the part is about is the best answer.",
+    "explanation": "The larger next page number comes after the current page.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "what the part is about is the best answer."
+      "summary": "The larger next page number comes after the current page.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la05-t-003",
+    "id": "ac9e1la05-er1-t-006",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "understand how print and screen texts are organised",
+    "skill": "print and screen organisation and navigation",
     "printable": true,
     "type": "single",
-    "question": "Mia is looking at a text. Which feature helps you find a page quickly?",
-    "audioPrompt": "Mia is looking at a text. Which feature helps you find a page quickly?",
+    "question": "A link says 'Watch how bread is made'. What is it likely to open?",
+    "audioPrompt": "A link says 'Watch how bread is made'. What is it likely to open?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -76,29 +171,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "picture border",
-      "full stop",
-      "contents page"
+      "A page listing animal homes.",
+      "A button that turns the sound off.",
+      "A video showing bread being made."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "contents page is the best answer.",
+    "explanation": "Watch and the topic together describe a video about the bread-making process.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "contents page is the best answer."
+      "summary": "Watch and the topic together describe a video about the bread-making process.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la05-t-004",
+    "id": "ac9e1la05-er1-t-007",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "understand how print and screen texts are organised",
+    "skill": "print and screen organisation and navigation",
     "printable": true,
     "type": "single",
-    "question": "Ben is looking at a text. What can you click to open another screen?",
-    "audioPrompt": "Ben is looking at a text. What can you click to open another screen?",
+    "question": "A screen instructs, 'Swipe up to see more of this page.' What action reveals the lower content?",
+    "audioPrompt": "A screen instructs, 'Swipe up to see more of this page.' What action reveals the lower content?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -106,59 +202,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a full stop",
-      "a capital letter",
-      "a link"
+      "Swipe up.",
+      "Swipe right to a new book.",
+      "Say close."
     ],
-    "correct": 2,
-    "explanation": "a link is the best answer.",
-    "structuredExplanation": {
-      "summary": "a link is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1la05-t-005",
-    "curriculumCode": "AC9E1LA05",
-    "bank": "test",
-    "skill": "understand how print and screen texts are organised",
-    "printable": true,
-    "type": "single",
-    "question": "Sam is looking at a text. Where is a page number usually found?",
-    "audioPrompt": "Sam is looking at a text. Where is a page number usually found?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "top or bottom of a page",
-      "in every sentence",
-      "inside a picture"
-    ],
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "top or bottom of a page is the best answer.",
+    "explanation": "Use the gesture specified by the screen to reveal more content.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "top or bottom of a page is the best answer."
+      "summary": "Use the gesture specified by the screen to reveal more content.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la05-t-006",
+    "id": "ac9e1la05-er1-t-008",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "understand how print and screen texts are organised",
+    "skill": "print and screen organisation and navigation",
     "printable": true,
     "type": "single",
-    "question": "Kim is looking at a text. What does a label beside a picture do?",
-    "audioPrompt": "Kim is looking at a text. What does a label beside a picture do?",
+    "question": "A talking story says, 'Say pause to stop for a moment.' Which command fits taking a short break?",
+    "audioPrompt": "A talking story says, 'Say pause to stop for a moment.' Which command fits taking a short break?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -166,119 +233,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "names a part",
-      "ends a question",
-      "starts a story"
+      "Start over.",
+      "Pause.",
+      "Faster."
     ],
-    "correct": 0,
-    "explanation": "names a part is the best answer.",
-    "structuredExplanation": {
-      "summary": "names a part is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1la05-t-007",
-    "curriculumCode": "AC9E1LA05",
-    "bank": "test",
-    "skill": "understand how print and screen texts are organised",
-    "printable": true,
-    "type": "single",
-    "question": "Ava is looking at a text. Which part often tells the author’s name?",
-    "audioPrompt": "Ava is looking at a text. Which part often tells the author’s name?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a page number",
-      "a speech bubble",
-      "the cover"
-    ],
-    "correct": 2,
-    "explanation": "the cover is the best answer.",
-    "structuredExplanation": {
-      "summary": "the cover is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1la05-t-008",
-    "curriculumCode": "AC9E1LA05",
-    "bank": "test",
-    "skill": "understand how print and screen texts are organised",
-    "printable": true,
-    "type": "single",
-    "question": "Leo is looking at a text. What helps you move down a screen?",
-    "audioPrompt": "Leo is looking at a text. What helps you move down a screen?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "question mark",
-      "book spine",
-      "scroll bar"
-    ],
-    "correct": 2,
-    "explanation": "scroll bar is the best answer.",
-    "structuredExplanation": {
-      "summary": "scroll bar is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1la05-t-009",
-    "curriculumCode": "AC9E1LA05",
-    "bank": "test",
-    "skill": "understand how print and screen texts are organised",
-    "printable": true,
-    "type": "single",
-    "question": "Max is looking at a text. Where would you look to find the name of a book?",
-    "audioPrompt": "Max is looking at a text. Where would you look to find the name of a book?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the page number",
-      "the cover",
-      "the last page"
-    ],
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "the cover is the best answer.",
+    "explanation": "Pause stops temporarily, matching the stated instruction.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "the cover is the best answer."
+      "summary": "Pause stops temporarily, matching the stated instruction.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la05-t-010",
+    "id": "ac9e1la05-er1-t-009",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "understand how print and screen texts are organised",
+    "skill": "print and screen organisation and navigation",
     "printable": true,
     "type": "single",
-    "question": "Mia is looking at a text. What does a heading tell you?",
-    "audioPrompt": "Mia is looking at a text. What does a heading tell you?",
+    "question": "A book titled 'Growing Vegetables' has a section 'Watering'. Which question would that section most likely answer?",
+    "audioPrompt": "A book titled 'Growing Vegetables' has a section 'Watering'. Which question would that section most likely answer?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +264,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "how much it costs",
-      "who owns the book",
-      "what the part is about"
+      "How do I repair a bicycle?",
+      "Who invented football?",
+      "How should I give the plants water?"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "what the part is about is the best answer.",
+    "explanation": "The heading identifies a specific part of the book's gardening topic.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "what the part is about is the best answer."
+      "summary": "The heading identifies a specific part of the book's gardening topic.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la05-t-011",
+    "id": "ac9e1la05-er1-t-010",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "understand how print and screen texts are organised",
+    "skill": "print and screen organisation and navigation",
     "printable": true,
     "type": "single",
-    "question": "Ben is looking at a text. Which feature helps you find a page quickly?",
-    "audioPrompt": "Ben is looking at a text. Which feature helps you find a page quickly?",
+    "question": "Contents: 'Baby Animals — 2; Shelters — 6; Tracks — 10.' You want to identify footprints. Where should you begin?",
+    "audioPrompt": "Contents: 'Baby Animals — 2; Shelters — 6; Tracks — 10.' You want to identify footprints. Where should you begin?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,89 +295,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "full stop",
-      "picture border",
-      "contents page"
+      "Tracks, page 10.",
+      "Shelters, page 6.",
+      "Baby Animals, page 2."
     ],
-    "correct": 2,
-    "explanation": "contents page is the best answer.",
-    "structuredExplanation": {
-      "summary": "contents page is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 11
-  },
-  {
-    "id": "ac9e1la05-t-012",
-    "curriculumCode": "AC9E1LA05",
-    "bank": "test",
-    "skill": "understand how print and screen texts are organised",
-    "printable": true,
-    "type": "single",
-    "question": "Sam is looking at a text. What can you click to open another screen?",
-    "audioPrompt": "Sam is looking at a text. What can you click to open another screen?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a full stop",
-      "a capital letter",
-      "a link"
-    ],
-    "correct": 2,
-    "explanation": "a link is the best answer.",
-    "structuredExplanation": {
-      "summary": "a link is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1la05-t-013",
-    "curriculumCode": "AC9E1LA05",
-    "bank": "test",
-    "skill": "understand how print and screen texts are organised",
-    "printable": true,
-    "type": "single",
-    "question": "Kim is looking at a text. Where is a page number usually found?",
-    "audioPrompt": "Kim is looking at a text. Where is a page number usually found?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "top or bottom of a page",
-      "inside a picture",
-      "in every sentence"
-    ],
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "top or bottom of a page is the best answer.",
+    "explanation": "Footprints are tracks, so that section matches the information needed.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "top or bottom of a page is the best answer."
+      "summary": "Footprints are tracks, so that section matches the information needed.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la05-t-014",
+    "id": "ac9e1la05-er1-t-011",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "understand how print and screen texts are organised",
+    "skill": "print and screen organisation and navigation",
     "printable": true,
     "type": "single",
-    "question": "Ava is looking at a text. What does a label beside a picture do?",
-    "audioPrompt": "Ava is looking at a text. What does a label beside a picture do?",
+    "question": "An e-book offers 'Return to library' and 'Read next page'. You want to choose a different book. Which fits?",
+    "audioPrompt": "An e-book offers 'Return to library' and 'Read next page'. You want to choose a different book. Which fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +326,92 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "names a part",
-      "starts a story",
-      "ends a question"
+      "Both only change the font.",
+      "Return to library.",
+      "Read next page."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "The library is where books can be selected; next page stays in this book.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The library is where books can be selected; next page stays in this book.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la05-er1-t-012",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "printable": true,
+    "type": "single",
+    "question": "A page shows a magnifying-glass image with the label 'Search this book'. What does this control help you do?",
+    "audioPrompt": "A page shows a magnifying-glass image with the label 'Search this book'. What does this control help you do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Turn every page into a larger picture.",
+      "Hear the whole book read aloud.",
+      "Find a word or topic in the book."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The label explains the search function of the symbol.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The label explains the search function of the symbol.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la05-er1-t-013",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "printable": true,
+    "type": "single",
+    "question": "A contents list says 'Clouds — 16'. You arrive at page 16, headed 'Clouds'. What confirms you found the intended section?",
+    "audioPrompt": "A contents list says 'Clouds — 16'. You arrive at page 16, headed 'Clouds'. What confirms you found the intended section?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Both the number and heading match.",
+      "The page uses a dark text colour.",
+      "The book has a cover."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "names a part is the best answer.",
+    "explanation": "Matching the page reference and topic heading confirms the location.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "names a part is the best answer."
+      "summary": "Matching the page reference and topic heading confirms the location.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la05-t-015",
+    "id": "ac9e1la05-er1-t-014",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "understand how print and screen texts are organised",
+    "skill": "print and screen organisation and navigation",
     "printable": true,
     "type": "single",
-    "question": "Leo is looking at a text. Which part often tells the author’s name?",
-    "audioPrompt": "Leo is looking at a text. Which part often tells the author’s name?",
+    "question": "You want to hear only the current page. A menu has 'Read this page', 'Read from start' and 'Mute'. Which option fits?",
+    "audioPrompt": "You want to hear only the current page. A menu has 'Read this page', 'Read from start' and 'Mute'. Which option fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +419,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a speech bubble",
-      "a page number",
-      "the cover"
+      "Mute.",
+      "Read this page.",
+      "Read from start."
     ],
-    "correct": 2,
-    "explanation": "the cover is the best answer.",
-    "structuredExplanation": {
-      "summary": "the cover is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 15
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Only the first label limits the spoken reading to the current page.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Only the first label limits the spoken reading to the current page.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la05-t-016",
+    "id": "ac9e1la05-er1-t-015",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "understand how print and screen texts are organised",
+    "skill": "print and screen organisation and navigation",
     "printable": true,
     "type": "single",
-    "question": "Zoe is looking at a text. What helps you move down a screen?",
-    "audioPrompt": "Zoe is looking at a text. What helps you move down a screen?",
+    "question": "A link is labelled 'Meet the author', but you want the next part of the story. Why is 'Next page' more useful?",
+    "audioPrompt": "A link is labelled 'Meet the author', but you want the next part of the story. Why is 'Next page' more useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,18 +450,52 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "book spine",
-      "question mark",
-      "scroll bar"
+      "It always shows the book's cover.",
+      "It changes who wrote the story.",
+      "It continues the story instead of opening author information."
     ],
-    "correct": 2,
-    "explanation": "scroll bar is the best answer.",
-    "structuredExplanation": {
-      "summary": "scroll bar is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 16
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "The labels describe different destinations, so choose the one matching the reading goal.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The labels describe different destinations, so choose the one matching the reading goal.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la05-er1-t-016",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "printable": true,
+    "type": "single",
+    "question": "A book has the title 'Our Coast' and headings 'Rock Pools', 'Sand Dunes' and 'Seabirds'. How does this organisation help?",
+    "audioPrompt": "A book has the title 'Our Coast' and headings 'Rock Pools', 'Sand Dunes' and 'Seabirds'. How does this organisation help?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It divides the coast topic into sections readers can find.",
+      "It puts every coastal event in time order.",
+      "It tells readers to read only the last page."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "Headings group related information within the broader title topic.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Headings group related information within the broader title topic.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

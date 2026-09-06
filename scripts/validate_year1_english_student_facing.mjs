@@ -31,10 +31,12 @@ for (const code of codes) {
   const items = JSON.parse(fs.readFileSync(bankFile,"utf8"));
   const practice = items.filter((item) => item.bank === "practice");
   const test = items.filter((item) => item.bank === "test");
-  if (practice.length !== 40) errors.push(`${code}: expected 40 practice questions, found ${practice.length}`);
+  const reviewed = items.every(item => item.review?.version === '20260906-english-review-1');
+  if (practice.length !== (reviewed ? 24 : 40)) errors.push(`${code}: unexpected practice bank size: ${practice.length}`);
   if (test.length !== 16) errors.push(`${code}: expected 16 test questions, found ${test.length}`);
-  const expected = [["recognise",0],["explain",10],["discriminate",20],["apply",30]];
-  for (const [stage,start] of expected) if (practice.slice(start,start+10).some((item) => item.stage !== stage)) errors.push(`${code}: ${stage} stage is not a 10-question block`);
+  const expected = reviewed ? [["recognise",0],["apply",8],["reason",16]] : [["recognise",0],["explain",10],["discriminate",20],["apply",30]];
+  const blockSize = reviewed ? 8 : 10;
+  for (const [stage,start] of expected) if (practice.slice(start,start+blockSize).some((item) => item.stage !== stage)) errors.push(`${code}: ${stage} stage has an invalid block`);
   for (const item of practice) {
     if (!Array.isArray(item.answers) || item.answers.length !== 3) errors.push(`${code}/${item.id}: practice item must have 3 answers`);
     if (item.answers?.filter((answer) => answer.is_correct).length !== 1) errors.push(`${code}/${item.id}: practice item must have exactly 1 correct answer`);
@@ -51,4 +53,4 @@ if (errors.length) {
   errors.forEach((error) => console.error(`- ${error}`));
   process.exit(1);
 }
-console.log(`Year 1 English student-facing validation: PASS (${codes.length} codes, ${codes.length*40} practice questions, ${codes.length*10} worksheet questions).`);
+console.log(`Year 1 English student-facing validation: PASS (${codes.length} codes, ${codes.length*10} worksheet questions).`);

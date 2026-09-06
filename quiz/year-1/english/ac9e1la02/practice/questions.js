@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la02-p-001",
+    "id": "ac9e1la02-er1-p-001",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "skill": "reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Mia likes painting. Which sentence gives a reason?",
-    "audioPrompt": "Mia likes painting. Which sentence gives a reason?",
+    "question": "'I like this soup because it warms me up.' Which part gives the reason?",
+    "audioPrompt": "'I like this soup because it warms me up.' Which part gives the reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Painting is here.",
-      "I like painting.",
-      "I like painting because it is fun."
+      "because it warms me up",
+      "I like this soup",
+      "this soup"
     ],
-    "correct": 2,
-    "explanation": "I like painting because it is fun. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like painting because it is fun. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1la02-p-002",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence tells a preference?",
-    "audioPrompt": "Which sentence tells a preference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I can do both.",
-      "I like swimming more than skipping.",
-      "Skipping is an activity."
-    ],
-    "correct": 1,
-    "explanation": "I like swimming more than skipping. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like swimming more than skipping. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1la02-p-003",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Sam does not like loud music. Which sentence explains why?",
-    "audioPrompt": "Sam does not like loud music. Which sentence explains why?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Music can be loud.",
-      "I dislike it because it hurts my ears.",
-      "I dislike it."
-    ],
-    "correct": 1,
-    "explanation": "I dislike it because it hurts my ears. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I dislike it because it hurts my ears. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1la02-p-004",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Finish the sentence: “I like the fox because …”",
-    "audioPrompt": "Finish the sentence: “I like the fox because …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the end.",
-      "it is gentle.",
-      "and because."
-    ],
-    "correct": 1,
-    "explanation": "it is gentle. is the best answer.",
-    "structuredExplanation": {
-      "summary": "it is gentle. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1la02-p-005",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which word can join a choice to its reason?",
-    "audioPrompt": "Which word can join a choice to its reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "then",
-      "because",
-      "under"
-    ],
-    "correct": 1,
-    "explanation": "because is the best answer.",
-    "structuredExplanation": {
-      "summary": "because is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1la02-p-006",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Leo chooses the red kite. What could Leo say?",
-    "audioPrompt": "Leo chooses the red kite. What could Leo say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Put down the kite.",
-      "Where is the kite?",
-      "I prefer the red kite."
-    ],
-    "correct": 2,
-    "explanation": "I prefer the red kite. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I prefer the red kite. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1la02-p-007",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which answer gives a clear reason for liking the camp?",
-    "audioPrompt": "Which answer gives a clear reason for liking the camp?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like the camp.",
-      "I like the camp because I can play there.",
-      "The camp is a place."
-    ],
-    "correct": 1,
-    "explanation": "I like the camp because I can play there. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like the camp because I can play there. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1la02-p-008",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Max likes apples, but likes pears more. What does Max prefer?",
-    "audioPrompt": "Max likes apples, but likes pears more. What does Max prefer?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "apples",
-      "pears",
-      "both the same"
-    ],
-    "correct": 1,
-    "explanation": "pears is the best answer.",
-    "structuredExplanation": {
-      "summary": "pears is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1la02-p-009",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Ben likes painting. Which sentence gives a reason?",
-    "audioPrompt": "Ben likes painting. Which sentence gives a reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like painting because it is fun.",
-      "I like painting.",
-      "Painting is here."
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "I like painting because it is fun. is the best answer.",
+    "explanation": "The reason explains why the speaker likes the soup.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I like painting because it is fun. is the best answer."
+      "summary": "The reason explains why the speaker likes the soup.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-002",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence gives a reason for disliking a jumper?",
+    "audioPrompt": "Which sentence gives a reason for disliking a jumper?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "This is the jumper I dislike.",
+      "I dislike it because it feels scratchy.",
+      "I dislike this jumper very much."
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Scratchy explains what makes the jumper unpleasant to wear.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Scratchy explains what makes the jumper unpleasant to wear.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-010",
+    "id": "ac9e1la02-er1-p-003",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "skill": "reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which sentence tells a preference?",
-    "audioPrompt": "Which sentence tells a preference?",
+    "question": "'I prefer the window seat because I can see outside.' What explains the choice?",
+    "audioPrompt": "'I prefer the window seat because I can see outside.' What explains the choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,809 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Skipping is an activity.",
-      "I can do both.",
-      "I like swimming more than skipping."
+      "Having a seat on the bus.",
+      "Knowing the seat is a seat.",
+      "Being able to see outside."
     ],
-    "correct": 2,
-    "explanation": "I like swimming more than skipping. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like swimming more than skipping. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
-  },
-  {
-    "id": "ac9e1la02-p-011",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Kim does not like loud music. Which sentence explains why?",
-    "audioPrompt": "Kim does not like loud music. Which sentence explains why?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I dislike it.",
-      "I dislike it because it hurts my ears.",
-      "Music can be loud."
-    ],
-    "correct": 1,
-    "explanation": "I dislike it because it hurts my ears. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I dislike it because it hurts my ears. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
-  },
-  {
-    "id": "ac9e1la02-p-012",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Finish the sentence: “I like the duck because …”",
-    "audioPrompt": "Finish the sentence: “I like the duck because …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "it is gentle.",
-      "the end.",
-      "and because."
-    ],
-    "correct": 0,
-    "explanation": "it is gentle. is the best answer.",
-    "structuredExplanation": {
-      "summary": "it is gentle. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1la02-p-013",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which word can join a choice to its reason?",
-    "audioPrompt": "Which word can join a choice to its reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "under",
-      "then",
-      "because"
-    ],
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "because is the best answer.",
+    "explanation": "The speaker connects the preference with the view.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "because is the best answer."
+      "summary": "The speaker connects the preference with the view.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-014",
+    "id": "ac9e1la02-er1-p-004",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "skill": "reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Zoe chooses the red hat. What could Zoe say?",
-    "audioPrompt": "Zoe chooses the red hat. What could Zoe say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Where is the hat?",
-      "I prefer the red hat.",
-      "Put down the hat."
-    ],
-    "correct": 1,
-    "explanation": "I prefer the red hat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I prefer the red hat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
-  },
-  {
-    "id": "ac9e1la02-p-015",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which answer gives a clear reason for liking the beach?",
-    "audioPrompt": "Which answer gives a clear reason for liking the beach?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like the beach because I can play there.",
-      "I like the beach.",
-      "The beach is a place."
-    ],
-    "correct": 0,
-    "explanation": "I like the beach because I can play there. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like the beach because I can play there. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
-  },
-  {
-    "id": "ac9e1la02-p-016",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Mia likes apples, but likes pears more. What does Mia prefer?",
-    "audioPrompt": "Mia likes apples, but likes pears more. What does Mia prefer?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "apples",
-      "both the same",
-      "pears"
-    ],
-    "correct": 2,
-    "explanation": "pears is the best answer.",
-    "structuredExplanation": {
-      "summary": "pears is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1la02-p-017",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Sam likes painting. Which sentence gives a reason?",
-    "audioPrompt": "Sam likes painting. Which sentence gives a reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like painting.",
-      "Painting is here.",
-      "I like painting because it is fun."
-    ],
-    "correct": 2,
-    "explanation": "I like painting because it is fun. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like painting because it is fun. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
-  },
-  {
-    "id": "ac9e1la02-p-018",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence tells a preference?",
-    "audioPrompt": "Which sentence tells a preference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like swimming more than skipping.",
-      "Skipping is an activity.",
-      "I can do both."
-    ],
-    "correct": 0,
-    "explanation": "I like swimming more than skipping. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like swimming more than skipping. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
-  },
-  {
-    "id": "ac9e1la02-p-019",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Ava does not like loud music. Which sentence explains why?",
-    "audioPrompt": "Ava does not like loud music. Which sentence explains why?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Music can be loud.",
-      "I dislike it because it hurts my ears.",
-      "I dislike it."
-    ],
-    "correct": 1,
-    "explanation": "I dislike it because it hurts my ears. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I dislike it because it hurts my ears. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
-  },
-  {
-    "id": "ac9e1la02-p-020",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Finish the sentence: “I like the goat because …”",
-    "audioPrompt": "Finish the sentence: “I like the goat because …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "it is gentle.",
-      "and because.",
-      "the end."
-    ],
-    "correct": 0,
-    "explanation": "it is gentle. is the best answer.",
-    "structuredExplanation": {
-      "summary": "it is gentle. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
-  },
-  {
-    "id": "ac9e1la02-p-021",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which word can join a choice to its reason?",
-    "audioPrompt": "Which word can join a choice to its reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "under",
-      "because",
-      "then"
-    ],
-    "correct": 1,
-    "explanation": "because is the best answer.",
-    "structuredExplanation": {
-      "summary": "because is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
-  },
-  {
-    "id": "ac9e1la02-p-022",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Max chooses the red book. What could Max say?",
-    "audioPrompt": "Max chooses the red book. What could Max say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Where is the book?",
-      "Put down the book.",
-      "I prefer the red book."
-    ],
-    "correct": 2,
-    "explanation": "I prefer the red book. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I prefer the red book. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
-  },
-  {
-    "id": "ac9e1la02-p-023",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which answer gives a clear reason for liking the park?",
-    "audioPrompt": "Which answer gives a clear reason for liking the park?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like the park.",
-      "I like the park because I can play there.",
-      "The park is a place."
-    ],
-    "correct": 1,
-    "explanation": "I like the park because I can play there. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like the park because I can play there. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1la02-p-024",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Ben likes apples, but likes pears more. What does Ben prefer?",
-    "audioPrompt": "Ben likes apples, but likes pears more. What does Ben prefer?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "apples",
-      "pears",
-      "both the same"
-    ],
-    "correct": 1,
-    "explanation": "pears is the best answer.",
-    "structuredExplanation": {
-      "summary": "pears is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1la02-p-025",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Kim likes painting. Which sentence gives a reason?",
-    "audioPrompt": "Kim likes painting. Which sentence gives a reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Painting is here.",
-      "I like painting.",
-      "I like painting because it is fun."
-    ],
-    "correct": 2,
-    "explanation": "I like painting because it is fun. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like painting because it is fun. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1la02-p-026",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which sentence tells a preference?",
-    "audioPrompt": "Read and choose: Which sentence tells a preference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I can do both.",
-      "I like swimming more than skipping.",
-      "Skipping is an activity."
-    ],
-    "correct": 1,
-    "explanation": "I like swimming more than skipping. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like swimming more than skipping. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1la02-p-027",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Leo does not like loud music. Which sentence explains why?",
-    "audioPrompt": "Leo does not like loud music. Which sentence explains why?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I dislike it.",
-      "Music can be loud.",
-      "I dislike it because it hurts my ears."
-    ],
-    "correct": 2,
-    "explanation": "I dislike it because it hurts my ears. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I dislike it because it hurts my ears. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1la02-p-028",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Finish the sentence: “I like the dog because …”",
-    "audioPrompt": "Finish the sentence: “I like the dog because …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "it is gentle.",
-      "and because.",
-      "the end."
-    ],
-    "correct": 0,
-    "explanation": "it is gentle. is the best answer.",
-    "structuredExplanation": {
-      "summary": "it is gentle. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
-  },
-  {
-    "id": "ac9e1la02-p-029",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word can join a choice to its reason?",
-    "audioPrompt": "Read and choose: Which word can join a choice to its reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "under",
-      "then",
-      "because"
-    ],
-    "correct": 2,
-    "explanation": "because is the best answer.",
-    "structuredExplanation": {
-      "summary": "because is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1la02-p-030",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Mia chooses the red sock. What could Mia say?",
-    "audioPrompt": "Mia chooses the red sock. What could Mia say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Where is the sock?",
-      "I prefer the red sock.",
-      "Put down the sock."
-    ],
-    "correct": 1,
-    "explanation": "I prefer the red sock. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I prefer the red sock. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
-  },
-  {
-    "id": "ac9e1la02-p-031",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which answer gives a clear reason for liking the pond?",
-    "audioPrompt": "Which answer gives a clear reason for liking the pond?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like the pond because I can play there.",
-      "The pond is a place.",
-      "I like the pond."
-    ],
-    "correct": 0,
-    "explanation": "I like the pond because I can play there. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like the pond because I can play there. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
-  },
-  {
-    "id": "ac9e1la02-p-032",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Sam likes apples, but likes pears more. What does Sam prefer?",
-    "audioPrompt": "Sam likes apples, but likes pears more. What does Sam prefer?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "apples",
-      "both the same",
-      "pears"
-    ],
-    "correct": 2,
-    "explanation": "pears is the best answer.",
-    "structuredExplanation": {
-      "summary": "pears is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1la02-p-033",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Ava likes painting. Which sentence gives a reason?",
-    "audioPrompt": "Ava likes painting. Which sentence gives a reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like painting.",
-      "I like painting because it is fun.",
-      "Painting is here."
-    ],
-    "correct": 1,
-    "explanation": "I like painting because it is fun. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like painting because it is fun. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
-  },
-  {
-    "id": "ac9e1la02-p-034",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which sentence tells a preference?",
-    "audioPrompt": "Read and choose: Which sentence tells a preference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like swimming more than skipping.",
-      "Skipping is an activity.",
-      "I can do both."
-    ],
-    "correct": 0,
-    "explanation": "I like swimming more than skipping. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like swimming more than skipping. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
-  },
-  {
-    "id": "ac9e1la02-p-035",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe does not like loud music. Which sentence explains why?",
-    "audioPrompt": "Zoe does not like loud music. Which sentence explains why?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Music can be loud.",
-      "I dislike it because it hurts my ears.",
-      "I dislike it."
-    ],
-    "correct": 1,
-    "explanation": "I dislike it because it hurts my ears. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I dislike it because it hurts my ears. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
-  },
-  {
-    "id": "ac9e1la02-p-036",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Finish the sentence: “I like the fox because …”",
-    "audioPrompt": "Finish the sentence: “I like the fox because …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "and because.",
-      "it is gentle.",
-      "the end."
-    ],
-    "correct": 1,
-    "explanation": "it is gentle. is the best answer.",
-    "structuredExplanation": {
-      "summary": "it is gentle. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1la02-p-037",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which word can join a choice to its reason?",
-    "audioPrompt": "Which word can join a choice to its reason?",
+    "question": "Which word joins a preference to its reason: 'I like pears ___ they are juicy'?",
+    "audioPrompt": "Which word joins a preference to its reason: 'I like pears ___ they are juicy'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,28 +110,29 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "because",
-      "then",
-      "under"
+      "before",
+      "although"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "because is the best answer.",
+    "explanation": "Because introduces an explanation for the preference.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "because is the best answer."
+      "summary": "Because introduces an explanation for the preference.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-038",
+    "id": "ac9e1la02-er1-p-005",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "skill": "reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Ben chooses the red bag. What could Ben say?",
-    "audioPrompt": "Ben chooses the red bag. What could Ben say?",
+    "question": "'I don't like loud music because it hurts my ears.' What is the dislike about?",
+    "audioPrompt": "'I don't like loud music because it hurts my ears.' What is the dislike about?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1126,29 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Put down the bag.",
-      "I prefer the red bag.",
-      "Where is the bag?"
+      "The music having no sound.",
+      "The music being too loud.",
+      "The music being too quiet."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "I prefer the red bag. is the best answer.",
+    "explanation": "The reason identifies loudness as the problem.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I prefer the red bag. is the best answer."
+      "summary": "The reason identifies loudness as the problem.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-039",
+    "id": "ac9e1la02-er1-p-006",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "skill": "reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which answer gives a clear reason for liking the farm?",
-    "audioPrompt": "Which answer gives a clear reason for liking the farm?",
+    "question": "Which sentence gives both a like and a reason?",
+    "audioPrompt": "Which sentence gives both a like and a reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1156,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The farm is a place.",
-      "I like the farm.",
-      "I like the farm because I can play there."
+      "Drawing happens after lunch.",
+      "I really, really like drawing.",
+      "I like drawing because I can make my own pictures."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "I like the farm because I can play there. is the best answer.",
+    "explanation": "Making original pictures explains why drawing is enjoyable.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I like the farm because I can play there. is the best answer."
+      "summary": "Making original pictures explains why drawing is enjoyable.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-040",
+    "id": "ac9e1la02-er1-p-007",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "skill": "reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Kim likes apples, but likes pears more. What does Kim prefer?",
-    "audioPrompt": "Kim likes apples, but likes pears more. What does Kim prefer?",
+    "question": "'I choose the soft cushion because it feels comfortable.' Which word describes the liked quality?",
+    "audioPrompt": "'I choose the soft cushion because it feels comfortable.' Which word describes the liked quality?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1186,119 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "apples",
-      "pears",
-      "both the same"
+      "comfortable",
+      "choose",
+      "cushion"
     ],
-    "correct": 1,
-    "explanation": "pears is the best answer.",
-    "structuredExplanation": {
-      "summary": "pears is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1la02-p-041",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Leo likes painting. Which sentence gives a reason?",
-    "audioPrompt": "Leo likes painting. Which sentence gives a reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Painting is here.",
-      "I like painting.",
-      "I like painting because it is fun."
-    ],
-    "correct": 2,
-    "explanation": "I like painting because it is fun. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like painting because it is fun. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la02-p-042",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence tells a preference?",
-    "audioPrompt": "Which sentence tells a preference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I can do both.",
-      "Skipping is an activity.",
-      "I like swimming more than skipping."
-    ],
-    "correct": 2,
-    "explanation": "I like swimming more than skipping. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like swimming more than skipping. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la02-p-043",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Max does not like loud music. Which sentence explains why?",
-    "audioPrompt": "Max does not like loud music. Which sentence explains why?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I dislike it because it hurts my ears.",
-      "Music can be loud.",
-      "I dislike it."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "I dislike it because it hurts my ears. is the best answer.",
+    "explanation": "Comfortable names the quality behind the preference.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I dislike it because it hurts my ears. is the best answer."
+      "summary": "Comfortable names the quality behind the preference.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-044",
+    "id": "ac9e1la02-er1-p-008",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "skill": "reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Finish the sentence: “I like the duck because …”",
-    "audioPrompt": "Finish the sentence: “I like the duck because …”",
+    "question": "Which words finish a clear reason: 'I like this puzzle because ___'?",
+    "audioPrompt": "Which words finish a clear reason: 'I like this puzzle because ___'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1306,119 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the end.",
-      "and because.",
-      "it is gentle."
+      "I like it very much",
+      "its tricky pieces make me think",
+      "it is the puzzle I like"
     ],
-    "correct": 2,
-    "explanation": "it is gentle. is the best answer.",
-    "structuredExplanation": {
-      "summary": "it is gentle. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la02-p-045",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word can join a choice to its reason?",
-    "audioPrompt": "Read and choose: Which word can join a choice to its reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "because",
-      "then",
-      "under"
-    ],
-    "correct": 0,
-    "explanation": "because is the best answer.",
-    "structuredExplanation": {
-      "summary": "because is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la02-p-046",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Sam chooses the red ball. What could Sam say?",
-    "audioPrompt": "Sam chooses the red ball. What could Sam say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Where is the ball?",
-      "Put down the ball.",
-      "I prefer the red ball."
-    ],
-    "correct": 2,
-    "explanation": "I prefer the red ball. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I prefer the red ball. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la02-p-047",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
-    "printable": true,
-    "type": "single",
-    "question": "Which answer gives a clear reason for liking the zoo?",
-    "audioPrompt": "Which answer gives a clear reason for liking the zoo?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The zoo is a place.",
-      "I like the zoo because I can play there.",
-      "I like the zoo."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "I like the zoo because I can play there. is the best answer.",
+    "explanation": "The challenge explains the liking; repeating like does not.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I like the zoo because I can play there. is the best answer."
+      "summary": "The challenge explains the liking; repeating like does not.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-048",
+    "id": "ac9e1la02-er1-p-009",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "skill": "reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Ava likes apples, but likes pears more. What does Ava prefer?",
-    "audioPrompt": "Ava likes apples, but likes pears more. What does Ava prefer?",
+    "question": "'I prefer boots to sandals on wet days.' Which reason supports this choice?",
+    "audioPrompt": "'I prefer boots to sandals on wet days.' Which reason supports this choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1426,18 +264,485 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "both the same",
-      "apples",
-      "pears"
+      "The sandals let water reach my toes.",
+      "I own both boots and sandals.",
+      "The boots keep my feet dry."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "pears is the best answer.",
+    "explanation": "Keeping feet dry explains choosing boots in wet weather.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "pears is the best answer."
+      "summary": "Keeping feet dry explains choosing boots in wet weather.",
+      "hint": "Read the whole example and check what the question asks."
     },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-010",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "A child likes quiet places to read. Which explanation fits choosing the small reading room?",
+    "audioPrompt": "A child likes quiet places to read. Which explanation fits choosing the small reading room?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I choose it because there is less noise.",
+      "I choose it because everyone shouts there.",
+      "I choose it because reading is a word."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "The reason needs to match the stated preference for quiet.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The reason needs to match the stated preference for quiet.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-011",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "'I like the blue bowl better than the red bowl because it holds more cereal.' What matters most in this reason?",
+    "audioPrompt": "'I like the blue bowl better than the red bowl because it holds more cereal.' What matters most in this reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Who washed the bowl.",
+      "How much the bowl holds.",
+      "Which colour is the brightest."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "The stated reason concerns capacity, not colour.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The stated reason concerns capacity, not colour.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-012",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "'I dislike the slide because it is too high for me.' Which reply keeps the same reason?",
+    "audioPrompt": "'I dislike the slide because it is too high for me.' Which reply keeps the same reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I don't enjoy it because it is too low.",
+      "I don't enjoy it because I dislike slides.",
+      "I don't enjoy it because its height worries me."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The revised sentence preserves the concern about height.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The revised sentence preserves the concern about height.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-013",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence improves 'I like this book' by adding a relevant reason?",
+    "audioPrompt": "Which sentence improves 'I like this book' by adding a relevant reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I like this book because the funny dog makes me laugh.",
+      "I like this book and this is a book.",
+      "I like this book because books are called books."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "The funny character gives a specific reason for enjoying it.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The funny character gives a specific reason for enjoying it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-014",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "A child prefers oranges for their tangy taste. Which sentence expresses that preference?",
+    "audioPrompt": "A child prefers oranges for their tangy taste. Which sentence expresses that preference?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I prefer oranges because my shoes are orange.",
+      "I prefer oranges because I enjoy their tangy taste.",
+      "I prefer oranges because I dislike tangy food."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The reason must match the taste the child enjoys.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The reason must match the taste the child enjoys.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-015",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "'I like rainy afternoons because I can splash in puddles.' Which activity is the reason?",
+    "audioPrompt": "'I like rainy afternoons because I can splash in puddles.' Which activity is the reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Waiting for the afternoon.",
+      "Looking at a dry path.",
+      "Splashing in puddles."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "The sentence links rainy afternoons to a liked activity.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The sentence links rainy afternoons to a liked activity.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-016",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence explains a dislike without being unkind to someone who likes the food?",
+    "audioPrompt": "Which sentence explains a dislike without being unkind to someone who likes the food?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I don't like olives because they taste too salty to me.",
+      "Olives are awful, and anyone who likes them is silly.",
+      "No one is allowed to like olives."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "The first sentence gives a personal reason without judging other people.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The first sentence gives a personal reason without judging other people.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-017",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "'I like this game because it is good.' Which revision gives a clearer reason?",
+    "audioPrompt": "'I like this game because it is good.' Which revision gives a clearer reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I like it because I like good games.",
+      "I like it because we solve clues together.",
+      "I like it because it is very good."
+    ],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Solving clues together names the particular feature being enjoyed.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Solving clues together names the particular feature being enjoyed.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-018",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "One child likes running because it is fast. Another likes walking because there is time to look at flowers. What explains their different choices?",
+    "audioPrompt": "One child likes running because it is fast. Another likes walking because there is time to look at flowers. What explains their different choices?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One child has not given a reason.",
+      "Both children want to move as fast as possible.",
+      "They enjoy different parts of being outdoors."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "Speed matters to one child; time to look around matters to the other.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Speed matters to one child; time to look around matters to the other.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-019",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "A child says, 'I prefer the smaller bag because it has room for more things.' You learn the bigger bag holds more. Which change makes the reason fit choosing the smaller bag?",
+    "audioPrompt": "A child says, 'I prefer the smaller bag because it has room for more things.' You learn the bigger bag holds more. Which change makes the reason fit choosing the smaller bag?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I prefer it because it is lighter to carry.",
+      "I prefer it because it holds the most things.",
+      "I prefer it because bigger bags hold less."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": 0,
+    "explanation": "A lighter load can support choosing a smaller bag; the original capacity claim did not fit.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A lighter load can support choosing a smaller bag; the original capacity claim did not fit.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-020",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "'I choose the apple because it is crisp.' 'The apple is in my lunchbox.' Which sentence explains the preference?",
+    "audioPrompt": "'I choose the apple because it is crisp.' 'The apple is in my lunchbox.' Which sentence explains the preference?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Both give the same reason for choosing it.",
+      "The first; it names a liked quality.",
+      "The second; location always explains a preference."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "Being crisp explains the choice; location alone does not state why it is preferred.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Being crisp explains the choice; location alone does not state why it is preferred.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-021",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "You dislike a game because waiting for a turn takes too long. Which change might address your reason?",
+    "audioPrompt": "You dislike a game because waiting for a turn takes too long. Which change might address your reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Make each player's turn longer.",
+      "Keep the waiting time the same.",
+      "Give each player a shorter turn."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Shorter turns reduce the waiting that caused the dislike.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Shorter turns reduce the waiting that caused the dislike.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-022",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "'I prefer the park because there is space to run.' Which detail would weaken that reason?",
+    "audioPrompt": "'I prefer the park because there is space to run.' Which detail would weaken that reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The running area is closed today.",
+      "The park has a wide open field.",
+      "The path leads to the open grass."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": 0,
+    "explanation": "A closed running area means the desired feature is unavailable.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A closed running area means the desired feature is unavailable.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-023",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Two children prefer the same song. One likes the gentle tune; the other likes the funny words. What can you say?",
+    "audioPrompt": "Two children prefer the same song. One likes the gentle tune; the other likes the funny words. What can you say?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Only one of the children has explained a preference.",
+      "The same preference can have different reasons.",
+      "They must enjoy exactly the same thing about it."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": 1,
+    "explanation": "Both give reasons, but they value different features.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Both give reasons, but they value different features.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-er1-p-024",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "A child wants a seat away from bright sunlight. Which sentence connects that need to a choice?",
+    "audioPrompt": "A child wants a seat away from bright sunlight. Which sentence connects that need to a choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I prefer the sunny seat because the sun shines straight on it.",
+      "I prefer any seat because all seats have the same light.",
+      "I prefer the shaded seat because the light is softer there."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": 2,
+    "explanation": "The reason links the shaded position with avoiding strong light.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The reason links the shaded position with avoiding strong light.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

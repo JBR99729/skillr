@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la04-p-001",
+    "id": "ac9e1la04-er1-p-001",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Which word rhymes with cat?",
-    "audioPrompt": "Which word rhymes with cat?",
+    "question": "Read the chant: 'Tap, tap, tap the drum.' Which word is repeated?",
+    "audioPrompt": "Read the chant: 'Tap, tap, tap the drum.' Which word is repeated?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,119 +16,92 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "bag",
-      "sun",
-      "hat"
-    ],
-    "correct": 2,
-    "explanation": "hat is the best answer.",
-    "structuredExplanation": {
-      "summary": "hat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1la04-p-002",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read: “I see a log by a frog.” Which words rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "log and see",
-      "log and frog",
-      "see and by"
-    ],
-    "correct": 1,
-    "explanation": "log and frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "log and frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1la04-p-003",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The hen can hop.",
-      "Sam makes muffins.",
-      "Sam sees a dog."
-    ],
-    "correct": 1,
-    "explanation": "Sam makes muffins. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Sam makes muffins. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1la04-p-004",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Clap the beat: “Run to the beach.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the beach.” Which word comes last?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "run",
-      "beach",
+      "tap",
+      "drum",
       "the"
     ],
-    "correct": 1,
-    "explanation": "beach is the best answer.",
-    "structuredExplanation": {
-      "summary": "beach is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 4
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Tap is said three times, creating a repeating sound pattern.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Tap is said three times, creating a repeating sound pattern.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-005",
+    "id": "ac9e1la04-er1-p-002",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Finish the rhyme: “I see a bee in a …”",
+    "question": "Read: 'A tiny snail / slid down the rail.' Which words rhyme at the line endings?",
+    "audioPrompt": "Read: 'A tiny snail / slid down the rail.' Which words rhyme at the line endings?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "slid and snail",
+      "snail and rail",
+      "tiny and down"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Snail and rail share the same ending sound and link the lines.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Snail and rail share the same ending sound and link the lines.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la04-er1-p-003",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "printable": true,
+    "type": "single",
+    "question": "'Clap your hands. Clap your hands. Turn around.' Which whole line repeats?",
+    "audioPrompt": "'Clap your hands. Clap your hands. Turn around.' Which whole line repeats?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Turn around.",
+      "Clap around.",
+      "Clap your hands."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The repeated line helps hold the chant together.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The repeated line helps hold the chant together.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la04-er1-p-004",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "printable": true,
+    "type": "single",
+    "question": "Finish the rhyme: 'The frog sat on a log / beside a sleepy ___.'",
+    "audioPrompt": "Finish the rhyme: 'The frog sat on a log / beside a sleepy ___.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,28 +110,153 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "dog",
+      "cat",
+      "hen"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Dog rhymes with log and makes sense as a sleepy animal.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Dog rhymes with log and makes sense as a sleepy animal.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la04-er1-p-005",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "printable": true,
+    "type": "single",
+    "question": "Read aloud: 'Run, run, run! / Fun, fun, fun!' What is repeated across both lines?",
+    "audioPrompt": "Read aloud: 'Run, run, run! / Fun, fun, fun!' What is repeated across both lines?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The same first letter in every word.",
+      "A one-syllable word three times.",
+      "A long sentence about a game."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Each line follows the same three-word beat pattern.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Each line follows the same three-word beat pattern.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la04-er1-p-006",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "printable": true,
+    "type": "single",
+    "question": "'We sail away, we sail away, / across the sparkling bay.' What links away and bay?",
+    "audioPrompt": "'We sail away, we sail away, / across the sparkling bay.' What links away and bay?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Their opposite meanings.",
+      "Their equal number of letters.",
+      "Their rhyming ending sounds."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Away and bay end with the same sound even though their lengths differ.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Away and bay end with the same sound even though their lengths differ.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la04-er1-p-007",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "printable": true,
+    "type": "single",
+    "question": "In 'Hop! Hop! Stop!' which word breaks the repeated word pattern?",
+    "audioPrompt": "In 'Hop! Hop! Stop!' which word breaks the repeated word pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Stop",
+      "Hop",
+      "Both words repeat equally."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Hop occurs twice, then stop changes the action and word.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Hop occurs twice, then stop changes the action and word.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la04-er1-p-008",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'The little bee / flew past a tree.' Which word completes the rhyming pair with bee?",
+    "audioPrompt": "Read: 'The little bee / flew past a tree.' Which word completes the rhyming pair with bee?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "little",
       "tree",
-      "box"
+      "past"
     ],
-    "correct": 1,
-    "explanation": "tree is the best answer.",
-    "structuredExplanation": {
-      "summary": "tree is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 5
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Bee and tree have the same ending sound.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Bee and tree have the same ending sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-006",
+    "id": "ac9e1la04-er1-p-009",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Which pair does not rhyme?",
-    "audioPrompt": "Which pair does not rhyme?",
+    "question": "Complete the line with a word that rhymes and makes sense: 'We put the boat afloat / and climbed aboard to ___.'",
+    "audioPrompt": "Complete the line with a word that rhymes and makes sense: 'We put the boat afloat / and climbed aboard to ___.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -166,29 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "kite – light",
-      "light – kite",
-      "light – cup"
+      "coat",
+      "goat",
+      "float"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "light – cup is the best answer.",
+    "explanation": "Float rhymes with afloat and fits what a boat can do; the other rhyming words do not fit the sentence.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "light – cup is the best answer."
+      "summary": "Float rhymes with afloat and fits what a boat can do; the other rhyming words do not fit the sentence.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-007",
+    "id": "ac9e1la04-er1-p-010",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
+    "question": "'Rain on the roof, rain on the street, / rain on the boots upon my feet.' Which word begins each repeated phrase?",
+    "audioPrompt": "'Rain on the roof, rain on the street, / rain on the boots upon my feet.' Which word begins each repeated phrase?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -196,89 +295,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "read",
-      "tap",
-      "aloud"
+      "rain",
+      "boots",
+      "feet"
     ],
-    "correct": 1,
-    "explanation": "tap is the best answer.",
-    "structuredExplanation": {
-      "summary": "tap is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1la04-p-008",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which line uses alliteration?",
-    "audioPrompt": "Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The snake is long.",
-      "Silly snakes slide.",
-      "I see two snakes."
-    ],
-    "correct": 1,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1la04-p-009",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which word rhymes with cat?",
-    "audioPrompt": "Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hat",
-      "sun",
-      "bag"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "hat is the best answer.",
+    "explanation": "Repeating rain connects the different places where rain falls.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "hat is the best answer."
+      "summary": "Repeating rain connects the different places where rain falls.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-010",
+    "id": "ac9e1la04-er1-p-011",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read: “I see a log by a frog.” Which words rhyme?",
+    "question": "A chant goes 'Step, step, clap. Step, step, clap.' Which ending keeps the same pattern?",
+    "audioPrompt": "A chant goes 'Step, step, clap. Step, step, clap.' Which ending keeps the same pattern?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,59 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "see and by",
-      "log and see",
-      "log and frog"
+      "Clap, step, step.",
+      "Step, step, clap.",
+      "Step, clap, clap."
     ],
-    "correct": 2,
-    "explanation": "log and frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "log and frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10
-  },
-  {
-    "id": "ac9e1la04-p-011",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Kim sees a dog.",
-      "Kim makes muffins.",
-      "The frog can hop."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Kim makes muffins. is the best answer.",
+    "explanation": "The same actions in the same order keep the repeated pattern.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Kim makes muffins. is the best answer."
+      "summary": "The same actions in the same order keep the repeated pattern.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-012",
+    "id": "ac9e1la04-er1-p-012",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Clap the beat: “Run to the park.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the park.” Which word comes last?",
+    "question": "'Our kite took flight / into the ___.' Choose a word that rhymes with flight and fits.",
+    "audioPrompt": "'Our kite took flight / into the ___.' Choose a word that rhymes with flight and fits.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "park",
-      "run",
-      "the"
+      "bright",
+      "lightly",
+      "night"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Night rhymes with flight and fits after into the; bright alone does not.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Night rhymes with flight and fits after into the; bright alone does not.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la04-er1-p-013",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "printable": true,
+    "type": "single",
+    "question": "Read aloud: 'Tap your feet / to the beat.' How do feet and beat help join the lines?",
+    "audioPrompt": "Read aloud: 'Tap your feet / to the beat.' How do feet and beat help join the lines?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Their matching end sounds create rhyme.",
+      "They mean exactly the same thing.",
+      "They are both repeated three times."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "park is the best answer.",
+    "explanation": "Rhyme connects different words by sound, not necessarily by meaning.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "park is the best answer."
+      "summary": "Rhyme connects different words by sound, not necessarily by meaning.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-013",
+    "id": "ac9e1la04-er1-p-014",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Finish the rhyme: “I see a bee in a …”",
+    "question": "'Round we go, round we go, / slowly through the falling snow.' Which phrase could the group easily join in saying again?",
+    "audioPrompt": "'Round we go, round we go, / slowly through the falling snow.' Which phrase could the group easily join in saying again?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -376,59 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "box",
-      "dog",
-      "tree"
+      "through the",
+      "Round we go",
+      "falling snow slowly"
     ],
-    "correct": 2,
-    "explanation": "tree is the best answer.",
-    "structuredExplanation": {
-      "summary": "tree is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
-  },
-  {
-    "id": "ac9e1la04-p-014",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which pair does not rhyme?",
-    "audioPrompt": "Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light – kite",
-      "light – cup",
-      "kite – light"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "light – cup is the best answer.",
+    "explanation": "The repeated phrase is predictable, making it easy to join in.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "light – cup is the best answer."
+      "summary": "The repeated phrase is predictable, making it easy to join in.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-015",
+    "id": "ac9e1la04-er1-p-015",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
+    "question": "A poem ends its lines with day, play and rain. Which ending does not join the same rhyme?",
+    "audioPrompt": "A poem ends its lines with day, play and rain. Which ending does not join the same rhyme?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +450,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "tap",
-      "read",
-      "aloud"
+      "day",
+      "play",
+      "rain"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Day and play rhyme; rain has a different ending sound.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Day and play rhyme; rain has a different ending sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la04-er1-p-016",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "printable": true,
+    "type": "single",
+    "question": "Say 'Stamp, stamp, clap' with one beat per word. Which line uses the same three-beat pattern?",
+    "audioPrompt": "Say 'Stamp, stamp, clap' with one beat per word. Which line uses the same three-beat pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Jump, jump, tap.",
+      "Jump and turn around.",
+      "Jump."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "tap is the best answer.",
+    "explanation": "Three short action words can follow the same three steady beats.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "tap is the best answer."
+      "summary": "Three short action words can follow the same three steady beats.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-016",
+    "id": "ac9e1la04-er1-p-017",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Which line uses alliteration?",
-    "audioPrompt": "Which line uses alliteration?",
+    "question": "Read: 'The moon shone bright / above the town.' A writer changes town to night. Does the new line make sense: 'above the night'?",
+    "audioPrompt": "Read: 'The moon shone bright / above the town.' A writer changes town to night. Does the new line make sense: 'above the night'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,29 +512,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The snake is long.",
-      "I see two snakes.",
-      "Silly snakes slide."
+      "It removes the rhyme from the poem.",
+      "It rhymes, but the meaning is less clear.",
+      "It keeps exactly the same meaning."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "A rhyming replacement still needs to fit the meaning of its sentence.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A rhyming replacement still needs to fit the meaning of its sentence.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la04-er1-p-018",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'Sway with me, sway with me, / like a branch upon a tree.' What do repetition and rhyme do together?",
+    "audioPrompt": "Read: 'Sway with me, sway with me, / like a branch upon a tree.' What do repetition and rhyme do together?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Give the exact height of the tree.",
+      "Turn the poem into a list of instructions for planting.",
+      "Make the lines sound connected and easy to join."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Silly snakes slide. is the best answer.",
+    "explanation": "The repeated phrase and me/tree rhyme create a shared sound pattern.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
+      "summary": "The repeated phrase and me/tree rhyme create a shared sound pattern.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-017",
+    "id": "ac9e1la04-er1-p-019",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Which word rhymes with cat?",
-    "audioPrompt": "Which word rhymes with cat?",
+    "question": "A song returns to 'Home we go' after each verse. Why might this help singers?",
+    "audioPrompt": "A song returns to 'Home we go' after each verse. Why might this help singers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,59 +574,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sun",
-      "bag",
-      "hat"
+      "They can recognise and join the returning line.",
+      "They never need to hear the other lines.",
+      "They must sing a different word every time."
     ],
-    "correct": 2,
-    "explanation": "hat is the best answer.",
-    "structuredExplanation": {
-      "summary": "hat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
-  },
-  {
-    "id": "ac9e1la04-p-018",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read: “I see a log by a frog.” Which words rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "log and frog",
-      "see and by",
-      "log and see"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "log and frog is the best answer.",
+    "explanation": "A returning line gives singers a familiar part to anticipate.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "log and frog is the best answer."
+      "summary": "A returning line gives singers a familiar part to anticipate.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-019",
+    "id": "ac9e1la04-er1-p-020",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
+    "question": "'Pat, pat, pat' is sung on three equal beats. Which replacement best keeps those beats?",
+    "audioPrompt": "'Pat, pat, pat' is sung on three equal beats. Which replacement best keeps those beats?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The fish can hop.",
-      "Ava makes muffins.",
-      "Ava sees a dog."
+      "Dig quickly and carefully.",
+      "Dig, dig, dig.",
+      "Digging in the garden."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Ava makes muffins. is the best answer.",
+    "explanation": "Three short repeated words fit the three equal beats.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Ava makes muffins. is the best answer."
+      "summary": "Three short repeated words fit the three equal beats.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-020",
+    "id": "ac9e1la04-er1-p-021",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Clap the beat: “Run to the pond.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the pond.” Which word comes last?",
+    "question": "A poem says, 'The cat wore a hat / and slept on a rug.' Which change adds a rhyme without changing the sleeping action?",
+    "audioPrompt": "A poem says, 'The cat wore a hat / and slept on a rug.' Which change adds a rhyme without changing the sleeping action?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "pond",
-      "the",
-      "run"
+      "Change slept to ran.",
+      "Change cat to dog.",
+      "Change rug to mat."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Mat rhymes with hat and still names something the cat can sleep on.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Mat rhymes with hat and still names something the cat can sleep on.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la04-er1-p-022",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "printable": true,
+    "type": "single",
+    "question": "Read: 'One small seed, one small seed, / sun and water are its need.' What does repeating one small seed keep our attention on?",
+    "audioPrompt": "Read: 'One small seed, one small seed, / sun and water are its need.' What does repeating one small seed keep our attention on?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The seed the poem is about.",
+      "The number of clouds in the sky.",
+      "A new character in every line."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "pond is the best answer.",
+    "explanation": "Repeating the phrase keeps the same subject in focus.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "pond is the best answer."
+      "summary": "Repeating the phrase keeps the same subject in focus.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-021",
+    "id": "ac9e1la04-er1-p-023",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Finish the rhyme: “I see a bee in a …”",
+    "question": "Two versions end 'the red sled' and 'the red wagon'. Which better keeps a rhyme with 'bed'?",
+    "audioPrompt": "Two versions end 'the red sled' and 'the red wagon'. Which better keeps a rhyme with 'bed'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "box",
-      "tree",
-      "dog"
+      "Both rhyme equally with bed.",
+      "the red sled",
+      "the red wagon"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "tree is the best answer.",
+    "explanation": "Sled shares bed's ending sound; wagon does not.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "tree is the best answer."
+      "summary": "Sled shares bed's ending sound; wagon does not.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-p-022",
+    "id": "ac9e1la04-er1-p-024",
     "curriculumCode": "AC9E1LA04",
     "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
     "printable": true,
     "type": "single",
-    "question": "Which pair does not rhyme?",
-    "audioPrompt": "Which pair does not rhyme?",
+    "question": "A chant repeats 'Up we climb' three times, then ends 'Down we slide!' What does the final change do?",
+    "audioPrompt": "A chant repeats 'Up we climb' three times, then ends 'Down we slide!' What does the final change do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,798 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "light – kite",
-      "kite – light",
-      "light – cup"
+      "Repeats exactly the same action again.",
+      "Makes all the earlier words rhyme.",
+      "Marks a change in the action after a familiar pattern."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "light – cup is the best answer.",
+    "explanation": "The repeated climbing prepares the listener to notice the contrasting final movement.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "light – cup is the best answer."
+      "summary": "The repeated climbing prepares the listener to notice the contrasting final movement.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
-  },
-  {
-    "id": "ac9e1la04-p-023",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read and choose: Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "read",
-      "tap",
-      "aloud"
-    ],
-    "correct": 1,
-    "explanation": "tap is the best answer.",
-    "structuredExplanation": {
-      "summary": "tap is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1la04-p-024",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which line uses alliteration?",
-    "audioPrompt": "Read and choose: Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The snake is long.",
-      "Silly snakes slide.",
-      "I see two snakes."
-    ],
-    "correct": 1,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1la04-p-025",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word rhymes with cat?",
-    "audioPrompt": "Read and choose: Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bag",
-      "sun",
-      "hat"
-    ],
-    "correct": 2,
-    "explanation": "hat is the best answer.",
-    "structuredExplanation": {
-      "summary": "hat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1la04-p-026",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "log and see",
-      "log and frog",
-      "see and by"
-    ],
-    "correct": 1,
-    "explanation": "log and frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "log and frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1la04-p-027",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Leo sees a dog.",
-      "The cat can hop.",
-      "Leo makes muffins."
-    ],
-    "correct": 2,
-    "explanation": "Leo makes muffins. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Leo makes muffins. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1la04-p-028",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Clap the beat: “Run to the farm.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the farm.” Which word comes last?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "farm",
-      "the",
-      "run"
-    ],
-    "correct": 0,
-    "explanation": "farm is the best answer.",
-    "structuredExplanation": {
-      "summary": "farm is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
-  },
-  {
-    "id": "ac9e1la04-p-029",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Read and choose: Finish the rhyme: “I see a bee in a …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "box",
-      "dog",
-      "tree"
-    ],
-    "correct": 2,
-    "explanation": "tree is the best answer.",
-    "structuredExplanation": {
-      "summary": "tree is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1la04-p-030",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which pair does not rhyme?",
-    "audioPrompt": "Read and choose: Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light – kite",
-      "light – cup",
-      "kite – light"
-    ],
-    "correct": 1,
-    "explanation": "light – cup is the best answer.",
-    "structuredExplanation": {
-      "summary": "light – cup is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
-  },
-  {
-    "id": "ac9e1la04-p-031",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tap",
-      "aloud",
-      "read"
-    ],
-    "correct": 0,
-    "explanation": "tap is the best answer.",
-    "structuredExplanation": {
-      "summary": "tap is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
-  },
-  {
-    "id": "ac9e1la04-p-032",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which line uses alliteration?",
-    "audioPrompt": "Read and choose: Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The snake is long.",
-      "I see two snakes.",
-      "Silly snakes slide."
-    ],
-    "correct": 2,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1la04-p-033",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which word rhymes with cat?",
-    "audioPrompt": "Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sun",
-      "hat",
-      "bag"
-    ],
-    "correct": 1,
-    "explanation": "hat is the best answer.",
-    "structuredExplanation": {
-      "summary": "hat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
-  },
-  {
-    "id": "ac9e1la04-p-034",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "log and frog",
-      "see and by",
-      "log and see"
-    ],
-    "correct": 0,
-    "explanation": "log and frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "log and frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
-  },
-  {
-    "id": "ac9e1la04-p-035",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The hen can hop.",
-      "Zoe makes muffins.",
-      "Zoe sees a dog."
-    ],
-    "correct": 1,
-    "explanation": "Zoe makes muffins. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Zoe makes muffins. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
-  },
-  {
-    "id": "ac9e1la04-p-036",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Clap the beat: “Run to the zoo.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the zoo.” Which word comes last?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the",
-      "zoo",
-      "run"
-    ],
-    "correct": 1,
-    "explanation": "zoo is the best answer.",
-    "structuredExplanation": {
-      "summary": "zoo is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1la04-p-037",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Finish the rhyme: “I see a bee in a …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tree",
-      "dog",
-      "box"
-    ],
-    "correct": 0,
-    "explanation": "tree is the best answer.",
-    "structuredExplanation": {
-      "summary": "tree is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1la04-p-038",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which pair does not rhyme?",
-    "audioPrompt": "Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "kite – light",
-      "light – cup",
-      "light – kite"
-    ],
-    "correct": 1,
-    "explanation": "light – cup is the best answer.",
-    "structuredExplanation": {
-      "summary": "light – cup is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1la04-p-039",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "aloud",
-      "read",
-      "tap"
-    ],
-    "correct": 2,
-    "explanation": "tap is the best answer.",
-    "structuredExplanation": {
-      "summary": "tap is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1la04-p-040",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which line uses alliteration?",
-    "audioPrompt": "Look and choose: Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The snake is long.",
-      "Silly snakes slide.",
-      "I see two snakes."
-    ],
-    "correct": 1,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1la04-p-041",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which word rhymes with cat?",
-    "audioPrompt": "Look and choose: Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bag",
-      "sun",
-      "hat"
-    ],
-    "correct": 2,
-    "explanation": "hat is the best answer.",
-    "structuredExplanation": {
-      "summary": "hat is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la04-p-042",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read: “I see a log by a frog.” Which words rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "log and see",
-      "see and by",
-      "log and frog"
-    ],
-    "correct": 2,
-    "explanation": "log and frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "log and frog is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la04-p-043",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Max makes muffins.",
-      "The frog can hop.",
-      "Max sees a dog."
-    ],
-    "correct": 0,
-    "explanation": "Max makes muffins. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Max makes muffins. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la04-p-044",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Clap the beat: “Run to the school.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the school.” Which word comes last?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "run",
-      "the",
-      "school"
-    ],
-    "correct": 2,
-    "explanation": "school is the best answer.",
-    "structuredExplanation": {
-      "summary": "school is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la04-p-045",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Read and choose: Finish the rhyme: “I see a bee in a …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tree",
-      "dog",
-      "box"
-    ],
-    "correct": 0,
-    "explanation": "tree is the best answer.",
-    "structuredExplanation": {
-      "summary": "tree is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la04-p-046",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which pair does not rhyme?",
-    "audioPrompt": "Read and choose: Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light – kite",
-      "kite – light",
-      "light – cup"
-    ],
-    "correct": 2,
-    "explanation": "light – cup is the best answer.",
-    "structuredExplanation": {
-      "summary": "light – cup is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la04-p-047",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "aloud",
-      "tap",
-      "read"
-    ],
-    "correct": 1,
-    "explanation": "tap is the best answer.",
-    "structuredExplanation": {
-      "summary": "tap is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la04-p-048",
-    "curriculumCode": "AC9E1LA04",
-    "bank": "practice",
-    "skill": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
-    "printable": true,
-    "type": "single",
-    "question": "Which line uses alliteration?",
-    "audioPrompt": "Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I see two snakes.",
-      "The snake is long.",
-      "Silly snakes slide."
-    ],
-    "correct": 2,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
