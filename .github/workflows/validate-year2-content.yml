@@ -87,6 +87,7 @@ jobs:
             node scripts/validate_production_question_bank.mjs "$bank"
           done
           python scripts/validate_year2_english_all_review.py
+          node scripts/validate_year2_english_adult_fix.cjs
       - name: Check content validation regressions
         run: node --test scripts/tests/content-validation.test.mjs
       - name: Validate unit and worksheet counts

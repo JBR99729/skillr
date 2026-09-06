@@ -849,29 +849,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept a clear rewrite using they for kittens and it for box, or another unambiguous cohesive wording that preserves both actions.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept a clear rewrite using they for kittens and it for box, or another unambiguous cohesive wording that preserves both actions.",
+    "acceptance_note": "Accept a clear rewrite using they for kittens and it for box, or another unambiguous cohesive wording that preserves both actions.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA04-P-024",
@@ -887,29 +880,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept the restored meaning and an explanation referring to the context provided by the question.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept the restored meaning and an explanation referring to the context provided by the question.",
+    "acceptance_note": "Accept the restored meaning and an explanation referring to the context provided by the question.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA04-T-001",
@@ -1457,29 +1443,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept a clear version using it for robot and them for tools, with both original actions preserved.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept a clear version using it for robot and them for tools, with both original actions preserved.",
+    "acceptance_note": "Accept a clear version using it for robot and them for tools, with both original actions preserved.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA04-T-016",
@@ -1495,28 +1474,21 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept a complete meaning and a reference to the question as the source of the omitted words.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept a complete meaning and a reference to the question as the source of the omitted words.",
+    "acceptance_note": "Accept a complete meaning and a reference to the question as the source of the omitted words.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   }
 ]

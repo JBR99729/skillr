@@ -849,29 +849,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept successful navigation using an actual book. If none is available, the adult may make three numbered paper sections with a contents list; do not award completion for naming a feature only.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept successful navigation using an actual book. If none is available, the adult may make three numbered paper sections with a contents list; do not award completion for naming a feature only.",
+    "acceptance_note": "Accept successful navigation using an actual book. If none is available, the adult may make three numbered paper sections with a contents list; do not award completion for naming a feature only.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA05-P-024",
@@ -887,29 +880,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept a demonstrated route with explanation of the selected labels. A prepared paper interface is valid if the child actually follows its labelled choices.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept a demonstrated route with explanation of the selected labels. A prepared paper interface is valid if the child actually follows its labelled choices.",
+    "acceptance_note": "Accept a demonstrated route with explanation of the selected labels. A prepared paper interface is valid if the child actually follows its labelled choices.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA05-T-001",
@@ -1457,29 +1443,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept a real book or an adult-prepared numbered paper text with an index. Require demonstrated use, not a memorised definition.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept a real book or an adult-prepared numbered paper text with an index. Require demonstrated use, not a memorised definition.",
+    "acceptance_note": "Accept a real book or an adult-prepared numbered paper text with an index. Require demonstrated use, not a memorised definition.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA05-T-016",
@@ -1495,28 +1474,21 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept successful navigation and checking. Do not require typing credentials, downloading files or visiting unfamiliar sites.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept successful navigation and checking. Do not require typing credentials, downloading files or visiting unfamiliar sites.",
+    "acceptance_note": "Accept successful navigation and checking. Do not require typing credentials, downloading files or visiting unfamiliar sites.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   }
 ]

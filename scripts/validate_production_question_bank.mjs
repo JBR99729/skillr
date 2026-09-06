@@ -28,6 +28,11 @@ for (const [index, item] of items.entries()) {
   ].join("|");
   if (prompts.has(promptKey)) errors.push(`${where}: duplicate prompt with ${prompts.get(promptKey)}`);
   prompts.set(promptKey, where);
+  const adultReview = item.grading_mode === "adult-review";
+  if (adultReview) {
+    if (!Array.isArray(item.answers) || item.answers.length || item.correct_index !== null) errors.push(`${where}: adult task must have no answer choices or correct index`);
+    if (!["model_answer", "acceptance_note", "response_instructions"].every(k => item[k])) errors.push(`${where}: incomplete adult review guidance`);
+  } else {
   if (!Array.isArray(item.answers) || item.answers.length !== answerCount) errors.push(`${where}: ${item.year_level} item must have exactly ${answerCount} answers`);
   if (item.audio_answers !== undefined && (!Array.isArray(item.audio_answers) || item.audio_answers.length !== item.answers?.length || item.audio_answers.some((answer) => !String(answer).trim()))) errors.push(`${where}: audio_answers must describe every visible answer`);
   if (new Set((item.answers || []).map((answer) => String(answer.text).replace(/\s+/g, " ").trim())).size !== (item.answers || []).length) errors.push(`${where}: duplicate answer choices`);
@@ -36,13 +41,14 @@ for (const [index, item] of items.entries()) {
   if (!Number.isInteger(item.correct_index) || item.correct_index < 0 || item.correct_index >= answerCount) errors.push(`${where}: invalid correct_index`);
   if (item.answers?.[item.correct_index]?.is_correct !== true) errors.push(`${where}: correct_index does not match answers`);
   if ((item.answers || []).some((answer) => !String(answer.text).trim() || filler.test(answer.text))) errors.push(`${where}: empty or filler answer`);
+  }
   if (!item.explanation?.summary || !item.explanation?.hint) errors.push(`${where}: incomplete two-part explanation`);
   if (item.audio_prompt !== item.question) errors.push(`${where}: audio_prompt must match visible prompt for system TTS`);
   if (!item.visual || !["svg", "none"].includes(item.visual.type)) errors.push(`${where}: invalid visual type`);
   if (item.visual?.type === "svg" && (!item.visual.asset_path || !item.visual.alt_text)) errors.push(`${where}: SVG requires asset_path and alt_text`);
   const key = `${item.curriculum_code}|${item.bank}`;
   distributions[key] ||= Array(answerCount).fill(0);
-  distributions[key][item.correct_index] += 1;
+  if (!adultReview) distributions[key][item.correct_index] += 1;
   bankCounts[item.curriculum_code] ||= { practice: 0, test: 0 };
   if (item.bank === "practice" || item.bank === "test") bankCounts[item.curriculum_code][item.bank] += 1;
 }

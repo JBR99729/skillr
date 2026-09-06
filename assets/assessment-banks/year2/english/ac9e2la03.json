@@ -849,29 +849,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept a relevant heading and sensible ordered actions; the child should explain that the sequence helps someone do the task.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept a relevant heading and sensible ordered actions; the child should explain that the sequence helps someone do the task.",
+    "acceptance_note": "Accept a relevant heading and sensible ordered actions; the child should explain that the sequence helps someone do the task.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA03-P-024",
@@ -887,29 +880,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept two accurate differences linked to the texts' purposes, not only cover colour or length.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept two accurate differences linked to the texts' purposes, not only cover colour or length.",
+    "acceptance_note": "Accept two accurate differences linked to the texts' purposes, not only cover colour or length.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA03-T-001",
@@ -1457,29 +1443,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept two distinct, relevant categories with matching information and an explanation that headings group facts.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept two distinct, relevant categories with matching information and an explanation that headings group facts.",
+    "acceptance_note": "Accept two distinct, relevant categories with matching information and an explanation that headings group facts.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA03-T-016",
@@ -1495,28 +1474,21 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept a purpose-linked comparison including useful invitation details and sequencing of completed events.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept a purpose-linked comparison including useful invitation details and sequencing of completed events.",
+    "acceptance_note": "Accept a purpose-linked comparison including useful invitation details and sequencing of completed events.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   }
 ]

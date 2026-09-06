@@ -23,9 +23,13 @@ for code in codes:
         ids={q['id'].lower() for q in data if q['bank']==bank}
         if {q['id'] for q in arr}!=ids: bad.append(f'id parity {file}')
     for q in data:
-        if len(q.get('answers',[]))!=3 or sum(1 for a in q['answers'] if a.get('is_correct'))!=1: bad.append(f'answers {q.get("id")}')
-        if q['answers'][q['correct_index']]['is_correct'] is not True: bad.append(f'correct index {q["id"]}')
-        if q.get('response_type')=='adult_review' and not q.get('acceptance_note'): bad.append(f'adult note {q["id"]}')
+        if q.get('grading_mode') == 'adult-review':
+            if q.get('answers') != [] or q.get('correct_index') is not None: bad.append(f'adult task has choices {q["id"]}')
+            if not all(q.get(k) for k in ['model_answer','acceptance_note','response_instructions']): bad.append(f'adult guidance {q["id"]}')
+        else:
+            if len(q.get('answers',[]))!=3 or sum(1 for a in q['answers'] if a.get('is_correct'))!=1: bad.append(f'answers {q.get("id")}')
+            if q['answers'][q['correct_index']]['is_correct'] is not True: bad.append(f'correct index {q["id"]}')
+            if any(a.get('text') in ['Adult review required','Response not yet reviewed','Revise with an adult'] for a in q.get('answers',[])): bad.append(f'review status used as answer {q["id"]}')
     for required in [quiz/code/'index.html',quiz/code/'practice/index.html',quiz/code/'test/index.html',quiz/code/'practice/review/index.html',quiz/code/'test/review/index.html',quiz/code/'practice/result/index.html',quiz/code/'test/result/index.html']:
         if not required.exists(): bad.append(f'missing page {required}')
     for html in (quiz/code).rglob('*.html'):

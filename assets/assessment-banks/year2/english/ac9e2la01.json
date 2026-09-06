@@ -849,29 +849,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept two understandable, respectful requests and a sensible explanation about listener familiarity, wording or tone. Do not require formal wording in every adult interaction.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept two understandable, respectful requests and a sensible explanation about listener familiarity, wording or tone. Do not require formal wording in every adult interaction.",
+    "acceptance_note": "Accept two understandable, respectful requests and a sensible explanation about listener familiarity, wording or tone. Do not require formal wording in every adult interaction.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA01-P-024",
@@ -887,29 +880,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept role-appropriate contributions that address sharing. The child should show how their words fit leading or participating, rather than merely repeat an identical line.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept role-appropriate contributions that address sharing. The child should show how their words fit leading or participating, rather than merely repeat an identical line.",
+    "acceptance_note": "Accept role-appropriate contributions that address sharing. The child should show how their words fit leading or participating, rather than merely repeat an identical line.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA01-T-001",
@@ -1457,29 +1443,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept a considerate help request and a helpful explanation suited to the younger listener. Ask the child to explain the difference in their roles.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept a considerate help request and a helpful explanation suited to the younger listener. Ask the child to explain the difference in their roles.",
+    "acceptance_note": "Accept a considerate help request and a helpful explanation suited to the younger listener. Ask the child to explain the difference in their roles.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA01-T-016",
@@ -1495,28 +1474,21 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept two suitable greetings and an explanation linked to audience, relationship or hosting role. Accent and home-language differences are not errors.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept two suitable greetings and an explanation linked to audience, relationship or hosting role. Accent and home-language differences are not errors.",
+    "acceptance_note": "Accept two suitable greetings and an explanation linked to audience, relationship or hosting role. Accent and home-language differences are not errors.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   }
 ]

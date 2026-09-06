@@ -4,640 +4,502 @@ window.skillrTestQuestions = [
     "id": "ac9e2la02-t-001",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: 'Round and round the leaves all go, twirling high and drifting low.' Which response explains enjoyment?",
+    "type": "single",
+    "question": "Read: 'Round and round the leaves all go, twirling high and drifting low.' Which response explains enjoyment?",
     "audioPrompt": "Read: 'Round and round the leaves all go, twirling high and drifting low.' Which response explains enjoyment?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "I like the movement words because I can imagine the leaves dancing.",
-        "is_correct": true
-      },
-      {
-        "text": "I like the instructions for planting a tree.",
-        "is_correct": false
-      },
-      {
-        "text": "I like the facts about a leaf's roots.",
-        "is_correct": false
-      }
+      "I like the movement words because I can imagine the leaves dancing.",
+      "I like the instructions for planting a tree.",
+      "I like the facts about a leaf's roots."
     ],
-    "correctIndex": 0,
-    "explanation": "The reader connects appreciation to the movement language actually present.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 1,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The reader connects appreciation to the movement language actually present.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "The reader connects appreciation to the movement language actually present.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-002",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: 'Bo gave up his seat so the tired traveller could rest.' Which reason supports liking Bo?",
+    "type": "single",
+    "question": "Read: 'Bo gave up his seat so the tired traveller could rest.' Which reason supports liking Bo?",
     "audioPrompt": "Read: 'Bo gave up his seat so the tired traveller could rest.' Which reason supports liking Bo?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "He is the fastest runner in the story.",
-        "is_correct": false
-      },
-      {
-        "text": "He notices another person's need and helps.",
-        "is_correct": true
-      },
-      {
-        "text": "He tells the funniest joke.",
-        "is_correct": false
-      }
+      "He is the fastest runner in the story.",
+      "He notices another person's need and helps.",
+      "He tells the funniest joke."
     ],
-    "correctIndex": 1,
-    "explanation": "The helpful action supports appreciation of Bo's thoughtfulness.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 2,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The helpful action supports appreciation of Bo's thoughtfulness.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "The helpful action supports appreciation of Bo's thoughtfulness.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-003",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "A reader wants a word meaning 'full of exciting action'. Which response fits?",
+    "type": "single",
+    "question": "A reader wants a word meaning 'full of exciting action'. Which response fits?",
     "audioPrompt": "A reader wants a word meaning 'full of exciting action'. Which response fits?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The rescue story was dull.",
-        "is_correct": false
-      },
-      {
-        "text": "The rescue story was peaceful.",
-        "is_correct": false
-      },
-      {
-        "text": "The rescue story was thrilling.",
-        "is_correct": true
-      }
+      "The rescue story was dull.",
+      "The rescue story was peaceful.",
+      "The rescue story was thrilling."
     ],
-    "correctIndex": 2,
-    "explanation": "Thrilling expresses excitement; dull and peaceful do not match this intended response.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 3,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Thrilling expresses excitement; dull and peaceful do not match this intended response.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "Thrilling expresses excitement; dull and peaceful do not match this intended response.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-004",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Which response explains a preference for an audio version of a poem?",
+    "type": "single",
+    "question": "Which response explains a preference for an audio version of a poem?",
     "audioPrompt": "Which response explains a preference for an audio version of a poem?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "I could hear the rhythm clearly when it was read aloud.",
-        "is_correct": true
-      },
-      {
-        "text": "The file was stored in a folder.",
-        "is_correct": false
-      },
-      {
-        "text": "The poem existed before I listened.",
-        "is_correct": false
-      }
+      "I could hear the rhythm clearly when it was read aloud.",
+      "The file was stored in a folder.",
+      "The poem existed before I listened."
     ],
-    "correctIndex": 0,
-    "explanation": "The response relates the format to a feature the listener appreciates.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 4,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The response relates the format to a feature the listener appreciates.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "The response relates the format to a feature the listener appreciates.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-005",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "A reader dislikes an ending because the main problem is left unanswered. Which comment explains this?",
+    "type": "single",
+    "question": "A reader dislikes an ending because the main problem is left unanswered. Which comment explains this?",
     "audioPrompt": "A reader dislikes an ending because the main problem is left unanswered. Which comment explains this?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The book is wrong because I dislike it.",
-        "is_correct": false
-      },
-      {
-        "text": "I wanted to know whether the lost child got home, but the story stopped.",
-        "is_correct": true
-      },
-      {
-        "text": "The writer should never write again.",
-        "is_correct": false
-      }
+      "The book is wrong because I dislike it.",
+      "I wanted to know whether the lost child got home, but the story stopped.",
+      "The writer should never write again."
     ],
-    "correctIndex": 1,
-    "explanation": "The response identifies the unresolved question and its effect on the reader.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 5,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The response identifies the unresolved question and its effect on the reader.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "The response identifies the unresolved question and its effect on the reader.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-006",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One reader likes a long description; another prefers the action. What can both readers do?",
+    "type": "single",
+    "question": "One reader likes a long description; another prefers the action. What can both readers do?",
     "audioPrompt": "One reader likes a long description; another prefers the action. What can both readers do?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Agree that only action belongs in stories.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose an opinion without discussing the text.",
-        "is_correct": false
-      },
-      {
-        "text": "Give a text detail that explains their own preference.",
-        "is_correct": true
-      }
+      "Agree that only action belongs in stories.",
+      "Choose an opinion without discussing the text.",
+      "Give a text detail that explains their own preference."
     ],
-    "correctIndex": 2,
-    "explanation": "Different preferences can each be explained through text evidence.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 6,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Different preferences can each be explained through text evidence.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "Different preferences can each be explained through text evidence.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-007",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Which line best supports 'I enjoyed the magical setting'?",
+    "type": "single",
+    "question": "Which line best supports 'I enjoyed the magical setting'?",
     "audioPrompt": "Which line best supports 'I enjoyed the magical setting'?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Tiny stars grew on the branches like fruit.",
-        "is_correct": true
-      },
-      {
-        "text": "The fence was painted last week.",
-        "is_correct": false
-      },
-      {
-        "text": "A sign showed the park's opening times.",
-        "is_correct": false
-      }
+      "Tiny stars grew on the branches like fruit.",
+      "The fence was painted last week.",
+      "A sign showed the park's opening times."
     ],
-    "correctIndex": 0,
-    "explanation": "Stars growing on trees create an impossible, magical image.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 7,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "Stars growing on trees create an impossible, magical image.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "Stars growing on trees create an impossible, magical image.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-008",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "How could a reader improve 'I liked the ending'?",
+    "type": "single",
+    "question": "How could a reader improve 'I liked the ending'?",
     "audioPrompt": "How could a reader improve 'I liked the ending'?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Repeat 'I liked it' three more times.",
-        "is_correct": false
-      },
-      {
-        "text": "Add what happened at the end and why it felt satisfying.",
-        "is_correct": true
-      },
-      {
-        "text": "List the page numbers without explaining them.",
-        "is_correct": false
-      }
+      "Repeat 'I liked it' three more times.",
+      "Add what happened at the end and why it felt satisfying.",
+      "List the page numbers without explaining them."
     ],
-    "correctIndex": 1,
-    "explanation": "A specific event and its effect turn a bare preference into an explained response.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 1,
     "difficultyTier": "confidence",
     "sequencePriority": 8,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "A specific event and its effect turn a bare preference into an explained response.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "A specific event and its effect turn a bare preference into an explained response.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-009",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "A reader says, 'I liked being able to compare the two insects easily.' Which feature could support this?",
+    "type": "single",
+    "question": "A reader says, 'I liked being able to compare the two insects easily.' Which feature could support this?",
     "audioPrompt": "A reader says, 'I liked being able to compare the two insects easily.' Which feature could support this?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Their names are hidden on separate unlabelled pages.",
-        "is_correct": false
-      },
-      {
-        "text": "Only one insect is described.",
-        "is_correct": false
-      },
-      {
-        "text": "Their facts appear side by side under matching headings.",
-        "is_correct": true
-      }
+      "Their names are hidden on separate unlabelled pages.",
+      "Only one insect is described.",
+      "Their facts appear side by side under matching headings."
     ],
-    "correctIndex": 2,
-    "explanation": "Matching headings and adjacent information support comparison.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 9,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Matching headings and adjacent information support comparison.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "Matching headings and adjacent information support comparison.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-010",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Which comment expresses mild disappointment rather than complete dislike?",
+    "type": "single",
+    "question": "Which comment expresses mild disappointment rather than complete dislike?",
     "audioPrompt": "Which comment expresses mild disappointment rather than complete dislike?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "I liked most of it, but the ending was a little rushed.",
-        "is_correct": true
-      },
-      {
-        "text": "I hated every part of it.",
-        "is_correct": false
-      },
-      {
-        "text": "It was the best book I have ever read.",
-        "is_correct": false
-      }
+      "I liked most of it, but the ending was a little rushed.",
+      "I hated every part of it.",
+      "It was the best book I have ever read."
     ],
-    "correctIndex": 0,
-    "explanation": "The first response limits the criticism to a small concern.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 10,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The first response limits the criticism to a small concern.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "The first response limits the criticism to a small concern.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-011",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: 'The kitten tucked one cold paw beneath its chin.' Which response connects feeling to a detail?",
+    "type": "single",
+    "question": "Read: 'The kitten tucked one cold paw beneath its chin.' Which response connects feeling to a detail?",
     "audioPrompt": "Read: 'The kitten tucked one cold paw beneath its chin.' Which response connects feeling to a detail?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "I felt excited because the kitten won a prize.",
-        "is_correct": false
-      },
-      {
-        "text": "I felt sorry for the kitten because its paw was cold.",
-        "is_correct": true
-      },
-      {
-        "text": "I felt amused because the kitten told a joke.",
-        "is_correct": false
-      }
+      "I felt excited because the kitten won a prize.",
+      "I felt sorry for the kitten because its paw was cold.",
+      "I felt amused because the kitten told a joke."
     ],
-    "correctIndex": 1,
-    "explanation": "The cold paw supports sympathy; no prize or joke is mentioned.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 11,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The cold paw supports sympathy; no prize or joke is mentioned.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "The cold paw supports sympathy; no prize or joke is mentioned.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-012",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "A factual page explains volcanoes. A story imagines living inside one. Which preference gives a relevant reason?",
+    "type": "single",
+    "question": "A factual page explains volcanoes. A story imagines living inside one. Which preference gives a relevant reason?",
     "audioPrompt": "A factual page explains volcanoes. A story imagines living inside one. Which preference gives a relevant reason?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "I prefer the story because the other text has letters.",
-        "is_correct": false
-      },
-      {
-        "text": "I prefer the factual page because no one may enjoy stories.",
-        "is_correct": false
-      },
-      {
-        "text": "I prefer the factual page because I want to learn how eruptions happen.",
-        "is_correct": true
-      }
+      "I prefer the story because the other text has letters.",
+      "I prefer the factual page because no one may enjoy stories.",
+      "I prefer the factual page because I want to learn how eruptions happen."
     ],
-    "correctIndex": 2,
-    "explanation": "The preference is connected to the reader's learning purpose.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 12,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The preference is connected to the reader's learning purpose.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "The preference is connected to the reader's learning purpose.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-013",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Who would most likely value 'I liked the repeated chorus because I could join in'?",
+    "type": "single",
+    "question": "Who would most likely value 'I liked the repeated chorus because I could join in'?",
     "audioPrompt": "Who would most likely value 'I liked the repeated chorus because I could join in'?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Someone choosing a song to sing with a group.",
-        "is_correct": true
-      },
-      {
-        "text": "Someone choosing a silent map to navigate.",
-        "is_correct": false
-      },
-      {
-        "text": "Someone choosing a list of bus times.",
-        "is_correct": false
-      }
+      "Someone choosing a song to sing with a group.",
+      "Someone choosing a silent map to navigate.",
+      "Someone choosing a list of bus times."
     ],
-    "correctIndex": 0,
-    "explanation": "A repeated chorus supports shared singing, so the reason helps that audience.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 13,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "A repeated chorus supports shared singing, so the reason helps that audience.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "A repeated chorus supports shared singing, so the reason helps that audience.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-014",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Which response includes appreciation rather than just retelling?",
+    "type": "single",
+    "question": "Which response includes appreciation rather than just retelling?",
     "audioPrompt": "Which response includes appreciation rather than just retelling?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The mouse distracted the giant.",
-        "is_correct": false
-      },
-      {
-        "text": "I enjoyed the clever trick when the mouse distracted the giant.",
-        "is_correct": true
-      },
-      {
-        "text": "The giant looked away and the mouse ran.",
-        "is_correct": false
-      }
+      "The mouse distracted the giant.",
+      "I enjoyed the clever trick when the mouse distracted the giant.",
+      "The giant looked away and the mouse ran."
     ],
-    "correctIndex": 1,
-    "explanation": "Enjoyed and clever express evaluation of the event, beyond reporting it.",
-    "hint": "Use the clues in the question and check every choice.",
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 14,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "Enjoyed and clever express evaluation of the event, beyond reporting it.\nHint: Use the clues in the question and check every choice.",
+    "structuredExplanation": {
+      "summary": "Enjoyed and clever express evaluation of the event, beyond reporting it.",
+      "hint": "Use the clues in the question and check every choice."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-015",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: 'The robot watered the garden with lemonade. By sunset, every flower was sticky.' Give your own response and a reason from the text.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
+    "acceptanceNote": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
+    "responseInstructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completionLabel": "I have completed my spoken or written response for an adult to check.",
+    "question": "Read: 'The robot watered the garden with lemonade. By sunset, every flower was sticky.' Give your own response and a reason from the text.",
     "audioPrompt": "Read: 'The robot watered the garden with lemonade. By sunset, every flower was sticky.' Give your own response and a reason from the text.",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correctIndex": 2,
-    "explanation": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
-    "hint": "Use the clues in the question and check every choice.",
+    "answers": [],
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 15,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
+      "hint": "Complete the task before asking an adult to check your response."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2la02-t-016",
     "curriculumCode": "AC9E2LA02",
     "bank": "test",
-    "skill": "giving_reasons_for_text_preferences",
+    "skill": "giving reasons for text preferences",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Text A says, 'Owls hunt at night.' Text B says, 'Under the moon, an owl slipped silently between the trees.' Which would you prefer to read more of, and why?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
+    "acceptanceNote": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
+    "responseInstructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completionLabel": "I have completed my spoken or written response for an adult to check.",
+    "question": "Text A says, 'Owls hunt at night.' Text B says, 'Under the moon, an owl slipped silently between the trees.' Which would you prefer to read more of, and why?",
     "audioPrompt": "Text A says, 'Owls hunt at night.' Text B says, 'Under the moon, an owl slipped silently between the trees.' Which would you prefer to read more of, and why?",
-    "visual": {
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correctIndex": 0,
-    "explanation": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
-    "hint": "Use the clues in the question and check every choice.",
+    "answers": [],
     "difficulty": 2,
     "difficultyTier": "core",
     "sequencePriority": 16,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
+      "hint": "Complete the task before asking an adult to check your response."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

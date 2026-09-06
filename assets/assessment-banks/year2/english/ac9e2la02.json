@@ -849,29 +849,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.",
+    "acceptance_note": "Accept an actual preference and a relevant reference to the boat, beetle, imagined role or language. Do not grade the child on agreeing with the model opinion.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA02-P-024",
@@ -887,29 +880,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 3,
     "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.",
+    "acceptance_note": "Accept either choice with a relevant explanation of clarity, detail, effect or brevity.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA02-T-001",
@@ -1457,29 +1443,22 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      },
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
+    "acceptance_note": "Accept a clear personal response linked to the robot's mistake, surprising result or language; do not require the model preference.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   },
   {
     "id": "AC9E2LA02-T-016",
@@ -1495,28 +1474,21 @@
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Adult review required",
-        "is_correct": true
-      },
-      {
-        "text": "Response not yet reviewed",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with an adult",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
       "summary": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
-      "hint": "Use the clues in the question and check every choice."
+      "hint": "Complete the task before asking an adult to check your response."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "production-v1"
+    "quality_schema": "production-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
+    "acceptance_note": "Accept either preference with a reason tied to a feature of the supplied text. Spelling is not the assessed target.",
+    "response_instructions": "Say or write your response. Ask a parent or teacher to check it against the guidance in Review answers.",
+    "completion_label": "I have completed my spoken or written response for an adult to check."
   }
 ]
