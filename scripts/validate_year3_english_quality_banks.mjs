@@ -57,12 +57,11 @@ for (const code of codes) {
   for (const item of byBank.test) if (practicePrompts.has(norm(item.question))) problems.push(`${code}: Practice/Test prompt overlap at ${item.id}`);
 
   const route = path.join(ROOT, "quiz", "year-3", "english", code.toLowerCase());
-  for (const [bank, attempt, count] of [["practice", 8, 24], ["test", 12, 16]]) {
+  for (const [bank, attempt] of [["practice", 5], ["test", 5]]) {
     const htmlFile = path.join(route, bank, "index.html"), html = fs.readFileSync(htmlFile, "utf8");
-    if (!html.includes(`"maxQuestions":${attempt}`) || !html.includes('"shuffleQuestions":true') || !html.includes('"questionCycle":true')) problems.push(`${code} ${bank}: attempt rotation config mismatch`);
-    if (!html.includes(`>${count}</span><span class="summary-label">Question bank`)) problems.push(`${code} ${bank}: bank count presentation mismatch`);
-    if (bank === "test" && (!html.includes('"certificateOnPass":true') || !html.includes('"requireStudentName":true'))) problems.push(`${code} test: certificate configuration not preserved`);
-    if (bank === "practice" && html.includes('"certificateOnPass":true')) problems.push(`${code} practice: certificate unexpectedly enabled`);
+    if (!html.includes(`"maxQuestions":${attempt}`) || !html.includes('"shuffleQuestions":true') || !html.includes('"questionCycle":false')) problems.push(`${code} ${bank}: attempt shuffle config mismatch`);
+    if (html.includes('<span class="summary-label">Question bank')) problems.push(`${code} ${bank}: bank count presentation should be hidden`);
+    if (bank === "test" && !html.includes('"requireStudentName":true')) problems.push(`${code} test: student-name configuration not preserved`);
     if (/\.\.\.|…/.test((html.match(/<h1[^>]*>(.*?)<\/h1>/) || [])[1] || "")) problems.push(`${code} ${bank}: truncated heading`);
     if (qaBadge.test(html)) problems.push(`${code} ${bank}: QA badge language present`);
     for (const script of [path.join(route, bank, "questions.js"), ...(bank === "practice" ? [path.join(route, bank, "practice-questions.js")] : [])]) {
@@ -90,4 +89,4 @@ for (const script of ["scripts/build_year3_english_quality_banks.mjs", "scripts/
   try { execFileSync(process.execPath, ["--check", path.join(ROOT, script)], { stdio: "pipe" }); } catch { problems.push(`${script}: syntax check failed`); }
 }
 if (problems.length) { console.error(problems.join("\n")); process.exit(1); }
-console.log(JSON.stringify({ status: "PASS", codes: "28/28", totals, combined: 1120, checks: ["schema", "syntax", "unique IDs/prompts", "Practice/Test separation", "3 choices", "answer keys and A/B/C balance", "audio parity", "browser-TTS risk markers", "feedback", "visual assets/SVG/alt", "full headings", "QA badges absent", "8/12 behaviour", "certificate preservation"] }, null, 2));
+console.log(JSON.stringify({ status: "PASS", codes: "28/28", totals, combined: 1120, checks: ["schema", "syntax", "unique IDs/prompts", "Practice/Test separation", "3 choices", "answer keys and A/B/C balance", "audio parity", "browser-TTS risk markers", "feedback", "visual assets/SVG/alt", "full headings", "QA badges absent", "5-question shuffled attempts", "certificates paused"] }, null, 2));

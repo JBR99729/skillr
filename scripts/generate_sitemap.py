@@ -14,6 +14,7 @@ FUNCTIONAL_PARTS={"result","results","review","retake"}
 EXCLUDED_FILES={"offline.html"}
 EXCLUDED_PARTS={"teacher-slides"}
 EXCLUDED_ROOT_PARTS={"node_modules","playwright-report","test-results","screenshots"}
+PAUSED_PARTS={"daily-drills"}
 SECTION_LABELS={"foundation":"Foundation","year1":"Year 1","year2":"Year 2","year3":"Year 3","year4":"Year 4","year5":"Year 5","year6":"Year 6","year7":"Year 7","year8":"Year 8","year9":"Year 9","year10":"Year 10","quiz":"Practice, tests and worksheets","blogs":"Blogs","worksheets":"Worksheets"}
 SEARCH_SKIP_TAGS={"script","style","svg","noscript","template"}
 COMMON_FACTOR_RE=re.compile(r"(?:lowest common multiple|highest common factor|greatest common divisor)",re.I)
@@ -79,14 +80,14 @@ def norm(v):
 def is_canonical(source,url):
  t=canonical_path(source); return t is None or norm(t)==norm(url)
 def is_functional(path):
- return path.as_posix() in EXCLUDED_FILES or bool(set(path.parts)&(FUNCTIONAL_PARTS|EXCLUDED_PARTS|EXCLUDED_ROOT_PARTS))
+ return path.as_posix() in EXCLUDED_FILES or bool(set(path.parts)&(FUNCTIONAL_PARTS|EXCLUDED_PARTS|EXCLUDED_ROOT_PARTS|PAUSED_PARTS))
 
 def human_sitemap_page(url):
  """Keep the browser sitemap useful; XML sitemaps handle deep crawl discovery."""
  parts=[p for p in url.strip("/").split("/") if p]
  if not parts:return True
  if len(parts)==1:return True
- if parts[0]=="blogs":return len(parts)==2
+ if parts[0]=="blogs":return len(parts)==1
  if parts[0] in {"foundation",*[f"year{i}" for i in range(1,11)]}:
   return len(parts)<=2 or (len(parts)==3 and parts[1]=="curriculum")
  if parts[0]=="worksheets":return len(parts)==1
@@ -133,7 +134,9 @@ def main():
   if not groups[key]:continue
   filename=f"sitemap-{key}.xml";write_urlset(filename,groups[key]);sitemap_files.append((filename,max(x[2] for x in groups[key])))
  idx=['<?xml version="1.0" encoding="UTF-8"?>','<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
- for filename,mod in sitemap_files:idx += ["  <sitemap>",f"    <loc>{BASE}/{filename}</loc>",f"    <lastmod>{mod}</lastmod>","  </sitemap>"]
+ for filename,mod in sitemap_files:
+  if filename=="sitemap-practice.xml":continue
+  idx += ["  <sitemap>",f"    <loc>{BASE}/{filename}</loc>",f"    <lastmod>{mod}</lastmod>","  </sitemap>"]
  idx.append("</sitemapindex>");(ROOT/"sitemap.xml").write_text("\n".join(idx)+"\n",encoding="utf-8")
  sections=defaultdict(list)
  for item in pages:

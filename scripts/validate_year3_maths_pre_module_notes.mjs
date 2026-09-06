@@ -6,7 +6,6 @@ import vm from "node:vm";
 const root = path.resolve(import.meta.dirname, "..");
 const read = (relativePath) => fs.readFileSync(path.join(root, relativePath), "utf8");
 const exists = (relativePath) => fs.existsSync(path.join(root, relativePath));
-const reviewedCodes = new Set(JSON.parse(read("data/content-verification-status.json")).reviewedCodes);
 const errors = [];
 const assert = (condition, message) => {
   if (!condition) errors.push(message);
@@ -119,17 +118,15 @@ for (const code of codes) {
     if (!configMatch) continue;
     const config = parseConfigLiteral(configMatch[1], `${code}-${mode}`);
     const isPractice = mode === "practice";
-    const simpleShuffle = ["AC9M3A01", "AC9M3A02", "AC9M3A03"].includes(code);
-    const expectedQuestionCount = simpleShuffle ? 5 : isPractice ? 8 : 12;
+    const expectedQuestionCount = 5;
     assert(config.skillCode === code, `${code} ${mode}: skill code mismatch`);
     assert(config.preModuleNotesRequired === true, `${code} ${mode}: mandatory pre-module gate not enabled`);
     assert(config.preReadSeconds === 0, `${code} ${mode}: artificial countdown must remain disabled`);
     assert(config.maxQuestions === expectedQuestionCount, `${code} ${mode}: expected ${expectedQuestionCount}-question launch`);
-    assert(config.questionCycle === !simpleShuffle && (!simpleShuffle || config.allowQuestionRepeats === true) && config.shuffleQuestions === true && config.shuffleAnswers === true, `${code} ${mode}: bank selection behaviour changed`);
+    assert(config.questionCycle === false && config.shuffleQuestions === true && config.shuffleAnswers === true, `${code} ${mode}: bank selection behaviour changed`);
     assert(config.requireStudentName === !isPractice, `${code} ${mode}: student-name flow changed`);
-    assert(config.certificateOnPass === !isPractice, `${code} ${mode}: certificate flow changed`);
     assert((html.match(/year3-maths-pre-module-notes\.js\?v=20260814-1/g) || []).length === 1, `${code} ${mode}: shared note source must load exactly once`);
-    assert(html.indexOf("year3-maths-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=115"), `${code} ${mode}: note source must load before the shared engine`);
+    assert(html.indexOf("year3-maths-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=117"), `${code} ${mode}: note source must load before the shared engine`);
     assert(html.includes("/quiz/assets/style.css?v=115"), `${code} ${mode}: shared responsive style version missing`);
     assert(html.includes("/quiz/assets/production-question-ui.js?v=1"), `${code} ${mode}: existing production question UI missing`);
     assert(html.includes("pre-read-notes"), `${code} ${mode}: existing Quick Read landing content was removed`);
@@ -138,10 +135,9 @@ for (const code of codes) {
     const questionWindow = { location: { pathname: `/${questionFile}` } };
     new vm.Script(read(questionFile), { filename: questionFile }).runInNewContext({ window: questionWindow });
     const bank = isPractice ? questionWindow.skillrPracticeQuestions : questionWindow.skillrTestQuestions;
-    const expectedBankLength = isPractice ? (reviewedCodes.has(code) ? 48 : 24) : 16;
-    assert(Array.isArray(bank) && bank.length === expectedBankLength, `${code} ${mode}: expected preserved ${expectedBankLength}-question source bank`);
+    assert(Array.isArray(bank) && bank.length >= expectedQuestionCount, `${code} ${mode}: source bank must cover a full short attempt`);
     assert(bank?.every((question) => question.curriculumCode === code), `${code} ${mode}: source bank contains a different curriculum code`);
-    assert(new Set((bank || []).map((question) => question.id)).size === (bank || []).length, `${code} ${mode}: source-bank IDs must stay unique`);
+    assert(new Set((bank || []).map((question) => question.id)).size === bank.length, `${code} ${mode}: source-bank IDs must stay unique`);
   }
 
   const worksheetRoot = `quiz/year-3/math/${code.toLowerCase()}/worksheet`;
@@ -185,4 +181,4 @@ if (errors.length) {
 
 console.log(`Year 3 Maths pre-module notes: ${codes.length}/${codes.length} passing`);
 console.log(`Prose word counts: ${Object.entries(counts).map(([code, count]) => `${code} ${count}`).join(", ")}`);
-console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, 46 mandatory launch configurations, 5-question algebra selections and preserved legacy selections, reviewed 48/16 banks (legacy 24/16), same shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");
+console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, mandatory live launches, 5-question shuffled attempts, shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");

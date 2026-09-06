@@ -344,23 +344,24 @@ for (const code of codes) {
 
     const htmlFile = path.join(root, "quiz/grade-k/science", code, bankName, "index.html");
     let html = fs.readFileSync(htmlFile, "utf8");
-    const maxQuestions = bankName === "practice" ? 8 : 12;
+    const maxQuestions = 5;
     html = html
       .replace(/"maxQuestions":\d+/, `"maxQuestions":${maxQuestions}`)
       .replace(/"shuffleQuestions":false/, '"shuffleQuestions":true')
       .replace(/"shuffleAnswers":true(?!,"avoidSameCorrectPosition":true)/, '"shuffleAnswers":true,"avoidSameCorrectPosition":true')
-      .replace(/"questionCycle":false/, `"questionCycle":true,"questionCycleStorageKey":"${code.toUpperCase()}:${bankName}:unseen-cycle-v2"`)
+      .replace(/"questionCycle":(?:true|false)/, '"questionCycle":false')
+      .replace(/,"questionCycleStorageKey":"[^"]+"/g, "")
       .replace(/questions\.js\?v=[^"']+/, `questions.js?v=${version}`);
     if (bankName === "test") {
       html = html
-        .replace(/Complete an 8-question Foundation test/g, "Complete a 12-question Foundation test")
-        .replace(/serves 8 test questions/g, "serves 12 test questions")
-        .replace(/<span class="summary-number" id="questionCount">8<\/span>/, '<span class="summary-number" id="questionCount">12</span>');
+        .replace(/Complete an? \d+-question Foundation test/g, "Complete a short shuffled Foundation test")
+        .replace(/serves \d+ test questions/g, "serves a short shuffled test")
+        .replace(/<span class="summary-number" id="questionCount">\d+<\/span>/, '<span class="summary-number" id="questionCount">5</span>');
     }
     const title = code === "ac9sfi01" ? "Questions and Predictions" : code === "ac9sfi02" ? "Safe Science Observations" : "Record Observations and Find Patterns";
     html = html.replace(/<h1 id="quizTitle">[^<]+<\/h1>/, `<h1 id="quizTitle">${title}</h1>`);
     const visualTag = `<script src="/assets/quiz-visuals/foundation-science/${code}-visual-overrides.js?v=${version}"></script>`;
-    if (!html.includes(`${code}-visual-overrides.js`)) html = html.replace('<script src="/quiz/assets/script.js?v=115"></script>', `${visualTag}<script src="/quiz/assets/script.js?v=115"></script>`);
+    if (!html.includes(`${code}-visual-overrides.js`)) html = html.replace('<script src="/quiz/assets/script.js?v=117"></script>', `${visualTag}<script src="/quiz/assets/script.js?v=117"></script>`);
     fs.writeFileSync(htmlFile, html);
   }
 
@@ -379,7 +380,7 @@ for (const code of ["ac9sfu01", "ac9sfu02", "ac9sfu03"]) {
     if (html.includes(`${code}-visual-overrides.js`)) {
       html = html.replace(new RegExp(`${code}-visual-overrides\\.js\\?v=[^"']+`), `${code}-visual-overrides.js?v=${version}`);
     } else {
-      html = html.replace('<script src="/quiz/assets/script.js?v=115"></script>', `${visualTag}<script src="/quiz/assets/script.js?v=115"></script>`);
+      html = html.replace('<script src="/quiz/assets/script.js?v=117"></script>', `${visualTag}<script src="/quiz/assets/script.js?v=117"></script>`);
     }
     fs.writeFileSync(htmlFile, html);
   }

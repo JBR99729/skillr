@@ -82,15 +82,15 @@ for (const code of codes) {
     if (!configMatch) continue;
     const config = JSON.parse(configMatch[1]);
     const isPractice = mode === "practice";
-    const expectedQuestionCount = 8;
+    const expectedQuestionCount = 5;
     assert(config.skillCode === code, `${code} ${mode}: skill code mismatch`);
     assert(config.preModuleNotesRequired === true, `${code} ${mode}: mandatory gate not enabled`);
     assert(config.preReadSeconds === 0, `${code} ${mode}: artificial countdown must remain disabled`);
     assert(config.maxQuestions === expectedQuestionCount, `${code} ${mode}: expected ${expectedQuestionCount}-question launch`);
-    assert(config.shuffleQuestions === true && config.shuffleAnswers === true && config.questionCycle === true, `${code} ${mode}: bank selection changed`);
-    assert(config.requireStudentName === !isPractice && config.certificateOnPass === !isPractice, `${code} ${mode}: name/certificate flow changed`);
+    assert(config.shuffleQuestions === true && config.shuffleAnswers === true && config.questionCycle === false, `${code} ${mode}: bank selection changed`);
+    assert(config.requireStudentName === !isPractice, `${code} ${mode}: student-name flow changed`);
     assert((html.match(/year4-science-pre-module-notes\.js\?v=20260814-1/g) || []).length === 1, `${code} ${mode}: shared source must load exactly once`);
-    assert(html.indexOf("year4-science-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=115"), `${code} ${mode}: note source must load before engine`);
+    assert(html.indexOf("year4-science-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=117"), `${code} ${mode}: note source must load before engine`);
     assert(html.includes("/quiz/assets/style.css?v=115"), `${code} ${mode}: responsive style version missing`);
     assert(html.includes("pre-read-notes"), `${code} ${mode}: existing Quick Read landing was removed`);
 
@@ -125,4 +125,4 @@ if (errors.length) {
 }
 console.log(`Year 4 Science pre-module notes: ${codes.length}/${codes.length} passing`);
 console.log(`Prose word counts: ${Object.entries(counts).map(([code, count]) => `${code} ${count}`).join(", ")}`);
-console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, 24 mandatory live launches, 8/8 selections, preserved 24/16 banks, shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");
+console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, mandatory live launches, 5-question shuffled attempts, shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");

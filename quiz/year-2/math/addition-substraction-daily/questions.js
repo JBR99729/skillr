@@ -714,7 +714,7 @@
     ...(window.quizConfig || {}),
     shuffleQuestions: true,
     shuffleAnswers: false,
-    maxQuestions: 8,
+    maxQuestions: 5,
     caseSensitiveText: false,
     storageKey: BEST_SCORE_KEY
   };

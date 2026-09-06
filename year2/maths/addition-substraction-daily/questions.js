@@ -1,20 +1,6 @@
 "use strict";
 
-/*
-  Year 2 Addition & Subtraction Strategies
-  48-question rotating bank.
-  Each 8-question attempt contains:
-  - 2 single-choice questions
-  - 1 true/false or select-all question
-  - 1 number-entry question
-  - 1 short typed-answer question
-  - 1 fill-in-the-blank question
-  - 1 ordering question
-  - 1 drag-and-drop ordering question
-
-  On the same browser, the bank rotates without repeating a question
-  until all 48 questions have been used (6 attempts), then starts again.
-*/
+/* Year 2 Addition & Subtraction Strategies. Online attempts use a short shuffled set. */
 
 (() => {
   const bank = [
@@ -705,20 +691,16 @@
 
   window.skillrWorksheetQuestions = bank;
 
-  const selected = selectEight();
-
-  window.quizQuestions = selected;
-  window.skillrActiveQuestions = selected;
+  window.quizQuestions = bank;
+  window.skillrActiveQuestions = bank;
 
   window.quizConfig = {
     ...(window.quizConfig || {}),
     shuffleQuestions: true,
     shuffleAnswers: false,
-    maxQuestions: 8,
+    maxQuestions: 5,
+    questionCycle: false,
     caseSensitiveText: false,
     storageKey: BEST_SCORE_KEY
   };
-
-  window.dailyPracticeBankSize = bank.length;
-  window.dailyPracticeAttemptsPerCycle = 6;
 })();

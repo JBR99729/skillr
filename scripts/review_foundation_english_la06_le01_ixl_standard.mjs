@@ -214,17 +214,16 @@ function writeQuestions(code, bank) {
 function updateHtml(code, bank) {
   const file = path.join(root, "quiz/grade-k/english", meta[code].slug, bank, "index.html");
   let html = fs.readFileSync(file, "utf8");
-  const display = bank === "practice" ? 8 : 12;
-  const article = display === 8 ? "an" : "a";
-  html = html.replace(/Complete (?:an?|a) \d+-question Foundation (practice|test)/g, `Complete ${article} ${display}-question Foundation $1`);
-  html = html.replace(/This page serves \d+ (practice|test) questions/g, `This page serves ${display} $1 questions`);
+  const display = 5;
+  html = html.replace(/Complete (?:an?|a) \d+-question Foundation (practice|test)/g, "Complete a short shuffled Foundation $1");
+  html = html.replace(/This page serves \d+ (practice|test) questions/g, "This page serves a short shuffled $1");
   html = html.replace(/<span class="summary-number" id="questionCount">\d+<\/span>/g, `<span class="summary-number" id="questionCount">${display}</span>`);
   html = html.replace(/"maxQuestions":\d+/g, `"maxQuestions":${display}`);
   html = html.replace(/"shuffleQuestions":(?:true|false)/g, `"shuffleQuestions":true`);
-  html = html.replace(/"questionCycle":(?:true|false)/g, `"questionCycle":true`);
+  html = html.replace(/"questionCycle":(?:true|false)/g, `"questionCycle":false`);
   html = html.replace(/,"avoidSameCorrectPosition":true/g, "");
   html = html.replace(/,"questionCycleStorageKey":"[^"]+"/g, "");
-  html = html.replace(/"preReadSeconds":0/g, `"preReadSeconds":0,"avoidSameCorrectPosition":true,"questionCycleStorageKey":"${code}:${bank}:unseen-cycle-v2"`);
+  html = html.replace(/"preReadSeconds":0/g, `"preReadSeconds":0,"avoidSameCorrectPosition":true`);
   html = html.replace(new RegExp(`/quiz/grade-k/english/${meta[code].slug}/${bank}/questions\\.js\\?v=[^"]+`), `/quiz/grade-k/english/${meta[code].slug}/${bank}/questions.js?v=${version}`);
   fs.writeFileSync(file, html);
 }

@@ -47,26 +47,25 @@ for (const code of codes) {
   const activityFile = path.join(route, "index.html");
   let activity = fs.readFileSync(activityFile, "utf8");
   activity = activity
-    .replace(/<p>Choose a learning activity\.[\s\S]*?<\/p>/, "<p>Choose a learning activity. Practice rotates 8 questions from a 24-question bank; Test draws 12 questions from a separate 16-question bank.</p>")
+    .replace(/<p>Choose a learning activity\.[\s\S]*?<\/p>/, "<p>Choose a learning activity. Practice and Test use short shuffled attempts. Repeat quiz practice to access more of the full question bank.</p>")
     .replace(/<section class="pre-read-notes">[\s\S]*?<\/section>/, `<section class="pre-read-notes"><h2>Unit focus</h2>${listHtml(notes)}</section>`);
   fs.writeFileSync(activityFile, activity);
 
   for (const bank of ["practice", "test"]) {
-    const attempt = bank === "practice" ? 8 : 12, count = bank === "practice" ? 24 : 16;
+    const attempt = 5;
     const file = path.join(route, bank, "index.html");
     let html = fs.readFileSync(file, "utf8");
-    const certificateBefore = (html.match(/"certificateOnPass":(?:true|false)/) || [])[0];
     const studentNameBefore = (html.match(/"requireStudentName":(?:true|false)/) || [])[0];
     html = html
-      .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${bank === "practice" ? `Practise Year 3 ${unit.title} with 8 rotating questions from a 24-question bank.` : `Take a 12-question Year 3 ${unit.title} test drawn from a separate 16-question bank.`}">`)
+      .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="Complete a short shuffled Year 3 ${unit.title} ${bank} attempt.">`)
       .replace(/<section class="pre-read-notes">[\s\S]*?<\/section>/, `<section class="pre-read-notes"><h2>Quick preparation</h2>${listHtml(notes)}</section>`)
-      .replace(/<div class="quiz-summary">[\s\S]*?<\/div><button class="button button-primary"/, `<div class="quiz-summary"><div><span class="summary-number" id="questionCount">${attempt}</span><span class="summary-label">Questions this attempt</span></div><div><span class="summary-number">${count}</span><span class="summary-label">Question bank</span></div><div><span class="summary-number" id="bestScore">0</span><span class="summary-label">Best score</span></div></div><button class="button button-primary"`)
+      .replace(/<div class="quiz-summary">[\s\S]*?<\/div><button class="button button-primary"/, `<div class="quiz-summary"><div><span class="summary-number" id="questionCount">${attempt}</span><span class="summary-label">This attempt</span></div><div><span class="summary-number" id="bestScore">0</span><span class="summary-label">Best score</span></div></div><button class="button button-primary"`)
       .replace(/"maxQuestions":\d+/, `"maxQuestions":${attempt}`)
       .replace(/"shuffleQuestions":(?:true|false)/, '"shuffleQuestions":true')
-      .replace(/"questionCycle":(?:true|false)/, '"questionCycle":true')
+      .replace(/"questionCycle":(?:true|false)/, '"questionCycle":false')
       .replace(/<script src="[^"]*\/(?:practice\/)?questions\.js(?:\?[^\"]*)?"><\/script>/g, "")
       .replace(/<script src="\/quiz\/assets\/script\.js[^>]*><\/script>/, `<script src="/quiz/year-3/english/${lower}/${bank}/questions.js?v=20260813-year3-english-v1"></script>$&`);
-    if ((html.match(/"certificateOnPass":(?:true|false)/) || [])[0] !== certificateBefore || (html.match(/"requireStudentName":(?:true|false)/) || [])[0] !== studentNameBefore) throw new Error(`${code} ${bank}: certificate configuration changed`);
+    if ((html.match(/"requireStudentName":(?:true|false)/) || [])[0] !== studentNameBefore) throw new Error(`${code} ${bank}: student-name configuration changed`);
     fs.writeFileSync(file, html);
   }
 
@@ -78,11 +77,11 @@ for (const code of codes) {
       .replace(/<title>[\s\S]*?<\/title>/, `<title>${page.browser}</title>`)
       .replace(/<h1([^>]*)>[\s\S]*?<\/h1>/, `<h1$1>${page.heading}</h1>`)
       .replace(/<section class="pre-read-notes">[\s\S]*?<\/section>/, `<section class="pre-read-notes"><h2>${page.notes}</h2>${listHtml(notes)}</section>`)
-      .replace(/Try the same eight curriculum questions again in a newly shuffled answer order\./g, "Start a fresh rotating attempt from the full question bank.")
+      .replace(/Try the same eight curriculum questions again in a newly shuffled answer order\./g, "Start another short shuffled attempt. Repeated quiz practice helps learners access more of the full question bank.")
       .replace(/try the eight questions again/gi, "try a fresh attempt")
       .replace(/same eight(?:-question unit bank| questions used in Practice and Test)/gi, "separate banks aligned to this curriculum code");
     fs.writeFileSync(file, html);
   }
 }
 
-console.log(JSON.stringify({ status: "PUBLISHED", codes: codes.length, practice: 672, test: 448, combined: 1120, practiceAttempt: 8, testAttempt: 12, certificateConfiguration: "preserved" }, null, 2));
+console.log(JSON.stringify({ status: "PUBLISHED", codes: codes.length, practice: 672, test: 448, combined: 1120, practiceAttempt: 5, testAttempt: 5, certificates: "paused" }, null, 2));

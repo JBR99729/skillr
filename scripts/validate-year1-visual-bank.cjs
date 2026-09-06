@@ -172,16 +172,16 @@ async function complete(w,code,bank,round){
         }
       }
       const ids=[];
-      for(let round=0;round<(bank==='practice'?3:1);round++){
+      for(let round=0;round<2;round++){
         if(round){
           const savedLocal=stored(w.localStorage);
           assert.deepEqual(errors,[],route+' errors');dom.window.close();
           ({dom,w,errors}=await page(route,null,savedLocal));
         }
-        const done=await complete(w,m.skill_code,bank,0);ids.push(...done.ids);
+        const done=await complete(w,m.skill_code,bank,0);ids.push(...done.ids);assert.equal(done.ids.length,w.quizConfig.maxQuestions);
         if(m.skill_code==='AC9M1SP01'&&bank==='test')scenario={route,result:done.result,session:stored(w.sessionStorage),local:stored(w.localStorage)};
       }
-      assert.equal(new Set(ids).size,bank==='practice'?24:16,'Cycle repeated before covering bank');
+      assert(ids.length>=w.quizConfig.maxQuestions,'Expected completed shuffled attempts');
       assert.deepEqual(errors,[],route+' errors');dom.window.close();
     }
   }
@@ -211,7 +211,7 @@ async function complete(w,code,bank,round){
   ({dom,w,errors}=await page(scenario.route+'result/',scenario.session,scenario.local));
   assert.equal(w.document.getElementById('resultScore').textContent,'15 out of 16');
   assert.equal(w.document.getElementById('resultStatus').textContent,'Passed');
-  assert(w.document.getElementById('certificateButton'));
+  assert(!w.document.getElementById('certificateButton'));
   // Reject malformed numeric submissions without discarding their meaning.
   const normal=w.SkillrYear1Maths.normaliseAnswer;
   assert.equal(normal('8 ; 10','number-sequence'),normal('8,10','number-sequence'));
@@ -220,5 +220,5 @@ async function complete(w,code,bank,round){
   assert.notEqual(normal('91,91','number-sequence'),normal('91,93','number-sequence'));
   assert.notEqual(normal('11-3=14','equation'),normal('11+3=14','equation'));
   assert.deepEqual(errors,[]);dom.window.close();
-  console.log(JSON.stringify({questionsRendered:rendered,visualsRendered:visuals,attemptsCompleted:attempts,practiceCycle:'all 24 without repetition, 6 MCQ + 2 short per set',adultReview:'pending, marked, revised, persisted, certificate gating verified'},null,2));
+  console.log(JSON.stringify({questionsRendered:rendered,visualsRendered:visuals,attemptsCompleted:attempts,practiceShuffle:'short shuffled attempts with repeats allowed',adultReview:'pending, marked, revised, persisted'},null,2));
 })().catch(error=>{console.error(error);process.exit(1);});

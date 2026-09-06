@@ -133,7 +133,7 @@ let rendered = 0, visualCount = 0;
      const resultDom=new JSDOM(read(route+'result/index.html'),{url:'https://skillrhub.com/'+route+'result/',runScripts:'outside-only',virtualConsole:vc}),pw=resultDom.window;
      pw.sessionStorage.setItem(cfg.resultStorageKey,JSON.stringify(result));pw.eval(read('quiz/assets/separate-result.js'));await tick();
      assert(pw.document.getElementById('resultStatus').textContent.includes('grown-up'));
-     const certificate=pw.document.getElementById('certificateButton');assert(!certificate || certificate.disabled || certificate.classList.contains('is-hidden'));
+     assert(!pw.document.getElementById('certificateButton'));
      resultDom.window.close();
     }
     saved=Object.fromEntries(Array.from({length:w.localStorage.length},(_,i)=>{const k=w.localStorage.key(i);return[k,w.localStorage.getItem(k)];}));

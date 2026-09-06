@@ -114,14 +114,14 @@
     window.skillrPracticeQuestions = questions;
     window.quizQuestions = questions;
     if (window.quizConfig) {
-      window.quizConfig.maxQuestions = 40;
-      window.quizConfig.shuffleQuestions = false;
+      window.quizConfig.maxQuestions = 5;
+      window.quizConfig.shuffleQuestions = true;
       window.quizConfig.questionCycle = false;
     }
     const count = document.getElementById("questionCount");
-    if (count) count.textContent = "40";
+    if (count) count.textContent = "5";
     document.querySelectorAll(".intro-text, .adsense-learning-support p, .adsense-learning-support li").forEach((node) => {
-      node.textContent = node.textContent.replace(/\b8-question\b/gi, "40-question").replace(/\b8 practice questions\b/gi, "40 practice questions").replace(/\bserves 8 practice questions\b/gi, "serves 40 practice questions");
+      node.textContent = node.textContent.replace(/\b\d+-question\b/gi, "short").replace(/\b\d+ practice questions\b/gi, "short practice set").replace(/\bserves \d+ practice questions\b/gi, "serves a short practice set");
     });
     return true;
   };

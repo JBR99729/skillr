@@ -120,16 +120,14 @@ def update_quiz_page(path: Path, code: str, title: str, bank_name: str, guide: d
     config = {
         "storageKey": f"{code}{'Practice' if is_practice else 'Test'}Best",
         "skillCode": code,
-        "maxQuestions": 8 if is_practice else 12,
+        "maxQuestions": 5,
         "shuffleQuestions": True,
         "shuffleAnswers": True,
         "avoidSameCorrectPosition": True,
-        "questionCycle": True,
-        "questionCycleStorageKey": f"{code}:{bank_name}:unseen-cycle-v2",
+        "questionCycle": False,
         "preReadSeconds": 0,
         "preModuleNotesRequired": True,
         "requireStudentName": not is_practice,
-        "certificateOnPass": not is_practice,
         "passingPercent": 75,
         "resultStorageKey": f"skillr{code}{'Practice' if is_practice else 'Test'}Result",
         "resultUrl": "result/",
@@ -159,7 +157,7 @@ def update_quiz_page(path: Path, code: str, title: str, bank_name: str, guide: d
             count=1,
         )
     source = re.sub(r'/quiz/assets/style\.css\?v=\d+', '/quiz/assets/style.css?v=115', source)
-    source = re.sub(r'/quiz/assets/script\.js\?v=\d+', '/quiz/assets/script.js?v=115', source)
+    source = re.sub(r'/quiz/assets/script\.js\?v=\d+', '/quiz/assets/script.js?v=117', source)
     path.write_text(source, encoding="utf-8")
 
 
@@ -168,7 +166,7 @@ def update_worksheet(path: Path, code: str, title: str) -> None:
     source = re.sub(r'<h1 id="quizTitle">.*?</h1>', f'<h1 id="quizTitle">{html.escape(title)} worksheet</h1>', source, count=1)
     source = re.sub(
         r"<p>Download a worksheet.*?</p>",
-        "<p>Download 10 questions selected from the full banks: 8 Practice and 2 Test.</p>",
+        "<p>Download a printable worksheet selected from the full banks.</p>",
         source,
         count=1,
     )
@@ -228,7 +226,7 @@ def main() -> None:
         totals["practice"] += len(practice)
         totals["test"] += len(test)
 
-    print(json.dumps({"units": len(bank["units"]), **totals, "worksheet_split": "8+2"}, indent=2))
+    print(json.dumps({"units": len(bank["units"]), **totals, "worksheet": "printable full-bank selection"}, indent=2))
 
 
 if __name__ == "__main__":

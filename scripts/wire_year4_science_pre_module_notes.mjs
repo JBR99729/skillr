@@ -26,13 +26,12 @@ function assertProtectedConfig(config, code, mode, relativePath) {
   const isPractice = mode === "practice";
   if (
     config.skillCode !== code ||
-    config.maxQuestions !== 8 ||
+    config.maxQuestions !== 5 ||
     config.shuffleQuestions !== true ||
     config.shuffleAnswers !== true ||
-    config.questionCycle !== true ||
+    config.questionCycle !== false ||
     config.preReadSeconds !== 0 ||
-    config.requireStudentName !== !isPractice ||
-    config.certificateOnPass !== !isPractice
+    config.requireStudentName !== !isPractice
   ) throw new Error(`${relativePath}: protected quiz configuration differs from the completed release`);
 }
 
@@ -60,12 +59,12 @@ for (const code of codes) {
     if (!html.includes(noteAsset)) {
       html = html.replace(
         /<script src="\/quiz\/assets\/script\.js\?v=\d+"><\/script>/,
-        `${noteAsset}<script src="/quiz/assets/script.js?v=115"></script>`
+        `${noteAsset}<script src="/quiz/assets/script.js?v=117"></script>`
       );
     }
     html = html
       .replace(/\/quiz\/assets\/style\.css\?v=\d+/, "/quiz/assets/style.css?v=115")
-      .replace(/\/quiz\/assets\/script\.js\?v=\d+/, "/quiz/assets/script.js?v=115");
+      .replace(/\/quiz\/assets\/script\.js\?v=\d+/, "/quiz/assets/script.js?v=117");
     const finalConfig = parseConfig(html, relativePath);
     assertProtectedConfig(finalConfig, code, mode, relativePath);
     if (

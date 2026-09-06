@@ -53,26 +53,25 @@
   // YEAR10_MATH_WRAPPER_SYNC_V1
   // The authored banks are the source of truth. Older generated wrappers must never
   // cap or advertise a stale legacy bank size after the reviewed gifted layer loads.
-  const bankSize = target.length;
   if (window.quizConfig) {
-    window.quizConfig.maxQuestions = bankSize;
+    window.quizConfig.maxQuestions = 5;
     window.quizConfig.shuffleQuestions = true;
     window.quizConfig.shuffleAnswers = true;
-    window.quizConfig.questionCycle = true;
+    window.quizConfig.questionCycle = false;
   }
 
   const questionCount = document.getElementById("questionCount");
-  if (questionCount) questionCount.textContent = String(bankSize);
+  if (questionCount) questionCount.textContent = "5";
   for (const block of document.querySelectorAll(".quiz-summary > div")) {
     const label = block.querySelector(".summary-label")?.textContent?.trim().toLowerCase();
     const value = block.querySelector(".summary-number");
-    if (label === "question bank" && value) value.textContent = String(bankSize);
+    if (label === "question bank" && value) value.textContent = "Large";
   }
 
   const title = document.getElementById("quizTitle")?.textContent?.trim() || source.code;
   const description = document.querySelector('meta[name="description"]');
   if (description) {
-    description.setAttribute("content", `Year 10 ${title} ${mode} activity using ${bankSize} reviewed authored questions.`);
+    description.setAttribute("content", `Year 10 ${title} ${mode} activity using a reviewed authored question bank.`);
   }
 
   const preRead = document.querySelector(".pre-read-notes");

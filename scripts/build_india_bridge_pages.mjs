@@ -118,7 +118,7 @@ function render(page) {
 <h2>How Indian families should use SkillrHub</h2>
 <p>Search by the actual topic first: counting, place value, multiplication, fractions, grammar, reading comprehension, writing, materials, living things, forces or Earth science. Indian Class labels and Australian Year labels do not always match perfectly, so topic matching is safer than assuming a direct syllabus match.</p>
 <h2>Why these resources can still help</h2>
-<p>Maths, English and Science foundations overlap across many countries. SkillrHub's 50,000+ question library is organised by year level, subject and topic, which makes it useful for extra practice, homework support, tutoring and revision when the learning goal matches the student's classwork.</p>
+<p>Maths, English and Science foundations overlap across many countries. SkillrHub's large question bank is organised by year level, subject and topic, which makes it useful for extra practice, homework support, tutoring and revision when the learning goal matches the student's classwork.</p>
 <h2>Start here</h2>
 <div class="links">${links}<a href="/blogs/free-maths-english-science-worksheets-for-indian-students-k-10.html">India K-10 guide</a></div>
 <h2>Important limit</h2>

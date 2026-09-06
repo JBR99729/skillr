@@ -52,13 +52,13 @@
     return {
       eyebrow: "Welcome to SkillrHub",
       title: "Teach, practise, test and track progress",
-      lead: "SkillrHub is built for quick home and classroom learning: open a year level, choose a subject, then move through teaching support, worksheets, practice, tests and drills.",
+      lead: "SkillrHub is built for quick home and classroom learning: open a year level, choose a subject, then move through teaching support, worksheets, practice and tests.",
       highlightTitle: "No login required",
       highlightText: "Start immediately — progress is saved locally on this device.",
       steps: [
         ["Choose a year and topic", "Pick Foundation to Year 10, then open Maths, Science or English topic pages."],
         ["Use the learning tools", "Topic Guides, Teacher Slides and printable Worksheets help students learn before they practise."],
-        ["Practise, test and revise", "Practice gives feedback, Tests check mastery, Daily Drills keep skills fresh, and some Tests offer certificates after 75% or higher where enabled."],
+        ["Practise, test and revise", "Practice gives feedback, Tests check mastery, and repeated quiz practice helps learners access more of the full question bank."],
         ["Track and protect progress", "The Dashboard shows local progress. Use Backup/Export and Restore/Import to keep a copy when supported."],
         ["Install for easier access", "Use the app install option for a faster, app-like experience when your browser supports it."]
       ],
@@ -77,7 +77,7 @@
       highlightTitle: "Progress is private and local",
       highlightText: "SkillrHub saves progress in this browser on this device. No learner account is required.",
       steps: [
-        ["Check the snapshot", "See active learning time, questions practised, skills covered, accuracy, tests and Daily Drills."],
+        ["Check the snapshot", "See active learning time, questions practised, skills covered, accuracy and tests."],
         ["Watch mastery", "Passed tests show stronger skills. Pending skills are topics that may need another practice or retake."],
         ["Backup progress", "Use Save My Progress to export a private progress file before changing devices or clearing browser data."],
         ["Restore progress", "Use Load My Progress to bring a saved progress file back into this browser."],

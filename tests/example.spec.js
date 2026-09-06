@@ -27,8 +27,9 @@ test.describe("Skillr smoke tests", () => {
     await expect(page.locator("#questionCount")).toBeVisible();
   });
 
-  test("daily drill page loads", async ({ page }) => {
-    await page.goto(baseURL + "/quiz/year-7/daily-drills/");
-    await expect(page.locator("body")).toContainText(/Daily|Drill|Start/i);
+  test("quiz attempts stay short", async ({ page }) => {
+    await page.goto(baseURL + "/quiz/year-7/math/ac9m7a02/practice/");
+    await expect(page.locator("#startButton")).toBeVisible();
+    await expect(page.locator("#questionCount")).toContainText("5");
   });
 });

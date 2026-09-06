@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Dashboard | SkillrHub</title>
-  <meta name="description" content="See your SkillrHub study time, practice questions, tests and results saved on this device.">
+  <meta name="description" content="See your SkillrHub study time, practice items, tests and results saved on this device.">
   <meta name="robots" content="noindex, follow">
   <meta name="google-adsense-account" content="ca-pub-7734963540104771">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
@@ -57,12 +57,7 @@
     </header>
 
     <section class="dashboard-quick-tools" aria-label="Quick classroom tools">
-      <button id="quickWarmup" class="dashboard-tool-button dashboard-tool-button--warmup" type="button">
-        <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#dice"></use></svg></span><span><strong>Quick Class Warm-Up</strong><small>Open one question based on recent practice</small></span>
-      </button>
-      <button id="printScores" class="dashboard-tool-button" type="button">
-        <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#print"></use></svg></span><span><strong>Print Latest Scores</strong><small>Create a branded certificate with results, time spent and QR code</small></span>
-      </button>
+      <!-- Score print tool paused while this flow is reviewed. -->
       <button id="openReset" class="dashboard-tool-button dashboard-tool-button--reset" type="button">
         <span aria-hidden="true">↺</span><span><strong>Reset Dashboard</strong><small>Start a fresh daily practice record</small></span>
       </button>
@@ -85,7 +80,7 @@
 
       <div class="stat-grid" aria-label="Progress summary">
         <article class="stat-card stat-card--time"><span>Active learning time</span><strong id="activeTime">0m</strong><small>Counts while this tab is active</small></article>
-        <article class="stat-card"><span>Questions practised</span><strong id="questionsPractised">0</strong><small>In this date range</small></article>
+        <article class="stat-card"><span>Items practised</span><strong id="questionsPractised">0</strong><small>In this date range</small></article>
         <article class="stat-card"><span>Skills covered</span><strong id="skillsCovered">0</strong><small>Completed activity</small></article>
         <article class="stat-card"><span>Overall accuracy</span><strong id="accuracy">0%</strong><small>In this date range</small></article>
       </div>
@@ -93,7 +88,7 @@
       <div class="skill-grid" aria-label="Skill progress">
         <article class="skill-summary skill-summary--mastered"><span>Mastered</span><strong id="skillsMastered">0</strong><small>Passed a test</small></article>
         <article class="skill-summary skill-summary--pending"><span>Pending</span><strong id="skillsPending">0</strong><small>Practised, test not passed</small></article>
-        <article class="skill-summary"><span>Daily drills</span><strong id="dailyDrillsTaken">0</strong><small>Completed in this date range</small></article>
+        <!-- Daily Drill summary paused until question banks are reviewed. -->
         <article class="skill-summary"><span>Tests taken</span><strong id="testsTaken">0</strong><small>In this date range</small></article>
       </div>
     </section>
@@ -106,7 +101,7 @@
         </div>
         <p id="yearProgressSummary">Complete a Practice or Test for a curriculum skill to charge the battery.</p>
         <div id="yearSubjectProgress" class="year-subject-progress" aria-label="Completion by subject"></div>
-        <p id="yearProgressNote" class="year-progress__note">Each curriculum skill counts once. Daily Drills and repeat sessions build confidence but do not increase completion twice.</p>
+        <p id="yearProgressNote" class="year-progress__note">Each curriculum skill counts once. Repeat Practice and Test sessions build confidence but do not increase completion twice.</p>
       </div>
       <div class="learning-battery-wrap">
         <div id="learningBattery" class="learning-battery" role="progressbar" aria-label="Year completion" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
@@ -118,7 +113,7 @@
     </section>
 
     <section id="overallResult" class="overall-result overall-result--empty" aria-live="polite">
-      <div><p class="progress-kicker">Accuracy across activities</p><h2 id="overallLevel">No activity yet</h2><p id="overallDescription">Complete a Daily Drill, Practice or Test to see accuracy across activities.</p></div>
+      <div><p class="progress-kicker">Accuracy across activities</p><h2 id="overallLevel">No activity yet</h2><p id="overallDescription">Complete a Practice or Test to see accuracy across activities.</p></div>
       <strong id="overallPercentage">—</strong>
     </section>
 

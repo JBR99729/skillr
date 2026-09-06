@@ -294,7 +294,6 @@ document.addEventListener("DOMContentLoaded", () => {
     preReadSeconds: 0,
     preModuleNotesRequired: false,
     requireStudentName: false,
-    certificateOnPass: false,
     storageKey: "skillrQuizBestScore",
     ...(window.quizConfig || {})
   };
@@ -305,7 +304,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const activityMatch = window.location.pathname.match(
     /\/(practice|test)\/(?:index\.html)?$/i
   );
-  const isEightQuestionActivity = Boolean(activityMatch);
+  const isStandardQuizActivity = questions.length > 0;
+  const standardAttemptQuestionCount = 5;
 
   // Year 7 legacy launch pages include some stale generated copy. Preserve the
   // authored banks and Topic Guides, but do not show unrelated English notes
@@ -328,30 +328,32 @@ document.addEventListener("DOMContentLoaded", () => {
     config.maxQuestions = 1;
     config.questionCycle = false;
     config.requireStudentName = false;
-    config.certificateOnPass = false;
     config.preReadSeconds = 0;
     config.resultUrl = "";
-  } else if (isEightQuestionActivity) {
-    const configuredQuestionCount = Number(config.maxQuestions);
-    const selectedQuestionCount =
-      Number.isInteger(configuredQuestionCount) && configuredQuestionCount > 0
-        ? configuredQuestionCount
-        : 8;
+  } else if (isStandardQuizActivity) {
+    const selectedQuestionCount = Math.min(
+      standardAttemptQuestionCount,
+      Math.max(
+        1,
+        questions.length || standardAttemptQuestionCount
+      )
+    );
     config.maxQuestions = selectedQuestionCount;
-    config.shuffleQuestions = config.preserveQuestionOrder ? false : true;
-    config.questionCycle = !config.allowQuestionRepeats && questions.length > selectedQuestionCount;
+    config.shuffleQuestions = true;
+    config.questionCycle = false;
+    config.preserveQuestionOrder = false;
+    config.progressiveDifficulty = false;
+    config.responseMix = false;
     const displayedCount = document.getElementById("questionCount");
     if (displayedCount) displayedCount.textContent = String(selectedQuestionCount);
   }
 
   if (/\/daily-drills\//i.test(window.location.pathname)) {
-    config.shuffleQuestions = false;
     config.questionCycle = false;
   }
 
   if (isEmbedMode) {
     config.requireStudentName = false;
-    config.certificateOnPass = false;
     config.resultUrl = "";
     document.documentElement.classList.add("skillr-embed-mode");
   }
@@ -482,23 +484,6 @@ document.addEventListener("DOMContentLoaded", () => {
     elements.startButton.before(message);
     elements.startButton.disabled = true;
     return;
-  }
-
-  if (config.certificateOnPass) {
-    const certificateAttemptNote =
-      document.createElement("p");
-    certificateAttemptNote.className =
-      "certificate-attempt-note";
-    certificateAttemptNote.textContent =
-      `Certificate target: score above ${Number(config.passingPercent) || 75}% to unlock printing.`;
-    certificateAttemptNote.style.cssText =
-      "margin:.35rem 0 .75rem;font-size:.875rem;font-weight:600;color:#334155;";
-    elements.quizScreen
-      .querySelector(".quiz-header")
-      ?.insertAdjacentElement(
-        "afterend",
-        certificateAttemptNote
-      );
   }
 
   if (questions.length === 0) {
@@ -650,10 +635,6 @@ document.addEventListener("DOMContentLoaded", () => {
   let preModuleRecord = null;
   let preModuleComplete = false;
   let preModuleReadButton = null;
-  let cycleProgressElement = null;
-  let currentCycleKey = null;
-  let currentCycleTotalSets = null;
-
   let selectedSingleIndex = null;
   let selectedMultipleIndexes = new Set();
   let orderedItems = [];
@@ -1129,324 +1110,6 @@ document.addEventListener("DOMContentLoaded", () => {
     };
   }
 
-  function getQuestionCycleKey() {
-    const activity = activityMatch?.[1]?.toLowerCase() || "quiz";
-    return `${
-      config.questionCycleStorageKey ||
-      config.storageKey
-    }:${activity}:questionCycle`;
-  }
-
-  function renderCycleProgress() {
-    if (!config.questionCycle) {
-      return;
-    }
-
-    if (!cycleProgressElement) {
-      cycleProgressElement =
-        document.getElementById(
-          "practiceSetProgress"
-        );
-    }
-
-    if (!cycleProgressElement) {
-      cycleProgressElement =
-        document.createElement("p");
-      cycleProgressElement.id =
-        "practiceSetProgress";
-      cycleProgressElement.className =
-        "practice-set-progress";
-
-      const startCard =
-        elements.startScreen.querySelector(
-          ".start-card, .card"
-        );
-
-      const summary =
-        elements.startScreen.querySelector(
-          ".quiz-summary"
-        );
-
-      if (summary?.parentNode) {
-        summary.insertAdjacentElement(
-          "afterend",
-          cycleProgressElement
-        );
-      } else if (startCard) {
-        startCard.appendChild(
-          cycleProgressElement
-        );
-      }
-    }
-
-    const state = storageGetJson(
-      getQuestionCycleKey(),
-      {}
-    );
-
-    const totalSets =
-      currentCycleTotalSets ||
-      state.totalSets ||
-      Math.max(
-        1,
-        Math.ceil(
-          questions.length /
-            Math.max(
-              1,
-              Number(config.maxQuestions) || 1
-            )
-        )
-      );
-
-    const completedSets = Math.min(
-      Number(state.completedSets) || 0,
-      totalSets
-    );
-
-    cycleProgressElement.textContent =
-      `${completedSets}/${totalSets} sets completed`;
-  }
-
-  function getQuestionCoverageKeys(question) {
-    const explicit =
-      question.elaborations ??
-      question.elaborationCodes ??
-      question.elaborationCode ??
-      question.elaboration;
-
-    const values = Array.isArray(explicit)
-      ? explicit
-      : explicit
-        ? [explicit]
-        : question.skill
-          ? [question.skill]
-          : [];
-
-    return [...new Set(
-      values
-        .map((value) => String(value).trim().toLowerCase())
-        .filter(Boolean)
-    )];
-  }
-
-  function selectBalancedUnseenQuestions(
-    availableQuestions,
-    maximumQuestions,
-    applyResponseMix = true
-  ) {
-    if (applyResponseMix && config.responseMix && maximumQuestions === 8) {
-      const choices = availableQuestions.filter(q => q.responseType === "mcq");
-      const written = availableQuestions.filter(q => q.responseType === "short_answer");
-      if (choices.length >= 6 && written.length >= 2) {
-        return [
-          ...selectBalancedUnseenQuestions(choices, 6, false),
-          ...selectBalancedUnseenQuestions(written, 2, false)
-        ];
-      }
-    }
-    const remaining = availableQuestions.slice();
-    const selected = [];
-    const difficultyCounts = new Map();
-    const uncovered = new Set(
-      remaining.flatMap(getQuestionCoverageKeys)
-    );
-
-    while (
-      selected.length < maximumQuestions &&
-      remaining.length > 0 &&
-      uncovered.size > 0
-    ) {
-      let bestScore = 0;
-      let candidates = [];
-
-      remaining.forEach((question) => {
-        const score = getQuestionCoverageKeys(question)
-          .filter((key) => uncovered.has(key))
-          .length;
-
-        if (score > bestScore) {
-          bestScore = score;
-          candidates = [question];
-        } else if (score === bestScore && score > 0) {
-          candidates.push(question);
-        }
-      });
-
-      if (bestScore === 0) break;
-
-      const smallestDifficultyCount = Math.min(
-        ...candidates.map((question) =>
-          difficultyCounts.get(
-            inferQuestionDifficulty(question)
-          ) || 0
-        )
-      );
-      const balancedCandidates = candidates.filter(
-        (question) =>
-          (difficultyCounts.get(
-            inferQuestionDifficulty(question)
-          ) || 0) === smallestDifficultyCount
-      );
-      const chosen = shuffleArray(balancedCandidates)[0];
-      const difficulty = inferQuestionDifficulty(chosen);
-
-      selected.push(chosen);
-      difficultyCounts.set(
-        difficulty,
-        (difficultyCounts.get(difficulty) || 0) + 1
-      );
-      getQuestionCoverageKeys(chosen).forEach((key) =>
-        uncovered.delete(key)
-      );
-      remaining.splice(remaining.indexOf(chosen), 1);
-    }
-
-    while (
-      selected.length < maximumQuestions &&
-      remaining.length > 0
-    ) {
-      const smallestDifficultyCount = Math.min(
-        ...remaining.map((question) =>
-          difficultyCounts.get(
-            inferQuestionDifficulty(question)
-          ) || 0
-        )
-      );
-      const candidates = remaining.filter(
-        (question) =>
-          (difficultyCounts.get(
-            inferQuestionDifficulty(question)
-          ) || 0) === smallestDifficultyCount
-      );
-      const chosen = shuffleArray(candidates)[0];
-      const difficulty = inferQuestionDifficulty(chosen);
-
-      selected.push(chosen);
-      difficultyCounts.set(
-        difficulty,
-        (difficultyCounts.get(difficulty) || 0) + 1
-      );
-      remaining.splice(remaining.indexOf(chosen), 1);
-    }
-
-    return shuffleArray(selected);
-  }
-
-  function selectQuestionCycle(
-    prepared,
-    maximumQuestions
-  ) {
-    const questionById = new Map(
-      prepared.map((question) => [
-        getQuestionIdentity(question),
-        question
-      ])
-    );
-    const allIds = [...questionById.keys()];
-    const signature = allIds.slice().sort().join("||");
-    const totalSets = Math.max(
-      1,
-      Math.ceil(allIds.length / maximumQuestions)
-    );
-    const key = getQuestionCycleKey();
-    let state = storageGetJson(key, {});
-
-    const shouldReset =
-      state.signature !== signature ||
-      !Array.isArray(state.remainingIds) ||
-      (
-        state.remainingIds.length === 0 &&
-        Number(state.completedSets) >= totalSets
-      );
-
-    if (shouldReset) {
-      state = {
-        signature,
-        remainingIds: allIds.slice(),
-        completedSets: 0,
-        totalSets
-      };
-    }
-
-    const availableQuestions = state.remainingIds
-      .map((id) => questionById.get(id))
-      .filter(Boolean);
-    const selected = selectBalancedUnseenQuestions(
-      availableQuestions,
-      maximumQuestions
-    );
-    const selectedIds = new Set(
-      selected.map(getQuestionIdentity)
-    );
-
-    state.remainingIds = state.remainingIds.filter(
-      (id) => !selectedIds.has(id)
-    );
-
-    if (
-      selected.length < maximumQuestions &&
-      state.remainingIds.length === 0
-    ) {
-      const rolloverCandidates = prepared.filter(
-        (question) => !selectedIds.has(
-          getQuestionIdentity(question)
-        )
-      );
-      const rollover = selectBalancedUnseenQuestions(
-        rolloverCandidates,
-        maximumQuestions - selected.length
-      );
-      const rolloverIds = new Set(
-        rollover.map(getQuestionIdentity)
-      );
-
-      selected.push(...rollover);
-      state.remainingIds = allIds.filter(
-        (id) => !rolloverIds.has(id)
-      );
-      state.completedSets = 0;
-    }
-
-    currentCycleKey = key;
-    currentCycleTotalSets = totalSets;
-    state.totalSets = totalSets;
-    storageSetJson(key, state);
-
-    return selected;
-  }
-
-  function markCurrentCycleSetComplete() {
-    if (
-      !config.questionCycle ||
-      !currentCycleKey
-    ) {
-      return;
-    }
-
-    const state = storageGetJson(
-      currentCycleKey,
-      {}
-    );
-
-    const totalSets =
-      currentCycleTotalSets ||
-      state.totalSets ||
-      1;
-
-    state.completedSets = Math.min(
-      totalSets,
-      (Number(state.completedSets) || 0) + 1
-    );
-    state.totalSets = totalSets;
-
-    storageSetJson(
-      currentCycleKey,
-      state
-    );
-
-    renderCycleProgress();
-  }
-
   function difficultyNumber(value) {
     if (typeof value === "number" && Number.isFinite(value)) {
       return Math.max(1, Math.min(5, Math.round(value)));
@@ -1540,24 +1203,14 @@ document.addEventListener("DOMContentLoaded", () => {
     Number.isInteger(maximumQuestions) &&
     maximumQuestions > 0
   ) {
-    if (
-      config.questionCycle &&
-      prepared.length > maximumQuestions
-    ) {
-      prepared = selectQuestionCycle(
-        prepared,
-        maximumQuestions
-      );
-    } else {
-      if (config.shuffleQuestions) {
-        prepared = shuffleArray(prepared);
-      }
-
-      prepared = prepared.slice(
-        0,
-        maximumQuestions
-      );
+    if (config.shuffleQuestions) {
+      prepared = shuffleArray(prepared);
     }
+
+    prepared = prepared.slice(
+      0,
+      maximumQuestions
+    );
   } else if (config.shuffleQuestions) {
     prepared = shuffleArray(prepared);
   }
@@ -3899,287 +3552,6 @@ function renderImageDragState(
     );
   }
 
-  const certificateBrandMark = `<img class="certificate-mark" src="/icons/skillrhub-mark.svg" alt="SkillrHub">`;
-
-  const certificateFooter = `<footer class="certificate-footer" aria-label="SkillrHub values">
-    <div class="footer-item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5.5c3.5-.8 6.5 0 9 2.3v12c-2.5-2-5.5-2.7-9-2V5.5Zm18 0c-3.5-.8-6.5 0-9 2.3v12c2.5-2 5.5-2.7 9-2V5.5Z"/></svg><span>Educational Focus</span></div>
-    <div class="footer-item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 10h16v10H4V10Zm-1-4h18v4H3V6Zm9 0v14M12 6C9 6 7 4.8 7 3.5 7 2.3 8 2 9 2c2 0 3 2.2 3 4Zm0 0c3 0 5-1.2 5-2.5C17 2.3 16 2 15 2c-2 0-3 2.2-3 4Z"/></svg><span>Free Resources</span></div>
-    <div class="footer-item"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="8" cy="8" r="3"/><circle cx="17" cy="9" r="2.5"/><path d="M2.5 20c.3-4 2.2-6 5.5-6s5.2 2 5.5 6m0-4.5c.8-1 2-1.5 3.5-1.5 2.8 0 4.2 2 4.5 6h-5.5"/></svg><span>For Everyone</span></div>
-    <div class="footer-item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20S4 15.3 4 9.2C4 4.5 9.8 3 12 7c2.2-4 8-2.5 8 2.2C20 15.3 12 20 12 20Z"/></svg><span>Built with Purpose</span></div>
-  </footer>`;
-
-  async function certificateQrDataUrl(url) {
-    if (!window.QRCode) {
-      await new Promise((resolve, reject) => {
-        const existing = document.querySelector('script[data-certificate-qr]');
-        if (existing) {
-          existing.addEventListener("load", resolve, { once: true });
-          existing.addEventListener("error", reject, { once: true });
-          return;
-        }
-        const script = document.createElement("script");
-        script.src = "/assets/vendor/qrcode.min.js?v=1";
-        script.dataset.certificateQr = "true";
-        script.addEventListener("load", resolve, { once: true });
-        script.addEventListener("error", reject, { once: true });
-        document.head.appendChild(script);
-      });
-    }
-    const holder = document.createElement("div");
-    holder.style.cssText = "position:fixed;left:-9999px;top:-9999px";
-    document.body.appendChild(holder);
-    new window.QRCode(holder, { text: url, width: 180, height: 180, colorDark: "#173968", colorLight: "#ffffff", correctLevel: window.QRCode.CorrectLevel.M });
-    const image = holder.querySelector("img");
-    const canvas = holder.querySelector("canvas");
-    const dataUrl = image?.src || canvas?.toDataURL("image/png") || "";
-    holder.remove();
-    return dataUrl;
-  }
-
-  async function printCertificate(percentage) {
-    const studentName =
-      getStudentName() || "Student";
-
-    const escapeCertificateText = (value) =>
-      String(value)
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;");
-
-    const certificateWindow =
-      window.open("", "SkillrHubTestCertificate", "width=1120,height=820");
-
-    if (!certificateWindow) {
-      alert(
-        "Please allow pop-ups to print the certificate."
-      );
-      return;
-    }
-
-    certificateWindow.document.write("<!doctype html><title>Preparing SkillrHub certificate</title><p style='font:18px system-ui;padding:32px'>Preparing certificate...</p>");
-
-    try {
-      const resourceUrl = new URL(window.location.pathname, window.location.origin).href;
-      const qrDataUrl = await certificateQrDataUrl(resourceUrl);
-      const curriculumCode = String(config.skillCode || "SkillrHub").toUpperCase();
-      const completionDate = new Date().toLocaleDateString("en-AU", { day: "numeric", month: "long", year: "numeric" });
-      certificateWindow.document.open();
-      certificateWindow.document.write(
-        `<!DOCTYPE html>
-      <html lang="en-AU">
-      <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>SkillrHub Completion Certificate</title>
-        <style>
-          @page {
-            size: A4 landscape;
-            margin: 10mm;
-          }
-          * {
-            box-sizing: border-box;
-          }
-          html,
-          body {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-            color: #1f2937;
-            background: #f4f7fb;
-          }
-          body {
-            padding: 10mm;
-          }
-          .certificate {
-            position: relative;
-            width: 277mm;
-            min-height: 190mm;
-            margin: 0 auto;
-            padding: 13mm 15mm 11mm;
-            overflow: hidden;
-            border: 2px solid #173968;
-            background: linear-gradient(145deg, #fff 0%, #f7faff 100%);
-            text-align: center;
-            display: flex;
-            flex-direction: column;
-            break-inside: avoid;
-            page-break-inside: avoid;
-          }
-          .certificate::before { content: ""; position: absolute; inset: 5mm; border: 1px solid #cf9d35; pointer-events: none; }
-          .certificate-header {
-            position: relative;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 4mm;
-            padding-bottom: 5mm;
-            border-bottom: 1px solid #cad6e5;
-          }
-          .certificate-mark {
-            width: 0.82in;
-            height: 0.82in;
-            object-fit: contain;
-          }
-          .certificate-main {
-            position: relative;
-            display: flex;
-            flex: 1;
-            flex-direction: column;
-            justify-content: center;
-            padding: 5mm 0 4mm;
-          }
-          .certificate p {
-            margin: 0.12in 0;
-          }
-          .brand {
-            margin: 0;
-            color: #1a3a72;
-            font-size: 18px;
-            font-weight: 800;
-            letter-spacing: 0.08em;
-            text-align: left;
-            text-transform: uppercase;
-          }
-          .tagline { display: block; color: #58677d; font-size: 11px; font-weight: 700; letter-spacing: 0.12em; margin-top: 4px; }
-          h1 {
-            margin: 0.2in 0;
-            font-size: 34px;
-          }
-          h2 {
-            margin: 0.16in 0;
-            font-size: 24px;
-            line-height: 1.2;
-            overflow-wrap: anywhere;
-          }
-          .student {
-            margin: 0.2in 0;
-            font-size: 30px;
-            font-weight: 800;
-            overflow-wrap: anywhere;
-          }
-          .score {
-            display: inline-block;
-            align-self: center;
-            padding: 0.1in 0.24in;
-            border-radius: 999px;
-            background: #173968;
-            color: #fff;
-            font-size: 20px;
-            font-weight: 800;
-          }
-          .certificate-meta { position: relative; display: grid; grid-template-columns: 1fr 76mm; gap: 6mm; align-items: center; margin-top: 5mm; padding: 4mm; border: 1px solid #cad6e5; background: #fff; text-align: left; }
-          .certificate-meta p { margin: 0.04in 0; color: #44546a; font-size: 12px; }
-          .certificate-meta strong { color: #173968; }
-          .certificate-qr { display: grid; grid-template-columns: 24mm 1fr; gap: 4mm; align-items: center; padding: 3mm; border: 1px solid #cf9d35; background: #fffaf0; }
-          .certificate-qr img { width: 24mm; height: 24mm; border: 1px solid #cad6e5; }
-          .certificate-qr span { color: #52647d; font-size: 9px; line-height: 1.3; }
-          .certificate-footer { position: relative; display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.08in; padding-top: 0.18in; border-top: 1px solid #aab7ca; color: #1a3a72; }
-          .footer-item { display: flex; align-items: center; justify-content: center; gap: 6px; min-width: 0; font-size: 9px; font-weight: 700; line-height: 1.15; }
-          .footer-item svg { width: 17px; height: 17px; flex: 0 0 17px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
-          @media print {
-            html,
-            body {
-              width: auto;
-              height: auto;
-              background: #fff;
-            }
-            body {
-              padding: 0;
-            }
-            .certificate {
-              width: auto;
-              min-height: 190mm;
-              box-shadow: none;
-              overflow: hidden;
-            }
-          }
-      </style>
-      </head>
-      <body>
-        <section class="certificate">
-          <header class="certificate-header">${certificateBrandMark}<p class="brand">SkillrHub<span class="tagline">Learn &amp; Grow</span></p></header>
-          <main class="certificate-main">
-          <h1>Completion Certificate</h1>
-          <p>This certifies that</p>
-          <p class="student">${escapeCertificateText(studentName)}</p>
-          <p>successfully completed</p>
-          <h2>${escapeCertificateText(getQuizTitle())}</h2>
-          <p class="score">Score: ${percentage}%</p>
-          <div class="certificate-meta">
-            <div><p><strong>Curriculum:</strong> ${escapeCertificateText(curriculumCode)}</p><p><strong>Completed:</strong> ${escapeCertificateText(completionDate)}</p><p><strong>Issued by:</strong> SkillrHub Learning</p></div>
-            <div class="certificate-qr">${qrDataUrl ? `<img src="${qrDataUrl}" alt="QR code to open this SkillrHub resource">` : ""}<span><strong>Share free learning</strong><br>Scan to revisit this test. Share SkillrHub with families and teachers looking for free Australian Curriculum learning resources.</span></div>
-          </div>
-          </main>
-          ${certificateFooter}
-        </section>
-      </body>
-      </html>`
-      );
-
-      const closeCertificate = () => {
-        if (!certificateWindow.closed) certificateWindow.close();
-        window.focus();
-      };
-      certificateWindow.addEventListener("afterprint", closeCertificate, { once: true });
-      certificateWindow.matchMedia("print").addEventListener("change", (event) => {
-        if (!event.matches) closeCertificate();
-      }, { once: true });
-      certificateWindow.addEventListener("load", () => {
-        certificateWindow.focus();
-        certificateWindow.print();
-      }, { once: true });
-      certificateWindow.document.close();
-    } catch (error) {
-      certificateWindow.close();
-      console.error("Certificate print failed:", error);
-      alert("The certificate could not be prepared right now.");
-    }
-  }
-
-  function updateCertificateAction(percentage) {
-    const existing =
-      document.getElementById(
-        "certificateButton"
-      );
-
-    existing?.remove();
-
-    const passingPercent =
-      Number(config.passingPercent) || 75;
-
-    if (
-      !config.certificateOnPass ||
-      percentage < passingPercent
-    ) {
-      return;
-    }
-
-    const button =
-      document.createElement("button");
-    button.id =
-      "certificateButton";
-    button.type =
-      "button";
-    button.className =
-      "button button-secondary";
-    button.textContent =
-      "Print certificate";
-
-    button.addEventListener(
-      "click",
-      () => {
-        void printCertificate(percentage);
-      }
-    );
-
-    const actions =
-      elements.resultScreen.querySelector(
-        ".result-actions"
-      );
-
-    actions?.appendChild(button);
-  }
-
   function updateResultSharePrompt(percentage) {
     document.getElementById("resultSharePrompt")?.remove();
     const quizLabel = document.querySelector("#startScreen .eyebrow")?.textContent || "";
@@ -4189,7 +3561,7 @@ function renderImageDragState(
     const actions = elements.resultScreen.querySelector(".result-actions");
     if (!actions) return;
     const url = window.location.href;
-    const text = "SkillrHub offers free F–10 practice, drills and printable worksheets with no learner login required.";
+    const text = "SkillrHub offers free F–10 practice, tests and printable worksheets with no learner login required.";
     const prompt = document.createElement("section");
     prompt.id = "resultSharePrompt";
     prompt.className = "result-share-prompt";
@@ -4257,13 +3629,9 @@ function renderImageDragState(
       Boolean(window.skillrDailyDrillMeta) ||
       window.location.pathname.includes("/daily-drills/");
 
-    const certificateAvailable = Boolean(config.certificateOnPass);
-
     const message = isDailyDrill
       ? "Congratulations — you are proficient! Great work — you are building strong daily fluency."
-      : certificateAvailable
-        ? "Congratulations — you are proficient! Certificate unlocked where available."
-        : "Congratulations — you are proficient!";
+      : "Congratulations — you are proficient!";
 
     const celebration = document.createElement("div");
     celebration.className = "quiz-celebration";
@@ -4341,8 +3709,6 @@ function renderImageDragState(
         ? `${score} of ${markedTotal} checked answers are correct. ${pendingReview} task${pendingReview === 1 ? "" : "s"} need a grown-up's review before the final result.`
         : getResultMessage(percentage);
 
-    if (!isWarmupMode && !isEmbedMode) markCurrentCycleSetComplete();
-    updateCertificateAction(pendingReview ? -1 : percentage);
     if (!pendingReview) {
       updateResultSharePrompt(percentage);
       celebrateCompletion(score, total, percentage);
@@ -4541,18 +3907,55 @@ function renderImageDragState(
 
   }
 
+  function ensureAttemptCoverageNote() {
+    if (
+      !isStandardQuizActivity ||
+      isWarmupMode ||
+      isEmbedMode
+    ) {
+      return;
+    }
+
+    if (document.getElementById("attemptCoverageNote")) {
+      return;
+    }
+
+    const summary =
+      elements.startScreen.querySelector(
+        ".quiz-summary"
+      );
+    const startCard =
+      elements.startScreen.querySelector(
+        ".start-card, .card"
+      );
+    const note = document.createElement("p");
+
+    note.id = "attemptCoverageNote";
+    note.className = "practice-set-progress";
+    note.textContent =
+      "Each attempt is a short shuffled set. Repeat quiz practice to access more of the full question bank.";
+
+    if (summary?.parentNode) {
+      summary.insertAdjacentElement(
+        "afterend",
+        note
+      );
+    } else if (startCard) {
+      startCard.appendChild(note);
+    }
+  }
+
 
   /* =========================================================
      INITIAL SCREEN
      ========================================================= */
 
   ensureStudentNameInput();
+  ensureAttemptCoverageNote();
   preModuleRecord = getPreModuleRecord();
   if (preModuleRecord) {
     elements.preModuleScreen = buildPreModuleScreen(preModuleRecord);
   }
-  renderCycleProgress();
-
   showScreen(
     elements.startScreen
   );

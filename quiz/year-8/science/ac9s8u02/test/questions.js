@@ -18,6 +18,6 @@ const q=[
 ["ac9s8u02-t-016","system-survival","A blockage reduces blood flow to part of the brain. Why can damage occur quickly even though the blockage is local?",["Brain cells depend on continuous delivery of oxygen and glucose through the circulatory system","Brain cells make their own blood when supply falls","Only the blocked vessel is affected because organs work independently","The digestive system immediately replaces the missing blood"],0,"A local circulatory failure can rapidly affect organ function because cells depend on transported resources for survival."]
 ];
 window.skillrTestQuestions=q.map(([id,skill,question,answers,correct,summary])=>({id,curriculumCode:"AC9S8U02",bank:"test",skill,printable:true,type:"single",question,audioPrompt:question,answers,correct,explanation:summary+"\nHint: Trace the evidence from structure to function, then to the effect on the organ system or organism.",structuredExplanation:{summary,hint:"Trace the evidence from structure to function, then to the effect on the organ system or organism."},qualitySchema:"production-v2"}));
-if(window.quizConfig){window.quizConfig.maxQuestions=8;window.quizConfig.questionCycle=true;}
+if(window.quizConfig){window.quizConfig.maxQuestions=5;window.quizConfig.questionCycle=false;}
 window.skillrExamQuestions=window.skillrTestQuestions;
 window.quizQuestions=window.skillrTestQuestions;

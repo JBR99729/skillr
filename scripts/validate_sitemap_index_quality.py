@@ -15,6 +15,22 @@ ROOT = Path(__file__).resolve().parents[1]
 BASE = "https://skillrhub.com"
 SITEMAP_NS = "http://www.sitemaps.org/schemas/sitemap/0.9"
 IGNORED_PARTS = {".git", "node_modules", "playwright-report", "test-results"}
+GENERATED_SITEMAP_NAMES = {
+    "sitemap-site.xml",
+    "sitemap-foundation.xml",
+    "sitemap-year1.xml",
+    "sitemap-year2.xml",
+    "sitemap-year3.xml",
+    "sitemap-year4.xml",
+    "sitemap-year5.xml",
+    "sitemap-year6.xml",
+    "sitemap-year7.xml",
+    "sitemap-year8.xml",
+    "sitemap-year9.xml",
+    "sitemap-year10.xml",
+    "sitemap-practice.xml",
+    "sitemap-worksheets.xml",
+}
 
 
 def route(path: Path) -> str:
@@ -104,7 +120,11 @@ def file_for_route(value: str) -> Path:
 def main() -> None:
     errors: list[str] = []
     route_sitemaps: dict[str, list[str]] = defaultdict(list)
-    sitemap_files = sorted(ROOT.glob("sitemap-*.xml"))
+    sitemap_files = [
+        ROOT / name
+        for name in sorted(GENERATED_SITEMAP_NAMES)
+        if (ROOT / name).is_file()
+    ]
 
     for sitemap in sitemap_files:
         root = ET.parse(sitemap).getroot()

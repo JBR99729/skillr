@@ -214,7 +214,7 @@
     const signature=bankSignature(ids);
 
     if(idSet.size!==ids.length){
-      console.error("Daily Drill question IDs must be unique before no-repeat rotation can run.");
+      console.error("Daily Drill question IDs must be unique before selection can run.");
     }
 
     const freshState=round=>({
@@ -306,7 +306,7 @@
     shuffleQuestions:!(subject==="english"&&skill==="reading-comprehension"),
     shuffleAnswers:usesQuestionRound,
     avoidSameCorrectPosition:usesQuestionRound,
-    maxQuestions:8,
+    maxQuestions:5,
     caseSensitiveText:false,
     storageKey:bestKey
   };
@@ -328,11 +328,11 @@
     const cycle=document.getElementById("cycleInfo");
     if(cycle){
       cycle.textContent=completed>=expected
-        ?`${expected}/${expected} questions completed • a fresh shuffled round starts next time`
-        :`${attemptSize} varied questions • ${expected}-question bank • ${completed}/${expected} completed this round`;
+        ?"A fresh shuffled round starts next time"
+        :"Short shuffled practice from the full question bank";
     }
     const start=document.getElementById("startButton");
-    if(start&&attemptSize!==8) start.textContent=`Start ${attemptSize}-question drill`;
+    if(start) start.textContent="Start practice";
   }
 
   if(subject==="math"){
@@ -409,7 +409,7 @@
       const bc=document.getElementById("bankCount");
       if(bc) bc.textContent=String(expected);
       const cycle=document.getElementById("cycleInfo");
-      if(cycle) cycle.textContent=`8 questions • ${expected}-question rotating bank • ${sets} different sets before a full cycle repeats`;
+      if(cycle) cycle.textContent="Short shuffled practice from the full question bank";
     }
     addRelatedYearLinks();
   });

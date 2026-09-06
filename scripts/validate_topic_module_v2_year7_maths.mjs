@@ -246,11 +246,10 @@ for (const row of registry) {
   const upgradedPractice = practiceHtml.includes("production-question-ui.js");
   const upgradedTest = testHtml.includes("production-question-ui.js");
   assert(practiceHtml.includes("quiz/assets/script.js") && practiceHtml.includes("pwa-register.js"), `${tag}: Practice lost quiz/PWA features`);
-  assert(/"maxQuestions":8/.test(practiceHtml), `${tag}: Practice attempt size changed`);
-  if (upgradedPractice) assert(/"shuffleQuestions":true/.test(practiceHtml) && /"questionCycle":true/.test(practiceHtml), `${tag}: upgraded Practice rotation configuration changed`);
-  else assert(/"shuffleQuestions":false/.test(practiceHtml) && /"questionCycle":false/.test(practiceHtml), `${tag}: legacy Practice configuration changed before its assessment-bank upgrade`);
+  assert(/"maxQuestions":5/.test(practiceHtml), `${tag}: Practice attempt size changed`);
+  assert(/"shuffleQuestions":true/.test(practiceHtml) && /"questionCycle":false/.test(practiceHtml), `${tag}: Practice shuffle configuration changed`);
   assert(testHtml.includes("quiz/assets/script.js") && testHtml.includes("pwa-register.js"), `${tag}: Test lost quiz/PWA features`);
-  assert(new RegExp(`"maxQuestions":${upgradedTest ? 12 : 8}`).test(testHtml) && /"requireStudentName":true/.test(testHtml) && /"certificateOnPass":true/.test(testHtml), `${tag}: Test attempt/certificate configuration changed`);
+  assert(/"maxQuestions":5/.test(testHtml) && /"requireStudentName":true/.test(testHtml) && /"shuffleQuestions":true/.test(testHtml) && /"questionCycle":false/.test(testHtml), `${tag}: Test attempt configuration changed`);
 }
 
 assert(topicPracticeRoutes.size === 60, `Expected 60 distinct Topic Practice routes, found ${topicPracticeRoutes.size}`);

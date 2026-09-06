@@ -130,26 +130,27 @@ for code in CODES:
         match=re.search(r'window.quizConfig\s*=\s*(\{.*?\});',s,re.S);assert match,p
         cfg=json.loads(match[1]);newkey=f'skillr{code}{bank.title()}Result:{VERSION}'
         cfg.update(bankVersion=VERSION,storageKey=f'{code}{bank.title()}Best:{VERSION}',resultStorageKey=newkey,
-          maxQuestions=8 if bank=='practice' else 16,questionCycle=bank=='practice',shuffleQuestions=bank=='practice',
-          preserveQuestionOrder=bank=='test',responseMix=bank=='practice',progressiveDifficulty=bank=='practice',
-          avoidSameCorrectPosition=True,questionCycleStorageKey=f'{code}:{bank}:{VERSION}',
+          maxQuestions=5,questionCycle=False,shuffleQuestions=True,
+          preserveQuestionOrder=False,responseMix=False,progressiveDifficulty=False,
+          avoidSameCorrectPosition=True,
           resultUrl='result/',reviewUrl='review/',retakeUrl='retake/')
+        cfg.pop('questionCycleStorageKey', None)
         s=s[:match.start()]+'window.quizConfig='+json.dumps(cfg,separators=(',',':'))+';'+s[match.end():]
         s=re.sub(r'(/quiz/year-1/math/'+code.lower()+'/'+bank+r'/questions\.js)(?:\?[^"<]*)?',r'\1?v='+VERSION,s)
-        s=s.replace('/quiz/assets/script.js?v=115','/quiz/assets/script.js?v='+VERSION)
+        s=s.replace('/quiz/assets/script.js?v=117','/quiz/assets/script.js?v='+VERSION)
         support=f'<script src="/quiz/assets/year1-maths-support.js?v={VERSION}"></script>'
         if support not in s:s=s.replace('<script src="/quiz/assets/production-question-ui.js',support+'<script src="/quiz/assets/production-question-ui.js')
         css=f'<link rel="stylesheet" href="/quiz/assets/year1-maths-bank.css?v={VERSION}">'
         if css not in s:s=s.replace('</head>',css+'</head>')
         # Correct only verified obsolete question counts and introductory bank copy.
         s=re.sub(r'(<span\b[^>]*\bid="questionCount"[^>]*>)\d+(</span>)',lambda m:m[1]+str(cfg['maxQuestions'])+m[2],s)
-        s=re.sub(r'(<span class="summary-number">)\d+(</span><span class="summary-label">Question bank</span>)',lambda m:m[1]+str(size)+m[2],s)
-        s=re.sub(r'\b\d+-question\b',lambda m:('8-question' if bank=='practice' else '16-question') if int(m[0].split('-')[0])<17 else ('24-question' if bank=='practice' else '16-question'),s)
-        s=s.replace('a 8-question','an 8-question')
-        intro='Practise 8 questions at a time from 24 questions: 6 choices and 2 written or practical tasks. Complete three sets to cover the bank.' if bank=='practice' else 'Try all 16 questions: 12 choices and 4 written or practical tasks. A grown-up checks drawings and explanations after the test.'
+        s=re.sub(r'<div><span class="summary-number">\d+</span><span class="summary-label">Question bank</span></div>','',s)
+        s=s.replace('<span class="summary-label">Questions this attempt</span>','<span class="summary-label">This attempt</span>')
+        s=re.sub(r'\b\d+-question\b','short shuffled',s)
+        intro='Use this short shuffled attempt. Repeat quiz practice to access more of the full question bank.'
         introductions=iter([intro]+['']*10)
         s=re.sub(r'<p class="intro-text">.*?</p>',lambda m:('<p class="intro-text">'+text+'</p>') if (text:=next(introductions,'')) else '',s,flags=re.S)
-        assessment='Each Practice set has 8 questions from the 24-question bank, with choices and short tasks. Review the explanations together.' if bank=='practice' else 'The Test contains all 16 questions. A grown-up checks practical tasks and explanations before a final score or certificate is awarded.'
+        assessment='Use short shuffled attempts and review explanations together. A grown-up checks drawings and practical tasks where needed.'
         s=re.sub(r'(<strong>Assessment guidance:</strong>).*?(</li>)',lambda m:m[1]+' '+assessment+m[2],s,flags=re.S)
         p.write_text(s)
         for action,script in [('result','separate-result'),('review','separate-review')]:
@@ -161,7 +162,7 @@ for code in CODES:
             if action=='review' and '/assets/progress-store.js' not in s:s=s.replace(support,f'<script src="/assets/progress-store.js?v={VERSION}"></script>'+support)
             p.write_text(s)
         p=base/bank/'retake/index.html';s=p.read_text()
-        text='Start another set of 8 Practice questions. Completed sets rotate through the 24-question bank before repeating.' if bank=='practice' else 'Try the 16 Test questions again. Review your previous answers and explanations before restarting.'
+        text='Start another short shuffled attempt. Repeated quiz practice helps learners access more of the full question bank.'
         s=re.sub(r'(<h1>.*?</h1>)<p>.*?</p>',lambda m:m[1]+'<p>'+text+'</p>',s,count=1,flags=re.S)
         p.write_text(s)
 
@@ -171,22 +172,21 @@ counts={kind:sum(q['type']==kind for q in converted) for kind in ['single','text
 
 Owner-requested one-time import, 6 September 2026. Version: `{VERSION}`.
 
-600 independently authored questions across all 15 Year 1 Maths curriculum codes.
-Each code has 24 Practice questions and a separate 16-question Test.
-There are 450 multiple-choice questions, 150 short tasks and 205 semantic visuals.
+Large independently authored banks across all Year 1 Maths curriculum codes.
+Each code has separate Practice and Test banks.
+The source includes multiple-choice items, short tasks and semantic visuals.
 Of the short tasks, {counts['text']} have explicit automatic acceptance rules and
 {counts['self-check']} require an adult to check the requested evidence.
 
 `bank-data.json` and `year1-maths-bank.csv` are the editorial source snapshot.
 `scripts/import-year1-visual-bank.py` performs the explicitly scoped import.
-The runtime keeps six MCQs and two short tasks per eight-question Practice set,
-with unseen-question rotation and progressively ordered difficulty.
+The runtime serves short shuffled attempts from the relevant bank.
 
 Drawings, models and explanations are saved for adult review. They do not award
 correctness for completion. The Review answers page provides the model, marking
 guidance and adult marking controls. Pending tasks are excluded from accuracy;
-a Test cannot pass or unlock a certificate until every task has been marked.
-Best scores, attempt results and question rotation use the new bank version.
+a Test cannot pass until every task has been marked.
+Best scores and attempt results use the new bank version.
 Historical dashboard attempts remain available and carry their original version.
 
 The existing single-page worksheet generator has its prior bank preserved in

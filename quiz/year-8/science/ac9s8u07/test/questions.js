@@ -20,4 +20,4 @@ q("ac9s8u07-t-016","classification","Which pair contains one physical change fol
 ];
 window.skillrExamQuestions=window.skillrTestQuestions;
 window.quizQuestions=window.skillrTestQuestions;
-if(window.quizConfig){window.quizConfig.maxQuestions=8;window.quizConfig.questionCycle=true;}
+if(window.quizConfig){window.quizConfig.maxQuestions=5;window.quizConfig.questionCycle=false;}

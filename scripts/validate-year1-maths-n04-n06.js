@@ -49,13 +49,13 @@ for(const code of codes){
   const testPage=fs.readFileSync(`quiz/year-1/math/${code}/test/index.html`,"utf8");
   const quizPage=fs.readFileSync(`quiz/year-1/math/${code}/quiz/index.html`,"utf8");
   const worksheetPage=fs.readFileSync(`quiz/year-1/math/${code}/worksheet/index.html`,"utf8");
-  if(!practicePage.includes('"maxQuestions":7')||!practicePage.includes('"questionCycle":true'))throw Error(`${code}: Practice rotation config`);
-  if(!testPage.includes('"maxQuestions":12')||!testPage.includes('"certificateOnPass":true'))throw Error(`${code}: Test config`);
-  if(!quizPage.includes('"maxQuestions":10')||!quizPage.includes('"questionCycle":true'))throw Error(`${code}: Quiz rotation config`);
+  if(!practicePage.includes('"maxQuestions":5')||practicePage.includes('"questionCycle":true'))throw Error(`${code}: Practice shuffle config`);
+  if(!testPage.includes('"maxQuestions":5')||testPage.includes('"certificateOnPass":true')||testPage.includes('"questionCycle":true'))throw Error(`${code}: Test config`);
+  if(!quizPage.includes('"maxQuestions":5')||quizPage.includes('"questionCycle":true'))throw Error(`${code}: Quiz shuffle config`);
   if(!worksheetPage.includes('worksheetQuestionLimit:8')||!worksheetPage.includes('/practice/questions.js'))throw Error(`${code}: worksheet source`);
 
   const activity=fs.readFileSync(`quiz/year-1/math/${code}/index.html`,"utf8");
-  if(!activity.includes("28 Practice")||!activity.includes("16 auto-marked Test")||!activity.includes("50-question Quiz")||!activity.includes(`/${code}/quiz/`))throw Error(`${code}: activity counts or Quiz link`);
+  if(!activity.includes("Practice")||!activity.includes("Test")||!activity.includes("Quiz")||!activity.includes(`/${code}/quiz/`))throw Error(`${code}: activity links`);
 }
 const extFile="quiz/assets/daily-drills/year1-maths-n04-n06-extensions.js";
 const w={};const dailyContext={window:w,console};vm.createContext(dailyContext);vm.runInContext(fs.readFileSync(extFile,"utf8"),dailyContext,{filename:extFile});

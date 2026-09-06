@@ -33,7 +33,7 @@
     var details = options || {};
     var url = details.url || window.location.href;
     var title = details.title || document.title || "SkillrHub learning resources";
-    var message = details.text || "Free Foundation to Year 10 practice, drills and printable worksheets—no learner login required.";
+    var message = details.text || "Free Foundation to Year 10 practice and printable worksheets—no learner login required.";
 
     if (navigator.share) {
       try {

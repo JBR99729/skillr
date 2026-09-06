@@ -121,12 +121,14 @@ for (const relative of ["practice/index.html", "test/index.html"]) {
 
 const activityFile = path.join(route, "index.html");
 if (fs.existsSync(activityFile)) {
-  const practiceCount = items.filter((item) => item.bank === "practice").length;
-  const testCount = items.filter((item) => item.bank === "test").length;
   let html = fs.readFileSync(activityFile, "utf8");
   html = html
-    .replace(/\d+ Practice questions/, `${practiceCount} Practice questions`)
-    .replace(/\d+ auto-marked Test questions/, `${testCount} auto-marked Test questions`);
+    .replace(
+      /<p>Choose a learning activity\.[\s\S]*?<\/p>/,
+      "<p>Choose a learning activity. Practice and Test use short shuffled attempts. Repeat quiz practice to access more of the full question bank.</p>"
+    )
+    .replace(/\d+ Practice questions/, "Practice questions")
+    .replace(/\d+ auto-marked Test questions/, "auto-marked Test questions");
   fs.writeFileSync(activityFile, html);
 }
 
