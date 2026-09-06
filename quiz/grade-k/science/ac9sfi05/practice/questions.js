@@ -4,480 +4,600 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfi05-p-001",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "You saw a green leaf. What can you share?",
-    "explanation": "The leaf is green is an observation that can be shared.",
+    "skill": "share science questions and observations",
+    "question": "A group observed a seed has two leaves. Which sentence shares the observation clearly?",
+    "explanation": "The clear sentence names the observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“The leaf is green.”",
-      "“The leaf can sing.”",
-      "“The leaf is magic.”"
+      "The seed has two leaves.",
+      "The seed is nice.",
+      "We did a thing."
     ],
     "correct": 0,
-    "audioPrompt": "You saw a green leaf. What can you share?",
+    "audioPrompt": "A group observed a seed has two leaves. Which sentence shares the observation clearly?",
     "structuredExplanation": {
-      "summary": "The leaf is green is an observation that can be shared."
-    }
+      "summary": "The clear sentence names the observation.",
+      "hint": "Choose the sentence with evidence."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-002",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share questions",
-    "question": "The puddle is smaller. What can you ask?",
-    "explanation": "The question is about the observed puddle change.",
+    "skill": "share science questions and observations",
+    "question": "Which drawing would best share a question about a leaf?",
+    "explanation": "The labelled drawing connects the question to the observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“Is my bag heavy?”",
-      "“Where is my hat?”",
-      "“Why is the puddle smaller?”"
+      "A blank page.",
+      "A leaf drawing with a circled hole and the question 'What made this?'",
+      "A picture of a lunch box."
     ],
-    "correct": 2,
-    "audioPrompt": "The puddle is smaller. What can you ask?",
+    "correct": 1,
+    "audioPrompt": "Which drawing would best share a question about a leaf?",
     "structuredExplanation": {
-      "summary": "The question is about the observed puddle change."
-    }
+      "summary": "The labelled drawing connects the question to the observation.",
+      "hint": "Look for question plus evidence."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-003",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "You think ice will melt. What are you sharing?",
-    "explanation": "Thinking what might happen is sharing a prediction.",
+    "skill": "share science questions and observations",
+    "question": "A child predicted a ball would roll far. Which sentence shares the prediction?",
+    "explanation": "A prediction says what the child thinks will happen.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A colour",
-      "A prediction",
-      "A sound"
+      "The ball is blue.",
+      "My friend has a ball.",
+      "I think the ball will roll far."
     ],
-    "correct": 1,
-    "audioPrompt": "You think ice will melt. What are you sharing?",
+    "correct": 2,
+    "audioPrompt": "A child predicted a ball would roll far. Which sentence shares the prediction?",
     "structuredExplanation": {
-      "summary": "Thinking what might happen is sharing a prediction."
-    }
+      "summary": "A prediction says what the child thinks will happen.",
+      "hint": "Find the future science idea."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-004",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "Your group saw 3 birds. What should you say?",
-    "explanation": "We saw 3 birds shares the group observation.",
+    "skill": "share science questions and observations",
+    "question": "A class saw three birds at the feeder. What should they share?",
+    "explanation": "The clear statement shares the actual observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“We saw 3 birds.”",
-      "“Birds cannot count.”",
-      "“I like lunch.”"
+      "We observed three birds at the feeder.",
+      "Birds are always hungry.",
+      "The feeder is famous."
     ],
     "correct": 0,
-    "audioPrompt": "Your group saw 3 birds. What should you say?",
+    "audioPrompt": "A class saw three birds at the feeder. What should they share?",
     "structuredExplanation": {
-      "summary": "We saw 3 birds shares the group observation."
-    }
+      "summary": "The clear statement shares the actual observation.",
+      "hint": "Use the number and place."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-005",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share ideas",
-    "question": "A friend shares an idea. What do you do?",
-    "explanation": "Listening kindly helps people share ideas.",
+    "skill": "share science questions and observations",
+    "question": "Which poster would help others understand a shadow observation?",
+    "explanation": "Labels show what was observed and where each part is.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Walk away",
-      "Listen kindly",
-      "Cover your ears"
+      "A poster with only stars.",
+      "A labelled drawing showing the torch, block and shadow.",
+      "A page saying 'fun' three times."
     ],
     "correct": 1,
-    "audioPrompt": "A friend shares an idea. What do you do?",
+    "audioPrompt": "Which poster would help others understand a shadow observation?",
     "structuredExplanation": {
-      "summary": "Listening kindly helps people share ideas."
-    }
+      "summary": "Labels show what was observed and where each part is.",
+      "hint": "Choose the useful science text."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-006",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "You heard a loud shaker. What observation can you share?",
-    "explanation": "The shaker is loud shares a hearing observation.",
+    "skill": "share science questions and observations",
+    "question": "A group wants to share what they wondered about shells. Which is a question?",
+    "explanation": "The question asks what they want to learn.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“The shaker is hungry.”",
-      "“The shaker is tomorrow.”",
-      "“The shaker is loud.”"
+      "The shell is smooth.",
+      "We found shells.",
+      "Why are some shells smooth?"
     ],
     "correct": 2,
-    "audioPrompt": "You heard a loud shaker. What observation can you share?",
+    "audioPrompt": "A group wants to share what they wondered about shells. Which is a question?",
     "structuredExplanation": {
-      "summary": "The shaker is loud shares a hearing observation."
-    }
+      "summary": "The question asks what they want to learn.",
+      "hint": "Questions often begin with why, what, how or which."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-007",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share predictions",
-    "question": "You predict the towel will dry. What can you say?",
-    "explanation": "I think it will dry shares a prediction.",
+    "skill": "share science questions and observations",
+    "question": "Which sentence uses everyday and science words well?",
+    "explanation": "Soft and slowly describe observable properties and movement.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“The towel is blue.”",
-      "“The towel is a bird.”",
-      "“I think it will dry.”"
+      "The feather is soft and fell slowly.",
+      "The feather was a nice colour.",
+      "The feather was on the table."
     ],
-    "correct": 2,
-    "audioPrompt": "You predict the towel will dry. What can you say?",
+    "correct": 0,
+    "audioPrompt": "Which sentence uses everyday and science words well?",
     "structuredExplanation": {
-      "summary": "I think it will dry shares a prediction."
-    }
+      "summary": "Soft and slowly describe observable properties and movement.",
+      "hint": "Choose precise observation words."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-008",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share questions",
-    "question": "You want to tell the class your question. Which one fits?",
-    "explanation": "Will the seed sprout is a question to share.",
+    "skill": "share science questions and observations",
+    "question": "A child shares, 'It changed.' What would make the sharing clearer?",
+    "explanation": "Naming the observed change helps others understand.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“Will the seed sprout?”",
-      "“The seed is brown.”",
-      "“The seed is small.”"
+      "Say nothing else.",
+      "Say what changed, such as 'The puddle got smaller.'",
+      "Hide the observation."
     ],
-    "correct": 0,
-    "audioPrompt": "You want to tell the class your question. Which one fits?",
+    "correct": 1,
+    "audioPrompt": "A child shares, 'It changed.' What would make the sharing clearer?",
     "structuredExplanation": {
-      "summary": "Will the seed sprout is a question to share."
-    }
+      "summary": "Naming the observed change helps others understand.",
+      "hint": "Add specific evidence."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-009",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share ideas",
-    "question": "Your group saw more red blocks. What idea matches?",
-    "explanation": "There were more red blocks shares an idea based on the observation.",
+    "skill": "share science questions and observations",
+    "question": "A class made a weather chart. Why share it?",
+    "explanation": "A chart communicates observations clearly.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“Blocks can fly.”",
-      "“There were more red blocks.”",
-      "“No blocks were used.”"
+      "So the weather obeys the chart.",
+      "So no one asks questions.",
+      "So others can see the recorded observations."
     ],
-    "correct": 1,
-    "audioPrompt": "Your group saw more red blocks. What idea matches?",
+    "correct": 2,
+    "audioPrompt": "A class made a weather chart. Why share it?",
     "structuredExplanation": {
-      "summary": "There were more red blocks shares an idea based on the observation."
-    }
+      "summary": "A chart communicates observations clearly.",
+      "hint": "Think about why records are shared."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-010",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "A friend is speaking. What is respectful?",
-    "explanation": "Listening and waiting is respectful during sharing.",
+    "skill": "share science questions and observations",
+    "question": "Which title best fits a report about plant growth?",
+    "explanation": "The title names the science idea being shared.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Listen and wait",
-      "Interrupt quickly",
-      "Shout louder"
+      "How Our Bean Plant Changed",
+      "Best Day Ever",
+      "My Favourite Crayon"
     ],
     "correct": 0,
-    "audioPrompt": "A friend is speaking. What is respectful?",
+    "audioPrompt": "Which title best fits a report about plant growth?",
     "structuredExplanation": {
-      "summary": "Listening and waiting is respectful during sharing."
-    }
+      "summary": "The title names the science idea being shared.",
+      "hint": "Choose the title about the observation."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-011",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "You felt rough bark. What can you share?",
-    "explanation": "The bark is rough shares a touch observation.",
+    "skill": "share science questions and observations",
+    "question": "A group wants to tell families what they found. Which is clearest?",
+    "explanation": "The clear finding includes the object and observed amount.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“The bark is noisy.”",
-      "“The bark is invisible.”",
-      "“The bark is rough.”"
+      "The sponge was good.",
+      "Our sponge soaked up 8 drops.",
+      "Water was around."
     ],
-    "correct": 2,
-    "audioPrompt": "You felt rough bark. What can you share?",
+    "correct": 1,
+    "audioPrompt": "A group wants to tell families what they found. Which is clearest?",
     "structuredExplanation": {
-      "summary": "The bark is rough shares a touch observation."
-    }
+      "summary": "The clear finding includes the object and observed amount.",
+      "hint": "Use exact evidence."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-012",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "I counted 5 shells. Which sentence fits?",
-    "explanation": "I counted 5 shells shares an observation.",
+    "skill": "share science questions and observations",
+    "question": "Which label belongs on a drawing of a snail trail?",
+    "explanation": "The label names the observed mark.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“The shells are happy.”",
-      "“I counted 5 shells.”",
-      "“The shells are secret.”"
+      "music",
+      "lunch",
+      "trail"
     ],
-    "correct": 1,
-    "audioPrompt": "I counted 5 shells. Which sentence fits?",
+    "correct": 2,
+    "audioPrompt": "Which label belongs on a drawing of a snail trail?",
     "structuredExplanation": {
-      "summary": "I counted 5 shells shares an observation."
-    }
+      "summary": "The label names the observed mark.",
+      "hint": "Pick the science label."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-013",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "Your group thinks the car will roll farther on tile. What is this?",
-    "explanation": "This says what the group thinks might happen.",
+    "skill": "share science questions and observations",
+    "question": "A child asks, 'Will the seed grow in the dark?' How can they share it?",
+    "explanation": "Writing the question lets others know what will be explored.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A prediction",
-      "A lunch order",
-      "A drawing only"
+      "Write it as a question for the class.",
+      "Change it into an answer.",
+      "Throw away the seed."
     ],
     "correct": 0,
-    "audioPrompt": "Your group thinks the car will roll farther on tile. What is this?",
+    "audioPrompt": "A child asks, 'Will the seed grow in the dark?' How can they share it?",
     "structuredExplanation": {
-      "summary": "This says what the group thinks might happen."
-    }
+      "summary": "Writing the question lets others know what will be explored.",
+      "hint": "Keep it as a question."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-014",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "You want to share safely. What should you use?",
-    "explanation": "Kind words help people share safely and respectfully.",
+    "skill": "share science questions and observations",
+    "question": "Which observation is ready to share?",
+    "explanation": "Rough and grey are observable details.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Silly faces only",
-      "Pushing hands",
-      "Kind words"
+      "The rock is my favourite.",
+      "The rock is rough and grey.",
+      "The rock wants rain."
     ],
-    "correct": 2,
-    "audioPrompt": "You want to share safely. What should you use?",
+    "correct": 1,
+    "audioPrompt": "Which observation is ready to share?",
     "structuredExplanation": {
-      "summary": "Kind words help people share safely and respectfully."
-    }
+      "summary": "Rough and grey are observable details.",
+      "hint": "Choose evidence, not opinion."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-015",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "You saw clouds move. What can you tell others?",
-    "explanation": "The clouds moved shares an observation.",
+    "skill": "share science questions and observations",
+    "question": "A group predicted a cup would make a soft sound. What should their record include?",
+    "explanation": "Sharing both prediction and observation helps others follow the investigation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“The clouds read books.”",
-      "“The clouds moved.”",
-      "“The clouds are my shoes.”"
+      "Only the cup colour.",
+      "A joke about cups.",
+      "The prediction and the sound they heard."
     ],
-    "correct": 1,
-    "audioPrompt": "You saw clouds move. What can you tell others?",
+    "correct": 2,
+    "audioPrompt": "A group predicted a cup would make a soft sound. What should their record include?",
     "structuredExplanation": {
-      "summary": "The clouds moved shares an observation."
-    }
+      "summary": "Sharing both prediction and observation helps others follow the investigation.",
+      "hint": "Include the science parts."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-016",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share questions",
-    "question": "Which shell sentence is a question?",
-    "explanation": "Will the rock sink is a question.",
+    "skill": "share science questions and observations",
+    "question": "Which sentence explains an idea from evidence?",
+    "explanation": "The sentence links the observation to a simple science idea.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“The rock is grey.”",
-      "“Will the rock sink?”",
-      "“The rock felt hard.”"
+      "The shadow was behind the block because the block stopped the light.",
+      "The shadow was drawn with a pencil.",
+      "The shadow was near the wall."
     ],
-    "correct": 1,
-    "audioPrompt": "Which shell sentence is a question?",
+    "correct": 0,
+    "audioPrompt": "Which sentence explains an idea from evidence?",
     "structuredExplanation": {
-      "summary": "Will the rock sink is a question."
-    }
+      "summary": "The sentence links the observation to a simple science idea.",
+      "hint": "Choose evidence plus idea."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-017",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "Which towel sentence is an observation?",
-    "explanation": "The sponge is wet shares what was observed.",
+    "skill": "share science questions and observations",
+    "question": "A learner shows a leaf photo but no words. What can improve the sharing?",
+    "explanation": "Labels help others understand the observed features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“Will it dry?”",
-      "“I think it will dry.”",
-      "“The sponge is wet.”"
+      "Cover the photo.",
+      "Add labels such as stem, leaf edge and spots.",
+      "Add unrelated stickers only."
     ],
-    "correct": 2,
-    "audioPrompt": "Which towel sentence is an observation?",
+    "correct": 1,
+    "audioPrompt": "A learner shows a leaf photo but no words. What can improve the sharing?",
     "structuredExplanation": {
-      "summary": "The sponge is wet shares what was observed."
-    }
+      "summary": "Labels help others understand the observed features.",
+      "hint": "Labels make visuals clearer."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 17,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-018",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share predictions",
-    "question": "Which sentence is a prediction?",
-    "explanation": "The path might dry says what may happen.",
+    "skill": "share science questions and observations",
+    "question": "A class counted four worms after rain. Which bar-chart label is useful?",
+    "explanation": "The label states what was counted and the result.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“The path might dry.”",
-      "“The path is wet.”",
-      "“Will the path dry?”"
+      "Fun stuff",
+      "Things I like",
+      "Worms seen after rain: 4"
     ],
-    "correct": 0,
-    "audioPrompt": "Which sentence is a prediction?",
+    "correct": 2,
+    "audioPrompt": "A class counted four worms after rain. Which bar-chart label is useful?",
     "structuredExplanation": {
-      "summary": "The path might dry says what may happen."
-    }
+      "summary": "The label states what was counted and the result.",
+      "hint": "Use the observation and number."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 18,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-019",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "Your group disagrees. What helps?",
-    "explanation": "Sharing ideas kindly helps a group learn together.",
+    "skill": "share science questions and observations",
+    "question": "Which sentence shares a finding, not just a feeling?",
+    "explanation": "The sentence reports an observed finding.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Hide the chart",
-      "Share ideas kindly",
-      "Tear the paper"
+      "The cloth dried faster in the sun.",
+      "The cloth was the best.",
+      "I liked the cloth."
     ],
-    "correct": 1,
-    "audioPrompt": "Your group disagrees. What helps?",
+    "correct": 0,
+    "audioPrompt": "Which sentence shares a finding, not just a feeling?",
     "structuredExplanation": {
-      "summary": "Sharing ideas kindly helps a group learn together."
-    }
+      "summary": "The sentence reports an observed finding.",
+      "hint": "Find evidence, not feeling."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 19,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-020",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "You made a science drawing. Why show it?",
-    "explanation": "A drawing can help share observations.",
+    "skill": "share science questions and observations",
+    "question": "A group observed that clay bent but the stick snapped. What should they share?",
+    "explanation": "The sentence communicates the two observations clearly.",
     "printable": true,
     "type": "single",
     "answers": [
-      "To hide observations",
-      "To change observations",
-      "To share observations"
+      "Clay and stick are words.",
+      "Clay bent; stick snapped.",
+      "The table was brown."
     ],
-    "correct": 2,
-    "audioPrompt": "You made a science drawing. Why show it?",
+    "correct": 1,
+    "audioPrompt": "A group observed that clay bent but the stick snapped. What should they share?",
     "structuredExplanation": {
-      "summary": "A drawing can help share observations."
-    }
+      "summary": "The sentence communicates the two observations clearly.",
+      "hint": "Compare the observed actions."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 20,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-021",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share ideas",
-    "question": "Which idea uses an observation?",
-    "explanation": "The big tower fell uses something observed.",
+    "skill": "share science questions and observations",
+    "question": "Which audience needs clear labels on a science drawing?",
+    "explanation": "Labels help another person understand the observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“The big tower fell.”",
-      "“The tower is silly.”",
-      "“The tower likes me.”"
+      "Only the pencil.",
+      "No one ever.",
+      "Someone who was not there."
     ],
-    "correct": 0,
-    "audioPrompt": "Which idea uses an observation?",
+    "correct": 2,
+    "audioPrompt": "Which audience needs clear labels on a science drawing?",
     "structuredExplanation": {
-      "summary": "The big tower fell uses something observed."
-    }
+      "summary": "Labels help another person understand the observation.",
+      "hint": "Think about sharing with others."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 21,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-022",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share questions",
-    "question": "You ask, “What did you notice?” What are you asking for?",
-    "explanation": "What did you notice asks for observations.",
+    "skill": "share science questions and observations",
+    "question": "A child says, 'My idea is that rain helps the plant.' What should they add?",
+    "explanation": "An idea is stronger when linked to an observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Lunch choices",
-      "Observations",
-      "Shoe sizes"
+      "An observation, such as the plant grew after rain.",
+      "A favourite colour.",
+      "A hidden answer."
     ],
-    "correct": 1,
-    "audioPrompt": "You ask, “What did you notice?” What are you asking for?",
+    "correct": 0,
+    "audioPrompt": "A child says, 'My idea is that rain helps the plant.' What should they add?",
     "structuredExplanation": {
-      "summary": "What did you notice asks for observations."
-    }
+      "summary": "An idea is stronger when linked to an observation.",
+      "hint": "Connect idea to evidence."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 22,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-023",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share observations",
-    "question": "A child says, “Maybe the seed will grow.” What are they sharing?",
-    "explanation": "Maybe the seed will grow is a prediction.",
+    "skill": "share science questions and observations",
+    "question": "Which share card is best?",
+    "explanation": "The card clearly shares a question and an observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A prediction",
-      "A smell",
-      "A colour"
+      "Question: lunch? Observation: pencil.",
+      "Question: Which leaf is longest? Observation: red leaf is 8 cubes long.",
+      "Question: none. Observation: none."
     ],
-    "correct": 0,
-    "audioPrompt": "A child says, “Maybe the seed will grow.” What are they sharing?",
+    "correct": 1,
+    "audioPrompt": "Which share card is best?",
     "structuredExplanation": {
-      "summary": "Maybe the seed will grow is a prediction."
-    }
+      "summary": "The card clearly shares a question and an observation.",
+      "hint": "Look for both science parts."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 23,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   },
   {
     "id": "ac9sfi05-p-024",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share ideas",
-    "question": "Why tell others your science ideas?",
-    "explanation": "Sharing ideas helps people learn together.",
+    "skill": "share science questions and observations",
+    "question": "Why share science observations?",
+    "explanation": "Sharing helps people understand, discuss and learn more.",
     "printable": true,
     "type": "single",
     "answers": [
-      "To keep results secret",
-      "To stop looking",
-      "To learn together"
+      "So no one can check them.",
+      "So the observation changes.",
+      "So others can understand and ask more questions."
     ],
     "correct": 2,
-    "audioPrompt": "Why tell others your science ideas?",
+    "audioPrompt": "Why share science observations?",
     "structuredExplanation": {
-      "summary": "Sharing ideas helps people learn together."
-    }
+      "summary": "Sharing helps people understand, discuss and learn more.",
+      "hint": "Think about communication."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 24,
+    "qualitySchema": "foundation-science-ixl-standard-v2"
   }
 ];
