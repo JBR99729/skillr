@@ -1,467 +1,482 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrTestQuestions = [
   {
-    "id": "ac9m1a02-t-001",
+    "id": "AC9M1A02-T01",
+    "questionId": "T01",
     "curriculumCode": "AC9M1A02",
     "bank": "test",
-    "skill": "count repeats",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The objects repeat.\nleaf, stone, leaf, stone, leaf, __\nWhich object comes next?",
+    "explanation": "The unit leaf, stone repeats. After leaf comes stone.",
+    "skill": "continue_alternating_objects",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "How many complete repeating units are shown?",
-    "audioPrompt": "How many complete repeating units are shown?",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: A A B A A B A A B A A B This is test example 1.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many complete repeating units are shown?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-001\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-001",
-      "alt_text": "How many complete repeating units are shown?"
-    },
     "answers": [
-      "4",
-      "3",
+      "leaf",
+      "stick",
+      "stone"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1A02-T02",
+    "questionId": "T02",
+    "curriculumCode": "AC9M1A02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Look at the repeating shapes.\n● ■ ■ ● ■ ■ ● ■ ■\nWhat is the smallest repeating unit?",
+    "explanation": "The unit has one circle and then two squares.",
+    "skill": "identify_three_part_unit",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "●",
+          "■",
+          "■",
+          "●",
+          "■",
+          "■",
+          "●",
+          "■",
+          "■"
+        ]
+      ],
+      "labels": [
+        "Repeating pattern"
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "■ ■",
+      "● ■ ■",
+      "● ■"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1A02-T03",
+    "questionId": "T03",
+    "curriculumCode": "AC9M1A02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The numbers repeat.\n5, 0, 0, 5, 0, 0, 5, __, 0\nWhich number fills the gap?",
+    "explanation": "The unit is 5, 0, 0. The missing number is the first 0 in the last unit.",
+    "skill": "fill_gap_inside_number_unit",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "0",
+      "10",
       "5"
     ],
-    "correct": 0,
-    "explanation": "The unit A A B appears 4 times.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The unit A A B appears 4 times.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1a02-t-002",
+    "id": "AC9M1A02-T04",
+    "questionId": "T04",
     "curriculumCode": "AC9M1A02",
     "bank": "test",
-    "skill": "arrange repeating unit",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Look at the repeating pattern.\n★ ● ▲ ★ ● ▲ ★ ● ▲\nDraw or write the smallest repeating unit.",
+    "explanation": "The unit star, circle, triangle repeats three times.",
+    "skill": "state_shape_repeating_unit",
+    "responseType": "short_answer",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "★",
+          "●",
+          "▲",
+          "★",
+          "●",
+          "▲",
+          "★",
+          "●",
+          "▲"
+        ]
+      ],
+      "labels": [
+        "Repeating pattern"
+      ]
+    },
+    "acceptanceNote": "Accept star, circle, triangle in that order, drawn or written; require the three-shape smallest unit.",
     "printable": true,
-    "type": "single",
-    "question": "Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?",
-    "audioPrompt": "Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is test example 2.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-002\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-002",
-      "alt_text": "Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?"
-    },
-    "answers": [
-      "2 → 3 → 1",
-      "1 → 2 → 3",
-      "3 → 2 → 1"
-    ],
-    "correct": 1,
-    "explanation": "The unit is 1 2 3.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The unit is 1 2 3.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "★ ● ▲",
+    "modelAnswer": "★ ● ▲"
   },
   {
-    "id": "ac9m1a02-t-003",
+    "id": "AC9M1A02-T05",
+    "questionId": "T05",
     "curriculumCode": "AC9M1A02",
     "bank": "test",
-    "skill": "select repeating patterns",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The shapes repeat.\n● ■ ■ ▲ ● ■ __ ▲\nWhich shape fills the gap?",
+    "explanation": "The unit is ● ■ ■ ▲. The second unit also needs two squares.",
+    "skill": "complete_four_part_unit",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "●",
+          "■",
+          "■",
+          "▲",
+          "●",
+          "■",
+          "__",
+          "▲"
+        ]
+      ],
+      "labels": [
+        "Repeating pattern"
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Select every sequence that repeats a complete unit. Choose the group with all the correct answers.",
-    "audioPrompt": "Select every sequence that repeats a complete unit. Choose the group with all the correct answers.",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. This is test example 3.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select every sequence that repeats a complete unit. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-003\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-003",
-      "alt_text": "Select every sequence that repeats a complete unit. Choose the group with all the correct answers."
-    },
-    "answers": [
-      "red blue red blue, 1 1 2 1 1 2",
-      "red blue red blue, 1 1 2 1 1 2, 1 2 3 4",
-      "red blue red blue, 1 1 2 1 1 2, A B A B"
-    ],
-    "correct": 2,
-    "explanation": "Each selected sequence contains a unit that repeats.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Each selected sequence contains a unit that repeats.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a02-t-004",
-    "curriculumCode": "AC9M1A02",
-    "bank": "test",
-    "skill": "identify repeating unit",
-    "printable": true,
-    "type": "single",
-    "question": "What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?",
-    "audioPrompt": "What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is test example 4.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-004",
-      "alt_text": "What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?"
-    },
-    "answers": [
-      "triangle, circle, square",
-      "triangle",
-      "triangle, circle, square, triangle, circle, square"
-    ],
-    "correct": 0,
-    "explanation": "The smallest complete part that repeats is triangle, circle, square.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The smallest complete part that repeats is triangle, circle, square.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a02-t-005",
-    "curriculumCode": "AC9M1A02",
-    "bank": "test",
-    "skill": "continue abc pattern",
-    "printable": true,
-    "type": "single",
-    "question": "Continue: A B C A B C ___",
-    "audioPrompt": "Continue: A B C A B C ___",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABC pattern This is test example 5.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Continue: A B C A B C ___\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-005\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-005",
-      "alt_text": "Continue: A B C A B C ___"
-    },
-    "answers": [
-      "B",
-      "A",
-      "C"
-    ],
-    "correct": 1,
-    "explanation": "After two full A B C units, the pattern starts again with A.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "After two full A B C units, the pattern starts again with A.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a02-t-006",
-    "curriculumCode": "AC9M1A02",
-    "bank": "test",
-    "skill": "create or select a pattern",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice could be continued using one repeating rule?",
-    "audioPrompt": "Which choice could be continued using one repeating rule?",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. This is test example 6.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which choice could be continued using one repeating rule?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-006\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-006",
-      "alt_text": "Which choice could be continued using one repeating rule?"
-    },
-    "answers": [
-      "A B C D A",
-      "1 2 4 8",
-      "🔴 🔵 🔴 🔵"
-    ],
-    "correct": 2,
-    "explanation": "The selected sequence already shows a complete unit repeating.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The selected sequence already shows a complete unit repeating.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a02-t-007",
-    "curriculumCode": "AC9M1A02",
-    "bank": "test",
-    "skill": "whole sequence misconception",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement is correct?",
-    "audioPrompt": "Which statement is correct?",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: whole-sequence misconception This is test example 7.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-007\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-007",
-      "alt_text": "Which statement is correct?"
-    },
-    "answers": [
-      "A shorter unit, 1 2 2, repeats to make the sequence.",
-      "Omar studies this example. For 1 2 2 1 2 2, the only possible repeating unit is the entire six-item sequence.",
-      "Every repeating pattern must have a two-item repeating unit."
-    ],
-    "correct": 0,
-    "explanation": "A shorter unit, 1 2 2, repeats to make the sequence.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "A shorter unit, 1 2 2, repeats to make the sequence.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a02-t-008",
-    "curriculumCode": "AC9M1A02",
-    "bank": "test",
-    "skill": "continue abb pattern",
-    "printable": true,
-    "type": "single",
-    "question": "Complete: ▲ □ □ ▲ □ □ ▲ □ ___",
-    "audioPrompt": "Complete: ▲ □ □ ▲ □ □ ▲ □ ___",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABB pattern This is test example 8.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete: ▲ □ □ ▲ □ □ ▲ □ ___\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-008\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-008",
-      "alt_text": "Complete: ▲ □ □ ▲ □ □ ▲ □ ___"
-    },
     "answers": [
       "▲",
-      "□",
-      "X"
-    ],
-    "correct": 1,
-    "explanation": "The repeating unit is ▲ □ □.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The repeating unit is ▲ □ □.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a02-t-009",
-    "curriculumCode": "AC9M1A02",
-    "bank": "test",
-    "skill": "missing inside pattern",
-    "printable": true,
-    "type": "single",
-    "question": "Which item fills the gap in ▲ ○ ___ ○ ▲ ○?",
-    "audioPrompt": "Which item fills the gap in ▲ ○ ___ ○ ▲ ○?",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. This is test example 9.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which item fills the gap in ▲ ○ ___ ○ ▲ ○?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-009\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-009",
-      "alt_text": "Which item fills the gap in ▲ ○ ___ ○ ▲ ○?"
-    },
-    "answers": [
-      "○",
-      "X",
-      "▲"
-    ],
-    "correct": 2,
-    "explanation": "Follow the repeating unit to find ▲.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Follow the repeating unit to find ▲.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a02-t-010",
-    "curriculumCode": "AC9M1A02",
-    "bank": "test",
-    "skill": "continue ab pattern",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next: ▲ ○ ▲ ○ ▲ ___?",
-    "audioPrompt": "What comes next: ▲ ○ ▲ ○ ▲ ___?",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AB pattern This is test example 10.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What comes next: ▲ ○ ▲ ○ ▲ ___?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-010\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-010",
-      "alt_text": "What comes next: ▲ ○ ▲ ○ ▲ ___?"
-    },
-    "answers": [
-      "○",
-      "▲",
+      "●",
       "■"
     ],
-    "correct": 0,
-    "explanation": "The repeating unit is ▲ ○.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The repeating unit is ▲ ○.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1a02-t-011",
+    "id": "AC9M1A02-T06",
+    "questionId": "T06",
     "curriculumCode": "AC9M1A02",
     "bank": "test",
-    "skill": "continue aab pattern",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "These actions repeat: clap, stamp, clap, stamp.\nWhich pattern has the same one-of-each structure?",
+    "explanation": "Both patterns repeat one action and then a different action.",
+    "skill": "match_structure_across_actions",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "What comes next: A A B A A B A ___?",
-    "audioPrompt": "What comes next: A A B A A B A ___?",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AAB pattern This is test example 11.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What comes next: A A B A A B A ___?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-011\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-011",
-      "alt_text": "What comes next: A A B A A B A ___?"
-    },
     "answers": [
-      "B",
-      "A",
-      "X"
+      "hop, turn, turn, hop",
+      "hop, hop, turn, turn",
+      "hop, turn, hop, turn"
     ],
-    "correct": 1,
-    "explanation": "The unit is A A B; the next item is the second A.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The unit is A A B; the next item is the second A.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1a02-t-012",
+    "id": "AC9M1A02-T07",
+    "questionId": "T07",
     "curriculumCode": "AC9M1A02",
     "bank": "test",
-    "skill": "spot pattern break",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The pattern repeats ★ ● ▲.\n★ ● ▲ ★ __ __\nWhich two shapes fill the gaps in order?",
+    "explanation": "After the star, finish the unit with a circle and a triangle.",
+    "skill": "continue_incomplete_unit",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "★",
+          "●",
+          "▲",
+          "★",
+          "__",
+          "__"
+        ]
+      ],
+      "labels": [
+        "Repeating pattern"
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which item breaks the AB pattern: 🔴 🔵 🔴 🟡 🔴 🔵?",
-    "audioPrompt": "Which item breaks the AB pattern: 🔴 🔵 🔴 🟡 🔴 🔵?",
-    "visual": "A colourful pattern repeats the same smallest unit again and again. This is test example 12.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which item breaks the AB pattern: 🔴 🔵 🔴 🟡 🔴 🔵?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-012\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-012",
-      "alt_text": "Which item breaks the AB pattern: 🔴 🔵 🔴 🟡 🔴 🔵?"
-    },
     "answers": [
-      "🔴",
-      "🔵",
-      "🟡"
+      "● ▲",
+      "★ ●",
+      "▲ ●"
     ],
-    "correct": 2,
-    "explanation": "🟡 should be 🔵.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "🟡 should be 🔵.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1a02-t-013",
+    "id": "AC9M1A02-T08",
+    "questionId": "T08",
     "curriculumCode": "AC9M1A02",
     "bank": "test",
-    "skill": "continue repeating pattern",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Use this repeating unit: 2, 2, 5.\nWrite a pattern that shows the unit three times.",
+    "explanation": "Keep the order 2, 2, 5 each time you repeat the unit.",
+    "skill": "create_number_pattern_from_unit",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept exactly three consecutive copies of 2, 2, 5; separators are optional.",
     "printable": true,
-    "type": "single",
-    "question": "What comes next? red, blue, red, blue, ___",
-    "audioPrompt": "What comes next? red, blue, red, blue, ___",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "red",
-      "blue",
-      "green"
+    "type": "text",
+    "correct": "2, 2, 5, 2, 2, 5, 2, 2, 5",
+    "acceptedAnswers": [
+      "2,2,5,2,2,5,2,2,5"
     ],
-    "correct": 0,
-    "explanation": "The pattern repeats red then blue, so red comes next.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The pattern repeats red then blue, so red comes next.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "answerFormat": "number-sequence",
+    "placeholder": "Write the numbers in order, separated by commas"
   },
   {
-    "id": "ac9m1a02-t-014",
+    "id": "AC9M1A02-T09",
+    "questionId": "T09",
     "curriculumCode": "AC9M1A02",
     "bank": "test",
-    "skill": "identify repeating unit",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Look at the repeating pattern.\n▲ ● ▲ ● ▲ ● ▲ ●\nWhich is its smallest repeating unit?",
+    "explanation": "The pair ▲ ● is enough to repeat and make the whole pattern. The four-shape group is a larger repeated group.",
+    "skill": "choose_smallest_valid_unit",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "▲",
+          "●",
+          "▲",
+          "●",
+          "▲",
+          "●",
+          "▲",
+          "●"
+        ]
+      ],
+      "labels": [
+        "Repeating pattern"
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "What is the repeating part? clap, stomp, clap, stomp",
-    "audioPrompt": "What is the repeating part? clap, stomp, clap, stomp",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "clap only",
-      "clap, stomp",
-      "stomp, stomp"
+      "▲ ● ▲",
+      "▲ ●",
+      "▲ ● ▲ ●"
     ],
-    "correct": 1,
-    "explanation": "The unit that repeats is clap, stomp.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The unit that repeats is clap, stomp.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1a02-t-015",
+    "id": "AC9M1A02-T10",
+    "questionId": "T10",
     "curriculumCode": "AC9M1A02",
     "bank": "test",
-    "skill": "find pattern error",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A border repeats this unit: ■ ● ●.\nThe border so far is: ■ ● ● | ■ ● ●\nWhich change keeps that same unit?",
+    "explanation": "Adding another complete ■ ● ● unit keeps the pattern repeating correctly.",
+    "skill": "choose_valid_whole_unit_extension",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "■",
+          "●",
+          "●",
+          "|",
+          "■",
+          "●",
+          "●"
+        ]
+      ],
+      "labels": [
+        "Border so far"
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which card breaks the pattern? square, circle, square, triangle, square",
-    "audioPrompt": "Which card breaks the pattern? square, circle, square, triangle, square",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "circle",
-      "square",
-      "triangle"
+      "Add ■ ● ● at the end",
+      "Add ■ ■ ● at the end",
+      "Add ● ■ ● at the end"
     ],
-    "correct": 2,
-    "explanation": "The pattern should go square, circle, square, circle. Triangle breaks it.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The pattern should go square, circle, square, circle. Triangle breaks it.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1a02-t-016",
+    "id": "AC9M1A02-T11",
+    "questionId": "T11",
     "curriculumCode": "AC9M1A02",
     "bank": "test",
-    "skill": "match same pattern",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The pattern should repeat 8, 1.\n8, 1, 8, 8, 8, 1\nWhich number should replace the fourth number?",
+    "explanation": "The correct pattern is 8, 1, 8, 1, 8, 1.",
+    "skill": "repair_number_pattern",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which pattern matches ABAB? cat, dog, cat, dog",
-    "audioPrompt": "Which pattern matches ABAB? cat, dog, cat, dog",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "cat, dog, cat, dog",
-      "cat, cat, dog, dog",
-      "cat, dog, dog, cat"
+      "1",
+      "2",
+      "8"
     ],
-    "correct": 0,
-    "explanation": "ABAB uses two things that take turns. Cat, dog, cat, dog matches.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "ABAB uses two things that take turns. Cat, dog, cat, dog matches.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    "correct": 0
+  },
+  {
+    "id": "AC9M1A02-T12",
+    "questionId": "T12",
+    "curriculumCode": "AC9M1A02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Make a repeating pattern using “tap, clap, clap” as the unit.\nWrite or show the unit two times.",
+    "explanation": "The complete three-action unit repeats twice.",
+    "skill": "create_action_pattern_from_unit",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept tap, clap, clap, tap, clap, clap in order, written or demonstrated.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "tap, clap, clap, tap, clap, clap",
+    "modelAnswer": "tap, clap, clap, tap, clap, clap"
+  },
+  {
+    "id": "AC9M1A02-T13",
+    "questionId": "T13",
+    "curriculumCode": "AC9M1A02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The row repeats: shell, shell, stone, shell, shell, stone.\nHow many objects are in the smallest repeating unit?",
+    "explanation": "The unit shell, shell, stone contains three objects.",
+    "skill": "count_object_unit_length",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "2",
+      "3",
+      "6"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1A02-T14",
+    "questionId": "T14",
+    "curriculumCode": "AC9M1A02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The pattern repeats ● ● ▲.\n● ● ▲ ● ● ▲ ● __ __\nWhich pair fills the gaps in order?",
+    "explanation": "The last unit has its first circle. It still needs one circle and one triangle.",
+    "skill": "complete_unit_after_partial_start",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "●",
+          "●",
+          "▲",
+          "●",
+          "●",
+          "▲",
+          "●",
+          "__",
+          "__"
+        ]
+      ],
+      "labels": [
+        "Repeating pattern"
+      ]
     },
-    "qualitySchema": "production-v1"
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "▲ ●",
+      "▲ ▲",
+      "● ▲"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1A02-T15",
+    "questionId": "T15",
+    "curriculumCode": "AC9M1A02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A pattern repeats the unit 1, 3, 3.\nWhich row follows the rule?",
+    "explanation": "Repeat all three numbers in order: 1, 3, 3.",
+    "skill": "select_number_pattern_for_unit",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "1, 3, 1, 3, 1, 3",
+      "1, 3, 3, 1, 3, 3",
+      "1, 3, 3, 3, 1, 3"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1A02-T16",
+    "questionId": "T16",
+    "curriculumCode": "AC9M1A02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Choose two different shapes. Make a repeating unit with two of the first shape, then one of the second shape.\nShow your unit two times.",
+    "explanation": "One possible unit is square, square, circle. Repeating it twice gives ■ ■ ● ■ ■ ●.",
+    "skill": "create_pattern_with_chosen_unit",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept any six-shape AABAAB pattern with A and B different, drawn or written as shape names.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "■ ■ ● ■ ■ ●",
+    "modelAnswer": "■ ■ ● ■ ■ ●"
   }
 ];

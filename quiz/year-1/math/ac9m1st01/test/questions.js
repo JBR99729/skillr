@@ -1,467 +1,375 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrTestQuestions = [
   {
-    "id": "ac9m1st01-t-001",
+    "id": "AC9M1ST01-T01",
+    "questionId": "T01",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "sort responses",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A basket holds: sock, mitten, sock, hat, mitten, sock. Record the number of mittens.",
+    "explanation": "There are two mittens, so the mitten record should be 2.",
+    "skill": "record a category from a collection",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "sock",
+          "mitten",
+          "sock",
+          "hat",
+          "mitten",
+          "sock"
+        ]
+      ],
+      "labels": [
+        "Basket contents"
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which category receives the most responses?",
-    "audioPrompt": "Which category receives the most responses?",
-    "visual": "A labelled tally table records each survey response once in the correct category. Specific example: dog, cat, dog, bird, cat, dog This is test example 1.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which category receives the most responses?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-001\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-001",
-      "alt_text": "Which category receives the most responses?"
-    },
     "answers": [
-      "dog",
-      "cat",
-      "bird"
-    ],
-    "correct": 0,
-    "explanation": "Dog appears 3 times, more than cat or bird.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "Dog appears 3 times, more than cat or bird.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1st01-t-002",
-    "curriculumCode": "AC9M1ST01",
-    "bank": "test",
-    "skill": "tally and number",
-    "printable": true,
-    "type": "single",
-    "question": "Which number matches the tally for the “bus” category?",
-    "audioPrompt": "Which number matches the tally for the “bus” category?",
-    "visual": "A labelled tally table records each survey response once in the correct category. Specific example: Bus: ||||/ This is test example 2.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number matches the tally for the “bus” category?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-002\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-002",
-      "alt_text": "Which number matches the tally for the “bus” category?"
-    },
-    "answers": [
-      "4",
-      "5",
+      "2",
+      "3",
       "6"
     ],
-    "correct": 1,
-    "explanation": "The tally count is 5.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "The tally count is 5.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1st01-t-003",
+    "id": "AC9M1ST01-T02",
+    "questionId": "T02",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "valid categories",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You want to find which of two stories children would like to hear. What should you collect?",
+    "explanation": "The children's choices answer the question about which story they prefer.",
+    "skill": "choose relevant data",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
-    "audioPrompt": "For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "orange, apple",
-      "orange, apple, heavy",
-      "orange, apple, banana"
+      "The colour of the door",
+      "The number of desks",
+      "Each child's story choice"
     ],
-    "correct": 2,
-    "explanation": "Fruit names are useful answer categories; heavy is a measurement description.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Fruit names are useful answer categories; heavy is a measurement description.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1st01-t-004",
+    "id": "AC9M1ST01-T03",
+    "questionId": "T03",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "grouped tally marks",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The answers are: train, bus, train, train. Which record matches?",
+    "explanation": "Three answers are train and one is bus.",
+    "skill": "match raw data to a tally record",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Read the new category record independently. How many votes are recorded?",
-    "audioPrompt": "Read the new category record independently. How many votes are recorded?",
-    "visual": "A labelled tally table records each survey response once in the correct category. Specific example: ||||/ ||||/ This is test example 4.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Read the new category record independently. How many votes are recorded?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-004",
-      "alt_text": "Read the new category record independently. How many votes are recorded?"
-    },
     "answers": [
-      "10",
-      "9",
-      "11"
+      "Train: |||; Bus: |",
+      "Train: ||; Bus: ||",
+      "Train: |; Bus: |||"
     ],
-    "correct": 0,
-    "explanation": "A crossed group represents 5, then count any extra marks.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "A crossed group represents 5, then count any extra marks.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1st01-t-005",
+    "id": "AC9M1ST01-T04",
+    "questionId": "T04",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "choose categories",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Five picture cards show: bird, fish, bird, fish, bird. Record the number of birds and the number of fish.",
+    "explanation": "Record each card once under its pictured animal.",
+    "skill": "make a category count record",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept bird 3 and fish 2, in any clear format.",
     "printable": true,
-    "type": "single",
-    "question": "Which category set suits the question “What is your favourite fruit?”",
-    "audioPrompt": "Which category set suits the question “What is your favourite fruit?”",
-    "visual": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: choose categories This is test example 5.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which category set suits the question “What is your favourite fruit?”\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-005\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-005",
-      "alt_text": "Which category set suits the question “What is your favourite fruit?”"
-    },
-    "answers": [
-      "red, blue, heavy, long",
-      "apple, banana, orange, berries",
-      "1 cm, 2 cm, 3 cm"
-    ],
-    "correct": 1,
-    "explanation": "The categories are possible types of answers to the question.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "The categories are possible types of answers to the question.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Bird: 3; fish: 2.",
+    "modelAnswer": "Bird: 3; fish: 2."
   },
   {
-    "id": "ac9m1st01-t-006",
+    "id": "AC9M1ST01-T05",
+    "questionId": "T05",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "choose recording method",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You sort leaves into \"smooth edge\" and \"jagged edge\" groups. Which labels should your recording table use?",
+    "explanation": "The recording table should use the same categories as the sorting.",
+    "skill": "choose recording labels",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which method records classroom answers quickly and clearly?",
-    "audioPrompt": "Which method records classroom answers quickly and clearly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "memory only",
-      "random scribbles",
-      "tally marks beside category names"
+      "Wet and dry",
+      "Long and short",
+      "Smooth edge and jagged edge"
     ],
-    "correct": 2,
-    "explanation": "Tallies organise and count responses as they are collected.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Tallies organise and count responses as they are collected.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1st01-t-007",
+    "id": "AC9M1ST01-T06",
+    "questionId": "T06",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "read tally",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A class asks each child to choose one of three games. Lee puts one counter beside each game. What change follows the rule?",
+    "explanation": "The collection rule is one game choice and one counter per child.",
+    "skill": "repair a collection rule violation",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Read the new category record independently. How many responses are shown by the tally marks?",
-    "audioPrompt": "Read the new category record independently. How many responses are shown by the tally marks?",
-    "visual": "A labelled tally table records each survey response once in the correct category. Specific example: ||||/ |||| This is test example 7.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Read the new category record independently. How many responses are shown by the tally marks?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-007\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-007",
-      "alt_text": "Read the new category record independently. How many responses are shown by the tally marks?"
-    },
     "answers": [
-      "9",
-      "8",
-      "10"
+      "Lee should leave one counter beside just one chosen game",
+      "Lee should choose for another child",
+      "Lee should add more counters"
     ],
-    "correct": 0,
-    "explanation": "The tally records 9 responses.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "The tally records 9 responses.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1st01-t-008",
+    "id": "AC9M1ST01-T07",
+    "questionId": "T07",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "response outside categories",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You want to record which children are wearing hats now. Which method works?",
+    "explanation": "Looking at each child gives information about the hat they are wearing now.",
+    "skill": "collect by observation",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?",
-    "audioPrompt": "A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?",
-    "visual": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: response outside categories This is test example 8.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-008\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-008",
-      "alt_text": "A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?"
-    },
     "answers": [
-      "Delete the child",
-      "Use or add an appropriate category such as other",
-      "Record it twice under car"
+      "Ask which hat colour they like",
+      "Count hats in a shop",
+      "Look at each child and record hat or no hat"
     ],
-    "correct": 1,
-    "explanation": "The recording system should include every genuine response clearly.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "The recording system should include every genuine response clearly.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1st01-t-009",
+    "id": "AC9M1ST01-T08",
+    "questionId": "T08",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "clear survey question",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Write a question for a survey with the choices \"puzzles\", \"blocks\" and \"drawing\". Tell children to choose one.",
+    "explanation": "Naming the choices and asking for one answer makes the recording clear.",
+    "skill": "create a survey question",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept a clear preference or choice question using the three activities and a one-choice instruction.",
     "printable": true,
-    "type": "single",
-    "question": "Which question is clearest for categorical data?",
-    "audioPrompt": "Which question is clearest for categorical data?",
-    "visual": "A labelled tally table records each survey response once in the correct category. This is test example 9.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which question is clearest for categorical data?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-009\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-009",
-      "alt_text": "Which question is clearest for categorical data?"
-    },
-    "answers": [
-      "Tell me everything you like",
-      "How many centimetres tall are you?",
-      "Which of these four books would you choose?"
-    ],
-    "correct": 2,
-    "explanation": "A clear categorical question leads to named answer groups.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "A clear categorical question leads to named answer groups.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Which activity would you like: puzzles, blocks or drawing? Choose one.",
+    "modelAnswer": "Which activity would you like: puzzles, blocks or drawing? Choose one."
   },
   {
-    "id": "ac9m1st01-t-010",
+    "id": "AC9M1ST01-T09",
+    "questionId": "T09",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "digital data collection",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A record has three walking answers and one car answer. Another child says \"car\". What should the recorder do?",
+    "explanation": "Add the new car answer once to the car category.",
+    "skill": "update a collection record",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which digital tool could help record a class survey?",
-    "audioPrompt": "Which digital tool could help record a class survey?",
-    "visual": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: digital data collection This is test example 10.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which digital tool could help record a class survey?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-010\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-010",
-      "alt_text": "Which digital tool could help record a class survey?"
-    },
     "answers": [
-      "a simple table or form",
-      "a random game with no record",
-      "a blank screen only"
+      "Erase all the walking marks",
+      "Add one mark to car",
+      "Add one mark to walk"
     ],
-    "correct": 0,
-    "explanation": "A digital form or table can store each response by category.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "A digital form or table can store each response by category.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1st01-t-011",
+    "id": "AC9M1ST01-T10",
+    "questionId": "T10",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "categorical question",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A survey is meant to include all six children at a table. Only five names have a tick showing an answer was recorded. What should happen next?",
+    "explanation": "The unticked name shows whose answer is still missing.",
+    "skill": "check collection completeness",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which question collects categorical data?",
-    "audioPrompt": "Which question collects categorical data?",
-    "visual": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: categorical question This is test example 11.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which question collects categorical data?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-011\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-011",
-      "alt_text": "Which question collects categorical data?"
-    },
     "answers": [
-      "How tall are you in centimetres?",
-      "What is your favourite fruit?",
-      "What is 8 + 4?"
+      "Ask the child without a tick",
+      "Copy one child's answer",
+      "Stop collecting"
     ],
-    "correct": 1,
-    "explanation": "Favourite fruit answers belong to named categories.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "Favourite fruit answers belong to named categories.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1st01-t-012",
+    "id": "AC9M1ST01-T11",
+    "questionId": "T11",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "include useful category",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A tablet asks each child to tap one favourite playground place. Which action keeps the record correct?",
+    "explanation": "Each child's own choice should be recorded once.",
+    "skill": "record using a digital form",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?",
-    "audioPrompt": "A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?",
-    "visual": "A labelled tally table records each survey response once in the correct category. This is test example 12.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-012\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-012",
-      "alt_text": "A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?"
-    },
     "answers": [
-      "Ignore the children",
-      "Put fish under dog",
-      "Add a fish or other category and record the answers"
+      "Each child taps ten times",
+      "Each child taps one choice once",
+      "One child chooses for everybody"
     ],
-    "correct": 2,
-    "explanation": "Every valid response needs an appropriate category.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "Every valid response needs an appropriate category.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1st01-t-013",
+    "id": "AC9M1ST01-T12",
+    "questionId": "T12",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "categorical data",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A recorder uses C for both \"cat\" and \"car\". Suggest two different symbols or short labels so the answers can be told apart.",
+    "explanation": "Different labels make it clear which category each answer belongs to.",
+    "skill": "design unambiguous recording symbols",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept any two distinct, clearly mapped labels, symbols or drawings.",
     "printable": true,
-    "type": "single",
-    "question": "Which question collects favourite fruit data?",
-    "audioPrompt": "Which question collects favourite fruit data?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "What is your favourite fruit?",
-      "How tall are you?",
-      "How many steps did you take?"
-    ],
-    "correct": 0,
-    "explanation": "Favourite fruit has categories like apple, banana and orange.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "Favourite fruit has categories like apple, banana and orange.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Use CAT for cat and CAR for car.",
+    "modelAnswer": "Use CAT for cat and CAR for car."
   },
   {
-    "id": "ac9m1st01-t-014",
+    "id": "AC9M1ST01-T13",
+    "questionId": "T13",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "sort categories",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A tally record shows four blocks choices as |||. What change is needed?",
+    "explanation": "Four answers need four tally marks. The current record has only three.",
+    "skill": "repair a recording error",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Where should a blue button go in a colour sort?",
-    "audioPrompt": "Where should a blue button go in a colour sort?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "red group",
-      "blue group",
-      "round group only"
+      "Remove one tally",
+      "Add one tally",
+      "Leave it as it is"
     ],
-    "correct": 1,
-    "explanation": "A blue button belongs in the blue group.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "A blue button belongs in the blue group.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1st01-t-015",
+    "id": "AC9M1ST01-T14",
+    "questionId": "T14",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "collect data fairly",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A teacher writes each child's chosen sticker as a word in a list. Why is it helpful to record the answers as they are given?",
+    "explanation": "Recording each answer straight away helps keep a complete record.",
+    "skill": "explain a recording method",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "What should each student do in a class vote?",
-    "audioPrompt": "What should each student do in a class vote?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "vote many times",
-      "copy a friend",
-      "choose once"
+      "So only the last answer is kept",
+      "So the teacher can change the choices",
+      "So answers are less likely to be forgotten"
     ],
-    "correct": 2,
-    "explanation": "A fair class vote counts one choice from each student.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "A fair class vote counts one choice from each student.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1st01-t-016",
+    "id": "AC9M1ST01-T15",
+    "questionId": "T15",
     "curriculumCode": "AC9M1ST01",
     "bank": "test",
-    "skill": "choose category",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You counted the types of shoes children wore today. Which question can your record help answer?",
+    "explanation": "Sandals are a shoe category, so the shoe record can answer that question.",
+    "skill": "connect data to an answerable question",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which is a category for pet data?",
-    "audioPrompt": "Which is a category for pet data?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "dog",
-      "five",
-      "heavy"
+      "How many pets do they have?",
+      "How many wore sandals?",
+      "Which song is their favourite?"
     ],
-    "correct": 0,
-    "explanation": "Dog is a type of pet, so it can be a category.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "Dog is a type of pet, so it can be a category.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
+  },
+  {
+    "id": "AC9M1ST01-T16",
+    "questionId": "T16",
+    "curriculumCode": "AC9M1ST01",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Plan a class survey about choosing a story or a song. Say what you will ask and how you will record each answer.",
+    "explanation": "Use the same question for each child and record each answer once.",
+    "skill": "plan a survey and recording",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept a clear one-choice story/song question and a suitable recording method using words, objects, drawings, tallies or a digital form.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Ask each child, \"Would you choose a story or a song?\" Put one tally under the chosen activity.",
+    "modelAnswer": "Ask each child, \"Would you choose a story or a song?\" Put one tally under the chosen activity."
   }
 ];

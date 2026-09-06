@@ -86,8 +86,11 @@
       mode: ["practice", "test", "daily-drill"].includes(attempt.mode) ? attempt.mode : "practice",
       score,
       total,
+      bankVersion: String(attempt.bankVersion || "").slice(0, 80),
+      pendingReview: Math.max(0, Math.min(total, Number(attempt.pendingReview) || 0)),
+      markedTotal: Math.max(0, total - Math.max(0, Math.min(total, Number(attempt.pendingReview) || 0))),
       percentage: Math.max(0, Math.min(100, Number(attempt.percentage) || 0)),
-      passed: Boolean(attempt.passed),
+      passed: !attempt.pendingReview && Boolean(attempt.passed),
       durationSeconds: Math.max(0, Math.min(86400, Number(attempt.durationSeconds) || 0)),
       completedAt: Number.isFinite(parsedDate) ? new Date(parsedDate).toISOString() : new Date().toISOString()
     };
@@ -100,6 +103,13 @@
     const item = cleanAttempt(attempt);
     const isNewAttempt = !state.attempts.some((entry) => entry.id === item.id);
     if (isNewAttempt) state.attempts.push(item);
+    else if (attempt.reviewUpdate === true && item.bankVersion) {
+      const index = state.attempts.findIndex(entry => entry.id === item.id && entry.bankVersion === item.bankVersion);
+      if (index !== -1) {
+        const previous = state.attempts[index];
+        state.attempts[index] = {...item, durationSeconds:previous.durationSeconds, completedAt:previous.completedAt};
+      }
+    }
     const saved = write(state);
     if (isNewAttempt) {
       const scoreBand = item.percentage < 50 ? "under_50" : item.percentage < 70 ? "50_69" : item.percentage < 85 ? "70_84" : "85_100";

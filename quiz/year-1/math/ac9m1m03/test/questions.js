@@ -1,467 +1,389 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrTestQuestions = [
   {
-    "id": "ac9m1m03-t-001",
+    "id": "AC9M1M03-T01",
+    "questionId": "T01",
     "curriculumCode": "AC9M1M03",
     "bank": "test",
-    "skill": "events measured in hours",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Which duration is longest?",
+    "explanation": "A year is longer than a week or an hour.",
+    "skill": "compare named durations",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Select all events that could sensibly be described in hours. Choose the group with all the correct answers.",
-    "audioPrompt": "Select all events that could sensibly be described in hours. Choose the group with all the correct answers.",
-    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is test example 1.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all events that could sensibly be described in hours. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-001\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-001",
-      "alt_text": "Select all events that could sensibly be described in hours. Choose the group with all the correct answers."
-    },
     "answers": [
-      "a school day, a long movie",
-      "a school day",
-      "a school day, a child's age"
+      "1 hour",
+      "1 year",
+      "1 week"
     ],
-    "correct": 0,
-    "explanation": "School days and long movies last hours; age and years need larger units.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "School days and long movies last hours; age and years need larger units.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m03-t-002",
+    "id": "AC9M1M03-T02",
+    "questionId": "T02",
     "curriculumCode": "AC9M1M03",
     "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The plan is: paint, let the paint dry, display the picture. What happens just after painting?",
+    "explanation": "Letting the paint dry is the next event in the given sequence.",
+    "skill": "locate next event",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Let the paint dry",
+      "Display the picture",
+      "Start painting again"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M03-T03",
+    "questionId": "T03",
+    "curriculumCode": "AC9M1M03",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The days go Tuesday, Wednesday, Thursday, Friday. A visit is on Thursday. Which day is just before the visit?",
+    "explanation": "Wednesday is immediately before Thursday.",
+    "skill": "locate prior weekday",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Tuesday",
+      "Friday",
+      "Wednesday"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1M03-T04",
+    "questionId": "T04",
+    "curriculumCode": "AC9M1M03",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A calendar lists October, November, December. Which month comes between October and December?",
+    "explanation": "November follows October and comes before December.",
+    "skill": "complete month sequence",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept November.",
+    "printable": true,
+    "type": "text",
+    "correct": "November",
+    "acceptedAnswers": [
+      "November"
+    ],
+    "answerFormat": "plain"
+  },
+  {
+    "id": "AC9M1M03-T05",
+    "questionId": "T05",
+    "curriculumCode": "AC9M1M03",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A game lasts 1 hour. A trip lasts 1 week. Which lasts less time?",
+    "explanation": "An hour is a shorter duration than a week.",
+    "skill": "compare event durations",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "They last the same time.",
+      "The trip",
+      "The game"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1M03-T06",
+    "questionId": "T06",
+    "curriculumCode": "AC9M1M03",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A child measures the wait from one birthday to the next in hours. Which unit would describe this wait more simply?",
+    "explanation": "The wait from one birthday to the next is one year.",
+    "skill": "improve time-unit choice",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Years",
+      "Hours",
+      "Days"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M03-T07",
+    "questionId": "T07",
+    "curriculumCode": "AC9M1M03",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Use this calendar row.\nMonday: 15\nTuesday: 16\nWednesday: 17\nThursday: 18\nFriday: 19\nThe trip is on Thursday. What is its date?",
+    "explanation": "The Thursday column shows the date 18.",
+    "skill": "read date from calendar weekday",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "rows": [
+        [
+          "15",
+          "16",
+          "17",
+          "18",
+          "19"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The 18th",
+      "The 17th",
+      "The 19th"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M03-T08",
+    "questionId": "T08",
+    "curriculumCode": "AC9M1M03",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Put these durations in order from longest to shortest: 1 day, 1 year, 1 month.",
+    "explanation": "A year contains months, and a month contains days.",
     "skill": "order time units",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept year, month, day in this order.",
     "printable": true,
-    "type": "single",
-    "question": "Order these time units from shortest to longest. Which order is correct?",
-    "audioPrompt": "Order these time units from shortest to longest. Which order is correct?",
-    "visual": "The seven days are shown in their weekly order. This is test example 2.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order these time units from shortest to longest. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-002\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-002",
-      "alt_text": "Order these time units from shortest to longest. Which order is correct?"
-    },
-    "answers": [
-      "day → week → year → month → hour",
-      "hour → day → week → month → year",
-      "year → month → week → day → hour"
+    "type": "text",
+    "correct": "1 year, 1 month, 1 day",
+    "acceptedAnswers": [
+      "1 year 1 month 1 day",
+      "year month day",
+      "one year one month one day"
     ],
-    "correct": 1,
-    "explanation": "Hours build days, days build weeks, and larger calendar units follow.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "Hours build days, days build weeks, and larger calendar units follow.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "answerFormat": "word-sequence"
   },
   {
-    "id": "ac9m1m03-t-003",
+    "id": "AC9M1M03-T09",
+    "questionId": "T09",
     "curriculumCode": "AC9M1M03",
     "bank": "test",
-    "skill": "daily sequence",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Today is Saturday. Tomorrow is Sunday. When is Sunday?",
+    "explanation": "Tomorrow means the next day.",
+    "skill": "interpret relative days",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Order these events from earlier to later. Which order is correct?",
-    "audioPrompt": "Order these events from earlier to later. Which order is correct?",
-    "visual": "The seven days are shown in their weekly order. This is test example 3.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order these events from earlier to later. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-003\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-003",
-      "alt_text": "Order these events from earlier to later. Which order is correct?"
-    },
     "answers": [
-      "breakfast → bedtime → lunch",
-      "bedtime → lunch → breakfast",
-      "breakfast → lunch → bedtime"
+      "The day before today",
+      "The day after today",
+      "Two weeks ago"
     ],
-    "correct": 2,
-    "explanation": "Breakfast usually comes before lunch and bedtime.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Breakfast usually comes before lunch and bedtime.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m03-t-004",
+    "id": "AC9M1M03-T10",
+    "questionId": "T10",
     "curriculumCode": "AC9M1M03",
     "bank": "test",
-    "skill": "sequence a day",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A puppet show lasts 2 hours. A music show lasts 1 hour. Which statement is true?",
+    "explanation": "Two hours is a longer duration than one hour.",
+    "skill": "compare same-unit durations",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Order the day parts from earlier to later. Which order is correct?",
-    "audioPrompt": "Order the day parts from earlier to later. Which order is correct?",
-    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: sequence a day This is test example 4.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order the day parts from earlier to later. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-004",
-      "alt_text": "Order the day parts from earlier to later. Which order is correct?"
-    },
     "answers": [
-      "morning → afternoon → night",
-      "morning → night → afternoon",
-      "night → afternoon → morning"
+      "The music show lasts longer.",
+      "The shows last equally long.",
+      "The puppet show lasts longer."
     ],
-    "correct": 0,
-    "explanation": "Morning comes before afternoon and night.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Morning comes before afternoon and night.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1m03-t-005",
+    "id": "AC9M1M03-T11",
+    "questionId": "T11",
     "curriculumCode": "AC9M1M03",
     "bank": "test",
-    "skill": "choose time unit",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The months go December, then January in the new year. Which month comes after December?",
+    "explanation": "The month sequence starts again with January after December.",
+    "skill": "month year rollover",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which unit best describes the duration of a weekend?",
-    "audioPrompt": "Which unit best describes the duration of a weekend?",
-    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: choose time unit This is test example 5.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which unit best describes the duration of a weekend?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-005\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-005",
-      "alt_text": "Which unit best describes the duration of a weekend?"
-    },
     "answers": [
-      "hours only",
-      "days",
-      "months"
+      "November",
+      "October",
+      "January"
     ],
-    "correct": 1,
-    "explanation": "days is a sensible unit for a weekend.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "days is a sensible unit for a weekend.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1m03-t-006",
+    "id": "AC9M1M03-T12",
+    "questionId": "T12",
     "curriculumCode": "AC9M1M03",
     "bank": "test",
-    "skill": "calendar next date",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A club meets for 1 hour before lunch and 2 hours after lunch. Do not count lunchtime. How many hours does the club meet?",
+    "explanation": "One hour and two hours make three hours of club time.",
+    "skill": "combine separate durations",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept 3 or three hours.",
     "printable": true,
-    "type": "single",
-    "question": "The calendar shows the 3rd today. What date is tomorrow?",
-    "audioPrompt": "The calendar shows the 3rd today. What date is tomorrow?",
-    "visual": "The seven days are shown in their weekly order. This is test example 6.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The calendar shows the 3rd today. What date is tomorrow?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-006\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-006",
-      "alt_text": "The calendar shows the 3rd today. What date is tomorrow?"
-    },
-    "answers": [
+    "type": "text",
+    "correct": "3 hours",
+    "acceptedAnswers": [
       "3",
-      "5",
-      "4"
+      "three",
+      "3 hours",
+      "three hours"
     ],
-    "correct": 2,
-    "explanation": "Tomorrow is one day later, the 4th.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "Tomorrow is one day later, the 4th.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
+    "answerFormat": "plain"
   },
   {
-    "id": "ac9m1m03-t-007",
+    "id": "AC9M1M03-T13",
+    "questionId": "T13",
     "curriculumCode": "AC9M1M03",
     "bank": "test",
-    "skill": "compare time units",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A week has 7 days. A holiday lasts 7 days. A child calls this “one month”. Which name matches the duration?",
+    "explanation": "Seven days make one week.",
+    "skill": "correct calendar duration label",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which duration is longer?",
-    "audioPrompt": "Which duration is longer?",
-    "visual": "Two clock times and a timeline show how long an event lasts. This is test example 7.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which duration is longer?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-007\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-007",
-      "alt_text": "Which duration is longer?"
-    },
     "answers": [
-      "one day",
-      "one hour",
-      "They are equal"
+      "One hour",
+      "One week",
+      "One year"
     ],
-    "correct": 0,
-    "explanation": "A day contains many hours.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "A day contains many hours.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m03-t-008",
+    "id": "AC9M1M03-T14",
+    "questionId": "T14",
     "curriculumCode": "AC9M1M03",
     "bank": "test",
-    "skill": "week duration",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The months go February, March, April. The sports day is in April. The picnic is in February. Which happens first?",
+    "explanation": "February comes before April.",
+    "skill": "order calendar events",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which statement is correct?",
-    "audioPrompt": "Which statement is correct?",
-    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: week duration This is test example 8.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-008\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-008",
-      "alt_text": "Which statement is correct?"
-    },
     "answers": [
-      "It is not true that arlo studies this example. Two weeks contain 14 days.",
-      "Arlo studies this example. Two weeks contain 14 days.",
-      "Days, months and events can be put in any order."
+      "They happen in the same month.",
+      "The picnic",
+      "The sports day"
     ],
-    "correct": 1,
-    "explanation": "Each week has 7 days, so 2 weeks have 14 days.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "Each week has 7 days, so 2 weeks have 14 days.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m03-t-009",
+    "id": "AC9M1M03-T15",
+    "questionId": "T15",
     "curriculumCode": "AC9M1M03",
     "bank": "test",
-    "skill": "correct a time unit error",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Which pair describes a shorter time followed by a longer time?",
+    "explanation": "One hour is shorter than one day. The other pairs go from longer to shorter.",
+    "skill": "identify increasing duration pair",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Sam says a five-day school week lasts five hours. Which correction is best?",
-    "audioPrompt": "Sam says a five-day school week lasts five hours. Which correction is best?",
-    "visual": "Two clock times and a timeline show how long an event lasts. This is test example 9.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Sam says a five-day school week lasts five hours. Which correction is best?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-009\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-009",
-      "alt_text": "Sam says a five-day school week lasts five hours. Which correction is best?"
-    },
     "answers": [
-      "Keep hours because all time is hours",
-      "Use years",
-      "Use days, because the period covers five different days"
+      "1 hour, then 1 day",
+      "1 year, then 1 month",
+      "1 week, then 1 day"
     ],
-    "correct": 2,
-    "explanation": "Choose a unit that matches the scale of the duration.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "Choose a unit that matches the scale of the duration.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1m03-t-010",
+    "id": "AC9M1M03-T16",
+    "questionId": "T16",
     "curriculumCode": "AC9M1M03",
     "bank": "test",
-    "skill": "days in a week",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Plan a usual school day with these events: go home after school, arrive at school, eat lunch at school. Write them in order.",
+    "explanation": "Arriving comes first, lunch is during school, and going home is after school.",
+    "skill": "create daily sequence",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept arrive, lunch, go home in this order.",
     "printable": true,
-    "type": "single",
-    "question": "How many days are in one week?",
-    "audioPrompt": "How many days are in one week?",
-    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: days in a week This is test example 10.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many days are in one week?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-010\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-010",
-      "alt_text": "How many days are in one week?"
-    },
-    "answers": [
-      "7",
-      "6",
-      "8"
-    ],
-    "correct": 0,
-    "explanation": "A week has 7 days.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "A week has 7 days.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m03-t-011",
-    "curriculumCode": "AC9M1M03",
-    "bank": "test",
-    "skill": "timeline",
-    "printable": true,
-    "type": "single",
-    "question": "A project starts on Tuesday and finishes 2 days later. Which day is that?",
-    "audioPrompt": "A project starts on Tuesday and finishes 2 days later. Which day is that?",
-    "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: timeline This is test example 11.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A project starts on Tuesday and finishes 2 days later. Which day is that?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-011\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-011",
-      "alt_text": "A project starts on Tuesday and finishes 2 days later. Which day is that?"
-    },
-    "answers": [
-      "Wednesday",
-      "Thursday",
-      "Friday"
-    ],
-    "correct": 1,
-    "explanation": "Count forward two days from Tuesday.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "Count forward two days from Tuesday.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m03-t-012",
-    "curriculumCode": "AC9M1M03",
-    "bank": "test",
-    "skill": "school day duration",
-    "printable": true,
-    "type": "single",
-    "question": "Which is a sensible way to describe the duration of a school day?",
-    "audioPrompt": "Which is a sensible way to describe the duration of a school day?",
-    "visual": "Two clock times and a timeline show how long an event lasts. This is test example 12.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which is a sensible way to describe the duration of a school day?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-012\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-012",
-      "alt_text": "Which is a sensible way to describe the duration of a school day?"
-    },
-    "answers": [
-      "several years",
-      "one month",
-      "several hours"
-    ],
-    "correct": 2,
-    "explanation": "A school day lasts several hours.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "A school day lasts several hours.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m03-t-013",
-    "curriculumCode": "AC9M1M03",
-    "bank": "test",
-    "skill": "sequence time events",
-    "printable": true,
-    "type": "single",
-    "question": "What usually comes first in a school day?",
-    "audioPrompt": "What usually comes first in a school day?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "morning roll call",
-      "go home",
-      "bedtime"
-    ],
-    "correct": 0,
-    "explanation": "Morning comes before lunch and home time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Morning comes before lunch and home time.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m03-t-014",
-    "curriculumCode": "AC9M1M03",
-    "bank": "test",
-    "skill": "choose time unit",
-    "printable": true,
-    "type": "single",
-    "question": "Which unit is best for measuring a birthday wait?",
-    "audioPrompt": "Which unit is best for measuring a birthday wait?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "seconds",
-      "months",
-      "hand spans"
-    ],
-    "correct": 1,
-    "explanation": "A birthday wait is usually talked about in months or weeks, not seconds.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "A birthday wait is usually talked about in months or weeks, not seconds.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m03-t-015",
-    "curriculumCode": "AC9M1M03",
-    "bank": "test",
-    "skill": "days in week",
-    "printable": true,
-    "type": "single",
-    "question": "How many days are in one week?",
-    "audioPrompt": "How many days are in one week?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "5",
-      "12",
-      "7"
-    ],
-    "correct": 2,
-    "explanation": "One week has 7 days.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "One week has 7 days.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m03-t-016",
-    "curriculumCode": "AC9M1M03",
-    "bank": "test",
-    "skill": "hours in day",
-    "printable": true,
-    "type": "single",
-    "question": "Which activity usually takes hours, not minutes?",
-    "audioPrompt": "Which activity usually takes hours, not minutes?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "sleeping at night",
-      "tying one shoe",
-      "clapping once"
-    ],
-    "correct": 0,
-    "explanation": "A long sleep takes hours.\nHint: Use the time order and move one step at a time.",
-    "structuredExplanation": {
-      "summary": "A long sleep takes hours.",
-      "hint": "Use the time order and move one step at a time."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Arrive at school, eat lunch at school, go home after school",
+    "modelAnswer": "Arrive at school, eat lunch at school, go home after school"
   }
 ];

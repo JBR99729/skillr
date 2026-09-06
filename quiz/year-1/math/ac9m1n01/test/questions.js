@@ -1,323 +1,492 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrTestQuestions = [
   {
-    "id": "ac9m1n01-t-001",
+    "id": "AC9M1N01-T01",
+    "questionId": "T01",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which numeral shows fifteen?",
-    "explanation": "Fifteen is written as 15.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Which number is one hundred and nine?",
+    "explanation": "One hundred and nine is written 109.",
+    "skill": "recognise three-digit numeral",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      "15",
-      "51",
-      "50"
+      "190",
+      "109",
+      "119"
     ],
-    "correct": 0,
-    "audioPrompt": "Which numeral shows fifteen?",
-    "structuredExplanation": {
-      "summary": "Fifteen is written as 15."
-    }
+    "correct": 1
   },
   {
-    "id": "ac9m1n01-t-002",
+    "id": "AC9M1N01-T02",
+    "questionId": "T02",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which number name matches 47?",
-    "explanation": "47 is read as forty-seven.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A number is shown by 6 full strips of 10 counters and 2 loose counters.\nWhich card matches?",
+    "explanation": "Six strips show 60 counters. Two more make 62.",
+    "skill": "grouped quantity to numeral",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "groups",
+      "groups": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        2
+      ],
+      "label": "Counters"
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      "seventy-four",
-      "forty-seven",
-      "forty"
-    ],
-    "correct": 1,
-    "audioPrompt": "Which number name matches 47?",
-    "structuredExplanation": {
-      "summary": "47 is read as forty-seven."
-    }
-  },
-  {
-    "id": "ac9m1n01-t-003",
-    "curriculumCode": "AC9M1N01",
-    "bank": "test",
-    "skill": "numbers to 120",
-    "question": "What number comes after 69?",
-    "explanation": "Counting forward from 69 gives 70.",
-    "printable": true,
-    "type": "single",
-    "answers": [
+      "26",
       "68",
-      "79",
-      "70"
+      "62"
     ],
-    "correct": 2,
-    "audioPrompt": "What number comes after 69?",
-    "structuredExplanation": {
-      "summary": "Counting forward from 69 gives 70."
-    }
+    "correct": 2
   },
   {
-    "id": "ac9m1n01-t-004",
+    "id": "AC9M1N01-T03",
+    "questionId": "T03",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "What number comes before 90?",
-    "explanation": "89 is one less than 90.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Which list goes from smallest to largest?",
+    "explanation": "79 comes before 97, and 97 comes before 107.",
+    "skill": "order three numerals",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      "89",
-      "91",
-      "80"
+      "97, 79, 107",
+      "79, 97, 107",
+      "107, 97, 79"
     ],
-    "correct": 0,
-    "audioPrompt": "What number comes before 90?",
-    "structuredExplanation": {
-      "summary": "89 is one less than 90."
-    }
+    "correct": 1
   },
   {
-    "id": "ac9m1n01-t-005",
+    "id": "AC9M1N01-T04",
+    "questionId": "T04",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which is the largest number?",
-    "explanation": "63 is larger than 45 and 36.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Write the number immediately before 120.",
+    "explanation": "The counting order ends 118, 119, 120.",
+    "skill": "cross decade or hundred boundary",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "text",
+    "correct": "119",
+    "acceptedAnswers": [
+      "119",
+      "one hundred and nineteen"
+    ],
+    "answerFormat": "plain"
+  },
+  {
+    "id": "AC9M1N01-T05",
+    "questionId": "T05",
+    "curriculumCode": "AC9M1N01",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Read this part of a number chart.\n76  77  78\n86  87  88\n96  97  98\nWhich number is directly below 87?",
+    "explanation": "97 is directly below 87 in the same column.",
+    "skill": "locate numeral in chart",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "grid",
+      "rows": [
+        [
+          "76",
+          "77",
+          "78"
+        ],
+        [
+          "86",
+          "87",
+          "88"
+        ],
+        [
+          "96",
+          "97",
+          "98"
+        ]
+      ],
+      "caption": "Part of a number chart"
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      "45",
-      "63",
-      "36"
+      "96",
+      "97",
+      "88"
     ],
-    "correct": 1,
-    "audioPrompt": "Which is the largest number?",
-    "structuredExplanation": {
-      "summary": "63 is larger than 45 and 36."
-    }
+    "correct": 1
   },
   {
-    "id": "ac9m1n01-t-006",
+    "id": "AC9M1N01-T06",
+    "questionId": "T06",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which is the smallest number?",
-    "explanation": "28 has fewer tens than 72 and 82.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The marks on a number line are 1 apart.\n98 — 99 — ? — 101\nWhich number belongs at the missing mark?",
+    "explanation": "100 lies after 99 and before 101.",
+    "skill": "unit number-line position",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Mark 1",
+        "Mark 2",
+        "Mark 3",
+        "Mark 4"
+      ],
+      "rows": [
+        [
+          "98",
+          "99",
+          "?",
+          "101"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      "82",
-      "72",
-      "28"
+      "100",
+      "110",
+      "90"
     ],
-    "correct": 2,
-    "audioPrompt": "Which is the smallest number?",
-    "structuredExplanation": {
-      "summary": "28 has fewer tens than 72 and 82."
-    }
+    "correct": 0
   },
   {
-    "id": "ac9m1n01-t-007",
+    "id": "AC9M1N01-T07",
+    "questionId": "T07",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Count by tens: 40, 50, 60, __. What comes next?",
-    "explanation": "Counting by tens adds 10 each time.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A card says 114. Which label should go with it?",
+    "explanation": "114 is read as one hundred and fourteen.",
+    "skill": "numeral to words",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      "70",
-      "61",
-      "80"
+      "One hundred and forty",
+      "One hundred and four",
+      "One hundred and fourteen"
     ],
-    "correct": 0,
-    "audioPrompt": "Count by tens: 40, 50, 60, __. What comes next?",
-    "structuredExplanation": {
-      "summary": "Counting by tens adds 10 each time."
-    }
+    "correct": 2
   },
   {
-    "id": "ac9m1n01-t-008",
+    "id": "AC9M1N01-T08",
+    "questionId": "T08",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which number has 7 tens?",
-    "explanation": "76 has 7 tens and 6 ones.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Choose one whole number larger than 112 and smaller than 116.\nWrite your number.",
+    "explanation": "113, 114 and 115 are all larger than 112 and smaller than 116.",
+    "skill": "create numeral from bounds",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept 113, 114 or 115.",
+    "printable": true,
+    "type": "text",
+    "correct": "114",
+    "acceptedAnswers": [
+      "113",
+      "114",
+      "115"
+    ],
+    "answerFormat": "plain",
+    "inputMode": "numeric"
+  },
+  {
+    "id": "AC9M1N01-T09",
+    "questionId": "T09",
+    "curriculumCode": "AC9M1N01",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "These cards should count on by ones.\n57, 58, 59, 70, 61\nWhich card should replace 70?",
+    "explanation": "The number after 59 is 60. The row should read 57, 58, 59, 60, 61.",
+    "skill": "repair counting order",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      "17",
-      "76",
-      "67"
+      "60",
+      "69",
+      "71"
     ],
-    "correct": 1,
-    "audioPrompt": "Which number has 7 tens?",
-    "structuredExplanation": {
-      "summary": "76 has 7 tens and 6 ones."
-    }
+    "correct": 0
   },
   {
-    "id": "ac9m1n01-t-009",
+    "id": "AC9M1N01-T10",
+    "questionId": "T10",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which number is between 55 and 57?",
-    "explanation": "56 comes after 55 and before 57.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Which number is smallest?",
+    "explanation": "102 comes before both 112 and 120.",
+    "skill": "select minimum numeral",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      "54",
-      "58",
-      "56"
-    ],
-    "correct": 2,
-    "audioPrompt": "Which number is between 55 and 57?",
-    "structuredExplanation": {
-      "summary": "56 comes after 55 and before 57."
-    }
-  },
-  {
-    "id": "ac9m1n01-t-010",
-    "curriculumCode": "AC9M1N01",
-    "bank": "test",
-    "skill": "numbers to 120",
-    "question": "What number is 10 more than 48?",
-    "explanation": "Ten more than 48 is 58.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "58",
-      "49",
-      "38"
-    ],
-    "correct": 0,
-    "audioPrompt": "What number is 10 more than 48?",
-    "structuredExplanation": {
-      "summary": "Ten more than 48 is 58."
-    }
-  },
-  {
-    "id": "ac9m1n01-t-011",
-    "curriculumCode": "AC9M1N01",
-    "bank": "test",
-    "skill": "numbers to 120",
-    "question": "What number is 10 less than 100?",
-    "explanation": "Ten less than 100 is 90.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "99",
-      "90",
-      "110"
-    ],
-    "correct": 1,
-    "audioPrompt": "What number is 10 less than 100?",
-    "structuredExplanation": {
-      "summary": "Ten less than 100 is 90."
-    }
-  },
-  {
-    "id": "ac9m1n01-t-012",
-    "curriculumCode": "AC9M1N01",
-    "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which number matches 9 tens and 4 ones?",
-    "explanation": "9 tens and 4 ones make 94.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "49",
-      "90",
-      "94"
-    ],
-    "correct": 2,
-    "audioPrompt": "Which number matches 9 tens and 4 ones?",
-    "structuredExplanation": {
-      "summary": "9 tens and 4 ones make 94."
-    }
-  },
-  {
-    "id": "ac9m1n01-t-013",
-    "curriculumCode": "AC9M1N01",
-    "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which number has 1 hundred, 2 tens and 0 ones?",
-    "explanation": "1 hundred, 2 tens and 0 ones make 120.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "120",
       "102",
+      "120",
       "112"
     ],
-    "correct": 0,
-    "audioPrompt": "Which number has 1 hundred, 2 tens and 0 ones?",
-    "structuredExplanation": {
-      "summary": "1 hundred, 2 tens and 0 ones make 120."
-    }
+    "correct": 0
   },
   {
-    "id": "ac9m1n01-t-014",
+    "id": "AC9M1N01-T11",
+    "questionId": "T11",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which number comes before 110?",
-    "explanation": "109 is one less than 110.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two models are labelled below. Every full strip holds 10 counters.\nModel A: 9 full strips and 1 loose counter.\nModel B: 1 full strip and 9 loose counters.\nWhich model shows 91?",
+    "explanation": "Model A shows 90 and 1 more, which is 91. Model B shows 19.",
+    "skill": "compare place-value representations",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Model",
+        "Full strips of 10",
+        "Loose counters"
+      ],
+      "rows": [
+        [
+          "A",
+          "9",
+          "1"
+        ],
+        [
+          "B",
+          "1",
+          "9"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      "111",
+      "Model B",
+      "Both models",
+      "Model A"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1N01-T12",
+    "questionId": "T12",
+    "curriculumCode": "AC9M1N01",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Write these cards from largest to smallest:\n85, 105, 95",
+    "explanation": "105 is largest. 95 comes next, then 85.",
+    "skill": "descending order",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept 105, 95, 85 in that order, with any clear separators.",
+    "printable": true,
+    "type": "text",
+    "correct": "105, 95, 85",
+    "acceptedAnswers": [
+      "105,95,85"
+    ],
+    "answerFormat": "number-sequence",
+    "placeholder": "Write the numbers in order, separated by commas"
+  },
+  {
+    "id": "AC9M1N01-T13",
+    "questionId": "T13",
+    "curriculumCode": "AC9M1N01",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The marks on a number line are 1 apart.\n116 — 117 — 118 — 119\nWhich number is two marks to the right of 116?",
+    "explanation": "The first mark to the right is 117. The second is 118.",
+    "skill": "locate number-line position",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Mark 1",
+        "Mark 2",
+        "Mark 3",
+        "Mark 4"
+      ],
+      "rows": [
+        [
+          "116",
+          "117",
+          "118",
+          "119"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "118",
+      "119",
+      "117"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1N01-T14",
+    "questionId": "T14",
+    "curriculumCode": "AC9M1N01",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Which card fits this space in an ordered row?\n103, __, 106, 108",
+    "explanation": "105 is after 103 and before 106, so the whole row stays in order.",
+    "skill": "choose number between bounds",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
       "109",
-      "100"
+      "102",
+      "105"
     ],
-    "correct": 1,
-    "audioPrompt": "Which number comes before 110?",
-    "structuredExplanation": {
-      "summary": "109 is one less than 110."
-    }
+    "correct": 2
   },
   {
-    "id": "ac9m1n01-t-015",
+    "id": "AC9M1N01-T15",
+    "questionId": "T15",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which list goes from smallest to largest?",
-    "explanation": "66 is smallest, then 76, then 86.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Part of a ten-column number chart is shown.\n91  92  93  94  95\nWhich part of the next row belongs directly underneath it?",
+    "explanation": "In this number chart, each number underneath is 10 more. 101 belongs under 91.",
+    "skill": "match chart rows",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Column 1",
+        "Column 2",
+        "Column 3",
+        "Column 4",
+        "Column 5"
+      ],
+      "rows": [
+        [
+          "91",
+          "92",
+          "93",
+          "94",
+          "95"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      "86, 76, 66",
-      "76, 86, 66",
-      "66, 76, 86"
+      "96  97  98  99  100",
+      "101  102  103  104  105",
+      "81  82  83  84  85"
     ],
-    "correct": 2,
-    "audioPrompt": "Which list goes from smallest to largest?",
-    "structuredExplanation": {
-      "summary": "66 is smallest, then 76, then 86."
-    }
+    "correct": 1
   },
   {
-    "id": "ac9m1n01-t-016",
+    "id": "AC9M1N01-T16",
+    "questionId": "T16",
     "curriculumCode": "AC9M1N01",
     "bank": "test",
-    "skill": "numbers to 120",
-    "question": "Which number is nearest to 100?",
-    "explanation": "103 is 3 away from 100, closer than 87 or 75.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Write the number shown by 11 full strips of 10 counters and 8 loose counters.",
+    "explanation": "Eleven full strips show 110 counters. With 8 loose counters, the number is 118.",
+    "skill": "grouped quantity to numeral",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "groups",
+      "groups": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        8
+      ],
+      "label": "Counters"
+    },
+    "acceptanceNote": "",
     "printable": true,
-    "type": "single",
-    "answers": [
-      "103",
-      "87",
-      "75"
+    "type": "text",
+    "correct": "118",
+    "acceptedAnswers": [
+      "118",
+      "one hundred and eighteen"
     ],
-    "correct": 0,
-    "audioPrompt": "Which number is nearest to 100?",
-    "structuredExplanation": {
-      "summary": "103 is 3 away from 100, closer than 87 or 75."
-    }
+    "answerFormat": "plain"
   }
 ];

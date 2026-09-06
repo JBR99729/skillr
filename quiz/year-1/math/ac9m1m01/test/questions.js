@@ -1,467 +1,398 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrTestQuestions = [
   {
-    "id": "ac9m1m01-t-001",
+    "id": "AC9M1M01-T01",
+    "questionId": "T01",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "read balance equality",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two straws start at the same line. Straw X reaches further than straw Y. Which is shorter?",
+    "explanation": "With one end lined up, the straw that does not reach as far is shorter.",
+    "skill": "aligned endpoint comparison",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "bars",
+      "bars": [
+        {
+          "label": "X",
+          "units": 6
+        },
+        {
+          "label": "Y",
+          "units": 3
+        }
+      ],
+      "caption": "Both objects start at the same place. Each block is the same length."
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which statement is correct?",
-    "audioPrompt": "Which statement is correct?",
-    "visual": "A level balance shows toy A and toy B have equal mass. Specific example: toy A ——— toy B This is test example 1.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-001\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-001",
-      "alt_text": "Which statement is correct?"
-    },
     "answers": [
-      "Lina studies this example. A balance stays level with toy A on one side and toy B on the other. Their masses are equal.",
-      "It is not true that lina studies this example. A balance stays level with toy A on one side and toy B on the other. Their masses are equal.",
-      "The object that looks taller is always longer, heavier and able to hold more."
+      "They are the same length.",
+      "Straw Y",
+      "Straw X"
     ],
-    "correct": 0,
-    "explanation": "A level balance shows equal mass.\nHint: Think about which object would make a balance pan go down.",
-    "structuredExplanation": {
-      "summary": "A level balance shows equal mass.",
-      "hint": "Think about which object would make a balance pan go down."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m01-t-002",
+    "id": "AC9M1M01-T02",
+    "questionId": "T02",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "direct length comparison",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A balance has a toy boat and a toy train. The train side is lower. What is true?",
+    "explanation": "The lower side of a balance holds the heavier object.",
+    "skill": "balance comparison",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "The two lines start together. Which line is longer?",
-    "audioPrompt": "The two lines start together. Which line is longer?",
-    "visual": "Two lines start at the same point so their lengths can be compared fairly. Specific example: A: |—————| B: |————————| This is test example 2.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The two lines start together. Which line is longer?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-002\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-002",
-      "alt_text": "The two lines start together. Which line is longer?"
-    },
     "answers": [
-      "Line A",
-      "Line B",
-      "They are equal"
+      "The train is heavier.",
+      "The boat is heavier.",
+      "They have the same mass."
     ],
-    "correct": 1,
-    "explanation": "Line B extends farther from the same starting point.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "Line B extends farther from the same starting point.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1m01-t-003",
+    "id": "AC9M1M01-T03",
+    "questionId": "T03",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "compare mass with balance",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The same cup is used to fill three empty containers.\nA: 2 cupfuls\nB: 6 cupfuls\nC: 4 cupfuls\nWhich order goes from least to greatest capacity?",
+    "explanation": "Fewer equal cupfuls means a smaller capacity: 2, then 4, then 6.",
+    "skill": "capacity benchmark ordering",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Container",
+        "Cupfuls to fill"
+      ],
+      "rows": [
+        [
+          "A",
+          "2"
+        ],
+        [
+          "B",
+          "6"
+        ],
+        [
+          "C",
+          "4"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "A balance tilts down on the full bottle side. Which object is heavier?",
-    "audioPrompt": "A balance tilts down on the full bottle side. Which object is heavier?",
-    "visual": "A balance tilts down on the full bottle side, showing it is heavier than empty cup. Specific example: full bottle ↓ ↑ empty cup This is test example 3.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A balance tilts down on the full bottle side. Which object is heavier?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-003\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-003",
-      "alt_text": "A balance tilts down on the full bottle side. Which object is heavier?"
-    },
     "answers": [
-      "empty cup",
-      "They are equal",
-      "full bottle"
+      "A, B, C",
+      "A, C, B",
+      "B, C, A"
     ],
-    "correct": 2,
-    "explanation": "The heavier side of a balance moves down.\nHint: Think about which object would make a balance pan go down.",
-    "structuredExplanation": {
-      "summary": "The heavier side of a balance moves down.",
-      "hint": "Think about which object would make a balance pan go down."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m01-t-004",
+    "id": "AC9M1M01-T04",
+    "questionId": "T04",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "order by length",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A walk and a game begin together. The walk ends while the game is still going. Which activity lasts longer?",
+    "explanation": "The game continues after the walk ends, although they began together.",
+    "skill": "common start duration comparison",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept game.",
     "printable": true,
-    "type": "single",
-    "question": "Order the block trains from shortest to longest. Which order is correct?",
-    "audioPrompt": "Order the block trains from shortest to longest. Which order is correct?",
-    "visual": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: order by length This is test example 4.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order the block trains from shortest to longest. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-004",
-      "alt_text": "Order the block trains from shortest to longest. Which order is correct?"
-    },
-    "answers": [
-      "5 blocks → 7 blocks → 9 blocks",
-      "7 blocks → 9 blocks → 5 blocks",
-      "9 blocks → 7 blocks → 5 blocks"
+    "type": "text",
+    "correct": "The game",
+    "acceptedAnswers": [
+      "game",
+      "the game"
     ],
-    "correct": 0,
-    "explanation": "Using equal blocks, fewer blocks means shorter and more blocks means longer.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "Using equal blocks, fewer blocks means shorter and more blocks means longer.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "answerFormat": "plain"
   },
   {
-    "id": "ac9m1m01-t-005",
+    "id": "AC9M1M01-T05",
+    "questionId": "T05",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "fair comparison methods",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A string is the same length as a brush. A pencil is shorter than the string. Which is longer: the brush or the pencil?",
+    "explanation": "The brush matches the string, and the pencil is shorter than the string.",
+    "skill": "length equality inference",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Select both fair comparison methods. Choose the group with all the correct answers.",
-    "audioPrompt": "Select both fair comparison methods. Choose the group with all the correct answers.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "Line up two ribbons at one end",
-      "Line up two ribbons at one end, Use the same scoop for both containers",
-      "Line up two ribbons at one end, Choose the brightest object"
+      "The pencil",
+      "They are the same length.",
+      "The brush"
     ],
-    "correct": 1,
-    "explanation": "Aligned starts and equal units make comparisons fair.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Aligned starts and equal units make comparisons fair.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1m01-t-006",
+    "id": "AC9M1M01-T06",
+    "questionId": "T06",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "choose fair method",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Bag A balances 2 equal blocks. Bag B balances 4 of the same blocks. Bag C balances 3 of them. Which bag is lightest?",
+    "explanation": "Bag A balances the fewest of the same blocks.",
+    "skill": "indirect mass benchmark",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which method fairly compares mass?",
-    "audioPrompt": "Which method fairly compares mass?",
-    "visual": "A balance tilts down on the object A side, showing it is heavier than object B. This is test example 6.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which method fairly compares mass?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-006\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-006",
-      "alt_text": "Which method fairly compares mass?"
-    },
     "answers": [
-      "Compare colour",
-      "Choose the favourite",
-      "Use a balance or heft carefully"
+      "Bag A",
+      "Bag C",
+      "Bag B"
     ],
-    "correct": 2,
-    "explanation": "Use a balance or heft carefully supports a fair mass comparison.\nHint: Think about which object would make a balance pan go down.",
-    "structuredExplanation": {
-      "summary": "Use a balance or heft carefully supports a fair mass comparison.",
-      "hint": "Think about which object would make a balance pan go down."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1m01-t-007",
+    "id": "AC9M1M01-T07",
+    "questionId": "T07",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "transitive comparison",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A full jug is poured into an empty bucket. All the water fits, and the bucket still has room. Why does the bucket have a greater capacity?",
+    "explanation": "The unused space shows that the bucket can hold more water than the jug.",
+    "skill": "justify capacity comparison",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Ribbon A is longer than ribbon B. Ribbon B is longer than ribbon C. Which is longest?",
-    "audioPrompt": "Ribbon A is longer than ribbon B. Ribbon B is longer than ribbon C. Which is longest?",
-    "visual": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: transitive comparison This is test example 7.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ribbon A is longer than ribbon B. Ribbon B is longer than ribbon C. Which is longest?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-007\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-007",
-      "alt_text": "Ribbon A is longer than ribbon B. Ribbon B is longer than ribbon C. Which is longest?"
-    },
     "answers": [
-      "Ribbon A",
-      "Ribbon B",
-      "Ribbon C"
+      "It can hold the jug’s water and more.",
+      "It must be heavier.",
+      "It must be a different colour."
     ],
-    "correct": 0,
-    "explanation": "If A is longer than B and B is longer than C, A is longest.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "If A is longer than B and B is longer than C, A is longest.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1m01-t-008",
+    "id": "AC9M1M01-T08",
+    "questionId": "T08",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "capacity appearance trap",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Three children start building at the same time. Lee finishes first, Pat finishes second, and Ari finishes last. Who spends the longest time building?",
+    "explanation": "With the same start, the last person to finish spends the longest time building.",
+    "skill": "duration ordering",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept Ari.",
     "printable": true,
-    "type": "single",
-    "question": "Can looking only at height prove whether a short wide bowl holds more than another container?",
-    "audioPrompt": "Can looking only at height prove whether a short wide bowl holds more than another container?",
-    "visual": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: capacity appearance trap This is test example 8.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Can looking only at height prove whether a short wide bowl holds more than another container?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-008\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-008",
-      "alt_text": "Can looking only at height prove whether a short wide bowl holds more than another container?"
-    },
-    "answers": [
-      "Yes, the taller one always holds more",
-      "No, compare by filling or pouring",
-      "Yes, the wider one always holds more"
+    "type": "text",
+    "correct": "Ari",
+    "acceptedAnswers": [
+      "Ari"
     ],
-    "correct": 1,
-    "explanation": "Container shape can be misleading; use a fair capacity comparison.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "Container shape can be misleading; use a fair capacity comparison.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "answerFormat": "plain"
   },
   {
-    "id": "ac9m1m01-t-009",
+    "id": "AC9M1M01-T09",
+    "questionId": "T09",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "align starting points",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A box looks bigger than a parcel. How can you check which has more mass?",
+    "explanation": "A balance compares mass. A bigger size does not always mean more mass.",
+    "skill": "choose mass comparison method",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Two pencils start at different places. What should be done before comparing their length?",
-    "audioPrompt": "Two pencils start at different places. What should be done before comparing their length?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "Compare their colours",
-      "Move the longer-looking one away",
-      "Line up one end of both objects"
+      "Choose the bigger one.",
+      "Measure which is longer.",
+      "Put them on opposite sides of a balance."
     ],
-    "correct": 2,
-    "explanation": "A fair direct length comparison uses the same starting point.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "A fair direct length comparison uses the same starting point.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1m01-t-010",
+    "id": "AC9M1M01-T10",
+    "questionId": "T10",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "compare capacity with equal scoops",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A ribbon is longer than a spoon. The spoon is longer than a key. Which statement must be true?",
+    "explanation": "The ribbon is longer than the spoon, which is already longer than the key.",
+    "skill": "indirect length ordering",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Cup A holds 5 equal scoops. Cup B holds 7. Which has greater capacity?",
-    "audioPrompt": "Cup A holds 5 equal scoops. Cup B holds 7. Which has greater capacity?",
-    "visual": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: compare capacity with equal scoops This is test example 10.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Cup A holds 5 equal scoops. Cup B holds 7. Which has greater capacity?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-010\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-010",
-      "alt_text": "Cup A holds 5 equal scoops. Cup B holds 7. Which has greater capacity?"
-    },
     "answers": [
-      "Cup B",
-      "Cup A",
-      "They are equal"
+      "The ribbon and key have equal lengths.",
+      "The ribbon is longer than the key.",
+      "The key is longer than the ribbon."
     ],
-    "correct": 0,
-    "explanation": "Cup B holds more of the same-sized scoop.\nHint: Compare how much each container can hold, not only how tall it looks.",
-    "structuredExplanation": {
-      "summary": "Cup B holds more of the same-sized scoop.",
-      "hint": "Compare how much each container can hold, not only how tall it looks."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m01-t-011",
+    "id": "AC9M1M01-T11",
+    "questionId": "T11",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "spot comparison error",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A bowl takes 3 full cups to fill. A pot takes 3 full mugs. The cups and mugs have different sizes. Can you tell which container holds more from these counts?",
+    "explanation": "The same count does not show equal capacity when the cupfuls have different sizes.",
+    "skill": "critique capacity evidence",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Sam compares two ribbons without lining up their ends. What is the problem?",
-    "audioPrompt": "Sam compares two ribbons without lining up their ends. What is the problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "The objects have names",
-      "The starting points are different",
-      "Only mass can be compared"
+      "Yes, the bowl must hold more.",
+      "No, the measuring containers are different sizes.",
+      "Yes, they must hold the same amount."
     ],
-    "correct": 1,
-    "explanation": "Length comparisons need a common starting point.\nHint: Count each amount carefully, then compare the two totals.",
-    "structuredExplanation": {
-      "summary": "Length comparisons need a common starting point.",
-      "hint": "Count each amount carefully, then compare the two totals."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m01-t-012",
+    "id": "AC9M1M01-T12",
+    "questionId": "T12",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "choose measurement attribute",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two timers start together and ring together. Compare the times they measured.",
+    "explanation": "Matching starts and finishes show equal durations.",
+    "skill": "duration equality check",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept equal times or same duration.",
     "printable": true,
-    "type": "single",
-    "question": "Which attribute answers “How much does the jug hold?”",
-    "audioPrompt": "Which attribute answers “How much does the jug hold?”",
-    "visual": "A large jug and a small cup are compared by how much each container can hold. This is test example 12.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which attribute answers “How much does the jug hold?”\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-012\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-012",
-      "alt_text": "Which attribute answers “How much does the jug hold?”"
-    },
-    "answers": [
-      "length",
-      "mass",
-      "capacity"
-    ],
-    "correct": 2,
-    "explanation": "Capacity is the relevant attribute.\nHint: Compare how much each container can hold, not only how tall it looks.",
-    "structuredExplanation": {
-      "summary": "Capacity is the relevant attribute.",
-      "hint": "Compare how much each container can hold, not only how tall it looks."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "They measured the same time.",
+    "modelAnswer": "They measured the same time."
   },
   {
-    "id": "ac9m1m01-t-013",
+    "id": "AC9M1M01-T13",
+    "questionId": "T13",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "compare length",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A toy is heavier than a sock but lighter than a book. Which order is from heaviest to lightest?",
+    "explanation": "The book is heaviest, then the toy, then the sock.",
+    "skill": "mass ordering",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which object is longer: a pencil or a paperclip?",
-    "audioPrompt": "Which object is longer: a pencil or a paperclip?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "pencil",
-      "paperclip",
-      "same length"
+      "Toy, book, sock",
+      "Sock, toy, book",
+      "Book, toy, sock"
     ],
-    "correct": 0,
-    "explanation": "A pencil is usually longer than a paperclip.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "A pencil is usually longer than a paperclip.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1m01-t-014",
+    "id": "AC9M1M01-T14",
+    "questionId": "T14",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "compare mass",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You want to compare the widths of two doors in different rooms. What could help?",
+    "explanation": "String can carry one door’s width to the other door for an indirect comparison.",
+    "skill": "choose indirect length method",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "A rock and a leaf are the same size. Which is likely heavier?",
-    "audioPrompt": "A rock and a leaf are the same size. Which is likely heavier?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "leaf",
-      "rock",
-      "they must weigh the same"
+      "Open both doors and guess from their sounds.",
+      "Compare the doors’ colours.",
+      "Use a string to copy one width and compare it with the other."
     ],
-    "correct": 1,
-    "explanation": "Size does not always tell mass. A rock is usually heavier than a leaf.\nHint: Think about which object would make a balance pan go down.",
-    "structuredExplanation": {
-      "summary": "Size does not always tell mass. A rock is usually heavier than a leaf.",
-      "hint": "Think about which object would make a balance pan go down."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1m01-t-015",
+    "id": "AC9M1M01-T15",
+    "questionId": "T15",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "compare capacity",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two songs start together. A child says, “Song A is longer because it is louder.” What would actually show that A lasts longer?",
+    "explanation": "The later finish shows a longer duration when both songs start together.",
+    "skill": "critique duration evidence",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which container can hold more water?",
-    "audioPrompt": "Which container can hold more water?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "the tiny cup",
-      "the flat plate",
-      "the large bucket"
+      "A is still playing when B ends.",
+      "A has more clapping sounds.",
+      "A is sung by more people."
     ],
-    "correct": 2,
-    "explanation": "Capacity means how much a container can hold.\nHint: Compare how much each container can hold, not only how tall it looks.",
-    "structuredExplanation": {
-      "summary": "Capacity means how much a container can hold.",
-      "hint": "Compare how much each container can hold, not only how tall it looks."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1m01-t-016",
+    "id": "AC9M1M01-T16",
+    "questionId": "T16",
     "curriculumCode": "AC9M1M01",
     "bank": "test",
-    "skill": "compare duration",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A full can exactly fills an empty bowl. No water spills and none is left in the can. Compare their capacities and explain.",
+    "explanation": "The exact transfer shows that both containers hold the same amount when full.",
+    "skill": "justify capacity equality",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "Accept equal/same capacity with a reason about exactly filling the bowl.",
     "printable": true,
-    "type": "single",
-    "question": "Which takes longer: brushing teeth or sleeping all night?",
-    "audioPrompt": "Which takes longer: brushing teeth or sleeping all night?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "sleeping all night",
-      "brushing teeth",
-      "they take the same time"
-    ],
-    "correct": 0,
-    "explanation": "Sleeping all night takes many hours, so it takes longer.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "Sleeping all night takes many hours, so it takes longer.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "They have the same capacity because the can’s water exactly fills the bowl.",
+    "modelAnswer": "They have the same capacity because the can’s water exactly fills the bowl."
   }
 ];

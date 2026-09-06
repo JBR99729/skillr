@@ -338,7 +338,7 @@ document.addEventListener("DOMContentLoaded", () => {
         ? configuredQuestionCount
         : 8;
     config.maxQuestions = selectedQuestionCount;
-    config.shuffleQuestions = true;
+    config.shuffleQuestions = config.preserveQuestionOrder ? false : true;
     config.questionCycle = questions.length > selectedQuestionCount;
     const displayedCount = document.getElementById("questionCount");
     if (displayedCount) displayedCount.textContent = String(selectedQuestionCount);
@@ -380,7 +380,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const introduction =
       document.querySelector(".intro-text");
 
-    if (teacherSlideSummary && introduction) {
+    if (teacherSlideSummary && introduction && !config.bankVersion) {
       introduction.textContent =
         teacherSlideSummary.textContent;
     }
@@ -472,6 +472,15 @@ document.addEventListener("DOMContentLoaded", () => {
       `Quiz cannot start. Missing HTML IDs: ${missingIds.join(", ")}`
     );
 
+    return;
+  }
+
+  if (config.bankVersion === "20260906-y1-original-v1" && !window.SkillrYear1Maths) {
+    const message = document.createElement("p");
+    message.setAttribute("role", "alert");
+    message.textContent = "Some question resources did not load. Refresh this page before starting.";
+    elements.startButton.before(message);
+    elements.startButton.disabled = true;
     return;
   }
 
@@ -1222,8 +1231,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function selectBalancedUnseenQuestions(
     availableQuestions,
-    maximumQuestions
+    maximumQuestions,
+    applyResponseMix = true
   ) {
+    if (applyResponseMix && config.responseMix && maximumQuestions === 8) {
+      const choices = availableQuestions.filter(q => q.responseType === "mcq");
+      const written = availableQuestions.filter(q => q.responseType === "short_answer");
+      if (choices.length >= 6 && written.length >= 2) {
+        return [
+          ...selectBalancedUnseenQuestions(choices, 6, false),
+          ...selectBalancedUnseenQuestions(written, 2, false)
+        ];
+      }
+    }
     const remaining = availableQuestions.slice();
     const selected = [];
     const difficultyCounts = new Map();
@@ -1542,7 +1562,11 @@ document.addEventListener("DOMContentLoaded", () => {
     prepared = shuffleArray(prepared);
   }
 
-  return prepared.map(
+    if (config.progressiveDifficulty) {
+      prepared.sort((a, b) => inferQuestionDifficulty(a) - inferQuestionDifficulty(b));
+    }
+
+    return prepared.map(
     prepareSingleChoiceAnswers
   );
 }
@@ -1945,6 +1969,7 @@ if (displayQuestion.visual || displayQuestion.visualHtml) {
 
     elements.submitButton.disabled = true;
     elements.submitButton.hidden = false;
+    elements.submitButton.textContent = "Check answer";
 
     elements.submitButton.classList.remove(
       "is-hidden"
@@ -2055,6 +2080,7 @@ default:
     letter.textContent =
       String.fromCharCode(65 + index);
 
+    text.className = "answer-text";
     text.textContent = answer;
 
     button.append(letter, text);
@@ -2194,6 +2220,8 @@ default:
       "Type your answer";
 
     input.autocomplete = "off";
+    input.setAttribute("aria-label", "Your answer");
+    if (question.inputMode) input.inputMode = question.inputMode;
 
     input.addEventListener(
       "input",
@@ -2209,6 +2237,10 @@ default:
   }
 
   function renderSelfCheck(question) {
+    if (question.gradingMode === "adult-review" && window.SkillrYear1Maths) {
+      window.SkillrYear1Maths.renderAdultResponse(question, elements.answerList, elements.submitButton);
+      return;
+    }
     const instructions = document.createElement("p");
     instructions.className = "question-hint";
     instructions.textContent =
@@ -2894,15 +2926,19 @@ default:
         question.acceptedAnswers ||
         [question.correct];
 
+      const normalise = question.answerFormat && window.SkillrYear1Maths
+        ? value => window.SkillrYear1Maths.normaliseAnswer(value, question.answerFormat)
+        : normaliseText;
+
       const normalisedAccepted =
         acceptedAnswers.map(
-          normaliseText
+          normalise
         );
 
       return {
         isCorrect:
           normalisedAccepted.includes(
-            normaliseText(userAnswer)
+            normalise(userAnswer)
           ),
 
         selectedAnswer:
@@ -2916,6 +2952,9 @@ default:
     }
 
     if (type === "self-check") {
+      if (question.gradingMode === "adult-review" && window.SkillrYear1Maths) {
+        return window.SkillrYear1Maths.evaluateAdultResponse(question);
+      }
       const input = document.getElementById("selfCheckAnswer");
       const confirmed = document.getElementById("selfCheckConfirmed");
       const modelAnswer = String(
@@ -3105,6 +3144,10 @@ default:
     question,
     result
   ) {
+    if (result.pendingReview) {
+      elements.answerList.querySelectorAll("input, textarea").forEach(input => { input.disabled = true; });
+      return;
+    }
     const type =
       question.type || "single";
 
@@ -3749,7 +3792,7 @@ function renderImageDragState(
   answerChecked = true;
 
   /* Play correct or incorrect sound */
-  playQuizSound(result.isCorrect);
+  if (!result.pendingReview) playQuizSound(result.isCorrect);
 
   if (result.isCorrect) {
     score += 1;
@@ -3763,12 +3806,20 @@ function renderImageDragState(
     result
   );
 
-  showFeedback(
-    result.isCorrect,
-    question.explanation
-  );
+  if (result.pendingReview) {
+    elements.feedback.className = "feedback pending";
+    elements.feedback.textContent = "Response saved for a grown-up to check." +
+      (isPracticePage ? `\nExample: ${question.modelAnswer || question.correct}\n${question.acceptanceNote || question.explanation}` : " You can review it together after the test.");
+  } else {
+    showFeedback(result.isCorrect, question.explanation);
+  }
 
   quizHistory.push({
+    questionId: question.id,
+    gradingMode: question.gradingMode,
+    pendingReview: Boolean(result.pendingReview),
+    acceptanceNote: question.acceptanceNote || "",
+    visualModel: question.visualModel || null,
     question:
       question.question,
 
@@ -4248,9 +4299,12 @@ function renderImageDragState(
     const total =
       activeQuestions.length;
 
+    const pendingReview = quizHistory.filter(answer => answer.pendingReview).length;
+    const markedTotal = total - pendingReview;
+
     const percentage =
       Math.round(
-        (score / total) * 100
+        markedTotal ? (score / markedTotal) * 100 : 0
       );
 
     const previousBest =
@@ -4266,7 +4320,7 @@ function renderImageDragState(
         previousBest
       );
 
-    if (!isWarmupMode && !isEmbedMode) {
+    if (!isWarmupMode && !isEmbedMode && pendingReview === 0) {
       localStorage.setItem(
         config.storageKey,
         String(newBest)
@@ -4280,25 +4334,37 @@ function renderImageDragState(
       String(score);
 
     elements.finalTotal.textContent =
-      String(total);
+      String(markedTotal);
 
     elements.resultMessage.textContent =
-      getResultMessage(percentage);
+      pendingReview
+        ? `${score} of ${markedTotal} checked answers are correct. ${pendingReview} task${pendingReview === 1 ? "" : "s"} need a grown-up's review before the final result.`
+        : getResultMessage(percentage);
 
     if (!isWarmupMode && !isEmbedMode) markCurrentCycleSetComplete();
-    updateCertificateAction(percentage);
-    updateResultSharePrompt(percentage);
-    celebrateCompletion(score, total, percentage);
+    updateCertificateAction(pendingReview ? -1 : percentage);
+    if (!pendingReview) {
+      updateResultSharePrompt(percentage);
+      celebrateCompletion(score, total, percentage);
+    }
 
     const quizTitle = document.getElementById("quizTitle")?.textContent.trim() || document.title;
     const resultData = {
+        id: typeof window.crypto?.randomUUID === "function" ? window.crypto.randomUUID() : `${Date.now()}-${Math.random().toString(16).slice(2)}`,
+        bankVersion: config.bankVersion || "",
+        passingPercent: Number(config.passingPercent) || 75,
+        bestStorageKey: config.storageKey,
+        curriculumCode: String(config.skillCode || "").toUpperCase(),
+        mode: activityMatch?.[1]?.toLowerCase() || "practice",
+        markedTotal,
+        pendingReview,
         quizTitle,
         quizLabel: document.querySelector("#startScreen .eyebrow")?.textContent.trim() || "Quiz result",
         studentName: getStudentName(),
         score,
         total,
         percentage,
-        passed: percentage >= (Number(config.passingPercent) || 75),
+        passed: pendingReview === 0 && percentage >= (Number(config.passingPercent) || 75),
         answers: quizHistory,
         attemptUrl: window.location.href,
         reviewUrl: config.reviewUrl || "review/",
@@ -4342,7 +4408,7 @@ function renderImageDragState(
       let progressScript = document.querySelector('script[data-skillr-progress]');
       if (!progressScript) {
         progressScript = document.createElement("script");
-        progressScript.src = "/assets/progress-store.js?v=2";
+        progressScript.src = "/assets/progress-store.js?v=20260906-y1-original-v1";
         progressScript.dataset.skillrProgress = "true";
         document.head.appendChild(progressScript);
       }

@@ -1,1174 +1,619 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1n06-p-001",
+    "id": "AC9M1N06-P01",
+    "questionId": "P01",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "recognise equal groups",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Share 6 counters equally between 3 children. How many counters does each child get?",
+    "explanation": "Give one counter to each child, then one more to each. Each child gets two.",
+    "skill": "Find a share by equal distribution",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "[Show the complete data display with labels and symbols.] Which display has equal groups?",
-    "audioPrompt": "[Show the complete data display with labels and symbols.] Which display has equal groups?",
     "answers": [
-      "3 groups with 4 in each",
-      "groups of 3, 4 and 5",
-      "one group of 2 and one of 7"
-    ],
-    "correct": 0,
-    "explanation": "Equal groups contain the same number in every group.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Equal groups contain the same number in every group.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-002",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "identify unequal sharing",
-    "printable": true,
-    "type": "single",
-    "question": "Why is this not an equal share: 4, 4 and 3?",
-    "audioPrompt": "Why is this not an equal share: 4, 4 and 3?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "All groups are equal",
-      "One group has fewer",
-      "There are too many groups"
-    ],
-    "correct": 1,
-    "explanation": "Equal sharing requires the same number in each group.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Equal sharing requires the same number in each group.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-003",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "find total from groups",
-    "printable": true,
-    "type": "single",
-    "question": "There are 4 equal groups with 3 counters in each. How many counters altogether?",
-    "audioPrompt": "There are 4 equal groups with 3 counters in each. How many counters altogether?",
-    "visual": "There are 4 equal groups with 3 counters in each. How many counters altogether?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 4 equal groups with 3 counters in each. How many counters altogether?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-003\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-003",
-      "alt_text": "There are 4 equal groups with 3 counters in each. How many counters altogether?"
-    },
-    "answers": [
-      "11",
-      "13",
-      "12"
-    ],
-    "correct": 2,
-    "explanation": "3 + 3 + 3 + 3 = 12.\nHint: Start with the first amount and count on the second amount.",
-    "structuredExplanation": {
-      "summary": "3 + 3 + 3 + 3 = 12.",
-      "hint": "Start with the first amount and count on the second amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-004",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "match repeated addition",
-    "printable": true,
-    "type": "single",
-    "question": "Which repeated addition matches 5 groups of 2?",
-    "audioPrompt": "Which repeated addition matches 5 groups of 2?",
-    "visual": "Which repeated addition matches 5 groups of 2?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which repeated addition matches 5 groups of 2?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-004",
-      "alt_text": "Which repeated addition matches 5 groups of 2?"
-    },
-    "answers": [
-      "2 + 2 + 2 + 2 + 2",
-      "5 + 2",
-      "5 + 5"
-    ],
-    "correct": 0,
-    "explanation": "Five groups of two means add 2 five times.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Five groups of two means add 2 five times.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-005",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "share equally",
-    "printable": true,
-    "type": "single",
-    "question": "Twelve counters are shared equally among 3 children. How many does each child get?",
-    "audioPrompt": "Twelve counters are shared equally among 3 children. How many does each child get?",
-    "visual": "Twelve counters are shared equally among 3 children. How many does each child get?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Twelve counters are shared equally among 3 children. How many does each child get?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-005\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-005",
-      "alt_text": "Twelve counters are shared equally among 3 children. How many does each child get?"
-    },
-    "answers": [
-      "3",
-      "4",
-      "5"
-    ],
-    "correct": 1,
-    "explanation": "12 shared among 3 gives 4 each.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "12 shared among 3 gives 4 each.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-006",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "share equally",
-    "printable": true,
-    "type": "single",
-    "question": "Fifteen strawberries are shared equally among 5 plates. How many on each plate?",
-    "audioPrompt": "Fifteen strawberries are shared equally among 5 plates. How many on each plate?",
-    "visual": "Fifteen strawberries are shared equally among 5 plates. How many on each plate?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Fifteen strawberries are shared equally among 5 plates. How many on each plate?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-006\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-006",
-      "alt_text": "Fifteen strawberries are shared equally among 5 plates. How many on each plate?"
-    },
-    "answers": [
+      "6",
       "2",
-      "4",
       "3"
     ],
-    "correct": 2,
-    "explanation": "15 shared into 5 equal shares gives 3 on each.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "15 shared into 5 equal shares gives 3 on each.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1n06-p-007",
+    "id": "AC9M1N06-P02",
+    "questionId": "P02",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "make groups of given size",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Put 8 blocks into groups of 2. How many groups can you make?",
+    "explanation": "Make pairs until all eight blocks are used. There are four pairs.",
+    "skill": "Find the number of equal groups",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Sixteen counters are put into groups of 4. How many groups are made?",
-    "audioPrompt": "Sixteen counters are put into groups of 4. How many groups are made?",
-    "visual": "Sixteen counters are put into groups of 4. How many groups are made?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Sixteen counters are put into groups of 4. How many groups are made?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-007\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-007",
-      "alt_text": "Sixteen counters are put into groups of 4. How many groups are made?"
-    },
     "answers": [
       "4",
-      "0",
-      "8"
+      "2",
+      "6"
     ],
-    "correct": 0,
-    "explanation": "Count groups of 4: 4, 8, 12, 16, so there are 4 groups.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Count groups of 4: 4, 8, 12, 16, so there are 4 groups.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1n06-p-008",
+    "id": "AC9M1N06-P03",
+    "questionId": "P03",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "make groups of given size",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Six beads are shared among 3 children. Which list shows equal shares?",
+    "explanation": "Equal shares have the same number for every child. Three shares of two use all six beads.",
+    "skill": "Recognise equal shares",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Eighteen pencils are bundled in groups of 3. How many bundles?",
-    "audioPrompt": "Eighteen pencils are bundled in groups of 3. How many bundles?",
-    "visual": "Eighteen pencils are bundled in groups of 3. How many bundles?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Eighteen pencils are bundled in groups of 3. How many bundles?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-008\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-008",
-      "alt_text": "Eighteen pencils are bundled in groups of 3. How many bundles?"
-    },
     "answers": [
-      "3",
-      "6",
-      "9"
+      "3, 3, 0",
+      "1, 2, 3",
+      "2, 2, 2"
     ],
-    "correct": 1,
-    "explanation": "3 + 3 + 3 + 3 + 3 + 3 = 18, so 6 bundles.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "3 + 3 + 3 + 3 + 3 + 3 = 18, so 6 bundles.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1n06-p-009",
+    "id": "AC9M1N06-P04",
+    "questionId": "P04",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "distinguish sharing",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Draw 4 plates. Share 12 cherries equally onto them. Write how many cherries are on each plate.",
+    "explanation": "Give each plate one cherry at a time. Twelve cherries make four equal shares of three.",
+    "skill": "Draw an equal-sharing model",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept four groups of three with 3 identified as the number on each plate.",
     "printable": true,
-    "type": "single",
-    "question": "Which question is an equal-sharing problem?",
-    "audioPrompt": "Which question is an equal-sharing problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "12 cookies in groups of 3: how many groups?",
-      "12 cookies plus 4 more",
-      "12 cookies shared among 4 children: how many each?"
-    ],
-    "correct": 2,
-    "explanation": "Sharing gives a known number of recipients and asks how many each receives.\nHint: Count each amount carefully, then compare the two totals.",
-    "structuredExplanation": {
-      "summary": "Sharing gives a known number of recipients and asks how many each receives.",
-      "hint": "Count each amount carefully, then compare the two totals."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "3 cherries on each plate",
+    "modelAnswer": "3 cherries on each plate"
   },
   {
-    "id": "ac9m1n06-p-010",
+    "id": "AC9M1N06-P05",
+    "questionId": "P05",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "distinguish grouping",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "There are 12 counters. Put 3 counters in each group. Which model follows the rule and uses all the counters?",
+    "explanation": "The rule fixes three counters in every group. Four groups of three use all twelve counters.",
+    "skill": "Choose a model for a fixed group size",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which question is a grouping problem?",
-    "audioPrompt": "Which question is a grouping problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "15 blocks packed 5 per box: how many boxes?",
-      "15 blocks shared among 5 children: how many each?",
-      "15 blocks plus 5"
-    ],
-    "correct": 0,
-    "explanation": "Grouping gives the size of each group and asks how many groups.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Grouping gives the size of each group and asks how many groups.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-011",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "choose sharing diagram",
-    "printable": true,
-    "type": "single",
-    "question": "[Show the labelled shape or diagram described in the item.] Which diagram best shows 8 shared equally between 2 children?",
-    "audioPrompt": "[Show the labelled shape or diagram described in the item.] Which diagram best shows 8 shared equally between 2 children?",
-    "answers": [
-      "four children with 2 each",
-      "two children with 4 each",
-      "one child with 8"
-    ],
-    "correct": 1,
-    "explanation": "Two equal shares of 4 use all 8 objects.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Two equal shares of 4 use all 8 objects.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-012",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "choose grouping diagram",
-    "printable": true,
-    "type": "single",
-    "question": "[Show the labelled shape or diagram described in the item.] Which diagram shows 12 objects in groups of 3?",
-    "audioPrompt": "[Show the labelled shape or diagram described in the item.] Which diagram shows 12 objects in groups of 3?",
     "answers": [
       "3 groups of 4",
-      "2 groups of 3",
-      "4 groups of 3"
+      "4 groups of 3",
+      "2 groups of 6"
     ],
-    "correct": 2,
-    "explanation": "Four groups of three use all 12 objects.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Four groups of three use all 12 objects.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1n06-p-013",
+    "id": "AC9M1N06-P06",
+    "questionId": "P06",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "identify leftover",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Fifteen beads are shared equally among 3 children. Complete the table.\nChildren: 3\nBeads altogether: 15\nBeads for each child: ?",
+    "explanation": "Deal the beads equally to the three children. Each child gets five, using all fifteen.",
+    "skill": "Complete a sharing table",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "What is counted",
+        "Number"
+      ],
+      "rows": [
+        [
+          "Children",
+          "3"
+        ],
+        [
+          "Beads altogether",
+          "15"
+        ],
+        [
+          "Beads for each child",
+          "?"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Fourteen counters are placed in groups of 4. How many counters are left over?",
-    "audioPrompt": "Fourteen counters are placed in groups of 4. How many counters are left over?",
-    "visual": "Fourteen counters are placed in groups of 4. How many counters are left over?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Fourteen counters are placed in groups of 4. How many counters are left over?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-013\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-013",
-      "alt_text": "Fourteen counters are placed in groups of 4. How many counters are left over?"
-    },
     "answers": [
-      "2",
-      "6",
-      "1"
-    ],
-    "correct": 0,
-    "explanation": "Three full groups use 12 counters, leaving 2.\nHint: Show the starting amount, take away the given part, then count what remains.",
-    "structuredExplanation": {
-      "summary": "Three full groups use 12 counters, leaving 2.",
-      "hint": "Show the starting amount, take away the given part, then count what remains."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-014",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "count full groups",
-    "printable": true,
-    "type": "single",
-    "question": "Seventeen blocks are packed 5 per bag. How many full bags can be made?",
-    "audioPrompt": "Seventeen blocks are packed 5 per bag. How many full bags can be made?",
-    "visual": "Seventeen blocks are packed 5 per bag. How many full bags can be made?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Seventeen blocks are packed 5 per bag. How many full bags can be made?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-014\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-014",
-      "alt_text": "Seventeen blocks are packed 5 per bag. How many full bags can be made?"
-    },
-    "answers": [
-      "2",
-      "3",
-      "4"
-    ],
-    "correct": 1,
-    "explanation": "Three full bags use 15 blocks; 2 are left over.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Three full bags use 15 blocks; 2 are left over.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-015",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "make equal groups",
-    "printable": true,
-    "type": "single",
-    "question": "Three plates have 4, 4 and 3 crackers. How many more crackers are needed to make every plate have 4?",
-    "audioPrompt": "Three plates have 4, 4 and 3 crackers. How many more crackers are needed to make every plate have 4?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "0",
-      "2",
-      "1"
-    ],
-    "correct": 2,
-    "explanation": "One more cracker makes the last group 4, so all three groups are equal.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "One more cracker makes the last group 4, so all three groups are equal.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-016",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing story",
-    "printable": true,
-    "type": "single",
-    "question": "Twelve pencils are shared equally among 4 students. How many pencils does each student receive?",
-    "audioPrompt": "Twelve pencils are shared equally among 4 students. How many pencils does each student receive?",
-    "visual": "Twelve pencils are shared equally among 4 students. How many pencils does each student receive?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Twelve pencils are shared equally among 4 students. How many pencils does each student receive?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-016\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-016",
-      "alt_text": "Twelve pencils are shared equally among 4 students. How many pencils does each student receive?"
-    },
-    "answers": [
-      "3",
-      "2",
-      "4"
-    ],
-    "correct": 0,
-    "explanation": "12 shared into 4 equal shares gives 3 each.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "12 shared into 4 equal shares gives 3 each.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-017",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "grouping story",
-    "printable": true,
-    "type": "single",
-    "question": "A teacher puts 20 counters into cups, 5 counters in each cup. How many cups are needed?",
-    "audioPrompt": "A teacher puts 20 counters into cups, 5 counters in each cup. How many cups are needed?",
-    "visual": "A teacher puts 20 counters into cups, 5 counters in each cup. How many cups are needed?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A teacher puts 20 counters into cups, 5 counters in each cup. How many cups are needed?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-017\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-017",
-      "alt_text": "A teacher puts 20 counters into cups, 5 counters in each cup. How many cups are needed?"
-    },
-    "answers": [
-      "3",
-      "4",
-      "5"
-    ],
-    "correct": 1,
-    "explanation": "Count groups of 5: 5, 10, 15, 20. Four cups are needed.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Count groups of 5: 5, 10, 15, 20. Four cups are needed.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-018",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "practical grouping",
-    "printable": true,
-    "type": "single",
-    "question": "There are 18 socks. They are made into pairs. How many pairs?",
-    "audioPrompt": "There are 18 socks. They are made into pairs. How many pairs?",
-    "visual": "There are 18 socks. They are made into pairs. How many pairs?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 18 socks. They are made into pairs. How many pairs?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-018\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-018",
-      "alt_text": "There are 18 socks. They are made into pairs. How many pairs?"
-    },
-    "answers": [
-      "8",
-      "10",
-      "9"
-    ],
-    "correct": 2,
-    "explanation": "A pair has 2 socks. Nine pairs use 18 socks.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "A pair has 2 socks. Nine pairs use 18 socks.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-019",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "check with repeated addition",
-    "printable": true,
-    "type": "single",
-    "question": "Which addition checks that 4 groups of 3 make 12?",
-    "audioPrompt": "Which addition checks that 4 groups of 3 make 12?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "3 + 3 + 3 + 3 = 12",
-      "4 + 3 = 7",
-      "12 + 3 = 15"
-    ],
-    "correct": 0,
-    "explanation": "Add the size of each group once for every group.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Add the size of each group once for every group.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-020",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "objects versus groups",
-    "printable": true,
-    "type": "single",
-    "question": "A child sees 5 groups of 2 and says the total is 5. What was counted?",
-    "audioPrompt": "A child sees 5 groups of 2 and says the total is 5. What was counted?",
-    "visual": "A child sees 5 groups of 2 and says the total is 5. What was counted?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child sees 5 groups of 2 and says the total is 5. What was counted?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-020\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-020",
-      "alt_text": "A child sees 5 groups of 2 and says the total is 5. What was counted?"
-    },
-    "answers": [
-      "the objects correctly",
-      "the number of groups, not the objects",
-      "the leftovers"
-    ],
-    "correct": 1,
-    "explanation": "Five is the number of groups. The total number of objects is 10.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Five is the number of groups. The total number of objects is 10.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-021",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "diagnose unequal share",
-    "printable": true,
-    "type": "single",
-    "question": "Four children receive 3, 3, 3 and 2 counters. What is wrong?",
-    "audioPrompt": "Four children receive 3, 3, 3 and 2 counters. What is wrong?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "There are too many counters",
-      "Every child has 3",
-      "The shares are not equal"
-    ],
-    "correct": 2,
-    "explanation": "One child has fewer, so the sharing is not equal.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "One child has fewer, so the sharing is not equal.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-022",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "compare models",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement is correct about 12 shared among 3 and 12 grouped in 3s?",
-    "audioPrompt": "Which statement is correct about 12 shared among 3 and 12 grouped in 3s?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "The first gives 4 each; the second makes 4 groups",
-      "Both give 3 groups only",
-      "Both give 4 each only"
-    ],
-    "correct": 0,
-    "explanation": "Sharing among 3 asks the size of each share (4). Grouping in 3s asks the number of groups (4).\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Sharing among 3 asks the size of each share (4). Grouping in 3s asks the number of groups (4).",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-023",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "sequence sharing method",
-    "printable": true,
-    "type": "single",
-    "question": "Order the steps for sharing 12 counters among 3 children. Which order is correct?",
-    "audioPrompt": "Order the steps for sharing 12 counters among 3 children. Which order is correct?",
-    "visual": "Order the steps for sharing 12 counters among 3 children.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order the steps for sharing 12 counters among 3 children. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-023\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-023",
-      "alt_text": "Order the steps for sharing 12 counters among 3 children. Which order is correct?"
-    },
-    "answers": [
-      "Check each child has the same number → Give one counter to each child in turn → Count how many each child has → Start with all 12 counters",
-      "Start with all 12 counters → Give one counter to each child in turn → Check each child has the same number → Count how many each child has",
-      "Count how many each child has → Check each child has the same number → Give one counter to each child in turn → Start with all 12 counters"
-    ],
-    "correct": 1,
-    "explanation": "One-at-a-time dealing keeps the shares equal.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "One-at-a-time dealing keeps the shares equal.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-024",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "sequence grouping method",
-    "printable": true,
-    "type": "single",
-    "question": "Order the steps for putting 16 counters into groups of 4. Which order is correct?",
-    "audioPrompt": "Order the steps for putting 16 counters into groups of 4. Which order is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "Count the groups → Make a group of 4 → Repeat until fewer than 4 remain → Start with 16 counters",
-      "Count the groups → Repeat until fewer than 4 remain → Make a group of 4 → Start with 16 counters",
-      "Start with 16 counters → Make a group of 4 → Repeat until fewer than 4 remain → Count the groups"
-    ],
-    "correct": 2,
-    "explanation": "Grouping repeatedly removes the stated group size.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Grouping repeatedly removes the stated group size.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-025",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "choose efficient strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which is a quick way to count 8 groups of 2?",
-    "audioPrompt": "Which is a quick way to count 8 groups of 2?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "Skip count by 2s to 16",
-      "Count the group labels only",
-      "Add 8 and 2 once"
-    ],
-    "correct": 0,
-    "explanation": "Skip counting by the group size counts all objects: 2, 4, 6, …, 16.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Skip counting by the group size counts all objects: 2, 4, 6, …, 16.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-026",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equivalent representations",
-    "printable": true,
-    "type": "single",
-    "question": "Select two ways to show 3 groups of 4. Choose the group with all the correct answers.",
-    "audioPrompt": "Select two ways to show 3 groups of 4. Choose the group with all the correct answers.",
-    "visual": "Select two ways to show 3 groups of 4.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select two ways to show 3 groups of 4. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-026\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-026",
-      "alt_text": "Select two ways to show 3 groups of 4. Choose the group with all the correct answers."
-    },
-    "answers": [
-      "4 + 4 + 4",
-      "4 + 4 + 4, three hoops with 4 counters each",
-      "4 + 4 + 4, 3 + 4 only"
-    ],
-    "correct": 1,
-    "explanation": "Repeated addition and an equal-groups diagram both represent 3 groups of 4.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Repeated addition and an equal-groups diagram both represent 3 groups of 4.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-027",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "find total from fair shares",
-    "printable": true,
-    "type": "single",
-    "question": "Four children receive 3 counters each. How many counters were shared?",
-    "audioPrompt": "Four children receive 3 counters each. How many counters were shared?",
-    "visual": "Four children receive 3 counters each. How many counters were shared?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four children receive 3 counters each. How many counters were shared?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-027\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-027",
-      "alt_text": "Four children receive 3 counters each. How many counters were shared?"
-    },
-    "answers": [
-      "11",
-      "13",
-      "12"
-    ],
-    "correct": 2,
-    "explanation": "Four equal shares of 3 make 3 + 3 + 3 + 3 = 12.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Four equal shares of 3 make 3 + 3 + 3 + 3 = 12.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-028",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "mixed grouping challenge",
-    "printable": true,
-    "type": "single",
-    "question": "Nineteen counters are packed 6 per box. Which result is correct?",
-    "audioPrompt": "Nineteen counters are packed 6 per box. Which result is correct?",
-    "visual": "Nineteen counters are packed 6 per box. Which result is correct?",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Nineteen counters are packed 6 per box. Which result is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-028\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-028",
-      "alt_text": "Nineteen counters are packed 6 per box. Which result is correct?"
-    },
-    "answers": [
-      "3 full boxes and 1 counter left",
-      "4 full boxes exactly",
-      "6 full boxes and 1 left"
-    ],
-    "correct": 0,
-    "explanation": "Three groups of 6 use 18 counters, leaving 1.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Three groups of 6 use 18 counters, leaving 1.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1n06-p-029",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Sam shares blocks. Share 4 counters equally between 2 children. How many counters does each child get?",
-    "audioPrompt": "Sam shares blocks. Share 4 counters equally between 2 children. How many counters does each child get?",
-    "answers": [
-      "2",
-      "4",
-      "1",
+      "15",
+      "5",
       "3"
     ],
-    "correct": 0,
-    "explanation": "2 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1n06-p-030",
+    "id": "AC9M1N06-P07",
+    "questionId": "P07",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "equal sharing and grouping",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two plates have 7 and 3 grapes. Move grapes from the first plate to make the shares equal. How many grapes should you move?",
+    "explanation": "Move two grapes from the plate with seven to the plate with three. Both plates will then have five.",
+    "skill": "Repair unequal shares by moving objects",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "groups",
+      "groups": [
+        7,
+        3
+      ],
+      "label": "Grapes on the two plates"
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Mia shares blocks. Put 6 blocks into groups of 2. How many equal groups can you make?",
-    "audioPrompt": "Mia shares blocks. Put 6 blocks into groups of 2. How many equal groups can you make?",
     "answers": [
       "2",
-      "3",
-      "5",
-      "4"
-    ],
-    "correct": 1,
-    "explanation": "3 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1n06-p-031",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Ben shares blocks. Share 8 counters equally between 4 children. How many counters does each child get?",
-    "audioPrompt": "Ben shares blocks. Share 8 counters equally between 4 children. How many counters does each child get?",
-    "answers": [
-      "2",
-      "3",
       "1",
       "4"
     ],
-    "correct": 0,
-    "explanation": "2 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1n06-p-032",
+    "id": "AC9M1N06-P08",
+    "questionId": "P08",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "equal sharing and grouping",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Draw 14 counters. Ring every pair. How many pairs will there be?",
+    "explanation": "Count the counters in twos: 2, 4, 6, 8, 10, 12, 14. There are seven pairs.",
+    "skill": "Make a grouping model",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept a drawing of seven pairs with two counters in each, and a pair count of 7.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "7 pairs",
+    "modelAnswer": "7 pairs"
+  },
+  {
+    "id": "AC9M1N06-P09",
+    "questionId": "P09",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Three bowls each hold 4 berries. The groups are [4], [4], [4]. How many berries are there altogether?",
+    "explanation": "Count the equal groups: four, eight, twelve. There are twelve berries altogether.",
+    "skill": "Find a total from equal groups",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "groups",
+      "groups": [
+        4,
+        4,
+        4
+      ],
+      "label": "Berries in each bowl"
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Ava shares blocks. Put 10 blocks into groups of 2. How many equal groups can you make?",
-    "audioPrompt": "Ava shares blocks. Put 10 blocks into groups of 2. How many equal groups can you make?",
     "answers": [
-      "4",
-      "6",
-      "5",
+      "16",
+      "12",
       "7"
     ],
-    "correct": 2,
-    "explanation": "5 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1n06-p-033",
+    "id": "AC9M1N06-P10",
+    "questionId": "P10",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "equal sharing and grouping",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Three children each have 2 counters. There are 3 counters still to share. Give one more to each child. How many counters does each child have now?",
+    "explanation": "Each child starts with two and receives one more. The equal shares become three each.",
+    "skill": "Continue equal distribution",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Max shares blocks. Share 6 counters equally between 2 children. How many counters does each child get?",
-    "audioPrompt": "Max shares blocks. Share 6 counters equally between 2 children. How many counters does each child get?",
     "answers": [
-      "2",
-      "4",
       "3",
+      "2",
       "5"
     ],
-    "correct": 2,
-    "explanation": "3 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1n06-p-034",
+    "id": "AC9M1N06-P11",
+    "questionId": "P11",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "equal sharing and grouping",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Ten crackers must be shared equally between 2 plates. Which plan is correct?",
+    "explanation": "The number of plates is fixed at two. Five crackers on each uses all ten equally.",
+    "skill": "Distinguish shares from number of groups",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Leo shares blocks. Put 9 blocks into groups of 3. How many equal groups can you make?",
-    "audioPrompt": "Leo shares blocks. Put 9 blocks into groups of 3. How many equal groups can you make?",
     "answers": [
-      "2",
-      "5",
+      "Put 2 crackers on each of 5 plates.",
+      "Put 10 crackers on each plate.",
+      "Put 5 crackers on each plate."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1N06-P12",
+    "questionId": "P12",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Make equal groups with 8 counters. Use more than one group and more than one counter in every group. Draw one way.",
+    "explanation": "Two groups of four use all eight equally. Four groups of two also work.",
+    "skill": "Create a constrained equal-group model",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept exactly two groups of four or four groups of two; all eight counters must be used.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Two groups of four counters.",
+    "modelAnswer": "Two groups of four counters."
+  },
+  {
+    "id": "AC9M1N06-P13",
+    "questionId": "P13",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The beads are grouped like this: [3], [3], [3], [3]. How many groups are there?",
+    "explanation": "Count the groups, not the beads inside each group. There are four groups.",
+    "skill": "Distinguish the group count from the total",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": {
+      "type": "groups",
+      "groups": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "label": "Bead groups"
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
       "3",
+      "12",
       "4"
     ],
-    "correct": 2,
-    "explanation": "3 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1n06-p-035",
+    "id": "AC9M1N06-P14",
+    "questionId": "P14",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "equal sharing and grouping",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "One child has 4 counters in a row. Another has 4 counters arranged in two pairs. Are the shares equal?",
+    "explanation": "The arrangement does not change the number. Two pairs contain four counters, just like the row.",
+    "skill": "Check equal shares in different arrangements",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Kim shares blocks. Share 12 counters equally between 4 children. How many counters does each child get?",
-    "audioPrompt": "Kim shares blocks. Share 12 counters equally between 4 children. How many counters does each child get?",
     "answers": [
+      "Yes, both children have 4.",
+      "No, two pairs is only 2 counters.",
+      "No, the row has more."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1N06-P15",
+    "questionId": "P15",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Put 15 pencils into packs of 5. How many full packs can you make?",
+    "explanation": "Use five pencils in the first pack, five in the second and five in the third. All fifteen are packed.",
+    "skill": "Group by fives",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "10",
       "5",
-      "4",
+      "3"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1N06-P16",
+    "questionId": "P16",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Twenty cards go into packs of 5. Draw or describe the packs. How many packs are there?",
+    "explanation": "Five, ten, fifteen, twenty counts four equal packs.",
+    "skill": "Represent grouping in a packing task",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept four groups of five, a labelled drawing, or a description stating 4 packs with 5 cards each.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "4 packs, with 5 cards in each",
+    "modelAnswer": "4 packs, with 5 cards in each"
+  },
+  {
+    "id": "AC9M1N06-P17",
+    "questionId": "P17",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Share all 16 counters equally between 2 children. Which result is correct?",
+    "explanation": "Eight counters for each child uses sixteen altogether. Both children have the same amount and all counters are used.",
+    "skill": "Check that an equal share uses the whole",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "8 each, with none left over.",
+      "10 each, with none left over.",
+      "6 each, with 4 left over."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1N06-P18",
+    "questionId": "P18",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Three bags hold 3, 3 and 2 marbles. You may add marbles to the last bag. How many should you add to make all the bags equal?",
+    "explanation": "The first two bags each have three. Add one to the bag with two so it also has three.",
+    "skill": "Complete an unequal group",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "groups",
+      "groups": [
+        3,
+        3,
+        2
+      ],
+      "label": "Marbles in each bag"
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "1",
       "3",
       "2"
     ],
-    "correct": 2,
-    "explanation": "3 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1n06-p-036",
+    "id": "AC9M1N06-P19",
+    "questionId": "P19",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "equal sharing and grouping",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You have 12 counters. Which sharing plan gives each child more counters?",
+    "explanation": "Two children get six each. Three children get four each, so sharing between two gives the larger share.",
+    "skill": "Compare shares for a fixed total",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Tom shares blocks. Put 15 blocks into groups of 3. How many equal groups can you make?",
-    "audioPrompt": "Tom shares blocks. Put 15 blocks into groups of 3. How many equal groups can you make?",
     "answers": [
-      "7",
-      "6",
+      "Both plans give the same share.",
+      "Share equally among 3 children.",
+      "Share equally between 2 children."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1N06-P20",
+    "questionId": "P20",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Four hoops each hold 3 beanbags. Write the number of groups and the number in each group.",
+    "explanation": "Each hoop is one group. There are four hoops, and each contains three beanbags.",
+    "skill": "Label the parts of an equal-group model",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "groups",
+      "groups": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "label": "Beanbags in each hoop"
+    },
+    "acceptanceNote": "Accept 4 groups and 3 in each, with the roles correctly identified.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "4 groups; 3 beanbags in each group",
+    "modelAnswer": "4 groups; 3 beanbags in each group"
+  },
+  {
+    "id": "AC9M1N06-P21",
+    "questionId": "P21",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Twelve flowers are shared equally among 3 vases. Two vases each show 4 flowers. How many are in the covered vase?",
+    "explanation": "Equal shares mean the covered vase has the same as each other vase. Four flowers in each vase uses twelve.",
+    "skill": "Infer a hidden equal share",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Vase",
+        "Flowers"
+      ],
+      "rows": [
+        [
+          "First",
+          "4"
+        ],
+        [
+          "Second",
+          "4"
+        ],
+        [
+          "Covered",
+          "?"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "3",
       "4",
-      "5"
+      "8"
     ],
-    "correct": 3,
-    "explanation": "5 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1n06-p-037",
+    "id": "AC9M1N06-P22",
+    "questionId": "P22",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "equal sharing and grouping",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A pair of mittens has 2 mittens. How many pairs can you make from 6 mittens?",
+    "explanation": "Match the six mittens into groups of two. There are three pairs.",
+    "skill": "Interpret a pair as a group",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Ann shares blocks. Share 8 counters equally between 2 children. How many counters does each child get?",
-    "audioPrompt": "Ann shares blocks. Share 8 counters equally between 2 children. How many counters does each child get?",
     "answers": [
-      "3",
-      "6",
-      "5",
-      "4"
-    ],
-    "correct": 3,
-    "explanation": "4 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1n06-p-038",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Tim shares blocks. Put 12 blocks into groups of 4. How many equal groups can you make?",
-    "audioPrompt": "Tim shares blocks. Put 12 blocks into groups of 4. How many equal groups can you make?",
-    "answers": [
-      "3",
-      "5",
       "2",
-      "4"
-    ],
-    "correct": 0,
-    "explanation": "3 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1n06-p-039",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Pip shares blocks. Share 16 counters equally between 4 children. How many counters does each child get?",
-    "audioPrompt": "Pip shares blocks. Share 16 counters equally between 4 children. How many counters does each child get?",
-    "answers": [
-      "5",
       "6",
-      "4",
       "3"
     ],
-    "correct": 2,
-    "explanation": "4 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1n06-p-040",
+    "id": "AC9M1N06-P23",
+    "questionId": "P23",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "equal sharing and grouping",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You have 18 blocks and want 3 equal groups. How many blocks should go in each group?",
+    "explanation": "Deal all eighteen blocks into three groups. Each group has six.",
+    "skill": "Choose a group size for a fixed group count",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Zac shares blocks. Put 20 blocks into groups of 4. How many equal groups can you make?",
-    "audioPrompt": "Zac shares blocks. Put 20 blocks into groups of 4. How many equal groups can you make?",
-    "answers": [
-      "5",
-      "7",
-      "6",
-      "4"
-    ],
-    "correct": 0,
-    "explanation": "5 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1n06-p-041",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Amy shares blocks. Share 10 counters equally between 2 children. How many counters does each child get?",
-    "audioPrompt": "Amy shares blocks. Share 10 counters equally between 2 children. How many counters does each child get?",
-    "answers": [
-      "6",
-      "5",
-      "4",
-      "7"
-    ],
-    "correct": 1,
-    "explanation": "5 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1n06-p-042",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Ali shares blocks. Put 15 blocks into groups of 5. How many equal groups can you make?",
-    "audioPrompt": "Ali shares blocks. Put 15 blocks into groups of 5. How many equal groups can you make?",
-    "answers": [
-      "4",
-      "5",
-      "2",
-      "3"
-    ],
-    "correct": 3,
-    "explanation": "3 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1n06-p-043",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Eva shares blocks. Share 20 counters equally between 4 children. How many counters does each child get?",
-    "audioPrompt": "Eva shares blocks. Share 20 counters equally between 4 children. How many counters does each child get?",
-    "answers": [
-      "7",
-      "5",
-      "4",
-      "6"
-    ],
-    "correct": 1,
-    "explanation": "5 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1n06-p-044",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Jay shares blocks. Put 25 blocks into groups of 5. How many equal groups can you make?",
-    "audioPrompt": "Jay shares blocks. Put 25 blocks into groups of 5. How many equal groups can you make?",
-    "answers": [
-      "5",
-      "4",
-      "6",
-      "7"
-    ],
-    "correct": 0,
-    "explanation": "5 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1n06-p-045",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe shares blocks. Share 4 counters equally between 2 children. How many counters does each child get?",
-    "audioPrompt": "Zoe shares blocks. Share 4 counters equally between 2 children. How many counters does each child get?",
-    "answers": [
-      "2",
-      "4",
-      "1",
-      "3"
-    ],
-    "correct": 0,
-    "explanation": "2 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1n06-p-046",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Roy shares blocks. Put 6 blocks into groups of 2. How many equal groups can you make?",
-    "audioPrompt": "Roy shares blocks. Put 6 blocks into groups of 2. How many equal groups can you make?",
-    "answers": [
-      "2",
-      "4",
-      "3",
-      "5"
-    ],
-    "correct": 2,
-    "explanation": "3 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1n06-p-047",
-    "curriculumCode": "AC9M1N06",
-    "bank": "practice",
-    "skill": "equal sharing and grouping",
-    "printable": true,
-    "type": "single",
-    "question": "Liv shares blocks. Share 8 counters equally between 4 children. How many counters does each child get?",
-    "audioPrompt": "Liv shares blocks. Share 8 counters equally between 4 children. How many counters does each child get?",
     "answers": [
       "3",
-      "4",
-      "2",
-      "1"
+      "6",
+      "9"
     ],
-    "correct": 2,
-    "explanation": "2 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1n06-p-048",
+    "id": "AC9M1N06-P24",
+    "questionId": "P24",
     "curriculumCode": "AC9M1N06",
     "bank": "practice",
-    "skill": "equal sharing and grouping",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "There are 12 counters. Draw two different ways to put them into equal groups. Use at least 2 groups in each way.",
+    "explanation": "The number of counters stays twelve, but the group sizes can change. Every group in one drawing must be equal.",
+    "skill": "Create two equal-group arrangements",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept any two distinct arrangements using all 12: 2 groups of 6, 3 of 4, 4 of 3, 6 of 2, or 12 of 1. Swapping group positions is not a different arrangement.",
     "printable": true,
-    "type": "single",
-    "question": "Gus shares blocks. Put 10 blocks into groups of 2. How many equal groups can you make?",
-    "audioPrompt": "Gus shares blocks. Put 10 blocks into groups of 2. How many equal groups can you make?",
-    "answers": [
-      "5",
-      "4",
-      "6",
-      "7"
-    ],
-    "correct": 0,
-    "explanation": "5 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Two groups of six; three groups of four.",
+    "modelAnswer": "Two groups of six; three groups of four."
   }
 ];
