@@ -5,36 +5,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise_one_half",
+    "skill": "equal_parts",
+    "question": "Which description shows a whole divided into equal parts?",
+    "audio_prompt": "Which description shows a whole divided into equal parts?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-001",
-      "alt_text": "With a pizza: One pizza divided into 2 equal parts with one part shaded."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pizza, which picture shows one half of the pizza?",
-    "audio_prompt": "With a pizza, which picture shows one half of the pizza?",
     "answers": [
       {
-        "text": "1 of 2 unequal parts shaded",
-        "is_correct": false
-      },
-      {
-        "text": "1 of 2 equal parts shaded",
+        "text": "Four pieces that are all the same size",
         "is_correct": true
       },
       {
-        "text": "1 of 4 equal parts shaded",
+        "text": "Four pieces with two large and two small",
+        "is_correct": false
+      },
+      {
+        "text": "Three pieces labelled ‘quarters’",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "One half is one of 2 equal parts of the whole pizza.",
-      "hint": "Check that there are exactly 2 equal parts."
+      "summary": "Fraction parts must be equal in size.",
+      "hint": "Count alone is not enough; compare sizes."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-002",
@@ -42,36 +47,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise_one_quarter",
+    "skill": "identify_half",
+    "question": "One of two equal parts of a whole is called:",
+    "audio_prompt": "One of two equal parts of a whole is called:",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-002",
-      "alt_text": "With a pizza: One pizza divided into 4 equal parts."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-001",
+      "alt_text": "One of two equal parts of a whole is called:"
     },
-    "question": "With a pizza, a whole pizza is split into 4 equal parts. What is each part?",
-    "audio_prompt": "With a pizza, a whole pizza is split into 4 equal parts. What is each part?",
     "answers": [
       {
-        "text": "One half",
+        "text": "one-quarter",
         "is_correct": false
       },
       {
-        "text": "One eighth",
-        "is_correct": false
-      },
-      {
-        "text": "One quarter",
+        "text": "one-half",
         "is_correct": true
+      },
+      {
+        "text": "one-eighth",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "One of 4 equal parts is called one quarter.",
-      "hint": "Use the number of equal parts to name the fraction."
+      "summary": "A half is one of 2 equal parts.",
+      "hint": "The denominator tells how many equal parts."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-003",
@@ -79,36 +90,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect_halves_and_quarters",
+    "skill": "make_halves",
+    "question": "A rectangular card must be cut into halves. Which cut works?",
+    "audio_prompt": "A rectangular card must be cut into halves. Which cut works?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-003",
-      "alt_text": "With a pizza: One pizza first halved, then each half split again to make quarters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pizza, how can you make quarters from halves of the pizza?",
-    "audio_prompt": "With a pizza, how can you make quarters from halves of the pizza?",
     "answers": [
       {
-        "text": "Halve each half again",
+        "text": "One cut close to an edge",
+        "is_correct": false
+      },
+      {
+        "text": "Two cuts making three strips",
+        "is_correct": false
+      },
+      {
+        "text": "One straight cut through its centre",
         "is_correct": true
-      },
-      {
-        "text": "Join the two halves",
-        "is_correct": false
-      },
-      {
-        "text": "Make the halves different sizes",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Halving each half makes 4 equal quarters.",
-      "hint": "Start with 2 parts, then split both parts equally."
+      "summary": "A centre cut can make 2 equal parts.",
+      "hint": "Halves require exactly two equal pieces."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-004",
@@ -116,36 +132,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect_quarters_and_eighths",
+    "skill": "identify_quarter",
+    "question": "A sandwich is shared into 4 equal pieces. What is each piece?",
+    "audio_prompt": "A sandwich is shared into 4 equal pieces. What is each piece?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-004",
-      "alt_text": "With a pizza: One pizza divided into 8 equal pieces after every quarter is halved."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-002",
+      "alt_text": "A sandwich is shared into 4 equal pieces. What is each piece?"
     },
-    "question": "With a pizza, how can you make eighths from quarters of the pizza?",
-    "audio_prompt": "With a pizza, how can you make eighths from quarters of the pizza?",
     "answers": [
       {
-        "text": "Join two quarters",
-        "is_correct": false
-      },
-      {
-        "text": "Halve each quarter",
+        "text": "one-quarter",
         "is_correct": true
       },
       {
-        "text": "Remove one quarter",
+        "text": "one-half",
+        "is_correct": false
+      },
+      {
+        "text": "one-eighth",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
-      "hint": "Doubling the number of equal parts makes smaller pieces."
+      "summary": "One of 4 equal parts is one-quarter.",
+      "hint": "Use the number of equal parts."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-005",
@@ -153,36 +175,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "compare_half_and_eighth",
+    "skill": "make_quarters",
+    "question": "Which instruction makes quarters from a rectangular strip?",
+    "audio_prompt": "Which instruction makes quarters from a rectangular strip?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-005",
-      "alt_text": "With a pizza: Same-size wholes divided into halves and eighths."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pizza, which piece is larger when the whole pizza is the same size?",
-    "audio_prompt": "With a pizza, which piece is larger when the whole pizza is the same size?",
     "answers": [
       {
-        "text": "One eighth",
+        "text": "Divide it into 4 pieces of any size",
         "is_correct": false
       },
       {
-        "text": "They are the same size",
-        "is_correct": false
-      },
-      {
-        "text": "One half",
+        "text": "Divide it into 4 equal lengths",
         "is_correct": true
+      },
+      {
+        "text": "Divide it into 2 equal lengths",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
-      "hint": "Fewer equal parts means each part is larger."
+      "summary": "Quarters are 4 equal parts.",
+      "hint": "Both the number and equality matter."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-006",
@@ -190,36 +217,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "identify_unequal_fraction_parts",
+    "skill": "identify_eighth",
+    "question": "A ribbon is marked into 8 equal sections. One section is:",
+    "audio_prompt": "A ribbon is marked into 8 equal sections. One section is:",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-006",
-      "alt_text": "With a pizza: One pizza divided into four visibly unequal pieces."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pizza, four pieces of the pizza are different sizes. Can they be called quarters?",
-    "audio_prompt": "With a pizza, four pieces of the pizza are different sizes. Can they be called quarters?",
     "answers": [
       {
-        "text": "No, quarters must be equal",
+        "text": "one-quarter",
+        "is_correct": false
+      },
+      {
+        "text": "one-half",
+        "is_correct": false
+      },
+      {
+        "text": "one-eighth",
         "is_correct": true
-      },
-      {
-        "text": "Yes, because there are 4 pieces",
-        "is_correct": false
-      },
-      {
-        "text": "Yes, if one piece is very large",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Four pieces are quarters only when all 4 parts are equal.",
-      "hint": "Counting pieces is not enough; compare their sizes."
+      "summary": "One of 8 equal parts is one-eighth.",
+      "hint": "Eight equal parts name eighths."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-007",
@@ -227,36 +259,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate_half_and_two_quarters",
+    "skill": "make_eighths",
+    "question": "How can you turn 4 equal quarters into 8 equal parts?",
+    "audio_prompt": "How can you turn 4 equal quarters into 8 equal parts?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-007",
-      "alt_text": "With a pizza: A whole divided into 4 equal parts with 2 shaded, showing one half."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pizza, how many quarters have the same amount as one half?",
-    "audio_prompt": "With a pizza, how many quarters have the same amount as one half?",
     "answers": [
       {
-        "text": "1 quarter",
-        "is_correct": false
-      },
-      {
-        "text": "2 quarters",
+        "text": "Halve every quarter",
         "is_correct": true
       },
       {
-        "text": "4 quarters",
+        "text": "Halve only one quarter",
+        "is_correct": false
+      },
+      {
+        "text": "Join two quarters",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Two quarters join to make one half of the same whole.",
-      "hint": "Look at 4 equal parts and shade 2 of them."
+      "summary": "Halving each of 4 quarters produces 8 equal eighths.",
+      "hint": "Each quarter must be split in two."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-008",
@@ -264,36 +301,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate_quarter_and_two_eighths",
+    "skill": "recognise_unequal_parts",
+    "question": "A circle has 2 pieces, but one is much larger. Does either piece show one-half?",
+    "audio_prompt": "A circle has 2 pieces, but one is much larger. Does either piece show one-half?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-008",
-      "alt_text": "With a pizza: A whole divided into 8 equal parts with 2 shaded, showing one quarter."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-006",
+      "alt_text": "A circle has 2 pieces, but one is much larger. Does either piece show one-half?"
     },
-    "question": "With a pizza, how many eighths have the same amount as one quarter?",
-    "audio_prompt": "With a pizza, how many eighths have the same amount as one quarter?",
     "answers": [
       {
-        "text": "1 eighth",
+        "text": "Yes, because there are 2 pieces",
         "is_correct": false
       },
       {
-        "text": "4 eighths",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
+        "text": "No, because the pieces are not equal",
         "is_correct": true
+      },
+      {
+        "text": "Yes, but only the larger piece",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Two eighths join to make one quarter of the same whole.",
-      "hint": "Each quarter is split into 2 eighths."
+      "summary": "Two pieces are halves only when they are equal.",
+      "hint": "Check equal size before naming the fraction."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-009",
@@ -301,35 +344,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise_one_half",
+    "skill": "repeated_halving",
+    "question": "Start with one whole. Halve it, then halve each new part. How many equal parts are there?",
+    "audio_prompt": "Start with one whole. Halve it, then halve each new part. How many equal parts are there?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-009",
-      "alt_text": "With a wrap: One wrap divided into 2 equal parts with one part shaded."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a wrap, which picture shows one half of the wrap?",
-    "audio_prompt": "With a wrap, which picture shows one half of the wrap?",
     "answers": [
       {
-        "text": "1 of 2 equal parts shaded",
+        "text": "3 thirds",
+        "is_correct": false
+      },
+      {
+        "text": "8 eighths",
+        "is_correct": false
+      },
+      {
+        "text": "4 quarters",
         "is_correct": true
-      },
-      {
-        "text": "1 of 2 unequal parts shaded",
-        "is_correct": false
-      },
-      {
-        "text": "1 of 4 equal parts shaded",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "One half is one of 2 equal parts of the whole wrap.",
-      "hint": "Check that there are exactly 2 equal parts."
+      "summary": "One halving gives 2 halves; halving both halves gives 4 quarters.",
+      "hint": "Track every part after each halving."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-010",
@@ -337,35 +386,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise_one_quarter",
+    "skill": "repeated_halving_twice",
+    "question": "Start with 4 quarters and halve each quarter. What are the new parts called?",
+    "audio_prompt": "Start with 4 quarters and halve each quarter. What are the new parts called?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-010",
-      "alt_text": "With a wrap: One wrap divided into 4 equal parts."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a wrap, a whole wrap is split into 4 equal parts. What is each part?",
-    "audio_prompt": "With a wrap, a whole wrap is split into 4 equal parts. What is each part?",
     "answers": [
       {
-        "text": "One half",
-        "is_correct": false
-      },
-      {
-        "text": "One quarter",
+        "text": "8 eighths",
         "is_correct": true
       },
       {
-        "text": "One eighth",
+        "text": "4 halves",
+        "is_correct": false
+      },
+      {
+        "text": "6 sixths",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "One of 4 equal parts is called one quarter.",
-      "hint": "Use the number of equal parts to name the fraction."
+      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
+      "hint": "Each old part creates two new parts."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-011",
@@ -373,35 +428,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect_halves_and_quarters",
+    "skill": "connect_half_quarters",
+    "question": "How many quarters have the same area as one-half of the same whole?",
+    "audio_prompt": "How many quarters have the same area as one-half of the same whole?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-011",
-      "alt_text": "With a wrap: One wrap first halved, then each half split again to make quarters."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-007",
+      "alt_text": "How many quarters have the same area as one-half of the same whole?"
     },
-    "question": "With a wrap, how can you make quarters from halves of the wrap?",
-    "audio_prompt": "With a wrap, how can you make quarters from halves of the wrap?",
     "answers": [
       {
-        "text": "Join the two halves",
+        "text": "1 quarter",
         "is_correct": false
       },
       {
-        "text": "Make the halves different sizes",
-        "is_correct": false
-      },
-      {
-        "text": "Halve each half again",
+        "text": "2 quarters",
         "is_correct": true
+      },
+      {
+        "text": "4 quarters",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Halving each half makes 4 equal quarters.",
-      "hint": "Start with 2 parts, then split both parts equally."
+      "summary": "Two of 4 equal quarters cover half the whole.",
+      "hint": "Think of a whole split into four."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-012",
@@ -409,35 +471,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect_quarters_and_eighths",
+    "skill": "connect_quarter_eighths",
+    "question": "How many eighths have the same area as one-quarter of the same whole?",
+    "audio_prompt": "How many eighths have the same area as one-quarter of the same whole?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-012",
-      "alt_text": "With a wrap: One wrap divided into 8 equal pieces after every quarter is halved."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-008",
+      "alt_text": "How many eighths have the same area as one-quarter of the same whole?"
     },
-    "question": "With a wrap, how can you make eighths from quarters of the wrap?",
-    "audio_prompt": "With a wrap, how can you make eighths from quarters of the wrap?",
     "answers": [
       {
-        "text": "Halve each quarter",
+        "text": "4 eighths",
+        "is_correct": false
+      },
+      {
+        "text": "1 eighth",
+        "is_correct": false
+      },
+      {
+        "text": "2 eighths",
         "is_correct": true
-      },
-      {
-        "text": "Join two quarters",
-        "is_correct": false
-      },
-      {
-        "text": "Remove one quarter",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
-      "hint": "Doubling the number of equal parts makes smaller pieces."
+      "summary": "Two of 8 equal parts cover the same amount as one of 4 equal parts.",
+      "hint": "Halving one quarter makes two eighths."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-013",
@@ -445,35 +514,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "compare_half_and_eighth",
+    "skill": "compare_unit_fractions",
+    "question": "For equal-sized wholes, which piece is larger?",
+    "audio_prompt": "For equal-sized wholes, which piece is larger?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-013",
-      "alt_text": "With a wrap: Same-size wholes divided into halves and eighths."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a wrap, which piece is larger when the whole wrap is the same size?",
-    "audio_prompt": "With a wrap, which piece is larger when the whole wrap is the same size?",
     "answers": [
       {
-        "text": "One eighth",
-        "is_correct": false
-      },
-      {
-        "text": "One half",
+        "text": "one-half",
         "is_correct": true
       },
       {
-        "text": "They are the same size",
+        "text": "one-quarter",
+        "is_correct": false
+      },
+      {
+        "text": "one-eighth",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
-      "hint": "Fewer equal parts means each part is larger."
+      "summary": "When a whole is split into fewer equal parts, each part is larger.",
+      "hint": "Compare the number of equal pieces."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-014",
@@ -481,35 +556,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "identify_unequal_fraction_parts",
+    "skill": "compare_quarter_eighth",
+    "question": "For the same whole, how does one-quarter compare with one-eighth?",
+    "audio_prompt": "For the same whole, how does one-quarter compare with one-eighth?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-014",
-      "alt_text": "With a wrap: One wrap divided into four visibly unequal pieces."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a wrap, four pieces of the wrap are different sizes. Can they be called quarters?",
-    "audio_prompt": "With a wrap, four pieces of the wrap are different sizes. Can they be called quarters?",
     "answers": [
       {
-        "text": "Yes, because there are 4 pieces",
+        "text": "One-quarter is half as large",
         "is_correct": false
       },
       {
-        "text": "Yes, if one piece is very large",
-        "is_correct": false
-      },
-      {
-        "text": "No, quarters must be equal",
+        "text": "One-quarter is twice as large",
         "is_correct": true
+      },
+      {
+        "text": "They are the same size",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Four pieces are quarters only when all 4 parts are equal.",
-      "hint": "Counting pieces is not enough; compare their sizes."
+      "summary": "One quarter contains 2 eighths, so it is twice as large.",
+      "hint": "Convert the quarter into eighths."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-015",
@@ -517,35 +598,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate_half_and_two_quarters",
+    "skill": "identify_fraction_from_shaded_count",
+    "question": "A strip has 8 equal boxes and 1 is shaded. What fraction is shaded?",
+    "audio_prompt": "A strip has 8 equal boxes and 1 is shaded. What fraction is shaded?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-015",
-      "alt_text": "With a wrap: A whole divided into 4 equal parts with 2 shaded, showing one half."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-016",
+      "alt_text": "A strip has 8 equal boxes and 1 is shaded. What fraction is shaded?"
     },
-    "question": "With a wrap, how many quarters have the same amount as one half?",
-    "audio_prompt": "With a wrap, how many quarters have the same amount as one half?",
     "answers": [
       {
-        "text": "2 quarters",
+        "text": "one-quarter",
+        "is_correct": false
+      },
+      {
+        "text": "one-half",
+        "is_correct": false
+      },
+      {
+        "text": "one-eighth",
         "is_correct": true
-      },
-      {
-        "text": "1 quarter",
-        "is_correct": false
-      },
-      {
-        "text": "4 quarters",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Two quarters join to make one half of the same whole.",
-      "hint": "Look at 4 equal parts and shade 2 of them."
+      "summary": "One out of 8 equal parts is one-eighth.",
+      "hint": "Count all equal parts, then the shaded parts."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-016",
@@ -553,35 +641,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate_quarter_and_two_eighths",
+    "skill": "identify_half_multiple_representation",
+    "question": "A shape has 4 equal sections and 2 are shaded. What part of the whole is shaded?",
+    "audio_prompt": "A shape has 4 equal sections and 2 are shaded. What part of the whole is shaded?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-016",
-      "alt_text": "With a wrap: A whole divided into 8 equal parts with 2 shaded, showing one quarter."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-023",
+      "alt_text": "A shape has 4 equal sections and 2 are shaded. What part of the whole is shaded?"
     },
-    "question": "With a wrap, how many eighths have the same amount as one quarter?",
-    "audio_prompt": "With a wrap, how many eighths have the same amount as one quarter?",
     "answers": [
       {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
+        "text": "one-half",
         "is_correct": true
       },
       {
-        "text": "4 eighths",
+        "text": "one-quarter",
+        "is_correct": false
+      },
+      {
+        "text": "one-eighth",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Two eighths join to make one quarter of the same whole.",
-      "hint": "Each quarter is split into 2 eighths."
+      "summary": "Two quarters make one-half.",
+      "hint": "Compare 2 of 4 with the whole."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-017",
@@ -589,35 +684,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise_one_half",
+    "skill": "judge_partition",
+    "question": "Two students cut equal paper strips. Ari makes 8 equal pieces. Ben makes 8 pieces of different lengths. Who made eighths?",
+    "audio_prompt": "Two students cut equal paper strips. Ari makes 8 equal pieces. Ben makes 8 pieces of different lengths. Who made eighths?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-017",
-      "alt_text": "With a melon: One melon divided into 2 equal parts with one part shaded."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a melon, which picture shows one half of the melon?",
-    "audio_prompt": "With a melon, which picture shows one half of the melon?",
     "answers": [
       {
-        "text": "1 of 2 unequal parts shaded",
+        "text": "Ben only",
         "is_correct": false
       },
       {
-        "text": "1 of 4 equal parts shaded",
-        "is_correct": false
-      },
-      {
-        "text": "1 of 2 equal parts shaded",
+        "text": "Ari only",
         "is_correct": true
+      },
+      {
+        "text": "Both students",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "One half is one of 2 equal parts of the whole melon.",
-      "hint": "Check that there are exactly 2 equal parts."
+      "summary": "Eighths must be 8 equal parts, so only Ari made eighths.",
+      "hint": "Check equality as well as the count."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-018",
@@ -625,35 +726,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise_one_quarter",
+    "skill": "different_ways_same_fraction",
+    "question": "A square is split into 4 equal rows. Another is split into 4 equal small squares. What do both show?",
+    "audio_prompt": "A square is split into 4 equal rows. Another is split into 4 equal small squares. What do both show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-018",
-      "alt_text": "With a melon: One melon divided into 4 equal parts."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a melon, a whole melon is split into 4 equal parts. What is each part?",
-    "audio_prompt": "With a melon, a whole melon is split into 4 equal parts. What is each part?",
     "answers": [
       {
-        "text": "One quarter",
+        "text": "halves",
+        "is_correct": false
+      },
+      {
+        "text": "eighths",
+        "is_correct": false
+      },
+      {
+        "text": "quarters",
         "is_correct": true
-      },
-      {
-        "text": "One half",
-        "is_correct": false
-      },
-      {
-        "text": "One eighth",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "One of 4 equal parts is called one quarter.",
-      "hint": "Use the number of equal parts to name the fraction."
+      "summary": "The shapes of the pieces differ, but each whole has 4 equal parts.",
+      "hint": "Equal parts need not have the same orientation across different wholes."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-019",
@@ -661,35 +768,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect_halves_and_quarters",
+    "skill": "reason_whole_size",
+    "question": "Half of a large sheet and half of a small sheet are compared. Must the pieces be the same size?",
+    "audio_prompt": "Half of a large sheet and half of a small sheet are compared. Must the pieces be the same size?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-019",
-      "alt_text": "With a melon: One melon first halved, then each half split again to make quarters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a melon, how can you make quarters from halves of the melon?",
-    "audio_prompt": "With a melon, how can you make quarters from halves of the melon?",
     "answers": [
       {
-        "text": "Join the two halves",
-        "is_correct": false
-      },
-      {
-        "text": "Halve each half again",
+        "text": "No; each is half of a different whole",
         "is_correct": true
       },
       {
-        "text": "Make the halves different sizes",
+        "text": "Yes; all halves are the same size",
+        "is_correct": false
+      },
+      {
+        "text": "Only if both are rectangles",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Halving each half makes 4 equal quarters.",
-      "hint": "Start with 2 parts, then split both parts equally."
+      "summary": "Fraction size depends on the size of the whole.",
+      "hint": "Identify the whole for each fraction."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-020",
@@ -697,35 +810,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect_quarters_and_eighths",
+    "skill": "find_missing_step",
+    "question": "Whole → 2 halves → 4 quarters → ___. What comes next by repeated halving?",
+    "audio_prompt": "Whole → 2 halves → 4 quarters → ___. What comes next by repeated halving?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-020",
-      "alt_text": "With a melon: One melon divided into 8 equal pieces after every quarter is halved."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a melon, how can you make eighths from quarters of the melon?",
-    "audio_prompt": "With a melon, how can you make eighths from quarters of the melon?",
     "answers": [
       {
-        "text": "Join two quarters",
+        "text": "6 sixths",
         "is_correct": false
       },
       {
-        "text": "Remove one quarter",
-        "is_correct": false
-      },
-      {
-        "text": "Halve each quarter",
+        "text": "8 eighths",
         "is_correct": true
+      },
+      {
+        "text": "16 quarters",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
-      "hint": "Doubling the number of equal parts makes smaller pieces."
+      "summary": "Halving 4 quarters produces 8 eighths.",
+      "hint": "Double the number of equal parts."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-021",
@@ -733,35 +852,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "compare_half_and_eighth",
+    "skill": "correct_false_claim",
+    "question": "Luca says, ‘Any one of four pieces is a quarter.’ What is missing from his rule?",
+    "audio_prompt": "Luca says, ‘Any one of four pieces is a quarter.’ What is missing from his rule?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-021",
-      "alt_text": "With a melon: Same-size wholes divided into halves and eighths."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a melon, which piece is larger when the whole melon is the same size?",
-    "audio_prompt": "With a melon, which piece is larger when the whole melon is the same size?",
     "answers": [
       {
-        "text": "One half",
+        "text": "The whole must be a circle",
+        "is_correct": false
+      },
+      {
+        "text": "One piece must be shaded",
+        "is_correct": false
+      },
+      {
+        "text": "The four pieces must be equal",
         "is_correct": true
-      },
-      {
-        "text": "One eighth",
-        "is_correct": false
-      },
-      {
-        "text": "They are the same size",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
-      "hint": "Fewer equal parts means each part is larger."
+      "summary": "Four pieces are quarters only when all four are equal.",
+      "hint": "State the equality condition."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-022",
@@ -769,35 +894,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "identify_unequal_fraction_parts",
+    "skill": "partition_action",
+    "question": "A tray is already divided into halves. What single action will make quarters?",
+    "audio_prompt": "A tray is already divided into halves. What single action will make quarters?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-022",
-      "alt_text": "With a melon: One melon divided into four visibly unequal pieces."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a melon, four pieces of the melon are different sizes. Can they be called quarters?",
-    "audio_prompt": "With a melon, four pieces of the melon are different sizes. Can they be called quarters?",
     "answers": [
       {
-        "text": "Yes, because there are 4 pieces",
-        "is_correct": false
-      },
-      {
-        "text": "No, quarters must be equal",
+        "text": "Divide each half into 2 equal parts",
         "is_correct": true
       },
       {
-        "text": "Yes, if one piece is very large",
+        "text": "Divide one half into 3 parts",
+        "is_correct": false
+      },
+      {
+        "text": "Join the two halves",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Four pieces are quarters only when all 4 parts are equal.",
-      "hint": "Counting pieces is not enough; compare their sizes."
+      "summary": "Two equal parts in each half make 4 equal parts overall.",
+      "hint": "Halve both halves."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-023",
@@ -805,35 +936,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate_half_and_two_quarters",
+    "skill": "combine_eighths",
+    "question": "Four eighths of a strip are shaded. What familiar fraction is shaded?",
+    "audio_prompt": "Four eighths of a strip are shaded. What familiar fraction is shaded?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-023",
-      "alt_text": "With a melon: A whole divided into 4 equal parts with 2 shaded, showing one half."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-021",
+      "alt_text": "Four eighths of a strip are shaded. What familiar fraction is shaded?"
     },
-    "question": "With a melon, how many quarters have the same amount as one half?",
-    "audio_prompt": "With a melon, how many quarters have the same amount as one half?",
     "answers": [
       {
-        "text": "1 quarter",
+        "text": "one-quarter",
         "is_correct": false
       },
       {
-        "text": "4 quarters",
-        "is_correct": false
-      },
-      {
-        "text": "2 quarters",
+        "text": "one-half",
         "is_correct": true
+      },
+      {
+        "text": "one-eighth",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Two quarters join to make one half of the same whole.",
-      "hint": "Look at 4 equal parts and shade 2 of them."
+      "summary": "Four of 8 equal parts is half of the strip.",
+      "hint": "Half of 8 parts is 4 parts."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N03-P-024",
@@ -841,826 +979,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate_quarter_and_two_eighths",
+    "skill": "explain_fraction_name",
+    "question": "Why is one part called an eighth?",
+    "audio_prompt": "Why is one part called an eighth?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-024",
-      "alt_text": "With a melon: A whole divided into 8 equal parts with 2 shaded, showing one quarter."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a melon, how many eighths have the same amount as one quarter?",
-    "audio_prompt": "With a melon, how many eighths have the same amount as one quarter?",
     "answers": [
       {
-        "text": "2 eighths",
+        "text": "The part has 8 sides",
+        "is_correct": false
+      },
+      {
+        "text": "Eight parts are shaded",
+        "is_correct": false
+      },
+      {
+        "text": "The whole has been divided into 8 equal parts",
         "is_correct": true
-      },
-      {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "4 eighths",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Two eighths join to make one quarter of the same whole.",
-      "hint": "Each quarter is split into 2 eighths."
+      "summary": "The name eighth describes one of 8 equal parts of the whole.",
+      "hint": "The denominator counts equal parts in the whole."
     },
     "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2N03-P-025",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_school_garden_a_shape",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, a shape is split into 8 equal parts. What is one part?"
-    },
-    "question": "At the school garden, a shape is split into 8 equal parts. What is one part?",
-    "audio_prompt": "At the school garden, a shape is split into 8 equal parts. What is one part?",
-    "answers": [
-      {
-        "text": "one eighth",
-        "is_correct": true
-      },
-      {
-        "text": "one quarter",
-        "is_correct": false
-      },
-      {
-        "text": "one half",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-026",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during_maths_groups_how_many_eighths",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, how many eighths make one quarter?"
-    },
-    "question": "During maths groups, how many eighths make one quarter?",
-    "audio_prompt": "During maths groups, how many eighths make one quarter?",
-    "answers": [
-      {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "4 eighths",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-027",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_art_table_how_many",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, how many quarters make one whole?"
-    },
-    "question": "At the art table, how many quarters make one whole?",
-    "audio_prompt": "At the art table, how many quarters make one whole?",
-    "answers": [
-      {
-        "text": "8 quarters",
-        "is_correct": false
-      },
-      {
-        "text": "4 quarters",
-        "is_correct": true
-      },
-      {
-        "text": "2 quarters",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-028",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "in_the_playground_a_shape_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, a shape is split into 8 equal parts. What is one part?"
-    },
-    "question": "In the playground, a shape is split into 8 equal parts. What is one part?",
-    "audio_prompt": "In the playground, a shape is split into 8 equal parts. What is one part?",
-    "answers": [
-      {
-        "text": "one eighth",
-        "is_correct": true
-      },
-      {
-        "text": "one quarter",
-        "is_correct": false
-      },
-      {
-        "text": "one half",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-029",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_library_how_many_eighths",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, how many eighths make one quarter?"
-    },
-    "question": "At the library, how many eighths make one quarter?",
-    "audio_prompt": "At the library, how many eighths make one quarter?",
-    "answers": [
-      {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "4 eighths",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-030",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during_sport_how_many_quarters_make",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, how many quarters make one whole?"
-    },
-    "question": "During sport, how many quarters make one whole?",
-    "audio_prompt": "During sport, how many quarters make one whole?",
-    "answers": [
-      {
-        "text": "8 quarters",
-        "is_correct": false
-      },
-      {
-        "text": "4 quarters",
-        "is_correct": true
-      },
-      {
-        "text": "2 quarters",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-031",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_class_shop_a_shape",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, a shape is split into 8 equal parts. What is one part?"
-    },
-    "question": "At the class shop, a shape is split into 8 equal parts. What is one part?",
-    "audio_prompt": "At the class shop, a shape is split into 8 equal parts. What is one part?",
-    "answers": [
-      {
-        "text": "one eighth",
-        "is_correct": true
-      },
-      {
-        "text": "one quarter",
-        "is_correct": false
-      },
-      {
-        "text": "one half",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-032",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_how_many",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, how many eighths make one quarter?"
-    },
-    "question": "On the picnic rug, how many eighths make one quarter?",
-    "audio_prompt": "On the picnic rug, how many eighths make one quarter?",
-    "answers": [
-      {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "4 eighths",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-033",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_block_table_how_many",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, how many quarters make one whole?"
-    },
-    "question": "At the block table, how many quarters make one whole?",
-    "audio_prompt": "At the block table, how many quarters make one whole?",
-    "answers": [
-      {
-        "text": "8 quarters",
-        "is_correct": false
-      },
-      {
-        "text": "4 quarters",
-        "is_correct": true
-      },
-      {
-        "text": "2 quarters",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-034",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_a_shape",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, a shape is split into 8 equal parts. What is one part?"
-    },
-    "question": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
-    "audio_prompt": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
-    "answers": [
-      {
-        "text": "one eighth",
-        "is_correct": true
-      },
-      {
-        "text": "one quarter",
-        "is_correct": false
-      },
-      {
-        "text": "one half",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-035",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_science_table_how_many",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, how many eighths make one quarter?"
-    },
-    "question": "At the science table, how many eighths make one quarter?",
-    "audio_prompt": "At the science table, how many eighths make one quarter?",
-    "answers": [
-      {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "4 eighths",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-036",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during_a_card_game_how_many",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, how many quarters make one whole?"
-    },
-    "question": "During a card game, how many quarters make one whole?",
-    "audio_prompt": "During a card game, how many quarters make one whole?",
-    "answers": [
-      {
-        "text": "8 quarters",
-        "is_correct": false
-      },
-      {
-        "text": "4 quarters",
-        "is_correct": true
-      },
-      {
-        "text": "2 quarters",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-037",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_school_garden_a_shape",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, a shape is split into 8 equal parts. What is one part?"
-    },
-    "question": "At the school garden, a shape is split into 8 equal parts. What is one part?",
-    "audio_prompt": "At the school garden, a shape is split into 8 equal parts. What is one part?",
-    "answers": [
-      {
-        "text": "one eighth",
-        "is_correct": true
-      },
-      {
-        "text": "one quarter",
-        "is_correct": false
-      },
-      {
-        "text": "one half",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-038",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during_maths_groups_how_many_eighths",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, how many eighths make one quarter?"
-    },
-    "question": "During maths groups, how many eighths make one quarter?",
-    "audio_prompt": "During maths groups, how many eighths make one quarter?",
-    "answers": [
-      {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "4 eighths",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-039",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_art_table_how_many",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, how many quarters make one whole?"
-    },
-    "question": "At the art table, how many quarters make one whole?",
-    "audio_prompt": "At the art table, how many quarters make one whole?",
-    "answers": [
-      {
-        "text": "8 quarters",
-        "is_correct": false
-      },
-      {
-        "text": "4 quarters",
-        "is_correct": true
-      },
-      {
-        "text": "2 quarters",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-040",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "in_the_playground_a_shape_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, a shape is split into 8 equal parts. What is one part?"
-    },
-    "question": "In the playground, a shape is split into 8 equal parts. What is one part?",
-    "audio_prompt": "In the playground, a shape is split into 8 equal parts. What is one part?",
-    "answers": [
-      {
-        "text": "one eighth",
-        "is_correct": true
-      },
-      {
-        "text": "one quarter",
-        "is_correct": false
-      },
-      {
-        "text": "one half",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-041",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_library_how_many_eighths",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, how many eighths make one quarter?"
-    },
-    "question": "At the library, how many eighths make one quarter?",
-    "audio_prompt": "At the library, how many eighths make one quarter?",
-    "answers": [
-      {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "4 eighths",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-042",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during_sport_how_many_quarters_make",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, how many quarters make one whole?"
-    },
-    "question": "During sport, how many quarters make one whole?",
-    "audio_prompt": "During sport, how many quarters make one whole?",
-    "answers": [
-      {
-        "text": "8 quarters",
-        "is_correct": false
-      },
-      {
-        "text": "4 quarters",
-        "is_correct": true
-      },
-      {
-        "text": "2 quarters",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-043",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_class_shop_a_shape",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, a shape is split into 8 equal parts. What is one part?"
-    },
-    "question": "At the class shop, a shape is split into 8 equal parts. What is one part?",
-    "audio_prompt": "At the class shop, a shape is split into 8 equal parts. What is one part?",
-    "answers": [
-      {
-        "text": "one eighth",
-        "is_correct": true
-      },
-      {
-        "text": "one quarter",
-        "is_correct": false
-      },
-      {
-        "text": "one half",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-044",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_how_many",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, how many eighths make one quarter?"
-    },
-    "question": "On the picnic rug, how many eighths make one quarter?",
-    "audio_prompt": "On the picnic rug, how many eighths make one quarter?",
-    "answers": [
-      {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "4 eighths",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-045",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_block_table_how_many",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, how many quarters make one whole?"
-    },
-    "question": "At the block table, how many quarters make one whole?",
-    "audio_prompt": "At the block table, how many quarters make one whole?",
-    "answers": [
-      {
-        "text": "8 quarters",
-        "is_correct": false
-      },
-      {
-        "text": "4 quarters",
-        "is_correct": true
-      },
-      {
-        "text": "2 quarters",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-046",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_a_shape",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, a shape is split into 8 equal parts. What is one part?"
-    },
-    "question": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
-    "audio_prompt": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
-    "answers": [
-      {
-        "text": "one eighth",
-        "is_correct": true
-      },
-      {
-        "text": "one quarter",
-        "is_correct": false
-      },
-      {
-        "text": "one half",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-047",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at_the_science_table_how_many",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, how many eighths make one quarter?"
-    },
-    "question": "At the science table, how many eighths make one quarter?",
-    "audio_prompt": "At the science table, how many eighths make one quarter?",
-    "answers": [
-      {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "4 eighths",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N03-P-048",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during_a_card_game_how_many",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, how many quarters make one whole?"
-    },
-    "question": "During a card game, how many quarters make one whole?",
-    "audio_prompt": "During a card game, how many quarters make one whole?",
-    "answers": [
-      {
-        "text": "8 quarters",
-        "is_correct": false
-      },
-      {
-        "text": "4 quarters",
-        "is_correct": true
-      },
-      {
-        "text": "2 quarters",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1669,32 +1021,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "recognise_one_half",
+    "skill": "equal_parts",
+    "question": "Which statement is necessary before pieces can be called halves, quarters or eighths?",
+    "audio_prompt": "Which statement is necessary before pieces can be called halves, quarters or eighths?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-001",
-      "alt_text": "With a cake: One cake divided into 2 equal parts with one part shaded."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a cake, which picture shows one half of the cake?",
-    "audio_prompt": "With a cake, which picture shows one half of the cake?",
     "answers": [
       {
-        "text": "1 of 2 unequal parts shaded",
-        "is_correct": false
-      },
-      {
-        "text": "1 of 2 equal parts shaded",
+        "text": "The pieces are equal in size",
         "is_correct": true
       },
       {
-        "text": "1 of 4 equal parts shaded",
+        "text": "The pieces are the same colour",
+        "is_correct": false
+      },
+      {
+        "text": "The whole is a rectangle",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "One half is one of 2 equal parts of the whole cake.",
-      "hint": "Check that there are exactly 2 equal parts."
+      "summary": "Fractional parts must be equal parts of one whole.",
+      "hint": "Focus on size, not appearance."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1703,32 +1063,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "recognise_one_quarter",
+    "skill": "identify_half",
+    "question": "A paper strip has 2 equal sections. One section is what fraction?",
+    "audio_prompt": "A paper strip has 2 equal sections. One section is what fraction?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-002",
-      "alt_text": "With a cake: One cake divided into 4 equal parts."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-001",
+      "alt_text": "A paper strip has 2 equal sections. One section is what fraction?"
     },
-    "question": "With a cake, a whole cake is split into 4 equal parts. What is each part?",
-    "audio_prompt": "With a cake, a whole cake is split into 4 equal parts. What is each part?",
     "answers": [
       {
-        "text": "One half",
+        "text": "one-quarter",
         "is_correct": false
       },
       {
-        "text": "One eighth",
-        "is_correct": false
-      },
-      {
-        "text": "One quarter",
+        "text": "one-half",
         "is_correct": true
+      },
+      {
+        "text": "one-eighth",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "One of 4 equal parts is called one quarter.",
-      "hint": "Use the number of equal parts to name the fraction."
+      "summary": "One of 2 equal sections is one-half.",
+      "hint": "Use the total equal-part count."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1737,32 +1106,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "connect_halves_and_quarters",
+    "skill": "make_halves",
+    "question": "Which action fails to make halves?",
+    "audio_prompt": "Which action fails to make halves?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-003",
-      "alt_text": "With a cake: One cake first halved, then each half split again to make quarters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a cake, how can you make quarters from halves of the cake?",
-    "audio_prompt": "With a cake, how can you make quarters from halves of the cake?",
     "answers": [
       {
-        "text": "Halve each half again",
+        "text": "Folding a square exactly in two",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing 10 counters into two groups of 5",
+        "is_correct": false
+      },
+      {
+        "text": "Cutting a strip into two unequal lengths",
         "is_correct": true
-      },
-      {
-        "text": "Join the two halves",
-        "is_correct": false
-      },
-      {
-        "text": "Make the halves different sizes",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Halving each half makes 4 equal quarters.",
-      "hint": "Start with 2 parts, then split both parts equally."
+      "summary": "Two unequal pieces are not halves.",
+      "hint": "Halves must have equal amounts."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1771,32 +1148,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "connect_quarters_and_eighths",
+    "skill": "identify_quarter",
+    "question": "One piece from 4 equal pieces is:",
+    "audio_prompt": "One piece from 4 equal pieces is:",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-004",
-      "alt_text": "With a cake: One cake divided into 8 equal pieces after every quarter is halved."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a cake, how can you make eighths from quarters of the cake?",
-    "audio_prompt": "With a cake, how can you make eighths from quarters of the cake?",
     "answers": [
       {
-        "text": "Join two quarters",
-        "is_correct": false
-      },
-      {
-        "text": "Halve each quarter",
+        "text": "one-quarter",
         "is_correct": true
       },
       {
-        "text": "Remove one quarter",
+        "text": "one-eighth",
+        "is_correct": false
+      },
+      {
+        "text": "one-half",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
-      "hint": "Doubling the number of equal parts makes smaller pieces."
+      "summary": "One of 4 equal parts is one-quarter.",
+      "hint": "Four equal parts are quarters."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1805,32 +1190,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "compare_half_and_eighth",
+    "skill": "identify_eighth",
+    "question": "One part of a shape is one-eighth. How many equal parts form the whole?",
+    "audio_prompt": "One part of a shape is one-eighth. How many equal parts form the whole?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-005",
-      "alt_text": "With a cake: Same-size wholes divided into halves and eighths."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a cake, which piece is larger when the whole cake is the same size?",
-    "audio_prompt": "With a cake, which piece is larger when the whole cake is the same size?",
     "answers": [
       {
-        "text": "One eighth",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "They are the same size",
-        "is_correct": false
-      },
-      {
-        "text": "One half",
+        "text": "8",
         "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
-      "hint": "Fewer equal parts means each part is larger."
+      "summary": "The denominator 8 means 8 equal parts in the whole.",
+      "hint": "Use the fraction name."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1839,32 +1232,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "identify_unequal_fraction_parts",
+    "skill": "repeated_halving",
+    "question": "A whole is halved three times, with every piece halved each time. How many equal pieces result?",
+    "audio_prompt": "A whole is halved three times, with every piece halved each time. How many equal pieces result?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-006",
-      "alt_text": "With a cake: One cake divided into four visibly unequal pieces."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a cake, four pieces of the cake are different sizes. Can they be called quarters?",
-    "audio_prompt": "With a cake, four pieces of the cake are different sizes. Can they be called quarters?",
     "answers": [
       {
-        "text": "No, quarters must be equal",
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "8",
         "is_correct": true
-      },
-      {
-        "text": "Yes, because there are 4 pieces",
-        "is_correct": false
-      },
-      {
-        "text": "Yes, if one piece is very large",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Four pieces are quarters only when all 4 parts are equal.",
-      "hint": "Counting pieces is not enough; compare their sizes."
+      "summary": "The numbers of parts are 1 → 2 → 4 → 8.",
+      "hint": "Double the parts at each halving."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1873,32 +1274,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "equate_half_and_two_quarters",
+    "skill": "connect_half_quarters",
+    "question": "Which statement is true for the same whole?",
+    "audio_prompt": "Which statement is true for the same whole?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-007",
-      "alt_text": "With a cake: A whole divided into 4 equal parts with 2 shaded, showing one half."
+      "alt_text": "Which statement is true for the same whole?"
     },
-    "question": "With a cake, how many quarters have the same amount as one half?",
-    "audio_prompt": "With a cake, how many quarters have the same amount as one half?",
     "answers": [
       {
-        "text": "1 quarter",
-        "is_correct": false
-      },
-      {
-        "text": "2 quarters",
+        "text": "one-half = two-quarters",
         "is_correct": true
       },
       {
-        "text": "4 quarters",
+        "text": "one-half = one-quarter",
+        "is_correct": false
+      },
+      {
+        "text": "one-half = four-quarters",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Two quarters join to make one half of the same whole.",
-      "hint": "Look at 4 equal parts and shade 2 of them."
+      "summary": "Two of 4 equal quarters cover half the whole.",
+      "hint": "Picture four equal parts and shade two."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1907,32 +1317,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "equate_quarter_and_two_eighths",
+    "skill": "connect_quarter_eighths",
+    "question": "Complete the relationship: one-quarter = ___.",
+    "audio_prompt": "Complete the relationship: one-quarter = ___.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-008",
-      "alt_text": "With a cake: A whole divided into 8 equal parts with 2 shaded, showing one quarter."
+      "alt_text": "Complete the relationship: one-quarter = ___."
     },
-    "question": "With a cake, how many eighths have the same amount as one quarter?",
-    "audio_prompt": "With a cake, how many eighths have the same amount as one quarter?",
     "answers": [
       {
-        "text": "1 eighth",
+        "text": "four-eighths",
         "is_correct": false
       },
       {
-        "text": "4 eighths",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
+        "text": "two-eighths",
         "is_correct": true
+      },
+      {
+        "text": "one-eighth",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Two eighths join to make one quarter of the same whole.",
-      "hint": "Each quarter is split into 2 eighths."
+      "summary": "Each quarter splits into 2 eighths.",
+      "hint": "Halve the quarter."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1941,32 +1360,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "recognise_one_half",
+    "skill": "compare_unit_fractions",
+    "question": "For the same-sized whole, order the pieces largest to smallest.",
+    "audio_prompt": "For the same-sized whole, order the pieces largest to smallest.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-009",
-      "alt_text": "With a pancake: One pancake divided into 2 equal parts with one part shaded."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pancake, which picture shows one half of the pancake?",
-    "audio_prompt": "With a pancake, which picture shows one half of the pancake?",
     "answers": [
       {
-        "text": "1 of 2 equal parts shaded",
+        "text": "one-eighth, one-quarter, one-half",
+        "is_correct": false
+      },
+      {
+        "text": "one-quarter, one-half, one-eighth",
+        "is_correct": false
+      },
+      {
+        "text": "one-half, one-quarter, one-eighth",
         "is_correct": true
-      },
-      {
-        "text": "1 of 2 unequal parts shaded",
-        "is_correct": false
-      },
-      {
-        "text": "1 of 4 equal parts shaded",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "One half is one of 2 equal parts of the whole pancake.",
-      "hint": "Check that there are exactly 2 equal parts."
+      "summary": "Splitting into more equal parts makes smaller pieces.",
+      "hint": "Fewer equal parts means a larger unit fraction."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1975,32 +1402,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "recognise_one_quarter",
+    "skill": "judge_partition",
+    "question": "A cake is cut into 8 slices: 6 equal thin slices and 2 larger slices. Are the slices eighths?",
+    "audio_prompt": "A cake is cut into 8 slices: 6 equal thin slices and 2 larger slices. Are the slices eighths?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-010",
-      "alt_text": "With a pancake: One pancake divided into 4 equal parts."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pancake, a whole pancake is split into 4 equal parts. What is each part?",
-    "audio_prompt": "With a pancake, a whole pancake is split into 4 equal parts. What is each part?",
     "answers": [
       {
-        "text": "One half",
-        "is_correct": false
-      },
-      {
-        "text": "One quarter",
+        "text": "No, because all 8 slices are not equal",
         "is_correct": true
       },
       {
-        "text": "One eighth",
+        "text": "Yes, because there are 8 slices",
+        "is_correct": false
+      },
+      {
+        "text": "Only the thin slices are eighths",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "One of 4 equal parts is called one quarter.",
-      "hint": "Use the number of equal parts to name the fraction."
+      "summary": "Every part must be equal for the pieces to be eighths.",
+      "hint": "Count and compare sizes."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2009,32 +1444,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "connect_halves_and_quarters",
+    "skill": "different_ways_same_fraction",
+    "question": "Can a diagonal cut and a vertical cut both make halves of equal squares?",
+    "audio_prompt": "Can a diagonal cut and a vertical cut both make halves of equal squares?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-011",
-      "alt_text": "With a pancake: One pancake first halved, then each half split again to make quarters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pancake, how can you make quarters from halves of the pancake?",
-    "audio_prompt": "With a pancake, how can you make quarters from halves of the pancake?",
     "answers": [
       {
-        "text": "Join the two halves",
+        "text": "No, halves must be vertical",
         "is_correct": false
       },
       {
-        "text": "Make the halves different sizes",
-        "is_correct": false
-      },
-      {
-        "text": "Halve each half again",
+        "text": "Yes, if each cut makes 2 equal areas",
         "is_correct": true
+      },
+      {
+        "text": "Only the diagonal cut makes halves",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Halving each half makes 4 equal quarters.",
-      "hint": "Start with 2 parts, then split both parts equally."
+      "summary": "Halves can have different shapes or orientations as long as the two areas are equal.",
+      "hint": "The equality of the parts matters."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2043,32 +1486,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "connect_quarters_and_eighths",
+    "skill": "reason_whole_size",
+    "question": "A quarter of a large pizza looks bigger than half of a small pizza. Is that possible?",
+    "audio_prompt": "A quarter of a large pizza looks bigger than half of a small pizza. Is that possible?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-012",
-      "alt_text": "With a pancake: One pancake divided into 8 equal pieces after every quarter is halved."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pancake, how can you make eighths from quarters of the pancake?",
-    "audio_prompt": "With a pancake, how can you make eighths from quarters of the pancake?",
     "answers": [
       {
-        "text": "Halve each quarter",
+        "text": "No, a half is always the largest piece",
+        "is_correct": false
+      },
+      {
+        "text": "No, quarters and halves can never be compared",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, because the wholes are different sizes",
         "is_correct": true
-      },
-      {
-        "text": "Join two quarters",
-        "is_correct": false
-      },
-      {
-        "text": "Remove one quarter",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
-      "hint": "Doubling the number of equal parts makes smaller pieces."
+      "summary": "A fraction describes a part relative to its own whole; a larger whole can give a larger quarter.",
+      "hint": "Compare the wholes before the fractions."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2077,32 +1528,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "compare_half_and_eighth",
+    "skill": "find_missing_step",
+    "question": "After making halves, then quarters, what operation makes eighths?",
+    "audio_prompt": "After making halves, then quarters, what operation makes eighths?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-013",
-      "alt_text": "With a pancake: Same-size wholes divided into halves and eighths."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pancake, which piece is larger when the whole pancake is the same size?",
-    "audio_prompt": "With a pancake, which piece is larger when the whole pancake is the same size?",
     "answers": [
       {
-        "text": "One eighth",
-        "is_correct": false
-      },
-      {
-        "text": "One half",
+        "text": "Halve each quarter",
         "is_correct": true
       },
       {
-        "text": "They are the same size",
+        "text": "Join pairs of quarters",
+        "is_correct": false
+      },
+      {
+        "text": "Halve only one quarter",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
-      "hint": "Fewer equal parts means each part is larger."
+      "summary": "Each of the 4 quarters must split into 2 equal parts to make 8 eighths.",
+      "hint": "Apply the halving to every part."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2111,32 +1570,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "identify_unequal_fraction_parts",
+    "skill": "combine_eighths",
+    "question": "Which amount equals one-half of the same whole?",
+    "audio_prompt": "Which amount equals one-half of the same whole?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-014",
-      "alt_text": "With a pancake: One pancake divided into four visibly unequal pieces."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-013",
+      "alt_text": "Which amount equals one-half of the same whole?"
     },
-    "question": "With a pancake, four pieces of the pancake are different sizes. Can they be called quarters?",
-    "audio_prompt": "With a pancake, four pieces of the pancake are different sizes. Can they be called quarters?",
     "answers": [
       {
-        "text": "Yes, because there are 4 pieces",
+        "text": "two-eighths",
         "is_correct": false
       },
       {
-        "text": "Yes, if one piece is very large",
-        "is_correct": false
-      },
-      {
-        "text": "No, quarters must be equal",
+        "text": "four-eighths",
         "is_correct": true
+      },
+      {
+        "text": "six-eighths",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Four pieces are quarters only when all 4 parts are equal.",
-      "hint": "Counting pieces is not enough; compare their sizes."
+      "summary": "Half of 8 equal parts is 4 parts.",
+      "hint": "Divide 8 parts into two equal groups."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2145,32 +1613,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "equate_half_and_two_quarters",
+    "skill": "diagnose_fraction_error",
+    "question": "A diagram has 4 equal parts and 1 shaded. A student calls it one-eighth. What should it be called?",
+    "audio_prompt": "A diagram has 4 equal parts and 1 shaded. A student calls it one-eighth. What should it be called?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-015",
-      "alt_text": "With a pancake: A whole divided into 4 equal parts with 2 shaded, showing one half."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pancake, how many quarters have the same amount as one half?",
-    "audio_prompt": "With a pancake, how many quarters have the same amount as one half?",
     "answers": [
       {
-        "text": "2 quarters",
+        "text": "one-half",
+        "is_correct": false
+      },
+      {
+        "text": "four-eighths",
+        "is_correct": false
+      },
+      {
+        "text": "one-quarter",
         "is_correct": true
-      },
-      {
-        "text": "1 quarter",
-        "is_correct": false
-      },
-      {
-        "text": "4 quarters",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Two quarters join to make one half of the same whole.",
-      "hint": "Look at 4 equal parts and shade 2 of them."
+      "summary": "One of 4 equal parts is one-quarter.",
+      "hint": "Name the fraction from the total equal parts."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2179,32 +1655,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N03",
     "bank": "test",
-    "skill": "equate_quarter_and_two_eighths",
+    "skill": "reason_about_sequence",
+    "question": "Why do the names change from halves to quarters to eighths during repeated halving?",
+    "audio_prompt": "Why do the names change from halves to quarters to eighths during repeated halving?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-016",
-      "alt_text": "With a pancake: A whole divided into 8 equal parts with 2 shaded, showing one quarter."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With a pancake, how many eighths have the same amount as one quarter?",
-    "audio_prompt": "With a pancake, how many eighths have the same amount as one quarter?",
     "answers": [
       {
-        "text": "1 eighth",
-        "is_correct": false
-      },
-      {
-        "text": "2 eighths",
+        "text": "The number of equal parts doubles each time",
         "is_correct": true
       },
       {
-        "text": "4 eighths",
+        "text": "The whole becomes larger each time",
+        "is_correct": false
+      },
+      {
+        "text": "The pieces stop being equal",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Two eighths join to make one quarter of the same whole.",
-      "hint": "Each quarter is split into 2 eighths."
+      "summary": "Repeated halving doubles 2 to 4 to 8 equal parts.",
+      "hint": "Track the number of equal parts."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   }
 ]

@@ -4,31 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-001",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise one half",
+    "skill": "equal parts",
     "printable": true,
     "type": "single",
-    "question": "With a pizza, which picture shows one half of the pizza?",
-    "audioPrompt": "With a pizza, which picture shows one half of the pizza?",
-    "visual": "With a pizza: One pizza divided into 2 equal parts with one part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pizza: One pizza divided into 2 equal parts with one part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-001\"></use></svg>",
+    "question": "Which description shows a whole divided into equal parts?",
+    "audioPrompt": "Which description shows a whole divided into equal parts?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-001",
-      "alt_text": "With a pizza: One pizza divided into 2 equal parts with one part shaded."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1 of 2 unequal parts shaded",
-      "1 of 2 equal parts shaded",
-      "1 of 4 equal parts shaded"
+      "Four pieces that are all the same size",
+      "Four pieces with two large and two small",
+      "Three pieces labelled ‘quarters’"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "One half is one of 2 equal parts of the whole pizza.\nHint: Check that there are exactly 2 equal parts.",
+    "correct": 0,
+    "explanation": "Fraction parts must be equal in size.\nHint: Count alone is not enough; compare sizes.",
     "structuredExplanation": {
-      "summary": "One half is one of 2 equal parts of the whole pizza.",
-      "hint": "Check that there are exactly 2 equal parts."
+      "summary": "Fraction parts must be equal in size.",
+      "hint": "Count alone is not enough; compare sizes."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,31 +35,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-002",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise one quarter",
+    "skill": "identify half",
     "printable": true,
     "type": "single",
-    "question": "With a pizza, a whole pizza is split into 4 equal parts. What is each part?",
-    "audioPrompt": "With a pizza, a whole pizza is split into 4 equal parts. What is each part?",
-    "visual": "With a pizza: One pizza divided into 4 equal parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pizza: One pizza divided into 4 equal parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-002\"></use></svg>",
+    "question": "One of two equal parts of a whole is called:",
+    "audioPrompt": "One of two equal parts of a whole is called:",
+    "visual": "One of two equal parts of a whole is called:",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"One of two equal parts of a whole is called:\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-002",
-      "alt_text": "With a pizza: One pizza divided into 4 equal parts."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-001",
+      "alt_text": "One of two equal parts of a whole is called:"
     },
     "answers": [
-      "One half",
-      "One eighth",
-      "One quarter"
+      "one-quarter",
+      "one-half",
+      "one-eighth"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "One of 4 equal parts is called one quarter.\nHint: Use the number of equal parts to name the fraction.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "A half is one of 2 equal parts.\nHint: The denominator tells how many equal parts.",
     "structuredExplanation": {
-      "summary": "One of 4 equal parts is called one quarter.",
-      "hint": "Use the number of equal parts to name the fraction."
+      "summary": "A half is one of 2 equal parts.",
+      "hint": "The denominator tells how many equal parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,31 +67,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-003",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect halves and quarters",
+    "skill": "make halves",
     "printable": true,
     "type": "single",
-    "question": "With a pizza, how can you make quarters from halves of the pizza?",
-    "audioPrompt": "With a pizza, how can you make quarters from halves of the pizza?",
-    "visual": "With a pizza: One pizza first halved, then each half split again to make quarters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pizza: One pizza first halved, then each half split again to make quarters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-003\"></use></svg>",
+    "question": "A rectangular card must be cut into halves. Which cut works?",
+    "audioPrompt": "A rectangular card must be cut into halves. Which cut works?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-003",
-      "alt_text": "With a pizza: One pizza first halved, then each half split again to make quarters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Halve each half again",
-      "Join the two halves",
-      "Make the halves different sizes"
+      "One cut close to an edge",
+      "Two cuts making three strips",
+      "One straight cut through its centre"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Halving each half makes 4 equal quarters.\nHint: Start with 2 parts, then split both parts equally.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "A centre cut can make 2 equal parts.\nHint: Halves require exactly two equal pieces.",
     "structuredExplanation": {
-      "summary": "Halving each half makes 4 equal quarters.",
-      "hint": "Start with 2 parts, then split both parts equally."
+      "summary": "A centre cut can make 2 equal parts.",
+      "hint": "Halves require exactly two equal pieces."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,31 +98,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-004",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect quarters and eighths",
+    "skill": "identify quarter",
     "printable": true,
     "type": "single",
-    "question": "With a pizza, how can you make eighths from quarters of the pizza?",
-    "audioPrompt": "With a pizza, how can you make eighths from quarters of the pizza?",
-    "visual": "With a pizza: One pizza divided into 8 equal pieces after every quarter is halved.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pizza: One pizza divided into 8 equal pieces after every quarter is halved.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-004\"></use></svg>",
+    "question": "A sandwich is shared into 4 equal pieces. What is each piece?",
+    "audioPrompt": "A sandwich is shared into 4 equal pieces. What is each piece?",
+    "visual": "A sandwich is shared into 4 equal pieces. What is each piece?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A sandwich is shared into 4 equal pieces. What is each piece?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-004",
-      "alt_text": "With a pizza: One pizza divided into 8 equal pieces after every quarter is halved."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-002",
+      "alt_text": "A sandwich is shared into 4 equal pieces. What is each piece?"
     },
     "answers": [
-      "Join two quarters",
-      "Halve each quarter",
-      "Remove one quarter"
+      "one-quarter",
+      "one-half",
+      "one-eighth"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Halving each of 4 quarters makes 8 equal eighths.\nHint: Doubling the number of equal parts makes smaller pieces.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "One of 4 equal parts is one-quarter.\nHint: Use the number of equal parts.",
     "structuredExplanation": {
-      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
-      "hint": "Doubling the number of equal parts makes smaller pieces."
+      "summary": "One of 4 equal parts is one-quarter.",
+      "hint": "Use the number of equal parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -132,31 +130,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-005",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "compare half and eighth",
+    "skill": "make quarters",
     "printable": true,
     "type": "single",
-    "question": "With a pizza, which piece is larger when the whole pizza is the same size?",
-    "audioPrompt": "With a pizza, which piece is larger when the whole pizza is the same size?",
-    "visual": "With a pizza: Same-size wholes divided into halves and eighths.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pizza: Same-size wholes divided into halves and eighths.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-005\"></use></svg>",
+    "question": "Which instruction makes quarters from a rectangular strip?",
+    "audioPrompt": "Which instruction makes quarters from a rectangular strip?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-005",
-      "alt_text": "With a pizza: Same-size wholes divided into halves and eighths."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One eighth",
-      "They are the same size",
-      "One half"
+      "Divide it into 4 pieces of any size",
+      "Divide it into 4 equal lengths",
+      "Divide it into 2 equal lengths"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.\nHint: Fewer equal parts means each part is larger.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Quarters are 4 equal parts.\nHint: Both the number and equality matter.",
     "structuredExplanation": {
-      "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
-      "hint": "Fewer equal parts means each part is larger."
+      "summary": "Quarters are 4 equal parts.",
+      "hint": "Both the number and equality matter."
     },
     "qualitySchema": "production-v1"
   },
@@ -164,31 +161,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-006",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "identify unequal fraction parts",
+    "skill": "identify eighth",
     "printable": true,
     "type": "single",
-    "question": "With a pizza, four pieces of the pizza are different sizes. Can they be called quarters?",
-    "audioPrompt": "With a pizza, four pieces of the pizza are different sizes. Can they be called quarters?",
-    "visual": "With a pizza: One pizza divided into four visibly unequal pieces.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pizza: One pizza divided into four visibly unequal pieces.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-006\"></use></svg>",
+    "question": "A ribbon is marked into 8 equal sections. One section is:",
+    "audioPrompt": "A ribbon is marked into 8 equal sections. One section is:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-006",
-      "alt_text": "With a pizza: One pizza divided into four visibly unequal pieces."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "No, quarters must be equal",
-      "Yes, because there are 4 pieces",
-      "Yes, if one piece is very large"
+      "one-quarter",
+      "one-half",
+      "one-eighth"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Four pieces are quarters only when all 4 parts are equal.\nHint: Counting pieces is not enough; compare their sizes.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "One of 8 equal parts is one-eighth.\nHint: Eight equal parts name eighths.",
     "structuredExplanation": {
-      "summary": "Four pieces are quarters only when all 4 parts are equal.",
-      "hint": "Counting pieces is not enough; compare their sizes."
+      "summary": "One of 8 equal parts is one-eighth.",
+      "hint": "Eight equal parts name eighths."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,31 +192,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-007",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate half and two quarters",
+    "skill": "make eighths",
     "printable": true,
     "type": "single",
-    "question": "With a pizza, how many quarters have the same amount as one half?",
-    "audioPrompt": "With a pizza, how many quarters have the same amount as one half?",
-    "visual": "With a pizza: A whole divided into 4 equal parts with 2 shaded, showing one half.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pizza: A whole divided into 4 equal parts with 2 shaded, showing one half.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-007\"></use></svg>",
+    "question": "How can you turn 4 equal quarters into 8 equal parts?",
+    "audioPrompt": "How can you turn 4 equal quarters into 8 equal parts?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-007",
-      "alt_text": "With a pizza: A whole divided into 4 equal parts with 2 shaded, showing one half."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1 quarter",
-      "2 quarters",
-      "4 quarters"
+      "Halve every quarter",
+      "Halve only one quarter",
+      "Join two quarters"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Two quarters join to make one half of the same whole.\nHint: Look at 4 equal parts and shade 2 of them.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Halving each of 4 quarters produces 8 equal eighths.\nHint: Each quarter must be split in two.",
     "structuredExplanation": {
-      "summary": "Two quarters join to make one half of the same whole.",
-      "hint": "Look at 4 equal parts and shade 2 of them."
+      "summary": "Halving each of 4 quarters produces 8 equal eighths.",
+      "hint": "Each quarter must be split in two."
     },
     "qualitySchema": "production-v1"
   },
@@ -228,31 +223,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-008",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate quarter and two eighths",
+    "skill": "recognise unequal parts",
     "printable": true,
     "type": "single",
-    "question": "With a pizza, how many eighths have the same amount as one quarter?",
-    "audioPrompt": "With a pizza, how many eighths have the same amount as one quarter?",
-    "visual": "With a pizza: A whole divided into 8 equal parts with 2 shaded, showing one quarter.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pizza: A whole divided into 8 equal parts with 2 shaded, showing one quarter.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-008\"></use></svg>",
+    "question": "A circle has 2 pieces, but one is much larger. Does either piece show one-half?",
+    "audioPrompt": "A circle has 2 pieces, but one is much larger. Does either piece show one-half?",
+    "visual": "A circle has 2 pieces, but one is much larger. Does either piece show one-half?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle has 2 pieces, but one is much larger. Does either piece show one-half?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-008",
-      "alt_text": "With a pizza: A whole divided into 8 equal parts with 2 shaded, showing one quarter."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-006",
+      "alt_text": "A circle has 2 pieces, but one is much larger. Does either piece show one-half?"
     },
     "answers": [
-      "1 eighth",
-      "4 eighths",
-      "2 eighths"
+      "Yes, because there are 2 pieces",
+      "No, because the pieces are not equal",
+      "Yes, but only the larger piece"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "Two eighths join to make one quarter of the same whole.\nHint: Each quarter is split into 2 eighths.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Two pieces are halves only when they are equal.\nHint: Check equal size before naming the fraction.",
     "structuredExplanation": {
-      "summary": "Two eighths join to make one quarter of the same whole.",
-      "hint": "Each quarter is split into 2 eighths."
+      "summary": "Two pieces are halves only when they are equal.",
+      "hint": "Check equal size before naming the fraction."
     },
     "qualitySchema": "production-v1"
   },
@@ -260,30 +255,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-009",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise one half",
+    "skill": "repeated halving",
     "printable": true,
     "type": "single",
-    "question": "With a wrap, which picture shows one half of the wrap?",
-    "audioPrompt": "With a wrap, which picture shows one half of the wrap?",
-    "visual": "With a wrap: One wrap divided into 2 equal parts with one part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a wrap: One wrap divided into 2 equal parts with one part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-009\"></use></svg>",
+    "question": "Start with one whole. Halve it, then halve each new part. How many equal parts are there?",
+    "audioPrompt": "Start with one whole. Halve it, then halve each new part. How many equal parts are there?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-009",
-      "alt_text": "With a wrap: One wrap divided into 2 equal parts with one part shaded."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1 of 2 equal parts shaded",
-      "1 of 2 unequal parts shaded",
-      "1 of 4 equal parts shaded"
+      "3 thirds",
+      "8 eighths",
+      "4 quarters"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "One half is one of 2 equal parts of the whole wrap.\nHint: Check that there are exactly 2 equal parts.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "One halving gives 2 halves; halving both halves gives 4 quarters.\nHint: Track every part after each halving.",
     "structuredExplanation": {
-      "summary": "One half is one of 2 equal parts of the whole wrap.",
-      "hint": "Check that there are exactly 2 equal parts."
+      "summary": "One halving gives 2 halves; halving both halves gives 4 quarters.",
+      "hint": "Track every part after each halving."
     },
     "qualitySchema": "production-v1"
   },
@@ -291,30 +286,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-010",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise one quarter",
+    "skill": "repeated halving twice",
     "printable": true,
     "type": "single",
-    "question": "With a wrap, a whole wrap is split into 4 equal parts. What is each part?",
-    "audioPrompt": "With a wrap, a whole wrap is split into 4 equal parts. What is each part?",
-    "visual": "With a wrap: One wrap divided into 4 equal parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a wrap: One wrap divided into 4 equal parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-010\"></use></svg>",
+    "question": "Start with 4 quarters and halve each quarter. What are the new parts called?",
+    "audioPrompt": "Start with 4 quarters and halve each quarter. What are the new parts called?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-010",
-      "alt_text": "With a wrap: One wrap divided into 4 equal parts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One half",
-      "One quarter",
-      "One eighth"
+      "8 eighths",
+      "4 halves",
+      "6 sixths"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "One of 4 equal parts is called one quarter.\nHint: Use the number of equal parts to name the fraction.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Halving each of 4 quarters makes 8 equal eighths.\nHint: Each old part creates two new parts.",
     "structuredExplanation": {
-      "summary": "One of 4 equal parts is called one quarter.",
-      "hint": "Use the number of equal parts to name the fraction."
+      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
+      "hint": "Each old part creates two new parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -322,30 +317,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-011",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect halves and quarters",
+    "skill": "connect half quarters",
     "printable": true,
     "type": "single",
-    "question": "With a wrap, how can you make quarters from halves of the wrap?",
-    "audioPrompt": "With a wrap, how can you make quarters from halves of the wrap?",
-    "visual": "With a wrap: One wrap first halved, then each half split again to make quarters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a wrap: One wrap first halved, then each half split again to make quarters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-011\"></use></svg>",
+    "question": "How many quarters have the same area as one-half of the same whole?",
+    "audioPrompt": "How many quarters have the same area as one-half of the same whole?",
+    "visual": "How many quarters have the same area as one-half of the same whole?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many quarters have the same area as one-half of the same whole?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-011",
-      "alt_text": "With a wrap: One wrap first halved, then each half split again to make quarters."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-007",
+      "alt_text": "How many quarters have the same area as one-half of the same whole?"
     },
     "answers": [
-      "Join the two halves",
-      "Make the halves different sizes",
-      "Halve each half again"
+      "1 quarter",
+      "2 quarters",
+      "4 quarters"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Halving each half makes 4 equal quarters.\nHint: Start with 2 parts, then split both parts equally.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Two of 4 equal quarters cover half the whole.\nHint: Think of a whole split into four.",
     "structuredExplanation": {
-      "summary": "Halving each half makes 4 equal quarters.",
-      "hint": "Start with 2 parts, then split both parts equally."
+      "summary": "Two of 4 equal quarters cover half the whole.",
+      "hint": "Think of a whole split into four."
     },
     "qualitySchema": "production-v1"
   },
@@ -353,30 +349,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-012",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect quarters and eighths",
+    "skill": "connect quarter eighths",
     "printable": true,
     "type": "single",
-    "question": "With a wrap, how can you make eighths from quarters of the wrap?",
-    "audioPrompt": "With a wrap, how can you make eighths from quarters of the wrap?",
-    "visual": "With a wrap: One wrap divided into 8 equal pieces after every quarter is halved.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a wrap: One wrap divided into 8 equal pieces after every quarter is halved.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-012\"></use></svg>",
+    "question": "How many eighths have the same area as one-quarter of the same whole?",
+    "audioPrompt": "How many eighths have the same area as one-quarter of the same whole?",
+    "visual": "How many eighths have the same area as one-quarter of the same whole?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many eighths have the same area as one-quarter of the same whole?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-012",
-      "alt_text": "With a wrap: One wrap divided into 8 equal pieces after every quarter is halved."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-008",
+      "alt_text": "How many eighths have the same area as one-quarter of the same whole?"
     },
     "answers": [
-      "Halve each quarter",
-      "Join two quarters",
-      "Remove one quarter"
+      "4 eighths",
+      "1 eighth",
+      "2 eighths"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Halving each of 4 quarters makes 8 equal eighths.\nHint: Doubling the number of equal parts makes smaller pieces.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Two of 8 equal parts cover the same amount as one of 4 equal parts.\nHint: Halving one quarter makes two eighths.",
     "structuredExplanation": {
-      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
-      "hint": "Doubling the number of equal parts makes smaller pieces."
+      "summary": "Two of 8 equal parts cover the same amount as one of 4 equal parts.",
+      "hint": "Halving one quarter makes two eighths."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,30 +381,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-013",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "compare half and eighth",
+    "skill": "compare unit fractions",
     "printable": true,
     "type": "single",
-    "question": "With a wrap, which piece is larger when the whole wrap is the same size?",
-    "audioPrompt": "With a wrap, which piece is larger when the whole wrap is the same size?",
-    "visual": "With a wrap: Same-size wholes divided into halves and eighths.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a wrap: Same-size wholes divided into halves and eighths.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-013\"></use></svg>",
+    "question": "For equal-sized wholes, which piece is larger?",
+    "audioPrompt": "For equal-sized wholes, which piece is larger?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-013",
-      "alt_text": "With a wrap: Same-size wholes divided into halves and eighths."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One eighth",
-      "One half",
-      "They are the same size"
+      "one-half",
+      "one-quarter",
+      "one-eighth"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.\nHint: Fewer equal parts means each part is larger.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "When a whole is split into fewer equal parts, each part is larger.\nHint: Compare the number of equal pieces.",
     "structuredExplanation": {
-      "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
-      "hint": "Fewer equal parts means each part is larger."
+      "summary": "When a whole is split into fewer equal parts, each part is larger.",
+      "hint": "Compare the number of equal pieces."
     },
     "qualitySchema": "production-v1"
   },
@@ -415,30 +412,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-014",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "identify unequal fraction parts",
+    "skill": "compare quarter eighth",
     "printable": true,
     "type": "single",
-    "question": "With a wrap, four pieces of the wrap are different sizes. Can they be called quarters?",
-    "audioPrompt": "With a wrap, four pieces of the wrap are different sizes. Can they be called quarters?",
-    "visual": "With a wrap: One wrap divided into four visibly unequal pieces.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a wrap: One wrap divided into four visibly unequal pieces.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-014\"></use></svg>",
+    "question": "For the same whole, how does one-quarter compare with one-eighth?",
+    "audioPrompt": "For the same whole, how does one-quarter compare with one-eighth?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-014",
-      "alt_text": "With a wrap: One wrap divided into four visibly unequal pieces."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Yes, because there are 4 pieces",
-      "Yes, if one piece is very large",
-      "No, quarters must be equal"
+      "One-quarter is half as large",
+      "One-quarter is twice as large",
+      "They are the same size"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Four pieces are quarters only when all 4 parts are equal.\nHint: Counting pieces is not enough; compare their sizes.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "One quarter contains 2 eighths, so it is twice as large.\nHint: Convert the quarter into eighths.",
     "structuredExplanation": {
-      "summary": "Four pieces are quarters only when all 4 parts are equal.",
-      "hint": "Counting pieces is not enough; compare their sizes."
+      "summary": "One quarter contains 2 eighths, so it is twice as large.",
+      "hint": "Convert the quarter into eighths."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,30 +443,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-015",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate half and two quarters",
+    "skill": "identify fraction from shaded count",
     "printable": true,
     "type": "single",
-    "question": "With a wrap, how many quarters have the same amount as one half?",
-    "audioPrompt": "With a wrap, how many quarters have the same amount as one half?",
-    "visual": "With a wrap: A whole divided into 4 equal parts with 2 shaded, showing one half.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a wrap: A whole divided into 4 equal parts with 2 shaded, showing one half.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-015\"></use></svg>",
+    "question": "A strip has 8 equal boxes and 1 is shaded. What fraction is shaded?",
+    "audioPrompt": "A strip has 8 equal boxes and 1 is shaded. What fraction is shaded?",
+    "visual": "A strip has 8 equal boxes and 1 is shaded. What fraction is shaded?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A strip has 8 equal boxes and 1 is shaded. What fraction is shaded?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-015",
-      "alt_text": "With a wrap: A whole divided into 4 equal parts with 2 shaded, showing one half."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-016",
+      "alt_text": "A strip has 8 equal boxes and 1 is shaded. What fraction is shaded?"
     },
     "answers": [
-      "2 quarters",
-      "1 quarter",
-      "4 quarters"
+      "one-quarter",
+      "one-half",
+      "one-eighth"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Two quarters join to make one half of the same whole.\nHint: Look at 4 equal parts and shade 2 of them.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "One out of 8 equal parts is one-eighth.\nHint: Count all equal parts, then the shaded parts.",
     "structuredExplanation": {
-      "summary": "Two quarters join to make one half of the same whole.",
-      "hint": "Look at 4 equal parts and shade 2 of them."
+      "summary": "One out of 8 equal parts is one-eighth.",
+      "hint": "Count all equal parts, then the shaded parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -477,30 +475,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-016",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate quarter and two eighths",
+    "skill": "identify half multiple representation",
     "printable": true,
     "type": "single",
-    "question": "With a wrap, how many eighths have the same amount as one quarter?",
-    "audioPrompt": "With a wrap, how many eighths have the same amount as one quarter?",
-    "visual": "With a wrap: A whole divided into 8 equal parts with 2 shaded, showing one quarter.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a wrap: A whole divided into 8 equal parts with 2 shaded, showing one quarter.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-016\"></use></svg>",
+    "question": "A shape has 4 equal sections and 2 are shaded. What part of the whole is shaded?",
+    "audioPrompt": "A shape has 4 equal sections and 2 are shaded. What part of the whole is shaded?",
+    "visual": "A shape has 4 equal sections and 2 are shaded. What part of the whole is shaded?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A shape has 4 equal sections and 2 are shaded. What part of the whole is shaded?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-023\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-016",
-      "alt_text": "With a wrap: A whole divided into 8 equal parts with 2 shaded, showing one quarter."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-023",
+      "alt_text": "A shape has 4 equal sections and 2 are shaded. What part of the whole is shaded?"
     },
     "answers": [
-      "1 eighth",
-      "2 eighths",
-      "4 eighths"
+      "one-half",
+      "one-quarter",
+      "one-eighth"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Two eighths join to make one quarter of the same whole.\nHint: Each quarter is split into 2 eighths.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "Two quarters make one-half.\nHint: Compare 2 of 4 with the whole.",
     "structuredExplanation": {
-      "summary": "Two eighths join to make one quarter of the same whole.",
-      "hint": "Each quarter is split into 2 eighths."
+      "summary": "Two quarters make one-half.",
+      "hint": "Compare 2 of 4 with the whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,30 +507,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-017",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise one half",
+    "skill": "judge partition",
     "printable": true,
     "type": "single",
-    "question": "With a melon, which picture shows one half of the melon?",
-    "audioPrompt": "With a melon, which picture shows one half of the melon?",
-    "visual": "With a melon: One melon divided into 2 equal parts with one part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a melon: One melon divided into 2 equal parts with one part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-017\"></use></svg>",
+    "question": "Two students cut equal paper strips. Ari makes 8 equal pieces. Ben makes 8 pieces of different lengths. Who made eighths?",
+    "audioPrompt": "Two students cut equal paper strips. Ari makes 8 equal pieces. Ben makes 8 pieces of different lengths. Who made eighths?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-017",
-      "alt_text": "With a melon: One melon divided into 2 equal parts with one part shaded."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1 of 2 unequal parts shaded",
-      "1 of 4 equal parts shaded",
-      "1 of 2 equal parts shaded"
+      "Ben only",
+      "Ari only",
+      "Both students"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "One half is one of 2 equal parts of the whole melon.\nHint: Check that there are exactly 2 equal parts.",
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Eighths must be 8 equal parts, so only Ari made eighths.\nHint: Check equality as well as the count.",
     "structuredExplanation": {
-      "summary": "One half is one of 2 equal parts of the whole melon.",
-      "hint": "Check that there are exactly 2 equal parts."
+      "summary": "Eighths must be 8 equal parts, so only Ari made eighths.",
+      "hint": "Check equality as well as the count."
     },
     "qualitySchema": "production-v1"
   },
@@ -539,30 +538,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-018",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "recognise one quarter",
+    "skill": "different ways same fraction",
     "printable": true,
     "type": "single",
-    "question": "With a melon, a whole melon is split into 4 equal parts. What is each part?",
-    "audioPrompt": "With a melon, a whole melon is split into 4 equal parts. What is each part?",
-    "visual": "With a melon: One melon divided into 4 equal parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a melon: One melon divided into 4 equal parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-018\"></use></svg>",
+    "question": "A square is split into 4 equal rows. Another is split into 4 equal small squares. What do both show?",
+    "audioPrompt": "A square is split into 4 equal rows. Another is split into 4 equal small squares. What do both show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-018",
-      "alt_text": "With a melon: One melon divided into 4 equal parts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One quarter",
-      "One half",
-      "One eighth"
+      "halves",
+      "eighths",
+      "quarters"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "One of 4 equal parts is called one quarter.\nHint: Use the number of equal parts to name the fraction.",
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "The shapes of the pieces differ, but each whole has 4 equal parts.\nHint: Equal parts need not have the same orientation across different wholes.",
     "structuredExplanation": {
-      "summary": "One of 4 equal parts is called one quarter.",
-      "hint": "Use the number of equal parts to name the fraction."
+      "summary": "The shapes of the pieces differ, but each whole has 4 equal parts.",
+      "hint": "Equal parts need not have the same orientation across different wholes."
     },
     "qualitySchema": "production-v1"
   },
@@ -570,30 +569,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-019",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect halves and quarters",
+    "skill": "reason whole size",
     "printable": true,
     "type": "single",
-    "question": "With a melon, how can you make quarters from halves of the melon?",
-    "audioPrompt": "With a melon, how can you make quarters from halves of the melon?",
-    "visual": "With a melon: One melon first halved, then each half split again to make quarters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a melon: One melon first halved, then each half split again to make quarters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-019\"></use></svg>",
+    "question": "Half of a large sheet and half of a small sheet are compared. Must the pieces be the same size?",
+    "audioPrompt": "Half of a large sheet and half of a small sheet are compared. Must the pieces be the same size?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-019",
-      "alt_text": "With a melon: One melon first halved, then each half split again to make quarters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Join the two halves",
-      "Halve each half again",
-      "Make the halves different sizes"
+      "No; each is half of a different whole",
+      "Yes; all halves are the same size",
+      "Only if both are rectangles"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Halving each half makes 4 equal quarters.\nHint: Start with 2 parts, then split both parts equally.",
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": 0,
+    "explanation": "Fraction size depends on the size of the whole.\nHint: Identify the whole for each fraction.",
     "structuredExplanation": {
-      "summary": "Halving each half makes 4 equal quarters.",
-      "hint": "Start with 2 parts, then split both parts equally."
+      "summary": "Fraction size depends on the size of the whole.",
+      "hint": "Identify the whole for each fraction."
     },
     "qualitySchema": "production-v1"
   },
@@ -601,30 +600,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-020",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "connect quarters and eighths",
+    "skill": "find missing step",
     "printable": true,
     "type": "single",
-    "question": "With a melon, how can you make eighths from quarters of the melon?",
-    "audioPrompt": "With a melon, how can you make eighths from quarters of the melon?",
-    "visual": "With a melon: One melon divided into 8 equal pieces after every quarter is halved.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a melon: One melon divided into 8 equal pieces after every quarter is halved.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-020\"></use></svg>",
+    "question": "Whole → 2 halves → 4 quarters → ___. What comes next by repeated halving?",
+    "audioPrompt": "Whole → 2 halves → 4 quarters → ___. What comes next by repeated halving?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-020",
-      "alt_text": "With a melon: One melon divided into 8 equal pieces after every quarter is halved."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Join two quarters",
-      "Remove one quarter",
-      "Halve each quarter"
+      "6 sixths",
+      "8 eighths",
+      "16 quarters"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Halving each of 4 quarters makes 8 equal eighths.\nHint: Doubling the number of equal parts makes smaller pieces.",
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "Halving 4 quarters produces 8 eighths.\nHint: Double the number of equal parts.",
     "structuredExplanation": {
-      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
-      "hint": "Doubling the number of equal parts makes smaller pieces."
+      "summary": "Halving 4 quarters produces 8 eighths.",
+      "hint": "Double the number of equal parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -632,30 +631,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-021",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "compare half and eighth",
+    "skill": "correct false claim",
     "printable": true,
     "type": "single",
-    "question": "With a melon, which piece is larger when the whole melon is the same size?",
-    "audioPrompt": "With a melon, which piece is larger when the whole melon is the same size?",
-    "visual": "With a melon: Same-size wholes divided into halves and eighths.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a melon: Same-size wholes divided into halves and eighths.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-021\"></use></svg>",
+    "question": "Luca says, ‘Any one of four pieces is a quarter.’ What is missing from his rule?",
+    "audioPrompt": "Luca says, ‘Any one of four pieces is a quarter.’ What is missing from his rule?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-021",
-      "alt_text": "With a melon: Same-size wholes divided into halves and eighths."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One half",
-      "One eighth",
-      "They are the same size"
+      "The whole must be a circle",
+      "One piece must be shaded",
+      "The four pieces must be equal"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.\nHint: Fewer equal parts means each part is larger.",
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Four pieces are quarters only when all four are equal.\nHint: State the equality condition.",
     "structuredExplanation": {
-      "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
-      "hint": "Fewer equal parts means each part is larger."
+      "summary": "Four pieces are quarters only when all four are equal.",
+      "hint": "State the equality condition."
     },
     "qualitySchema": "production-v1"
   },
@@ -663,30 +662,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-022",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "identify unequal fraction parts",
+    "skill": "partition action",
     "printable": true,
     "type": "single",
-    "question": "With a melon, four pieces of the melon are different sizes. Can they be called quarters?",
-    "audioPrompt": "With a melon, four pieces of the melon are different sizes. Can they be called quarters?",
-    "visual": "With a melon: One melon divided into four visibly unequal pieces.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a melon: One melon divided into four visibly unequal pieces.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-022\"></use></svg>",
+    "question": "A tray is already divided into halves. What single action will make quarters?",
+    "audioPrompt": "A tray is already divided into halves. What single action will make quarters?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-022",
-      "alt_text": "With a melon: One melon divided into four visibly unequal pieces."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Yes, because there are 4 pieces",
-      "No, quarters must be equal",
-      "Yes, if one piece is very large"
+      "Divide each half into 2 equal parts",
+      "Divide one half into 3 parts",
+      "Join the two halves"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Four pieces are quarters only when all 4 parts are equal.\nHint: Counting pieces is not enough; compare their sizes.",
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": 0,
+    "explanation": "Two equal parts in each half make 4 equal parts overall.\nHint: Halve both halves.",
     "structuredExplanation": {
-      "summary": "Four pieces are quarters only when all 4 parts are equal.",
-      "hint": "Counting pieces is not enough; compare their sizes."
+      "summary": "Two equal parts in each half make 4 equal parts overall.",
+      "hint": "Halve both halves."
     },
     "qualitySchema": "production-v1"
   },
@@ -694,30 +693,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-023",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate half and two quarters",
+    "skill": "combine eighths",
     "printable": true,
     "type": "single",
-    "question": "With a melon, how many quarters have the same amount as one half?",
-    "audioPrompt": "With a melon, how many quarters have the same amount as one half?",
-    "visual": "With a melon: A whole divided into 4 equal parts with 2 shaded, showing one half.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a melon: A whole divided into 4 equal parts with 2 shaded, showing one half.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-023\"></use></svg>",
+    "question": "Four eighths of a strip are shaded. What familiar fraction is shaded?",
+    "audioPrompt": "Four eighths of a strip are shaded. What familiar fraction is shaded?",
+    "visual": "Four eighths of a strip are shaded. What familiar fraction is shaded?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four eighths of a strip are shaded. What familiar fraction is shaded?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-023",
-      "alt_text": "With a melon: A whole divided into 4 equal parts with 2 shaded, showing one half."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-021",
+      "alt_text": "Four eighths of a strip are shaded. What familiar fraction is shaded?"
     },
     "answers": [
-      "1 quarter",
-      "4 quarters",
-      "2 quarters"
+      "one-quarter",
+      "one-half",
+      "one-eighth"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Two quarters join to make one half of the same whole.\nHint: Look at 4 equal parts and shade 2 of them.",
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": 1,
+    "explanation": "Four of 8 equal parts is half of the strip.\nHint: Half of 8 parts is 4 parts.",
     "structuredExplanation": {
-      "summary": "Two quarters join to make one half of the same whole.",
-      "hint": "Look at 4 equal parts and shade 2 of them."
+      "summary": "Four of 8 equal parts is half of the strip.",
+      "hint": "Half of 8 parts is 4 parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -725,702 +725,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n03-p-024",
     "curriculumCode": "AC9M2N03",
     "bank": "practice",
-    "skill": "equate quarter and two eighths",
+    "skill": "explain fraction name",
     "printable": true,
     "type": "single",
-    "question": "With a melon, how many eighths have the same amount as one quarter?",
-    "audioPrompt": "With a melon, how many eighths have the same amount as one quarter?",
-    "visual": "With a melon: A whole divided into 8 equal parts with 2 shaded, showing one quarter.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a melon: A whole divided into 8 equal parts with 2 shaded, showing one quarter.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-024\"></use></svg>",
+    "question": "Why is one part called an eighth?",
+    "audioPrompt": "Why is one part called an eighth?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-p-024",
-      "alt_text": "With a melon: A whole divided into 8 equal parts with 2 shaded, showing one quarter."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "2 eighths",
-      "1 eighth",
-      "4 eighths"
+      "The part has 8 sides",
+      "Eight parts are shaded",
+      "The whole has been divided into 8 equal parts"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Two eighths join to make one quarter of the same whole.\nHint: Each quarter is split into 2 eighths.",
-    "structuredExplanation": {
-      "summary": "Two eighths join to make one quarter of the same whole.",
-      "hint": "Each quarter is split into 2 eighths."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-025",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the school garden a shape",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, a shape is split into 8 equal parts. What is one part?",
-    "audioPrompt": "At the school garden, a shape is split into 8 equal parts. What is one part?",
-    "visual": "At the school garden, a shape is split into 8 equal parts. What is one part?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, a shape is split into 8 equal parts. What is one part?"
-    },
-    "answers": [
-      "one eighth",
-      "one quarter",
-      "one half"
-    ],
-    "correct": 0,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-026",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during maths groups how many eighths",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, how many eighths make one quarter?",
-    "audioPrompt": "During maths groups, how many eighths make one quarter?",
-    "visual": "During maths groups, how many eighths make one quarter?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, how many eighths make one quarter?"
-    },
-    "answers": [
-      "1 eighth",
-      "4 eighths",
-      "2 eighths"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "explanation": "The name eighth describes one of 8 equal parts of the whole.\nHint: The denominator counts equal parts in the whole.",
     "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-027",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the art table how many",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, how many quarters make one whole?",
-    "audioPrompt": "At the art table, how many quarters make one whole?",
-    "visual": "At the art table, how many quarters make one whole?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, how many quarters make one whole?"
-    },
-    "answers": [
-      "8 quarters",
-      "4 quarters",
-      "2 quarters"
-    ],
-    "correct": 1,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-028",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "in the playground a shape is",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, a shape is split into 8 equal parts. What is one part?",
-    "audioPrompt": "In the playground, a shape is split into 8 equal parts. What is one part?",
-    "visual": "In the playground, a shape is split into 8 equal parts. What is one part?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, a shape is split into 8 equal parts. What is one part?"
-    },
-    "answers": [
-      "one eighth",
-      "one quarter",
-      "one half"
-    ],
-    "correct": 0,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-029",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the library how many eighths",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, how many eighths make one quarter?",
-    "audioPrompt": "At the library, how many eighths make one quarter?",
-    "visual": "At the library, how many eighths make one quarter?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, how many eighths make one quarter?"
-    },
-    "answers": [
-      "1 eighth",
-      "4 eighths",
-      "2 eighths"
-    ],
-    "correct": 2,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-030",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during sport how many quarters make",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, how many quarters make one whole?",
-    "audioPrompt": "During sport, how many quarters make one whole?",
-    "visual": "During sport, how many quarters make one whole?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, how many quarters make one whole?"
-    },
-    "answers": [
-      "8 quarters",
-      "4 quarters",
-      "2 quarters"
-    ],
-    "correct": 1,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-031",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the class shop a shape",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, a shape is split into 8 equal parts. What is one part?",
-    "audioPrompt": "At the class shop, a shape is split into 8 equal parts. What is one part?",
-    "visual": "At the class shop, a shape is split into 8 equal parts. What is one part?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, a shape is split into 8 equal parts. What is one part?"
-    },
-    "answers": [
-      "one eighth",
-      "one quarter",
-      "one half"
-    ],
-    "correct": 0,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-032",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "on the picnic rug how many",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, how many eighths make one quarter?",
-    "audioPrompt": "On the picnic rug, how many eighths make one quarter?",
-    "visual": "On the picnic rug, how many eighths make one quarter?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, how many eighths make one quarter?"
-    },
-    "answers": [
-      "1 eighth",
-      "4 eighths",
-      "2 eighths"
-    ],
-    "correct": 2,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-033",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the block table how many",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, how many quarters make one whole?",
-    "audioPrompt": "At the block table, how many quarters make one whole?",
-    "visual": "At the block table, how many quarters make one whole?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, how many quarters make one whole?"
-    },
-    "answers": [
-      "8 quarters",
-      "4 quarters",
-      "2 quarters"
-    ],
-    "correct": 1,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-034",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "in the lunch area a shape",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
-    "audioPrompt": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
-    "visual": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, a shape is split into 8 equal parts. What is one part?"
-    },
-    "answers": [
-      "one eighth",
-      "one quarter",
-      "one half"
-    ],
-    "correct": 0,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-035",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the science table how many",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, how many eighths make one quarter?",
-    "audioPrompt": "At the science table, how many eighths make one quarter?",
-    "visual": "At the science table, how many eighths make one quarter?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, how many eighths make one quarter?"
-    },
-    "answers": [
-      "1 eighth",
-      "4 eighths",
-      "2 eighths"
-    ],
-    "correct": 2,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-036",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during a card game how many",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, how many quarters make one whole?",
-    "audioPrompt": "During a card game, how many quarters make one whole?",
-    "visual": "During a card game, how many quarters make one whole?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, how many quarters make one whole?"
-    },
-    "answers": [
-      "8 quarters",
-      "4 quarters",
-      "2 quarters"
-    ],
-    "correct": 1,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-037",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the school garden a shape",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, a shape is split into 8 equal parts. What is one part?",
-    "audioPrompt": "At the school garden, a shape is split into 8 equal parts. What is one part?",
-    "visual": "At the school garden, a shape is split into 8 equal parts. What is one part?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, a shape is split into 8 equal parts. What is one part?"
-    },
-    "answers": [
-      "one eighth",
-      "one quarter",
-      "one half"
-    ],
-    "correct": 0,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-038",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during maths groups how many eighths",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, how many eighths make one quarter?",
-    "audioPrompt": "During maths groups, how many eighths make one quarter?",
-    "visual": "During maths groups, how many eighths make one quarter?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, how many eighths make one quarter?"
-    },
-    "answers": [
-      "1 eighth",
-      "4 eighths",
-      "2 eighths"
-    ],
-    "correct": 2,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-039",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the art table how many",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, how many quarters make one whole?",
-    "audioPrompt": "At the art table, how many quarters make one whole?",
-    "visual": "At the art table, how many quarters make one whole?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, how many quarters make one whole?"
-    },
-    "answers": [
-      "8 quarters",
-      "4 quarters",
-      "2 quarters"
-    ],
-    "correct": 1,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-040",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "in the playground a shape is",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, a shape is split into 8 equal parts. What is one part?",
-    "audioPrompt": "In the playground, a shape is split into 8 equal parts. What is one part?",
-    "visual": "In the playground, a shape is split into 8 equal parts. What is one part?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, a shape is split into 8 equal parts. What is one part?"
-    },
-    "answers": [
-      "one eighth",
-      "one quarter",
-      "one half"
-    ],
-    "correct": 0,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-041",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the library how many eighths",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, how many eighths make one quarter?",
-    "audioPrompt": "At the library, how many eighths make one quarter?",
-    "visual": "At the library, how many eighths make one quarter?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, how many eighths make one quarter?"
-    },
-    "answers": [
-      "1 eighth",
-      "4 eighths",
-      "2 eighths"
-    ],
-    "correct": 2,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-042",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during sport how many quarters make",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, how many quarters make one whole?",
-    "audioPrompt": "During sport, how many quarters make one whole?",
-    "visual": "During sport, how many quarters make one whole?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, how many quarters make one whole?"
-    },
-    "answers": [
-      "8 quarters",
-      "4 quarters",
-      "2 quarters"
-    ],
-    "correct": 1,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-043",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the class shop a shape",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, a shape is split into 8 equal parts. What is one part?",
-    "audioPrompt": "At the class shop, a shape is split into 8 equal parts. What is one part?",
-    "visual": "At the class shop, a shape is split into 8 equal parts. What is one part?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, a shape is split into 8 equal parts. What is one part?"
-    },
-    "answers": [
-      "one eighth",
-      "one quarter",
-      "one half"
-    ],
-    "correct": 0,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-044",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "on the picnic rug how many",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, how many eighths make one quarter?",
-    "audioPrompt": "On the picnic rug, how many eighths make one quarter?",
-    "visual": "On the picnic rug, how many eighths make one quarter?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, how many eighths make one quarter?"
-    },
-    "answers": [
-      "1 eighth",
-      "4 eighths",
-      "2 eighths"
-    ],
-    "correct": 2,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-045",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the block table how many",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, how many quarters make one whole?",
-    "audioPrompt": "At the block table, how many quarters make one whole?",
-    "visual": "At the block table, how many quarters make one whole?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, how many quarters make one whole?"
-    },
-    "answers": [
-      "8 quarters",
-      "4 quarters",
-      "2 quarters"
-    ],
-    "correct": 1,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-046",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "in the lunch area a shape",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
-    "audioPrompt": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
-    "visual": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, a shape is split into 8 equal parts. What is one part?"
-    },
-    "answers": [
-      "one eighth",
-      "one quarter",
-      "one half"
-    ],
-    "correct": 0,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-047",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "at the science table how many",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, how many eighths make one quarter?",
-    "audioPrompt": "At the science table, how many eighths make one quarter?",
-    "visual": "At the science table, how many eighths make one quarter?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, how many eighths make one quarter?"
-    },
-    "answers": [
-      "1 eighth",
-      "4 eighths",
-      "2 eighths"
-    ],
-    "correct": 2,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n03-p-048",
-    "curriculumCode": "AC9M2N03",
-    "bank": "practice",
-    "skill": "during a card game how many",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, how many quarters make one whole?",
-    "audioPrompt": "During a card game, how many quarters make one whole?",
-    "visual": "During a card game, how many quarters make one whole?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, how many quarters make one whole?"
-    },
-    "answers": [
-      "8 quarters",
-      "4 quarters",
-      "2 quarters"
-    ],
-    "correct": 1,
-    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Fractions are equal parts of a whole.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "The name eighth describes one of 8 equal parts of the whole.",
+      "hint": "The denominator counts equal parts in the whole."
     },
     "qualitySchema": "production-v1"
   }

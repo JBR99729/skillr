@@ -4,28 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-001",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "represent three digit number",
+    "skill": "read place value model",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, which number has 5 hundreds, 6 tens and 7 ones?",
-    "audioPrompt": "At the counting table, which number has 5 hundreds, 6 tens and 7 ones?",
-    "visual": "At the counting table: 5 hundred blocks, 6 ten rods and 7 one counters representing 567.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: 5 hundred blocks, 6 ten rods and 7 one counters representing 567.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-001\"></use></svg>",
+    "question": "A virtual model shows 8 hundred tiles, no ten rods and 4 ones. What number is shown?",
+    "audioPrompt": "A virtual model shows 8 hundred tiles, no ten rods and 4 ones. What number is shown?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-001",
-      "alt_text": "At the counting table: 5 hundred blocks, 6 ten rods and 7 one counters representing 567."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "576",
-      "513",
-      "567"
+      "804",
+      "840",
+      "84"
     ],
-    "correct": 2,
-    "explanation": "5 hundreds, 6 tens and 7 ones make 567.\nHint: Write the hundreds digit, then tens, then ones.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Eight hundreds, zero tens and four ones make 804.\nHint: Keep the zero as the tens placeholder.",
     "structuredExplanation": {
-      "summary": "5 hundreds, 6 tens and 7 ones make 567.",
-      "hint": "Write the hundreds digit, then tens, then ones."
+      "summary": "Eight hundreds, zero tens and four ones make 804.",
+      "hint": "Keep the zero as the tens placeholder."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-002",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "write expanded form",
+    "skill": "write number in words",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, what is 567 in expanded form?",
-    "audioPrompt": "At the counting table, what is 567 in expanded form?",
-    "visual": "At the counting table: Place-value blocks for 567: 5 hundreds, 6 tens and 7 ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: Place-value blocks for 567: 5 hundreds, 6 tens and 7 ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-002\"></use></svg>",
+    "question": "Which wording names 671?",
+    "audioPrompt": "Which wording names 671?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-002",
-      "alt_text": "At the counting table: Place-value blocks for 567: 5 hundreds, 6 tens and 7 ones."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "500 + 60 + 7",
-      "500 + 70 + 6",
-      "50 + 6 + 7"
+      "six hundred and seventeen",
+      "six hundred and seventy-one",
+      "seven hundred and sixty-one"
     ],
-    "correct": 0,
-    "explanation": "The digits show 500, 60 and 7.\nHint: Use the place of each digit to find its value.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "671 has 6 hundreds, 7 tens and 1 one.\nHint: Read the places from left to right.",
     "structuredExplanation": {
-      "summary": "The digits show 500, 60 and 7.",
-      "hint": "Use the place of each digit to find its value."
+      "summary": "671 has 6 hundreds, 7 tens and 1 one.",
+      "hint": "Read the places from left to right."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-003",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "compare three digit numbers",
+    "skill": "number line missing value",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, which number is greater: 567 or 575?",
-    "audioPrompt": "At the counting table, which number is greater: 567 or 575?",
-    "visual": "At the counting table: The numerals 567 and 575 shown in place-value columns.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: The numerals 567 and 575 shown in place-value columns.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-003\"></use></svg>",
+    "question": "Complete the equally spaced line: 250, 300, ___, 400.",
+    "audioPrompt": "Complete the equally spaced line: 250, 300, ___, 400.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-003",
-      "alt_text": "At the counting table: The numerals 567 and 575 shown in place-value columns."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "567",
-      "575",
-      "They are equal"
+      "325",
+      "450",
+      "350"
     ],
-    "correct": 1,
-    "explanation": "Both have 5 hundreds. 575 has more tens, so it is greater.\nHint: Compare hundreds first, then tens, then ones.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The marks increase by 50, so the missing value is 350.\nHint: Use the difference between the first two marks.",
     "structuredExplanation": {
-      "summary": "Both have 5 hundreds. 575 has more tens, so it is greater.",
-      "hint": "Compare hundreds first, then tens, then ones."
+      "summary": "The marks increase by 50, so the missing value is 350.",
+      "hint": "Use the difference between the first two marks."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-004",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "locate number on number line",
+    "skill": "compare numbers",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, which number belongs halfway between 500 and 600?",
-    "audioPrompt": "At the counting table, which number belongs halfway between 500 and 600?",
-    "visual": "At the counting table: Number line from 500 to 600 with a midpoint marker.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: Number line from 500 to 600 with a midpoint marker.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-004\"></use></svg>",
+    "question": "Which comparison is true?",
+    "audioPrompt": "Which comparison is true?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-004",
-      "alt_text": "At the counting table: Number line from 500 to 600 with a midpoint marker."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "505",
-      "590",
-      "550"
+      "906 > 869",
+      "906 < 869",
+      "906 = 869"
     ],
-    "correct": 2,
-    "explanation": "550 is 50 more than 500 and 50 less than 600.\nHint: Half of 100 is 50.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "906 has 9 hundreds; 869 has 8 hundreds.\nHint: Compare hundreds first.",
     "structuredExplanation": {
-      "summary": "550 is 50 more than 500 and 50 less than 600.",
-      "hint": "Half of 100 is 50."
+      "summary": "906 has 9 hundreds; 869 has 8 hundreds.",
+      "hint": "Compare hundreds first."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-005",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "order three digit numbers",
+    "skill": "order numbers",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, put these numbers from smallest to largest: 567, 597, 467.",
-    "audioPrompt": "At the counting table, put these numbers from smallest to largest: 567, 597, 467.",
-    "visual": "At the counting table: Cards labelled 567, 597, 467 ready to be ordered.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: Cards labelled 567, 597, 467 ready to be ordered.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-005\"></use></svg>",
+    "question": "Order 702, 720, 207 and 270 from smallest to largest.",
+    "audioPrompt": "Order 702, 720, 207 and 270 from smallest to largest.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-005",
-      "alt_text": "At the counting table: Cards labelled 567, 597, 467 ready to be ordered."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "467, 567, 597",
-      "597, 567, 467",
-      "567, 467, 597"
+      "270, 207, 720, 702",
+      "207, 270, 702, 720",
+      "207, 702, 270, 720"
     ],
-    "correct": 0,
-    "explanation": "Compare the hundreds first. The order is 467, 567, 597.\nHint: Find the number with the fewest hundreds first.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The 200s come before the 700s; then compare tens.\nHint: Group by hundreds before comparing tens.",
     "structuredExplanation": {
-      "summary": "Compare the hundreds first. The order is 467, 567, 597.",
-      "hint": "Find the number with the fewest hundreds first."
+      "summary": "The 200s come before the 700s; then compare tens.",
+      "hint": "Group by hundreds before comparing tens."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-006",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "find ten more",
+    "skill": "count forwards",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, what is 10 more than 567?",
-    "audioPrompt": "At the counting table, what is 10 more than 567?",
-    "visual": "At the counting table: Number line showing a jump of 10 from 567 to a missing number.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: Number line showing a jump of 10 from 567 to a missing number.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-006\"></use></svg>",
+    "question": "What comes next? 996, 997, 998, 999, ___",
+    "audioPrompt": "What comes next? 996, 997, 998, 999, ___",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-006",
-      "alt_text": "At the counting table: Number line showing a jump of 10 from 567 to a missing number."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "568",
-      "577",
-      "667"
+      "990",
+      "1001",
+      "1000"
     ],
-    "correct": 1,
-    "explanation": "Adding 10 increases the tens place by 1: 567 becomes 577.\nHint: Keep the hundreds and ones the same.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "The whole number after 999 is 1000.\nHint: Cross the hundreds boundary carefully.",
     "structuredExplanation": {
-      "summary": "Adding 10 increases the tens place by 1: 567 becomes 577.",
-      "hint": "Keep the hundreds and ones the same."
+      "summary": "The whole number after 999 is 1000.",
+      "hint": "Cross the hundreds boundary carefully."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-007",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "interpret zero digit",
+    "skill": "locate on number line",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, what does the 0 mean in 507?",
-    "audioPrompt": "At the counting table, what does the 0 mean in 507?",
-    "visual": "At the counting table: 5 hundred blocks, no ten rods and 7 ones for 507.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: 5 hundred blocks, no ten rods and 7 ones for 507.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-007\"></use></svg>",
+    "question": "A line is marked 420, 440, 460, 480. Where would 450 lie?",
+    "audioPrompt": "A line is marked 420, 440, 460, 480. Where would 450 lie?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-007",
-      "alt_text": "At the counting table: 5 hundred blocks, no ten rods and 7 ones for 507."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "There are no hundreds",
-      "There are no ones",
-      "There are no tens"
+      "halfway between 440 and 460",
+      "on the 460 mark",
+      "halfway between 420 and 440"
     ],
-    "correct": 2,
-    "explanation": "The 0 is in the tens place, so the number has no tens.\nHint: Read the place-value columns: hundreds, tens, ones.",
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "450 is 10 from both 440 and 460.\nHint: Compare the distances to nearby labels.",
     "structuredExplanation": {
-      "summary": "The 0 is in the tens place, so the number has no tens.",
-      "hint": "Read the place-value columns: hundreds, tens, ones."
+      "summary": "450 is 10 from both 440 and 460.",
+      "hint": "Compare the distances to nearby labels."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-008",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "read three digit number",
+    "skill": "word to numeral",
     "printable": true,
     "type": "single",
-    "question": "At the counting table, which numeral matches “5 hundred and 7”?",
-    "audioPrompt": "At the counting table, which numeral matches “5 hundred and 7”?",
-    "visual": "At the counting table: 5 hundreds, zero tens and 7 ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the counting table: 5 hundreds, zero tens and 7 ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-008\"></use></svg>",
+    "question": "Write ‘five hundred and ninety’ as a numeral.",
+    "audioPrompt": "Write ‘five hundred and ninety’ as a numeral.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-008",
-      "alt_text": "At the counting table: 5 hundreds, zero tens and 7 ones."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "507",
-      "570",
-      "57"
+      "509",
+      "590",
+      "950"
     ],
-    "correct": 0,
-    "explanation": "With no tens, a zero keeps the tens place: 507.\nHint: Leave a zero in the tens column.",
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Five hundreds and nine tens make 590.\nHint: There are no ones, so the ones digit is zero.",
     "structuredExplanation": {
-      "summary": "With no tens, a zero keeps the tens place: 507.",
-      "hint": "Leave a zero in the tens column."
+      "summary": "Five hundreds and nine tens make 590.",
+      "hint": "There are no ones, so the ones digit is zero."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-009",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "represent three digit number",
+    "skill": "hundred chart pattern",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, which number has 6 hundreds, 3 tens and 8 ones?",
-    "audioPrompt": "In the place-value challenge, which number has 6 hundreds, 3 tens and 8 ones?",
-    "visual": "In the place-value challenge: 6 hundred blocks, 3 ten rods and 8 one counters representing 638.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: 6 hundred blocks, 3 ten rods and 8 one counters representing 638.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-009\"></use></svg>",
+    "question": "What is two rows below 36 on a hundred chart?",
+    "audioPrompt": "What is two rows below 36 on a hundred chart?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-009",
-      "alt_text": "In the place-value challenge: 6 hundred blocks, 3 ten rods and 8 one counters representing 638."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "683",
-      "638",
-      "611"
+      "38",
+      "46",
+      "56"
     ],
-    "correct": 1,
-    "explanation": "6 hundreds, 3 tens and 8 ones make 638.\nHint: Write the hundreds digit, then tens, then ones.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Each row down adds 10; two rows add 20: 36 + 20 = 56.\nHint: Add 10 for each row.",
     "structuredExplanation": {
-      "summary": "6 hundreds, 3 tens and 8 ones make 638.",
-      "hint": "Write the hundreds digit, then tens, then ones."
+      "summary": "Each row down adds 10; two rows add 20: 36 + 20 = 56.",
+      "hint": "Add 10 for each row."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-010",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "write expanded form",
+    "skill": "compare using number line",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, what is 638 in expanded form?",
-    "audioPrompt": "In the place-value challenge, what is 638 in expanded form?",
-    "visual": "In the place-value challenge: Place-value blocks for 638: 6 hundreds, 3 tens and 8 ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: Place-value blocks for 638: 6 hundreds, 3 tens and 8 ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-010\"></use></svg>",
+    "question": "Which number would appear farthest right: 325, 352 or 253?",
+    "audioPrompt": "Which number would appear farthest right: 325, 352 or 253?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-010",
-      "alt_text": "In the place-value challenge: Place-value blocks for 638: 6 hundreds, 3 tens and 8 ones."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "600 + 80 + 3",
-      "60 + 3 + 8",
-      "600 + 30 + 8"
+      "352",
+      "325",
+      "253"
     ],
-    "correct": 2,
-    "explanation": "The digits show 600, 30 and 8.\nHint: Use the place of each digit to find its value.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "352 is the greatest, so it is farthest right.\nHint: Farther right means greater.",
     "structuredExplanation": {
-      "summary": "The digits show 600, 30 and 8.",
-      "hint": "Use the place of each digit to find its value."
+      "summary": "352 is the greatest, so it is farthest right.",
+      "hint": "Farther right means greater."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-011",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "compare three digit numbers",
+    "skill": "read zero places",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, which number is greater: 638 or 646?",
-    "audioPrompt": "In the place-value challenge, which number is greater: 638 or 646?",
-    "visual": "In the place-value challenge: The numerals 638 and 646 shown in place-value columns.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: The numerals 638 and 646 shown in place-value columns.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-011\"></use></svg>",
+    "question": "Which numeral has 4 hundreds, 0 tens and 7 ones?",
+    "audioPrompt": "Which numeral has 4 hundreds, 0 tens and 7 ones?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-011",
-      "alt_text": "In the place-value challenge: The numerals 638 and 646 shown in place-value columns."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "646",
-      "638",
-      "They are equal"
+      "470",
+      "407",
+      "47"
     ],
-    "correct": 0,
-    "explanation": "Both have 6 hundreds. 646 has more tens, so it is greater.\nHint: Compare hundreds first, then tens, then ones.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "A zero holds the tens place in 407.\nHint: Write all three places.",
     "structuredExplanation": {
-      "summary": "Both have 6 hundreds. 646 has more tens, so it is greater.",
-      "hint": "Compare hundreds first, then tens, then ones."
+      "summary": "A zero holds the tens place in 407.",
+      "hint": "Write all three places."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-012",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "locate number on number line",
+    "skill": "reason about range",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, which number belongs halfway between 600 and 700?",
-    "audioPrompt": "In the place-value challenge, which number belongs halfway between 600 and 700?",
-    "visual": "In the place-value challenge: Number line from 600 to 700 with a midpoint marker.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: Number line from 600 to 700 with a midpoint marker.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-012\"></use></svg>",
+    "question": "A number is between 680 and 700 and has 9 ones. What is it?",
+    "audioPrompt": "A number is between 680 and 700 and has 9 ones. What is it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-012",
-      "alt_text": "In the place-value challenge: Number line from 600 to 700 with a midpoint marker."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "605",
-      "650",
-      "690"
+      "679",
+      "699",
+      "689"
     ],
-    "correct": 1,
-    "explanation": "650 is 50 more than 600 and 50 less than 700.\nHint: Half of 100 is 50.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "689 is above 680, below 700 and ends in 9.\nHint: Check both bounds and the ones clue.",
     "structuredExplanation": {
-      "summary": "650 is 50 more than 600 and 50 less than 700.",
-      "hint": "Half of 100 is 50."
+      "summary": "689 is above 680, below 700 and ends in 9.",
+      "hint": "Check both bounds and the ones clue."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-013",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "order three digit numbers",
+    "skill": "descending order",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, put these numbers from smallest to largest: 638, 668, 538.",
-    "audioPrompt": "In the place-value challenge, put these numbers from smallest to largest: 638, 668, 538.",
-    "visual": "In the place-value challenge: Cards labelled 638, 668, 538 ready to be ordered.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: Cards labelled 638, 668, 538 ready to be ordered.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-013\"></use></svg>",
+    "question": "Which list is ordered greatest to least?",
+    "audioPrompt": "Which list is ordered greatest to least?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-013",
-      "alt_text": "In the place-value challenge: Cards labelled 638, 668, 538 ready to be ordered."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "668, 638, 538",
-      "638, 538, 668",
-      "538, 638, 668"
+      "845, 805, 584, 548",
+      "548, 584, 805, 845",
+      "845, 584, 805, 548"
     ],
-    "correct": 2,
-    "explanation": "Compare the hundreds first. The order is 538, 638, 668.\nHint: Find the number with the fewest hundreds first.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "The 800s come first, then the 500s; tens order each pair.\nHint: Compare hundreds, then tens.",
     "structuredExplanation": {
-      "summary": "Compare the hundreds first. The order is 538, 638, 668.",
-      "hint": "Find the number with the fewest hundreds first."
+      "summary": "The 800s come first, then the 500s; tens order each pair.",
+      "hint": "Compare hundreds, then tens."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-014",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "find ten more",
+    "skill": "number line scale",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, what is 10 more than 638?",
-    "audioPrompt": "In the place-value challenge, what is 10 more than 638?",
-    "visual": "In the place-value challenge: Number line showing a jump of 10 from 638 to a missing number.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: Number line showing a jump of 10 from 638 to a missing number.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-014\"></use></svg>",
+    "question": "From 100 to 700 there are 3 equal jumps. What are the intermediate labels?",
+    "audioPrompt": "From 100 to 700 there are 3 equal jumps. What are the intermediate labels?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-014",
-      "alt_text": "In the place-value challenge: Number line showing a jump of 10 from 638 to a missing number."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "648",
-      "639",
-      "738"
+      "200 and 400",
+      "300 and 500",
+      "400 and 600"
     ],
-    "correct": 0,
-    "explanation": "Adding 10 increases the tens place by 1: 638 becomes 648.\nHint: Keep the hundreds and ones the same.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The total change is 600, so each of 3 jumps is 200: 100, 300, 500, 700.\nHint: Divide the total change by the jump count.",
     "structuredExplanation": {
-      "summary": "Adding 10 increases the tens place by 1: 638 becomes 648.",
-      "hint": "Keep the hundreds and ones the same."
+      "summary": "The total change is 600, so each of 3 jumps is 200: 100, 300, 500, 700.",
+      "hint": "Divide the total change by the jump count."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +438,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-015",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "interpret zero digit",
+    "skill": "justify comparison",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, what does the 0 mean in 608?",
-    "audioPrompt": "In the place-value challenge, what does the 0 mean in 608?",
-    "visual": "In the place-value challenge: 6 hundred blocks, no ten rods and 8 ones for 608.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: 6 hundred blocks, no ten rods and 8 ones for 608.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-015\"></use></svg>",
+    "question": "A student says 620 is greater than 602 because 2 is greater than 0. What is the correct explanation?",
+    "audioPrompt": "A student says 620 is greater than 602 because 2 is greater than 0. What is the correct explanation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-015",
-      "alt_text": "In the place-value challenge: 6 hundred blocks, no ten rods and 8 ones for 608."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "There are no hundreds",
-      "There are no tens",
-      "There are no ones"
+      "The student is wrong; 602 is greater",
+      "They are equal because both have 6 hundreds",
+      "620 is greater because it has 2 tens while 602 has 0 tens"
     ],
-    "correct": 1,
-    "explanation": "The 0 is in the tens place, so the number has no tens.\nHint: Read the place-value columns: hundreds, tens, ones.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "After equal hundreds, compare tens: 2 tens is greater than 0 tens.\nHint: Compare digits only when they are in the same place.",
     "structuredExplanation": {
-      "summary": "The 0 is in the tens place, so the number has no tens.",
-      "hint": "Read the place-value columns: hundreds, tens, ones."
+      "summary": "After equal hundreds, compare tens: 2 tens is greater than 0 tens.",
+      "hint": "Compare digits only when they are in the same place."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +469,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-016",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "read three digit number",
+    "skill": "multiple representations",
     "printable": true,
     "type": "single",
-    "question": "In the place-value challenge, which numeral matches “6 hundred and 8”?",
-    "audioPrompt": "In the place-value challenge, which numeral matches “6 hundred and 8”?",
-    "visual": "In the place-value challenge: 6 hundreds, zero tens and 8 ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the place-value challenge: 6 hundreds, zero tens and 8 ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-016\"></use></svg>",
+    "question": "Which representation does not show 386?",
+    "audioPrompt": "Which representation does not show 386?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-016",
-      "alt_text": "In the place-value challenge: 6 hundreds, zero tens and 8 ones."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "680",
-      "68",
-      "608"
+      "3 hundreds, 6 tens and 8 ones",
+      "three hundred and eighty-six",
+      "300 + 80 + 6"
     ],
-    "correct": 2,
-    "explanation": "With no tens, a zero keeps the tens place: 608.\nHint: Leave a zero in the tens column.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "3 hundreds, 6 tens and 8 ones is 368, not 386.\nHint: Translate each representation into a numeral.",
     "structuredExplanation": {
-      "summary": "With no tens, a zero keeps the tens place: 608.",
-      "hint": "Leave a zero in the tens column."
+      "summary": "3 hundreds, 6 tens and 8 ones is 368, not 386.",
+      "hint": "Translate each representation into a numeral."
     },
     "qualitySchema": "production-v1"
   }

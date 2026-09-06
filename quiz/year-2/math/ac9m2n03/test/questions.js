@@ -4,28 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-001",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "recognise one half",
+    "skill": "equal parts",
     "printable": true,
     "type": "single",
-    "question": "With a cake, which picture shows one half of the cake?",
-    "audioPrompt": "With a cake, which picture shows one half of the cake?",
-    "visual": "With a cake: One cake divided into 2 equal parts with one part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: One cake divided into 2 equal parts with one part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-001\"></use></svg>",
+    "question": "Which statement is necessary before pieces can be called halves, quarters or eighths?",
+    "audioPrompt": "Which statement is necessary before pieces can be called halves, quarters or eighths?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-001",
-      "alt_text": "With a cake: One cake divided into 2 equal parts with one part shaded."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1 of 2 unequal parts shaded",
-      "1 of 2 equal parts shaded",
-      "1 of 4 equal parts shaded"
+      "The pieces are equal in size",
+      "The pieces are the same colour",
+      "The whole is a rectangle"
     ],
-    "correct": 1,
-    "explanation": "One half is one of 2 equal parts of the whole cake.\nHint: Check that there are exactly 2 equal parts.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Fractional parts must be equal parts of one whole.\nHint: Focus on size, not appearance.",
     "structuredExplanation": {
-      "summary": "One half is one of 2 equal parts of the whole cake.",
-      "hint": "Check that there are exactly 2 equal parts."
+      "summary": "Fractional parts must be equal parts of one whole.",
+      "hint": "Focus on size, not appearance."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-002",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "recognise one quarter",
+    "skill": "identify half",
     "printable": true,
     "type": "single",
-    "question": "With a cake, a whole cake is split into 4 equal parts. What is each part?",
-    "audioPrompt": "With a cake, a whole cake is split into 4 equal parts. What is each part?",
-    "visual": "With a cake: One cake divided into 4 equal parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: One cake divided into 4 equal parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-002\"></use></svg>",
+    "question": "A paper strip has 2 equal sections. One section is what fraction?",
+    "audioPrompt": "A paper strip has 2 equal sections. One section is what fraction?",
+    "visual": "A paper strip has 2 equal sections. One section is what fraction?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A paper strip has 2 equal sections. One section is what fraction?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-002",
-      "alt_text": "With a cake: One cake divided into 4 equal parts."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-001",
+      "alt_text": "A paper strip has 2 equal sections. One section is what fraction?"
     },
     "answers": [
-      "One half",
-      "One eighth",
-      "One quarter"
+      "one-quarter",
+      "one-half",
+      "one-eighth"
     ],
-    "correct": 2,
-    "explanation": "One of 4 equal parts is called one quarter.\nHint: Use the number of equal parts to name the fraction.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "One of 2 equal sections is one-half.\nHint: Use the total equal-part count.",
     "structuredExplanation": {
-      "summary": "One of 4 equal parts is called one quarter.",
-      "hint": "Use the number of equal parts to name the fraction."
+      "summary": "One of 2 equal sections is one-half.",
+      "hint": "Use the total equal-part count."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +67,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-003",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "connect halves and quarters",
+    "skill": "make halves",
     "printable": true,
     "type": "single",
-    "question": "With a cake, how can you make quarters from halves of the cake?",
-    "audioPrompt": "With a cake, how can you make quarters from halves of the cake?",
-    "visual": "With a cake: One cake first halved, then each half split again to make quarters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: One cake first halved, then each half split again to make quarters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-003\"></use></svg>",
+    "question": "Which action fails to make halves?",
+    "audioPrompt": "Which action fails to make halves?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-003",
-      "alt_text": "With a cake: One cake first halved, then each half split again to make quarters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Halve each half again",
-      "Join the two halves",
-      "Make the halves different sizes"
+      "Folding a square exactly in two",
+      "Sharing 10 counters into two groups of 5",
+      "Cutting a strip into two unequal lengths"
     ],
-    "correct": 0,
-    "explanation": "Halving each half makes 4 equal quarters.\nHint: Start with 2 parts, then split both parts equally.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Two unequal pieces are not halves.\nHint: Halves must have equal amounts.",
     "structuredExplanation": {
-      "summary": "Halving each half makes 4 equal quarters.",
-      "hint": "Start with 2 parts, then split both parts equally."
+      "summary": "Two unequal pieces are not halves.",
+      "hint": "Halves must have equal amounts."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +98,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-004",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "connect quarters and eighths",
+    "skill": "identify quarter",
     "printable": true,
     "type": "single",
-    "question": "With a cake, how can you make eighths from quarters of the cake?",
-    "audioPrompt": "With a cake, how can you make eighths from quarters of the cake?",
-    "visual": "With a cake: One cake divided into 8 equal pieces after every quarter is halved.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: One cake divided into 8 equal pieces after every quarter is halved.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-004\"></use></svg>",
+    "question": "One piece from 4 equal pieces is:",
+    "audioPrompt": "One piece from 4 equal pieces is:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-004",
-      "alt_text": "With a cake: One cake divided into 8 equal pieces after every quarter is halved."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Join two quarters",
-      "Halve each quarter",
-      "Remove one quarter"
+      "one-quarter",
+      "one-eighth",
+      "one-half"
     ],
-    "correct": 1,
-    "explanation": "Halving each of 4 quarters makes 8 equal eighths.\nHint: Doubling the number of equal parts makes smaller pieces.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "One of 4 equal parts is one-quarter.\nHint: Four equal parts are quarters.",
     "structuredExplanation": {
-      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
-      "hint": "Doubling the number of equal parts makes smaller pieces."
+      "summary": "One of 4 equal parts is one-quarter.",
+      "hint": "Four equal parts are quarters."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +129,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-005",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "compare half and eighth",
+    "skill": "identify eighth",
     "printable": true,
     "type": "single",
-    "question": "With a cake, which piece is larger when the whole cake is the same size?",
-    "audioPrompt": "With a cake, which piece is larger when the whole cake is the same size?",
-    "visual": "With a cake: Same-size wholes divided into halves and eighths.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: Same-size wholes divided into halves and eighths.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-005\"></use></svg>",
+    "question": "One part of a shape is one-eighth. How many equal parts form the whole?",
+    "audioPrompt": "One part of a shape is one-eighth. How many equal parts form the whole?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-005",
-      "alt_text": "With a cake: Same-size wholes divided into halves and eighths."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One eighth",
-      "They are the same size",
-      "One half"
+      "4",
+      "8",
+      "2"
     ],
-    "correct": 2,
-    "explanation": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.\nHint: Fewer equal parts means each part is larger.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The denominator 8 means 8 equal parts in the whole.\nHint: Use the fraction name.",
     "structuredExplanation": {
-      "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
-      "hint": "Fewer equal parts means each part is larger."
+      "summary": "The denominator 8 means 8 equal parts in the whole.",
+      "hint": "Use the fraction name."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +160,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-006",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "identify unequal fraction parts",
+    "skill": "repeated halving",
     "printable": true,
     "type": "single",
-    "question": "With a cake, four pieces of the cake are different sizes. Can they be called quarters?",
-    "audioPrompt": "With a cake, four pieces of the cake are different sizes. Can they be called quarters?",
-    "visual": "With a cake: One cake divided into four visibly unequal pieces.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: One cake divided into four visibly unequal pieces.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-006\"></use></svg>",
+    "question": "A whole is halved three times, with every piece halved each time. How many equal pieces result?",
+    "audioPrompt": "A whole is halved three times, with every piece halved each time. How many equal pieces result?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-006",
-      "alt_text": "With a cake: One cake divided into four visibly unequal pieces."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "No, quarters must be equal",
-      "Yes, because there are 4 pieces",
-      "Yes, if one piece is very large"
+      "6",
+      "4",
+      "8"
     ],
-    "correct": 0,
-    "explanation": "Four pieces are quarters only when all 4 parts are equal.\nHint: Counting pieces is not enough; compare their sizes.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "The numbers of parts are 1 → 2 → 4 → 8.\nHint: Double the parts at each halving.",
     "structuredExplanation": {
-      "summary": "Four pieces are quarters only when all 4 parts are equal.",
-      "hint": "Counting pieces is not enough; compare their sizes."
+      "summary": "The numbers of parts are 1 → 2 → 4 → 8.",
+      "hint": "Double the parts at each halving."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +191,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-007",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "equate half and two quarters",
+    "skill": "connect half quarters",
     "printable": true,
     "type": "single",
-    "question": "With a cake, how many quarters have the same amount as one half?",
-    "audioPrompt": "With a cake, how many quarters have the same amount as one half?",
-    "visual": "With a cake: A whole divided into 4 equal parts with 2 shaded, showing one half.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: A whole divided into 4 equal parts with 2 shaded, showing one half.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-007\"></use></svg>",
+    "question": "Which statement is true for the same whole?",
+    "audioPrompt": "Which statement is true for the same whole?",
+    "visual": "Which statement is true for the same whole?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is true for the same whole?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-007",
-      "alt_text": "With a cake: A whole divided into 4 equal parts with 2 shaded, showing one half."
+      "alt_text": "Which statement is true for the same whole?"
     },
     "answers": [
-      "1 quarter",
-      "2 quarters",
-      "4 quarters"
+      "one-half = two-quarters",
+      "one-half = one-quarter",
+      "one-half = four-quarters"
     ],
-    "correct": 1,
-    "explanation": "Two quarters join to make one half of the same whole.\nHint: Look at 4 equal parts and shade 2 of them.",
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Two of 4 equal quarters cover half the whole.\nHint: Picture four equal parts and shade two.",
     "structuredExplanation": {
-      "summary": "Two quarters join to make one half of the same whole.",
-      "hint": "Look at 4 equal parts and shade 2 of them."
+      "summary": "Two of 4 equal quarters cover half the whole.",
+      "hint": "Picture four equal parts and shade two."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +223,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-008",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "equate quarter and two eighths",
+    "skill": "connect quarter eighths",
     "printable": true,
     "type": "single",
-    "question": "With a cake, how many eighths have the same amount as one quarter?",
-    "audioPrompt": "With a cake, how many eighths have the same amount as one quarter?",
-    "visual": "With a cake: A whole divided into 8 equal parts with 2 shaded, showing one quarter.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: A whole divided into 8 equal parts with 2 shaded, showing one quarter.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-008\"></use></svg>",
+    "question": "Complete the relationship: one-quarter = ___.",
+    "audioPrompt": "Complete the relationship: one-quarter = ___.",
+    "visual": "Complete the relationship: one-quarter = ___.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete the relationship: one-quarter = ___.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-008",
-      "alt_text": "With a cake: A whole divided into 8 equal parts with 2 shaded, showing one quarter."
+      "alt_text": "Complete the relationship: one-quarter = ___."
     },
     "answers": [
-      "1 eighth",
-      "4 eighths",
-      "2 eighths"
+      "four-eighths",
+      "two-eighths",
+      "one-eighth"
     ],
-    "correct": 2,
-    "explanation": "Two eighths join to make one quarter of the same whole.\nHint: Each quarter is split into 2 eighths.",
+    "difficulty": 1,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Each quarter splits into 2 eighths.\nHint: Halve the quarter.",
     "structuredExplanation": {
-      "summary": "Two eighths join to make one quarter of the same whole.",
-      "hint": "Each quarter is split into 2 eighths."
+      "summary": "Each quarter splits into 2 eighths.",
+      "hint": "Halve the quarter."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +255,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-009",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "recognise one half",
+    "skill": "compare unit fractions",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, which picture shows one half of the pancake?",
-    "audioPrompt": "With a pancake, which picture shows one half of the pancake?",
-    "visual": "With a pancake: One pancake divided into 2 equal parts with one part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: One pancake divided into 2 equal parts with one part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-009\"></use></svg>",
+    "question": "For the same-sized whole, order the pieces largest to smallest.",
+    "audioPrompt": "For the same-sized whole, order the pieces largest to smallest.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-009",
-      "alt_text": "With a pancake: One pancake divided into 2 equal parts with one part shaded."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1 of 2 equal parts shaded",
-      "1 of 2 unequal parts shaded",
-      "1 of 4 equal parts shaded"
+      "one-eighth, one-quarter, one-half",
+      "one-quarter, one-half, one-eighth",
+      "one-half, one-quarter, one-eighth"
     ],
-    "correct": 0,
-    "explanation": "One half is one of 2 equal parts of the whole pancake.\nHint: Check that there are exactly 2 equal parts.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Splitting into more equal parts makes smaller pieces.\nHint: Fewer equal parts means a larger unit fraction.",
     "structuredExplanation": {
-      "summary": "One half is one of 2 equal parts of the whole pancake.",
-      "hint": "Check that there are exactly 2 equal parts."
+      "summary": "Splitting into more equal parts makes smaller pieces.",
+      "hint": "Fewer equal parts means a larger unit fraction."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +286,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-010",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "recognise one quarter",
+    "skill": "judge partition",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, a whole pancake is split into 4 equal parts. What is each part?",
-    "audioPrompt": "With a pancake, a whole pancake is split into 4 equal parts. What is each part?",
-    "visual": "With a pancake: One pancake divided into 4 equal parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: One pancake divided into 4 equal parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-010\"></use></svg>",
+    "question": "A cake is cut into 8 slices: 6 equal thin slices and 2 larger slices. Are the slices eighths?",
+    "audioPrompt": "A cake is cut into 8 slices: 6 equal thin slices and 2 larger slices. Are the slices eighths?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-010",
-      "alt_text": "With a pancake: One pancake divided into 4 equal parts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One half",
-      "One quarter",
-      "One eighth"
+      "No, because all 8 slices are not equal",
+      "Yes, because there are 8 slices",
+      "Only the thin slices are eighths"
     ],
-    "correct": 1,
-    "explanation": "One of 4 equal parts is called one quarter.\nHint: Use the number of equal parts to name the fraction.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Every part must be equal for the pieces to be eighths.\nHint: Count and compare sizes.",
     "structuredExplanation": {
-      "summary": "One of 4 equal parts is called one quarter.",
-      "hint": "Use the number of equal parts to name the fraction."
+      "summary": "Every part must be equal for the pieces to be eighths.",
+      "hint": "Count and compare sizes."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +317,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-011",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "connect halves and quarters",
+    "skill": "different ways same fraction",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, how can you make quarters from halves of the pancake?",
-    "audioPrompt": "With a pancake, how can you make quarters from halves of the pancake?",
-    "visual": "With a pancake: One pancake first halved, then each half split again to make quarters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: One pancake first halved, then each half split again to make quarters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-011\"></use></svg>",
+    "question": "Can a diagonal cut and a vertical cut both make halves of equal squares?",
+    "audioPrompt": "Can a diagonal cut and a vertical cut both make halves of equal squares?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-011",
-      "alt_text": "With a pancake: One pancake first halved, then each half split again to make quarters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Join the two halves",
-      "Make the halves different sizes",
-      "Halve each half again"
+      "No, halves must be vertical",
+      "Yes, if each cut makes 2 equal areas",
+      "Only the diagonal cut makes halves"
     ],
-    "correct": 2,
-    "explanation": "Halving each half makes 4 equal quarters.\nHint: Start with 2 parts, then split both parts equally.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Halves can have different shapes or orientations as long as the two areas are equal.\nHint: The equality of the parts matters.",
     "structuredExplanation": {
-      "summary": "Halving each half makes 4 equal quarters.",
-      "hint": "Start with 2 parts, then split both parts equally."
+      "summary": "Halves can have different shapes or orientations as long as the two areas are equal.",
+      "hint": "The equality of the parts matters."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +348,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-012",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "connect quarters and eighths",
+    "skill": "reason whole size",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, how can you make eighths from quarters of the pancake?",
-    "audioPrompt": "With a pancake, how can you make eighths from quarters of the pancake?",
-    "visual": "With a pancake: One pancake divided into 8 equal pieces after every quarter is halved.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: One pancake divided into 8 equal pieces after every quarter is halved.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-012\"></use></svg>",
+    "question": "A quarter of a large pizza looks bigger than half of a small pizza. Is that possible?",
+    "audioPrompt": "A quarter of a large pizza looks bigger than half of a small pizza. Is that possible?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-012",
-      "alt_text": "With a pancake: One pancake divided into 8 equal pieces after every quarter is halved."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Halve each quarter",
-      "Join two quarters",
-      "Remove one quarter"
+      "No, a half is always the largest piece",
+      "No, quarters and halves can never be compared",
+      "Yes, because the wholes are different sizes"
     ],
-    "correct": 0,
-    "explanation": "Halving each of 4 quarters makes 8 equal eighths.\nHint: Doubling the number of equal parts makes smaller pieces.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "A fraction describes a part relative to its own whole; a larger whole can give a larger quarter.\nHint: Compare the wholes before the fractions.",
     "structuredExplanation": {
-      "summary": "Halving each of 4 quarters makes 8 equal eighths.",
-      "hint": "Doubling the number of equal parts makes smaller pieces."
+      "summary": "A fraction describes a part relative to its own whole; a larger whole can give a larger quarter.",
+      "hint": "Compare the wholes before the fractions."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +379,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-013",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "compare half and eighth",
+    "skill": "find missing step",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, which piece is larger when the whole pancake is the same size?",
-    "audioPrompt": "With a pancake, which piece is larger when the whole pancake is the same size?",
-    "visual": "With a pancake: Same-size wholes divided into halves and eighths.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: Same-size wholes divided into halves and eighths.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-013\"></use></svg>",
+    "question": "After making halves, then quarters, what operation makes eighths?",
+    "audioPrompt": "After making halves, then quarters, what operation makes eighths?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-013",
-      "alt_text": "With a pancake: Same-size wholes divided into halves and eighths."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One eighth",
-      "One half",
-      "They are the same size"
+      "Halve each quarter",
+      "Join pairs of quarters",
+      "Halve only one quarter"
     ],
-    "correct": 1,
-    "explanation": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.\nHint: Fewer equal parts means each part is larger.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "Each of the 4 quarters must split into 2 equal parts to make 8 eighths.\nHint: Apply the halving to every part.",
     "structuredExplanation": {
-      "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
-      "hint": "Fewer equal parts means each part is larger."
+      "summary": "Each of the 4 quarters must split into 2 equal parts to make 8 eighths.",
+      "hint": "Apply the halving to every part."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +410,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-014",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "identify unequal fraction parts",
+    "skill": "combine eighths",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, four pieces of the pancake are different sizes. Can they be called quarters?",
-    "audioPrompt": "With a pancake, four pieces of the pancake are different sizes. Can they be called quarters?",
-    "visual": "With a pancake: One pancake divided into four visibly unequal pieces.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: One pancake divided into four visibly unequal pieces.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-014\"></use></svg>",
+    "question": "Which amount equals one-half of the same whole?",
+    "audioPrompt": "Which amount equals one-half of the same whole?",
+    "visual": "Which amount equals one-half of the same whole?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which amount equals one-half of the same whole?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-014",
-      "alt_text": "With a pancake: One pancake divided into four visibly unequal pieces."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-013",
+      "alt_text": "Which amount equals one-half of the same whole?"
     },
     "answers": [
-      "Yes, because there are 4 pieces",
-      "Yes, if one piece is very large",
-      "No, quarters must be equal"
+      "two-eighths",
+      "four-eighths",
+      "six-eighths"
     ],
-    "correct": 2,
-    "explanation": "Four pieces are quarters only when all 4 parts are equal.\nHint: Counting pieces is not enough; compare their sizes.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Half of 8 equal parts is 4 parts.\nHint: Divide 8 parts into two equal groups.",
     "structuredExplanation": {
-      "summary": "Four pieces are quarters only when all 4 parts are equal.",
-      "hint": "Counting pieces is not enough; compare their sizes."
+      "summary": "Half of 8 equal parts is 4 parts.",
+      "hint": "Divide 8 parts into two equal groups."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +442,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-015",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "equate half and two quarters",
+    "skill": "diagnose fraction error",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, how many quarters have the same amount as one half?",
-    "audioPrompt": "With a pancake, how many quarters have the same amount as one half?",
-    "visual": "With a pancake: A whole divided into 4 equal parts with 2 shaded, showing one half.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: A whole divided into 4 equal parts with 2 shaded, showing one half.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-015\"></use></svg>",
+    "question": "A diagram has 4 equal parts and 1 shaded. A student calls it one-eighth. What should it be called?",
+    "audioPrompt": "A diagram has 4 equal parts and 1 shaded. A student calls it one-eighth. What should it be called?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-015",
-      "alt_text": "With a pancake: A whole divided into 4 equal parts with 2 shaded, showing one half."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "2 quarters",
-      "1 quarter",
-      "4 quarters"
+      "one-half",
+      "four-eighths",
+      "one-quarter"
     ],
-    "correct": 0,
-    "explanation": "Two quarters join to make one half of the same whole.\nHint: Look at 4 equal parts and shade 2 of them.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "One of 4 equal parts is one-quarter.\nHint: Name the fraction from the total equal parts.",
     "structuredExplanation": {
-      "summary": "Two quarters join to make one half of the same whole.",
-      "hint": "Look at 4 equal parts and shade 2 of them."
+      "summary": "One of 4 equal parts is one-quarter.",
+      "hint": "Name the fraction from the total equal parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +473,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2n03-t-016",
     "curriculumCode": "AC9M2N03",
     "bank": "test",
-    "skill": "equate quarter and two eighths",
+    "skill": "reason about sequence",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, how many eighths have the same amount as one quarter?",
-    "audioPrompt": "With a pancake, how many eighths have the same amount as one quarter?",
-    "visual": "With a pancake: A whole divided into 8 equal parts with 2 shaded, showing one quarter.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: A whole divided into 8 equal parts with 2 shaded, showing one quarter.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-016\"></use></svg>",
+    "question": "Why do the names change from halves to quarters to eighths during repeated halving?",
+    "audioPrompt": "Why do the names change from halves to quarters to eighths during repeated halving?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n03.svg#ac9m2n03-t-016",
-      "alt_text": "With a pancake: A whole divided into 8 equal parts with 2 shaded, showing one quarter."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1 eighth",
-      "2 eighths",
-      "4 eighths"
+      "The number of equal parts doubles each time",
+      "The whole becomes larger each time",
+      "The pieces stop being equal"
     ],
-    "correct": 1,
-    "explanation": "Two eighths join to make one quarter of the same whole.\nHint: Each quarter is split into 2 eighths.",
+    "difficulty": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "Repeated halving doubles 2 to 4 to 8 equal parts.\nHint: Track the number of equal parts.",
     "structuredExplanation": {
-      "summary": "Two eighths join to make one quarter of the same whole.",
-      "hint": "Each quarter is split into 2 eighths."
+      "summary": "Repeated halving doubles 2 to 4 to 8 equal parts.",
+      "hint": "Track the number of equal parts."
     },
     "qualitySchema": "production-v1"
   }

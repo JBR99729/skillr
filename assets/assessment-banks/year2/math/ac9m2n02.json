@@ -5,36 +5,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "partition_standard_form",
+    "skill": "standard_partition",
+    "question": "Which is the standard partition of 472?",
+    "audio_prompt": "Which is the standard partition of 472?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-001",
-      "alt_text": "At the trading station: Base-ten model of 235 with 2 hundreds, 3 tens and 5 ones."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the trading station, which partition equals 235?",
-    "audio_prompt": "At the trading station, which partition equals 235?",
     "answers": [
       {
-        "text": "200 + 30 + 5",
+        "text": "4 hundreds + 7 tens + 2 ones",
         "is_correct": true
       },
       {
-        "text": "200 + 50 + 3",
+        "text": "4 hundreds + 2 tens + 7 ones",
         "is_correct": false
       },
       {
-        "text": "200 + 3 + 5",
+        "text": "47 hundreds + 2 ones",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "235 has 2 hundreds, 3 tens and 5 ones.",
-      "hint": "Read each digit by its place."
+      "summary": "The digits in 472 show 4 hundreds, 7 tens and 2 ones.",
+      "hint": "Match each digit to its place."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-002",
@@ -42,36 +47,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "regroup_ten_as_ones",
+    "skill": "value_of_digit",
+    "question": "What is the value of the 6 in 364?",
+    "audio_prompt": "What is the value of the 6 in 364?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-002",
-      "alt_text": "At the trading station: One ten rod beside 10 one counters of equal total value."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the trading station, trade 1 ten for ones. How many ones is that?",
-    "audio_prompt": "At the trading station, trade 1 ten for ones. How many ones is that?",
     "answers": [
       {
-        "text": "1 one",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "10 ones",
+        "text": "60",
         "is_correct": true
       },
       {
-        "text": "100 ones",
+        "text": "600",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One ten has the same value as 10 ones.",
-      "hint": "Count the unit squares in a ten rod."
+      "summary": "The 6 is in the tens place, so its value is 60.",
+      "hint": "A digit's value depends on its place."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-003",
@@ -79,36 +89,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "rename_hundred_as_tens",
+    "skill": "identify_place",
+    "question": "Which digit is in the hundreds place in 591?",
+    "audio_prompt": "Which digit is in the hundreds place in 591?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-003",
-      "alt_text": "At the trading station: 235 represented after one hundred is traded for 10 tens."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the trading station, which is another way to make 235?",
-    "audio_prompt": "At the trading station, which is another way to make 235?",
     "answers": [
       {
-        "text": "1 hundreds + 4 tens + 5 ones",
+        "text": "9",
         "is_correct": false
       },
       {
-        "text": "2 hundreds + 3 tens + 15 ones",
+        "text": "1",
         "is_correct": false
       },
       {
-        "text": "1 hundreds + 13 tens + 5 ones",
+        "text": "5",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Regrouping 1 hundred as 10 tens keeps the total at 235.",
-      "hint": "Take one hundred away and add ten tens."
+      "summary": "The hundreds place is the third place from the right, containing 5.",
+      "hint": "Read ones, tens, hundreds from the right."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-004",
@@ -116,36 +131,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "explain_zero_placeholder",
+    "skill": "regroup_ten_as_ones",
+    "question": "Complete the regrouping: 4 tens + 17 ones = ___ tens + 7 ones.",
+    "audio_prompt": "Complete the regrouping: 4 tens + 17 ones = ___ tens + 7 ones.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-004",
-      "alt_text": "At the trading station: 2 hundred blocks, no tens and 5 ones representing 205."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the trading station, what does the 0 mean in 205?",
-    "audio_prompt": "At the trading station, what does the 0 mean in 205?",
     "answers": [
       {
-        "text": "0 tens",
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "0 hundreds",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "0 ones",
+        "text": "6",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The zero sits in the tens place, so 205 has 0 tens.",
-      "hint": "Name the columns from left to right: hundreds, tens, ones."
+      "summary": "17 ones regroup as 1 ten and 7 ones; 4 tens + 1 ten = 5 tens.",
+      "hint": "Trade 10 ones for 1 ten."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-005",
@@ -153,36 +173,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "verify_nonstandard_partition",
+    "skill": "nonstandard_partition",
+    "question": "Which is another way to make 238?",
+    "audio_prompt": "Which is another way to make 238?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-005",
-      "alt_text": "At the trading station: A regrouped model with 2 hundreds, 2 tens and 15 ones."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the trading station, is 235 the same value as 235?",
-    "audio_prompt": "At the trading station, is 235 the same value as 235?",
     "answers": [
       {
-        "text": "No, it is 10 more",
+        "text": "2 hundreds + 3 tens + 18 ones",
         "is_correct": false
       },
       {
-        "text": "Yes",
+        "text": "1 hundred + 13 tens + 8 ones",
         "is_correct": true
       },
       {
-        "text": "No, it is 10 less",
+        "text": "23 hundreds + 8 ones",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One ten was traded for 10 ones, so the total value stays 235.",
-      "hint": "Compare the parts after regrouping, not just the number of pieces."
+      "summary": "1 hundred + 13 tens + 8 ones is 100 + 130 + 8 = 238.",
+      "hint": "Find the total value of each grouping."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-006",
@@ -190,36 +215,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "identify_tens_in_number",
+    "skill": "rename_hundred_as_tens",
+    "question": "3 hundreds are equal to how many tens?",
+    "audio_prompt": "3 hundreds are equal to how many tens?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-006",
-      "alt_text": "At the trading station: 3 ten rods and 5 one counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the trading station, how many tens are in 35 if all the ones stay separate?",
-    "audio_prompt": "At the trading station, how many tens are in 35 if all the ones stay separate?",
     "answers": [
       {
-        "text": "4",
+        "text": "3 tens",
         "is_correct": false
       },
       {
-        "text": "5",
+        "text": "300 tens",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "30 tens",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "35 has 3 full tens and 5 ones.",
-      "hint": "Group the amount into tens before counting leftover ones."
+      "summary": "Each hundred is 10 tens, so 3 hundreds are 30 tens.",
+      "hint": "Use 1 hundred = 10 tens."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-007",
@@ -227,36 +257,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "identify_invalid_regrouping",
+    "skill": "rename_hundred_as_ones",
+    "question": "How many ones have the same value as 5 hundreds?",
+    "audio_prompt": "How many ones have the same value as 5 hundreds?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-007",
-      "alt_text": "At the trading station: Three place-value regroupings for 235, including one that loses a ten."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the trading station, which regrouping is not equal to 235?",
-    "audio_prompt": "At the trading station, which regrouping is not equal to 235?",
     "answers": [
       {
-        "text": "2 hundreds + 2 tens + 5 ones",
+        "text": "500",
         "is_correct": true
       },
       {
-        "text": "2 hundreds + 2 tens + 15 ones",
+        "text": "50",
         "is_correct": false
       },
       {
-        "text": "1 hundreds + 13 tens + 5 ones",
+        "text": "5",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
-      "hint": "Every trade must exchange equal value."
+      "summary": "One hundred is 100 ones; five hundreds are 500 ones.",
+      "hint": "Multiply the hundreds count by 100."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-008",
@@ -264,36 +299,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "rename_nonstandard_grouping",
+    "skill": "zero_placeholder",
+    "question": "What does the zero do in 406?",
+    "audio_prompt": "What does the zero do in 406?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-008",
-      "alt_text": "At the trading station: 2 hundreds and 35 ones regrouped to show 235."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the trading station, which number is 2 hundreds and 35 ones?",
-    "audio_prompt": "At the trading station, which number is 2 hundreds and 35 ones?",
     "answers": [
       {
-        "text": "208",
+        "text": "It shows there are no ones",
         "is_correct": false
       },
       {
-        "text": "235",
+        "text": "It shows there are no tens and keeps 4 in the hundreds place",
         "is_correct": true
       },
       {
-        "text": "335",
+        "text": "It makes the number equal to 46",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "35 ones regroup as 3 tens and 5 ones, making 235.",
-      "hint": "Make groups of 10 from the ones."
+      "summary": "The zero records 0 tens and preserves the place of the 4 hundreds.",
+      "hint": "Name the place occupied by zero."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-009",
@@ -301,35 +341,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "partition_standard_form",
+    "skill": "expanded_to_number",
+    "question": "What number is 600 + 20 + 9?",
+    "audio_prompt": "What number is 600 + 20 + 9?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-009",
-      "alt_text": "With base-ten blocks: Base-ten model of 346 with 3 hundreds, 4 tens and 6 ones."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With base-ten blocks, which partition equals 346?",
-    "audio_prompt": "With base-ten blocks, which partition equals 346?",
     "answers": [
       {
-        "text": "300 + 60 + 4",
+        "text": "692",
         "is_correct": false
       },
       {
-        "text": "300 + 4 + 6",
+        "text": "609",
         "is_correct": false
       },
       {
-        "text": "300 + 40 + 6",
+        "text": "629",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "346 has 3 hundreds, 4 tens and 6 ones.",
-      "hint": "Read each digit by its place."
+      "summary": "600 + 20 + 9 combines to 629.",
+      "hint": "Write the hundreds, tens and ones digits."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-010",
@@ -337,35 +383,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "regroup_ten_as_ones",
+    "skill": "number_to_expanded",
+    "question": "Which expanded form equals 704?",
+    "audio_prompt": "Which expanded form equals 704?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-010",
-      "alt_text": "With base-ten blocks: One ten rod beside 10 one counters of equal total value."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With base-ten blocks, trade 1 ten for ones. How many ones is that?",
-    "audio_prompt": "With base-ten blocks, trade 1 ten for ones. How many ones is that?",
     "answers": [
       {
-        "text": "10 ones",
+        "text": "700 + 4",
         "is_correct": true
       },
       {
-        "text": "1 one",
+        "text": "70 + 4",
         "is_correct": false
       },
       {
-        "text": "100 ones",
+        "text": "700 + 40",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "One ten has the same value as 10 ones.",
-      "hint": "Count the unit squares in a ten rod."
+      "summary": "704 has 7 hundreds, 0 tens and 4 ones.",
+      "hint": "Do not add tens that the zero excludes."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-011",
@@ -373,35 +425,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "rename_hundred_as_tens",
+    "skill": "regroup_hundreds_tens_ones",
+    "question": "2 hundreds + 14 tens + 3 ones equals which standard grouping?",
+    "audio_prompt": "2 hundreds + 14 tens + 3 ones equals which standard grouping?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-011",
-      "alt_text": "With base-ten blocks: 346 represented after one hundred is traded for 10 tens."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With base-ten blocks, which is another way to make 346?",
-    "audio_prompt": "With base-ten blocks, which is another way to make 346?",
     "answers": [
       {
-        "text": "2 hundreds + 5 tens + 6 ones",
+        "text": "2 hundreds + 4 tens + 3 ones",
         "is_correct": false
       },
       {
-        "text": "2 hundreds + 14 tens + 6 ones",
+        "text": "3 hundreds + 4 tens + 3 ones",
         "is_correct": true
       },
       {
-        "text": "3 hundreds + 4 tens + 16 ones",
+        "text": "4 hundreds + 1 ten + 3 ones",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Regrouping 1 hundred as 10 tens keeps the total at 346.",
-      "hint": "Take one hundred away and add ten tens."
+      "summary": "14 tens regroup as 1 hundred and 4 tens, giving 343.",
+      "hint": "Trade 10 tens for 1 hundred."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-012",
@@ -409,35 +467,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "explain_zero_placeholder",
+    "skill": "find_missing_group",
+    "question": "5 hundreds + ___ tens + 6 ones = 586.",
+    "audio_prompt": "5 hundreds + ___ tens + 6 ones = 586.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-012",
-      "alt_text": "With base-ten blocks: 3 hundred blocks, no tens and 6 ones representing 306."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With base-ten blocks, what does the 0 mean in 306?",
-    "audio_prompt": "With base-ten blocks, what does the 0 mean in 306?",
     "answers": [
       {
-        "text": "0 hundreds",
+        "text": "80",
         "is_correct": false
       },
       {
-        "text": "0 ones",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "0 tens",
+        "text": "8",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The zero sits in the tens place, so 306 has 0 tens.",
-      "hint": "Name the columns from left to right: hundreds, tens, ones."
+      "summary": "586 contains 5 hundreds, 8 tens and 6 ones.",
+      "hint": "Read the tens digit."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-013",
@@ -445,35 +509,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "verify_nonstandard_partition",
+    "skill": "verify_equivalence",
+    "question": "Which grouping has the same value as 451?",
+    "audio_prompt": "Which grouping has the same value as 451?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-013",
-      "alt_text": "With base-ten blocks: A regrouped model with 3 hundreds, 3 tens and 16 ones."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With base-ten blocks, is 346 the same value as 346?",
-    "audio_prompt": "With base-ten blocks, is 346 the same value as 346?",
     "answers": [
       {
-        "text": "Yes",
+        "text": "3 hundreds + 15 tens + 1 one",
         "is_correct": true
       },
       {
-        "text": "No, it is 10 more",
+        "text": "4 hundreds + 5 tens + 11 ones",
         "is_correct": false
       },
       {
-        "text": "No, it is 10 less",
+        "text": "4 hundreds + 15 tens + 1 one",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "One ten was traded for 10 ones, so the total value stays 346.",
-      "hint": "Compare the parts after regrouping, not just the number of pieces."
+      "summary": "300 + 150 + 1 = 451.",
+      "hint": "Calculate the value of every group."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-014",
@@ -481,35 +551,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "identify_tens_in_number",
+    "skill": "identify_non_equivalence",
+    "question": "Which does not equal 320?",
+    "audio_prompt": "Which does not equal 320?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-014",
-      "alt_text": "With base-ten blocks: 4 ten rods and 6 one counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With base-ten blocks, how many tens are in 46 if all the ones stay separate?",
-    "audio_prompt": "With base-ten blocks, how many tens are in 46 if all the ones stay separate?",
     "answers": [
       {
-        "text": "5",
+        "text": "3 hundreds + 2 tens",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "2 hundreds + 2 tens",
         "is_correct": true
       },
       {
-        "text": "6",
+        "text": "32 tens",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "46 has 4 full tens and 6 ones.",
-      "hint": "Group the amount into tens before counting leftover ones."
+      "summary": "2 hundreds + 2 tens is 220, not 320.",
+      "hint": "Convert each choice to a numeral."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-015",
@@ -517,35 +593,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "identify_invalid_regrouping",
+    "skill": "rearrange_partition",
+    "question": "A model for 267 has 2 hundred blocks, 6 ten rods and 7 ones. One hundred block is traded for tens. What remains?",
+    "audio_prompt": "A model for 267 has 2 hundred blocks, 6 ten rods and 7 ones. One hundred block is traded for tens. What remains?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-015",
-      "alt_text": "With base-ten blocks: Three place-value regroupings for 346, including one that loses a ten."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With base-ten blocks, which regrouping is not equal to 346?",
-    "audio_prompt": "With base-ten blocks, which regrouping is not equal to 346?",
     "answers": [
       {
-        "text": "3 hundreds + 3 tens + 16 ones",
+        "text": "2 hundreds, 16 tens, 7 ones",
         "is_correct": false
       },
       {
-        "text": "2 hundreds + 14 tens + 6 ones",
+        "text": "1 hundred, 6 tens, 17 ones",
         "is_correct": false
       },
       {
-        "text": "3 hundreds + 3 tens + 6 ones",
+        "text": "1 hundred, 16 tens, 7 ones",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
-      "hint": "Every trade must exchange equal value."
+      "summary": "Trading 1 hundred adds 10 tens: 1 hundred, 16 tens, 7 ones.",
+      "hint": "Only the traded place changes."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-016",
@@ -553,35 +635,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "rename_nonstandard_grouping",
+    "skill": "reason_from_clues",
+    "question": "I have 4 hundreds. After one ten is traded for ones, I have 2 tens and 15 ones. What number am I?",
+    "audio_prompt": "I have 4 hundreds. After one ten is traded for ones, I have 2 tens and 15 ones. What number am I?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-016",
-      "alt_text": "With base-ten blocks: 3 hundreds and 46 ones regrouped to show 346."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "With base-ten blocks, which number is 3 hundreds and 46 ones?",
-    "audio_prompt": "With base-ten blocks, which number is 3 hundreds and 46 ones?",
     "answers": [
       {
-        "text": "346",
+        "text": "435",
         "is_correct": true
       },
       {
-        "text": "310",
+        "text": "425",
         "is_correct": false
       },
       {
-        "text": "446",
+        "text": "445",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "46 ones regroup as 4 tens and 6 ones, making 346.",
-      "hint": "Make groups of 10 from the ones."
+      "summary": "Before the trade there were 3 tens and 5 ones, so the number is 435.",
+      "hint": "Reverse the trade: 2 tens + 15 ones = 3 tens + 5 ones."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-017",
@@ -589,35 +677,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "partition_standard_form",
+    "skill": "multiple_regroupings",
+    "question": "Which pair shows two equal amounts?",
+    "audio_prompt": "Which pair shows two equal amounts?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-017",
-      "alt_text": "In the place-value game: Base-ten model of 457 with 4 hundreds, 5 tens and 7 ones."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the place-value game, which partition equals 457?",
-    "audio_prompt": "In the place-value game, which partition equals 457?",
     "answers": [
       {
-        "text": "400 + 70 + 5",
+        "text": "6 hundreds + 2 tens; 7 hundreds + 2 tens",
         "is_correct": false
       },
       {
-        "text": "400 + 50 + 7",
+        "text": "6 hundreds + 12 tens; 7 hundreds + 2 tens",
         "is_correct": true
       },
       {
-        "text": "400 + 5 + 7",
+        "text": "5 hundreds + 12 tens; 7 hundreds + 12 tens",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "457 has 4 hundreds, 5 tens and 7 ones.",
-      "hint": "Read each digit by its place."
+      "summary": "600 + 120 and 700 + 20 both equal 720.",
+      "hint": "Find each total before comparing."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-018",
@@ -625,35 +719,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "regroup_ten_as_ones",
+    "skill": "zero_in_different_places",
+    "question": "How are 502 and 520 different?",
+    "audio_prompt": "How are 502 and 520 different?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-018",
-      "alt_text": "In the place-value game: One ten rod beside 10 one counters of equal total value."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the place-value game, trade 1 ten for ones. How many ones is that?",
-    "audio_prompt": "In the place-value game, trade 1 ten for ones. How many ones is that?",
     "answers": [
       {
-        "text": "1 one",
+        "text": "502 has no ones; 520 has no tens",
         "is_correct": false
       },
       {
-        "text": "100 ones",
+        "text": "Both zeroes have the same place value",
         "is_correct": false
       },
       {
-        "text": "10 ones",
+        "text": "502 has no tens; 520 has no ones",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "One ten has the same value as 10 ones.",
-      "hint": "Count the unit squares in a ten rod."
+      "summary": "The zero in 502 is in the tens place; the zero in 520 is in the ones place.",
+      "hint": "Locate the zero from the right."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-019",
@@ -661,35 +761,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "rename_hundred_as_tens",
+    "skill": "correct_regrouping_process",
+    "question": "Which trade keeps the value of 684 unchanged?",
+    "audio_prompt": "Which trade keeps the value of 684 unchanged?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-019",
-      "alt_text": "In the place-value game: 457 represented after one hundred is traded for 10 tens."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the place-value game, which is another way to make 457?",
-    "audio_prompt": "In the place-value game, which is another way to make 457?",
     "answers": [
       {
-        "text": "3 hundreds + 15 tens + 7 ones",
+        "text": "Trade 1 hundred for 10 tens",
         "is_correct": true
       },
       {
-        "text": "3 hundreds + 6 tens + 7 ones",
+        "text": "Trade 1 hundred for 100 tens",
         "is_correct": false
       },
       {
-        "text": "4 hundreds + 5 tens + 17 ones",
+        "text": "Trade 1 ten for 1 one",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Regrouping 1 hundred as 10 tens keeps the total at 457.",
-      "hint": "Take one hundred away and add ten tens."
+      "summary": "One hundred and 10 tens have equal value.",
+      "hint": "A valid trade must exchange equal amounts."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-020",
@@ -697,35 +803,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "explain_zero_placeholder",
+    "skill": "diagnose_regrouping_error",
+    "question": "Mia writes 347 = 2 hundreds + 14 tens + 7 ones. What should be corrected?",
+    "audio_prompt": "Mia writes 347 = 2 hundreds + 14 tens + 7 ones. What should be corrected?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-020",
-      "alt_text": "In the place-value game: 4 hundred blocks, no tens and 7 ones representing 407."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the place-value game, what does the 0 mean in 407?",
-    "audio_prompt": "In the place-value game, what does the 0 mean in 407?",
     "answers": [
       {
-        "text": "0 hundreds",
+        "text": "Use 13 tens instead of 14 tens",
         "is_correct": false
       },
       {
-        "text": "0 tens",
+        "text": "Nothing; both sides equal 347",
         "is_correct": true
       },
       {
-        "text": "0 ones",
+        "text": "Use 3 hundreds instead of 2 hundreds and keep 14 tens",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The zero sits in the tens place, so 407 has 0 tens.",
-      "hint": "Name the columns from left to right: hundreds, tens, ones."
+      "summary": "2 hundreds + 14 tens + 7 ones = 200 + 140 + 7 = 347.",
+      "hint": "Add the values before deciding there is an error."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-021",
@@ -733,35 +845,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "verify_nonstandard_partition",
+    "skill": "partition_with_constraints",
+    "question": "Which partition of 615 uses no hundreds?",
+    "audio_prompt": "Which partition of 615 uses no hundreds?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-021",
-      "alt_text": "In the place-value game: A regrouped model with 4 hundreds, 4 tens and 17 ones."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the place-value game, is 457 the same value as 457?",
-    "audio_prompt": "In the place-value game, is 457 the same value as 457?",
     "answers": [
       {
-        "text": "No, it is 10 more",
+        "text": "6 tens + 15 ones",
         "is_correct": false
       },
       {
-        "text": "No, it is 10 less",
+        "text": "60 tens + 5 ones",
         "is_correct": false
       },
       {
-        "text": "Yes",
+        "text": "61 tens + 5 ones",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "One ten was traded for 10 ones, so the total value stays 457.",
-      "hint": "Compare the parts after regrouping, not just the number of pieces."
+      "summary": "61 tens is 610; plus 5 ones makes 615.",
+      "hint": "Convert hundreds into tens."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-022",
@@ -769,35 +887,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "identify_tens_in_number",
+    "skill": "choose_all_standard_digits",
+    "question": "Regroup 7 hundreds + 3 tens + 26 ones so every place has a digit from 0 to 9.",
+    "audio_prompt": "Regroup 7 hundreds + 3 tens + 26 ones so every place has a digit from 0 to 9.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-022",
-      "alt_text": "In the place-value game: 5 ten rods and 7 one counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the place-value game, how many tens are in 57 if all the ones stay separate?",
-    "audio_prompt": "In the place-value game, how many tens are in 57 if all the ones stay separate?",
     "answers": [
       {
-        "text": "5",
+        "text": "7 hundreds + 5 tens + 6 ones",
         "is_correct": true
       },
       {
-        "text": "6",
+        "text": "7 hundreds + 3 tens + 16 ones",
         "is_correct": false
       },
       {
-        "text": "7",
+        "text": "8 hundreds + 5 tens + 6 ones",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "57 has 5 full tens and 7 ones.",
-      "hint": "Group the amount into tens before counting leftover ones."
+      "summary": "26 ones become 2 tens and 6 ones, so the standard form is 756.",
+      "hint": "Trade groups of 10 ones."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-023",
@@ -805,35 +929,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "identify_invalid_regrouping",
+    "skill": "inverse_rename",
+    "question": "How many hundreds can be made from 900 ones?",
+    "audio_prompt": "How many hundreds can be made from 900 ones?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-023",
-      "alt_text": "In the place-value game: Three place-value regroupings for 457, including one that loses a ten."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the place-value game, which regrouping is not equal to 457?",
-    "audio_prompt": "In the place-value game, which regrouping is not equal to 457?",
     "answers": [
       {
-        "text": "4 hundreds + 4 tens + 17 ones",
+        "text": "90",
         "is_correct": false
       },
       {
-        "text": "4 hundreds + 4 tens + 7 ones",
+        "text": "9",
         "is_correct": true
       },
       {
-        "text": "3 hundreds + 15 tens + 7 ones",
+        "text": "900",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
-      "hint": "Every trade must exchange equal value."
+      "summary": "Every 100 ones makes 1 hundred, so 900 ones make 9 hundreds.",
+      "hint": "Group the ones into sets of 100."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+    }
   },
   {
     "id": "AC9M2N02-P-024",
@@ -841,826 +971,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "rename_nonstandard_grouping",
+    "skill": "reason_about_zero",
+    "question": "A number has 8 hundreds and 7 ones. Why must its numeral include a zero?",
+    "audio_prompt": "A number has 8 hundreds and 7 ones. Why must its numeral include a zero?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-024",
-      "alt_text": "In the place-value game: 4 hundreds and 57 ones regrouped to show 457."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "In the place-value game, which number is 4 hundreds and 57 ones?",
-    "audio_prompt": "In the place-value game, which number is 4 hundreds and 57 ones?",
     "answers": [
       {
-        "text": "412",
+        "text": "All three-digit numbers need a zero",
         "is_correct": false
       },
       {
-        "text": "557",
+        "text": "The zero shows 7 tens",
         "is_correct": false
       },
       {
-        "text": "457",
+        "text": "The zero shows the empty tens place",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "57 ones regroup as 5 tens and 7 ones, making 457.",
-      "hint": "Make groups of 10 from the ones."
+      "summary": "Without the zero, 87 would mean 8 tens and 7 ones; 807 needs 0 tens.",
+      "hint": "Ask which place has no groups."
     },
     "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2N02-P-025",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_school_garden_which_renames",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, which renames 210?"
-    },
-    "question": "At the school garden, which renames 210?",
-    "audio_prompt": "At the school garden, which renames 210?",
-    "answers": [
-      {
-        "text": "2 hundreds, 1 tens, 0 ones",
-        "is_correct": true
-      },
-      {
-        "text": "2 hundreds, 0 tens, 9 ones",
-        "is_correct": false
-      },
-      {
-        "text": "3 hundreds, 0 tens, 10 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-026",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "during_maths_groups_3_hundreds_1",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, 3 hundreds, 1 tens and 11 ones equals?"
-    },
-    "question": "During maths groups, 3 hundreds, 1 tens and 11 ones equals?",
-    "audio_prompt": "During maths groups, 3 hundreds, 1 tens and 11 ones equals?",
-    "answers": [
-      {
-        "text": "331",
-        "is_correct": false
-      },
-      {
-        "text": "320",
-        "is_correct": false
-      },
-      {
-        "text": "321",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-027",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_art_table_which_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, which is not equal to 432?"
-    },
-    "question": "At the art table, which is not equal to 432?",
-    "audio_prompt": "At the art table, which is not equal to 432?",
-    "answers": [
-      {
-        "text": "4 hundreds and 32 ones",
-        "is_correct": false
-      },
-      {
-        "text": "433",
-        "is_correct": true
-      },
-      {
-        "text": "432",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-028",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "in_the_playground_which_renames_543",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, which renames 543?"
-    },
-    "question": "In the playground, which renames 543?",
-    "audio_prompt": "In the playground, which renames 543?",
-    "answers": [
-      {
-        "text": "5 hundreds, 4 tens, 3 ones",
-        "is_correct": true
-      },
-      {
-        "text": "5 hundreds, 3 tens, 12 ones",
-        "is_correct": false
-      },
-      {
-        "text": "6 hundreds, 3 tens, 13 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-029",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_library_6_hundreds_4",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, 6 hundreds, 4 tens and 14 ones equals?"
-    },
-    "question": "At the library, 6 hundreds, 4 tens and 14 ones equals?",
-    "audio_prompt": "At the library, 6 hundreds, 4 tens and 14 ones equals?",
-    "answers": [
-      {
-        "text": "664",
-        "is_correct": false
-      },
-      {
-        "text": "653",
-        "is_correct": false
-      },
-      {
-        "text": "654",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-030",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "during_sport_which_is_not_equal",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, which is not equal to 765?"
-    },
-    "question": "During sport, which is not equal to 765?",
-    "audio_prompt": "During sport, which is not equal to 765?",
-    "answers": [
-      {
-        "text": "7 hundreds and 65 ones",
-        "is_correct": false
-      },
-      {
-        "text": "766",
-        "is_correct": true
-      },
-      {
-        "text": "765",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-031",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_class_shop_which_renames",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, which renames 876?"
-    },
-    "question": "At the class shop, which renames 876?",
-    "audio_prompt": "At the class shop, which renames 876?",
-    "answers": [
-      {
-        "text": "8 hundreds, 7 tens, 6 ones",
-        "is_correct": true
-      },
-      {
-        "text": "8 hundreds, 6 tens, 15 ones",
-        "is_correct": false
-      },
-      {
-        "text": "9 hundreds, 6 tens, 16 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-032",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_2_hundreds",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, 2 hundreds, 7 tens and 17 ones equals?"
-    },
-    "question": "On the picnic rug, 2 hundreds, 7 tens and 17 ones equals?",
-    "audio_prompt": "On the picnic rug, 2 hundreds, 7 tens and 17 ones equals?",
-    "answers": [
-      {
-        "text": "297",
-        "is_correct": false
-      },
-      {
-        "text": "286",
-        "is_correct": false
-      },
-      {
-        "text": "287",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-033",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_block_table_which_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, which is not equal to 390?"
-    },
-    "question": "At the block table, which is not equal to 390?",
-    "audio_prompt": "At the block table, which is not equal to 390?",
-    "answers": [
-      {
-        "text": "3 hundreds and 90 ones",
-        "is_correct": false
-      },
-      {
-        "text": "391",
-        "is_correct": true
-      },
-      {
-        "text": "390",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-034",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_which_renames",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, which renames 411?"
-    },
-    "question": "In the lunch area, which renames 411?",
-    "audio_prompt": "In the lunch area, which renames 411?",
-    "answers": [
-      {
-        "text": "4 hundreds, 1 tens, 1 ones",
-        "is_correct": true
-      },
-      {
-        "text": "4 hundreds, 0 tens, 10 ones",
-        "is_correct": false
-      },
-      {
-        "text": "5 hundreds, 0 tens, 11 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-035",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_science_table_5_hundreds",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, 5 hundreds, 1 tens and 12 ones equals?"
-    },
-    "question": "At the science table, 5 hundreds, 1 tens and 12 ones equals?",
-    "audio_prompt": "At the science table, 5 hundreds, 1 tens and 12 ones equals?",
-    "answers": [
-      {
-        "text": "532",
-        "is_correct": false
-      },
-      {
-        "text": "521",
-        "is_correct": false
-      },
-      {
-        "text": "522",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-036",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "during_a_card_game_which_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, which is not equal to 633?"
-    },
-    "question": "During a card game, which is not equal to 633?",
-    "audio_prompt": "During a card game, which is not equal to 633?",
-    "answers": [
-      {
-        "text": "6 hundreds and 33 ones",
-        "is_correct": false
-      },
-      {
-        "text": "634",
-        "is_correct": true
-      },
-      {
-        "text": "633",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-037",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_school_garden_which_renames",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, which renames 744?"
-    },
-    "question": "At the school garden, which renames 744?",
-    "audio_prompt": "At the school garden, which renames 744?",
-    "answers": [
-      {
-        "text": "7 hundreds, 4 tens, 4 ones",
-        "is_correct": true
-      },
-      {
-        "text": "7 hundreds, 3 tens, 13 ones",
-        "is_correct": false
-      },
-      {
-        "text": "8 hundreds, 3 tens, 14 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-038",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "during_maths_groups_8_hundreds_4",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, 8 hundreds, 4 tens and 15 ones equals?"
-    },
-    "question": "During maths groups, 8 hundreds, 4 tens and 15 ones equals?",
-    "audio_prompt": "During maths groups, 8 hundreds, 4 tens and 15 ones equals?",
-    "answers": [
-      {
-        "text": "865",
-        "is_correct": false
-      },
-      {
-        "text": "854",
-        "is_correct": false
-      },
-      {
-        "text": "855",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-039",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_art_table_which_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, which is not equal to 266?"
-    },
-    "question": "At the art table, which is not equal to 266?",
-    "audio_prompt": "At the art table, which is not equal to 266?",
-    "answers": [
-      {
-        "text": "2 hundreds and 66 ones",
-        "is_correct": false
-      },
-      {
-        "text": "267",
-        "is_correct": true
-      },
-      {
-        "text": "266",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-040",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "in_the_playground_which_renames_377",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, which renames 377?"
-    },
-    "question": "In the playground, which renames 377?",
-    "audio_prompt": "In the playground, which renames 377?",
-    "answers": [
-      {
-        "text": "3 hundreds, 7 tens, 7 ones",
-        "is_correct": true
-      },
-      {
-        "text": "3 hundreds, 6 tens, 16 ones",
-        "is_correct": false
-      },
-      {
-        "text": "4 hundreds, 6 tens, 17 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-041",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_library_4_hundreds_7",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, 4 hundreds, 7 tens and 10 ones equals?"
-    },
-    "question": "At the library, 4 hundreds, 7 tens and 10 ones equals?",
-    "audio_prompt": "At the library, 4 hundreds, 7 tens and 10 ones equals?",
-    "answers": [
-      {
-        "text": "490",
-        "is_correct": false
-      },
-      {
-        "text": "479",
-        "is_correct": false
-      },
-      {
-        "text": "480",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-042",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "during_sport_which_is_not_equal",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, which is not equal to 591?"
-    },
-    "question": "During sport, which is not equal to 591?",
-    "audio_prompt": "During sport, which is not equal to 591?",
-    "answers": [
-      {
-        "text": "5 hundreds and 91 ones",
-        "is_correct": false
-      },
-      {
-        "text": "592",
-        "is_correct": true
-      },
-      {
-        "text": "591",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-043",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_class_shop_which_renames",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, which renames 612?"
-    },
-    "question": "At the class shop, which renames 612?",
-    "audio_prompt": "At the class shop, which renames 612?",
-    "answers": [
-      {
-        "text": "6 hundreds, 1 tens, 2 ones",
-        "is_correct": true
-      },
-      {
-        "text": "6 hundreds, 0 tens, 11 ones",
-        "is_correct": false
-      },
-      {
-        "text": "7 hundreds, 0 tens, 12 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-044",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_7_hundreds",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, 7 hundreds, 1 tens and 13 ones equals?"
-    },
-    "question": "On the picnic rug, 7 hundreds, 1 tens and 13 ones equals?",
-    "audio_prompt": "On the picnic rug, 7 hundreds, 1 tens and 13 ones equals?",
-    "answers": [
-      {
-        "text": "733",
-        "is_correct": false
-      },
-      {
-        "text": "722",
-        "is_correct": false
-      },
-      {
-        "text": "723",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-045",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_block_table_which_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, which is not equal to 834?"
-    },
-    "question": "At the block table, which is not equal to 834?",
-    "audio_prompt": "At the block table, which is not equal to 834?",
-    "answers": [
-      {
-        "text": "8 hundreds and 34 ones",
-        "is_correct": false
-      },
-      {
-        "text": "835",
-        "is_correct": true
-      },
-      {
-        "text": "834",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-046",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_which_renames",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, which renames 245?"
-    },
-    "question": "In the lunch area, which renames 245?",
-    "audio_prompt": "In the lunch area, which renames 245?",
-    "answers": [
-      {
-        "text": "2 hundreds, 4 tens, 5 ones",
-        "is_correct": true
-      },
-      {
-        "text": "2 hundreds, 3 tens, 14 ones",
-        "is_correct": false
-      },
-      {
-        "text": "3 hundreds, 3 tens, 15 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-047",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "at_the_science_table_3_hundreds",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, 3 hundreds, 4 tens and 16 ones equals?"
-    },
-    "question": "At the science table, 3 hundreds, 4 tens and 16 ones equals?",
-    "audio_prompt": "At the science table, 3 hundreds, 4 tens and 16 ones equals?",
-    "answers": [
-      {
-        "text": "366",
-        "is_correct": false
-      },
-      {
-        "text": "355",
-        "is_correct": false
-      },
-      {
-        "text": "356",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-048",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "during_a_card_game_which_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, which is not equal to 467?"
-    },
-    "question": "During a card game, which is not equal to 467?",
-    "audio_prompt": "During a card game, which is not equal to 467?",
-    "answers": [
-      {
-        "text": "4 hundreds and 67 ones",
-        "is_correct": false
-      },
-      {
-        "text": "468",
-        "is_correct": true
-      },
-      {
-        "text": "467",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Regroup 10 ones as 1 ten.",
-      "hint": "Use the information in the question to check your answer."
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1669,32 +1013,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "partition_standard_form",
+    "skill": "standard_partition",
+    "question": "Which partition equals 639?",
+    "audio_prompt": "Which partition equals 639?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-001",
-      "alt_text": "At the number table: Base-ten model of 568 with 5 hundreds, 6 tens and 8 ones."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the number table, which partition equals 568?",
-    "audio_prompt": "At the number table, which partition equals 568?",
     "answers": [
       {
-        "text": "500 + 60 + 8",
+        "text": "6 hundreds + 3 tens + 9 ones",
         "is_correct": true
       },
       {
-        "text": "500 + 80 + 6",
+        "text": "6 hundreds + 9 tens + 3 ones",
         "is_correct": false
       },
       {
-        "text": "500 + 6 + 8",
+        "text": "63 hundreds + 9 ones",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "568 has 5 hundreds, 6 tens and 8 ones.",
-      "hint": "Read each digit by its place."
+      "summary": "639 has 6 hundreds, 3 tens and 9 ones.",
+      "hint": "Match digits to places."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1703,32 +1055,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "regroup_ten_as_ones",
+    "skill": "value_of_digit",
+    "question": "What is the value of the 7 in 275?",
+    "audio_prompt": "What is the value of the 7 in 275?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-002",
-      "alt_text": "At the number table: One ten rod beside 10 one counters of equal total value."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the number table, trade 1 ten for ones. How many ones is that?",
-    "audio_prompt": "At the number table, trade 1 ten for ones. How many ones is that?",
     "answers": [
       {
-        "text": "1 one",
+        "text": "7",
         "is_correct": false
       },
       {
-        "text": "10 ones",
+        "text": "70",
         "is_correct": true
       },
       {
-        "text": "100 ones",
+        "text": "700",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One ten has the same value as 10 ones.",
-      "hint": "Count the unit squares in a ten rod."
+      "summary": "The 7 is in the tens place, so it is worth 70.",
+      "hint": "Use the digit's place."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1737,32 +1097,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "rename_hundred_as_tens",
+    "skill": "regroup_ten_as_ones",
+    "question": "Regroup 6 tens + 24 ones into standard form.",
+    "audio_prompt": "Regroup 6 tens + 24 ones into standard form.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-003",
-      "alt_text": "At the number table: 568 represented after one hundred is traded for 10 tens."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the number table, which is another way to make 568?",
-    "audio_prompt": "At the number table, which is another way to make 568?",
     "answers": [
       {
-        "text": "4 hundreds + 7 tens + 8 ones",
+        "text": "6 tens + 4 ones",
         "is_correct": false
       },
       {
-        "text": "5 hundreds + 6 tens + 18 ones",
+        "text": "7 tens + 14 ones",
         "is_correct": false
       },
       {
-        "text": "4 hundreds + 16 tens + 8 ones",
+        "text": "8 tens + 4 ones",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Regrouping 1 hundred as 10 tens keeps the total at 568.",
-      "hint": "Take one hundred away and add ten tens."
+      "summary": "24 ones make 2 tens and 4 ones; 6 + 2 = 8 tens.",
+      "hint": "Trade 20 ones for 2 tens."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1771,32 +1139,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "explain_zero_placeholder",
+    "skill": "nonstandard_partition",
+    "question": "Which non-standard grouping equals 507?",
+    "audio_prompt": "Which non-standard grouping equals 507?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-004",
-      "alt_text": "At the number table: 5 hundred blocks, no tens and 8 ones representing 508."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the number table, what does the 0 mean in 508?",
-    "audio_prompt": "At the number table, what does the 0 mean in 508?",
     "answers": [
       {
-        "text": "0 tens",
+        "text": "4 hundreds + 10 tens + 7 ones",
         "is_correct": true
       },
       {
-        "text": "0 hundreds",
+        "text": "5 hundreds + 7 tens",
         "is_correct": false
       },
       {
-        "text": "0 ones",
+        "text": "50 hundreds + 7 ones",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The zero sits in the tens place, so 508 has 0 tens.",
-      "hint": "Name the columns from left to right: hundreds, tens, ones."
+      "summary": "400 + 100 + 7 = 507.",
+      "hint": "Convert each group to its value."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1805,32 +1181,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "verify_nonstandard_partition",
+    "skill": "rename_between_places",
+    "question": "7 hundreds equal how many tens?",
+    "audio_prompt": "7 hundreds equal how many tens?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-005",
-      "alt_text": "At the number table: A regrouped model with 5 hundreds, 5 tens and 18 ones."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the number table, is 568 the same value as 568?",
-    "audio_prompt": "At the number table, is 568 the same value as 568?",
     "answers": [
       {
-        "text": "No, it is 10 more",
+        "text": "700",
         "is_correct": false
       },
       {
-        "text": "Yes",
+        "text": "70",
         "is_correct": true
       },
       {
-        "text": "No, it is 10 less",
+        "text": "7",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One ten was traded for 10 ones, so the total value stays 568.",
-      "hint": "Compare the parts after regrouping, not just the number of pieces."
+      "summary": "Each hundred contains 10 tens, so 7 hundreds contain 70 tens.",
+      "hint": "Use 1 hundred = 10 tens."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1839,32 +1223,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "identify_tens_in_number",
+    "skill": "expanded_to_number",
+    "question": "What number is 800 + 3?",
+    "audio_prompt": "What number is 800 + 3?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-006",
-      "alt_text": "At the number table: 6 ten rods and 8 one counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the number table, how many tens are in 68 if all the ones stay separate?",
-    "audio_prompt": "At the number table, how many tens are in 68 if all the ones stay separate?",
     "answers": [
       {
-        "text": "7",
+        "text": "830",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "83",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "803",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "68 has 6 full tens and 8 ones.",
-      "hint": "Group the amount into tens before counting leftover ones."
+      "summary": "There are 8 hundreds, no tens and 3 ones: 803.",
+      "hint": "Keep the empty tens place."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1873,32 +1265,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "identify_invalid_regrouping",
+    "skill": "regroup_hundreds_tens_ones",
+    "question": "4 hundreds + 19 tens + 2 ones equals:",
+    "audio_prompt": "4 hundreds + 19 tens + 2 ones equals:",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-007",
-      "alt_text": "At the number table: Three place-value regroupings for 568, including one that loses a ten."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the number table, which regrouping is not equal to 568?",
-    "audio_prompt": "At the number table, which regrouping is not equal to 568?",
     "answers": [
       {
-        "text": "5 hundreds + 5 tens + 8 ones",
+        "text": "5 hundreds + 9 tens + 2 ones",
         "is_correct": true
       },
       {
-        "text": "5 hundreds + 5 tens + 18 ones",
+        "text": "4 hundreds + 9 tens + 2 ones",
         "is_correct": false
       },
       {
-        "text": "4 hundreds + 16 tens + 8 ones",
+        "text": "6 hundreds + 9 tens + 2 ones",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
-      "hint": "Every trade must exchange equal value."
+      "summary": "19 tens become 1 hundred and 9 tens, giving 592.",
+      "hint": "Trade 10 tens for 1 hundred."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1907,32 +1307,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "rename_nonstandard_grouping",
+    "skill": "identify_non_equivalence",
+    "question": "Which is not another name for 460?",
+    "audio_prompt": "Which is not another name for 460?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-008",
-      "alt_text": "At the number table: 5 hundreds and 68 ones regrouped to show 568."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At the number table, which number is 5 hundreds and 68 ones?",
-    "audio_prompt": "At the number table, which number is 5 hundreds and 68 ones?",
     "answers": [
       {
-        "text": "514",
+        "text": "46 tens",
         "is_correct": false
       },
       {
-        "text": "568",
+        "text": "4 hundreds + 5 tens",
         "is_correct": true
       },
       {
-        "text": "668",
+        "text": "3 hundreds + 16 tens",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "68 ones regroup as 6 tens and 8 ones, making 568.",
-      "hint": "Make groups of 10 from the ones."
+      "summary": "4 hundreds + 5 tens equals 450, not 460.",
+      "hint": "Calculate each total."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1941,32 +1349,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "partition_standard_form",
+    "skill": "zero_placeholder",
+    "question": "Why is 9 hundreds and 2 ones written 902, not 92?",
+    "audio_prompt": "Why is 9 hundreds and 2 ones written 902, not 92?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-009",
-      "alt_text": "During the regrouping challenge: Base-ten model of 635 with 6 hundreds, 3 tens and 5 ones."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the regrouping challenge, which partition equals 635?",
-    "audio_prompt": "During the regrouping challenge, which partition equals 635?",
     "answers": [
       {
-        "text": "600 + 50 + 3",
+        "text": "The zero means 2 tens",
         "is_correct": false
       },
       {
-        "text": "600 + 3 + 5",
+        "text": "Every number above 100 ends with zero",
         "is_correct": false
       },
       {
-        "text": "600 + 30 + 5",
+        "text": "The zero holds the empty tens place",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "635 has 6 hundreds, 3 tens and 5 ones.",
-      "hint": "Read each digit by its place."
+      "summary": "902 records 9 hundreds, 0 tens and 2 ones.",
+      "hint": "Write H, T and O."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -1975,32 +1391,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "regroup_ten_as_ones",
+    "skill": "rearrange_partition",
+    "question": "Trade 2 hundreds in 731 for tens. Which grouping results?",
+    "audio_prompt": "Trade 2 hundreds in 731 for tens. Which grouping results?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-010",
-      "alt_text": "During the regrouping challenge: One ten rod beside 10 one counters of equal total value."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the regrouping challenge, trade 1 ten for ones. How many ones is that?",
-    "audio_prompt": "During the regrouping challenge, trade 1 ten for ones. How many ones is that?",
     "answers": [
       {
-        "text": "10 ones",
+        "text": "5 hundreds + 23 tens + 1 one",
         "is_correct": true
       },
       {
-        "text": "1 one",
+        "text": "7 hundreds + 21 tens + 1 one",
         "is_correct": false
       },
       {
-        "text": "100 ones",
+        "text": "5 hundreds + 3 tens + 21 ones",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "One ten has the same value as 10 ones.",
-      "hint": "Count the unit squares in a ten rod."
+      "summary": "Two hundreds add 20 tens; 7 hundreds becomes 5 hundreds.",
+      "hint": "Subtract the traded hundreds and add equivalent tens."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2009,32 +1433,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "rename_hundred_as_tens",
+    "skill": "partition_with_constraints",
+    "question": "Which name for 842 uses exactly 7 hundreds?",
+    "audio_prompt": "Which name for 842 uses exactly 7 hundreds?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-011",
-      "alt_text": "During the regrouping challenge: 635 represented after one hundred is traded for 10 tens."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the regrouping challenge, which is another way to make 635?",
-    "audio_prompt": "During the regrouping challenge, which is another way to make 635?",
     "answers": [
       {
-        "text": "5 hundreds + 4 tens + 5 ones",
+        "text": "7 hundreds + 4 tens + 2 ones",
         "is_correct": false
       },
       {
-        "text": "5 hundreds + 13 tens + 5 ones",
+        "text": "7 hundreds + 14 tens + 2 ones",
         "is_correct": true
       },
       {
-        "text": "6 hundreds + 3 tens + 15 ones",
+        "text": "7 hundreds + 142 ones",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Regrouping 1 hundred as 10 tens keeps the total at 635.",
-      "hint": "Take one hundred away and add ten tens."
+      "summary": "700 + 140 + 2 = 842.",
+      "hint": "The missing hundred must be represented by 10 tens."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2043,32 +1475,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "explain_zero_placeholder",
+    "skill": "reason_from_clues",
+    "question": "A number can be named 3 hundreds + 25 tens + 4 ones. What is its usual numeral?",
+    "audio_prompt": "A number can be named 3 hundreds + 25 tens + 4 ones. What is its usual numeral?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-012",
-      "alt_text": "During the regrouping challenge: 6 hundred blocks, no tens and 5 ones representing 605."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the regrouping challenge, what does the 0 mean in 605?",
-    "audio_prompt": "During the regrouping challenge, what does the 0 mean in 605?",
     "answers": [
       {
-        "text": "0 hundreds",
+        "text": "354",
         "is_correct": false
       },
       {
-        "text": "0 ones",
+        "text": "524",
         "is_correct": false
       },
       {
-        "text": "0 tens",
+        "text": "554",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The zero sits in the tens place, so 605 has 0 tens.",
-      "hint": "Name the columns from left to right: hundreds, tens, ones."
+      "summary": "300 + 250 + 4 = 554.",
+      "hint": "Regroup 25 tens into hundreds and tens."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2077,32 +1517,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "verify_nonstandard_partition",
+    "skill": "diagnose_error",
+    "question": "Noah says 6 hundreds + 12 ones = 612, so 5 hundreds + 12 tens also equals 612. Is he correct?",
+    "audio_prompt": "Noah says 6 hundreds + 12 ones = 612, so 5 hundreds + 12 tens also equals 612. Is he correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-013",
-      "alt_text": "During the regrouping challenge: A regrouped model with 6 hundreds, 2 tens and 15 ones."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the regrouping challenge, is 635 the same value as 635?",
-    "audio_prompt": "During the regrouping challenge, is 635 the same value as 635?",
     "answers": [
       {
-        "text": "Yes",
+        "text": "No; 5 hundreds + 12 tens is 620",
         "is_correct": true
       },
       {
-        "text": "No, it is 10 more",
+        "text": "Yes; both equal 612",
         "is_correct": false
       },
       {
-        "text": "No, it is 10 less",
+        "text": "No; 6 hundreds + 12 ones is 602",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "One ten was traded for 10 ones, so the total value stays 635.",
-      "hint": "Compare the parts after regrouping, not just the number of pieces."
+      "summary": "500 + 120 = 620, while 600 + 12 = 612.",
+      "hint": "Calculate both expressions separately."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2111,32 +1559,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "identify_tens_in_number",
+    "skill": "multiple_regroupings",
+    "question": "Which chain keeps the same value throughout?",
+    "audio_prompt": "Which chain keeps the same value throughout?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-014",
-      "alt_text": "During the regrouping challenge: 3 ten rods and 5 one counters."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the regrouping challenge, how many tens are in 35 if all the ones stay separate?",
-    "audio_prompt": "During the regrouping challenge, how many tens are in 35 if all the ones stay separate?",
     "answers": [
       {
-        "text": "4",
+        "text": "480 = 480 tens = 4 hundreds + 8 ones",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "480 = 48 tens = 4 hundreds + 8 tens",
         "is_correct": true
       },
       {
-        "text": "5",
+        "text": "480 = 4 tens + 80 ones = 48 hundreds",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "35 has 3 full tens and 5 ones.",
-      "hint": "Group the amount into tens before counting leftover ones."
+      "summary": "480 equals 48 tens and also 4 hundreds + 8 tens.",
+      "hint": "Check the value at every equals sign."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2145,32 +1601,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "identify_invalid_regrouping",
+    "skill": "standardise_large_ones",
+    "question": "2 hundreds + 7 tens + 34 ones in standard form is:",
+    "audio_prompt": "2 hundreds + 7 tens + 34 ones in standard form is:",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-015",
-      "alt_text": "During the regrouping challenge: Three place-value regroupings for 635, including one that loses a ten."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the regrouping challenge, which regrouping is not equal to 635?",
-    "audio_prompt": "During the regrouping challenge, which regrouping is not equal to 635?",
     "answers": [
       {
-        "text": "6 hundreds + 2 tens + 15 ones",
+        "text": "2 hundreds + 10 tens + 4 ones",
         "is_correct": false
       },
       {
-        "text": "5 hundreds + 13 tens + 5 ones",
+        "text": "3 hundreds + 4 tens + 0 ones",
         "is_correct": false
       },
       {
-        "text": "6 hundreds + 2 tens + 5 ones",
+        "text": "3 hundreds + 0 tens + 4 ones",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
-      "hint": "Every trade must exchange equal value."
+      "summary": "34 ones add 3 tens and 4 ones; 7 tens + 3 tens makes 1 hundred, leaving 304.",
+      "hint": "Regroup ones, then regroup tens if needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   },
   {
@@ -2179,32 +1643,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "rename_nonstandard_grouping",
+    "skill": "explain_place_value",
+    "question": "In 707, the two 7s have different values. Which statement is correct?",
+    "audio_prompt": "In 707, the two 7s have different values. Which statement is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-016",
-      "alt_text": "During the regrouping challenge: 6 hundreds and 35 ones regrouped to show 635."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "During the regrouping challenge, which number is 6 hundreds and 35 ones?",
-    "audio_prompt": "During the regrouping challenge, which number is 6 hundreds and 35 ones?",
     "answers": [
       {
-        "text": "635",
+        "text": "The first 7 is 700 and the last 7 is 7",
         "is_correct": true
       },
       {
-        "text": "608",
+        "text": "Both 7s are worth 7",
         "is_correct": false
       },
       {
-        "text": "735",
+        "text": "The first 7 is 70 and the last 7 is 700",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "35 ones regroup as 3 tens and 5 ones, making 635.",
-      "hint": "Make groups of 10 from the ones."
+      "summary": "The left 7 is in the hundreds place; the right 7 is in the ones place.",
+      "hint": "Name each 7's place."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
     }
   }
 ]

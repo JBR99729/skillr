@@ -4,31 +4,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-001",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "represent three digit number",
+    "skill": "read place value model",
     "printable": true,
     "type": "single",
-    "question": "With base-ten blocks, which number has 2 hundreds, 3 tens and 4 ones?",
-    "audioPrompt": "With base-ten blocks, which number has 2 hundreds, 3 tens and 4 ones?",
-    "visual": "With base-ten blocks: 2 hundred blocks, 3 ten rods and 4 one counters representing 234.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With base-ten blocks: 2 hundred blocks, 3 ten rods and 4 one counters representing 234.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-001\"></use></svg>",
+    "question": "A model has 4 hundred flats, 5 ten rods and 6 one blocks. Which numeral does it show?",
+    "audioPrompt": "A model has 4 hundred flats, 5 ten rods and 6 one blocks. Which numeral does it show?",
+    "visual": "A model has 4 hundred flats, 5 ten rods and 6 one blocks. Which numeral does it show?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A model has 4 hundred flats, 5 ten rods and 6 one blocks. Which numeral does it show?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-001",
-      "alt_text": "With base-ten blocks: 2 hundred blocks, 3 ten rods and 4 one counters representing 234."
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-017",
+      "alt_text": "A model has 4 hundred flats, 5 ten rods and 6 one blocks. Which numeral does it show?"
     },
     "answers": [
-      "243",
-      "207",
-      "234"
+      "456",
+      "465",
+      "406"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "2 hundreds, 3 tens and 4 ones make 234.\nHint: Write the hundreds digit, then tens, then ones.",
+    "correct": 0,
+    "explanation": "Four hundreds, five tens and six ones make 456.\nHint: Read the model in hundreds, tens, ones order.",
     "structuredExplanation": {
-      "summary": "2 hundreds, 3 tens and 4 ones make 234.",
-      "hint": "Write the hundreds digit, then tens, then ones."
+      "summary": "Four hundreds, five tens and six ones make 456.",
+      "hint": "Read the model in hundreds, tens, ones order."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,31 +36,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-002",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "write expanded form",
+    "skill": "write number in words",
     "printable": true,
     "type": "single",
-    "question": "With base-ten blocks, what is 234 in expanded form?",
-    "audioPrompt": "With base-ten blocks, what is 234 in expanded form?",
-    "visual": "With base-ten blocks: Place-value blocks for 234: 2 hundreds, 3 tens and 4 ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With base-ten blocks: Place-value blocks for 234: 2 hundreds, 3 tens and 4 ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-002\"></use></svg>",
+    "question": "Which is the correct way to write 308 in words?",
+    "audioPrompt": "Which is the correct way to write 308 in words?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-002",
-      "alt_text": "With base-ten blocks: Place-value blocks for 234: 2 hundreds, 3 tens and 4 ones."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "200 + 30 + 4",
-      "200 + 40 + 3",
-      "20 + 3 + 4"
+      "three hundred and eighty",
+      "three hundred and eight",
+      "thirty-eight"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "The digits show 200, 30 and 4.\nHint: Use the place of each digit to find its value.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The zero shows there are no tens, so 308 is three hundred and eight.\nHint: Check whether the tens place is zero.",
     "structuredExplanation": {
-      "summary": "The digits show 200, 30 and 4.",
-      "hint": "Use the place of each digit to find its value."
+      "summary": "The zero shows there are no tens, so 308 is three hundred and eight.",
+      "hint": "Check whether the tens place is zero."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,31 +67,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-003",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "compare three digit numbers",
+    "skill": "number line missing value",
     "printable": true,
     "type": "single",
-    "question": "With base-ten blocks, which number is greater: 234 or 242?",
-    "audioPrompt": "With base-ten blocks, which number is greater: 234 or 242?",
-    "visual": "With base-ten blocks: The numerals 234 and 242 shown in place-value columns.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With base-ten blocks: The numerals 234 and 242 shown in place-value columns.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-003\"></use></svg>",
+    "question": "The marks are equally spaced: 540, 560, ___, 600. Which number is missing?",
+    "audioPrompt": "The marks are equally spaced: 540, 560, ___, 600. Which number is missing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-003",
-      "alt_text": "With base-ten blocks: The numerals 234 and 242 shown in place-value columns."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "234",
-      "242",
-      "They are equal"
+      "570",
+      "590",
+      "580"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Both have 2 hundreds. 242 has more tens, so it is greater.\nHint: Compare hundreds first, then tens, then ones.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The line increases by 20 each step: 540, 560, 580, 600.\nHint: Find the equal jump between labelled marks.",
     "structuredExplanation": {
-      "summary": "Both have 2 hundreds. 242 has more tens, so it is greater.",
-      "hint": "Compare hundreds first, then tens, then ones."
+      "summary": "The line increases by 20 each step: 540, 560, 580, 600.",
+      "hint": "Find the equal jump between labelled marks."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,31 +98,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-004",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "locate number on number line",
+    "skill": "compare numbers",
     "printable": true,
     "type": "single",
-    "question": "With base-ten blocks, which number belongs halfway between 200 and 300?",
-    "audioPrompt": "With base-ten blocks, which number belongs halfway between 200 and 300?",
-    "visual": "With base-ten blocks: Number line from 200 to 300 with a midpoint marker.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With base-ten blocks: Number line from 200 to 300 with a midpoint marker.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-004\"></use></svg>",
+    "question": "Complete the statement: 709 ___ 790.",
+    "audioPrompt": "Complete the statement: 709 ___ 790.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-004",
-      "alt_text": "With base-ten blocks: Number line from 200 to 300 with a midpoint marker."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "205",
-      "290",
-      "250"
+      "<",
+      ">",
+      "="
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "250 is 50 more than 200 and 50 less than 300.\nHint: Half of 100 is 50.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Both have 7 hundreds; 0 tens is less than 9 tens, so 709 < 790.\nHint: Compare hundreds first, then tens.",
     "structuredExplanation": {
-      "summary": "250 is 50 more than 200 and 50 less than 300.",
-      "hint": "Half of 100 is 50."
+      "summary": "Both have 7 hundreds; 0 tens is less than 9 tens, so 709 < 790.",
+      "hint": "Compare hundreds first, then tens."
     },
     "qualitySchema": "production-v1"
   },
@@ -132,31 +129,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-005",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "order three digit numbers",
+    "skill": "order numbers",
     "printable": true,
     "type": "single",
-    "question": "With base-ten blocks, put these numbers from smallest to largest: 234, 264, 134.",
-    "audioPrompt": "With base-ten blocks, put these numbers from smallest to largest: 234, 264, 134.",
-    "visual": "With base-ten blocks: Cards labelled 234, 264, 134 ready to be ordered.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With base-ten blocks: Cards labelled 234, 264, 134 ready to be ordered.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-005\"></use></svg>",
+    "question": "Put 615, 561 and 651 in order from smallest to largest.",
+    "audioPrompt": "Put 615, 561 and 651 in order from smallest to largest.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-005",
-      "alt_text": "With base-ten blocks: Cards labelled 234, 264, 134 ready to be ordered."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "134, 234, 264",
-      "264, 234, 134",
-      "234, 134, 264"
+      "651, 615, 561",
+      "561, 615, 651",
+      "561, 651, 615"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Compare the hundreds first. The order is 134, 234, 264.\nHint: Find the number with the fewest hundreds first.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "561 has 5 hundreds. Of the two 600s, 615 comes before 651.\nHint: Compare the hundreds, then the tens and ones.",
     "structuredExplanation": {
-      "summary": "Compare the hundreds first. The order is 134, 234, 264.",
-      "hint": "Find the number with the fewest hundreds first."
+      "summary": "561 has 5 hundreds. Of the two 600s, 615 comes before 651.",
+      "hint": "Compare the hundreds, then the tens and ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -164,31 +160,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-006",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "find ten more",
+    "skill": "count forwards",
     "printable": true,
     "type": "single",
-    "question": "With base-ten blocks, what is 10 more than 234?",
-    "audioPrompt": "With base-ten blocks, what is 10 more than 234?",
-    "visual": "With base-ten blocks: Number line showing a jump of 10 from 234 to a missing number.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With base-ten blocks: Number line showing a jump of 10 from 234 to a missing number.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-006\"></use></svg>",
+    "question": "Count forwards from 897. Which list continues correctly?",
+    "audioPrompt": "Count forwards from 897. Which list continues correctly?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-006",
-      "alt_text": "With base-ten blocks: Number line showing a jump of 10 from 234 to a missing number."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "235",
-      "244",
-      "334"
+      "898, 899, 990, 991",
+      "907, 917, 927, 937",
+      "898, 899, 900, 901"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Adding 10 increases the tens place by 1: 234 becomes 244.\nHint: Keep the hundreds and ones the same.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "After 899 comes 900, then 901.\nHint: Say each next whole number, including the new hundred.",
     "structuredExplanation": {
-      "summary": "Adding 10 increases the tens place by 1: 234 becomes 244.",
-      "hint": "Keep the hundreds and ones the same."
+      "summary": "After 899 comes 900, then 901.",
+      "hint": "Say each next whole number, including the new hundred."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,31 +191,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-007",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "interpret zero digit",
+    "skill": "locate on number line",
     "printable": true,
     "type": "single",
-    "question": "With base-ten blocks, what does the 0 mean in 204?",
-    "audioPrompt": "With base-ten blocks, what does the 0 mean in 204?",
-    "visual": "With base-ten blocks: 2 hundred blocks, no ten rods and 4 ones for 204.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With base-ten blocks: 2 hundred blocks, no ten rods and 4 ones for 204.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-007\"></use></svg>",
+    "question": "A number line runs from 300 to 400 with marks every 10. Which number is on the seventh mark after 300?",
+    "audioPrompt": "A number line runs from 300 to 400 with marks every 10. Which number is on the seventh mark after 300?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-007",
-      "alt_text": "With base-ten blocks: 2 hundred blocks, no ten rods and 4 ones for 204."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "There are no hundreds",
-      "There are no ones",
-      "There are no tens"
+      "370",
+      "307",
+      "360"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "The 0 is in the tens place, so the number has no tens.\nHint: Read the place-value columns: hundreds, tens, ones.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Seven jumps of 10 from 300 land on 370.\nHint: Count jumps, not the starting mark.",
     "structuredExplanation": {
-      "summary": "The 0 is in the tens place, so the number has no tens.",
-      "hint": "Read the place-value columns: hundreds, tens, ones."
+      "summary": "Seven jumps of 10 from 300 land on 370.",
+      "hint": "Count jumps, not the starting mark."
     },
     "qualitySchema": "production-v1"
   },
@@ -228,31 +222,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-008",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "read three digit number",
+    "skill": "word to numeral",
     "printable": true,
     "type": "single",
-    "question": "With base-ten blocks, which numeral matches “2 hundred and 4”?",
-    "audioPrompt": "With base-ten blocks, which numeral matches “2 hundred and 4”?",
-    "visual": "With base-ten blocks: 2 hundreds, zero tens and 4 ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With base-ten blocks: 2 hundreds, zero tens and 4 ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-008\"></use></svg>",
+    "question": "Which numeral matches ‘nine hundred and forty-two’?",
+    "audioPrompt": "Which numeral matches ‘nine hundred and forty-two’?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-008",
-      "alt_text": "With base-ten blocks: 2 hundreds, zero tens and 4 ones."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "204",
-      "240",
-      "24"
+      "924",
+      "942",
+      "902"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "With no tens, a zero keeps the tens place: 204.\nHint: Leave a zero in the tens column.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Nine hundreds, four tens and two ones make 942.\nHint: Place each stated value in H, T and O.",
     "structuredExplanation": {
-      "summary": "With no tens, a zero keeps the tens place: 204.",
-      "hint": "Leave a zero in the tens column."
+      "summary": "Nine hundreds, four tens and two ones make 942.",
+      "hint": "Place each stated value in H, T and O."
     },
     "qualitySchema": "production-v1"
   },
@@ -260,30 +253,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-009",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "represent three digit number",
+    "skill": "hundred chart pattern",
     "printable": true,
     "type": "single",
-    "question": "On the class number line, which number has 3 hundreds, 4 tens and 5 ones?",
-    "audioPrompt": "On the class number line, which number has 3 hundreds, 4 tens and 5 ones?",
-    "visual": "On the class number line: 3 hundred blocks, 4 ten rods and 5 one counters representing 345.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class number line: 3 hundred blocks, 4 ten rods and 5 one counters representing 345.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-009\"></use></svg>",
+    "question": "On a hundred chart, what is directly below 47?",
+    "audioPrompt": "On a hundred chart, what is directly below 47?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-009",
-      "alt_text": "On the class number line: 3 hundred blocks, 4 ten rods and 5 one counters representing 345."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "354",
-      "345",
-      "309"
+      "48",
+      "37",
+      "57"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "3 hundreds, 4 tens and 5 ones make 345.\nHint: Write the hundreds digit, then tens, then ones.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Moving down one row adds 10, so 47 + 10 = 57.\nHint: A row has ten numbers.",
     "structuredExplanation": {
-      "summary": "3 hundreds, 4 tens and 5 ones make 345.",
-      "hint": "Write the hundreds digit, then tens, then ones."
+      "summary": "Moving down one row adds 10, so 47 + 10 = 57.",
+      "hint": "A row has ten numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -291,30 +284,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-010",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "write expanded form",
+    "skill": "represent with materials",
     "printable": true,
     "type": "single",
-    "question": "On the class number line, what is 345 in expanded form?",
-    "audioPrompt": "On the class number line, what is 345 in expanded form?",
-    "visual": "On the class number line: Place-value blocks for 345: 3 hundreds, 4 tens and 5 ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class number line: Place-value blocks for 345: 3 hundreds, 4 tens and 5 ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-010\"></use></svg>",
+    "question": "Which collection represents 530?",
+    "audioPrompt": "Which collection represents 530?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-010",
-      "alt_text": "On the class number line: Place-value blocks for 345: 3 hundreds, 4 tens and 5 ones."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "300 + 50 + 4",
-      "30 + 4 + 5",
-      "300 + 40 + 5"
+      "5 hundreds, 3 tens, 0 ones",
+      "5 hundreds, 0 tens, 3 ones",
+      "3 hundreds, 5 tens, 0 ones"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "The digits show 300, 40 and 5.\nHint: Use the place of each digit to find its value.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "530 is 5 hundreds, 3 tens and no ones.\nHint: Match each digit to its place.",
     "structuredExplanation": {
-      "summary": "The digits show 300, 40 and 5.",
-      "hint": "Use the place of each digit to find its value."
+      "summary": "530 is 5 hundreds, 3 tens and no ones.",
+      "hint": "Match each digit to its place."
     },
     "qualitySchema": "production-v1"
   },
@@ -322,30 +315,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-011",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "compare three digit numbers",
+    "skill": "compare using number line",
     "printable": true,
     "type": "single",
-    "question": "On the class number line, which number is greater: 345 or 353?",
-    "audioPrompt": "On the class number line, which number is greater: 345 or 353?",
-    "visual": "On the class number line: The numerals 345 and 353 shown in place-value columns.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class number line: The numerals 345 and 353 shown in place-value columns.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-011\"></use></svg>",
+    "question": "On a number line, 675 is left of 725. Which statement is true?",
+    "audioPrompt": "On a number line, 675 is left of 725. Which statement is true?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-011",
-      "alt_text": "On the class number line: The numerals 345 and 353 shown in place-value columns."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "353",
-      "345",
-      "They are equal"
+      "675 is greater than 725",
+      "675 is less than 725",
+      "675 is equal to 725"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Both have 3 hundreds. 353 has more tens, so it is greater.\nHint: Compare hundreds first, then tens, then ones.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Numbers farther left are smaller, so 675 < 725.\nHint: Left means less on a number line.",
     "structuredExplanation": {
-      "summary": "Both have 3 hundreds. 353 has more tens, so it is greater.",
-      "hint": "Compare hundreds first, then tens, then ones."
+      "summary": "Numbers farther left are smaller, so 675 < 725.",
+      "hint": "Left means less on a number line."
     },
     "qualitySchema": "production-v1"
   },
@@ -353,30 +346,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-012",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "locate number on number line",
+    "skill": "order using bounds",
     "printable": true,
     "type": "single",
-    "question": "On the class number line, which number belongs halfway between 300 and 400?",
-    "audioPrompt": "On the class number line, which number belongs halfway between 300 and 400?",
-    "visual": "On the class number line: Number line from 300 to 400 with a midpoint marker.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class number line: Number line from 300 to 400 with a midpoint marker.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-012\"></use></svg>",
+    "question": "Which number belongs between 449 and 451?",
+    "audioPrompt": "Which number belongs between 449 and 451?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-012",
-      "alt_text": "On the class number line: Number line from 300 to 400 with a midpoint marker."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "305",
-      "350",
-      "390"
+      "440",
+      "452",
+      "450"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "350 is 50 more than 300 and 50 less than 400.\nHint: Half of 100 is 50.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "450 comes after 449 and before 451.\nHint: Count forward one from 449.",
     "structuredExplanation": {
-      "summary": "350 is 50 more than 300 and 50 less than 400.",
-      "hint": "Half of 100 is 50."
+      "summary": "450 comes after 449 and before 451.",
+      "hint": "Count forward one from 449."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,30 +377,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-013",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "order three digit numbers",
+    "skill": "read zero places",
     "printable": true,
     "type": "single",
-    "question": "On the class number line, put these numbers from smallest to largest: 345, 375, 245.",
-    "audioPrompt": "On the class number line, put these numbers from smallest to largest: 345, 375, 245.",
-    "visual": "On the class number line: Cards labelled 345, 375, 245 ready to be ordered.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class number line: Cards labelled 345, 375, 245 ready to be ordered.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-013\"></use></svg>",
+    "question": "What number has 6 hundreds, no tens and 9 ones?",
+    "audioPrompt": "What number has 6 hundreds, no tens and 9 ones?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-013",
-      "alt_text": "On the class number line: Cards labelled 345, 375, 245 ready to be ordered."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "375, 345, 245",
-      "345, 245, 375",
-      "245, 345, 375"
+      "609",
+      "690",
+      "69"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Compare the hundreds first. The order is 245, 345, 375.\nHint: Find the number with the fewest hundreds first.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "The zero must hold the tens place: 609.\nHint: Write H, T, O, including zero.",
     "structuredExplanation": {
-      "summary": "Compare the hundreds first. The order is 245, 345, 375.",
-      "hint": "Find the number with the fewest hundreds first."
+      "summary": "The zero must hold the tens place: 609.",
+      "hint": "Write H, T, O, including zero."
     },
     "qualitySchema": "production-v1"
   },
@@ -415,30 +408,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-014",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "find ten more",
+    "skill": "number line scale",
     "printable": true,
     "type": "single",
-    "question": "On the class number line, what is 10 more than 345?",
-    "audioPrompt": "On the class number line, what is 10 more than 345?",
-    "visual": "On the class number line: Number line showing a jump of 10 from 345 to a missing number.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class number line: Number line showing a jump of 10 from 345 to a missing number.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-014\"></use></svg>",
+    "question": "A line has 200 at one end and 800 at the other. There are 6 equal jumps. What is each jump?",
+    "audioPrompt": "A line has 200 at one end and 800 at the other. There are 6 equal jumps. What is each jump?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-014",
-      "alt_text": "On the class number line: Number line showing a jump of 10 from 345 to a missing number."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "355",
-      "346",
-      "445"
+      "60",
+      "100",
+      "200"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Adding 10 increases the tens place by 1: 345 becomes 355.\nHint: Keep the hundreds and ones the same.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The total change is 600; 600 split into 6 equal jumps is 100.\nHint: Subtract the endpoints, then share across the jumps.",
     "structuredExplanation": {
-      "summary": "Adding 10 increases the tens place by 1: 345 becomes 355.",
-      "hint": "Keep the hundreds and ones the same."
+      "summary": "The total change is 600; 600 split into 6 equal jumps is 100.",
+      "hint": "Subtract the endpoints, then share across the jumps."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,30 +439,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-015",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "interpret zero digit",
+    "skill": "compare close numbers",
     "printable": true,
     "type": "single",
-    "question": "On the class number line, what does the 0 mean in 305?",
-    "audioPrompt": "On the class number line, what does the 0 mean in 305?",
-    "visual": "On the class number line: 3 hundred blocks, no ten rods and 5 ones for 305.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class number line: 3 hundred blocks, no ten rods and 5 ones for 305.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-015\"></use></svg>",
+    "question": "Which number is greatest: 882, 828 or 880?",
+    "audioPrompt": "Which number is greatest: 882, 828 or 880?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-015",
-      "alt_text": "On the class number line: 3 hundred blocks, no ten rods and 5 ones for 305."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "There are no hundreds",
-      "There are no tens",
-      "There are no ones"
+      "880",
+      "828",
+      "882"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "The 0 is in the tens place, so the number has no tens.\nHint: Read the place-value columns: hundreds, tens, ones.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "All have 8 hundreds. 882 and 880 have 8 tens, and 2 ones is greater than 0 ones.\nHint: Keep comparing until a place differs.",
     "structuredExplanation": {
-      "summary": "The 0 is in the tens place, so the number has no tens.",
-      "hint": "Read the place-value columns: hundreds, tens, ones."
+      "summary": "All have 8 hundreds. 882 and 880 have 8 tens, and 2 ones is greater than 0 ones.",
+      "hint": "Keep comparing until a place differs."
     },
     "qualitySchema": "production-v1"
   },
@@ -477,30 +470,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-016",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "read three digit number",
+    "skill": "descending order",
     "printable": true,
     "type": "single",
-    "question": "On the class number line, which numeral matches “3 hundred and 5”?",
-    "audioPrompt": "On the class number line, which numeral matches “3 hundred and 5”?",
-    "visual": "On the class number line: 3 hundreds, zero tens and 5 ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class number line: 3 hundreds, zero tens and 5 ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-016\"></use></svg>",
+    "question": "Arrange 999, 909, 990 and 900 from largest to smallest.",
+    "audioPrompt": "Arrange 999, 909, 990 and 900 from largest to smallest.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-016",
-      "alt_text": "On the class number line: 3 hundreds, zero tens and 5 ones."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "350",
-      "35",
-      "305"
+      "999, 990, 909, 900",
+      "900, 909, 990, 999",
+      "999, 909, 990, 900"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "With no tens, a zero keeps the tens place: 305.\nHint: Leave a zero in the tens column.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "After 999, 990 has more tens than 909; 900 is smallest.\nHint: Compare hundreds, then tens, then ones.",
     "structuredExplanation": {
-      "summary": "With no tens, a zero keeps the tens place: 305.",
-      "hint": "Leave a zero in the tens column."
+      "summary": "After 999, 990 has more tens than 909; 900 is smallest.",
+      "hint": "Compare hundreds, then tens, then ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,30 +501,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-017",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "represent three digit number",
+    "skill": "count by tens",
     "printable": true,
     "type": "single",
-    "question": "In the number-card game, which number has 4 hundreds, 5 tens and 6 ones?",
-    "audioPrompt": "In the number-card game, which number has 4 hundreds, 5 tens and 6 ones?",
-    "visual": "In the number-card game: 4 hundred blocks, 5 ten rods and 6 one counters representing 456.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the number-card game: 4 hundred blocks, 5 ten rods and 6 one counters representing 456.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-017\"></use></svg>",
+    "question": "Which number completes the count? 763, 773, 783, ___",
+    "audioPrompt": "Which number completes the count? 763, 773, 783, ___",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-017",
-      "alt_text": "In the number-card game: 4 hundred blocks, 5 ten rods and 6 one counters representing 456."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "456",
-      "465",
-      "411"
+      "784",
+      "793",
+      "803"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "4 hundreds, 5 tens and 6 ones make 456.\nHint: Write the hundreds digit, then tens, then ones.",
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Each term is 10 more, so 783 + 10 = 793.\nHint: A jump of 10 changes the tens digit.",
     "structuredExplanation": {
-      "summary": "4 hundreds, 5 tens and 6 ones make 456.",
-      "hint": "Write the hundreds digit, then tens, then ones."
+      "summary": "Each term is 10 more, so 783 + 10 = 793.",
+      "hint": "A jump of 10 changes the tens digit."
     },
     "qualitySchema": "production-v1"
   },
@@ -539,30 +532,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-018",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "write expanded form",
+    "skill": "identify misplaced number",
     "printable": true,
     "type": "single",
-    "question": "In the number-card game, what is 456 in expanded form?",
-    "audioPrompt": "In the number-card game, what is 456 in expanded form?",
-    "visual": "In the number-card game: Place-value blocks for 456: 4 hundreds, 5 tens and 6 ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the number-card game: Place-value blocks for 456: 4 hundreds, 5 tens and 6 ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-018\"></use></svg>",
+    "question": "Which number is misplaced in this increasing list: 268, 286, 278, 296?",
+    "audioPrompt": "Which number is misplaced in this increasing list: 268, 286, 278, 296?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-018",
-      "alt_text": "In the number-card game: Place-value blocks for 456: 4 hundreds, 5 tens and 6 ones."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "400 + 60 + 5",
-      "400 + 50 + 6",
-      "40 + 5 + 6"
+      "278",
+      "296",
+      "286"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "The digits show 400, 50 and 6.\nHint: Use the place of each digit to find its value.",
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "278 should come before 286, so 286 is the first misplaced number.\nHint: Check each neighbouring pair.",
     "structuredExplanation": {
-      "summary": "The digits show 400, 50 and 6.",
-      "hint": "Use the place of each digit to find its value."
+      "summary": "278 should come before 286, so 286 is the first misplaced number.",
+      "hint": "Check each neighbouring pair."
     },
     "qualitySchema": "production-v1"
   },
@@ -570,30 +563,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-019",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "compare three digit numbers",
+    "skill": "reason about range",
     "printable": true,
     "type": "single",
-    "question": "In the number-card game, which number is greater: 456 or 464?",
-    "audioPrompt": "In the number-card game, which number is greater: 456 or 464?",
-    "visual": "In the number-card game: The numerals 456 and 464 shown in place-value columns.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the number-card game: The numerals 456 and 464 shown in place-value columns.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-019\"></use></svg>",
+    "question": "A mystery number has 8 hundreds, is greater than 850 and has 3 ones. Which number can it be?",
+    "audioPrompt": "A mystery number has 8 hundreds, is greater than 850 and has 3 ones. Which number can it be?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-019",
-      "alt_text": "In the number-card game: The numerals 456 and 464 shown in place-value columns."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "456",
-      "They are equal",
-      "464"
+      "863",
+      "843",
+      "853"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Both have 4 hundreds. 464 has more tens, so it is greater.\nHint: Compare hundreds first, then tens, then ones.",
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": 0,
+    "explanation": "863 has 8 hundreds, is above 850 and ends in 3.\nHint: Test every clue, not just one.",
     "structuredExplanation": {
-      "summary": "Both have 4 hundreds. 464 has more tens, so it is greater.",
-      "hint": "Compare hundreds first, then tens, then ones."
+      "summary": "863 has 8 hundreds, is above 850 and ends in 3.",
+      "hint": "Test every clue, not just one."
     },
     "qualitySchema": "production-v1"
   },
@@ -601,30 +594,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-020",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "locate number on number line",
+    "skill": "choose number line point",
     "printable": true,
     "type": "single",
-    "question": "In the number-card game, which number belongs halfway between 400 and 500?",
-    "audioPrompt": "In the number-card game, which number belongs halfway between 400 and 500?",
-    "visual": "In the number-card game: Number line from 400 to 500 with a midpoint marker.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the number-card game: Number line from 400 to 500 with a midpoint marker.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-020\"></use></svg>",
+    "question": "The midpoint between 600 and 700 is marked. Which number is it?",
+    "audioPrompt": "The midpoint between 600 and 700 is marked. Which number is it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-020",
-      "alt_text": "In the number-card game: Number line from 400 to 500 with a midpoint marker."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "450",
-      "405",
-      "490"
+      "610",
+      "650",
+      "750"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "450 is 50 more than 400 and 50 less than 500.\nHint: Half of 100 is 50.",
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "650 is 50 more than 600 and 50 less than 700.\nHint: A midpoint is equally far from both ends.",
     "structuredExplanation": {
-      "summary": "450 is 50 more than 400 and 50 less than 500.",
-      "hint": "Half of 100 is 50."
+      "summary": "650 is 50 more than 600 and 50 less than 700.",
+      "hint": "A midpoint is equally far from both ends."
     },
     "qualitySchema": "production-v1"
   },
@@ -632,30 +625,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-021",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "order three digit numbers",
+    "skill": "digit words consistency",
     "printable": true,
     "type": "single",
-    "question": "In the number-card game, put these numbers from smallest to largest: 456, 486, 356.",
-    "audioPrompt": "In the number-card game, put these numbers from smallest to largest: 456, 486, 356.",
-    "visual": "In the number-card game: Cards labelled 456, 486, 356 ready to be ordered.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the number-card game: Cards labelled 456, 486, 356 ready to be ordered.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-021\"></use></svg>",
+    "question": "Which pair names the same number?",
+    "audioPrompt": "Which pair names the same number?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-021",
-      "alt_text": "In the number-card game: Cards labelled 456, 486, 356 ready to be ordered."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "486, 456, 356",
-      "356, 456, 486",
-      "456, 356, 486"
+      "740 and seven hundred and four",
+      "714 and seven hundred and forty",
+      "704 and seven hundred and four"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Compare the hundreds first. The order is 356, 456, 486.\nHint: Find the number with the fewest hundreds first.",
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "704 has 7 hundreds, no tens and 4 ones.\nHint: Check the zero place carefully.",
     "structuredExplanation": {
-      "summary": "Compare the hundreds first. The order is 356, 456, 486.",
-      "hint": "Find the number with the fewest hundreds first."
+      "summary": "704 has 7 hundreds, no tens and 4 ones.",
+      "hint": "Check the zero place carefully."
     },
     "qualitySchema": "production-v1"
   },
@@ -663,30 +656,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-022",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "find ten more",
+    "skill": "order with equal hundreds",
     "printable": true,
     "type": "single",
-    "question": "In the number-card game, what is 10 more than 456?",
-    "audioPrompt": "In the number-card game, what is 10 more than 456?",
-    "visual": "In the number-card game: Number line showing a jump of 10 from 456 to a missing number.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the number-card game: Number line showing a jump of 10 from 456 to a missing number.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-022\"></use></svg>",
+    "question": "Three cards show 437, 473 and 347. Which card is in the middle when ordered?",
+    "audioPrompt": "Three cards show 437, 473 and 347. Which card is in the middle when ordered?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-022",
-      "alt_text": "In the number-card game: Number line showing a jump of 10 from 456 to a missing number."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "457",
-      "556",
-      "466"
+      "437",
+      "473",
+      "347"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Adding 10 increases the tens place by 1: 456 becomes 466.\nHint: Keep the hundreds and ones the same.",
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": 0,
+    "explanation": "347 is smallest and 473 is largest, leaving 437 in the middle.\nHint: Order all three before choosing the middle.",
     "structuredExplanation": {
-      "summary": "Adding 10 increases the tens place by 1: 456 becomes 466.",
-      "hint": "Keep the hundreds and ones the same."
+      "summary": "347 is smallest and 473 is largest, leaving 437 in the middle.",
+      "hint": "Order all three before choosing the middle."
     },
     "qualitySchema": "production-v1"
   },
@@ -694,30 +687,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-023",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "interpret zero digit",
+    "skill": "justify comparison",
     "printable": true,
     "type": "single",
-    "question": "In the number-card game, what does the 0 mean in 406?",
-    "audioPrompt": "In the number-card game, what does the 0 mean in 406?",
-    "visual": "In the number-card game: 4 hundred blocks, no ten rods and 6 ones for 406.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the number-card game: 4 hundred blocks, no ten rods and 6 ones for 406.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-023\"></use></svg>",
+    "question": "Why is 498 less than 501?",
+    "audioPrompt": "Why is 498 less than 501?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-023",
-      "alt_text": "In the number-card game: 4 hundred blocks, no ten rods and 6 ones for 406."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "There are no tens",
-      "There are no hundreds",
-      "There are no ones"
+      "98 is less than 1",
+      "498 has 4 hundreds while 501 has 5 hundreds",
+      "498 has fewer digits"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "The 0 is in the tens place, so the number has no tens.\nHint: Read the place-value columns: hundreds, tens, ones.",
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": 1,
+    "explanation": "The hundreds place decides: 4 hundreds is less than 5 hundreds.\nHint: Use the highest place where the numbers differ.",
     "structuredExplanation": {
-      "summary": "The 0 is in the tens place, so the number has no tens.",
-      "hint": "Read the place-value columns: hundreds, tens, ones."
+      "summary": "The hundreds place decides: 4 hundreds is less than 5 hundreds.",
+      "hint": "Use the highest place where the numbers differ."
     },
     "qualitySchema": "production-v1"
   },
@@ -725,702 +718,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2n01-p-024",
     "curriculumCode": "AC9M2N01",
     "bank": "practice",
-    "skill": "read three digit number",
+    "skill": "reason from multiple representations",
     "printable": true,
     "type": "single",
-    "question": "In the number-card game, which numeral matches “4 hundred and 6”?",
-    "audioPrompt": "In the number-card game, which numeral matches “4 hundred and 6”?",
-    "visual": "In the number-card game: 4 hundreds, zero tens and 6 ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the number-card game: 4 hundreds, zero tens and 6 ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-024\"></use></svg>",
+    "question": "A model shows 7 hundreds and 15 ones. Which numeral names its total?",
+    "audioPrompt": "A model shows 7 hundreds and 15 ones. Which numeral names its total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-024",
-      "alt_text": "In the number-card game: 4 hundreds, zero tens and 6 ones."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "460",
-      "406",
-      "46"
+      "750",
+      "705",
+      "715"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "With no tens, a zero keeps the tens place: 406.\nHint: Leave a zero in the tens column.",
-    "structuredExplanation": {
-      "summary": "With no tens, a zero keeps the tens place: 406.",
-      "hint": "Leave a zero in the tens column."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-025",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the school garden what is",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, what is 10 more than 120?",
-    "audioPrompt": "At the school garden, what is 10 more than 120?",
-    "visual": "At the school garden, what is 10 more than 120?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, what is 10 more than 120?"
-    },
-    "answers": [
-      "130",
-      "121",
-      "220"
-    ],
-    "correct": 0,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-026",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "during maths groups what is 100",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, what is 100 less than 157?",
-    "audioPrompt": "During maths groups, what is 100 less than 157?",
-    "visual": "During maths groups, what is 100 less than 157?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, what is 100 less than 157?"
-    },
-    "answers": [
-      "147",
-      "257",
-      "57"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "explanation": "Seven hundreds and fifteen ones total 700 + 15 = 715.\nHint: Combine the ones into the final two places.",
     "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-027",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the art table which number",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, which number has 1 hundreds, 9 tens and 4 ones?",
-    "audioPrompt": "At the art table, which number has 1 hundreds, 9 tens and 4 ones?",
-    "visual": "At the art table, which number has 1 hundreds, 9 tens and 4 ones?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, which number has 1 hundreds, 9 tens and 4 ones?"
-    },
-    "answers": [
-      "184",
-      "194",
-      "204"
-    ],
-    "correct": 1,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-028",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "in the playground what is 10",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, what is 10 more than 231?",
-    "audioPrompt": "In the playground, what is 10 more than 231?",
-    "visual": "In the playground, what is 10 more than 231?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, what is 10 more than 231?"
-    },
-    "answers": [
-      "241",
-      "232",
-      "331"
-    ],
-    "correct": 0,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-029",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the library what is 100",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, what is 100 less than 268?",
-    "audioPrompt": "At the library, what is 100 less than 268?",
-    "visual": "At the library, what is 100 less than 268?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, what is 100 less than 268?"
-    },
-    "answers": [
-      "258",
-      "368",
-      "168"
-    ],
-    "correct": 2,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-030",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "during sport which number has 3",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, which number has 3 hundreds, 0 tens and 5 ones?",
-    "audioPrompt": "During sport, which number has 3 hundreds, 0 tens and 5 ones?",
-    "visual": "During sport, which number has 3 hundreds, 0 tens and 5 ones?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, which number has 3 hundreds, 0 tens and 5 ones?"
-    },
-    "answers": [
-      "295",
-      "305",
-      "315"
-    ],
-    "correct": 1,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-031",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the class shop what is",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, what is 10 more than 342?",
-    "audioPrompt": "At the class shop, what is 10 more than 342?",
-    "visual": "At the class shop, what is 10 more than 342?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, what is 10 more than 342?"
-    },
-    "answers": [
-      "352",
-      "343",
-      "442"
-    ],
-    "correct": 0,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-032",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "on the picnic rug what is",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, what is 100 less than 379?",
-    "audioPrompt": "On the picnic rug, what is 100 less than 379?",
-    "visual": "On the picnic rug, what is 100 less than 379?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, what is 100 less than 379?"
-    },
-    "answers": [
-      "369",
-      "479",
-      "279"
-    ],
-    "correct": 2,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-033",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the block table which number",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, which number has 4 hundreds, 1 tens and 6 ones?",
-    "audioPrompt": "At the block table, which number has 4 hundreds, 1 tens and 6 ones?",
-    "visual": "At the block table, which number has 4 hundreds, 1 tens and 6 ones?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, which number has 4 hundreds, 1 tens and 6 ones?"
-    },
-    "answers": [
-      "406",
-      "416",
-      "426"
-    ],
-    "correct": 1,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-034",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "in the lunch area what is",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, what is 10 more than 453?",
-    "audioPrompt": "In the lunch area, what is 10 more than 453?",
-    "visual": "In the lunch area, what is 10 more than 453?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, what is 10 more than 453?"
-    },
-    "answers": [
-      "463",
-      "454",
-      "553"
-    ],
-    "correct": 0,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-035",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the science table what is",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, what is 100 less than 490?",
-    "audioPrompt": "At the science table, what is 100 less than 490?",
-    "visual": "At the science table, what is 100 less than 490?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, what is 100 less than 490?"
-    },
-    "answers": [
-      "480",
-      "590",
-      "390"
-    ],
-    "correct": 2,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-036",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "during a card game which number",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, which number has 5 hundreds, 2 tens and 7 ones?",
-    "audioPrompt": "During a card game, which number has 5 hundreds, 2 tens and 7 ones?",
-    "visual": "During a card game, which number has 5 hundreds, 2 tens and 7 ones?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, which number has 5 hundreds, 2 tens and 7 ones?"
-    },
-    "answers": [
-      "517",
-      "527",
-      "537"
-    ],
-    "correct": 1,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-037",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the school garden what is",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, what is 10 more than 564?",
-    "audioPrompt": "At the school garden, what is 10 more than 564?",
-    "visual": "At the school garden, what is 10 more than 564?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, what is 10 more than 564?"
-    },
-    "answers": [
-      "574",
-      "565",
-      "664"
-    ],
-    "correct": 0,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-038",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "during maths groups what is 100",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, what is 100 less than 601?",
-    "audioPrompt": "During maths groups, what is 100 less than 601?",
-    "visual": "During maths groups, what is 100 less than 601?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, what is 100 less than 601?"
-    },
-    "answers": [
-      "591",
-      "701",
-      "501"
-    ],
-    "correct": 2,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-039",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the art table which number",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, which number has 6 hundreds, 3 tens and 8 ones?",
-    "audioPrompt": "At the art table, which number has 6 hundreds, 3 tens and 8 ones?",
-    "visual": "At the art table, which number has 6 hundreds, 3 tens and 8 ones?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, which number has 6 hundreds, 3 tens and 8 ones?"
-    },
-    "answers": [
-      "628",
-      "638",
-      "648"
-    ],
-    "correct": 1,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-040",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "in the playground what is 10",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, what is 10 more than 675?",
-    "audioPrompt": "In the playground, what is 10 more than 675?",
-    "visual": "In the playground, what is 10 more than 675?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, what is 10 more than 675?"
-    },
-    "answers": [
-      "685",
-      "676",
-      "775"
-    ],
-    "correct": 0,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-041",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the library what is 100",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, what is 100 less than 712?",
-    "audioPrompt": "At the library, what is 100 less than 712?",
-    "visual": "At the library, what is 100 less than 712?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, what is 100 less than 712?"
-    },
-    "answers": [
-      "702",
-      "812",
-      "612"
-    ],
-    "correct": 2,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-042",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "during sport which number has 7",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, which number has 7 hundreds, 4 tens and 9 ones?",
-    "audioPrompt": "During sport, which number has 7 hundreds, 4 tens and 9 ones?",
-    "visual": "During sport, which number has 7 hundreds, 4 tens and 9 ones?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, which number has 7 hundreds, 4 tens and 9 ones?"
-    },
-    "answers": [
-      "739",
-      "749",
-      "759"
-    ],
-    "correct": 1,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-043",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the class shop what is",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, what is 10 more than 786?",
-    "audioPrompt": "At the class shop, what is 10 more than 786?",
-    "visual": "At the class shop, what is 10 more than 786?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, what is 10 more than 786?"
-    },
-    "answers": [
-      "796",
-      "787",
-      "886"
-    ],
-    "correct": 0,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-044",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "on the picnic rug what is",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, what is 100 less than 823?",
-    "audioPrompt": "On the picnic rug, what is 100 less than 823?",
-    "visual": "On the picnic rug, what is 100 less than 823?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, what is 100 less than 823?"
-    },
-    "answers": [
-      "813",
-      "923",
-      "723"
-    ],
-    "correct": 2,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-045",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the block table which number",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, which number has 8 hundreds, 6 tens and 0 ones?",
-    "audioPrompt": "At the block table, which number has 8 hundreds, 6 tens and 0 ones?",
-    "visual": "At the block table, which number has 8 hundreds, 6 tens and 0 ones?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, which number has 8 hundreds, 6 tens and 0 ones?"
-    },
-    "answers": [
-      "850",
-      "860",
-      "870"
-    ],
-    "correct": 1,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-046",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "in the lunch area what is",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, what is 10 more than 897?",
-    "audioPrompt": "In the lunch area, what is 10 more than 897?",
-    "visual": "In the lunch area, what is 10 more than 897?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, what is 10 more than 897?"
-    },
-    "answers": [
-      "907",
-      "898",
-      "997"
-    ],
-    "correct": 0,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-047",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "at the science table what is",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, what is 100 less than 154?",
-    "audioPrompt": "At the science table, what is 100 less than 154?",
-    "visual": "At the science table, what is 100 less than 154?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, what is 100 less than 154?"
-    },
-    "answers": [
-      "144",
-      "254",
-      "54"
-    ],
-    "correct": 2,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2n01-p-048",
-    "curriculumCode": "AC9M2N01",
-    "bank": "practice",
-    "skill": "during a card game which number",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, which number has 1 hundreds, 9 tens and 1 ones?",
-    "audioPrompt": "During a card game, which number has 1 hundreds, 9 tens and 1 ones?",
-    "visual": "During a card game, which number has 1 hundreds, 9 tens and 1 ones?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, which number has 1 hundreds, 9 tens and 1 ones?"
-    },
-    "answers": [
-      "181",
-      "191",
-      "201"
-    ],
-    "correct": 1,
-    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Use hundreds, tens and ones.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "Seven hundreds and fifteen ones total 700 + 15 = 715.",
+      "hint": "Combine the ones into the final two places."
     },
     "qualitySchema": "production-v1"
   }
