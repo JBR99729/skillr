@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1i06-p-001",
+    "id": "ac9s1i06-r4-p-001",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which title clearly names an investigation?",
-    "audioPrompt": "Which title clearly names an investigation?",
+    "question": "A snail moved from a stone to a leaf. Which caption tells what happened?",
+    "audioPrompt": "A snail moved from a stone to a leaf. Which caption tells what happened?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,32 +16,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which paper towel absorbs most water?",
-      "Science stuff",
-      "My work",
-      "Interesting things"
+      "The snail moved onto the leaf.",
+      "The snail stayed on the stone.",
+      "The snail moved under the stone."
     ],
-    "correct": 0,
-    "explanation": "A useful title tells the audience what was investigated.\nHint: Name the actual question or topic.",
-    "structuredExplanation": {
-      "summary": "A useful title tells the audience what was investigated.",
-      "hint": "Name the actual question or topic."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A caption should describe the movement that was observed.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A caption should describe the movement that was observed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-002",
+    "id": "ac9s1i06-r4-p-002",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which sentence shares an observation?",
-    "audioPrompt": "Which sentence shares an observation?",
+    "question": "A child feels a leaf with a bumpy surface. Complete the note: The leaf feels ___.",
+    "audioPrompt": "A child feels a leaf with a bumpy surface. Complete the note: The leaf feels ___.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -49,32 +47,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The seedling is the best.",
-      "It will grow forever.",
-      "Sunlight caused everything.",
-      "The seedling grew 3 cm this week."
+      "wet",
+      "rough",
+      "smooth"
     ],
-    "correct": 3,
-    "explanation": "A clear science message reports what was observed or measured.\nHint: Choose evidence.",
-    "structuredExplanation": {
-      "summary": "A clear science message reports what was observed or measured.",
-      "hint": "Choose evidence."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Rough describes a bumpy surface. Wet describes moisture, which was not reported.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Rough describes a bumpy surface. Wet describes moisture, which was not reported.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-003",
+    "id": "ac9s1i06-r4-p-003",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which visual best shows plant height over three weeks?",
-    "audioPrompt": "Which visual best shows plant height over three weeks?",
+    "question": "A photo shows rain falling into a puddle. Which caption matches it?",
+    "audioPrompt": "A photo shows rain falling into a puddle. Which caption matches it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -82,32 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A cartoon with no measurements",
-      "A blank page",
-      "A simple labelled bar graph",
-      "A decorative border"
+      "The puddle has dried up.",
+      "Snow is covering the puddle.",
+      "Rain is falling into the puddle."
     ],
-    "correct": 2,
-    "explanation": "A labelled graph can show how measured values compare.\nHint: Use a visual that represents the data.",
-    "structuredExplanation": {
-      "summary": "A labelled graph can show how measured values compare.",
-      "hint": "Use a visual that represents the data."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Use words that match what the photo shows.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Use words that match what the photo shows.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-004",
+    "id": "ac9s1i06-r4-p-004",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why label parts of a diagram?",
-    "audioPrompt": "Why label parts of a diagram?",
+    "question": "A ball moves away when a child presses it forwards. Which word completes the report: I gave the ball a ___?",
+    "audioPrompt": "A ball moves away when a child presses it forwards. Which word completes the report: I gave the ball a ___?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -115,32 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "To make it longer.",
-      "So readers know what each part shows.",
-      "To make it more colourful.",
-      "To prove the answer."
+      "push",
+      "pull",
+      "squeeze"
     ],
-    "correct": 1,
-    "explanation": "Labels connect names to features in the visual.\nHint: Help the reader understand the picture.",
-    "structuredExplanation": {
-      "summary": "Labels connect names to features in the visual.",
-      "hint": "Help the reader understand the picture."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A push moves an object away from the hand in this observation.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A push moves an object away from the hand in this observation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-005",
+    "id": "ac9s1i06-r4-p-005",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which ending best reports a finding?",
-    "audioPrompt": "Which ending best reports a finding?",
+    "question": "A drawing shows a bird carrying a twig in its beak. Which label belongs beside the twig?",
+    "audioPrompt": "A drawing shows a bird carrying a twig in its beak. Which label belongs beside the twig?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -148,32 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The blue towel absorbed the most water in our test.",
-      "Blue is my favourite colour.",
-      "The blue towel will always win.",
-      "That was fun."
+      "leaf under wing",
+      "twig held in beak",
+      "food held in foot"
     ],
-    "correct": 0,
-    "explanation": "A finding should summarise what the evidence showed.\nHint: What did the investigation show?",
-    "structuredExplanation": {
-      "summary": "A finding should summarise what the evidence showed.",
-      "hint": "What did the investigation show?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A label names the object and its observed location accurately.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A label names the object and its observed location accurately.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-006",
+    "id": "ac9s1i06-r4-p-006",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which phrase shows evidence clearly?",
-    "audioPrompt": "Which phrase shows evidence clearly?",
+    "question": "A seedling has two leaves today. Which sentence reports this observation?",
+    "audioPrompt": "A seedling has two leaves today. Which sentence reports this observation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,32 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "There were heaps of ants.",
-      "The tree is nicer.",
-      "Ants like trees because I think so.",
-      "We counted 8 ants near the tree and 3 near the path."
+      "Tomorrow it will have four leaves.",
+      "I hope it grows more leaves.",
+      "Today the seedling has two leaves."
     ],
-    "correct": 3,
-    "explanation": "Specific counts communicate evidence precisely.\nHint: Numbers can make the evidence clear.",
-    "structuredExplanation": {
-      "summary": "Specific counts communicate evidence precisely.",
-      "hint": "Numbers can make the evidence clear."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The first sentence reports what can be seen today; the others express a prediction or hope.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The first sentence reports what can be seen today; the others express a prediction or hope.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-007",
+    "id": "ac9s1i06-r4-p-007",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "When speaking to a class, what helps listeners follow your explanation?",
-    "audioPrompt": "When speaking to a class, what helps listeners follow your explanation?",
+    "question": "A child watches a worm move into soil. Which title fits this observation?",
+    "audioPrompt": "A child watches a worm move into soil. Which title fits this observation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -214,32 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Turn your back to the audience.",
-      "Use an unrelated picture.",
-      "Speak clearly and point to the relevant visual when needed.",
-      "Read every word as fast as possible."
+      "Where the worm moved",
+      "How tall the plant grew",
+      "What the bird ate"
     ],
-    "correct": 2,
-    "explanation": "Clear delivery and well-timed visuals help communication.\nHint: Help the audience connect words and evidence.",
-    "structuredExplanation": {
-      "summary": "Clear delivery and well-timed visuals help communication.",
-      "hint": "Help the audience connect words and evidence."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A useful title names the subject of the observation.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A useful title names the subject of the observation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-008",
+    "id": "ac9s1i06-r4-p-008",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which is the best caption for a photo of two melting ice cubes?",
-    "audioPrompt": "Which is the best caption for a photo of two melting ice cubes?",
+    "question": "A damp cloth becomes dry. Which words complete the record: First it was ___; later it was ___?",
+    "audioPrompt": "A damp cloth becomes dry. Which words complete the record: First it was ___; later it was ___?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -247,65 +233,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "My favourite experiment",
-      "Ice cubes after 10 minutes: sunny cube smaller than shaded cube",
-      "Nice ice",
-      "Cold things"
+      "dry; dry",
+      "damp; dry",
+      "dry; damp"
     ],
-    "correct": 1,
-    "explanation": "The caption tells what the image shows and when.\nHint: Specific context.",
-    "structuredExplanation": {
-      "summary": "The caption tells what the image shows and when.",
-      "hint": "Specific context."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The time words must preserve the observed order of the change.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The time words must preserve the observed order of the change.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-009",
+    "id": "ac9s1i06-r4-p-009",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which statement explains rather than just lists data?",
-    "audioPrompt": "Which statement explains rather than just lists data?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the plant notes. Which caption reports the change?",
+    "audioPrompt": "Read the plant notes. Which caption reports the change?",
+    "visual": "Monday: 2 leaves. Friday: 4 leaves.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Monday: 2 leaves. Friday: 4 leaves.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-09.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Monday: 2 leaves. Friday: 4 leaves.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-09.svg#model"
     },
     "answers": [
-      "The sunny ice melted faster because it became smaller sooner in each observation.",
-      "Sunny ice: 4 cm, 3 cm, 1 cm.",
-      "Numbers are 4,3,1.",
-      "Ice is cold."
+      "The plant lost two leaves.",
+      "The plant had four leaves both days.",
+      "The plant grew two more leaves."
     ],
-    "correct": 0,
-    "explanation": "Explanation connects the evidence to the finding.\nHint: Tell what the data mean.",
-    "structuredExplanation": {
-      "summary": "Explanation connects the evidence to the finding.",
-      "hint": "Tell what the data mean."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The count rose from two to four, so two more leaves were present.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The count rose from two to four, so two more leaves were present.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-010",
+    "id": "ac9s1i06-r4-p-010",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which audience might need simpler vocabulary?",
-    "audioPrompt": "Which audience might need simpler vocabulary?",
+    "question": "A child writes: It went farther. They compared a toy car on tile and on carpet. Which sentence makes the finding clear?",
+    "audioPrompt": "A child writes: It went farther. They compared a toy car on tile and on carpet. Which sentence makes the finding clear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -313,32 +296,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A science specialist",
-      "A lab technician",
-      "An expert researcher",
-      "Younger students"
+      "The car went farther on tile than on carpet.",
+      "The car went farther on one of the floors.",
+      "The car went farther than it did somewhere."
     ],
-    "correct": 3,
-    "explanation": "Vocabulary should suit the audience so the message is understood.\nHint: Who may need the simplest wording?",
-    "structuredExplanation": {
-      "summary": "Vocabulary should suit the audience so the message is understood.",
-      "hint": "Who may need the simplest wording?"
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Name both surfaces so the reader knows what is being compared.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Name both surfaces so the reader knows what is being compared.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-011",
+    "id": "ac9s1i06-r4-p-011",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why should a science poster have a clear title?",
-    "audioPrompt": "Why should a science poster have a clear title?",
+    "question": "A photo shows three ants beside a flowerpot. Which caption gives both the number and place?",
+    "audioPrompt": "A photo shows three ants beside a flowerpot. Which caption gives both the number and place?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,32 +327,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Titles replace evidence.",
-      "Titles make data correct.",
-      "It quickly tells readers what the poster is about.",
-      "Titles prove the conclusion."
+      "Three ants are somewhere in the garden.",
+      "Three ants are beside the flowerpot.",
+      "Some ants are beside the flowerpot."
     ],
-    "correct": 2,
-    "explanation": "A clear title helps the audience orient to the investigation or idea.\nHint: What question does the poster answer?",
-    "structuredExplanation": {
-      "summary": "A clear title helps the audience orient to the investigation or idea.",
-      "hint": "What question does the poster answer?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Both the count and location help another person understand the observation.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Both the count and location help another person understand the observation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-012",
+    "id": "ac9s1i06-r4-p-012",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why should a graph have labels?",
-    "audioPrompt": "Why should a graph have labels?",
+    "question": "A child says: The sponge took in water. Which science word can replace took in?",
+    "audioPrompt": "A child says: The sponge took in water. Which science word can replace took in?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -379,32 +358,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Graphs never need words.",
-      "So readers know what each axis or category represents.",
-      "Labels make bars taller.",
-      "Labels guarantee patterns."
+      "floated on",
+      "pushed away",
+      "absorbed"
     ],
-    "correct": 1,
-    "explanation": "Without labels, the data may be impossible to interpret.\nHint: What do the numbers and bars mean?",
-    "structuredExplanation": {
-      "summary": "Without labels, the data may be impossible to interpret.",
-      "hint": "What do the numbers and bars mean?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Absorbed means took in water; it does not mean floating or pushing water away.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Absorbed means took in water; it does not mean floating or pushing water away.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-013",
+    "id": "ac9s1i06-r4-p-013",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why is “The sponge absorbed 15 drops” stronger than “The sponge did well”?",
-    "audioPrompt": "Why is “The sponge absorbed 15 drops” stronger than “The sponge did well”?",
+    "question": "A class watched clouds in the morning and rain after lunch. Which sentence keeps the order clear?",
+    "audioPrompt": "A class watched clouds in the morning and rain after lunch. Which sentence keeps the order clear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -412,32 +389,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It gives specific evidence.",
-      "It has more words.",
-      "“Did well” is always false.",
-      "Numbers prove every conclusion."
+      "First we saw clouds; later rain fell.",
+      "First rain fell; later clouds appeared.",
+      "Rain fell at both observation times."
     ],
-    "correct": 0,
-    "explanation": "Measured evidence is more precise than vague evaluation.\nHint: Specific result.",
-    "structuredExplanation": {
-      "summary": "Measured evidence is more precise than vague evaluation.",
-      "hint": "Specific result."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Time words should communicate the same order as the observations.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Time words should communicate the same order as the observations.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-014",
+    "id": "ac9s1i06-r4-p-014",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why should a speaker avoid reading a dense slide word-for-word?",
-    "audioPrompt": "Why should a speaker avoid reading a dense slide word-for-word?",
+    "question": "A leaf measured five equal blocks long. Which note lets a friend understand the measurement?",
+    "audioPrompt": "A leaf measured five equal blocks long. Which note lets a friend understand the measurement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -445,32 +420,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Slides should have no text at all.",
-      "Reading is not science.",
-      "Words are always confusing.",
-      "Listeners may struggle to read and listen at the same time."
+      "The leaf was five leaves long.",
+      "The leaf was five blocks long.",
+      "The leaf was five long."
     ],
-    "correct": 3,
-    "explanation": "Good multimodal communication lets visuals support rather than overload speech.\nHint: Do not duplicate everything.",
-    "structuredExplanation": {
-      "summary": "Good multimodal communication lets visuals support rather than overload speech.",
-      "hint": "Do not duplicate everything."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Include the measuring unit, blocks, as well as the number.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Include the measuring unit, blocks, as well as the number.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-015",
+    "id": "ac9s1i06-r4-p-015",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why include a labelled photo or diagram?",
-    "audioPrompt": "Why include a labelled photo or diagram?",
+    "question": "A child draws roots below the soil and leaves above it. Which pair of labels matches the drawing?",
+    "audioPrompt": "A child draws roots below the soil and leaves above it. Which pair of labels matches the drawing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -478,32 +451,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every science idea needs a photo.",
-      "Diagrams replace all evidence.",
-      "It can show visible features that are hard to explain with words alone.",
-      "Pictures prove causes."
+      "Below: leaves. Above: roots.",
+      "Below: stem. Above: roots.",
+      "Below: roots. Above: leaves."
     ],
-    "correct": 2,
-    "explanation": "Visuals can clarify structure, location or appearance.\nHint: Use the mode that adds information.",
-    "structuredExplanation": {
-      "summary": "Visuals can clarify structure, location or appearance.",
-      "hint": "Use the mode that adds information."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Correct labels help the reader identify the parts shown in the drawing.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Correct labels help the reader identify the parts shown in the drawing.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-016",
+    "id": "ac9s1i06-r4-p-016",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why should a conclusion match the evidence shown?",
-    "audioPrompt": "Why should a conclusion match the evidence shown?",
+    "question": "A report says: The shadow changed. The child saw a long shadow first and a shorter one later. Which detail improves the report?",
+    "audioPrompt": "A report says: The shadow changed. The child saw a long shadow first and a shorter one later. Which detail improves the report?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -511,65 +482,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The conclusion should always be stronger than the data.",
-      "So the audience can see how the finding comes from the results.",
-      "Conclusions should be surprising.",
-      "Evidence can be unrelated."
+      "The shadow became shorter.",
+      "The shadow became longer.",
+      "The shadow stayed the same length."
     ],
-    "correct": 1,
-    "explanation": "Claims are clearer and more trustworthy when connected to evidence.\nHint: Claim + evidence.",
-    "structuredExplanation": {
-      "summary": "Claims are clearer and more trustworthy when connected to evidence.",
-      "hint": "Claim + evidence."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Describe how the shadow changed, using the observed direction of change.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Describe how the shadow changed, using the observed direction of change.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-017",
+    "id": "ac9s1i06-r4-p-017",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why might a table be better than a paragraph for several measurements?",
-    "audioPrompt": "Why might a table be better than a paragraph for several measurements?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the paper test notes. Which finding should go below them?",
+    "audioPrompt": "Read the paper test notes. Which finding should go below them?",
+    "visual": "Flat paper: Held 2 counters. Folded paper: Held 6 counters.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Flat paper: Held 2 counters. Folded paper: Held 6 counters.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-17.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Flat paper: Held 2 counters. Folded paper: Held 6 counters.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-17.svg#model"
     },
     "answers": [
-      "It can organise values so comparisons are easier.",
-      "Tables make measurements true.",
-      "Paragraphs cannot contain numbers.",
-      "Tables prove patterns."
+      "Both papers held the same number of counters.",
+      "Folded paper held more counters in this test.",
+      "Flat paper held more counters in this test."
     ],
-    "correct": 0,
-    "explanation": "Tables structure repeated data compactly.\nHint: Which format helps compare values?",
-    "structuredExplanation": {
-      "summary": "Tables structure repeated data compactly.",
-      "hint": "Which format helps compare values?"
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A finding compares the results: six counters is more than two.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A finding compares the results: six counters is more than two.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-018",
+    "id": "ac9s1i06-r4-p-018",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why is “The plant grew because it was happy” poor science communication?",
-    "audioPrompt": "Why is “The plant grew because it was happy” poor science communication?",
+    "question": "Two snails were under a pot. The rest of the garden was not checked. Which sentence belongs in the report?",
+    "audioPrompt": "Two snails were under a pot. The rest of the garden was not checked. Which sentence belongs in the report?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -577,32 +545,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Plants cannot be discussed.",
-      "Happy is too short.",
-      "Science never explains anything.",
-      "It gives an unsupported explanation instead of evidence."
+      "Only two snails live in the whole garden.",
+      "All garden snails live under pots.",
+      "We found two snails under the pot."
     ],
-    "correct": 3,
-    "explanation": "Science communication should distinguish observed results from untested causes.\nHint: What was actually observed?",
-    "structuredExplanation": {
-      "summary": "Science communication should distinguish observed results from untested causes.",
-      "hint": "What was actually observed?"
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Report the place actually checked; the observation does not describe the whole garden.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Report the place actually checked; the observation does not describe the whole garden.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-019",
+    "id": "ac9s1i06-r4-p-019",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why should you mention units when reporting measurements?",
-    "audioPrompt": "Why should you mention units when reporting measurements?",
+    "question": "A child writes: The sand was wet because it rained. They saw wet sand but did not see any rain. Which revision reports only what they know?",
+    "audioPrompt": "A child writes: The sand was wet because it rained. They saw wet sand but did not see any rain. Which revision reports only what they know?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,32 +576,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Units prove accuracy.",
-      "Every measurement uses centimetres.",
-      "So the audience knows what the number means.",
-      "Units make numbers larger."
+      "The sand was wet when I looked.",
+      "Rain made the sand wet before I looked.",
+      "The sand was dry before the rain."
     ],
-    "correct": 2,
-    "explanation": "A number without its unit can be unclear.\nHint: 12 what?",
-    "structuredExplanation": {
-      "summary": "A number without its unit can be unclear.",
-      "hint": "12 what?"
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Wetness was observed. Its cause and earlier state were not observed.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Wetness was observed. Its cause and earlier state were not observed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-020",
+    "id": "ac9s1i06-r4-p-020",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why might a speaker pause after an important result?",
-    "audioPrompt": "Why might a speaker pause after an important result?",
+    "question": "A child wants to suggest a cover for a toy. Water passed through cloth but not through plastic in their test. Which sentence links the idea to evidence?",
+    "audioPrompt": "A child wants to suggest a cover for a toy. Water passed through cloth but not through plastic in their test. Which sentence links the idea to evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -643,65 +607,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every sentence needs the same speed.",
-      "It gives listeners time to notice and process the key evidence.",
-      "Pauses prove the result.",
-      "Silence changes the data."
+      "Try plastic because we did not test it.",
+      "Try plastic because it kept water out in our test.",
+      "Try cloth because water passed through it."
     ],
-    "correct": 1,
-    "explanation": "Pacing can help emphasise important information.\nHint: Let the evidence land.",
-    "structuredExplanation": {
-      "summary": "Pacing can help emphasise important information.",
-      "hint": "Let the evidence land."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The reason should explain how the observed result supports the suggested cover.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The reason should explain how the observed result supports the suggested cover.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-021",
+    "id": "ac9s1i06-r4-p-021",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which poster statement is clearest?",
-    "audioPrompt": "Which poster statement is clearest?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the notes from two days. A draft says: We saw more birds on Tuesday. Which correction matches the notes?",
+    "audioPrompt": "Read the notes from two days. A draft says: We saw more birds on Tuesday. Which correction matches the notes?",
+    "visual": "Monday: 5 birds. Tuesday: 2 birds.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Monday: 5 birds. Tuesday: 2 birds.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-21.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Monday: 5 birds. Tuesday: 2 birds.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-21.svg#model"
     },
     "answers": [
-      "Plant A grew 5 cm; Plant B grew 2 cm. Plant A grew more in our test.",
-      "Plant A won.",
-      "Plants are cool.",
-      "The tall one was better."
+      "We saw the same number on both days.",
+      "We saw no birds on Tuesday.",
+      "We saw more birds on Monday."
     ],
-    "correct": 0,
-    "explanation": "The first combines evidence and a direct comparison.\nHint: Specific result + meaning.",
-    "structuredExplanation": {
-      "summary": "The first combines evidence and a direct comparison.",
-      "hint": "Specific result + meaning."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The record shows five on Monday and two on Tuesday, so the comparison must be reversed.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The record shows five on Monday and two on Tuesday, so the comparison must be reversed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-022",
+    "id": "ac9s1i06-r4-p-022",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which graph title is too vague?",
-    "audioPrompt": "Which graph title is too vague?",
+    "question": "One boat held four counters before sinking. A second boat was not tested. Which ending stays within the evidence?",
+    "audioPrompt": "One boat held four counters before sinking. A second boat was not tested. Which ending stays within the evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -709,32 +670,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Bird visits in 10 minutes",
-      "Plant height each week",
-      "Water temperature over time",
-      "Results"
+      "Our tested boat held four counters before sinking.",
+      "Our tested boat held more than the second boat.",
+      "Every paper boat holds exactly four counters."
     ],
-    "correct": 3,
-    "explanation": "“Results” does not tell what was measured.\nHint: Name the data.",
-    "structuredExplanation": {
-      "summary": "“Results” does not tell what was measured.",
-      "hint": "Name the data."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Only one boat was tested, so a comparison or claim about every boat is not supported.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Only one boat was tested, so a comparison or claim about every boat is not supported.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-023",
+    "id": "ac9s1i06-r4-p-023",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which visual is least useful for explaining rainfall totals?",
-    "audioPrompt": "Which visual is least useful for explaining rainfall totals?",
+    "question": "A group found a smooth stone and a rough stone. Which report keeps the difference clear?",
+    "audioPrompt": "A group found a smooth stone and a rough stone. Which report keeps the difference clear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -742,32 +701,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A table of daily totals",
-      "A simple rain-gauge diagram",
-      "An unrelated cartoon",
-      "A labelled bar graph"
+      "The stones felt different but we cannot say how.",
+      "One stone felt smooth and the other felt rough.",
+      "Both stones felt smooth when we touched them."
     ],
-    "correct": 2,
-    "explanation": "An unrelated cartoon does not support the science message.\nHint: Every visual should have a job.",
-    "structuredExplanation": {
-      "summary": "An unrelated cartoon does not support the science message.",
-      "hint": "Every visual should have a job."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Naming each texture communicates the observed difference precisely.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Naming each texture communicates the observed difference precisely.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i06-p-024",
+    "id": "ac9s1i06-r4-p-024",
     "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which sentence overclaims?",
-    "audioPrompt": "Which sentence overclaims?",
+    "question": "A child writes: My prediction was right. They predicted the seedling would have three leaves, but counted five. Which revision is accurate?",
+    "audioPrompt": "A child writes: My prediction was right. They predicted the seedling would have three leaves, but counted five. Which revision is accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -775,549 +732,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Our result supported the idea.",
-      "Our one test proves this material is always strongest.",
-      "This material held the most weight in our test.",
-      "We could repeat the test."
+      "I predicted three leaves and counted three.",
+      "I counted five, so my prediction was five.",
+      "I predicted three leaves, but counted five."
     ],
-    "correct": 1,
-    "explanation": "One small test cannot justify “always”.\nHint: Watch absolute claims.",
-    "structuredExplanation": {
-      "summary": "One small test cannot justify “always”.",
-      "hint": "Watch absolute claims."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-025",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which explanation best links evidence to finding?",
-    "audioPrompt": "Which explanation best links evidence to finding?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Because the shaded ice was still larger after 15 minutes, it melted more slowly in this test.",
-      "Shade is better.",
-      "Ice is cold.",
-      "We watched two cubes."
-    ],
-    "correct": 0,
-    "explanation": "The first shows how the observation supports the conclusion.\nHint: Evidence → meaning.",
-    "structuredExplanation": {
-      "summary": "The first shows how the observation supports the conclusion.",
-      "hint": "Evidence → meaning."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-026",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which slide is easiest to read?",
-    "audioPrompt": "Which slide is easiest to read?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Six paragraphs in tiny text",
-      "Ten unrelated pictures",
-      "A full script in one box",
-      "One clear heading, one labelled graph and a short key message"
-    ],
-    "correct": 3,
-    "explanation": "Simple hierarchy helps the audience find the important information.\nHint: Less clutter, clearer message.",
-    "structuredExplanation": {
-      "summary": "Simple hierarchy helps the audience find the important information.",
-      "hint": "Less clutter, clearer message."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-027",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which spoken statement is most precise?",
-    "audioPrompt": "Which spoken statement is most precise?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The car was amazing.",
-      "The car zoomed heaps.",
-      "The car travelled 82 cm.",
-      "The car went really far."
-    ],
     "correct": 2,
-    "explanation": "A measured distance is specific and checkable.\nHint: Use evidence language.",
+    "explanation": "Keep the original prediction separate from the actual finding.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A measured distance is specific and checkable.",
-      "hint": "Use evidence language."
+      "summary": "Keep the original prediction separate from the actual finding.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-028",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which caption is least helpful?",
-    "audioPrompt": "Which caption is least helpful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Towel after absorbing 12 drops",
-      "Photo 1",
-      "Seedling after 7 days: two new leaves",
-      "Ramp setup with 30 cm start height"
-    ],
-    "correct": 1,
-    "explanation": "“Photo 1” does not explain what the image shows.\nHint: A caption should add meaning.",
-    "structuredExplanation": {
-      "summary": "“Photo 1” does not explain what the image shows.",
-      "hint": "A caption should add meaning."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-029",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which audience choice is best?",
-    "audioPrompt": "Which audience choice is best?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Use familiar words and explain new terms when presenting to Year 1 students.",
-      "Use unexplained technical jargon.",
-      "Assume everyone knows the method.",
-      "Speak as fast as possible."
-    ],
-    "correct": 0,
-    "explanation": "Communication should be adapted to the audience’s knowledge.\nHint: Make meaning accessible.",
-    "structuredExplanation": {
-      "summary": "Communication should be adapted to the audience’s knowledge.",
-      "hint": "Make meaning accessible."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-030",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which report includes both evidence and a conclusion?",
-    "audioPrompt": "Which report includes both evidence and a conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Birds came.",
-      "Feeder A is nicer.",
-      "I think birds love A forever.",
-      "We counted 9 birds at feeder A and 4 at feeder B, so feeder A had more visits in our observation."
-    ],
-    "correct": 3,
-    "explanation": "The first states the data and what the data show.\nHint: Numbers + finding.",
-    "structuredExplanation": {
-      "summary": "The first states the data and what the data show.",
-      "hint": "Numbers + finding."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-031",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A class investigated which paper bridge held more counters. What should the final slide show?",
-    "audioPrompt": "A class investigated which paper bridge held more counters. What should the final slide show?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A joke about counters.",
-      "The favourite bridge colour.",
-      "A labelled photo or diagram, counter totals, and the finding.",
-      "Only the word bridge."
-    ],
-    "correct": 2,
-    "explanation": "The audience needs context, evidence and the conclusion.\nHint: Show setup + data + meaning.",
-    "structuredExplanation": {
-      "summary": "The audience needs context, evidence and the conclusion.",
-      "hint": "Show setup + data + meaning."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-032",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A child has data for four weeks of plant height. Best way to present it?",
-    "audioPrompt": "A child has data for four weeks of plant height. Best way to present it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Say “it grew” with no data.",
-      "Use a simple labelled graph and explain the change in one or two sentences.",
-      "Read the notebook silently.",
-      "Show an unrelated plant picture only."
-    ],
-    "correct": 1,
-    "explanation": "A graph supports comparison while speech can explain the pattern.\nHint: Visualise the measurements.",
-    "structuredExplanation": {
-      "summary": "A graph supports comparison while speech can explain the pattern.",
-      "hint": "Visualise the measurements."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-033",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A poster says “The red ball was best.” How should it be improved?",
-    "audioPrompt": "A poster says “The red ball was best.” How should it be improved?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "State the measured outcome, such as “Red ball travelled 15 cm farther.”",
-      "Make “best” larger.",
-      "Add exclamation marks.",
-      "Remove the result."
-    ],
-    "correct": 0,
-    "explanation": "Replace vague judgement with the actual measured comparison.\nHint: Best at what?",
-    "structuredExplanation": {
-      "summary": "Replace vague judgement with the actual measured comparison.",
-      "hint": "Best at what?"
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-034",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A group wants to explain an ant-count pattern. Which order is clearest?",
-    "audioPrompt": "A group wants to explain an ant-count pattern. Which order is clearest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Conclusion → unrelated joke → title → method",
-      "Pictures only",
-      "Method repeated three times",
-      "Question → how we counted → results → what the results show"
-    ],
-    "correct": 3,
-    "explanation": "A logical sequence helps the audience follow the investigation.\nHint: Build from question to finding.",
-    "structuredExplanation": {
-      "summary": "A logical sequence helps the audience follow the investigation.",
-      "hint": "Build from question to finding."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-035",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A graph is shown while a student says “As you can see.” What should they add?",
-    "audioPrompt": "A graph is shown while a student says “As you can see.” What should they add?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Read every label twice.",
-      "Hide the graph.",
-      "Point out the specific pattern or difference the audience should notice.",
-      "Nothing; graphs explain themselves."
-    ],
-    "correct": 2,
-    "explanation": "The speaker should guide attention to the relevant evidence.\nHint: Tell the audience what matters.",
-    "structuredExplanation": {
-      "summary": "The speaker should guide attention to the relevant evidence.",
-      "hint": "Tell the audience what matters."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-036",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A child needs to explain why they think one towel absorbed more. Which sentence is strongest?",
-    "audioPrompt": "A child needs to explain why they think one towel absorbed more. Which sentence is strongest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Towels absorb water.",
-      "Towel B absorbed 18 drops and towel A absorbed 10, so B absorbed more in our test.",
-      "B was nicer.",
-      "I knew B would win."
-    ],
-    "correct": 1,
-    "explanation": "The sentence directly links measured evidence to the finding.\nHint: Use the numbers.",
-    "structuredExplanation": {
-      "summary": "The sentence directly links measured evidence to the finding.",
-      "hint": "Use the numbers."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-037",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A science display is crowded with five different graphs. What revision helps most?",
-    "audioPrompt": "A science display is crowded with five different graphs. What revision helps most?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Keep only the graph that directly answers the main question, or separate them clearly.",
-      "Make all five smaller.",
-      "Add more decoration.",
-      "Remove labels."
-    ],
-    "correct": 0,
-    "explanation": "Reducing clutter helps the audience focus on relevant evidence.\nHint: Prioritise.",
-    "structuredExplanation": {
-      "summary": "Reducing clutter helps the audience focus on relevant evidence.",
-      "hint": "Prioritise."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-038",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A class is speaking to families at an expo. Which opening is best?",
-    "audioPrompt": "A class is speaking to families at an expo. Which opening is best?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Here are some random numbers.",
-      "You probably already know this.",
-      "Science is complicated.",
-      "We wanted to find out which playground surface became hottest at lunchtime."
-    ],
-    "correct": 3,
-    "explanation": "The opening clearly states the investigation question.\nHint: Tell the audience what you explored.",
-    "structuredExplanation": {
-      "summary": "The opening clearly states the investigation question.",
-      "hint": "Tell the audience what you explored."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-039",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which closing is strongest after a simple investigation?",
-    "audioPrompt": "Which closing is strongest after a simple investigation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "We are done.",
-      "Shade is nice.",
-      "Our results showed the shaded surface stayed cooler in all three checks; next we could test more days.",
-      "That proves shade always works everywhere."
-    ],
-    "correct": 2,
-    "explanation": "It summarises evidence carefully and suggests a sensible next step.\nHint: Conclude without overclaiming.",
-    "structuredExplanation": {
-      "summary": "It summarises evidence carefully and suggests a sensible next step.",
-      "hint": "Conclude without overclaiming."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i06-p-040",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A student has a photo, table and spoken explanation. How should they use them?",
-    "audioPrompt": "A student has a photo, table and spoken explanation. How should they use them?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Speak without referring to any evidence.",
-      "Let each mode add useful information without repeating everything word-for-word.",
-      "Read the entire table aloud.",
-      "Use the photo even if unrelated."
-    ],
-    "correct": 1,
-    "explanation": "Effective multimodal communication combines modes that complement one another.\nHint: Different modes, different jobs.",
-    "structuredExplanation": {
-      "summary": "Effective multimodal communication combines modes that complement one another.",
-      "hint": "Different modes, different jobs."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

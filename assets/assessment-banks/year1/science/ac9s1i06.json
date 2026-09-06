@@ -1,2730 +1,1688 @@
 [
   {
-    "id": "ac9s1i06-p-001",
-    "curriculumCode": "AC9S1I06",
+    "id": "ac9s1i06-r4-p-001",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which title clearly names an investigation?",
-    "audioPrompt": "Which title clearly names an investigation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A snail moved from a stone to a leaf. Which caption tells what happened?",
+    "audio_prompt": "A snail moved from a stone to a leaf. Which caption tells what happened?",
     "answers": [
       {
-        "text": "Which paper towel absorbs most water?",
+        "text": "The snail moved onto the leaf.",
         "is_correct": true
       },
       {
-        "text": "Science stuff",
+        "text": "The snail stayed on the stone.",
         "is_correct": false
       },
       {
-        "text": "My work",
-        "is_correct": false
-      },
-      {
-        "text": "Interesting things",
+        "text": "The snail moved under the stone.",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "A useful title tells the audience what was investigated.\nHint: Name the actual question or topic.",
-    "structuredExplanation": {
-      "summary": "A useful title tells the audience what was investigated.",
-      "hint": "Name the actual question or topic."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A caption should describe the movement that was observed.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-002",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i06-p-002",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence shares an observation?",
-    "audioPrompt": "Which sentence shares an observation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child feels a leaf with a bumpy surface. Complete the note: The leaf feels ___.",
+    "audio_prompt": "A child feels a leaf with a bumpy surface. Complete the note: The leaf feels ___.",
+    "answers": [
+      {
+        "text": "wet",
+        "is_correct": false
+      },
+      {
+        "text": "rough",
+        "is_correct": true
+      },
+      {
+        "text": "smooth",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rough describes a bumpy surface. Wet describes moisture, which was not reported.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "The seedling is the best.",
-        "is_correct": false
-      },
-      {
-        "text": "It will grow forever.",
-        "is_correct": false
-      },
-      {
-        "text": "Sunlight caused everything.",
-        "is_correct": false
-      },
-      {
-        "text": "The seedling grew 3 cm this week.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "A clear science message reports what was observed or measured.\nHint: Choose evidence.",
-    "structuredExplanation": {
-      "summary": "A clear science message reports what was observed or measured.",
-      "hint": "Choose evidence."
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-003",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i06-p-003",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which visual best shows plant height over three weeks?",
-    "audioPrompt": "Which visual best shows plant height over three weeks?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A photo shows rain falling into a puddle. Which caption matches it?",
+    "audio_prompt": "A photo shows rain falling into a puddle. Which caption matches it?",
+    "answers": [
+      {
+        "text": "The puddle has dried up.",
+        "is_correct": false
+      },
+      {
+        "text": "Snow is covering the puddle.",
+        "is_correct": false
+      },
+      {
+        "text": "Rain is falling into the puddle.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use words that match what the photo shows.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "A cartoon with no measurements",
-        "is_correct": false
-      },
-      {
-        "text": "A blank page",
-        "is_correct": false
-      },
-      {
-        "text": "A simple labelled bar graph",
-        "is_correct": true
-      },
-      {
-        "text": "A decorative border",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A labelled graph can show how measured values compare.\nHint: Use a visual that represents the data.",
-    "structuredExplanation": {
-      "summary": "A labelled graph can show how measured values compare.",
-      "hint": "Use a visual that represents the data."
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-004",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i06-p-004",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why label parts of a diagram?",
-    "audioPrompt": "Why label parts of a diagram?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A ball moves away when a child presses it forwards. Which word completes the report: I gave the ball a ___?",
+    "audio_prompt": "A ball moves away when a child presses it forwards. Which word completes the report: I gave the ball a ___?",
     "answers": [
       {
-        "text": "To make it longer.",
-        "is_correct": false
-      },
-      {
-        "text": "So readers know what each part shows.",
+        "text": "push",
         "is_correct": true
       },
       {
-        "text": "To make it more colourful.",
+        "text": "pull",
         "is_correct": false
       },
       {
-        "text": "To prove the answer.",
+        "text": "squeeze",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Labels connect names to features in the visual.\nHint: Help the reader understand the picture.",
-    "structuredExplanation": {
-      "summary": "Labels connect names to features in the visual.",
-      "hint": "Help the reader understand the picture."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A push moves an object away from the hand in this observation.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-005",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i06-p-005",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which ending best reports a finding?",
-    "audioPrompt": "Which ending best reports a finding?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A drawing shows a bird carrying a twig in its beak. Which label belongs beside the twig?",
+    "audio_prompt": "A drawing shows a bird carrying a twig in its beak. Which label belongs beside the twig?",
     "answers": [
       {
-        "text": "The blue towel absorbed the most water in our test.",
+        "text": "leaf under wing",
+        "is_correct": false
+      },
+      {
+        "text": "twig held in beak",
         "is_correct": true
       },
       {
-        "text": "Blue is my favourite colour.",
-        "is_correct": false
-      },
-      {
-        "text": "The blue towel will always win.",
-        "is_correct": false
-      },
-      {
-        "text": "That was fun.",
+        "text": "food held in foot",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "A finding should summarise what the evidence showed.\nHint: What did the investigation show?",
-    "structuredExplanation": {
-      "summary": "A finding should summarise what the evidence showed.",
-      "hint": "What did the investigation show?"
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A label names the object and its observed location accurately.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-006",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i06-p-006",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which phrase shows evidence clearly?",
-    "audioPrompt": "Which phrase shows evidence clearly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A seedling has two leaves today. Which sentence reports this observation?",
+    "audio_prompt": "A seedling has two leaves today. Which sentence reports this observation?",
     "answers": [
       {
-        "text": "There were heaps of ants.",
+        "text": "Tomorrow it will have four leaves.",
         "is_correct": false
       },
       {
-        "text": "The tree is nicer.",
+        "text": "I hope it grows more leaves.",
         "is_correct": false
       },
       {
-        "text": "Ants like trees because I think so.",
-        "is_correct": false
-      },
-      {
-        "text": "We counted 8 ants near the tree and 3 near the path.",
+        "text": "Today the seedling has two leaves.",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Specific counts communicate evidence precisely.\nHint: Numbers can make the evidence clear.",
-    "structuredExplanation": {
-      "summary": "Specific counts communicate evidence precisely.",
-      "hint": "Numbers can make the evidence clear."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The first sentence reports what can be seen today; the others express a prediction or hope.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-007",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i06-p-007",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "When speaking to a class, what helps listeners follow your explanation?",
-    "audioPrompt": "When speaking to a class, what helps listeners follow your explanation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child watches a worm move into soil. Which title fits this observation?",
+    "audio_prompt": "A child watches a worm move into soil. Which title fits this observation?",
     "answers": [
       {
-        "text": "Turn your back to the audience.",
-        "is_correct": false
-      },
-      {
-        "text": "Use an unrelated picture.",
-        "is_correct": false
-      },
-      {
-        "text": "Speak clearly and point to the relevant visual when needed.",
+        "text": "Where the worm moved",
         "is_correct": true
       },
       {
-        "text": "Read every word as fast as possible.",
+        "text": "How tall the plant grew",
+        "is_correct": false
+      },
+      {
+        "text": "What the bird ate",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Clear delivery and well-timed visuals help communication.\nHint: Help the audience connect words and evidence.",
-    "structuredExplanation": {
-      "summary": "Clear delivery and well-timed visuals help communication.",
-      "hint": "Help the audience connect words and evidence."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful title names the subject of the observation.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-008",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i06-p-008",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the best caption for a photo of two melting ice cubes?",
-    "audioPrompt": "Which is the best caption for a photo of two melting ice cubes?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A damp cloth becomes dry. Which words complete the record: First it was ___; later it was ___?",
+    "audio_prompt": "A damp cloth becomes dry. Which words complete the record: First it was ___; later it was ___?",
     "answers": [
       {
-        "text": "My favourite experiment",
+        "text": "dry; dry",
         "is_correct": false
       },
       {
-        "text": "Ice cubes after 10 minutes: sunny cube smaller than shaded cube",
+        "text": "damp; dry",
         "is_correct": true
       },
       {
-        "text": "Nice ice",
-        "is_correct": false
-      },
-      {
-        "text": "Cold things",
+        "text": "dry; damp",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "The caption tells what the image shows and when.\nHint: Specific context.",
-    "structuredExplanation": {
-      "summary": "The caption tells what the image shows and when.",
-      "hint": "Specific context."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The time words must preserve the observed order of the change.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-009",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i06-p-009",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement explains rather than just lists data?",
-    "audioPrompt": "Which statement explains rather than just lists data?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "Read the plant notes. Which caption reports the change?",
+    "audio_prompt": "Read the plant notes. Which caption reports the change?",
     "answers": [
       {
-        "text": "The sunny ice melted faster because it became smaller sooner in each observation.",
-        "is_correct": true
-      },
-      {
-        "text": "Sunny ice: 4 cm, 3 cm, 1 cm.",
+        "text": "The plant lost two leaves.",
         "is_correct": false
       },
       {
-        "text": "Numbers are 4,3,1.",
+        "text": "The plant had four leaves both days.",
         "is_correct": false
       },
       {
-        "text": "Ice is cold.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Explanation connects the evidence to the finding.\nHint: Tell what the data mean.",
-    "structuredExplanation": {
-      "summary": "Explanation connects the evidence to the finding.",
-      "hint": "Tell what the data mean."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i06-p-010",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which audience might need simpler vocabulary?",
-    "audioPrompt": "Which audience might need simpler vocabulary?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A science specialist",
-        "is_correct": false
-      },
-      {
-        "text": "A lab technician",
-        "is_correct": false
-      },
-      {
-        "text": "An expert researcher",
-        "is_correct": false
-      },
-      {
-        "text": "Younger students",
+        "text": "The plant grew two more leaves.",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Vocabulary should suit the audience so the message is understood.\nHint: Who may need the simplest wording?",
-    "structuredExplanation": {
-      "summary": "Vocabulary should suit the audience so the message is understood.",
-      "hint": "Who may need the simplest wording?"
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The count rose from two to four, so two more leaves were present.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i06-p-011",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why should a science poster have a clear title?",
-    "audioPrompt": "Why should a science poster have a clear title?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+    "visual": {
+      "type": "svg",
+      "alt_text": "Monday: 2 leaves. Friday: 4 leaves.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-09.svg#model"
     },
-    "answers": [
-      {
-        "text": "Titles replace evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Titles make data correct.",
-        "is_correct": false
-      },
-      {
-        "text": "It quickly tells readers what the poster is about.",
-        "is_correct": true
-      },
-      {
-        "text": "Titles prove the conclusion.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A clear title helps the audience orient to the investigation or idea.\nHint: What question does the poster answer?",
-    "structuredExplanation": {
-      "summary": "A clear title helps the audience orient to the investigation or idea.",
-      "hint": "What question does the poster answer?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-010",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i06-p-012",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why should a graph have labels?",
-    "audioPrompt": "Why should a graph have labels?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child writes: It went farther. They compared a toy car on tile and on carpet. Which sentence makes the finding clear?",
+    "audio_prompt": "A child writes: It went farther. They compared a toy car on tile and on carpet. Which sentence makes the finding clear?",
     "answers": [
       {
-        "text": "Graphs never need words.",
-        "is_correct": false
-      },
-      {
-        "text": "So readers know what each axis or category represents.",
+        "text": "The car went farther on tile than on carpet.",
         "is_correct": true
       },
       {
-        "text": "Labels make bars taller.",
+        "text": "The car went farther on one of the floors.",
         "is_correct": false
       },
       {
-        "text": "Labels guarantee patterns.",
+        "text": "The car went farther than it did somewhere.",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Without labels, the data may be impossible to interpret.\nHint: What do the numbers and bars mean?",
-    "structuredExplanation": {
-      "summary": "Without labels, the data may be impossible to interpret.",
-      "hint": "What do the numbers and bars mean?"
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Name both surfaces so the reader knows what is being compared.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-011",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i06-p-013",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “The sponge absorbed 15 drops” stronger than “The sponge did well”?",
-    "audioPrompt": "Why is “The sponge absorbed 15 drops” stronger than “The sponge did well”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A photo shows three ants beside a flowerpot. Which caption gives both the number and place?",
+    "audio_prompt": "A photo shows three ants beside a flowerpot. Which caption gives both the number and place?",
     "answers": [
       {
-        "text": "It gives specific evidence.",
+        "text": "Three ants are somewhere in the garden.",
+        "is_correct": false
+      },
+      {
+        "text": "Three ants are beside the flowerpot.",
         "is_correct": true
       },
       {
-        "text": "It has more words.",
-        "is_correct": false
-      },
-      {
-        "text": "“Did well” is always false.",
-        "is_correct": false
-      },
-      {
-        "text": "Numbers prove every conclusion.",
+        "text": "Some ants are beside the flowerpot.",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "Measured evidence is more precise than vague evaluation.\nHint: Specific result.",
-    "structuredExplanation": {
-      "summary": "Measured evidence is more precise than vague evaluation.",
-      "hint": "Specific result."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both the count and location help another person understand the observation.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-012",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i06-p-014",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why should a speaker avoid reading a dense slide word-for-word?",
-    "audioPrompt": "Why should a speaker avoid reading a dense slide word-for-word?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child says: The sponge took in water. Which science word can replace took in?",
+    "audio_prompt": "A child says: The sponge took in water. Which science word can replace took in?",
     "answers": [
       {
-        "text": "Slides should have no text at all.",
+        "text": "floated on",
         "is_correct": false
       },
       {
-        "text": "Reading is not science.",
+        "text": "pushed away",
         "is_correct": false
       },
       {
-        "text": "Words are always confusing.",
-        "is_correct": false
-      },
-      {
-        "text": "Listeners may struggle to read and listen at the same time.",
+        "text": "absorbed",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Good multimodal communication lets visuals support rather than overload speech.\nHint: Do not duplicate everything.",
-    "structuredExplanation": {
-      "summary": "Good multimodal communication lets visuals support rather than overload speech.",
-      "hint": "Do not duplicate everything."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Absorbed means took in water; it does not mean floating or pushing water away.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-013",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i06-p-015",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why include a labelled photo or diagram?",
-    "audioPrompt": "Why include a labelled photo or diagram?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A class watched clouds in the morning and rain after lunch. Which sentence keeps the order clear?",
+    "audio_prompt": "A class watched clouds in the morning and rain after lunch. Which sentence keeps the order clear?",
     "answers": [
       {
-        "text": "Every science idea needs a photo.",
-        "is_correct": false
-      },
-      {
-        "text": "Diagrams replace all evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "It can show visible features that are hard to explain with words alone.",
+        "text": "First we saw clouds; later rain fell.",
         "is_correct": true
       },
       {
-        "text": "Pictures prove causes.",
+        "text": "First rain fell; later clouds appeared.",
+        "is_correct": false
+      },
+      {
+        "text": "Rain fell at both observation times.",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Visuals can clarify structure, location or appearance.\nHint: Use the mode that adds information.",
-    "structuredExplanation": {
-      "summary": "Visuals can clarify structure, location or appearance.",
-      "hint": "Use the mode that adds information."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Time words should communicate the same order as the observations.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-014",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i06-p-016",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why should a conclusion match the evidence shown?",
-    "audioPrompt": "Why should a conclusion match the evidence shown?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A leaf measured five equal blocks long. Which note lets a friend understand the measurement?",
+    "audio_prompt": "A leaf measured five equal blocks long. Which note lets a friend understand the measurement?",
     "answers": [
       {
-        "text": "The conclusion should always be stronger than the data.",
+        "text": "The leaf was five leaves long.",
         "is_correct": false
       },
       {
-        "text": "So the audience can see how the finding comes from the results.",
+        "text": "The leaf was five blocks long.",
         "is_correct": true
       },
       {
-        "text": "Conclusions should be surprising.",
-        "is_correct": false
-      },
-      {
-        "text": "Evidence can be unrelated.",
+        "text": "The leaf was five long.",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Claims are clearer and more trustworthy when connected to evidence.\nHint: Claim + evidence.",
-    "structuredExplanation": {
-      "summary": "Claims are clearer and more trustworthy when connected to evidence.",
-      "hint": "Claim + evidence."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Include the measuring unit, blocks, as well as the number.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-015",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i06-p-017",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why might a table be better than a paragraph for several measurements?",
-    "audioPrompt": "Why might a table be better than a paragraph for several measurements?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child draws roots below the soil and leaves above it. Which pair of labels matches the drawing?",
+    "audio_prompt": "A child draws roots below the soil and leaves above it. Which pair of labels matches the drawing?",
+    "answers": [
+      {
+        "text": "Below: leaves. Above: roots.",
+        "is_correct": false
+      },
+      {
+        "text": "Below: stem. Above: roots.",
+        "is_correct": false
+      },
+      {
+        "text": "Below: roots. Above: leaves.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Correct labels help the reader identify the parts shown in the drawing.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "It can organise values so comparisons are easier.",
-        "is_correct": true
-      },
-      {
-        "text": "Tables make measurements true.",
-        "is_correct": false
-      },
-      {
-        "text": "Paragraphs cannot contain numbers.",
-        "is_correct": false
-      },
-      {
-        "text": "Tables prove patterns.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Tables structure repeated data compactly.\nHint: Which format helps compare values?",
-    "structuredExplanation": {
-      "summary": "Tables structure repeated data compactly.",
-      "hint": "Which format helps compare values?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-016",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i06-p-018",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “The plant grew because it was happy” poor science communication?",
-    "audioPrompt": "Why is “The plant grew because it was happy” poor science communication?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A report says: The shadow changed. The child saw a long shadow first and a shorter one later. Which detail improves the report?",
+    "audio_prompt": "A report says: The shadow changed. The child saw a long shadow first and a shorter one later. Which detail improves the report?",
+    "answers": [
+      {
+        "text": "The shadow became shorter.",
+        "is_correct": true
+      },
+      {
+        "text": "The shadow became longer.",
+        "is_correct": false
+      },
+      {
+        "text": "The shadow stayed the same length.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Describe how the shadow changed, using the observed direction of change.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Plants cannot be discussed.",
-        "is_correct": false
-      },
-      {
-        "text": "Happy is too short.",
-        "is_correct": false
-      },
-      {
-        "text": "Science never explains anything.",
-        "is_correct": false
-      },
-      {
-        "text": "It gives an unsupported explanation instead of evidence.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Science communication should distinguish observed results from untested causes.\nHint: What was actually observed?",
-    "structuredExplanation": {
-      "summary": "Science communication should distinguish observed results from untested causes.",
-      "hint": "What was actually observed?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-017",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i06-p-019",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why should you mention units when reporting measurements?",
-    "audioPrompt": "Why should you mention units when reporting measurements?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "Read the paper test notes. Which finding should go below them?",
+    "audio_prompt": "Read the paper test notes. Which finding should go below them?",
     "answers": [
       {
-        "text": "Units prove accuracy.",
+        "text": "Both papers held the same number of counters.",
         "is_correct": false
       },
       {
-        "text": "Every measurement uses centimetres.",
-        "is_correct": false
-      },
-      {
-        "text": "So the audience knows what the number means.",
+        "text": "Folded paper held more counters in this test.",
         "is_correct": true
       },
       {
-        "text": "Units make numbers larger.",
+        "text": "Flat paper held more counters in this test.",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "A number without its unit can be unclear.\nHint: 12 what?",
-    "structuredExplanation": {
-      "summary": "A number without its unit can be unclear.",
-      "hint": "12 what?"
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A finding compares the results: six counters is more than two.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i06-p-020",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why might a speaker pause after an important result?",
-    "audioPrompt": "Why might a speaker pause after an important result?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+    "visual": {
+      "type": "svg",
+      "alt_text": "Flat paper: Held 2 counters. Folded paper: Held 6 counters.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-17.svg#model"
     },
-    "answers": [
-      {
-        "text": "Every sentence needs the same speed.",
-        "is_correct": false
-      },
-      {
-        "text": "It gives listeners time to notice and process the key evidence.",
-        "is_correct": true
-      },
-      {
-        "text": "Pauses prove the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Silence changes the data.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Pacing can help emphasise important information.\nHint: Let the evidence land.",
-    "structuredExplanation": {
-      "summary": "Pacing can help emphasise important information.",
-      "hint": "Let the evidence land."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i06-p-021",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which poster statement is clearest?",
-    "audioPrompt": "Which poster statement is clearest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Plant A grew 5 cm; Plant B grew 2 cm. Plant A grew more in our test.",
-        "is_correct": true
-      },
-      {
-        "text": "Plant A won.",
-        "is_correct": false
-      },
-      {
-        "text": "Plants are cool.",
-        "is_correct": false
-      },
-      {
-        "text": "The tall one was better.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "The first combines evidence and a direct comparison.\nHint: Specific result + meaning.",
-    "structuredExplanation": {
-      "summary": "The first combines evidence and a direct comparison.",
-      "hint": "Specific result + meaning."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i06-p-022",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which graph title is too vague?",
-    "audioPrompt": "Which graph title is too vague?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Bird visits in 10 minutes",
-        "is_correct": false
-      },
-      {
-        "text": "Plant height each week",
-        "is_correct": false
-      },
-      {
-        "text": "Water temperature over time",
-        "is_correct": false
-      },
-      {
-        "text": "Results",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "“Results” does not tell what was measured.\nHint: Name the data.",
-    "structuredExplanation": {
-      "summary": "“Results” does not tell what was measured.",
-      "hint": "Name the data."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i06-p-023",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which visual is least useful for explaining rainfall totals?",
-    "audioPrompt": "Which visual is least useful for explaining rainfall totals?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A table of daily totals",
-        "is_correct": false
-      },
-      {
-        "text": "A simple rain-gauge diagram",
-        "is_correct": false
-      },
-      {
-        "text": "An unrelated cartoon",
-        "is_correct": true
-      },
-      {
-        "text": "A labelled bar graph",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "An unrelated cartoon does not support the science message.\nHint: Every visual should have a job.",
-    "structuredExplanation": {
-      "summary": "An unrelated cartoon does not support the science message.",
-      "hint": "Every visual should have a job."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i06-p-024",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence overclaims?",
-    "audioPrompt": "Which sentence overclaims?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Our result supported the idea.",
-        "is_correct": false
-      },
-      {
-        "text": "Our one test proves this material is always strongest.",
-        "is_correct": true
-      },
-      {
-        "text": "This material held the most weight in our test.",
-        "is_correct": false
-      },
-      {
-        "text": "We could repeat the test.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "One small test cannot justify “always”.\nHint: Watch absolute claims.",
-    "structuredExplanation": {
-      "summary": "One small test cannot justify “always”.",
-      "hint": "Watch absolute claims."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i06-p-025",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which explanation best links evidence to finding?",
-    "audioPrompt": "Which explanation best links evidence to finding?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Because the shaded ice was still larger after 15 minutes, it melted more slowly in this test.",
-        "is_correct": true
-      },
-      {
-        "text": "Shade is better.",
-        "is_correct": false
-      },
-      {
-        "text": "Ice is cold.",
-        "is_correct": false
-      },
-      {
-        "text": "We watched two cubes.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "The first shows how the observation supports the conclusion.\nHint: Evidence → meaning.",
-    "structuredExplanation": {
-      "summary": "The first shows how the observation supports the conclusion.",
-      "hint": "Evidence → meaning."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i06-p-026",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which slide is easiest to read?",
-    "audioPrompt": "Which slide is easiest to read?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Six paragraphs in tiny text",
-        "is_correct": false
-      },
-      {
-        "text": "Ten unrelated pictures",
-        "is_correct": false
-      },
-      {
-        "text": "A full script in one box",
-        "is_correct": false
-      },
-      {
-        "text": "One clear heading, one labelled graph and a short key message",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Simple hierarchy helps the audience find the important information.\nHint: Less clutter, clearer message.",
-    "structuredExplanation": {
-      "summary": "Simple hierarchy helps the audience find the important information.",
-      "hint": "Less clutter, clearer message."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i06-p-027",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which spoken statement is most precise?",
-    "audioPrompt": "Which spoken statement is most precise?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The car was amazing.",
-        "is_correct": false
-      },
-      {
-        "text": "The car zoomed heaps.",
-        "is_correct": false
-      },
-      {
-        "text": "The car travelled 82 cm.",
-        "is_correct": true
-      },
-      {
-        "text": "The car went really far.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A measured distance is specific and checkable.\nHint: Use evidence language.",
-    "structuredExplanation": {
-      "summary": "A measured distance is specific and checkable.",
-      "hint": "Use evidence language."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i06-p-028",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which caption is least helpful?",
-    "audioPrompt": "Which caption is least helpful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Towel after absorbing 12 drops",
-        "is_correct": false
-      },
-      {
-        "text": "Photo 1",
-        "is_correct": true
-      },
-      {
-        "text": "Seedling after 7 days: two new leaves",
-        "is_correct": false
-      },
-      {
-        "text": "Ramp setup with 30 cm start height",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "“Photo 1” does not explain what the image shows.\nHint: A caption should add meaning.",
-    "structuredExplanation": {
-      "summary": "“Photo 1” does not explain what the image shows.",
-      "hint": "A caption should add meaning."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i06-p-029",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which audience choice is best?",
-    "audioPrompt": "Which audience choice is best?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use familiar words and explain new terms when presenting to Year 1 students.",
-        "is_correct": true
-      },
-      {
-        "text": "Use unexplained technical jargon.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume everyone knows the method.",
-        "is_correct": false
-      },
-      {
-        "text": "Speak as fast as possible.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Communication should be adapted to the audience’s knowledge.\nHint: Make meaning accessible.",
-    "structuredExplanation": {
-      "summary": "Communication should be adapted to the audience’s knowledge.",
-      "hint": "Make meaning accessible."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i06-p-030",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which report includes both evidence and a conclusion?",
-    "audioPrompt": "Which report includes both evidence and a conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Birds came.",
-        "is_correct": false
-      },
-      {
-        "text": "Feeder A is nicer.",
-        "is_correct": false
-      },
-      {
-        "text": "I think birds love A forever.",
-        "is_correct": false
-      },
-      {
-        "text": "We counted 9 birds at feeder A and 4 at feeder B, so feeder A had more visits in our observation.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The first states the data and what the data show.\nHint: Numbers + finding.",
-    "structuredExplanation": {
-      "summary": "The first states the data and what the data show.",
-      "hint": "Numbers + finding."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i06-p-031",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A class investigated which paper bridge held more counters. What should the final slide show?",
-    "audioPrompt": "A class investigated which paper bridge held more counters. What should the final slide show?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A joke about counters.",
-        "is_correct": false
-      },
-      {
-        "text": "The favourite bridge colour.",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled photo or diagram, counter totals, and the finding.",
-        "is_correct": true
-      },
-      {
-        "text": "Only the word bridge.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The audience needs context, evidence and the conclusion.\nHint: Show setup + data + meaning.",
-    "structuredExplanation": {
-      "summary": "The audience needs context, evidence and the conclusion.",
-      "hint": "Show setup + data + meaning."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-018",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i06-p-032",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A child has data for four weeks of plant height. Best way to present it?",
-    "audioPrompt": "A child has data for four weeks of plant height. Best way to present it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "Two snails were under a pot. The rest of the garden was not checked. Which sentence belongs in the report?",
+    "audio_prompt": "Two snails were under a pot. The rest of the garden was not checked. Which sentence belongs in the report?",
     "answers": [
       {
-        "text": "Say “it grew” with no data.",
+        "text": "Only two snails live in the whole garden.",
         "is_correct": false
       },
       {
-        "text": "Use a simple labelled graph and explain the change in one or two sentences.",
-        "is_correct": true
-      },
-      {
-        "text": "Read the notebook silently.",
+        "text": "All garden snails live under pots.",
         "is_correct": false
       },
       {
-        "text": "Show an unrelated plant picture only.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "A graph supports comparison while speech can explain the pattern.\nHint: Visualise the measurements.",
-    "structuredExplanation": {
-      "summary": "A graph supports comparison while speech can explain the pattern.",
-      "hint": "Visualise the measurements."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i06-p-033",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A poster says “The red ball was best.” How should it be improved?",
-    "audioPrompt": "A poster says “The red ball was best.” How should it be improved?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "State the measured outcome, such as “Red ball travelled 15 cm farther.”",
-        "is_correct": true
-      },
-      {
-        "text": "Make “best” larger.",
-        "is_correct": false
-      },
-      {
-        "text": "Add exclamation marks.",
-        "is_correct": false
-      },
-      {
-        "text": "Remove the result.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Replace vague judgement with the actual measured comparison.\nHint: Best at what?",
-    "structuredExplanation": {
-      "summary": "Replace vague judgement with the actual measured comparison.",
-      "hint": "Best at what?"
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i06-p-034",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A group wants to explain an ant-count pattern. Which order is clearest?",
-    "audioPrompt": "A group wants to explain an ant-count pattern. Which order is clearest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Conclusion → unrelated joke → title → method",
-        "is_correct": false
-      },
-      {
-        "text": "Pictures only",
-        "is_correct": false
-      },
-      {
-        "text": "Method repeated three times",
-        "is_correct": false
-      },
-      {
-        "text": "Question → how we counted → results → what the results show",
+        "text": "We found two snails under the pot.",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "A logical sequence helps the audience follow the investigation.\nHint: Build from question to finding.",
-    "structuredExplanation": {
-      "summary": "A logical sequence helps the audience follow the investigation.",
-      "hint": "Build from question to finding."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Report the place actually checked; the observation does not describe the whole garden.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i06-p-035",
-    "curriculumCode": "AC9S1I06",
-    "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A graph is shown while a student says “As you can see.” What should they add?",
-    "audioPrompt": "A graph is shown while a student says “As you can see.” What should they add?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Read every label twice.",
-        "is_correct": false
-      },
-      {
-        "text": "Hide the graph.",
-        "is_correct": false
-      },
-      {
-        "text": "Point out the specific pattern or difference the audience should notice.",
-        "is_correct": true
-      },
-      {
-        "text": "Nothing; graphs explain themselves.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The speaker should guide attention to the relevant evidence.\nHint: Tell the audience what matters.",
-    "structuredExplanation": {
-      "summary": "The speaker should guide attention to the relevant evidence.",
-      "hint": "Tell the audience what matters."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-019",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i06-p-036",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A child needs to explain why they think one towel absorbed more. Which sentence is strongest?",
-    "audioPrompt": "A child needs to explain why they think one towel absorbed more. Which sentence is strongest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child writes: The sand was wet because it rained. They saw wet sand but did not see any rain. Which revision reports only what they know?",
+    "audio_prompt": "A child writes: The sand was wet because it rained. They saw wet sand but did not see any rain. Which revision reports only what they know?",
+    "answers": [
+      {
+        "text": "The sand was wet when I looked.",
+        "is_correct": true
+      },
+      {
+        "text": "Rain made the sand wet before I looked.",
+        "is_correct": false
+      },
+      {
+        "text": "The sand was dry before the rain.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Wetness was observed. Its cause and earlier state were not observed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Towels absorb water.",
-        "is_correct": false
-      },
-      {
-        "text": "Towel B absorbed 18 drops and towel A absorbed 10, so B absorbed more in our test.",
-        "is_correct": true
-      },
-      {
-        "text": "B was nicer.",
-        "is_correct": false
-      },
-      {
-        "text": "I knew B would win.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The sentence directly links measured evidence to the finding.\nHint: Use the numbers.",
-    "structuredExplanation": {
-      "summary": "The sentence directly links measured evidence to the finding.",
-      "hint": "Use the numbers."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-020",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i06-p-037",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A science display is crowded with five different graphs. What revision helps most?",
-    "audioPrompt": "A science display is crowded with five different graphs. What revision helps most?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child wants to suggest a cover for a toy. Water passed through cloth but not through plastic in their test. Which sentence links the idea to evidence?",
+    "audio_prompt": "A child wants to suggest a cover for a toy. Water passed through cloth but not through plastic in their test. Which sentence links the idea to evidence?",
+    "answers": [
+      {
+        "text": "Try plastic because we did not test it.",
+        "is_correct": false
+      },
+      {
+        "text": "Try plastic because it kept water out in our test.",
+        "is_correct": true
+      },
+      {
+        "text": "Try cloth because water passed through it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The reason should explain how the observed result supports the suggested cover.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Keep only the graph that directly answers the main question, or separate them clearly.",
-        "is_correct": true
-      },
-      {
-        "text": "Make all five smaller.",
-        "is_correct": false
-      },
-      {
-        "text": "Add more decoration.",
-        "is_correct": false
-      },
-      {
-        "text": "Remove labels.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Reducing clutter helps the audience focus on relevant evidence.\nHint: Prioritise.",
-    "structuredExplanation": {
-      "summary": "Reducing clutter helps the audience focus on relevant evidence.",
-      "hint": "Prioritise."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-021",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "practice",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "Read the notes from two days. A draft says: We saw more birds on Tuesday. Which correction matches the notes?",
+    "audio_prompt": "Read the notes from two days. A draft says: We saw more birds on Tuesday. Which correction matches the notes?",
+    "answers": [
+      {
+        "text": "We saw the same number on both days.",
+        "is_correct": false
+      },
+      {
+        "text": "We saw no birds on Tuesday.",
+        "is_correct": false
+      },
+      {
+        "text": "We saw more birds on Monday.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The record shows five on Monday and two on Tuesday, so the comparison must be reversed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Monday: 5 birds. Tuesday: 2 birds.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-21.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-p-038",
-    "curriculumCode": "AC9S1I06",
+    "id": "ac9s1i06-r4-p-022",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A class is speaking to families at an expo. Which opening is best?",
-    "audioPrompt": "A class is speaking to families at an expo. Which opening is best?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "One boat held four counters before sinking. A second boat was not tested. Which ending stays within the evidence?",
+    "audio_prompt": "One boat held four counters before sinking. A second boat was not tested. Which ending stays within the evidence?",
+    "answers": [
+      {
+        "text": "Our tested boat held four counters before sinking.",
+        "is_correct": true
+      },
+      {
+        "text": "Our tested boat held more than the second boat.",
+        "is_correct": false
+      },
+      {
+        "text": "Every paper boat holds exactly four counters.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Only one boat was tested, so a comparison or claim about every boat is not supported.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Here are some random numbers.",
-        "is_correct": false
-      },
-      {
-        "text": "You probably already know this.",
-        "is_correct": false
-      },
-      {
-        "text": "Science is complicated.",
-        "is_correct": false
-      },
-      {
-        "text": "We wanted to find out which playground surface became hottest at lunchtime.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The opening clearly states the investigation question.\nHint: Tell the audience what you explored.",
-    "structuredExplanation": {
-      "summary": "The opening clearly states the investigation question.",
-      "hint": "Tell the audience what you explored."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-023",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i06-p-039",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which closing is strongest after a simple investigation?",
-    "audioPrompt": "Which closing is strongest after a simple investigation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A group found a smooth stone and a rough stone. Which report keeps the difference clear?",
+    "audio_prompt": "A group found a smooth stone and a rough stone. Which report keeps the difference clear?",
+    "answers": [
+      {
+        "text": "The stones felt different but we cannot say how.",
+        "is_correct": false
+      },
+      {
+        "text": "One stone felt smooth and the other felt rough.",
+        "is_correct": true
+      },
+      {
+        "text": "Both stones felt smooth when we touched them.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Naming each texture communicates the observed difference precisely.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "We are done.",
-        "is_correct": false
-      },
-      {
-        "text": "Shade is nice.",
-        "is_correct": false
-      },
-      {
-        "text": "Our results showed the shaded surface stayed cooler in all three checks; next we could test more days.",
-        "is_correct": true
-      },
-      {
-        "text": "That proves shade always works everywhere.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "It summarises evidence carefully and suggests a sensible next step.\nHint: Conclude without overclaiming.",
-    "structuredExplanation": {
-      "summary": "It summarises evidence carefully and suggests a sensible next step.",
-      "hint": "Conclude without overclaiming."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-p-024",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i06-p-040",
-    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A student has a photo, table and spoken explanation. How should they use them?",
-    "audioPrompt": "A student has a photo, table and spoken explanation. How should they use them?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child writes: My prediction was right. They predicted the seedling would have three leaves, but counted five. Which revision is accurate?",
+    "audio_prompt": "A child writes: My prediction was right. They predicted the seedling would have three leaves, but counted five. Which revision is accurate?",
+    "answers": [
+      {
+        "text": "I predicted three leaves and counted three.",
+        "is_correct": false
+      },
+      {
+        "text": "I counted five, so my prediction was five.",
+        "is_correct": false
+      },
+      {
+        "text": "I predicted three leaves, but counted five.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep the original prediction separate from the actual finding.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Speak without referring to any evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Let each mode add useful information without repeating everything word-for-word.",
-        "is_correct": true
-      },
-      {
-        "text": "Read the entire table aloud.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the photo even if unrelated.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Effective multimodal communication combines modes that complement one another.\nHint: Different modes, different jobs.",
-    "structuredExplanation": {
-      "summary": "Effective multimodal communication combines modes that complement one another.",
-      "hint": "Different modes, different jobs."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
+  },
+  {
+    "id": "ac9s1i06-r4-t-001",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i06-t-001",
-    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which title best suits a test about how far toy cars roll?",
-    "audioPrompt": "Which title best suits a test about how far toy cars roll?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A beetle crawls beneath a fallen branch. Which sentence describes its new position?",
+    "audio_prompt": "A beetle crawls beneath a fallen branch. Which sentence describes its new position?",
+    "answers": [
+      {
+        "text": "The beetle is under the branch.",
+        "is_correct": true
+      },
+      {
+        "text": "The beetle is above the branch.",
+        "is_correct": false
+      },
+      {
+        "text": "The beetle is inside a leaf.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use a position word that matches where the beetle moved.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "My science",
-        "is_correct": false
-      },
-      {
-        "text": "Cars",
-        "is_correct": false
-      },
-      {
-        "text": "Results",
-        "is_correct": false
-      },
-      {
-        "text": "Toy-car rolling distance",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "A specific title tells the audience what was measured.\nHint: Name the investigation.",
-    "structuredExplanation": {
-      "summary": "A specific title tells the audience what was measured.",
-      "hint": "Name the investigation."
-    },
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I06",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-002",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence reports evidence clearly?",
-    "audioPrompt": "Which sentence reports evidence clearly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It cooled because it wanted to.",
-        "is_correct": false
-      },
-      {
-        "text": "The water will always cool.",
-        "is_correct": false
-      },
-      {
-        "text": "The water cooled from 30°C to 24°C.",
-        "is_correct": true
-      },
-      {
-        "text": "The water got nicer.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The first gives a measured change.\nHint: Specific evidence.",
-    "structuredExplanation": {
-      "summary": "The first gives a measured change.",
-      "hint": "Specific evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-002",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child presses dough and it becomes flatter. Complete the report: Pressing changed the dough's ___.",
+    "audio_prompt": "A child presses dough and it becomes flatter. Complete the report: Pressing changed the dough's ___.",
+    "answers": [
+      {
+        "text": "material",
+        "is_correct": false
+      },
+      {
+        "text": "shape",
+        "is_correct": true
+      },
+      {
+        "text": "colour",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Flatter describes a change in shape; there is no evidence of a colour or material change.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-003",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why label a bar graph?",
-    "audioPrompt": "Why label a bar graph?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "To add decoration.",
-        "is_correct": false
-      },
-      {
-        "text": "So readers know what each bar and number represents.",
-        "is_correct": true
-      },
-      {
-        "text": "To make bars taller.",
-        "is_correct": false
-      },
-      {
-        "text": "To prove the result.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Labels make the data interpretable.\nHint: What does each bar mean?",
-    "structuredExplanation": {
-      "summary": "Labels make the data interpretable.",
-      "hint": "What does each bar mean?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-003",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "Read the puddle record. Which caption describes both observations?",
+    "audio_prompt": "Read the puddle record. Which caption describes both observations?",
+    "answers": [
+      {
+        "text": "The puddle was larger after lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "The puddle was gone before lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "The puddle was smaller after lunch.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The record shows a change in size, not complete disappearance.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Before lunch: Large puddle. After lunch: Small puddle.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-27.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-004",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which visual best shows where spots appeared on a leaf?",
-    "audioPrompt": "Which visual best shows where spots appeared on a leaf?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A labelled diagram of the leaf",
-        "is_correct": true
-      },
-      {
-        "text": "A temperature graph",
-        "is_correct": false
-      },
-      {
-        "text": "A map of Australia",
-        "is_correct": false
-      },
-      {
-        "text": "A random photo",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "A labelled diagram can show location on the leaf.\nHint: Choose the mode that fits the information.",
-    "structuredExplanation": {
-      "summary": "A labelled diagram can show location on the leaf.",
-      "hint": "Choose the mode that fits the information."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-004",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child writes: The bark is nice. Which replacement communicates the texture they felt?",
+    "audio_prompt": "A child writes: The bark is nice. Which replacement communicates the texture they felt?",
+    "answers": [
+      {
+        "text": "The bark feels rough.",
+        "is_correct": true
+      },
+      {
+        "text": "I like the bark very much.",
+        "is_correct": false
+      },
+      {
+        "text": "The bark looks lovely.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rough describes an observed texture; liking something is an opinion.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-005",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which conclusion is careful?",
-    "audioPrompt": "Which conclusion is careful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Red cars always travel farther.",
-        "is_correct": false
-      },
-      {
-        "text": "Red is the best colour.",
-        "is_correct": false
-      },
-      {
-        "text": "The result proves all cars.",
-        "is_correct": false
-      },
-      {
-        "text": "The red car travelled farther in our three trials.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The statement stays within the trials completed.\nHint: These trials only.",
-    "structuredExplanation": {
-      "summary": "The statement stays within the trials completed.",
-      "hint": "These trials only."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-005",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A drawing shows a bean's root pointing down into soil. Which caption matches it?",
+    "audio_prompt": "A drawing shows a bean's root pointing down into soil. Which caption matches it?",
+    "answers": [
+      {
+        "text": "The root grows up above the soil.",
+        "is_correct": false
+      },
+      {
+        "text": "The root grows down into the soil.",
+        "is_correct": true
+      },
+      {
+        "text": "The leaf grows down into the soil.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The caption must name both the correct plant part and its direction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-006",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "What should a caption do?",
-    "audioPrompt": "What should a caption do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Replace all evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Add a joke.",
-        "is_correct": false
-      },
-      {
-        "text": "Explain what an image shows and why it matters.",
-        "is_correct": true
-      },
-      {
-        "text": "Repeat “photo” only.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Captions give images context.\nHint: Name the evidence.",
-    "structuredExplanation": {
-      "summary": "Captions give images context.",
-      "hint": "Name the evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-006",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child records a stick as seven cubes long. Which label preserves the complete measurement?",
+    "audio_prompt": "A child records a stick as seven cubes long. Which label preserves the complete measurement?",
+    "answers": [
+      {
+        "text": "Length: seven sticks.",
+        "is_correct": false
+      },
+      {
+        "text": "Length: seven.",
+        "is_correct": false
+      },
+      {
+        "text": "Length: seven cubes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The unit must be the cubes used to measure, not the object measured.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-007",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which slide is least effective?",
-    "audioPrompt": "Which slide is least effective?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A short evidence statement",
-        "is_correct": false
-      },
-      {
-        "text": "Tiny paragraphs covering the whole screen",
-        "is_correct": true
-      },
-      {
-        "text": "One clear graph with labels",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled photo",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Dense tiny text is hard to read while listening.\nHint: Avoid overload.",
-    "structuredExplanation": {
-      "summary": "Dense tiny text is hard to read while listening.",
-      "hint": "Avoid overload."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-007",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A class sees dry ground on arrival and wet ground after a shower. Which report gives the correct sequence?",
+    "audio_prompt": "A class sees dry ground on arrival and wet ground after a shower. Which report gives the correct sequence?",
+    "answers": [
+      {
+        "text": "The ground was dry, then it became wet.",
+        "is_correct": true
+      },
+      {
+        "text": "The ground was wet, then it became dry.",
+        "is_correct": false
+      },
+      {
+        "text": "The ground was wet at both times.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The order of the description should match the order of observations.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-008",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why include measurement units in a talk?",
-    "audioPrompt": "Why include measurement units in a talk?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "So numbers are meaningful.",
-        "is_correct": true
-      },
-      {
-        "text": "To make the talk longer.",
-        "is_correct": false
-      },
-      {
-        "text": "Because every unit is cm.",
-        "is_correct": false
-      },
-      {
-        "text": "To prove a cause.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Units explain what quantities represent.\nHint: Number + unit.",
-    "structuredExplanation": {
-      "summary": "Units explain what quantities represent.",
-      "hint": "Number + unit."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-008",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child writes: It was cooler there. They compared water in shade with water in sunlight. Which revision names the comparison?",
+    "audio_prompt": "A child writes: It was cooler there. They compared water in shade with water in sunlight. Which revision names the comparison?",
+    "answers": [
+      {
+        "text": "Something in shade was cooler than something else.",
+        "is_correct": false
+      },
+      {
+        "text": "Water in shade was cooler than water in sunlight.",
+        "is_correct": true
+      },
+      {
+        "text": "Water was cooler in one of the two places.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Name what was compared and both locations to make the finding clear.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-009",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement links evidence to finding?",
-    "audioPrompt": "Which statement links evidence to finding?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Feeder B is pretty.",
-        "is_correct": false
-      },
-      {
-        "text": "Birds like B forever.",
-        "is_correct": false
-      },
-      {
-        "text": "We used two feeders.",
-        "is_correct": false
-      },
-      {
-        "text": "We counted twice as many visits at feeder B, so B had more visits in our observation.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The first explains what the counts show.\nHint: Evidence → conclusion.",
-    "structuredExplanation": {
-      "summary": "The first explains what the counts show.",
-      "hint": "Evidence → conclusion."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-009",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "Read the car test record. Which sentence belongs in the results?",
+    "audio_prompt": "Read the car test record. Which sentence belongs in the results?",
+    "answers": [
+      {
+        "text": "The car went farther after the gentle push.",
+        "is_correct": false
+      },
+      {
+        "text": "The car travelled the same distance both times.",
+        "is_correct": false
+      },
+      {
+        "text": "The car went farther after the stronger push.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The record links the stronger push to the longer travel in this test.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Gentle push: Shorter travel. Stronger push: Longer travel.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-33.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-010",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "What is the best opening for a poster?",
-    "audioPrompt": "What is the best opening for a poster?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A random picture",
-        "is_correct": false
-      },
-      {
-        "text": "A long unrelated story",
-        "is_correct": false
-      },
-      {
-        "text": "A clear question or purpose",
-        "is_correct": true
-      },
-      {
-        "text": "The conclusion only",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The audience needs to know what the work is about.\nHint: Start with purpose.",
-    "structuredExplanation": {
-      "summary": "The audience needs to know what the work is about.",
-      "hint": "Start with purpose."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-010",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child counted four worms in one soil tray. Which report avoids claiming more than they observed?",
+    "audio_prompt": "A child counted four worms in one soil tray. Which report avoids claiming more than they observed?",
+    "answers": [
+      {
+        "text": "We counted four worms in this tray.",
+        "is_correct": true
+      },
+      {
+        "text": "Every soil tray has four worms.",
+        "is_correct": false
+      },
+      {
+        "text": "There are only four worms in the school.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The observation supports a claim about this tray, not all trays or the school.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-011",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which wording is too strong after one test?",
-    "audioPrompt": "Which wording is too strong after one test?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "More tests could be useful.",
-        "is_correct": false
-      },
-      {
-        "text": "This proves the material always works best.",
-        "is_correct": true
-      },
-      {
-        "text": "This material held most weight in our test.",
-        "is_correct": false
-      },
-      {
-        "text": "Our result supported the idea.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "“Always” goes beyond the evidence.\nHint: Watch certainty.",
-    "structuredExplanation": {
-      "summary": "“Always” goes beyond the evidence.",
-      "hint": "Watch certainty."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-011",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A draft says: The leaf became brown. Photos show it was green on Monday and yellow on Friday. Which revision matches both photos?",
+    "audio_prompt": "A draft says: The leaf became brown. Photos show it was green on Monday and yellow on Friday. Which revision matches both photos?",
+    "answers": [
+      {
+        "text": "The leaf changed from green to brown.",
+        "is_correct": false
+      },
+      {
+        "text": "The leaf changed from green to yellow.",
+        "is_correct": true
+      },
+      {
+        "text": "The leaf changed from yellow to green.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the observed colours in the correct time order.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-012",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A table has no headings. What is the main problem?",
-    "audioPrompt": "A table has no headings. What is the main problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Readers cannot tell what the numbers mean.",
-        "is_correct": true
-      },
-      {
-        "text": "The table is too scientific.",
-        "is_correct": false
-      },
-      {
-        "text": "Numbers become wrong.",
-        "is_correct": false
-      },
-      {
-        "text": "Tables need pictures only.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Headings identify each column or row.\nHint: Label the data.",
-    "structuredExplanation": {
-      "summary": "Headings identify each column or row.",
-      "hint": "Label the data."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-012",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A group suggests a resting place for a toy animal that must stay dry. Their roof kept the space below dry during a water test. Which sentence explains their choice?",
+    "audio_prompt": "A group suggests a resting place for a toy animal that must stay dry. Their roof kept the space below dry during a water test. Which sentence explains their choice?",
+    "answers": [
+      {
+        "text": "Use our roof because the space below became wet in the test.",
+        "is_correct": false
+      },
+      {
+        "text": "Use our roof because no water test was needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Use our roof because the space below stayed dry in the test.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An explanation should connect the suggested design with the result actually observed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-013",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which spoken delivery helps listeners?",
-    "audioPrompt": "Which spoken delivery helps listeners?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Very fast reading",
-        "is_correct": false
-      },
-      {
-        "text": "Facing away",
-        "is_correct": false
-      },
-      {
-        "text": "Whispering every result",
-        "is_correct": false
-      },
-      {
-        "text": "Clear pace with pauses at key evidence",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Controlled pace supports comprehension.\nHint: Help people follow.",
-    "structuredExplanation": {
-      "summary": "Controlled pace supports comprehension.",
-      "hint": "Help people follow."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-013",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "Read the insect notes. Which finding compares the two places accurately?",
+    "audio_prompt": "Read the insect notes. Which finding compares the two places accurately?",
+    "answers": [
+      {
+        "text": "We found more insects beside the log than beside the path.",
+        "is_correct": true
+      },
+      {
+        "text": "We found more insects beside the path than beside the log.",
+        "is_correct": false
+      },
+      {
+        "text": "We found insects beside the log but none beside the path.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Six is more than three, but both places had insects.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Beside the log: 6 insects. Beside the path: 3 insects.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-4/ac9s1i06-37.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-014",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
-    "audioPrompt": "A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Plants always grow this way.",
-        "is_correct": false
-      },
-      {
-        "text": "The graph is green.",
-        "is_correct": false
-      },
-      {
-        "text": "The recorded leaf count increased each week.",
-        "is_correct": true
-      },
-      {
-        "text": "It proves exactly two new leaves forever.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The statement accurately describes the observed trend.\nHint: Say what the graph shows.",
-    "structuredExplanation": {
-      "summary": "The statement accurately describes the observed trend.",
-      "hint": "Say what the graph shows."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-014",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A child sees holes in a leaf but does not see what made them. Which caption separates observation from an idea?",
+    "audio_prompt": "A child sees holes in a leaf but does not see what made them. Which caption separates observation from an idea?",
+    "answers": [
+      {
+        "text": "I saw holes, so a snail certainly made them.",
+        "is_correct": false
+      },
+      {
+        "text": "I saw holes. An animal may have made them.",
+        "is_correct": true
+      },
+      {
+        "text": "I watched an animal make all the holes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The holes are observed; an animal making them is a possible explanation, not an observed fact.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-015",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Which final sentence is strongest?",
-    "audioPrompt": "Which final sentence is strongest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Science is fun.",
-        "is_correct": false
-      },
-      {
-        "text": "These results answered our question, and repeating the test would help us check the pattern.",
-        "is_correct": true
-      },
-      {
-        "text": "We proved everything.",
-        "is_correct": false
-      },
-      {
-        "text": "The end.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "It closes the investigation and recognises the value of further evidence.\nHint: Summarise + next step.",
-    "structuredExplanation": {
-      "summary": "It closes the investigation and recognises the value of further evidence.",
-      "hint": "Summarise + next step."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-015",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A class predicted towel A would soak up more water. Towel B soaked up more. Which report keeps both facts?",
+    "audio_prompt": "A class predicted towel A would soak up more water. Towel B soaked up more. Which report keeps both facts?",
+    "answers": [
+      {
+        "text": "We expected B to soak up more, and B did.",
+        "is_correct": false
+      },
+      {
+        "text": "We expected A to soak up more, and A did.",
+        "is_correct": false
+      },
+      {
+        "text": "We expected A to soak up more, but B did.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A report should preserve the original prediction and the different result.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   },
   {
-    "id": "ac9s1i06-t-016",
-    "curriculumCode": "AC9S1I06",
-    "bank": "test",
-    "skill": "communicating scientific ideas",
-    "printable": true,
-    "type": "single",
-    "question": "Why choose words suited to the audience?",
-    "audioPrompt": "Why choose words suited to the audience?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "So people can understand the science message.",
-        "is_correct": true
-      },
-      {
-        "text": "So the data change.",
-        "is_correct": false
-      },
-      {
-        "text": "So evidence becomes true.",
-        "is_correct": false
-      },
-      {
-        "text": "So the talk is longer.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Audience-appropriate language improves communication.\nHint: Communicate for understanding.",
-    "structuredExplanation": {
-      "summary": "Audience-appropriate language improves communication.",
-      "hint": "Communicate for understanding."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i06-r4-t-016",
     "curriculum_code": "AC9S1I06",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "communicating observations, findings and ideas using everyday and scientific vocabulary",
+    "question": "A poster says: All seeds grew. The record shows three seeds grew and one did not. Which ending should replace it?",
+    "audio_prompt": "A poster says: All seeds grew. The record shows three seeds grew and one did not. Which ending should replace it?",
+    "answers": [
+      {
+        "text": "Three seeds grew; one did not.",
+        "is_correct": true
+      },
+      {
+        "text": "Four seeds grew; none failed.",
+        "is_correct": false
+      },
+      {
+        "text": "One seed grew; three did not.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ending should include both the seeds that grew and the seed that did not.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/what-objects-can-a-magnet-pull",
+      "evidence_scope": "Representative IXL evidence-to-sentence and observation-label tasks inspected. Original curriculum-led communication items; selected responses do not assess independent text creation. No measured cognitive-load or full adaptive-progression equivalence. See docs/question-bank-reviews/2026-09-06-year1-science-i06.md."
+    }
   }
 ]

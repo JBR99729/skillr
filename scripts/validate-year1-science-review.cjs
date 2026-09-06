@@ -9,8 +9,9 @@ const read = p => fs.readFileSync(path.join(root,p),'utf8');
 const tick = () => new Promise(r=>setImmediate(r));
 const batch2 = process.argv.includes('--batch2');
 const batch3 = process.argv.includes('--batch3');
-const codes = batch3 ? ['ac9s1i03','ac9s1i04','ac9s1i05'] : batch2 ? ['ac9s1h01','ac9s1i01','ac9s1i02'] : ['ac9s1u01','ac9s1u02','ac9s1u03'];
-const tag = batch3 ? 'r3' : batch2 ? 'r2' : 'r1';
+const batch4 = process.argv.includes('--batch4');
+const codes = batch4 ? ['ac9s1i06'] : batch3 ? ['ac9s1i03','ac9s1i04','ac9s1i05'] : batch2 ? ['ac9s1h01','ac9s1i01','ac9s1i02'] : ['ac9s1u01','ac9s1u02','ac9s1u03'];
+const tag = batch4 ? 'r4' : batch3 ? 'r3' : batch2 ? 'r2' : 'r1';
 let rendered = 0, visualCount = 0;
 (async()=>{
  for(const code of codes) {
@@ -85,5 +86,5 @@ let rendered = 0, visualCount = 0;
    assert.equal(seen.size,source.length,code+' '+mode+' coverage');
   }
  }
- console.log(`PASS: 120 source questions; ${visualCount} visual assets; ${rendered} answers through 15 real-runtime attempts; complete bank coverage; scoring, answer shuffle, rotation, and result-key isolation.`);
+ console.log(`PASS: ${codes.length*40} source questions; ${visualCount} visual assets; ${rendered} answers through ${codes.length*5} real-runtime attempts; complete bank coverage; scoring, answer shuffle, rotation, and result-key isolation.`);
 })().catch(e=>{console.error(e);process.exitCode=1;});
