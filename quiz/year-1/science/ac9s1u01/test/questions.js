@@ -1,14 +1,14 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9s1u01-t-001",
+    "id": "ac9s1u01-r1-t-001",
     "curriculumCode": "AC9S1U01",
     "bank": "test",
     "skill": "needs of plants and animals",
     "printable": true,
     "type": "single",
-    "question": "Which resource do both a gum tree and a kangaroo need?",
-    "audioPrompt": "Which resource do both a gum tree and a kangaroo need?",
+    "question": "A hen pecks grain from the ground. What does the grain provide?",
+    "audioPrompt": "A hen pecks grain from the ground. What does the grain provide?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,31 +16,30 @@ window.skillrExamQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "toys",
-      "television",
-      "shoes",
+      "food",
+      "shelter",
       "water"
     ],
-    "correct": 3,
-    "explanation": "Both plants and animals need water.\nHint: Shared basic need.",
-    "structuredExplanation": {
-      "summary": "Both plants and animals need water.",
-      "hint": "Shared basic need."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1,
-    "qualitySchema": "reviewed-year1-science-v1"
+    "correct": 0,
+    "explanation": "Grain is food the hen can eat.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Grain is food the hen can eat.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1u01-t-002",
+    "id": "ac9s1u01-r1-t-002",
     "curriculumCode": "AC9S1U01",
     "bank": "test",
     "skill": "needs of plants and animals",
     "printable": true,
     "type": "single",
-    "question": "Why does a bird build a nest?",
-    "audioPrompt": "Why does a bird build a nest?",
+    "question": "A dog drinks after a walk. Which need is it meeting?",
+    "audioPrompt": "A dog drinks after a walk. Which need is it meeting?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -48,351 +47,30 @@ window.skillrExamQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It replaces water.",
-      "It changes the weather.",
-      "It provides shelter and a place for eggs or young.",
-      "It makes food appear."
+      "shelter",
+      "water",
+      "food"
     ],
-    "correct": 2,
-    "explanation": "Nests provide protected places for breeding and rest.\nHint: Shelter.",
-    "structuredExplanation": {
-      "summary": "Nests provide protected places for breeding and rest.",
-      "hint": "Shelter."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2,
-    "qualitySchema": "reviewed-year1-science-v1"
-  },
-  {
-    "id": "ac9s1u01-t-003",
-    "curriculumCode": "AC9S1U01",
-    "bank": "test",
-    "skill": "needs of plants and animals",
-    "printable": true,
-    "type": "single",
-    "question": "Which habitat best suits a fish?",
-    "audioPrompt": "Which habitat best suits a fish?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a hot footpath",
-      "a suitable body of water",
-      "a dry cardboard box",
-      "a tree branch"
-    ],
     "correct": 1,
-    "explanation": "Fish are adapted to aquatic habitats.\nHint: Where can it live normally?",
+    "explanation": "Drinking meets its need for water.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Fish are adapted to aquatic habitats.",
-      "hint": "Where can it live normally?"
+      "summary": "Drinking meets its need for water.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "reviewed-year1-science-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1u01-t-004",
+    "id": "ac9s1u01-r1-t-003",
     "curriculumCode": "AC9S1U01",
     "bank": "test",
     "skill": "needs of plants and animals",
     "printable": true,
     "type": "single",
-    "question": "A plant has water but no light. What is missing?",
-    "audioPrompt": "A plant has water but no light. What is missing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light for making food",
-      "soil colour",
-      "a nest",
-      "animal food"
-    ],
-    "correct": 0,
-    "explanation": "Plants need light for photosynthesis.\nHint: Plant food-making resource.",
-    "structuredExplanation": {
-      "summary": "Plants need light for photosynthesis.",
-      "hint": "Plant food-making resource."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "reviewed-year1-science-v1"
-  },
-  {
-    "id": "ac9s1u01-t-005",
-    "curriculumCode": "AC9S1U01",
-    "bank": "test",
-    "skill": "needs of plants and animals",
-    "printable": true,
-    "type": "single",
-    "question": "Which animal need is met by berries?",
-    "audioPrompt": "Which animal need is met by berries?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "shelter",
-      "air",
-      "space",
-      "food"
-    ],
-    "correct": 3,
-    "explanation": "Berries can be eaten as food.\nHint: What does eating provide?",
-    "structuredExplanation": {
-      "summary": "Berries can be eaten as food.",
-      "hint": "What does eating provide?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "reviewed-year1-science-v1"
-  },
-  {
-    "id": "ac9s1u01-t-006",
-    "curriculumCode": "AC9S1U01",
-    "bank": "test",
-    "skill": "needs of plants and animals",
-    "printable": true,
-    "type": "single",
-    "question": "Why is a tree hollow important to some mammals?",
-    "audioPrompt": "Why is a tree hollow important to some mammals?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It makes rain.",
-      "It gives unlimited space.",
-      "It offers protected shelter.",
-      "It is always food."
-    ],
-    "correct": 2,
-    "explanation": "Hollows can be safe resting or nesting places.\nHint: Protected place.",
-    "structuredExplanation": {
-      "summary": "Hollows can be safe resting or nesting places.",
-      "hint": "Protected place."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "reviewed-year1-science-v1"
-  },
-  {
-    "id": "ac9s1u01-t-007",
-    "curriculumCode": "AC9S1U01",
-    "bank": "test",
-    "skill": "needs of plants and animals",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement is true?",
-    "audioPrompt": "Which statement is true?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Plants need toys.",
-      "Different animals can need different foods.",
-      "All animals eat leaves.",
-      "Animals do not need water."
-    ],
-    "correct": 1,
-    "explanation": "Animal diets vary by species.\nHint: Avoid “all eat the same”.",
-    "structuredExplanation": {
-      "summary": "Animal diets vary by species.",
-      "hint": "Avoid “all eat the same”."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "reviewed-year1-science-v1"
-  },
-  {
-    "id": "ac9s1u01-t-008",
-    "curriculumCode": "AC9S1U01",
-    "bank": "test",
-    "skill": "needs of plants and animals",
-    "printable": true,
-    "type": "single",
-    "question": "What could happen if a pond is removed?",
-    "audioPrompt": "What could happen if a pond is removed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Animals depending on it may lose water, food or shelter.",
-      "Nothing can change.",
-      "All animals gain habitat.",
-      "Fish move onto dry land permanently."
-    ],
-    "correct": 0,
-    "explanation": "Removing habitat can remove several needed resources.\nHint: What did the pond provide?",
-    "structuredExplanation": {
-      "summary": "Removing habitat can remove several needed resources.",
-      "hint": "What did the pond provide?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "reviewed-year1-science-v1"
-  },
-  {
-    "id": "ac9s1u01-t-009",
-    "curriculumCode": "AC9S1U01",
-    "bank": "test",
-    "skill": "needs of plants and animals",
-    "printable": true,
-    "type": "single",
-    "question": "Which setup best suits a seedling?",
-    "audioPrompt": "Which setup best suits a seedling?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "dark sealed box",
-      "dry shelf",
-      "freezer",
-      "light, water and room to grow"
-    ],
-    "correct": 3,
-    "explanation": "Seedlings need suitable resources and conditions.\nHint: Meet plant needs.",
-    "structuredExplanation": {
-      "summary": "Seedlings need suitable resources and conditions.",
-      "hint": "Meet plant needs."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "reviewed-year1-science-v1"
-  },
-  {
-    "id": "ac9s1u01-t-010",
-    "curriculumCode": "AC9S1U01",
-    "bank": "test",
-    "skill": "needs of plants and animals",
-    "printable": true,
-    "type": "single",
-    "question": "A rabbit burrow mainly meets which need?",
-    "audioPrompt": "A rabbit burrow mainly meets which need?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "plant food production",
-      "temperature measurement",
-      "shelter",
-      "sunlight"
-    ],
-    "correct": 2,
-    "explanation": "A burrow offers protection and a resting place.\nHint: Home/protection.",
-    "structuredExplanation": {
-      "summary": "A burrow offers protection and a resting place.",
-      "hint": "Home/protection."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "reviewed-year1-science-v1"
-  },
-  {
-    "id": "ac9s1u01-t-011",
-    "curriculumCode": "AC9S1U01",
-    "bank": "test",
-    "skill": "needs of plants and animals",
-    "printable": true,
-    "type": "single",
-    "question": "Why do living things need suitable habitats?",
-    "audioPrompt": "Why do living things need suitable habitats?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Habitats are only scenery.",
-      "Habitats provide resources and conditions needed to live.",
-      "Habitats make every animal identical.",
-      "Any place suits every organism."
-    ],
-    "correct": 1,
-    "explanation": "Habitats are connected directly to survival needs.\nHint: Resources + conditions.",
-    "structuredExplanation": {
-      "summary": "Habitats are connected directly to survival needs.",
-      "hint": "Resources + conditions."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "reviewed-year1-science-v1"
-  },
-  {
-    "id": "ac9s1u01-t-012",
-    "curriculumCode": "AC9S1U01",
-    "bank": "test",
-    "skill": "needs of plants and animals",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would harm a worm habitat most?",
-    "audioPrompt": "Which choice would harm a worm habitat most?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "letting the soil become very hot and dry",
-      "keeping soil damp",
-      "providing air",
-      "returning worms carefully"
-    ],
-    "correct": 0,
-    "explanation": "Worms need moist conditions and can dry out.\nHint: Which removes a key condition?",
-    "structuredExplanation": {
-      "summary": "Worms need moist conditions and can dry out.",
-      "hint": "Which removes a key condition?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "reviewed-year1-science-v1"
-  },
-  {
-    "id": "ac9s1u01-t-013",
-    "curriculumCode": "AC9S1U01",
-    "bank": "test",
-    "skill": "needs of plants and animals",
-    "printable": true,
-    "type": "single",
-    "question": "A pet has food, water and shelter but no room to move. Which need is limited?",
-    "audioPrompt": "A pet has food, water and shelter but no room to move. Which need is limited?",
+    "question": "A bat rests in a protected cave. Which need does the cave meet?",
+    "audioPrompt": "A bat rests in a protected cave. Which need does the cave meet?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -402,29 +80,340 @@ window.skillrExamQuestions = [
     "answers": [
       "food",
       "water",
-      "air only",
+      "shelter"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The cave gives it a protected resting place.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The cave gives it a protected resting place.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1u01-r1-t-004",
+    "curriculumCode": "AC9S1U01",
+    "bank": "test",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A seedling has water and room to grow but no light. What should be provided?",
+    "audioPrompt": "A seedling has water and room to grow but no light. What should be provided?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "suitable light",
+      "more room only",
+      "more water only"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "The missing resource is light, not water or room.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The missing resource is light, not water or room.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1u01-r1-t-005",
+    "curriculumCode": "AC9S1U01",
+    "bank": "test",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A sheep and an apple tree share an orchard. What do both need?",
+    "audioPrompt": "A sheep and an apple tree share an orchard. What do both need?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a nest",
+      "water",
+      "grass to eat"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Plants and animals both need water.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Plants and animals both need water.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1u01-r1-t-006",
+    "curriculumCode": "AC9S1U01",
+    "bank": "test",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A snail needs leafy food and a damp resting place. Which spot suits it best?",
+    "audioPrompt": "A snail needs leafy food and a damp resting place. Which spot suits it best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "dry stones beside a food plant",
+      "a damp tray with no food plant",
+      "damp leaves beside a food plant"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Only the first spot provides both the stated food and damp conditions.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Only the first spot provides both the stated food and damp conditions.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1u01-r1-t-007",
+    "curriculumCode": "AC9S1U01",
+    "bank": "test",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A pond animal eats tiny water insects. The insects disappear. Which need is affected first?",
+    "audioPrompt": "A pond animal eats tiny water insects. The insects disappear. Which need is affected first?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "food",
+      "shelter",
       "space"
     ],
-    "correct": 3,
-    "explanation": "Adequate space is part of suitable living conditions.\nHint: Not just food and water.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "The animal has lost something it eats.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Adequate space is part of suitable living conditions.",
-      "hint": "Not just food and water."
+      "summary": "The animal has lost something it eats.",
+      "hint": "Look for the observation that supports your answer."
     },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1u01-r1-t-008",
+    "curriculumCode": "AC9S1U01",
+    "bank": "test",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A pet has enough food and water but nowhere protected to rest. What is missing?",
+    "audioPrompt": "A pet has enough food and water but nowhere protected to rest. What is missing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "water",
+      "shelter",
+      "food"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Enough food and water do not provide a protected resting place.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Enough food and water do not provide a protected resting place.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1u01-r1-t-009",
+    "curriculumCode": "AC9S1U01",
+    "bank": "test",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "Use the garden cards. Which garden meets BOTH of the butterfly's listed needs?",
+    "audioPrompt": "Use the garden cards. Which garden meets BOTH of the butterfly's listed needs?",
+    "visual": "The butterfly needs flowers for food and leaves for shelter. Garden A has both. Garden B has flowers only. Garden C has leaves only.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The butterfly needs flowers for food and leaves for shelter. Garden A has both. Garden B has flowers only. Garden C has leaves only.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u01-33.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "The butterfly needs flowers for food and leaves for shelter. Garden A has both. Garden B has flowers only. Garden C has leaves only.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u01-33.svg#model"
+    },
+    "answers": [
+      "Garden B",
+      "Garden C",
+      "Garden A"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Garden A provides flowers for food and leaves for shelter.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Garden A provides flowers for food and leaves for shelter.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1u01-r1-t-010",
+    "curriculumCode": "AC9S1U01",
+    "bank": "test",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "Use the plant cards. Which setup needs water added?",
+    "audioPrompt": "Use the plant cards. Which setup needs water added?",
+    "visual": "Setup A: light, space, moist soil. Setup B: light, space, dry soil. Setup C: light, space, moist soil.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Setup A: light, space, moist soil. Setup B: light, space, dry soil. Setup C: light, space, moist soil.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u01-34.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Setup A: light, space, moist soil. Setup B: light, space, dry soil. Setup C: light, space, moist soil.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-1/ac9s1u01-34.svg#model"
+    },
+    "answers": [
+      "Setup B",
+      "Setup A",
+      "Setup C"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Setup B has light and space, but its soil is dry.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Setup B has light and space, but its soil is dry.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1u01-r1-t-011",
+    "curriculumCode": "AC9S1U01",
+    "bank": "test",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A possum eats leaves in one tree and rests in another tree's hollow. What do the two trees provide?",
+    "audioPrompt": "A possum eats leaves in one tree and rests in another tree's hollow. What do the two trees provide?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "air and water",
+      "food and shelter",
+      "water and food"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "The leaves supply food; the hollow supplies shelter.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The leaves supply food; the hollow supplies shelter.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1u01-r1-t-012",
+    "curriculumCode": "AC9S1U01",
+    "bank": "test",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A frog's pond dries up. Would adding a dry hiding box meet all its needs?",
+    "audioPrompt": "A frog's pond dries up. Would adding a dry hiding box meet all its needs?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Yes, shelter replaces water.",
+      "Yes, a box supplies food.",
+      "No, it still needs a suitable damp habitat."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Shelter alone does not replace the damp habitat and other resources it needs.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Shelter alone does not replace the damp habitat and other resources it needs.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1u01-r1-t-013",
+    "curriculumCode": "AC9S1U01",
+    "bank": "test",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "Two animals drink from a stream but eat different foods. What does this show?",
+    "audioPrompt": "Two animals drink from a stream but eat different foods. What does this show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "They share some needs, but meet others differently.",
+      "They must eat the same food.",
+      "Only one of them needs water."
+    ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13,
-    "qualitySchema": "reviewed-year1-science-v1"
+    "correct": 0,
+    "explanation": "Both use the stream for water, while their food needs differ.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Both use the stream for water, while their food needs differ.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1u01-t-014",
+    "id": "ac9s1u01-r1-t-014",
     "curriculumCode": "AC9S1U01",
     "bank": "test",
     "skill": "needs of plants and animals",
     "printable": true,
     "type": "single",
-    "question": "Which living thing makes its own food using light?",
-    "audioPrompt": "Which living thing makes its own food using light?",
+    "question": "A plant is growing in a pot. Its roots now fill the pot. What change gives them room?",
+    "audioPrompt": "A plant is growing in a pot. Its roots now fill the pot. What change gives them room?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -432,31 +421,30 @@ window.skillrExamQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "bird",
-      "fish",
-      "plant",
-      "rabbit"
+      "water it more without changing the pot",
+      "move it to a larger suitable pot",
+      "move it into a dark cupboard"
     ],
-    "correct": 2,
-    "explanation": "Plants use light energy to make sugars.\nHint: Photosynthesis.",
-    "structuredExplanation": {
-      "summary": "Plants use light energy to make sugars.",
-      "hint": "Photosynthesis."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14,
-    "qualitySchema": "reviewed-year1-science-v1"
+    "correct": 1,
+    "explanation": "A larger suitable pot provides more space for roots.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A larger suitable pot provides more space for roots.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1u01-t-015",
+    "id": "ac9s1u01-r1-t-015",
     "curriculumCode": "AC9S1U01",
     "bank": "test",
     "skill": "needs of plants and animals",
     "printable": true,
     "type": "single",
-    "question": "A drought reduces flowering plants. Which animal need may be affected for nectar-feeding insects?",
-    "audioPrompt": "A drought reduces flowering plants. Which animal need may be affected for nectar-feeding insects?",
+    "question": "A bird has water and shelter. Its food plants are cut down. Will more shelter replace the lost food?",
+    "audioPrompt": "A bird has water and shelter. Its food plants are cut down. Will more shelter replace the lost food?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -464,31 +452,30 @@ window.skillrExamQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "space only",
-      "food",
-      "shelter only",
-      "air"
+      "Yes, shelter meets every need.",
+      "Yes, if the shelter is larger.",
+      "No, it still needs suitable food."
     ],
-    "correct": 1,
-    "explanation": "Fewer flowers can mean less nectar.\nHint: What do they eat?",
-    "structuredExplanation": {
-      "summary": "Fewer flowers can mean less nectar.",
-      "hint": "What do they eat?"
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15,
-    "qualitySchema": "reviewed-year1-science-v1"
+    "correct": 2,
+    "explanation": "Each need must be met. More shelter cannot be eaten instead of food.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Each need must be met. More shelter cannot be eaten instead of food.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1u01-t-016",
+    "id": "ac9s1u01-r1-t-016",
     "curriculumCode": "AC9S1U01",
     "bank": "test",
     "skill": "needs of plants and animals",
     "printable": true,
     "type": "single",
-    "question": "Which statement is most careful?",
-    "audioPrompt": "Which statement is most careful?",
+    "question": "A garden has leaves to eat, water and protected hiding places. Why can it support several animals?",
+    "audioPrompt": "A garden has leaves to eat, water and protected hiding places. Why can it support several animals?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,20 +483,21 @@ window.skillrExamQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A habitat must suit the particular needs of the living thing.",
-      "One habitat is perfect for all species.",
-      "Every animal needs the same shelter.",
-      "All plants need exactly the same amount of water."
+      "It can meet several different needs.",
+      "Every animal uses exactly the same food.",
+      "Water removes the need for shelter."
     ],
-    "correct": 0,
-    "explanation": "Needs vary among species, so suitability is specific.\nHint: Different organisms, different requirements.",
-    "structuredExplanation": {
-      "summary": "Needs vary among species, so suitability is specific.",
-      "hint": "Different organisms, different requirements."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16,
-    "qualitySchema": "reviewed-year1-science-v1"
+    "correct": 0,
+    "explanation": "Different parts of a habitat can provide food, water and shelter.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Different parts of a habitat can provide food, water and shelter.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;
