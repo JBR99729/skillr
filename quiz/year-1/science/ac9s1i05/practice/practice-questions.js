@@ -349,8 +349,8 @@ window.skillrPracticeQuestions = [
     "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "A paper bridge held fewer counters than expected. Which next question follows?",
-    "audioPrompt": "A paper bridge held fewer counters than expected. Which next question follows?",
+    "question": "A paper bridge held fewer counters than expected. Which question tests a way to make it stronger?",
+    "audioPrompt": "A paper bridge held fewer counters than expected. Which question tests a way to make it stronger?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -358,8 +358,8 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which child likes bridges best?",
-      "What colour is the classroom door?",
+      "How long is the paper before it is folded?",
+      "How many counters were used today?",
       "Would folding the paper help it hold more counters?"
     ],
     "difficulty": 2,
@@ -473,8 +473,8 @@ window.skillrPracticeQuestions = [
     "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "A seedling grew towards a window. Which further question explores that observation?",
-    "audioPrompt": "A seedling grew towards a window. Which further question explores that observation?",
+    "question": "A seedling grew towards a window. Which question explores whether growth direction follows light?",
+    "audioPrompt": "A seedling grew towards a window. Which question explores whether growth direction follows light?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -483,8 +483,8 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Would it grow towards light from another direction?",
-      "Which pot has the nicest pattern?",
-      "How many letters are in 'window'?"
+      "How many leaves does the seedling have today?",
+      "How wide is the pot holding the seedling?"
     ],
     "difficulty": 2,
     "difficultyTier": "apply",
@@ -598,8 +598,8 @@ window.skillrPracticeQuestions = [
     "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "A leaf with holes is found beside an unmarked leaf. Which question could extend the investigation?",
-    "audioPrompt": "A leaf with holes is found beside an unmarked leaf. Which question could extend the investigation?",
+    "question": "A leaf with holes is found beside an unmarked leaf. Which question explores how the holes change over time?",
+    "audioPrompt": "A leaf with holes is found beside an unmarked leaf. Which question explores how the holes change over time?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -607,9 +607,9 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which child owns the green pencil?",
+      "Are both leaves the same shade of green?",
       "Will more holes appear if we keep observing these leaves?",
-      "Which leaf has the nicest name?"
+      "Which leaf is longer today?"
     ],
     "difficulty": 3,
     "difficultyTier": "reason",
@@ -723,8 +723,8 @@ window.skillrPracticeQuestions = [
     "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "A test shows water passed through cloth but not plastic. Which further question follows?",
-    "audioPrompt": "A test shows water passed through cloth but not plastic. Which further question follows?",
+    "question": "A test shows water passed through cloth but not plastic. Which question tests another way to keep the paper underneath dry?",
+    "audioPrompt": "A test shows water passed through cloth but not plastic. Which question tests another way to keep the paper underneath dry?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -732,8 +732,8 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which colour of pencil is most popular?",
-      "How many chairs are in the room?",
+      "How wide is the paper before it gets wet?",
+      "How long does the wet paper take to dry?",
       "Would another cloth keep more water out?"
     ],
     "difficulty": 3,
