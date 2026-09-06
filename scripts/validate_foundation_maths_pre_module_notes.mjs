@@ -156,7 +156,10 @@ for (const code of codes) {
         ? questionWindow.skillrPracticeQuestions
         : questionWindow.skillrTestQuestions || questionWindow.skillrExamQuestions
     );
-    const expectedBankLength = mode === "practice" ? 56 : 24;
+    const usesIxlBankSize = ["AC9MFN01", "AC9MFN02", "AC9MFN03"].includes(code);
+    const expectedBankLength = mode === "practice"
+      ? usesIxlBankSize ? 24 : 56
+      : usesIxlBankSize ? 16 : 24;
     assert(Array.isArray(bank) && bank.length === expectedBankLength, `${code} ${mode}: expected preserved ${expectedBankLength}-question source bank`);
   }
 
