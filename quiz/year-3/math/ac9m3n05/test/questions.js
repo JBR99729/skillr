@@ -4,28 +4,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-001",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "estimate sum tens",
     "printable": true,
     "type": "single",
-    "question": "At the sharing station, what is a sensible estimate for 200 + 250?",
-    "audioPrompt": "At the sharing station, what is a sensible estimate for 200 + 250?",
-    "visual": "At the sharing station: The numbers 200 and 250 ready to be rounded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sharing station: The numbers 200 and 250 ready to be rounded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-001\"></use></svg>",
+    "question": "Round each number to the nearest ten to estimate 267 + 384.",
+    "audioPrompt": "Round each number to the nearest ten to estimate 267 + 384.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-001",
-      "alt_text": "At the sharing station: The numbers 200 and 250 ready to be rounded."
+      "type": "none"
     },
     "answers": [
-      "750",
-      "450",
-      "50"
+      "650",
+      "640",
+      "660",
+      "750"
     ],
-    "correct": 1,
-    "explanation": "Round to nearby tens, then add.\nHint: Choose nearby friendly numbers.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "267 rounds to 270; 384 rounds to 380. The estimate is 270 + 380 = 650.\nHint: Round both numbers before adding.",
     "structuredExplanation": {
-      "summary": "Round to nearby tens, then add.",
-      "hint": "Choose nearby friendly numbers."
+      "summary": "267 rounds to 270; 384 rounds to 380. The estimate is 270 + 380 = 650.",
+      "hint": "Round both numbers before adding."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-002",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "estimate sum hundreds",
     "printable": true,
     "type": "single",
-    "question": "At the sharing station, about how many objects are in 9 rows of about 12 objects?",
-    "audioPrompt": "At the sharing station, about how many objects are in 9 rows of about 12 objects?",
-    "visual": "At the sharing station: A collection arranged in 9 nearly equal rows.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sharing station: A collection arranged in 9 nearly equal rows.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-002\"></use></svg>",
+    "question": "Estimate 683 + 148 by rounding both numbers to the nearest hundred.",
+    "audioPrompt": "Estimate 683 + 148 by rounding both numbers to the nearest hundred.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-002",
-      "alt_text": "At the sharing station: A collection arranged in 9 nearly equal rows."
+      "type": "none"
     },
     "answers": [
-      "21",
-      "208",
-      "108"
+      "700",
+      "900",
+      "1000",
+      "800"
     ],
-    "correct": 2,
-    "explanation": "Estimate with equal groups: 9×12≈108.\nHint: Multiply the approximate row count by the approximate amount per row.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "Use 700 + 100 = 800. This is a rough estimate, not the exact sum.\nHint: Look at each number’s tens digit.",
     "structuredExplanation": {
-      "summary": "Estimate with equal groups: 9×12≈108.",
-      "hint": "Multiply the approximate row count by the approximate amount per row."
+      "summary": "Use 700 + 100 = 800. This is a rough estimate, not the exact sum.",
+      "hint": "Look at each number’s tens digit."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-003",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "estimate difference",
     "printable": true,
     "type": "single",
-    "question": "At the sharing station, which estimate for 200 + 250 is unreasonable?",
-    "audioPrompt": "At the sharing station, which estimate for 200 + 250 is unreasonable?",
-    "visual": "At the sharing station: Two addends shown beside three possible estimates.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sharing station: Two addends shown beside three possible estimates.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-003\"></use></svg>",
+    "question": "Round to the nearest ten, then estimate 752 − 326.",
+    "audioPrompt": "Round to the nearest ten, then estimate 752 − 326.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-003",
-      "alt_text": "At the sharing station: Two addends shown beside three possible estimates."
+      "type": "none"
     },
     "answers": [
-      "950",
-      "450",
-      "500"
+      "1080",
+      "410",
+      "420",
+      "430"
     ],
-    "correct": 0,
-    "explanation": "950 is far larger than both addends combined.\nHint: Compare the estimate with the size of the numbers.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "750 − 330 = 420, so the difference is about 420.\nHint: Keep subtraction as subtraction after rounding.",
     "structuredExplanation": {
-      "summary": "950 is far larger than both addends combined.",
-      "hint": "Compare the estimate with the size of the numbers."
+      "summary": "750 − 330 = 420, so the difference is about 420.",
+      "hint": "Keep subtraction as subtraction after rounding."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-004",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "estimate equal groups",
     "printable": true,
     "type": "single",
-    "question": "At the sharing station, round 250 to the nearest ten.",
-    "audioPrompt": "At the sharing station, round 250 to the nearest ten.",
-    "visual": "At the sharing station: 250 positioned between nearby multiples of ten.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sharing station: 250 positioned between nearby multiples of ten.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-004\"></use></svg>",
+    "question": "4 boxes each contain 59 crayons. Round 59 to the nearest ten. About how many crayons are there altogether?",
+    "audioPrompt": "4 boxes each contain 59 crayons. Round 59 to the nearest ten. About how many crayons are there altogether?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-004",
-      "alt_text": "At the sharing station: 250 positioned between nearby multiples of ten."
+      "type": "none"
     },
     "answers": [
+      "64",
       "240",
-      "250",
+      "220",
       "260"
     ],
+    "difficulty": 2,
     "correct": 1,
-    "explanation": "The ones digit decides whether the tens digit stays or increases.\nHint: Locate 250 between two multiples of 10.",
+    "explanation": "Use about 60 crayons per box: 4 × 60 = 240.\nHint: Keep the number of boxes exact; round the amount in each.",
     "structuredExplanation": {
-      "summary": "The ones digit decides whether the tens digit stays or increases.",
-      "hint": "Locate 250 between two multiples of 10."
+      "summary": "Use about 60 crayons per box: 4 × 60 = 240.",
+      "hint": "Keep the number of boxes exact; round the amount in each."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +120,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-005",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "reference collection",
     "printable": true,
     "type": "single",
-    "question": "At the sharing station, a jar has about 11 groups of 15 beads. Which method is most useful?",
-    "audioPrompt": "At the sharing station, a jar has about 11 groups of 15 beads. Which method is most useful?",
-    "visual": "At the sharing station: 11 similar bead groups ready to estimate.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sharing station: 11 similar bead groups ready to estimate.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-005\"></use></svg>",
+    "question": "Use the labelled group of 10 to estimate the counters in all 8 groups. Which estimate is closest?",
+    "audioPrompt": "Use the labelled group of 10 to estimate the counters in all 8 groups. Which estimate is closest?",
+    "visual": "8 groups of roughly ten counters; the first has exactly ten.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"8 groups of roughly ten counters; the first has exactly ten.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05-reviewed.svg#ac9m3n05-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-005",
-      "alt_text": "At the sharing station: 11 similar bead groups ready to estimate."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05-reviewed.svg#ac9m3n05-t-005",
+      "alt_text": "8 groups of roughly ten counters; the first has exactly ten."
     },
     "answers": [
-      "Guess without using the groups",
-      "Count only the first bead",
-      "Estimate one group, then multiply by the groups"
+      "80",
+      "10",
+      "160",
+      "240"
     ],
-    "correct": 2,
-    "explanation": "Using the visible groups gives evidence for the estimate.\nHint: Use the repeated structure in the collection.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "There are 8 groups, each close to the reference group of 10. About 8 × 10 = 80 counters.\nHint: Compare group sizes rather than counting every counter.",
     "structuredExplanation": {
-      "summary": "Using the visible groups gives evidence for the estimate.",
-      "hint": "Use the repeated structure in the collection."
+      "summary": "There are 8 groups, each close to the reference group of 10. About 8 × 10 = 80 counters.",
+      "hint": "Compare group sizes rather than counting every counter."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +151,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-006",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "estimate range",
     "printable": true,
     "type": "single",
-    "question": "At the sharing station, the exact answer is 450. Is 450 a reasonable estimate?",
-    "audioPrompt": "At the sharing station, the exact answer is 450. Is 450 a reasonable estimate?",
-    "visual": "At the sharing station: An exact total compared with a nearby rounded estimate.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sharing station: An exact total compared with a nearby rounded estimate.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-006\"></use></svg>",
+    "question": "There are 6 baskets. Each holds between 19 and 21 apples. Which range contains the total?",
+    "audioPrompt": "There are 6 baskets. Each holds between 19 and 21 apples. Which range contains the total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-006",
-      "alt_text": "At the sharing station: An exact total compared with a nearby rounded estimate."
+      "type": "none"
     },
     "answers": [
-      "Yes, it is close to the exact answer",
-      "No, estimates must equal exactly",
-      "No, estimates must be larger"
+      "19 to 21 apples",
+      "25 to 27 apples",
+      "214 to 226 apples",
+      "114 to 126 apples"
     ],
-    "correct": 0,
-    "explanation": "A useful estimate is close enough for the purpose.\nHint: Find the difference between estimate and exact answer.",
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "The smallest possible total is 6 × 19 = 114. The largest is 6 × 21 = 126.\nHint: Multiply both ends of the range by the number of baskets.",
     "structuredExplanation": {
-      "summary": "A useful estimate is close enough for the purpose.",
-      "hint": "Find the difference between estimate and exact answer."
+      "summary": "The smallest possible total is 6 × 19 = 114. The largest is 6 × 21 = 126.",
+      "hint": "Multiply both ends of the range by the number of baskets."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +180,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-007",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "detect large error",
     "printable": true,
     "type": "single",
-    "question": "At the sharing station, why estimate before calculating 200 + 250?",
-    "audioPrompt": "At the sharing station, why estimate before calculating 200 + 250?",
-    "visual": "At the sharing station: A calculation with a check box labelled sensible range.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sharing station: A calculation with a check box labelled sensible range.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-007\"></use></svg>",
+    "question": "A calculator display says 563 + 238 = 1201. An estimate is about 800. What should you conclude?",
+    "audioPrompt": "A calculator display says 563 + 238 = 1201. An estimate is about 800. What should you conclude?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-007",
-      "alt_text": "At the sharing station: A calculation with a check box labelled sensible range."
+      "type": "none"
     },
     "answers": [
-      "To avoid understanding the problem",
-      "To predict a sensible range for the answer",
-      "To make every answer end in zero"
+      "The estimate proves the displayed answer is exact.",
+      "The displayed answer is too low.",
+      "The displayed answer is too high; check the entry.",
+      "Any calculator answer must be accepted."
     ],
-    "correct": 1,
-    "explanation": "An estimate helps detect an unreasonable exact calculation.\nHint: Think of estimation as a reasonableness check.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "563 + 238 is close to 800, so 1201 is far too large. A mistyped entry can give an incorrect display.\nHint: Compare the scale of the answer with your estimate.",
     "structuredExplanation": {
-      "summary": "An estimate helps detect an unreasonable exact calculation.",
-      "hint": "Think of estimation as a reasonableness check."
+      "summary": "563 + 238 is close to 800, so 1201 is far too large. A mistyped entry can give an incorrect display.",
+      "hint": "Compare the scale of the answer with your estimate."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +209,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-008",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "rounding direction",
     "printable": true,
     "type": "single",
-    "question": "At the sharing station, a student estimates 200 + 250 as 20. What is the best response?",
-    "audioPrompt": "At the sharing station, a student estimates 200 + 250 as 20. What is the best response?",
-    "visual": "At the sharing station: Two large addends compared with an estimate of 20.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sharing station: Two large addends compared with an estimate of 20.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-008\"></use></svg>",
+    "question": "To estimate 376 + 287, both numbers are rounded up to 380 and 290. How does the estimate compare with the exact total?",
+    "audioPrompt": "To estimate 376 + 287, both numbers are rounded up to 380 and 290. How does the estimate compare with the exact total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-008",
-      "alt_text": "At the sharing station: Two large addends compared with an estimate of 20."
+      "type": "none"
     },
     "answers": [
-      "The estimate is exact",
-      "Any estimate is acceptable",
-      "The estimate is far too small"
+      "It is less than the exact total.",
+      "It is greater than the exact total.",
+      "It must equal the exact total.",
+      "It is always double the exact total."
     ],
-    "correct": 2,
-    "explanation": "Both addends are greater than 20, so their sum cannot be about 20.\nHint: Use the size of each addend to reject impossible estimates.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "Both addends increase, so their sum increases. 670 is above the exact total of 663.\nHint: Track whether each change adds or removes value.",
     "structuredExplanation": {
-      "summary": "Both addends are greater than 20, so their sum cannot be about 20.",
-      "hint": "Use the size of each addend to reject impossible estimates."
+      "summary": "Both addends increase, so their sum increases. 670 is above the exact total of 663.",
+      "hint": "Track whether each change adds or removes value."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +238,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-009",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "lower estimate",
     "printable": true,
     "type": "single",
-    "question": "With the marble bags, what is a sensible estimate for 251 + 299?",
-    "audioPrompt": "With the marble bags, what is a sensible estimate for 251 + 299?",
-    "visual": "With the marble bags: The numbers 251 and 299 ready to be rounded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the marble bags: The numbers 251 and 299 ready to be rounded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-009\"></use></svg>",
+    "question": "A student estimates 321 + 463 using 320 + 460. Why is this a lower estimate?",
+    "audioPrompt": "A student estimates 321 + 463 using 320 + 460. Why is this a lower estimate?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-009",
-      "alt_text": "With the marble bags: The numbers 251 and 299 ready to be rounded."
+      "type": "none"
     },
     "answers": [
-      "550",
-      "850",
-      "48"
+      "Both numbers have been made smaller.",
+      "Both numbers have been made larger.",
+      "The operation changed to subtraction.",
+      "Rounding always gives an exact answer."
     ],
+    "difficulty": 2,
     "correct": 0,
-    "explanation": "Round to nearby tens, then add.\nHint: Choose nearby friendly numbers.",
+    "explanation": "320 is below 321, and 460 is below 463; the estimated sum is therefore below the actual sum.\nHint: Compare each rounded number with its original.",
     "structuredExplanation": {
-      "summary": "Round to nearby tens, then add.",
-      "hint": "Choose nearby friendly numbers."
+      "summary": "320 is below 321, and 460 is below 463; the estimated sum is therefore below the actual sum.",
+      "hint": "Compare each rounded number with its original."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +267,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-010",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "scaled collection",
     "printable": true,
     "type": "single",
-    "question": "With the marble bags, about how many objects are in 10 rows of about 13 objects?",
-    "audioPrompt": "With the marble bags, about how many objects are in 10 rows of about 13 objects?",
-    "visual": "With the marble bags: A collection arranged in 10 nearly equal rows.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the marble bags: A collection arranged in 10 nearly equal rows.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-010\"></use></svg>",
+    "question": "One scoop holds about 15 beads. A bowl contains about 6 equally full scoops. Estimate the beads in the bowl.",
+    "audioPrompt": "One scoop holds about 15 beads. A bowl contains about 6 equally full scoops. Estimate the beads in the bowl.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-010",
-      "alt_text": "With the marble bags: A collection arranged in 10 nearly equal rows."
+      "type": "none"
     },
     "answers": [
-      "23",
-      "130",
-      "230"
+      "21",
+      "15",
+      "180",
+      "90"
     ],
-    "correct": 1,
-    "explanation": "Estimate with equal groups: 10×13≈130.\nHint: Multiply the approximate row count by the approximate amount per row.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Use 6 × 15 = 90. Because each scoop count is approximate, the total is approximate too.\nHint: Use the known sample as a reference.",
     "structuredExplanation": {
-      "summary": "Estimate with equal groups: 10×13≈130.",
-      "hint": "Multiply the approximate row count by the approximate amount per row."
+      "summary": "Use 6 × 15 = 90. Because each scoop count is approximate, the total is approximate too.",
+      "hint": "Use the known sample as a reference."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +296,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-011",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "choose nearby numbers",
     "printable": true,
     "type": "single",
-    "question": "With the marble bags, which estimate for 251 + 299 is unreasonable?",
-    "audioPrompt": "With the marble bags, which estimate for 251 + 299 is unreasonable?",
-    "visual": "With the marble bags: Two addends shown beside three possible estimates.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the marble bags: Two addends shown beside three possible estimates.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-011\"></use></svg>",
+    "question": "Which pair uses the nearest multiples of ten to estimate 83 + 56?",
+    "audioPrompt": "Which pair uses the nearest multiples of ten to estimate 83 + 56?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-011",
-      "alt_text": "With the marble bags: Two addends shown beside three possible estimates."
+      "type": "none"
     },
     "answers": [
-      "550",
-      "600",
-      "1050"
+      "100 + 60",
+      "80 + 80",
+      "80 + 60",
+      "60 + 60"
     ],
+    "difficulty": 1,
     "correct": 2,
-    "explanation": "1050 is far larger than both addends combined.\nHint: Compare the estimate with the size of the numbers.",
+    "explanation": "80 and 60 are close to the original numbers and easy to add mentally.\nHint: Choose convenient numbers that remain close to both originals.",
     "structuredExplanation": {
-      "summary": "1050 is far larger than both addends combined.",
-      "hint": "Compare the estimate with the size of the numbers."
+      "summary": "80 and 60 are close to the original numbers and easy to add mentally.",
+      "hint": "Choose convenient numbers that remain close to both originals."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +325,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-012",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "money upper estimate",
     "printable": true,
     "type": "single",
-    "question": "With the marble bags, round 299 to the nearest ten.",
-    "audioPrompt": "With the marble bags, round 299 to the nearest ten.",
-    "visual": "With the marble bags: 299 positioned between nearby multiples of ten.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the marble bags: 299 positioned between nearby multiples of ten.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-012\"></use></svg>",
+    "question": "A notebook costs $6.35 and a folder costs $2.45. Round each price UP to a whole dollar. What total should cover both?",
+    "audioPrompt": "A notebook costs $6.35 and a folder costs $2.45. Round each price UP to a whole dollar. What total should cover both?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-012",
-      "alt_text": "With the marble bags: 299 positioned between nearby multiples of ten."
+      "type": "none"
     },
     "answers": [
-      "300",
-      "290",
-      "310"
+      "$9",
+      "$10",
+      "$12",
+      "$13"
     ],
-    "correct": 0,
-    "explanation": "The ones digit decides whether the tens digit stays or increases.\nHint: Locate 299 between two multiples of 10.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "Round up to $7 and $3. Their sum, $10, covers the exact cost of $8.80.\nHint: Round each price upward so the estimate does not fall short.",
     "structuredExplanation": {
-      "summary": "The ones digit decides whether the tens digit stays or increases.",
-      "hint": "Locate 299 between two multiples of 10."
+      "summary": "Round up to $7 and $3. Their sum, $10, covers the exact cost of $8.80.",
+      "hint": "Round each price upward so the estimate does not fall short."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +354,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-013",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "estimate not proof",
     "printable": true,
     "type": "single",
-    "question": "With the marble bags, a jar has about 12 groups of 16 beads. Which method is most useful?",
-    "audioPrompt": "With the marble bags, a jar has about 12 groups of 16 beads. Which method is most useful?",
-    "visual": "With the marble bags: 12 similar bead groups ready to estimate.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the marble bags: 12 similar bead groups ready to estimate.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-013\"></use></svg>",
+    "question": "A sum is estimated as 300. Two proposed exact answers are 297 and 303. What does the estimate tell you?",
+    "audioPrompt": "A sum is estimated as 300. Two proposed exact answers are 297 and 303. What does the estimate tell you?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-013",
-      "alt_text": "With the marble bags: 12 similar bead groups ready to estimate."
+      "type": "none"
     },
     "answers": [
-      "Guess without using the groups",
-      "Estimate one group, then multiply by the groups",
-      "Count only the first bead"
+      "Both are close; calculate exactly to decide.",
+      "Only 297 can be correct because it is below 300.",
+      "Only 303 can be correct because it is above 300.",
+      "Both proposed exact answers must be correct."
     ],
-    "correct": 1,
-    "explanation": "Using the visible groups gives evidence for the estimate.\nHint: Use the repeated structure in the collection.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "Both answers are 3 from the estimate. Estimation alone cannot distinguish them.\nHint: A useful check is not always a complete proof.",
     "structuredExplanation": {
-      "summary": "Using the visible groups gives evidence for the estimate.",
-      "hint": "Use the repeated structure in the collection."
+      "summary": "Both answers are 3 from the estimate. Estimation alone cannot distinguish them.",
+      "hint": "A useful check is not always a complete proof."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +383,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-014",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "reasonable difference",
     "printable": true,
     "type": "single",
-    "question": "With the marble bags, the exact answer is 550. Is 550 a reasonable estimate?",
-    "audioPrompt": "With the marble bags, the exact answer is 550. Is 550 a reasonable estimate?",
-    "visual": "With the marble bags: An exact total compared with a nearby rounded estimate.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the marble bags: An exact total compared with a nearby rounded estimate.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-014\"></use></svg>",
+    "question": "Use a rough estimate to choose the reasonable answer for 835 − 267.",
+    "audioPrompt": "Use a rough estimate to choose the reasonable answer for 835 − 267.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-014",
-      "alt_text": "With the marble bags: An exact total compared with a nearby rounded estimate."
+      "type": "none"
     },
     "answers": [
-      "No, estimates must equal exactly",
-      "No, estimates must be larger",
-      "Yes, it is close to the exact answer"
+      "1068",
+      "1268",
+      "1468",
+      "568"
     ],
-    "correct": 2,
-    "explanation": "A useful estimate is close enough for the purpose.\nHint: Find the difference between estimate and exact answer.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The difference is near 800 − 300 = 500. Of the choices, 568 is the sensible size.\nHint: Reject answers much larger than the starting number.",
     "structuredExplanation": {
-      "summary": "A useful estimate is close enough for the purpose.",
-      "hint": "Find the difference between estimate and exact answer."
+      "summary": "The difference is near 800 − 300 = 500. Of the choices, 568 is the sensible size.",
+      "hint": "Reject answers much larger than the starting number."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +412,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-015",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "reject collection estimate",
     "printable": true,
     "type": "single",
-    "question": "With the marble bags, why estimate before calculating 251 + 299?",
-    "audioPrompt": "With the marble bags, why estimate before calculating 251 + 299?",
-    "visual": "With the marble bags: A calculation with a check box labelled sensible range.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the marble bags: A calculation with a check box labelled sensible range.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-015\"></use></svg>",
+    "question": "3 trays each hold between 28 and 32 shells. A student estimates 126 shells altogether. Why is that too high?",
+    "audioPrompt": "3 trays each hold between 28 and 32 shells. A student estimates 126 shells altogether. Why is that too high?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-015",
-      "alt_text": "With the marble bags: A calculation with a check box labelled sensible range."
+      "type": "none"
     },
     "answers": [
-      "To predict a sensible range for the answer",
-      "To avoid understanding the problem",
-      "To make every answer end in zero"
+      "The total must be less than 28.",
+      "The total must equal 3.",
+      "Even 3 groups of 32 make only 96.",
+      "Estimates cannot be used for shells."
     ],
-    "correct": 0,
-    "explanation": "An estimate helps detect an unreasonable exact calculation.\nHint: Think of estimation as a reasonableness check.",
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "At most there are 3 × 32 = 96 shells. 126 exceeds that upper limit.\nHint: Use the largest allowed number in each tray.",
     "structuredExplanation": {
-      "summary": "An estimate helps detect an unreasonable exact calculation.",
-      "hint": "Think of estimation as a reasonableness check."
+      "summary": "At most there are 3 × 32 = 96 shells. 126 exceeds that upper limit.",
+      "hint": "Use the largest allowed number in each tray."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +441,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n05-t-016",
     "curriculumCode": "AC9M3N05",
     "bank": "test",
-    "skill": "estimation",
+    "skill": "explain reasonableness",
     "printable": true,
     "type": "single",
-    "question": "With the marble bags, a student estimates 251 + 299 as 20. What is the best response?",
-    "audioPrompt": "With the marble bags, a student estimates 251 + 299 as 20. What is the best response?",
-    "visual": "With the marble bags: Two large addends compared with an estimate of 20.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the marble bags: Two large addends compared with an estimate of 20.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-016\"></use></svg>",
+    "question": "The exact answer to 514 + 487 is 1001. Which estimate supports this answer?",
+    "audioPrompt": "The exact answer to 514 + 487 is 1001. Which estimate supports this answer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-016",
-      "alt_text": "With the marble bags: Two large addends compared with an estimate of 20."
+      "type": "none"
     },
     "answers": [
-      "The estimate is exact",
-      "The estimate is far too small",
-      "Any estimate is acceptable"
+      "500 − 500 = 0",
+      "500 + 500 = 1000",
+      "800 + 500 = 1300",
+      "500 + 1000 = 1500"
     ],
+    "difficulty": 2,
     "correct": 1,
-    "explanation": "Both addends are greater than 20, so their sum cannot be about 20.\nHint: Use the size of each addend to reject impossible estimates.",
+    "explanation": "Each rounded number is close to its original. Their sum, 1000, is close to 1001.\nHint: Use the same operation with nearby numbers.",
     "structuredExplanation": {
-      "summary": "Both addends are greater than 20, so their sum cannot be about 20.",
-      "hint": "Use the size of each addend to reject impossible estimates."
+      "summary": "Each rounded number is close to its original. Their sum, 1000, is close to 1001.",
+      "hint": "Use the same operation with nearby numbers."
     },
     "qualitySchema": "production-v1"
   }

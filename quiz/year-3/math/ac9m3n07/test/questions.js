@@ -4,28 +4,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-001",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "repeat addition",
     "printable": true,
     "type": "single",
-    "question": "At the class shop, start at 26, add 6, then double. What is the output?",
-    "audioPrompt": "At the class shop, start at 26, add 6, then double. What is the output?",
-    "visual": "At the class shop: An algorithm starting at 26, adding 6, then doubling.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the class shop: An algorithm starting at 26, adding 6, then doubling.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-001\"></use></svg>",
+    "question": "Start at 6. Add 7, write the result, and repeat until you have written 3 results. What is the third result?",
+    "audioPrompt": "Start at 6. Add 7, write the result, and repeat until you have written 3 results. What is the third result?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-001",
-      "alt_text": "At the class shop: An algorithm starting at 26, adding 6, then doubling."
+      "type": "none"
     },
     "answers": [
-      "64",
-      "38",
-      "70"
+      "20",
+      "34",
+      "27",
+      "42"
     ],
-    "correct": 0,
-    "explanation": "Following the steps gives 26+6=32, then double to 64.\nHint: Complete one instruction before the next.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "The written results are 13, 20, 27. The starting number is not one of the written results.\nHint: Count the actions, not the starting value.",
     "structuredExplanation": {
-      "summary": "Following the steps gives 26+6=32, then double to 64.",
-      "hint": "Complete one instruction before the next."
+      "summary": "The written results are 13, 20, 27. The starting number is not one of the written results.",
+      "hint": "Count the actions, not the starting value."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-002",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "repeat halving",
     "printable": true,
     "type": "single",
-    "question": "At the class shop, which instruction is precise enough for an algorithm?",
-    "audioPrompt": "At the class shop, which instruction is precise enough for an algorithm?",
-    "visual": "At the class shop: A clear add-6 algorithm step.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the class shop: A clear add-6 algorithm step.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-002\"></use></svg>",
+    "question": "Start at 96. Halve the current number three times. What number do you finish with?",
+    "audioPrompt": "Start at 96. Halve the current number three times. What number do you finish with?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-002",
-      "alt_text": "At the class shop: A clear add-6 algorithm step."
+      "type": "none"
     },
     "answers": [
-      "Make it nicer",
-      "Add 6",
-      "Do something with it"
+      "48",
+      "12",
+      "24",
+      "90"
     ],
+    "difficulty": 2,
     "correct": 1,
-    "explanation": "A precise instruction tells exactly what operation to perform.\nHint: Another person should be able to follow it without guessing.",
+    "explanation": "96 → 48 → 24 → 12. Each step halves the previous result.\nHint: Use the new result as the next input.",
     "structuredExplanation": {
-      "summary": "A precise instruction tells exactly what operation to perform.",
-      "hint": "Another person should be able to follow it without guessing."
+      "summary": "96 → 48 → 24 → 12. Each step halves the previous result.",
+      "hint": "Use the new result as the next input."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-003",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "ordered steps",
     "printable": true,
     "type": "single",
-    "question": "At the class shop, what is missing from: start at 26; ___; output 32?",
-    "audioPrompt": "At the class shop, what is missing from: start at 26; ___; output 32?",
-    "visual": "At the class shop: An algorithm with one missing operation between input and output.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the class shop: An algorithm with one missing operation between input and output.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-003\"></use></svg>",
+    "question": "Start at 6. First add 5. Then double the result. What is the output?",
+    "audioPrompt": "Start at 6. First add 5. Then double the result. What is the output?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-003",
-      "alt_text": "At the class shop: An algorithm with one missing operation between input and output."
+      "type": "none"
     },
     "answers": [
-      "Subtract 6",
-      "Multiply by 6",
-      "Add 6"
+      "22",
+      "17",
+      "11",
+      "12"
     ],
-    "correct": 2,
-    "explanation": "Adding 6 changes 26 to 32.\nHint: Compare input and output.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "First 6 + 5 = 11. Then double 11 to get 22.\nHint: Follow the stated order; adding after doubling is a different rule.",
     "structuredExplanation": {
-      "summary": "Adding 6 changes 26 to 32.",
-      "hint": "Compare input and output."
+      "summary": "First 6 + 5 = 11. Then double 11 to get 22.",
+      "hint": "Follow the stated order; adding after doubling is a different rule."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-004",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "even decision",
     "printable": true,
     "type": "single",
-    "question": "At the class shop, why can changing the order of “add 6” and “double” change the output?",
-    "audioPrompt": "At the class shop, why can changing the order of “add 6” and “double” change the output?",
-    "visual": "At the class shop: Two operation orders shown for comparison.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the class shop: Two operation orders shown for comparison.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-004\"></use></svg>",
+    "question": "Use this rule once for 21: if the number is even, halve it; otherwise, add 1. What is the output?",
+    "audioPrompt": "Use this rule once for 21: if the number is even, halve it; otherwise, add 1. What is the output?",
+    "visual": "Decision: even numbers are halved; other numbers have 1 added.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Decision: even numbers are halved; other numbers have 1 added.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-004",
-      "alt_text": "At the class shop: Two operation orders shown for comparison."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-t-004",
+      "alt_text": "Decision: even numbers are halved; other numbers have 1 added."
     },
     "answers": [
-      "The operations act on different intermediate values",
-      "Numbers forget their value",
-      "Order never changes an answer"
+      "42",
+      "23",
+      "20",
+      "22"
     ],
-    "correct": 0,
-    "explanation": "Adding then doubling is not generally the same as doubling then adding.\nHint: Try both orders with the starting value.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "21 is odd, so add 1 to get 22. Do not use both branches.\nHint: Decide which branch applies before calculating.",
     "structuredExplanation": {
-      "summary": "Adding then doubling is not generally the same as doubling then adding.",
-      "hint": "Try both orders with the starting value."
+      "summary": "21 is odd, so add 1 to get 22. Do not use both branches.",
+      "hint": "Decide which branch applies before calculating."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +122,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-005",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "multiple decision",
     "printable": true,
     "type": "single",
-    "question": "At the class shop, which sequence correctly checks 32 − 6 = 26?",
-    "audioPrompt": "At the class shop, which sequence correctly checks 32 − 6 = 26?",
-    "visual": "At the class shop: A subtraction-check algorithm with input, step and output.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the class shop: A subtraction-check algorithm with input, step and output.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-005\"></use></svg>",
+    "question": "An algorithm adds 10 to a multiple of 5, and adds 2 to any other whole number. Start with 47. What is the output?",
+    "audioPrompt": "An algorithm adds 10 to a multiple of 5, and adds 2 to any other whole number. Start with 47. What is the output?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-005",
-      "alt_text": "At the class shop: A subtraction-check algorithm with input, step and output."
+      "type": "none"
     },
     "answers": [
-      "Start at 26, subtract 32",
-      "Start at 32, subtract 6, compare with 26",
-      "Guess, then stop"
+      "57",
+      "235",
+      "49",
+      "45"
     ],
-    "correct": 1,
-    "explanation": "The check follows the subtraction and compares the output with the expected value.\nHint: Use a clear input, operation and output.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "47 is not a multiple of 5, so add 2 to get 49.\nHint: Multiples of 5 end in 0 or 5.",
     "structuredExplanation": {
-      "summary": "The check follows the subtraction and compares the output with the expected value.",
-      "hint": "Use a clear input, operation and output."
+      "summary": "47 is not a multiple of 5, so add 2 to get 49.",
+      "hint": "Multiples of 5 end in 0 or 5."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +151,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-006",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "boundary decision",
     "printable": true,
     "type": "single",
-    "question": "At the class shop, an algorithm says 26 + 6 = 33. What should be debugged?",
-    "audioPrompt": "At the class shop, an algorithm says 26 + 6 = 33. What should be debugged?",
-    "visual": "At the class shop: An algorithm with an incorrect final output.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the class shop: An algorithm with an incorrect final output.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-006\"></use></svg>",
+    "question": "If a number is LESS THAN 50, add 4. Otherwise subtract 3. What happens when the input is exactly 50?",
+    "audioPrompt": "If a number is LESS THAN 50, add 4. Otherwise subtract 3. What happens when the input is exactly 50?",
+    "visual": "Decision asks less than the stated threshold; yes adds 4, no subtracts 3.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Decision asks less than the stated threshold; yes adds 4, no subtracts 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-006",
-      "alt_text": "At the class shop: An algorithm with an incorrect final output."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-t-006",
+      "alt_text": "Decision asks less than the stated threshold; yes adds 4, no subtracts 3."
     },
     "answers": [
-      "The starting number",
-      "The word add",
-      "The recorded output"
+      "54",
+      "47",
+      "50",
+      "51"
     ],
-    "correct": 2,
-    "explanation": "26+6=32, so the final output is incorrect.\nHint: Recalculate each step and find the first mismatch.",
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "50 is equal to 50, not less. Use the otherwise branch: 50 − 3 = 47.\nHint: Check whether the boundary itself is included.",
     "structuredExplanation": {
-      "summary": "26+6=32, so the final output is incorrect.",
-      "hint": "Recalculate each step and find the first mismatch."
+      "summary": "50 is equal to 50, not less. Use the otherwise branch: 50 − 3 = 47.",
+      "hint": "Check whether the boundary itself is included."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +182,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-007",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "stop at limit",
     "printable": true,
     "type": "single",
-    "question": "At the class shop, which algorithm creates a pattern adding 6 each time?",
-    "audioPrompt": "At the class shop, which algorithm creates a pattern adding 6 each time?",
-    "visual": "At the class shop: Three pattern terms produced by repeatedly adding 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the class shop: Three pattern terms produced by repeatedly adding 6.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-007\"></use></svg>",
+    "question": "Start at 5. Keep adding 7. Stop as soon as the result is at least 30. What is the stopping number?",
+    "audioPrompt": "Start at 5. Keep adding 7. Stop as soon as the result is at least 30. What is the stopping number?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-007",
-      "alt_text": "At the class shop: Three pattern terms produced by repeatedly adding 6."
+      "type": "none"
     },
     "answers": [
-      "Start at 26; repeatedly add 6",
-      "Start at 26; repeatedly subtract 6",
-      "Start at 26; change the rule each time"
+      "33",
+      "26",
+      "40",
+      "32"
     ],
+    "difficulty": 3,
     "correct": 0,
-    "explanation": "Repeating the same add-6 step creates a constant pattern.\nHint: The repeated instruction must stay the same.",
+    "explanation": "The results are 12, 19, 26, 33. 33 is the first that reaches or passes 30.\nHint: “At least” includes equality and larger numbers.",
     "structuredExplanation": {
-      "summary": "Repeating the same add-6 step creates a constant pattern.",
-      "hint": "The repeated instruction must stay the same."
+      "summary": "The results are 12, 19, 26, 33. 33 is the first that reaches or passes 30.",
+      "hint": "“At least” includes equality and larger numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +211,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-008",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "complete tripling algorithm",
     "printable": true,
     "type": "single",
-    "question": "At the class shop, a robot must move forward 6 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
-    "audioPrompt": "At the class shop, a robot must move forward 6 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
-    "visual": "At the class shop: A three-step robot movement algorithm.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the class shop: A three-step robot movement algorithm.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-008\"></use></svg>",
+    "question": "To make 3 times 9, first double 9. Which step completes the algorithm?",
+    "audioPrompt": "To make 3 times 9, first double 9. Which step completes the algorithm?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-008",
-      "alt_text": "At the class shop: A three-step robot movement algorithm."
+      "type": "none"
     },
     "answers": [
-      "The robot changes colour",
-      "Moving it changes the pathway",
-      "Turns have no effect"
+      "Add 1.",
+      "Double the result again.",
+      "Subtract the original 9.",
+      "Add the original 9."
     ],
-    "correct": 1,
-    "explanation": "Algorithms depend on ordered steps; changing the turn changes the route.\nHint: Trace both possible orders on a grid.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Doubling gives 18, or two groups of 9. Add one more group of 9 to get 27.\nHint: Three groups are two groups plus one group.",
     "structuredExplanation": {
-      "summary": "Algorithms depend on ordered steps; changing the turn changes the route.",
-      "hint": "Trace both possible orders on a grid."
+      "summary": "Doubling gives 18, or two groups of 9. Add one more group of 9 to get 27.",
+      "hint": "Three groups are two groups plus one group."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +240,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-009",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "coin sort algorithm",
     "printable": true,
     "type": "single",
-    "question": "In the pathway challenge, start at 33, add 7, then double. What is the output?",
-    "audioPrompt": "In the pathway challenge, start at 33, add 7, then double. What is the output?",
-    "visual": "In the pathway challenge: An algorithm starting at 33, adding 7, then doubling.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pathway challenge: An algorithm starting at 33, adding 7, then doubling.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-009\"></use></svg>",
+    "question": "Sort coins into 5-cent and 10-cent groups. There are 6 five-cent coins and 5 ten-cent coins. Multiply each coin count by its value, then add. What total does the algorithm give, in cents?",
+    "audioPrompt": "Sort coins into 5-cent and 10-cent groups. There are 6 five-cent coins and 5 ten-cent coins. Multiply each coin count by its value, then add. What total does the algorithm give, in cents?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-009",
-      "alt_text": "In the pathway challenge: An algorithm starting at 33, adding 7, then doubling."
+      "type": "none"
     },
     "answers": [
-      "47",
-      "87",
-      "80"
+      "11",
+      "85",
+      "80",
+      "75"
     ],
+    "difficulty": 2,
     "correct": 2,
-    "explanation": "Following the steps gives 33+7=40, then double to 80.\nHint: Complete one instruction before the next.",
+    "explanation": "6 × 5 = 30 cents and 5 × 10 = 50 cents. Add to get 80 cents.\nHint: Use coin values, not just the number of coins.",
     "structuredExplanation": {
-      "summary": "Following the steps gives 33+7=40, then double to 80.",
-      "hint": "Complete one instruction before the next."
+      "summary": "6 × 5 = 30 cents and 5 × 10 = 50 cents. Add to get 80 cents.",
+      "hint": "Use coin values, not just the number of coins."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +269,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-010",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "debug trace",
     "printable": true,
     "type": "single",
-    "question": "In the pathway challenge, which instruction is precise enough for an algorithm?",
-    "audioPrompt": "In the pathway challenge, which instruction is precise enough for an algorithm?",
-    "visual": "In the pathway challenge: A clear add-7 algorithm step.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pathway challenge: A clear add-7 algorithm step.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-010\"></use></svg>",
+    "question": "The rule is “add 6 each time”. The recorded numbers are 9, 15, 22, 27. Which value needs replacing?",
+    "audioPrompt": "The rule is “add 6 each time”. The recorded numbers are 9, 15, 22, 27. Which value needs replacing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-010",
-      "alt_text": "In the pathway challenge: A clear add-7 algorithm step."
+      "type": "none"
     },
     "answers": [
-      "Add 7",
-      "Make it nicer",
-      "Do something with it"
+      "Replace 15 with 16.",
+      "Replace 22 with 21.",
+      "Replace 9 with 10.",
+      "Replace 27 with 28."
     ],
-    "correct": 0,
-    "explanation": "A precise instruction tells exactly what operation to perform.\nHint: Another person should be able to follow it without guessing.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "15 + 6 = 21, not 22. The corrected next step also gives 27.\nHint: Test each transition against the rule.",
     "structuredExplanation": {
-      "summary": "A precise instruction tells exactly what operation to perform.",
-      "hint": "Another person should be able to follow it without guessing."
+      "summary": "15 + 6 = 21, not 22. The corrected next step also gives 27.",
+      "hint": "Test each transition against the rule."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +298,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-011",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "explain parity pattern",
     "printable": true,
     "type": "single",
-    "question": "In the pathway challenge, what is missing from: start at 33; ___; output 40?",
-    "audioPrompt": "In the pathway challenge, what is missing from: start at 33; ___; output 40?",
-    "visual": "In the pathway challenge: An algorithm with one missing operation between input and output.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pathway challenge: An algorithm with one missing operation between input and output.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-011\"></use></svg>",
+    "question": "Start at 14 and repeatedly add 8. What pattern do the results follow?",
+    "audioPrompt": "Start at 14 and repeatedly add 8. What pattern do the results follow?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-011",
-      "alt_text": "In the pathway challenge: An algorithm with one missing operation between input and output."
+      "type": "none"
     },
     "answers": [
-      "Subtract 7",
-      "Add 7",
-      "Multiply by 7"
+      "They stay even.",
+      "They alternate between odd and even.",
+      "They all end in zero.",
+      "They eventually decrease."
     ],
-    "correct": 1,
-    "explanation": "Adding 7 changes 33 to 40.\nHint: Compare input and output.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "Adding an even number preserves whether a number is odd or even. Starting at 14, all results stay even.\nHint: Think about adding complete pairs.",
     "structuredExplanation": {
-      "summary": "Adding 7 changes 33 to 40.",
-      "hint": "Compare input and output."
+      "summary": "Adding an even number preserves whether a number is odd or even. Starting at 14, all results stay even.",
+      "hint": "Think about adding complete pairs."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +327,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-012",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "find table rule",
     "printable": true,
     "type": "single",
-    "question": "In the pathway challenge, why can changing the order of “add 7” and “double” change the output?",
-    "audioPrompt": "In the pathway challenge, why can changing the order of “add 7” and “double” change the output?",
-    "visual": "In the pathway challenge: Two operation orders shown for comparison.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pathway challenge: Two operation orders shown for comparison.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-012\"></use></svg>",
+    "question": "The table maps 2 to 12, 4 to 24, and 7 to 42. Which multiplication rule fits every row?",
+    "audioPrompt": "The table maps 2 to 12, 4 to 24, and 7 to 42. Which multiplication rule fits every row?",
+    "visual": "Input-output pairs: 2 to 12, 4 to 24, 7 to 42.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Input-output pairs: 2 to 12, 4 to 24, 7 to 42.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-012",
-      "alt_text": "In the pathway challenge: Two operation orders shown for comparison."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-t-012",
+      "alt_text": "Input-output pairs: 2 to 12, 4 to 24, 7 to 42."
     },
     "answers": [
-      "Numbers forget their value",
-      "Order never changes an answer",
-      "The operations act on different intermediate values"
+      "Add 6.",
+      "Multiply by 7.",
+      "Subtract 6.",
+      "Multiply by 6."
     ],
-    "correct": 2,
-    "explanation": "Adding then doubling is not generally the same as doubling then adding.\nHint: Try both orders with the starting value.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "2 × 6 = 12, 4 × 6 = 24, and 7 × 6 = 42. The same rule fits all rows.\nHint: A rule must work for every input-output pair.",
     "structuredExplanation": {
-      "summary": "Adding then doubling is not generally the same as doubling then adding.",
-      "hint": "Try both orders with the starting value."
+      "summary": "2 × 6 = 12, 4 × 6 = 24, and 7 × 6 = 42. The same rule fits all rows.",
+      "hint": "A rule must work for every input-output pair."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +358,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-013",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "reverse two steps",
     "printable": true,
     "type": "single",
-    "question": "In the pathway challenge, which sequence correctly checks 40 − 7 = 33?",
-    "audioPrompt": "In the pathway challenge, which sequence correctly checks 40 − 7 = 33?",
-    "visual": "In the pathway challenge: A subtraction-check algorithm with input, step and output.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pathway challenge: A subtraction-check algorithm with input, step and output.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-013\"></use></svg>",
+    "question": "A machine doubles its input, then adds 6. The output is 28. What was the input?",
+    "audioPrompt": "A machine doubles its input, then adds 6. The output is 28. What was the input?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-013",
-      "alt_text": "In the pathway challenge: A subtraction-check algorithm with input, step and output."
+      "type": "none"
     },
     "answers": [
-      "Start at 40, subtract 7, compare with 33",
-      "Start at 33, subtract 40",
-      "Guess, then stop"
+      "22",
+      "14",
+      "11",
+      "10"
     ],
-    "correct": 0,
-    "explanation": "The check follows the subtraction and compares the output with the expected value.\nHint: Use a clear input, operation and output.",
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "Undo the last step first: 28 − 6 = 22. Then halve to get 11.\nHint: Work backwards in reverse order.",
     "structuredExplanation": {
-      "summary": "The check follows the subtraction and compares the output with the expected value.",
-      "hint": "Use a clear input, operation and output."
+      "summary": "Undo the last step first: 28 − 6 = 22. Then halve to get 11.",
+      "hint": "Work backwards in reverse order."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +387,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-014",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "design stop rule",
     "printable": true,
     "type": "single",
-    "question": "In the pathway challenge, an algorithm says 33 + 7 = 41. What should be debugged?",
-    "audioPrompt": "In the pathway challenge, an algorithm says 33 + 7 = 41. What should be debugged?",
-    "visual": "In the pathway challenge: An algorithm with an incorrect final output.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pathway challenge: An algorithm with an incorrect final output.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-014\"></use></svg>",
+    "question": "A counter starts at 0 and adds 3 each time. It must stop exactly when it reaches 36. Which check should follow every addition?",
+    "audioPrompt": "A counter starts at 0 and adds 3 each time. It must stop exactly when it reaches 36. Which check should follow every addition?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-014",
-      "alt_text": "In the pathway challenge: An algorithm with an incorrect final output."
+      "type": "none"
     },
     "answers": [
-      "The starting number",
-      "The recorded output",
-      "The word add"
+      "Stop before doing any addition.",
+      "If the new total equals 36, stop; otherwise repeat.",
+      "Always repeat, even after reaching the target.",
+      "Stop after the first addition."
     ],
+    "difficulty": 3,
     "correct": 1,
-    "explanation": "33+7=40, so the final output is incorrect.\nHint: Recalculate each step and find the first mismatch.",
+    "explanation": "36 is reached after 12 additions of 3. Checking each new total stops the process at the target.\nHint: A repeating algorithm needs an explicit stopping decision.",
     "structuredExplanation": {
-      "summary": "33+7=40, so the final output is incorrect.",
-      "hint": "Recalculate each step and find the first mismatch."
+      "summary": "36 is reached after 12 additions of 3. Checking each new total stops the process at the target.",
+      "hint": "A repeating algorithm needs an explicit stopping decision."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +416,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-015",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "recheck branch",
     "printable": true,
     "type": "single",
-    "question": "In the pathway challenge, which algorithm creates a pattern adding 7 each time?",
-    "audioPrompt": "In the pathway challenge, which algorithm creates a pattern adding 7 each time?",
-    "visual": "In the pathway challenge: Three pattern terms produced by repeatedly adding 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pathway challenge: Three pattern terms produced by repeatedly adding 7.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-015\"></use></svg>",
+    "question": "Rule: if even, halve; if odd, add 1. Start at 16 and apply the rule twice, checking the new number each time. What is the final number?",
+    "audioPrompt": "Rule: if even, halve; if odd, add 1. Start at 16 and apply the rule twice, checking the new number each time. What is the final number?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-015",
-      "alt_text": "In the pathway challenge: Three pattern terms produced by repeatedly adding 7."
+      "type": "none"
     },
     "answers": [
-      "Start at 33; repeatedly subtract 7",
-      "Start at 33; change the rule each time",
-      "Start at 33; repeatedly add 7"
+      "4",
+      "8",
+      "6",
+      "32"
     ],
-    "correct": 2,
-    "explanation": "Repeating the same add-7 step creates a constant pattern.\nHint: The repeated instruction must stay the same.",
+    "difficulty": 3,
+    "correct": 0,
+    "explanation": "16 becomes 8. Check 8 again: it becomes 4. The decision uses the current value.\nHint: Do not keep using the branch chosen for the starting number.",
     "structuredExplanation": {
-      "summary": "Repeating the same add-7 step creates a constant pattern.",
-      "hint": "The repeated instruction must stay the same."
+      "summary": "16 becomes 8. Check 8 again: it becomes 4. The decision uses the current value.",
+      "hint": "Do not keep using the branch chosen for the starting number."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +445,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n07-t-016",
     "curriculumCode": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
+    "skill": "complete creation",
     "printable": true,
     "type": "single",
-    "question": "In the pathway challenge, a robot must move forward 7 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
-    "audioPrompt": "In the pathway challenge, a robot must move forward 7 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
-    "visual": "In the pathway challenge: A three-step robot movement algorithm.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pathway challenge: A three-step robot movement algorithm.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-016\"></use></svg>",
+    "question": "Complete these instructions to generate 12, 20, 28, 36: “Write 12. Then ___, write the result and repeat.”",
+    "audioPrompt": "Complete these instructions to generate 12, 20, 28, 36: “Write 12. Then ___, write the result and repeat.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-016",
-      "alt_text": "In the pathway challenge: A three-step robot movement algorithm."
+      "type": "none"
     },
     "answers": [
-      "Moving it changes the pathway",
-      "The robot changes colour",
-      "Turns have no effect"
+      "add 12 to the current number",
+      "multiply the current number by 8",
+      "subtract 8 from the current number",
+      "add 8 to the current number"
     ],
-    "correct": 0,
-    "explanation": "Algorithms depend on ordered steps; changing the turn changes the route.\nHint: Trace both possible orders on a grid.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The gap between successive numbers is always 8. The instruction must update the current number by that amount.\nHint: Test the proposed step on every pair of neighbours.",
     "structuredExplanation": {
-      "summary": "Algorithms depend on ordered steps; changing the turn changes the route.",
-      "hint": "Trace both possible orders on a grid."
+      "summary": "The gap between successive numbers is always 8. The instruction must update the current number by that amount.",
+      "hint": "Test the proposed step on every pair of neighbours."
     },
     "qualitySchema": "production-v1"
   }

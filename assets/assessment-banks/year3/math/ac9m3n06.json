@@ -5,36 +5,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "model_money_addition",
-    "question": "In the class shop, a notebook costs $5 and a pen costs $3. How much do they cost altogether?",
-    "audio_prompt": "In the class shop, a notebook costs $5 and a pen costs $3. How much do they cost altogether?",
+    "skill": "formulate_addition",
+    "question": "A school collects 126 cans on Monday and 87 on Tuesday. Which number sentence finds the total collected?",
+    "audio_prompt": "A school collects 126 cans on Monday and 87 on Tuesday. Which number sentence finds the total collected?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-001",
-      "alt_text": "In the class shop: A notebook labelled $5 and a pen labelled $3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$2",
+        "text": "126 − 87 = 39",
         "is_correct": false
       },
       {
-        "text": "$9",
-        "is_correct": false
-      },
-      {
-        "text": "$8",
+        "text": "126 + 87 = 213",
         "is_correct": true
+      },
+      {
+        "text": "126 × 87 = 10962",
+        "is_correct": false
+      },
+      {
+        "text": "213 − 87 = 126",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Join the two costs: $5 + $3 = $8.",
-      "hint": "Altogether means add the amounts."
+      "summary": "The two daily amounts are parts of one total. Add them to find 213 cans.",
+      "hint": "Identify the two parts and the unknown whole."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N06-P-002",
@@ -42,36 +42,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "model_money_change",
-    "question": "In the class shop, kai pays $20 for a toy that costs $8. How much change should Kai get?",
-    "audio_prompt": "In the class shop, kai pays $20 for a toy that costs $8. How much change should Kai get?",
+    "skill": "formulate_subtraction",
+    "question": "A club has 245 tickets. It sells 138. Which calculation finds the tickets still available?",
+    "audio_prompt": "A club has 245 tickets. It sells 138. Which calculation finds the tickets still available?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-002",
-      "alt_text": "In the class shop: A $20 payment and a toy price of $8."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$12",
+        "text": "245 − 138",
         "is_correct": true
       },
       {
-        "text": "$28",
+        "text": "245 + 138",
         "is_correct": false
       },
       {
-        "text": "$13",
+        "text": "245 × 138",
+        "is_correct": false
+      },
+      {
+        "text": "138 − 245",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left: $20 − $8 = $12.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "Take the sold tickets from the starting total: 245 − 138 = 107 tickets remain.",
+      "hint": "The unsold tickets are the missing part."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N06-P-003",
@@ -79,36 +79,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "choose_operation_for_equal_groups",
-    "question": "In the class shop, there are 4 bags with 3 apples in each bag. Which operation finds all the apples?",
-    "audio_prompt": "In the class shop, there are 4 bags with 3 apples in each bag. Which operation finds all the apples?",
+    "skill": "model_equal_groups",
+    "question": "There are 4 equal packs of 12 cards. How many cards are there altogether?",
+    "audio_prompt": "There are 4 equal packs of 12 cards. How many cards are there altogether?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-003",
-      "alt_text": "In the class shop: 4 bags with 3 apples in every bag."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06-reviewed.svg#ac9m3n06-p-003",
+      "alt_text": "4 equal packs, each labelled 12, with unknown total."
     },
     "answers": [
       {
-        "text": "Subtraction",
+        "text": "16",
         "is_correct": false
       },
       {
-        "text": "Multiplication",
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      },
+      {
+        "text": "48",
         "is_correct": true
-      },
-      {
-        "text": "Measuring length",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Equal groups are modelled with multiplication: 4 groups of 3.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "4 groups of 12 means 4 × 12 = 48 cards.",
+      "hint": "Multiply the number of groups by the group size."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N06-P-004",
@@ -116,36 +118,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "model_equal_sharing",
-    "question": "In the class shop, 12 crayons are shared equally between 4 tables. How many crayons does each table get?",
-    "audio_prompt": "In the class shop, 12 crayons are shared equally between 4 tables. How many crayons does each table get?",
+    "skill": "formulate_grouping",
+    "question": "42 seedlings are planted with 6 in each row. Which sentence finds the number of full rows?",
+    "audio_prompt": "42 seedlings are planted with 6 in each row. Which sentence finds the number of full rows?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-004",
-      "alt_text": "In the class shop: 12 crayons shared into 4 equal table groups."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "4",
+        "text": "42 − 6 = 36",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "42 + 6 = 48",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "42 ÷ 6 = 7",
         "is_correct": true
+      },
+      {
+        "text": "42 × 6 = 252",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "12 ÷ 4 = 3, so every table gets 3.",
-      "hint": "Share the crayons one at a time into 4 equal groups."
+      "summary": "The total is shared into groups of 6, so there are 7 rows.",
+      "hint": "Here the unknown is how many equal groups can be made."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-P-005",
@@ -153,36 +155,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "represent_additive_situation",
-    "question": "In the class shop, lina has 5 cards and gets 4 more. Which number sentence models the story?",
-    "audio_prompt": "In the class shop, lina has 5 cards and gets 4 more. Which number sentence models the story?",
+    "skill": "financial_change",
+    "question": "You pay $5.00 for a book costing $3.65. How much change should you receive?",
+    "audio_prompt": "You pay $5.00 for a book costing $3.65. How much change should you receive?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-005",
-      "alt_text": "In the class shop: A group of 5 cards joined by 4 more cards."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "5 + 4 = 9",
+        "text": "$2.35",
+        "is_correct": false
+      },
+      {
+        "text": "$1.35",
         "is_correct": true
       },
       {
-        "text": "5 − 4 = 1",
+        "text": "$0.35",
         "is_correct": false
       },
       {
-        "text": "5 × 4 = 20",
+        "text": "$8.65",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
+      "summary": "Count up from $3.65 to $5.00, or subtract 500 − 365 = 135 cents. The change is $1.35.",
+      "hint": "The cost plus the change must equal the amount paid."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-P-006",
@@ -190,36 +192,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "check_reasonableness",
-    "question": "In the class shop, a student says 4 bags of 3 marbles make 22 marbles. Does that answer make sense?",
-    "audio_prompt": "In the class shop, a student says 4 bags of 3 marbles make 22 marbles. Does that answer make sense?",
+    "skill": "budget_two_items",
+    "question": "You have $10.00. A pen set costs $4.25 and a notebook costs $3.50. How much will be left after buying both?",
+    "audio_prompt": "You have $10.00. A pen set costs $4.25 and a notebook costs $3.50. How much will be left after buying both?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-006",
-      "alt_text": "In the class shop: 4 bags with 3 marbles in each, compared with a claim of 22."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Yes, every multiplication answer is large",
-        "is_correct": false
-      },
-      {
-        "text": "No, the total should be 12",
+        "text": "$2.25",
         "is_correct": true
       },
       {
-        "text": "No, the total should be 7",
+        "text": "$5.75",
+        "is_correct": false
+      },
+      {
+        "text": "$6.50",
+        "is_correct": false
+      },
+      {
+        "text": "$7.75",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "4 equal groups of 3 make 12, not 22.",
-      "hint": "Build or draw the groups to check the answer."
+      "summary": "Both items cost $7.75. Subtract that from $10.00 to leave $2.25.",
+      "hint": "Combine all costs before finding the money left."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3
   },
   {
     "id": "AC9M3N06-P-007",
@@ -227,36 +229,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "communicate_model_solution",
-    "question": "In the class shop, which final sentence clearly answers a money problem?",
-    "audio_prompt": "In the class shop, which final sentence clearly answers a money problem?",
+    "skill": "price_per_item",
+    "question": "4 children each buy a ticket costing $3. Which calculation gives the group’s total cost?",
+    "audio_prompt": "4 children each buy a ticket costing $3. Which calculation gives the group’s total cost?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-007",
-      "alt_text": "In the class shop: A receipt showing a total of $8."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The answer is 8.",
+        "text": "4 + $3 = $7",
         "is_correct": false
       },
       {
-        "text": "I used addition.",
+        "text": "$12 − $3 = $9",
         "is_correct": false
       },
       {
-        "text": "The two items cost $8 altogether.",
+        "text": "4 × $3 = $13",
+        "is_correct": false
+      },
+      {
+        "text": "4 × $3 = $12",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "The same $3 cost is paid 4 times. The total is $12.",
+      "hint": "Repeated equal costs can be multiplied."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N06-P-008",
@@ -264,36 +266,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "select_mathematical_model",
-    "question": "In the class shop, which is a helpful first step for 4 boxes with 3 pencils in each?",
-    "audio_prompt": "In the class shop, which is a helpful first step for 4 boxes with 3 pencils in each?",
+    "skill": "compare_pack_costs",
+    "question": "A small pack holds 3 pencils and costs $4. A large pack holds 6 pencils and costs $9. What is the cheaper way to buy exactly 6 pencils?",
+    "audio_prompt": "A small pack holds 3 pencils and costs $4. A large pack holds 6 pencils and costs $9. What is the cheaper way to buy exactly 6 pencils?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-008",
-      "alt_text": "In the class shop: 4 empty group boxes ready for 3 pencil counters in each."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Draw 4 equal groups of 3",
+        "text": "One large pack for $9.",
+        "is_correct": false
+      },
+      {
+        "text": "One small pack for $4.",
+        "is_correct": false
+      },
+      {
+        "text": "Two small packs for $8.",
         "is_correct": true
       },
       {
-        "text": "Add every number you see",
-        "is_correct": false
-      },
-      {
-        "text": "Guess a large answer",
+        "text": "Two large packs for $18.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
+      "summary": "Two small packs give exactly 6 pencils for $8, which is less than $9. One small pack does not provide enough.",
+      "hint": "Compare costs for the same number of pencils."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3
   },
   {
     "id": "AC9M3N06-P-009",
@@ -301,35 +303,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "model_money_addition",
-    "question": "At the toy stall, a notebook costs $7 and a pen costs $4. How much do they cost altogether?",
-    "audio_prompt": "At the toy stall, a notebook costs $7 and a pen costs $4. How much do they cost altogether?",
+    "skill": "two_step_add_subtract",
+    "question": "34 people are at a picnic. 27 more arrive, then 18 leave. How many people remain?",
+    "audio_prompt": "34 people are at a picnic. 27 more arrive, then 18 leave. How many people remain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-009",
-      "alt_text": "At the toy stall: A notebook labelled $7 and a pen labelled $4."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$3",
+        "text": "61",
         "is_correct": false
       },
       {
-        "text": "$11",
+        "text": "43",
         "is_correct": true
       },
       {
-        "text": "$12",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "79",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Join the two costs: $7 + $4 = $11.",
-      "hint": "Altogether means add the amounts."
+      "summary": "After arrivals: 34 + 27 = 61. After departures: 61 − 18 = 43 people.",
+      "hint": "Keep the order of events and track the running total."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-P-010",
@@ -337,35 +340,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "model_money_change",
-    "question": "At the toy stall, kai pays $25 for a toy that costs $10. How much change should Kai get?",
-    "audio_prompt": "At the toy stall, kai pays $25 for a toy that costs $10. How much change should Kai get?",
+    "skill": "two_step_multiply_subtract",
+    "question": "A teacher opens 4 packs of 8 stickers, then gives out 9 stickers. How many stickers are left?",
+    "audio_prompt": "A teacher opens 4 packs of 8 stickers, then gives out 9 stickers. How many stickers are left?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-010",
-      "alt_text": "At the toy stall: A $25 payment and a toy price of $10."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$35",
-        "is_correct": false
-      },
-      {
-        "text": "$16",
-        "is_correct": false
-      },
-      {
-        "text": "$15",
+        "text": "23",
         "is_correct": true
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "41",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left: $25 − $10 = $15.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "There are 4 × 8 = 32 stickers at first. Subtract 9 to leave 23.",
+      "hint": "Find the whole collection before removing stickers."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N06-P-011",
@@ -373,35 +377,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "choose_operation_for_equal_groups",
-    "question": "At the toy stall, there are 5 bags with 4 apples in each bag. Which operation finds all the apples?",
-    "audio_prompt": "At the toy stall, there are 5 bags with 4 apples in each bag. Which operation finds all the apples?",
+    "skill": "share_then_add",
+    "question": "24 beads are shared equally between 4 children. Each child then receives 3 more beads. How many beads does each child have?",
+    "audio_prompt": "24 beads are shared equally between 4 children. Each child then receives 3 more beads. How many beads does each child have?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-011",
-      "alt_text": "At the toy stall: 5 bags with 4 apples in every bag."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Multiplication",
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "9",
         "is_correct": true
-      },
-      {
-        "text": "Subtraction",
-        "is_correct": false
-      },
-      {
-        "text": "Measuring length",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Equal groups are modelled with multiplication: 5 groups of 4.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "Each child first receives 24 ÷ 4 = 6 beads, then 3 more: 9 beads each.",
+      "hint": "The extra beads go to each child after sharing."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N06-P-012",
@@ -409,35 +414,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "model_equal_sharing",
-    "question": "At the toy stall, 20 crayons are shared equally between 5 tables. How many crayons does each table get?",
-    "audio_prompt": "At the toy stall, 20 crayons are shared equally between 5 tables. How many crayons does each table get?",
+    "skill": "interpret_capacity",
+    "question": "17 children need seats. Each table seats 4 children. What is the smallest number of tables that seats everyone?",
+    "audio_prompt": "17 children need seats. Each table seats 4 children. What is the smallest number of tables that seats everyone?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-012",
-      "alt_text": "At the toy stall: 20 crayons shared into 5 equal table groups."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "5",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "15",
+        "text": "13",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "20 ÷ 5 = 4, so every table gets 4.",
-      "hint": "Share the crayons one at a time into 5 equal groups."
+      "summary": "4 tables seat only 16 children. One more table is needed for the remaining 1, so use 5 tables.",
+      "hint": "A partly filled final table still counts as one table."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N06-P-013",
@@ -445,35 +451,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "represent_additive_situation",
-    "question": "At the toy stall, lina has 7 cards and gets 5 more. Which number sentence models the story?",
-    "audio_prompt": "At the toy stall, lina has 7 cards and gets 5 more. Which number sentence models the story?",
+    "skill": "identify_missing_information",
+    "question": "A club buys 3 identical bags of balls. To calculate the total number of balls, what extra information is needed?",
+    "audio_prompt": "A club buys 3 identical bags of balls. To calculate the total number of balls, what extra information is needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-013",
-      "alt_text": "At the toy stall: A group of 7 cards joined by 5 more cards."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "7 − 5 = 2",
+        "text": "The colour of the bags.",
         "is_correct": false
       },
       {
-        "text": "7 × 5 = 35",
-        "is_correct": false
-      },
-      {
-        "text": "7 + 5 = 12",
+        "text": "The number of balls in each bag.",
         "is_correct": true
+      },
+      {
+        "text": "The day the balls were bought.",
+        "is_correct": false
+      },
+      {
+        "text": "The number of people in the club.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
+      "summary": "Total balls = 3 × balls per bag. The group size is missing.",
+      "hint": "Identify which number in the calculation is unknown."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-P-014",
@@ -481,35 +488,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "check_reasonableness",
-    "question": "At the toy stall, a student says 5 bags of 4 marbles make 30 marbles. Does that answer make sense?",
-    "audio_prompt": "At the toy stall, a student says 5 bags of 4 marbles make 30 marbles. Does that answer make sense?",
+    "skill": "interpret_quotient",
+    "question": "36 oranges are shared equally between 4 teams. A student calculates 36 ÷ 4 = 9. What does 9 mean?",
+    "audio_prompt": "36 oranges are shared equally between 4 teams. A student calculates 36 ÷ 4 = 9. What does 9 mean?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-014",
-      "alt_text": "At the toy stall: 5 bags with 4 marbles in each, compared with a claim of 30."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06-reviewed.svg#ac9m3n06-p-014",
+      "alt_text": "A total of 36 split into 4 equal team shares."
     },
     "answers": [
       {
-        "text": "No, the total should be 20",
+        "text": "Each team receives 9 oranges.",
         "is_correct": true
       },
       {
-        "text": "Yes, every multiplication answer is large",
+        "text": "There are 9 teams.",
         "is_correct": false
       },
       {
-        "text": "No, the total should be 9",
+        "text": "9 oranges remain unshared.",
+        "is_correct": false
+      },
+      {
+        "text": "There were only 9 oranges at first.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "5 equal groups of 4 make 20, not 30.",
-      "hint": "Build or draw the groups to check the answer."
+      "summary": "The number of teams was already known. Division finds the amount in each team’s equal share.",
+      "hint": "Attach the correct unit and meaning to the result."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-P-015",
@@ -517,35 +527,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "communicate_model_solution",
-    "question": "At the toy stall, which final sentence clearly answers a money problem?",
-    "audio_prompt": "At the toy stall, which final sentence clearly answers a money problem?",
+    "skill": "choose_money_strategy",
+    "question": "A snack costs $4.80 and you pay $5.00. Which is a useful counting-up calculation for the change?",
+    "audio_prompt": "A snack costs $4.80 and you pay $5.00. Which is a useful counting-up calculation for the change?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-015",
-      "alt_text": "At the toy stall: A receipt showing a total of $11."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The answer is 11.",
+        "text": "$4.80 + $5.00 = $9.80",
         "is_correct": false
       },
       {
-        "text": "The two items cost $11 altogether.",
+        "text": "$4.80 − $0.20 = $4.60",
+        "is_correct": false
+      },
+      {
+        "text": "$5.00 + $0.20 = $5.20",
+        "is_correct": false
+      },
+      {
+        "text": "$4.80 + $0.20 = $5.00",
         "is_correct": true
-      },
-      {
-        "text": "I used addition.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "Count the gap from the cost to the amount paid. That gap is $0.20, the change.",
+      "hint": "Start at the price and stop at the payment."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-P-016",
@@ -553,35 +564,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "select_mathematical_model",
-    "question": "At the toy stall, which is a helpful first step for 5 boxes with 4 pencils in each?",
-    "audio_prompt": "At the toy stall, which is a helpful first step for 5 boxes with 4 pencils in each?",
+    "skill": "choose_matching_story",
+    "question": "Which story is modelled by 3 × 8 = 24?",
+    "audio_prompt": "Which story is modelled by 3 × 8 = 24?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-016",
-      "alt_text": "At the toy stall: 5 empty group boxes ready for 4 pencil counters in each."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Add every number you see",
+        "text": "3 muffins are added to 8 muffins. Find the total.",
         "is_correct": false
       },
       {
-        "text": "Guess a large answer",
+        "text": "8 muffins are shared between 3 people. Find each share.",
         "is_correct": false
       },
       {
-        "text": "Draw 5 equal groups of 4",
+        "text": "3 trays each hold 8 muffins. Find the total muffins.",
         "is_correct": true
+      },
+      {
+        "text": "8 muffins are available and 3 are eaten. Find what remains.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
+      "summary": "Multiplication describes 3 equal groups of 8, giving 24 muffins.",
+      "hint": "Look for equal groups rather than two separate amounts."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-P-017",
@@ -589,35 +601,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "model_money_addition",
-    "question": "During the fruit order, a notebook costs $9 and a pen costs $5. How much do they cost altogether?",
-    "audio_prompt": "During the fruit order, a notebook costs $9 and a pen costs $5. How much do they cost altogether?",
+    "skill": "formulate_addition",
+    "question": "A school collects 235 cans on Monday and 146 on Tuesday. Which number sentence finds the total collected?",
+    "audio_prompt": "A school collects 235 cans on Monday and 146 on Tuesday. Which number sentence finds the total collected?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-017",
-      "alt_text": "During the fruit order: A notebook labelled $9 and a pen labelled $5."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$14",
+        "text": "235 − 146 = 89",
+        "is_correct": false
+      },
+      {
+        "text": "235 + 146 = 381",
         "is_correct": true
       },
       {
-        "text": "$4",
+        "text": "235 × 146 = 34310",
         "is_correct": false
       },
       {
-        "text": "$15",
+        "text": "381 − 146 = 235",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Join the two costs: $9 + $5 = $14.",
-      "hint": "Altogether means add the amounts."
+      "summary": "The two daily amounts are parts of one total. Add them to find 381 cans.",
+      "hint": "Identify the two parts and the unknown whole."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3N06-P-018",
@@ -625,35 +638,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "model_money_change",
-    "question": "During the fruit order, kai pays $30 for a toy that costs $12. How much change should Kai get?",
-    "audio_prompt": "During the fruit order, kai pays $30 for a toy that costs $12. How much change should Kai get?",
+    "skill": "formulate_subtraction",
+    "question": "A club has 367 tickets. It sells 189. Which calculation finds the tickets still available?",
+    "audio_prompt": "A club has 367 tickets. It sells 189. Which calculation finds the tickets still available?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-018",
-      "alt_text": "During the fruit order: A $30 payment and a toy price of $12."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$42",
-        "is_correct": false
-      },
-      {
-        "text": "$18",
+        "text": "367 − 189",
         "is_correct": true
       },
       {
-        "text": "$19",
+        "text": "367 + 189",
+        "is_correct": false
+      },
+      {
+        "text": "367 × 189",
+        "is_correct": false
+      },
+      {
+        "text": "189 − 367",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left: $30 − $12 = $18.",
-      "hint": "Start with the amount paid and subtract the cost."
+      "summary": "Take the sold tickets from the starting total: 367 − 189 = 178 tickets remain.",
+      "hint": "The unsold tickets are the missing part."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3N06-P-019",
@@ -661,35 +675,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "choose_operation_for_equal_groups",
-    "question": "During the fruit order, there are 6 bags with 5 apples in each bag. Which operation finds all the apples?",
-    "audio_prompt": "During the fruit order, there are 6 bags with 5 apples in each bag. Which operation finds all the apples?",
+    "skill": "model_equal_groups",
+    "question": "There are 3 equal packs of 15 cards. How many cards are there altogether?",
+    "audio_prompt": "There are 3 equal packs of 15 cards. How many cards are there altogether?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-019",
-      "alt_text": "During the fruit order: 6 bags with 5 apples in every bag."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06-reviewed.svg#ac9m3n06-p-019",
+      "alt_text": "3 equal packs, each labelled 15, with unknown total."
     },
     "answers": [
       {
-        "text": "Subtraction",
+        "text": "18",
         "is_correct": false
       },
       {
-        "text": "Measuring length",
+        "text": "30",
         "is_correct": false
       },
       {
-        "text": "Multiplication",
+        "text": "60",
+        "is_correct": false
+      },
+      {
+        "text": "45",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Equal groups are modelled with multiplication: 6 groups of 5.",
-      "hint": "Ask whether the story has equal groups."
+      "summary": "3 groups of 15 means 3 × 15 = 45 cards.",
+      "hint": "Multiply the number of groups by the group size."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3N06-P-020",
@@ -697,35 +714,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "model_equal_sharing",
-    "question": "During the fruit order, 30 crayons are shared equally between 6 tables. How many crayons does each table get?",
-    "audio_prompt": "During the fruit order, 30 crayons are shared equally between 6 tables. How many crayons does each table get?",
+    "skill": "formulate_grouping",
+    "question": "56 seedlings are planted with 8 in each row. Which sentence finds the number of full rows?",
+    "audio_prompt": "56 seedlings are planted with 8 in each row. Which sentence finds the number of full rows?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-020",
-      "alt_text": "During the fruit order: 30 crayons shared into 6 equal table groups."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "5",
+        "text": "56 − 8 = 48",
+        "is_correct": false
+      },
+      {
+        "text": "56 + 8 = 64",
+        "is_correct": false
+      },
+      {
+        "text": "56 ÷ 8 = 7",
         "is_correct": true
       },
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "24",
+        "text": "56 × 8 = 448",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "30 ÷ 6 = 5, so every table gets 5.",
-      "hint": "Share the crayons one at a time into 6 equal groups."
+      "summary": "The total is shared into groups of 8, so there are 7 rows.",
+      "hint": "Here the unknown is how many equal groups can be made."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-P-021",
@@ -733,35 +751,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "represent_additive_situation",
-    "question": "During the fruit order, lina has 9 cards and gets 6 more. Which number sentence models the story?",
-    "audio_prompt": "During the fruit order, lina has 9 cards and gets 6 more. Which number sentence models the story?",
+    "skill": "financial_change",
+    "question": "You pay $5.00 for a book costing $2.75. How much change should you receive?",
+    "audio_prompt": "You pay $5.00 for a book costing $2.75. How much change should you receive?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-021",
-      "alt_text": "During the fruit order: A group of 9 cards joined by 6 more cards."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "9 − 6 = 3",
+        "text": "$3.25",
         "is_correct": false
       },
       {
-        "text": "9 + 6 = 15",
+        "text": "$2.25",
         "is_correct": true
       },
       {
-        "text": "9 × 6 = 54",
+        "text": "$1.25",
+        "is_correct": false
+      },
+      {
+        "text": "$7.75",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
+      "summary": "Count up from $2.75 to $5.00, or subtract 500 − 275 = 225 cents. The change is $2.25.",
+      "hint": "The cost plus the change must equal the amount paid."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-P-022",
@@ -769,35 +788,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "check_reasonableness",
-    "question": "During the fruit order, a student says 6 bags of 5 marbles make 40 marbles. Does that answer make sense?",
-    "audio_prompt": "During the fruit order, a student says 6 bags of 5 marbles make 40 marbles. Does that answer make sense?",
+    "skill": "budget_two_items",
+    "question": "You have $10.00. A pen set costs $5.75 and a notebook costs $2.80. How much will be left after buying both?",
+    "audio_prompt": "You have $10.00. A pen set costs $5.75 and a notebook costs $2.80. How much will be left after buying both?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-022",
-      "alt_text": "During the fruit order: 6 bags with 5 marbles in each, compared with a claim of 40."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Yes, every multiplication answer is large",
-        "is_correct": false
-      },
-      {
-        "text": "No, the total should be 11",
-        "is_correct": false
-      },
-      {
-        "text": "No, the total should be 30",
+        "text": "$1.45",
         "is_correct": true
+      },
+      {
+        "text": "$4.25",
+        "is_correct": false
+      },
+      {
+        "text": "$7.20",
+        "is_correct": false
+      },
+      {
+        "text": "$8.55",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "6 equal groups of 5 make 30, not 40.",
-      "hint": "Build or draw the groups to check the answer."
+      "summary": "Both items cost $8.55. Subtract that from $10.00 to leave $1.45.",
+      "hint": "Combine all costs before finding the money left."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N06-P-023",
@@ -805,35 +825,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "communicate_model_solution",
-    "question": "During the fruit order, which final sentence clearly answers a money problem?",
-    "audio_prompt": "During the fruit order, which final sentence clearly answers a money problem?",
+    "skill": "price_per_item",
+    "question": "3 children each buy a ticket costing $6. Which calculation gives the group’s total cost?",
+    "audio_prompt": "3 children each buy a ticket costing $6. Which calculation gives the group’s total cost?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-023",
-      "alt_text": "During the fruit order: A receipt showing a total of $14."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The two items cost $14 altogether.",
+        "text": "3 + $6 = $9",
+        "is_correct": false
+      },
+      {
+        "text": "$18 − $6 = $12",
+        "is_correct": false
+      },
+      {
+        "text": "3 × $6 = $19",
+        "is_correct": false
+      },
+      {
+        "text": "3 × $6 = $18",
         "is_correct": true
-      },
-      {
-        "text": "The answer is 14.",
-        "is_correct": false
-      },
-      {
-        "text": "I used addition.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
+      "summary": "The same $6 cost is paid 3 times. The total is $18.",
+      "hint": "Repeated equal costs can be multiplied."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3N06-P-024",
@@ -841,151 +862,122 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "practice",
-    "skill": "select_mathematical_model",
-    "question": "During the fruit order, which is a helpful first step for 6 boxes with 5 pencils in each?",
-    "audio_prompt": "During the fruit order, which is a helpful first step for 6 boxes with 5 pencils in each?",
+    "skill": "compare_pack_costs",
+    "question": "A small pack holds 4 pencils and costs $5. A large pack holds 8 pencils and costs $9. What is the cheaper way to buy exactly 8 pencils?",
+    "audio_prompt": "A small pack holds 4 pencils and costs $5. A large pack holds 8 pencils and costs $9. What is the cheaper way to buy exactly 8 pencils?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-p-024",
-      "alt_text": "During the fruit order: 6 empty group boxes ready for 5 pencil counters in each."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Add every number you see",
+        "text": "Two small packs for $10.",
         "is_correct": false
       },
       {
-        "text": "Draw 6 equal groups of 5",
+        "text": "One small pack for $5.",
+        "is_correct": false
+      },
+      {
+        "text": "One large pack for $9.",
         "is_correct": true
       },
       {
-        "text": "Guess a large answer",
+        "text": "Two large packs for $18.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both two small packs and one large pack provide 8 pencils. The large pack costs $9, which is less than $10.",
+      "hint": "Compare prices for equal quantities."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-P-025",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "two_step_add_subtract",
+    "question": "65 people are at a picnic. 28 more arrive, then 37 leave. How many people remain?",
+    "audio_prompt": "65 people are at a picnic. 28 more arrive, then 37 leave. How many people remain?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "93",
+        "is_correct": false
+      },
+      {
+        "text": "56",
+        "is_correct": true
+      },
+      {
+        "text": "28",
+        "is_correct": false
+      },
+      {
+        "text": "130",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
+      "summary": "After arrivals: 65 + 28 = 93. After departures: 93 − 37 = 56 people.",
+      "hint": "Keep the order of events and track the running total."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
-    "id": "AC9M3N06-T-001",
+    "id": "AC9M3N06-P-026",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "model_money_addition",
-    "question": "At the crayon table, a notebook costs $11 and a pen costs $3. How much do they cost altogether?",
-    "audio_prompt": "At the crayon table, a notebook costs $11 and a pen costs $3. How much do they cost altogether?",
+    "bank": "practice",
+    "skill": "two_step_multiply_subtract",
+    "question": "A teacher opens 5 packs of 6 stickers, then gives out 13 stickers. How many stickers are left?",
+    "audio_prompt": "A teacher opens 5 packs of 6 stickers, then gives out 13 stickers. How many stickers are left?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-001",
-      "alt_text": "At the crayon table: A notebook labelled $11 and a pen labelled $3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$8",
-        "is_correct": false
-      },
-      {
-        "text": "$15",
-        "is_correct": false
-      },
-      {
-        "text": "$14",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Join the two costs: $11 + $3 = $14.",
-      "hint": "Altogether means add the amounts."
-    }
-  },
-  {
-    "id": "AC9M3N06-T-002",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "model_money_change",
-    "question": "At the crayon table, kai pays $35 for a toy that costs $14. How much change should Kai get?",
-    "audio_prompt": "At the crayon table, kai pays $35 for a toy that costs $14. How much change should Kai get?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-002",
-      "alt_text": "At the crayon table: A $35 payment and a toy price of $14."
-    },
-    "answers": [
-      {
-        "text": "$21",
+        "text": "17",
         "is_correct": true
       },
       {
-        "text": "$49",
+        "text": "30",
         "is_correct": false
       },
       {
-        "text": "$22",
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "43",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left: $35 − $14 = $21.",
-      "hint": "Start with the amount paid and subtract the cost."
-    }
-  },
-  {
-    "id": "AC9M3N06-T-003",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "choose_operation_for_equal_groups",
-    "question": "At the crayon table, there are 7 bags with 3 apples in each bag. Which operation finds all the apples?",
-    "audio_prompt": "At the crayon table, there are 7 bags with 3 apples in each bag. Which operation finds all the apples?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-003",
-      "alt_text": "At the crayon table: 7 bags with 3 apples in every bag."
+      "summary": "There are 5 × 6 = 30 stickers at first. Subtract 13 to leave 17.",
+      "hint": "Find the whole collection before removing stickers."
     },
-    "answers": [
-      {
-        "text": "Subtraction",
-        "is_correct": false
-      },
-      {
-        "text": "Multiplication",
-        "is_correct": true
-      },
-      {
-        "text": "Measuring length",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Equal groups are modelled with multiplication: 7 groups of 3.",
-      "hint": "Ask whether the story has equal groups."
-    }
+    "difficulty": 3
   },
   {
-    "id": "AC9M3N06-T-004",
+    "id": "AC9M3N06-P-027",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "model_equal_sharing",
-    "question": "At the crayon table, 21 crayons are shared equally between 7 tables. How many crayons does each table get?",
-    "audio_prompt": "At the crayon table, 21 crayons are shared equally between 7 tables. How many crayons does each table get?",
+    "bank": "practice",
+    "skill": "share_then_add",
+    "question": "35 beads are shared equally between 5 children. Each child then receives 4 more beads. How many beads does each child have?",
+    "audio_prompt": "35 beads are shared equally between 5 children. Each child then receives 4 more beads. How many beads does each child have?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-004",
-      "alt_text": "At the crayon table: 21 crayons shared into 7 equal table groups."
+      "type": "none"
     },
     "answers": [
       {
@@ -993,271 +985,593 @@
         "is_correct": false
       },
       {
-        "text": "14",
+        "text": "39",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "27",
+        "is_correct": false
+      },
+      {
+        "text": "11",
         "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Each child first receives 35 ÷ 5 = 7 beads, then 4 more: 11 beads each.",
+      "hint": "The extra beads go to each child after sharing."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-P-028",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "interpret_capacity",
+    "question": "26 children need seats. Each table seats 6 children. What is the smallest number of tables that seats everyone?",
+    "audio_prompt": "26 children need seats. Each table seats 6 children. What is the smallest number of tables that seats everyone?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "20",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "21 ÷ 7 = 3, so every table gets 3.",
-      "hint": "Share the crayons one at a time into 7 equal groups."
-    }
+      "summary": "4 tables seat only 24 children. One more table is needed for the remaining 2, so use 5 tables.",
+      "hint": "A partly filled final table still counts as one table."
+    },
+    "difficulty": 3
   },
   {
-    "id": "AC9M3N06-T-005",
+    "id": "AC9M3N06-P-029",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "represent_additive_situation",
-    "question": "At the crayon table, lina has 11 cards and gets 7 more. Which number sentence models the story?",
-    "audio_prompt": "At the crayon table, lina has 11 cards and gets 7 more. Which number sentence models the story?",
+    "bank": "practice",
+    "skill": "identify_missing_information",
+    "question": "An excursion ticket costs $8 per child. What extra information is needed to calculate the total ticket cost?",
+    "audio_prompt": "An excursion ticket costs $8 per child. What extra information is needed to calculate the total ticket cost?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-005",
-      "alt_text": "At the crayon table: A group of 11 cards joined by 7 more cards."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "11 + 7 = 18",
+        "text": "The colour of the bus.",
+        "is_correct": false
+      },
+      {
+        "text": "The number of children buying tickets.",
         "is_correct": true
       },
       {
-        "text": "11 − 7 = 4",
+        "text": "The day of the excursion.",
         "is_correct": false
       },
       {
-        "text": "11 × 7 = 77",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
-    }
-  },
-  {
-    "id": "AC9M3N06-T-006",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "check_reasonableness",
-    "question": "At the crayon table, a student says 7 bags of 3 marbles make 31 marbles. Does that answer make sense?",
-    "audio_prompt": "At the crayon table, a student says 7 bags of 3 marbles make 31 marbles. Does that answer make sense?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-006",
-      "alt_text": "At the crayon table: 7 bags with 3 marbles in each, compared with a claim of 31."
-    },
-    "answers": [
-      {
-        "text": "Yes, every multiplication answer is large",
-        "is_correct": false
-      },
-      {
-        "text": "No, the total should be 21",
-        "is_correct": true
-      },
-      {
-        "text": "No, the total should be 10",
+        "text": "The number of seats in the classroom.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "7 equal groups of 3 make 21, not 31.",
-      "hint": "Build or draw the groups to check the answer."
-    }
+      "summary": "Total ticket cost = $8 × the number of children. The number of equal payments is missing.",
+      "hint": "Identify the unknown factor."
+    },
+    "difficulty": 2
   },
   {
-    "id": "AC9M3N06-T-007",
+    "id": "AC9M3N06-P-030",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "communicate_model_solution",
-    "question": "At the crayon table, which final sentence clearly answers a money problem?",
-    "audio_prompt": "At the crayon table, which final sentence clearly answers a money problem?",
+    "bank": "practice",
+    "skill": "interpret_quotient",
+    "question": "42 oranges are packed with 6 in each crate. A student calculates 42 ÷ 6 = 7. What does 7 mean?",
+    "audio_prompt": "42 oranges are packed with 6 in each crate. A student calculates 42 ÷ 6 = 7. What does 7 mean?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-007",
-      "alt_text": "At the crayon table: A receipt showing a total of $14."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The answer is 14.",
-        "is_correct": false
-      },
-      {
-        "text": "I used addition.",
-        "is_correct": false
-      },
-      {
-        "text": "The two items cost $14 altogether.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
-    }
-  },
-  {
-    "id": "AC9M3N06-T-008",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "select_mathematical_model",
-    "question": "At the crayon table, which is a helpful first step for 7 boxes with 3 pencils in each?",
-    "audio_prompt": "At the crayon table, which is a helpful first step for 7 boxes with 3 pencils in each?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-008",
-      "alt_text": "At the crayon table: 7 empty group boxes ready for 3 pencil counters in each."
-    },
-    "answers": [
-      {
-        "text": "Draw 7 equal groups of 3",
+        "text": "There are 7 full crates.",
         "is_correct": true
       },
       {
-        "text": "Add every number you see",
+        "text": "Each crate contains 7 oranges.",
         "is_correct": false
       },
       {
-        "text": "Guess a large answer",
+        "text": "7 oranges are left unpacked.",
+        "is_correct": false
+      },
+      {
+        "text": "There were only 7 oranges at first.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
-    }
+      "summary": "The size of each group is already known. Division finds how many groups of 6 can be made.",
+      "hint": "Identify what the quotient counts."
+    },
+    "difficulty": 2
   },
   {
-    "id": "AC9M3N06-T-009",
+    "id": "AC9M3N06-P-031",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "model_money_addition",
-    "question": "In the school-fair challenge, a notebook costs $13 and a pen costs $4. How much do they cost altogether?",
-    "audio_prompt": "In the school-fair challenge, a notebook costs $13 and a pen costs $4. How much do they cost altogether?",
+    "bank": "practice",
+    "skill": "choose_money_strategy",
+    "question": "A snack costs $9.65 and you pay $10.00. Which is a useful counting-up calculation for the change?",
+    "audio_prompt": "A snack costs $9.65 and you pay $10.00. Which is a useful counting-up calculation for the change?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-009",
-      "alt_text": "In the school-fair challenge: A notebook labelled $13 and a pen labelled $4."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$9",
+        "text": "$9.65 + $10.00 = $19.65",
         "is_correct": false
       },
       {
-        "text": "$17",
+        "text": "$9.65 − $0.35 = $9.30",
+        "is_correct": false
+      },
+      {
+        "text": "$10.00 + $0.35 = $10.35",
+        "is_correct": false
+      },
+      {
+        "text": "$9.65 + $0.35 = $10.00",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Count the gap from the cost to the amount paid. That gap is $0.35, the change.",
+      "hint": "Start at the price and stop at the payment."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-P-032",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "choose_matching_story",
+    "question": "Which story is modelled by 4 × 7 = 28?",
+    "audio_prompt": "Which story is modelled by 4 × 7 = 28?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "4 muffins are added to 7 muffins. Find the total.",
+        "is_correct": false
+      },
+      {
+        "text": "7 muffins are shared between 4 people. Find each share.",
+        "is_correct": false
+      },
+      {
+        "text": "4 trays each hold 7 muffins. Find the total muffins.",
         "is_correct": true
       },
       {
-        "text": "$18",
+        "text": "7 muffins are available and 4 are eaten. Find what remains.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiplication describes 4 equal groups of 7, giving 28 muffins.",
+      "hint": "Look for equal groups rather than two separate amounts."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-P-033",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "formulate_addition",
+    "question": "A school collects 318 cans on Monday and 175 on Tuesday. Which number sentence finds the total collected?",
+    "audio_prompt": "A school collects 318 cans on Monday and 175 on Tuesday. Which number sentence finds the total collected?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "318 − 175 = 143",
+        "is_correct": false
+      },
+      {
+        "text": "318 + 175 = 493",
+        "is_correct": true
+      },
+      {
+        "text": "318 × 175 = 55650",
+        "is_correct": false
+      },
+      {
+        "text": "493 − 175 = 318",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Join the two costs: $13 + $4 = $17.",
-      "hint": "Altogether means add the amounts."
-    }
+      "summary": "The two daily amounts are parts of one total. Add them to find 493 cans.",
+      "hint": "Identify the two parts and the unknown whole."
+    },
+    "difficulty": 1
   },
   {
-    "id": "AC9M3N06-T-010",
+    "id": "AC9M3N06-P-034",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "model_money_change",
-    "question": "In the school-fair challenge, kai pays $40 for a toy that costs $16. How much change should Kai get?",
-    "audio_prompt": "In the school-fair challenge, kai pays $40 for a toy that costs $16. How much change should Kai get?",
+    "bank": "practice",
+    "skill": "formulate_subtraction",
+    "question": "A club has 504 tickets. It sells 276. Which calculation finds the tickets still available?",
+    "audio_prompt": "A club has 504 tickets. It sells 276. Which calculation finds the tickets still available?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-010",
-      "alt_text": "In the school-fair challenge: A $40 payment and a toy price of $16."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$56",
-        "is_correct": false
-      },
-      {
-        "text": "$25",
-        "is_correct": false
-      },
-      {
-        "text": "$24",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Change is the amount left: $40 − $16 = $24.",
-      "hint": "Start with the amount paid and subtract the cost."
-    }
-  },
-  {
-    "id": "AC9M3N06-T-011",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "choose_operation_for_equal_groups",
-    "question": "In the school-fair challenge, there are 8 bags with 4 apples in each bag. Which operation finds all the apples?",
-    "audio_prompt": "In the school-fair challenge, there are 8 bags with 4 apples in each bag. Which operation finds all the apples?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-011",
-      "alt_text": "In the school-fair challenge: 8 bags with 4 apples in every bag."
-    },
-    "answers": [
-      {
-        "text": "Multiplication",
+        "text": "504 − 276",
         "is_correct": true
       },
       {
-        "text": "Subtraction",
+        "text": "504 + 276",
         "is_correct": false
       },
       {
-        "text": "Measuring length",
+        "text": "504 × 276",
+        "is_correct": false
+      },
+      {
+        "text": "276 − 504",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equal groups are modelled with multiplication: 8 groups of 4.",
-      "hint": "Ask whether the story has equal groups."
-    }
+      "summary": "Take the sold tickets from the starting total: 504 − 276 = 228 tickets remain.",
+      "hint": "The unsold tickets are the missing part."
+    },
+    "difficulty": 1
   },
   {
-    "id": "AC9M3N06-T-012",
+    "id": "AC9M3N06-P-035",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
-    "bank": "test",
-    "skill": "model_equal_sharing",
-    "question": "In the school-fair challenge, 32 crayons are shared equally between 8 tables. How many crayons does each table get?",
-    "audio_prompt": "In the school-fair challenge, 32 crayons are shared equally between 8 tables. How many crayons does each table get?",
+    "bank": "practice",
+    "skill": "model_equal_groups",
+    "question": "There are 5 equal packs of 14 cards. How many cards are there altogether?",
+    "audio_prompt": "There are 5 equal packs of 14 cards. How many cards are there altogether?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-012",
-      "alt_text": "In the school-fair challenge: 32 crayons shared into 8 equal table groups."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06-reviewed.svg#ac9m3n06-p-035",
+      "alt_text": "5 equal packs, each labelled 14, with unknown total."
+    },
+    "answers": [
+      {
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "56",
+        "is_correct": false
+      },
+      {
+        "text": "84",
+        "is_correct": false
+      },
+      {
+        "text": "70",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "5 groups of 14 means 5 × 14 = 70 cards.",
+      "hint": "Multiply the number of groups by the group size."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N06-P-036",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "formulate_grouping",
+    "question": "63 seedlings are planted with 9 in each row. Which sentence finds the number of full rows?",
+    "audio_prompt": "63 seedlings are planted with 9 in each row. Which sentence finds the number of full rows?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "63 − 9 = 54",
+        "is_correct": false
+      },
+      {
+        "text": "63 + 9 = 72",
+        "is_correct": false
+      },
+      {
+        "text": "63 ÷ 9 = 7",
+        "is_correct": true
+      },
+      {
+        "text": "63 × 9 = 567",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The total is shared into groups of 9, so there are 7 rows.",
+      "hint": "Here the unknown is how many equal groups can be made."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-P-037",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "financial_change",
+    "question": "You pay $10.00 for a book costing $6.85. How much change should you receive?",
+    "audio_prompt": "You pay $10.00 for a book costing $6.85. How much change should you receive?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "$4.15",
+        "is_correct": false
+      },
+      {
+        "text": "$3.15",
+        "is_correct": true
+      },
+      {
+        "text": "$2.15",
+        "is_correct": false
+      },
+      {
+        "text": "$16.85",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Count up from $6.85 to $10.00, or subtract 1000 − 685 = 315 cents. The change is $3.15.",
+      "hint": "The cost plus the change must equal the amount paid."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-P-038",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "budget_two_items",
+    "question": "You have $10.00. A pen set costs $3.65 and a notebook costs $4.90. How much will be left after buying both?",
+    "audio_prompt": "You have $10.00. A pen set costs $3.65 and a notebook costs $4.90. How much will be left after buying both?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "$1.45",
+        "is_correct": true
+      },
+      {
+        "text": "$6.35",
+        "is_correct": false
+      },
+      {
+        "text": "$5.10",
+        "is_correct": false
+      },
+      {
+        "text": "$8.55",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both items cost $8.55. Subtract that from $10.00 to leave $1.45.",
+      "hint": "Combine all costs before finding the money left."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-P-039",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "price_per_item",
+    "question": "5 children each buy a ticket costing $4. Which calculation gives the group’s total cost?",
+    "audio_prompt": "5 children each buy a ticket costing $4. Which calculation gives the group’s total cost?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "5 + $4 = $9",
+        "is_correct": false
+      },
+      {
+        "text": "$20 − $4 = $16",
+        "is_correct": false
+      },
+      {
+        "text": "5 × $4 = $21",
+        "is_correct": false
+      },
+      {
+        "text": "5 × $4 = $20",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The same $4 cost is paid 5 times. The total is $20.",
+      "hint": "Repeated equal costs can be multiplied."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N06-P-040",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "compare_pack_costs",
+    "question": "A small pack holds 5 pencils and costs $6. A large pack holds 10 pencils and costs $15. What is the cheaper way to buy exactly 10 pencils?",
+    "audio_prompt": "A small pack holds 5 pencils and costs $6. A large pack holds 10 pencils and costs $15. What is the cheaper way to buy exactly 10 pencils?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "One large pack for $15.",
+        "is_correct": false
+      },
+      {
+        "text": "One small pack for $6.",
+        "is_correct": false
+      },
+      {
+        "text": "Two small packs for $12.",
+        "is_correct": true
+      },
+      {
+        "text": "Two large packs for $30.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Two small packs give exactly 10 pencils for $12, which is less than $15. One small pack does not provide enough.",
+      "hint": "Compare costs for the same number of pencils."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-P-041",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "two_step_add_subtract",
+    "question": "128 people are at a picnic. 46 more arrive, then 59 leave. How many people remain?",
+    "audio_prompt": "128 people are at a picnic. 46 more arrive, then 59 leave. How many people remain?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "174",
+        "is_correct": false
+      },
+      {
+        "text": "115",
+        "is_correct": true
+      },
+      {
+        "text": "69",
+        "is_correct": false
+      },
+      {
+        "text": "233",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "After arrivals: 128 + 46 = 174. After departures: 174 − 59 = 115 people.",
+      "hint": "Keep the order of events and track the running total."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-P-042",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "two_step_multiply_subtract",
+    "question": "A teacher opens 6 packs of 7 stickers, then gives out 18 stickers. How many stickers are left?",
+    "audio_prompt": "A teacher opens 6 packs of 7 stickers, then gives out 18 stickers. How many stickers are left?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "24",
+        "is_correct": true
+      },
+      {
+        "text": "42",
+        "is_correct": false
+      },
+      {
+        "text": "31",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There are 6 × 7 = 42 stickers at first. Subtract 18 to leave 24.",
+      "hint": "Find the whole collection before removing stickers."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-P-043",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "share_then_add",
+    "question": "48 beads are shared equally between 6 children. Each child then receives 2 more beads. How many beads does each child have?",
+    "audio_prompt": "48 beads are shared equally between 6 children. Each child then receives 2 more beads. How many beads does each child have?",
+    "visual": {
+      "type": "none"
     },
     "answers": [
       {
@@ -1265,19 +1579,657 @@
         "is_correct": false
       },
       {
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Each child first receives 48 ÷ 6 = 8 beads, then 2 more: 10 beads each.",
+      "hint": "The extra beads go to each child after sharing."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-P-044",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "interpret_capacity",
+    "question": "33 children need seats. Each table seats 8 children. What is the smallest number of tables that seats everyone?",
+    "audio_prompt": "33 children need seats. Each table seats 8 children. What is the smallest number of tables that seats everyone?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
         "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "24",
+        "text": "25",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "4 tables seat only 32 children. One more table is needed for the remaining 1, so use 5 tables.",
+      "hint": "A partly filled final table still counts as one table."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-P-045",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "identify_missing_information",
+    "question": "A canteen made 75 sandwiches. What extra information is needed to calculate how many remain after lunch?",
+    "audio_prompt": "A canteen made 75 sandwiches. What extra information is needed to calculate how many remain after lunch?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "How many different fillings were offered.",
+        "is_correct": false
+      },
+      {
+        "text": "How many sandwiches were sold.",
+        "is_correct": true
+      },
+      {
+        "text": "What time the canteen opened.",
+        "is_correct": false
+      },
+      {
+        "text": "How many sandwich bags were ordered.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "32 ÷ 8 = 4, so every table gets 4.",
-      "hint": "Share the crayons one at a time into 8 equal groups."
-    }
+      "summary": "Subtract the number sold from 75 to find the number left.",
+      "hint": "Find the missing part of the subtraction model."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-P-046",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "interpret_quotient",
+    "question": "56 oranges are shared equally between 7 teams. A student calculates 56 ÷ 7 = 8. What does 8 mean?",
+    "audio_prompt": "56 oranges are shared equally between 7 teams. A student calculates 56 ÷ 7 = 8. What does 8 mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06-reviewed.svg#ac9m3n06-p-046",
+      "alt_text": "A total of 56 split into 7 equal team shares."
+    },
+    "answers": [
+      {
+        "text": "Each team receives 8 oranges.",
+        "is_correct": true
+      },
+      {
+        "text": "There are 8 teams.",
+        "is_correct": false
+      },
+      {
+        "text": "8 oranges remain unshared.",
+        "is_correct": false
+      },
+      {
+        "text": "There were only 8 oranges at first.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The number of teams was already known. Division finds the amount in each team’s equal share.",
+      "hint": "Attach the correct unit and meaning to the result."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-P-047",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "choose_money_strategy",
+    "question": "A snack costs $4.55 and you pay $5.00. Which is a useful counting-up calculation for the change?",
+    "audio_prompt": "A snack costs $4.55 and you pay $5.00. Which is a useful counting-up calculation for the change?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "$4.55 + $5.00 = $9.55",
+        "is_correct": false
+      },
+      {
+        "text": "$4.55 − $0.45 = $4.10",
+        "is_correct": false
+      },
+      {
+        "text": "$5.00 + $0.45 = $5.45",
+        "is_correct": false
+      },
+      {
+        "text": "$4.55 + $0.45 = $5.00",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Count the gap from the cost to the amount paid. That gap is $0.45, the change.",
+      "hint": "Start at the price and stop at the payment."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-P-048",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "practice",
+    "skill": "choose_matching_story",
+    "question": "Which story is modelled by 5 × 6 = 30?",
+    "audio_prompt": "Which story is modelled by 5 × 6 = 30?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "5 muffins are added to 6 muffins. Find the total.",
+        "is_correct": false
+      },
+      {
+        "text": "6 muffins are shared between 5 people. Find each share.",
+        "is_correct": false
+      },
+      {
+        "text": "5 trays each hold 6 muffins. Find the total muffins.",
+        "is_correct": true
+      },
+      {
+        "text": "6 muffins are available and 5 are eaten. Find what remains.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiplication describes 5 equal groups of 6, giving 30 muffins.",
+      "hint": "Look for equal groups rather than two separate amounts."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-T-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "formulate_addition",
+    "question": "A school collects 427 cans on Monday and 286 on Tuesday. Which number sentence finds the total collected?",
+    "audio_prompt": "A school collects 427 cans on Monday and 286 on Tuesday. Which number sentence finds the total collected?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "427 − 286 = 141",
+        "is_correct": false
+      },
+      {
+        "text": "427 + 286 = 713",
+        "is_correct": true
+      },
+      {
+        "text": "427 × 286 = 122122",
+        "is_correct": false
+      },
+      {
+        "text": "713 − 286 = 427",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The two daily amounts are parts of one total. Add them to find 713 cans.",
+      "hint": "Identify the two parts and the unknown whole."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N06-T-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "formulate_subtraction",
+    "question": "A club has 621 tickets. It sells 357. Which calculation finds the tickets still available?",
+    "audio_prompt": "A club has 621 tickets. It sells 357. Which calculation finds the tickets still available?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "621 − 357",
+        "is_correct": true
+      },
+      {
+        "text": "621 + 357",
+        "is_correct": false
+      },
+      {
+        "text": "621 × 357",
+        "is_correct": false
+      },
+      {
+        "text": "357 − 621",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Take the sold tickets from the starting total: 621 − 357 = 264 tickets remain.",
+      "hint": "The unsold tickets are the missing part."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N06-T-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "model_equal_groups",
+    "question": "There are 6 equal packs of 13 cards. How many cards are there altogether?",
+    "audio_prompt": "There are 6 equal packs of 13 cards. How many cards are there altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06-reviewed.svg#ac9m3n06-t-003",
+      "alt_text": "6 equal packs, each labelled 13, with unknown total."
+    },
+    "answers": [
+      {
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "65",
+        "is_correct": false
+      },
+      {
+        "text": "91",
+        "is_correct": false
+      },
+      {
+        "text": "78",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "6 groups of 13 means 6 × 13 = 78 cards.",
+      "hint": "Multiply the number of groups by the group size."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N06-T-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "formulate_grouping",
+    "question": "72 seedlings are planted with 8 in each row. Which sentence finds the number of full rows?",
+    "audio_prompt": "72 seedlings are planted with 8 in each row. Which sentence finds the number of full rows?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "72 − 8 = 64",
+        "is_correct": false
+      },
+      {
+        "text": "72 + 8 = 80",
+        "is_correct": false
+      },
+      {
+        "text": "72 ÷ 8 = 9",
+        "is_correct": true
+      },
+      {
+        "text": "72 × 8 = 576",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The total is shared into groups of 8, so there are 9 rows.",
+      "hint": "Here the unknown is how many equal groups can be made."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-T-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "financial_change",
+    "question": "You pay $10.00 for a book costing $7.45. How much change should you receive?",
+    "audio_prompt": "You pay $10.00 for a book costing $7.45. How much change should you receive?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "$3.55",
+        "is_correct": false
+      },
+      {
+        "text": "$2.55",
+        "is_correct": true
+      },
+      {
+        "text": "$1.55",
+        "is_correct": false
+      },
+      {
+        "text": "$17.45",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Count up from $7.45 to $10.00, or subtract 1000 − 745 = 255 cents. The change is $2.55.",
+      "hint": "The cost plus the change must equal the amount paid."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-T-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "budget_two_items",
+    "question": "You have $10.00. A pen set costs $6.45 and a notebook costs $2.75. How much will be left after buying both?",
+    "audio_prompt": "You have $10.00. A pen set costs $6.45 and a notebook costs $2.75. How much will be left after buying both?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "$0.80",
+        "is_correct": true
+      },
+      {
+        "text": "$3.55",
+        "is_correct": false
+      },
+      {
+        "text": "$7.25",
+        "is_correct": false
+      },
+      {
+        "text": "$9.20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both items cost $9.20. Subtract that from $10.00 to leave $0.80.",
+      "hint": "Combine all costs before finding the money left."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-T-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "price_per_item",
+    "question": "6 children each buy a ticket costing $5. Which calculation gives the group’s total cost?",
+    "audio_prompt": "6 children each buy a ticket costing $5. Which calculation gives the group’s total cost?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "6 + $5 = $11",
+        "is_correct": false
+      },
+      {
+        "text": "$30 − $5 = $25",
+        "is_correct": false
+      },
+      {
+        "text": "6 × $5 = $31",
+        "is_correct": false
+      },
+      {
+        "text": "6 × $5 = $30",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The same $5 cost is paid 6 times. The total is $30.",
+      "hint": "Repeated equal costs can be multiplied."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N06-T-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "compare_pack_costs",
+    "question": "A small pack holds 6 pencils and costs $7. A large pack holds 12 pencils and costs $13. What is the cheaper way to buy exactly 12 pencils?",
+    "audio_prompt": "A small pack holds 6 pencils and costs $7. A large pack holds 12 pencils and costs $13. What is the cheaper way to buy exactly 12 pencils?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Two small packs for $14.",
+        "is_correct": false
+      },
+      {
+        "text": "One small pack for $7.",
+        "is_correct": false
+      },
+      {
+        "text": "One large pack for $13.",
+        "is_correct": true
+      },
+      {
+        "text": "Two large packs for $26.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both two small packs and one large pack provide 12 pencils. The large pack costs $13, which is less than $14.",
+      "hint": "Compare prices for equal quantities."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-T-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "two_step_add_subtract",
+    "question": "175 people are at a picnic. 86 more arrive, then 94 leave. How many people remain?",
+    "audio_prompt": "175 people are at a picnic. 86 more arrive, then 94 leave. How many people remain?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "261",
+        "is_correct": false
+      },
+      {
+        "text": "167",
+        "is_correct": true
+      },
+      {
+        "text": "81",
+        "is_correct": false
+      },
+      {
+        "text": "355",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "After arrivals: 175 + 86 = 261. After departures: 261 − 94 = 167 people.",
+      "hint": "Keep the order of events and track the running total."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N06-T-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "two_step_multiply_subtract",
+    "question": "A teacher opens 7 packs of 8 stickers, then gives out 25 stickers. How many stickers are left?",
+    "audio_prompt": "A teacher opens 7 packs of 8 stickers, then gives out 25 stickers. How many stickers are left?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "31",
+        "is_correct": true
+      },
+      {
+        "text": "56",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "81",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There are 7 × 8 = 56 stickers at first. Subtract 25 to leave 31.",
+      "hint": "Find the whole collection before removing stickers."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-T-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "share_then_add",
+    "question": "63 beads are shared equally between 7 children. Each child then receives 5 more beads. How many beads does each child have?",
+    "audio_prompt": "63 beads are shared equally between 7 children. Each child then receives 5 more beads. How many beads does each child have?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "68",
+        "is_correct": false
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Each child first receives 63 ÷ 7 = 9 beads, then 5 more: 14 beads each.",
+      "hint": "The extra beads go to each child after sharing."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N06-T-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N06",
+    "bank": "test",
+    "skill": "interpret_capacity",
+    "question": "38 children need seats. Each table seats 5 children. What is the smallest number of tables that seats everyone?",
+    "audio_prompt": "38 children need seats. Each table seats 5 children. What is the smallest number of tables that seats everyone?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "33",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "7 tables seat only 35 children. One more table is needed for the remaining 3, so use 8 tables.",
+      "hint": "A partly filled final table still counts as one table."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N06-T-013",
@@ -1285,33 +2237,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "test",
-    "skill": "represent_additive_situation",
-    "question": "In the school-fair challenge, lina has 13 cards and gets 8 more. Which number sentence models the story?",
-    "audio_prompt": "In the school-fair challenge, lina has 13 cards and gets 8 more. Which number sentence models the story?",
+    "skill": "identify_missing_information",
+    "question": "A gardener has 48 seedlings and wants to plant equal rows. What extra information is needed to calculate how many seedlings go in each row?",
+    "audio_prompt": "A gardener has 48 seedlings and wants to plant equal rows. What extra information is needed to calculate how many seedlings go in each row?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-013",
-      "alt_text": "In the school-fair challenge: A group of 13 cards joined by 8 more cards."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "13 − 8 = 5",
+        "text": "The colour of the seedlings.",
         "is_correct": false
       },
       {
-        "text": "13 × 8 = 104",
-        "is_correct": false
-      },
-      {
-        "text": "13 + 8 = 21",
+        "text": "The number of rows.",
         "is_correct": true
+      },
+      {
+        "text": "The day they were purchased.",
+        "is_correct": false
+      },
+      {
+        "text": "The length of the garden fence.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The cards join, so addition models the story.",
-      "hint": "Look for the action: “gets more” means the amount increases."
-    }
+      "summary": "Divide 48 by the number of equal rows to find the number in each row.",
+      "hint": "Distinguish the number of groups from the size of each group."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-T-014",
@@ -1319,33 +2274,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "test",
-    "skill": "check_reasonableness",
-    "question": "In the school-fair challenge, a student says 8 bags of 4 marbles make 42 marbles. Does that answer make sense?",
-    "audio_prompt": "In the school-fair challenge, a student says 8 bags of 4 marbles make 42 marbles. Does that answer make sense?",
+    "skill": "interpret_quotient",
+    "question": "72 oranges are shared equally between 9 teams. A student calculates 72 ÷ 9 = 8. What does 8 mean?",
+    "audio_prompt": "72 oranges are shared equally between 9 teams. A student calculates 72 ÷ 9 = 8. What does 8 mean?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-014",
-      "alt_text": "In the school-fair challenge: 8 bags with 4 marbles in each, compared with a claim of 42."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06-reviewed.svg#ac9m3n06-t-014",
+      "alt_text": "A total of 72 split into 9 equal team shares."
     },
     "answers": [
       {
-        "text": "No, the total should be 32",
+        "text": "Each team receives 8 oranges.",
         "is_correct": true
       },
       {
-        "text": "Yes, every multiplication answer is large",
+        "text": "There are 8 teams.",
         "is_correct": false
       },
       {
-        "text": "No, the total should be 12",
+        "text": "8 oranges remain unshared.",
+        "is_correct": false
+      },
+      {
+        "text": "There were only 8 oranges at first.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "8 equal groups of 4 make 32, not 42.",
-      "hint": "Build or draw the groups to check the answer."
-    }
+      "summary": "The number of teams was already known. Division finds the amount in each team’s equal share.",
+      "hint": "Attach the correct unit and meaning to the result."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-T-015",
@@ -1353,33 +2313,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "test",
-    "skill": "communicate_model_solution",
-    "question": "In the school-fair challenge, which final sentence clearly answers a money problem?",
-    "audio_prompt": "In the school-fair challenge, which final sentence clearly answers a money problem?",
+    "skill": "choose_money_strategy",
+    "question": "A snack costs $9.25 and you pay $10.00. Which is a useful counting-up calculation for the change?",
+    "audio_prompt": "A snack costs $9.25 and you pay $10.00. Which is a useful counting-up calculation for the change?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-015",
-      "alt_text": "In the school-fair challenge: A receipt showing a total of $17."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The answer is 17.",
+        "text": "$9.25 + $10.00 = $19.25",
         "is_correct": false
       },
       {
-        "text": "The two items cost $17 altogether.",
+        "text": "$9.25 − $0.75 = $8.50",
+        "is_correct": false
+      },
+      {
+        "text": "$10.00 + $0.75 = $10.75",
+        "is_correct": false
+      },
+      {
+        "text": "$9.25 + $0.75 = $10.00",
         "is_correct": true
-      },
-      {
-        "text": "I used addition.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A complete answer includes the number, dollars and what it means in the story.",
-      "hint": "Name the amount and the situation in your final sentence."
-    }
+      "summary": "Count the gap from the cost to the amount paid. That gap is $0.75, the change.",
+      "hint": "Start at the price and stop at the payment."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N06-T-016",
@@ -1387,32 +2350,35 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N06",
     "bank": "test",
-    "skill": "select_mathematical_model",
-    "question": "In the school-fair challenge, which is a helpful first step for 8 boxes with 4 pencils in each?",
-    "audio_prompt": "In the school-fair challenge, which is a helpful first step for 8 boxes with 4 pencils in each?",
+    "skill": "choose_matching_story",
+    "question": "Which story is modelled by 6 × 9 = 54?",
+    "audio_prompt": "Which story is modelled by 6 × 9 = 54?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n06.svg#ac9m3n06-t-016",
-      "alt_text": "In the school-fair challenge: 8 empty group boxes ready for 4 pencil counters in each."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Add every number you see",
+        "text": "6 muffins are added to 9 muffins. Find the total.",
         "is_correct": false
       },
       {
-        "text": "Guess a large answer",
+        "text": "9 muffins are shared between 6 people. Find each share.",
         "is_correct": false
       },
       {
-        "text": "Draw 8 equal groups of 4",
+        "text": "6 trays each hold 9 muffins. Find the total muffins.",
         "is_correct": true
+      },
+      {
+        "text": "9 muffins are available and 6 are eaten. Find what remains.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A drawing of the equal groups shows the situation before calculating.",
-      "hint": "Represent the story, then choose the operation."
-    }
+      "summary": "Multiplication describes 6 equal groups of 9, giving 54 muffins.",
+      "hint": "Look for equal groups rather than two separate amounts."
+    },
+    "difficulty": 2
   }
 ]

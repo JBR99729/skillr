@@ -5,36 +5,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "In the robot lab, start at 5, add 3, then double. What is the output?",
-    "audio_prompt": "In the robot lab, start at 5, add 3, then double. What is the output?",
+    "skill": "repeat_addition",
+    "question": "Start at 2. Add 3, write the result, and repeat until you have written 3 results. What is the third result?",
+    "audio_prompt": "Start at 2. Add 3, write the result, and repeat until you have written 3 results. What is the third result?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-001",
-      "alt_text": "In the robot lab: An algorithm starting at 5, adding 3, then doubling."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "16",
-        "is_correct": true
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
       },
       {
         "text": "11",
-        "is_correct": false
+        "is_correct": true
       },
       {
-        "text": "19",
+        "text": "6",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Following the steps gives 5+3=8, then double to 16.",
-      "hint": "Complete one instruction before the next."
+      "summary": "The written results are 5, 8, 11. The starting number is not one of the written results.",
+      "hint": "Count the actions, not the starting value."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N07-P-002",
@@ -42,36 +42,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "In the robot lab, which instruction is precise enough for an algorithm?",
-    "audio_prompt": "In the robot lab, which instruction is precise enough for an algorithm?",
+    "skill": "repeat_halving",
+    "question": "Start at 48. Halve the current number three times. What number do you finish with?",
+    "audio_prompt": "Start at 48. Halve the current number three times. What number do you finish with?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-002",
-      "alt_text": "In the robot lab: A clear add-3 algorithm step."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Make it nicer",
+        "text": "24",
         "is_correct": false
       },
       {
-        "text": "Add 3",
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "Do something with it",
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "42",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A precise instruction tells exactly what operation to perform.",
-      "hint": "Another person should be able to follow it without guessing."
+      "summary": "48 → 24 → 12 → 6. Each step halves the previous result.",
+      "hint": "Use the new result as the next input."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-003",
@@ -79,36 +79,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "In the robot lab, what is missing from: start at 5; ___; output 8?",
-    "audio_prompt": "In the robot lab, what is missing from: start at 5; ___; output 8?",
+    "skill": "ordered_steps",
+    "question": "Start at 4. First add 3. Then double the result. What is the output?",
+    "audio_prompt": "Start at 4. First add 3. Then double the result. What is the output?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-003",
-      "alt_text": "In the robot lab: An algorithm with one missing operation between input and output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Subtract 3",
-        "is_correct": false
-      },
-      {
-        "text": "Multiply by 3",
-        "is_correct": false
-      },
-      {
-        "text": "Add 3",
+        "text": "14",
         "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Adding 3 changes 5 to 8.",
-      "hint": "Compare input and output."
+      "summary": "First 4 + 3 = 7. Then double 7 to get 14.",
+      "hint": "Follow the stated order; adding after doubling is a different rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-004",
@@ -116,36 +116,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "In the robot lab, why can changing the order of “add 3” and “double” change the output?",
-    "audio_prompt": "In the robot lab, why can changing the order of “add 3” and “double” change the output?",
+    "skill": "even_decision",
+    "question": "Use this rule once for 12: if the number is even, halve it; otherwise, add 1. What is the output?",
+    "audio_prompt": "Use this rule once for 12: if the number is even, halve it; otherwise, add 1. What is the output?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-004",
-      "alt_text": "In the robot lab: Two operation orders shown for comparison."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-p-004",
+      "alt_text": "Decision: even numbers are halved; other numbers have 1 added."
     },
     "answers": [
       {
-        "text": "The operations act on different intermediate values",
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "6",
         "is_correct": true
-      },
-      {
-        "text": "Numbers forget their value",
-        "is_correct": false
-      },
-      {
-        "text": "Order never changes an answer",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Adding then doubling is not generally the same as doubling then adding.",
-      "hint": "Try both orders with the starting value."
+      "summary": "12 is even, so halve it to get 6. Do not use both branches.",
+      "hint": "Decide which branch applies before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-005",
@@ -153,36 +155,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "In the robot lab, which sequence correctly checks 8 − 3 = 5?",
-    "audio_prompt": "In the robot lab, which sequence correctly checks 8 − 3 = 5?",
+    "skill": "multiple_decision",
+    "question": "An algorithm adds 10 to a multiple of 5, and adds 2 to any other whole number. Start with 25. What is the output?",
+    "audio_prompt": "An algorithm adds 10 to a multiple of 5, and adds 2 to any other whole number. Start with 25. What is the output?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-005",
-      "alt_text": "In the robot lab: A subtraction-check algorithm with input, step and output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Start at 5, subtract 8",
+        "text": "27",
         "is_correct": false
       },
       {
-        "text": "Start at 8, subtract 3, compare with 5",
+        "text": "125",
+        "is_correct": false
+      },
+      {
+        "text": "35",
         "is_correct": true
       },
       {
-        "text": "Guess, then stop",
+        "text": "23",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The check follows the subtraction and compares the output with the expected value.",
-      "hint": "Use a clear input, operation and output."
+      "summary": "25 is a multiple of 5, so add 10 to get 35.",
+      "hint": "Multiples of 5 end in 0 or 5."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-006",
@@ -190,36 +192,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "In the robot lab, an algorithm says 5 + 3 = 9. What should be debugged?",
-    "audio_prompt": "In the robot lab, an algorithm says 5 + 3 = 9. What should be debugged?",
+    "skill": "boundary_decision",
+    "question": "If a number is LESS THAN 20, add 4. Otherwise subtract 3. What happens when the input is exactly 20?",
+    "audio_prompt": "If a number is LESS THAN 20, add 4. Otherwise subtract 3. What happens when the input is exactly 20?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-006",
-      "alt_text": "In the robot lab: An algorithm with an incorrect final output."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-p-006",
+      "alt_text": "Decision asks less than the stated threshold; yes adds 4, no subtracts 3."
     },
     "answers": [
       {
-        "text": "The starting number",
+        "text": "24",
         "is_correct": false
       },
       {
-        "text": "The word add",
-        "is_correct": false
-      },
-      {
-        "text": "The recorded output",
+        "text": "17",
         "is_correct": true
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "21",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "5+3=8, so the final output is incorrect.",
-      "hint": "Recalculate each step and find the first mismatch."
+      "summary": "20 is equal to 20, not less. Use the otherwise branch: 20 − 3 = 17.",
+      "hint": "Check whether the boundary itself is included."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-P-007",
@@ -227,36 +231,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "In the robot lab, which algorithm creates a pattern adding 3 each time?",
-    "audio_prompt": "In the robot lab, which algorithm creates a pattern adding 3 each time?",
+    "skill": "stop_at_limit",
+    "question": "Start at 2. Keep adding 4. Stop as soon as the result is at least 15. What is the stopping number?",
+    "audio_prompt": "Start at 2. Keep adding 4. Stop as soon as the result is at least 15. What is the stopping number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-007",
-      "alt_text": "In the robot lab: Three pattern terms produced by repeatedly adding 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Start at 5; repeatedly add 3",
+        "text": "18",
         "is_correct": true
       },
       {
-        "text": "Start at 5; repeatedly subtract 3",
+        "text": "14",
         "is_correct": false
       },
       {
-        "text": "Start at 5; change the rule each time",
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "17",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Repeating the same add-3 step creates a constant pattern.",
-      "hint": "The repeated instruction must stay the same."
+      "summary": "The results are 6, 10, 14, 18. 18 is the first that reaches or passes 15.",
+      "hint": "“At least” includes equality and larger numbers."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-P-008",
@@ -264,36 +268,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "In the robot lab, a robot must move forward 3 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
-    "audio_prompt": "In the robot lab, a robot must move forward 3 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
+    "skill": "complete_tripling_algorithm",
+    "question": "To make 3 times 4, first double 4. Which step completes the algorithm?",
+    "audio_prompt": "To make 3 times 4, first double 4. Which step completes the algorithm?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-008",
-      "alt_text": "In the robot lab: A three-step robot movement algorithm."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The robot changes colour",
+        "text": "Add 1.",
         "is_correct": false
       },
       {
-        "text": "Moving it changes the pathway",
+        "text": "Double the result again.",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract the original 4.",
+        "is_correct": false
+      },
+      {
+        "text": "Add the original 4.",
         "is_correct": true
-      },
-      {
-        "text": "Turns have no effect",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Algorithms depend on ordered steps; changing the turn changes the route.",
-      "hint": "Trace both possible orders on a grid."
+      "summary": "Doubling gives 8, or two groups of 4. Add one more group of 4 to get 12.",
+      "hint": "Three groups are two groups plus one group."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-009",
@@ -301,35 +305,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "At the number station, start at 12, add 4, then double. What is the output?",
-    "audio_prompt": "At the number station, start at 12, add 4, then double. What is the output?",
+    "skill": "coin_sort_algorithm",
+    "question": "Sort coins into 5-cent and 10-cent groups. There are 3 five-cent coins and 2 ten-cent coins. Multiply each coin count by its value, then add. What total does the algorithm give, in cents?",
+    "audio_prompt": "Sort coins into 5-cent and 10-cent groups. There are 3 five-cent coins and 2 ten-cent coins. Multiply each coin count by its value, then add. What total does the algorithm give, in cents?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-009",
-      "alt_text": "At the number station: An algorithm starting at 12, adding 4, then doubling."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "20",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "36",
+        "text": "40",
         "is_correct": false
       },
       {
-        "text": "32",
+        "text": "35",
         "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Following the steps gives 12+4=16, then double to 32.",
-      "hint": "Complete one instruction before the next."
+      "summary": "3 × 5 = 15 cents and 2 × 10 = 20 cents. Add to get 35 cents.",
+      "hint": "Use coin values, not just the number of coins."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-010",
@@ -337,35 +342,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "At the number station, which instruction is precise enough for an algorithm?",
-    "audio_prompt": "At the number station, which instruction is precise enough for an algorithm?",
+    "skill": "debug_trace",
+    "question": "The rule is “add 4 each time”. The recorded numbers are 5, 9, 14, 17. Which value needs replacing?",
+    "audio_prompt": "The rule is “add 4 each time”. The recorded numbers are 5, 9, 14, 17. Which value needs replacing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-010",
-      "alt_text": "At the number station: A clear add-4 algorithm step."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Add 4",
+        "text": "Replace 9 with 10.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace 14 with 13.",
         "is_correct": true
       },
       {
-        "text": "Make it nicer",
+        "text": "Replace 5 with 6.",
         "is_correct": false
       },
       {
-        "text": "Do something with it",
+        "text": "Replace 17 with 18.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A precise instruction tells exactly what operation to perform.",
-      "hint": "Another person should be able to follow it without guessing."
+      "summary": "9 + 4 = 13, not 14. The corrected next step also gives 17.",
+      "hint": "Test each transition against the rule."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-011",
@@ -373,35 +379,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "At the number station, what is missing from: start at 12; ___; output 16?",
-    "audio_prompt": "At the number station, what is missing from: start at 12; ___; output 16?",
+    "skill": "explain_parity_pattern",
+    "question": "Start at 3 and repeatedly add 2. What pattern do the results follow?",
+    "audio_prompt": "Start at 3 and repeatedly add 2. What pattern do the results follow?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-011",
-      "alt_text": "At the number station: An algorithm with one missing operation between input and output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Subtract 4",
-        "is_correct": false
-      },
-      {
-        "text": "Add 4",
+        "text": "They stay odd.",
         "is_correct": true
       },
       {
-        "text": "Multiply by 4",
+        "text": "They alternate between odd and even.",
+        "is_correct": false
+      },
+      {
+        "text": "They all end in zero.",
+        "is_correct": false
+      },
+      {
+        "text": "They eventually decrease.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Adding 4 changes 12 to 16.",
-      "hint": "Compare input and output."
+      "summary": "Adding an even number preserves whether a number is odd or even. Starting at 3, all results stay odd.",
+      "hint": "Think about adding complete pairs."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-012",
@@ -409,35 +416,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "At the number station, why can changing the order of “add 4” and “double” change the output?",
-    "audio_prompt": "At the number station, why can changing the order of “add 4” and “double” change the output?",
+    "skill": "find_table_rule",
+    "question": "The table maps 2 to 6, 4 to 12, and 7 to 21. Which multiplication rule fits every row?",
+    "audio_prompt": "The table maps 2 to 6, 4 to 12, and 7 to 21. Which multiplication rule fits every row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-012",
-      "alt_text": "At the number station: Two operation orders shown for comparison."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-p-012",
+      "alt_text": "Input-output pairs: 2 to 6, 4 to 12, 7 to 21."
     },
     "answers": [
       {
-        "text": "Numbers forget their value",
+        "text": "Add 3.",
         "is_correct": false
       },
       {
-        "text": "Order never changes an answer",
+        "text": "Multiply by 4.",
         "is_correct": false
       },
       {
-        "text": "The operations act on different intermediate values",
+        "text": "Subtract 3.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply by 3.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Adding then doubling is not generally the same as doubling then adding.",
-      "hint": "Try both orders with the starting value."
+      "summary": "2 × 3 = 6, 4 × 3 = 12, and 7 × 3 = 21. The same rule fits all rows.",
+      "hint": "A rule must work for every input-output pair."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-013",
@@ -445,35 +455,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "At the number station, which sequence correctly checks 16 − 4 = 12?",
-    "audio_prompt": "At the number station, which sequence correctly checks 16 − 4 = 12?",
+    "skill": "reverse_two_steps",
+    "question": "A machine doubles its input, then adds 3. The output is 13. What was the input?",
+    "audio_prompt": "A machine doubles its input, then adds 3. The output is 13. What was the input?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-013",
-      "alt_text": "At the number station: A subtraction-check algorithm with input, step and output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Start at 16, subtract 4, compare with 12",
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "Start at 12, subtract 16",
-        "is_correct": false
-      },
-      {
-        "text": "Guess, then stop",
+        "text": "4",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The check follows the subtraction and compares the output with the expected value.",
-      "hint": "Use a clear input, operation and output."
+      "summary": "Undo the last step first: 13 − 3 = 10. Then halve to get 5.",
+      "hint": "Work backwards in reverse order."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-P-014",
@@ -481,35 +492,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "At the number station, an algorithm says 12 + 4 = 17. What should be debugged?",
-    "audio_prompt": "At the number station, an algorithm says 12 + 4 = 17. What should be debugged?",
+    "skill": "design_stop_rule",
+    "question": "A counter starts at 0 and adds 3 each time. It must stop exactly when it reaches 18. Which check should follow every addition?",
+    "audio_prompt": "A counter starts at 0 and adds 3 each time. It must stop exactly when it reaches 18. Which check should follow every addition?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-014",
-      "alt_text": "At the number station: An algorithm with an incorrect final output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The starting number",
+        "text": "Stop before doing any addition.",
         "is_correct": false
       },
       {
-        "text": "The recorded output",
+        "text": "If the new total equals 18, stop; otherwise repeat.",
         "is_correct": true
       },
       {
-        "text": "The word add",
+        "text": "Always repeat, even after reaching the target.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop after the first addition.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "12+4=16, so the final output is incorrect.",
-      "hint": "Recalculate each step and find the first mismatch."
+      "summary": "18 is reached after 6 additions of 3. Checking each new total stops the process at the target.",
+      "hint": "A repeating algorithm needs an explicit stopping decision."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-P-015",
@@ -517,35 +529,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "At the number station, which algorithm creates a pattern adding 4 each time?",
-    "audio_prompt": "At the number station, which algorithm creates a pattern adding 4 each time?",
+    "skill": "recheck_branch",
+    "question": "Rule: if even, halve; if odd, add 1. Start at 7 and apply the rule twice, checking the new number each time. What is the final number?",
+    "audio_prompt": "Rule: if even, halve; if odd, add 1. Start at 7 and apply the rule twice, checking the new number each time. What is the final number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-015",
-      "alt_text": "At the number station: Three pattern terms produced by repeatedly adding 4."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Start at 12; repeatedly subtract 4",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 12; change the rule each time",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 12; repeatedly add 4",
+        "text": "4",
         "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Repeating the same add-4 step creates a constant pattern.",
-      "hint": "The repeated instruction must stay the same."
+      "summary": "7 becomes 8. Check 8 again: it becomes 4. The decision uses the current value.",
+      "hint": "Do not keep using the branch chosen for the starting number."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-P-016",
@@ -553,35 +566,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "At the number station, a robot must move forward 4 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
-    "audio_prompt": "At the number station, a robot must move forward 4 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
+    "skill": "complete_creation",
+    "question": "Complete these instructions to generate 4, 9, 14, 19: “Write 4. Then ___, write the result and repeat.”",
+    "audio_prompt": "Complete these instructions to generate 4, 9, 14, 19: “Write 4. Then ___, write the result and repeat.”",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-016",
-      "alt_text": "At the number station: A three-step robot movement algorithm."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Moving it changes the pathway",
+        "text": "add 4 to the current number",
+        "is_correct": false
+      },
+      {
+        "text": "multiply the current number by 5",
+        "is_correct": false
+      },
+      {
+        "text": "subtract 5 from the current number",
+        "is_correct": false
+      },
+      {
+        "text": "add 5 to the current number",
         "is_correct": true
-      },
-      {
-        "text": "The robot changes colour",
-        "is_correct": false
-      },
-      {
-        "text": "Turns have no effect",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Algorithms depend on ordered steps; changing the turn changes the route.",
-      "hint": "Trace both possible orders on a grid."
+      "summary": "The gap between successive numbers is always 5. The instruction must update the current number by that amount.",
+      "hint": "Test the proposed step on every pair of neighbours."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-017",
@@ -589,35 +603,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "During the coding game, start at 19, add 5, then double. What is the output?",
-    "audio_prompt": "During the coding game, start at 19, add 5, then double. What is the output?",
+    "skill": "repeat_addition",
+    "question": "Start at 7. Add 4, write the result, and repeat until you have written 3 results. What is the third result?",
+    "audio_prompt": "Start at 7. Add 4, write the result, and repeat until you have written 3 results. What is the third result?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-017",
-      "alt_text": "During the coding game: An algorithm starting at 19, adding 5, then doubling."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "29",
+        "text": "15",
         "is_correct": false
       },
       {
-        "text": "48",
+        "text": "23",
+        "is_correct": false
+      },
+      {
+        "text": "19",
         "is_correct": true
       },
       {
-        "text": "53",
+        "text": "28",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Following the steps gives 19+5=24, then double to 48.",
-      "hint": "Complete one instruction before the next."
+      "summary": "The written results are 11, 15, 19. The starting number is not one of the written results.",
+      "hint": "Count the actions, not the starting value."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3N07-P-018",
@@ -625,35 +640,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "During the coding game, which instruction is precise enough for an algorithm?",
-    "audio_prompt": "During the coding game, which instruction is precise enough for an algorithm?",
+    "skill": "repeat_halving",
+    "question": "Start at 64. Halve the current number three times. What number do you finish with?",
+    "audio_prompt": "Start at 64. Halve the current number three times. What number do you finish with?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-018",
-      "alt_text": "During the coding game: A clear add-5 algorithm step."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Make it nicer",
+        "text": "32",
         "is_correct": false
       },
       {
-        "text": "Do something with it",
-        "is_correct": false
-      },
-      {
-        "text": "Add 5",
+        "text": "8",
         "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "58",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A precise instruction tells exactly what operation to perform.",
-      "hint": "Another person should be able to follow it without guessing."
+      "summary": "64 → 32 → 16 → 8. Each step halves the previous result.",
+      "hint": "Use the new result as the next input."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-019",
@@ -661,35 +677,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "During the coding game, what is missing from: start at 19; ___; output 24?",
-    "audio_prompt": "During the coding game, what is missing from: start at 19; ___; output 24?",
+    "skill": "ordered_steps",
+    "question": "Start at 7. First add 2. Then double the result. What is the output?",
+    "audio_prompt": "Start at 7. First add 2. Then double the result. What is the output?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-019",
-      "alt_text": "During the coding game: An algorithm with one missing operation between input and output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Add 5",
+        "text": "18",
         "is_correct": true
       },
       {
-        "text": "Subtract 5",
+        "text": "16",
         "is_correct": false
       },
       {
-        "text": "Multiply by 5",
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "14",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Adding 5 changes 19 to 24.",
-      "hint": "Compare input and output."
+      "summary": "First 7 + 2 = 9. Then double 9 to get 18.",
+      "hint": "Follow the stated order; adding after doubling is a different rule."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-020",
@@ -697,35 +714,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "During the coding game, why can changing the order of “add 5” and “double” change the output?",
-    "audio_prompt": "During the coding game, why can changing the order of “add 5” and “double” change the output?",
+    "skill": "even_decision",
+    "question": "Use this rule once for 15: if the number is even, halve it; otherwise, add 1. What is the output?",
+    "audio_prompt": "Use this rule once for 15: if the number is even, halve it; otherwise, add 1. What is the output?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-020",
-      "alt_text": "During the coding game: Two operation orders shown for comparison."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-p-020",
+      "alt_text": "Decision: even numbers are halved; other numbers have 1 added."
     },
     "answers": [
       {
-        "text": "Numbers forget their value",
+        "text": "30",
         "is_correct": false
       },
       {
-        "text": "The operations act on different intermediate values",
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "16",
         "is_correct": true
-      },
-      {
-        "text": "Order never changes an answer",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Adding then doubling is not generally the same as doubling then adding.",
-      "hint": "Try both orders with the starting value."
+      "summary": "15 is odd, so add 1 to get 16. Do not use both branches.",
+      "hint": "Decide which branch applies before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-021",
@@ -733,35 +753,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "During the coding game, which sequence correctly checks 24 − 5 = 19?",
-    "audio_prompt": "During the coding game, which sequence correctly checks 24 − 5 = 19?",
+    "skill": "multiple_decision",
+    "question": "An algorithm adds 10 to a multiple of 5, and adds 2 to any other whole number. Start with 32. What is the output?",
+    "audio_prompt": "An algorithm adds 10 to a multiple of 5, and adds 2 to any other whole number. Start with 32. What is the output?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-021",
-      "alt_text": "During the coding game: A subtraction-check algorithm with input, step and output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Start at 19, subtract 24",
+        "text": "42",
         "is_correct": false
       },
       {
-        "text": "Guess, then stop",
+        "text": "160",
         "is_correct": false
       },
       {
-        "text": "Start at 24, subtract 5, compare with 19",
+        "text": "34",
         "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The check follows the subtraction and compares the output with the expected value.",
-      "hint": "Use a clear input, operation and output."
+      "summary": "32 is not a multiple of 5, so add 2 to get 34.",
+      "hint": "Multiples of 5 end in 0 or 5."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-P-022",
@@ -769,35 +790,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "During the coding game, an algorithm says 19 + 5 = 25. What should be debugged?",
-    "audio_prompt": "During the coding game, an algorithm says 19 + 5 = 25. What should be debugged?",
+    "skill": "boundary_decision",
+    "question": "If a number is LESS THAN 30, add 4. Otherwise subtract 3. What happens when the input is exactly 30?",
+    "audio_prompt": "If a number is LESS THAN 30, add 4. Otherwise subtract 3. What happens when the input is exactly 30?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-022",
-      "alt_text": "During the coding game: An algorithm with an incorrect final output."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-p-022",
+      "alt_text": "Decision asks less than the stated threshold; yes adds 4, no subtracts 3."
     },
     "answers": [
       {
-        "text": "The recorded output",
+        "text": "34",
+        "is_correct": false
+      },
+      {
+        "text": "27",
         "is_correct": true
       },
       {
-        "text": "The starting number",
+        "text": "30",
         "is_correct": false
       },
       {
-        "text": "The word add",
+        "text": "31",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "19+5=24, so the final output is incorrect.",
-      "hint": "Recalculate each step and find the first mismatch."
+      "summary": "30 is equal to 30, not less. Use the otherwise branch: 30 − 3 = 27.",
+      "hint": "Check whether the boundary itself is included."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-P-023",
@@ -805,35 +829,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "During the coding game, which algorithm creates a pattern adding 5 each time?",
-    "audio_prompt": "During the coding game, which algorithm creates a pattern adding 5 each time?",
+    "skill": "stop_at_limit",
+    "question": "Start at 3. Keep adding 5. Stop as soon as the result is at least 21. What is the stopping number?",
+    "audio_prompt": "Start at 3. Keep adding 5. Stop as soon as the result is at least 21. What is the stopping number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-023",
-      "alt_text": "During the coding game: Three pattern terms produced by repeatedly adding 5."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Start at 19; repeatedly subtract 5",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 19; repeatedly add 5",
+        "text": "23",
         "is_correct": true
       },
       {
-        "text": "Start at 19; change the rule each time",
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": false
+      },
+      {
+        "text": "22",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Repeating the same add-5 step creates a constant pattern.",
-      "hint": "The repeated instruction must stay the same."
+      "summary": "The results are 8, 13, 18, 23. 23 is the first that reaches or passes 21.",
+      "hint": "“At least” includes equality and larger numbers."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-P-024",
@@ -841,35 +866,932 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "practice",
-    "skill": "algorithm",
-    "question": "During the coding game, a robot must move forward 5 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
-    "audio_prompt": "During the coding game, a robot must move forward 5 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
+    "skill": "complete_tripling_algorithm",
+    "question": "To make 3 times 6, first double 6. Which step completes the algorithm?",
+    "audio_prompt": "To make 3 times 6, first double 6. Which step completes the algorithm?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-p-024",
-      "alt_text": "During the coding game: A three-step robot movement algorithm."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The robot changes colour",
+        "text": "Add 1.",
         "is_correct": false
       },
       {
-        "text": "Turns have no effect",
+        "text": "Double the result again.",
         "is_correct": false
       },
       {
-        "text": "Moving it changes the pathway",
+        "text": "Subtract the original 6.",
+        "is_correct": false
+      },
+      {
+        "text": "Add the original 6.",
         "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Doubling gives 12, or two groups of 6. Add one more group of 6 to get 18.",
+      "hint": "Three groups are two groups plus one group."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-025",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "coin_sort_algorithm",
+    "question": "Sort coins into 5-cent and 10-cent groups. There are 4 five-cent coins and 3 ten-cent coins. Multiply each coin count by its value, then add. What total does the algorithm give, in cents?",
+    "audio_prompt": "Sort coins into 5-cent and 10-cent groups. There are 4 five-cent coins and 3 ten-cent coins. Multiply each coin count by its value, then add. What total does the algorithm give, in cents?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "55",
+        "is_correct": false
+      },
+      {
+        "text": "50",
+        "is_correct": true
+      },
+      {
+        "text": "45",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Algorithms depend on ordered steps; changing the turn changes the route.",
-      "hint": "Trace both possible orders on a grid."
+      "summary": "4 × 5 = 20 cents and 3 × 10 = 30 cents. Add to get 50 cents.",
+      "hint": "Use coin values, not just the number of coins."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-026",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "debug_trace",
+    "question": "The rule is “add 3 each time”. The recorded numbers are 8, 11, 15, 17. Which value needs replacing?",
+    "audio_prompt": "The rule is “add 3 each time”. The recorded numbers are 8, 11, 15, 17. Which value needs replacing?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Replace 11 with 12.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace 15 with 14.",
+        "is_correct": true
+      },
+      {
+        "text": "Replace 8 with 9.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace 17 with 18.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "11 + 3 = 14, not 15. The corrected next step also gives 17.",
+      "hint": "Test each transition against the rule."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-027",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "explain_parity_pattern",
+    "question": "Start at 6 and repeatedly add 4. What pattern do the results follow?",
+    "audio_prompt": "Start at 6 and repeatedly add 4. What pattern do the results follow?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "They stay even.",
+        "is_correct": true
+      },
+      {
+        "text": "They alternate between odd and even.",
+        "is_correct": false
+      },
+      {
+        "text": "They all end in zero.",
+        "is_correct": false
+      },
+      {
+        "text": "They eventually decrease.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding an even number preserves whether a number is odd or even. Starting at 6, all results stay even.",
+      "hint": "Think about adding complete pairs."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-028",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "find_table_rule",
+    "question": "The table maps 2 to 8, 4 to 16, and 7 to 28. Which multiplication rule fits every row?",
+    "audio_prompt": "The table maps 2 to 8, 4 to 16, and 7 to 28. Which multiplication rule fits every row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-p-028",
+      "alt_text": "Input-output pairs: 2 to 8, 4 to 16, 7 to 28."
+    },
+    "answers": [
+      {
+        "text": "Add 4.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply by 5.",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 4.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply by 4.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "2 × 4 = 8, 4 × 4 = 16, and 7 × 4 = 28. The same rule fits all rows.",
+      "hint": "A rule must work for every input-output pair."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-029",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "reverse_two_steps",
+    "question": "A machine doubles its input, then adds 4. The output is 18. What was the input?",
+    "audio_prompt": "A machine doubles its input, then adds 4. The output is 18. What was the input?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Undo the last step first: 18 − 4 = 14. Then halve to get 7.",
+      "hint": "Work backwards in reverse order."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N07-P-030",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "design_stop_rule",
+    "question": "A counter starts at 0 and adds 3 each time. It must stop exactly when it reaches 24. Which check should follow every addition?",
+    "audio_prompt": "A counter starts at 0 and adds 3 each time. It must stop exactly when it reaches 24. Which check should follow every addition?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Stop before doing any addition.",
+        "is_correct": false
+      },
+      {
+        "text": "If the new total equals 24, stop; otherwise repeat.",
+        "is_correct": true
+      },
+      {
+        "text": "Always repeat, even after reaching the target.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop after the first addition.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "24 is reached after 8 additions of 3. Checking each new total stops the process at the target.",
+      "hint": "A repeating algorithm needs an explicit stopping decision."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N07-P-031",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "recheck_branch",
+    "question": "Rule: if even, halve; if odd, add 1. Start at 10 and apply the rule twice, checking the new number each time. What is the final number?",
+    "audio_prompt": "Rule: if even, halve; if odd, add 1. Start at 10 and apply the rule twice, checking the new number each time. What is the final number?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "10 becomes 5. Check 5 again: it becomes 6. The decision uses the current value.",
+      "hint": "Do not keep using the branch chosen for the starting number."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N07-P-032",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "complete_creation",
+    "question": "Complete these instructions to generate 7, 13, 19, 25: “Write 7. Then ___, write the result and repeat.”",
+    "audio_prompt": "Complete these instructions to generate 7, 13, 19, 25: “Write 7. Then ___, write the result and repeat.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "add 7 to the current number",
+        "is_correct": false
+      },
+      {
+        "text": "multiply the current number by 6",
+        "is_correct": false
+      },
+      {
+        "text": "subtract 6 from the current number",
+        "is_correct": false
+      },
+      {
+        "text": "add 6 to the current number",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The gap between successive numbers is always 6. The instruction must update the current number by that amount.",
+      "hint": "Test the proposed step on every pair of neighbours."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-033",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "repeat_addition",
+    "question": "Start at 11. Add 5, write the result, and repeat until you have written 3 results. What is the third result?",
+    "audio_prompt": "Start at 11. Add 5, write the result, and repeat until you have written 3 results. What is the third result?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "31",
+        "is_correct": false
+      },
+      {
+        "text": "26",
+        "is_correct": true
+      },
+      {
+        "text": "55",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The written results are 16, 21, 26. The starting number is not one of the written results.",
+      "hint": "Count the actions, not the starting value."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N07-P-034",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "repeat_halving",
+    "question": "Start at 80. Halve the current number three times. What number do you finish with?",
+    "audio_prompt": "Start at 80. Halve the current number three times. What number do you finish with?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "74",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "80 → 40 → 20 → 10. Each step halves the previous result.",
+      "hint": "Use the new result as the next input."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-035",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "ordered_steps",
+    "question": "Start at 9. First add 4. Then double the result. What is the output?",
+    "audio_prompt": "Start at 9. First add 4. Then double the result. What is the output?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "26",
+        "is_correct": true
+      },
+      {
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "First 9 + 4 = 13. Then double 13 to get 26.",
+      "hint": "Follow the stated order; adding after doubling is a different rule."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-036",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "even_decision",
+    "question": "Use this rule once for 18: if the number is even, halve it; otherwise, add 1. What is the output?",
+    "audio_prompt": "Use this rule once for 18: if the number is even, halve it; otherwise, add 1. What is the output?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-p-036",
+      "alt_text": "Decision: even numbers are halved; other numbers have 1 added."
+    },
+    "answers": [
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "18 is even, so halve it to get 9. Do not use both branches.",
+      "hint": "Decide which branch applies before calculating."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-037",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "multiple_decision",
+    "question": "An algorithm adds 10 to a multiple of 5, and adds 2 to any other whole number. Start with 40. What is the output?",
+    "audio_prompt": "An algorithm adds 10 to a multiple of 5, and adds 2 to any other whole number. Start with 40. What is the output?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "42",
+        "is_correct": false
+      },
+      {
+        "text": "200",
+        "is_correct": false
+      },
+      {
+        "text": "50",
+        "is_correct": true
+      },
+      {
+        "text": "38",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "40 is a multiple of 5, so add 10 to get 50.",
+      "hint": "Multiples of 5 end in 0 or 5."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-038",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "boundary_decision",
+    "question": "If a number is LESS THAN 40, add 4. Otherwise subtract 3. What happens when the input is exactly 40?",
+    "audio_prompt": "If a number is LESS THAN 40, add 4. Otherwise subtract 3. What happens when the input is exactly 40?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-p-038",
+      "alt_text": "Decision asks less than the stated threshold; yes adds 4, no subtracts 3."
+    },
+    "answers": [
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "37",
+        "is_correct": true
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "41",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "40 is equal to 40, not less. Use the otherwise branch: 40 − 3 = 37.",
+      "hint": "Check whether the boundary itself is included."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N07-P-039",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "stop_at_limit",
+    "question": "Start at 4. Keep adding 6. Stop as soon as the result is at least 25. What is the stopping number?",
+    "audio_prompt": "Start at 4. Keep adding 6. Stop as soon as the result is at least 25. What is the stopping number?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "28",
+        "is_correct": true
+      },
+      {
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The results are 10, 16, 22, 28. 28 is the first that reaches or passes 25.",
+      "hint": "“At least” includes equality and larger numbers."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N07-P-040",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "complete_tripling_algorithm",
+    "question": "To make 3 times 8, first double 8. Which step completes the algorithm?",
+    "audio_prompt": "To make 3 times 8, first double 8. Which step completes the algorithm?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Add 1.",
+        "is_correct": false
+      },
+      {
+        "text": "Double the result again.",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract the original 8.",
+        "is_correct": false
+      },
+      {
+        "text": "Add the original 8.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Doubling gives 16, or two groups of 8. Add one more group of 8 to get 24.",
+      "hint": "Three groups are two groups plus one group."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-041",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "coin_sort_algorithm",
+    "question": "Sort coins into 5-cent and 10-cent groups. There are 5 five-cent coins and 4 ten-cent coins. Multiply each coin count by its value, then add. What total does the algorithm give, in cents?",
+    "audio_prompt": "Sort coins into 5-cent and 10-cent groups. There are 5 five-cent coins and 4 ten-cent coins. Multiply each coin count by its value, then add. What total does the algorithm give, in cents?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "70",
+        "is_correct": false
+      },
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "5 × 5 = 25 cents and 4 × 10 = 40 cents. Add to get 65 cents.",
+      "hint": "Use coin values, not just the number of coins."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-042",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "debug_trace",
+    "question": "The rule is “add 5 each time”. The recorded numbers are 12, 17, 23, 27. Which value needs replacing?",
+    "audio_prompt": "The rule is “add 5 each time”. The recorded numbers are 12, 17, 23, 27. Which value needs replacing?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Replace 17 with 18.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace 23 with 22.",
+        "is_correct": true
+      },
+      {
+        "text": "Replace 12 with 13.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace 27 with 28.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "17 + 5 = 22, not 23. The corrected next step also gives 27.",
+      "hint": "Test each transition against the rule."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-043",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "explain_parity_pattern",
+    "question": "Start at 11 and repeatedly add 6. What pattern do the results follow?",
+    "audio_prompt": "Start at 11 and repeatedly add 6. What pattern do the results follow?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "They stay odd.",
+        "is_correct": true
+      },
+      {
+        "text": "They alternate between odd and even.",
+        "is_correct": false
+      },
+      {
+        "text": "They all end in zero.",
+        "is_correct": false
+      },
+      {
+        "text": "They eventually decrease.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding an even number preserves whether a number is odd or even. Starting at 11, all results stay odd.",
+      "hint": "Think about adding complete pairs."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-044",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "find_table_rule",
+    "question": "The table maps 2 to 10, 4 to 20, and 7 to 35. Which multiplication rule fits every row?",
+    "audio_prompt": "The table maps 2 to 10, 4 to 20, and 7 to 35. Which multiplication rule fits every row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-p-044",
+      "alt_text": "Input-output pairs: 2 to 10, 4 to 20, 7 to 35."
+    },
+    "answers": [
+      {
+        "text": "Add 5.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply by 6.",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 5.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply by 5.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "2 × 5 = 10, 4 × 5 = 20, and 7 × 5 = 35. The same rule fits all rows.",
+      "hint": "A rule must work for every input-output pair."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N07-P-045",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "reverse_two_steps",
+    "question": "A machine doubles its input, then adds 5. The output is 23. What was the input?",
+    "audio_prompt": "A machine doubles its input, then adds 5. The output is 23. What was the input?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Undo the last step first: 23 − 5 = 18. Then halve to get 9.",
+      "hint": "Work backwards in reverse order."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N07-P-046",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "design_stop_rule",
+    "question": "A counter starts at 0 and adds 3 each time. It must stop exactly when it reaches 30. Which check should follow every addition?",
+    "audio_prompt": "A counter starts at 0 and adds 3 each time. It must stop exactly when it reaches 30. Which check should follow every addition?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Stop before doing any addition.",
+        "is_correct": false
+      },
+      {
+        "text": "If the new total equals 30, stop; otherwise repeat.",
+        "is_correct": true
+      },
+      {
+        "text": "Always repeat, even after reaching the target.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop after the first addition.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "30 is reached after 10 additions of 3. Checking each new total stops the process at the target.",
+      "hint": "A repeating algorithm needs an explicit stopping decision."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N07-P-047",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "recheck_branch",
+    "question": "Rule: if even, halve; if odd, add 1. Start at 13 and apply the rule twice, checking the new number each time. What is the final number?",
+    "audio_prompt": "Rule: if even, halve; if odd, add 1. Start at 13 and apply the rule twice, checking the new number each time. What is the final number?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "26",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "13 becomes 14. Check 14 again: it becomes 7. The decision uses the current value.",
+      "hint": "Do not keep using the branch chosen for the starting number."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N07-P-048",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N07",
+    "bank": "practice",
+    "skill": "complete_creation",
+    "question": "Complete these instructions to generate 9, 16, 23, 30: “Write 9. Then ___, write the result and repeat.”",
+    "audio_prompt": "Complete these instructions to generate 9, 16, 23, 30: “Write 9. Then ___, write the result and repeat.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "add 9 to the current number",
+        "is_correct": false
+      },
+      {
+        "text": "multiply the current number by 7",
+        "is_correct": false
+      },
+      {
+        "text": "subtract 7 from the current number",
+        "is_correct": false
+      },
+      {
+        "text": "add 7 to the current number",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The gap between successive numbers is always 7. The instruction must update the current number by that amount.",
+      "hint": "Test the proposed step on every pair of neighbours."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-T-001",
@@ -877,33 +1799,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "At the class shop, start at 26, add 6, then double. What is the output?",
-    "audio_prompt": "At the class shop, start at 26, add 6, then double. What is the output?",
+    "skill": "repeat_addition",
+    "question": "Start at 6. Add 7, write the result, and repeat until you have written 3 results. What is the third result?",
+    "audio_prompt": "Start at 6. Add 7, write the result, and repeat until you have written 3 results. What is the third result?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-001",
-      "alt_text": "At the class shop: An algorithm starting at 26, adding 6, then doubling."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "64",
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      },
+      {
+        "text": "27",
         "is_correct": true
       },
       {
-        "text": "38",
-        "is_correct": false
-      },
-      {
-        "text": "70",
+        "text": "42",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Following the steps gives 26+6=32, then double to 64.",
-      "hint": "Complete one instruction before the next."
-    }
+      "summary": "The written results are 13, 20, 27. The starting number is not one of the written results.",
+      "hint": "Count the actions, not the starting value."
+    },
+    "difficulty": 1
   },
   {
     "id": "AC9M3N07-T-002",
@@ -911,33 +1836,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "At the class shop, which instruction is precise enough for an algorithm?",
-    "audio_prompt": "At the class shop, which instruction is precise enough for an algorithm?",
+    "skill": "repeat_halving",
+    "question": "Start at 96. Halve the current number three times. What number do you finish with?",
+    "audio_prompt": "Start at 96. Halve the current number three times. What number do you finish with?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-002",
-      "alt_text": "At the class shop: A clear add-6 algorithm step."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Make it nicer",
+        "text": "48",
         "is_correct": false
       },
       {
-        "text": "Add 6",
+        "text": "12",
         "is_correct": true
       },
       {
-        "text": "Do something with it",
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "90",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A precise instruction tells exactly what operation to perform.",
-      "hint": "Another person should be able to follow it without guessing."
-    }
+      "summary": "96 → 48 → 24 → 12. Each step halves the previous result.",
+      "hint": "Use the new result as the next input."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-T-003",
@@ -945,33 +1873,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "At the class shop, what is missing from: start at 26; ___; output 32?",
-    "audio_prompt": "At the class shop, what is missing from: start at 26; ___; output 32?",
+    "skill": "ordered_steps",
+    "question": "Start at 6. First add 5. Then double the result. What is the output?",
+    "audio_prompt": "Start at 6. First add 5. Then double the result. What is the output?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-003",
-      "alt_text": "At the class shop: An algorithm with one missing operation between input and output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Subtract 6",
-        "is_correct": false
-      },
-      {
-        "text": "Multiply by 6",
-        "is_correct": false
-      },
-      {
-        "text": "Add 6",
+        "text": "22",
         "is_correct": true
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Adding 6 changes 26 to 32.",
-      "hint": "Compare input and output."
-    }
+      "summary": "First 6 + 5 = 11. Then double 11 to get 22.",
+      "hint": "Follow the stated order; adding after doubling is a different rule."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-T-004",
@@ -979,33 +1910,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "At the class shop, why can changing the order of “add 6” and “double” change the output?",
-    "audio_prompt": "At the class shop, why can changing the order of “add 6” and “double” change the output?",
+    "skill": "even_decision",
+    "question": "Use this rule once for 21: if the number is even, halve it; otherwise, add 1. What is the output?",
+    "audio_prompt": "Use this rule once for 21: if the number is even, halve it; otherwise, add 1. What is the output?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-004",
-      "alt_text": "At the class shop: Two operation orders shown for comparison."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-t-004",
+      "alt_text": "Decision: even numbers are halved; other numbers have 1 added."
     },
     "answers": [
       {
-        "text": "The operations act on different intermediate values",
+        "text": "42",
+        "is_correct": false
+      },
+      {
+        "text": "23",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "22",
         "is_correct": true
-      },
-      {
-        "text": "Numbers forget their value",
-        "is_correct": false
-      },
-      {
-        "text": "Order never changes an answer",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Adding then doubling is not generally the same as doubling then adding.",
-      "hint": "Try both orders with the starting value."
-    }
+      "summary": "21 is odd, so add 1 to get 22. Do not use both branches.",
+      "hint": "Decide which branch applies before calculating."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-T-005",
@@ -1013,33 +1949,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "At the class shop, which sequence correctly checks 32 − 6 = 26?",
-    "audio_prompt": "At the class shop, which sequence correctly checks 32 − 6 = 26?",
+    "skill": "multiple_decision",
+    "question": "An algorithm adds 10 to a multiple of 5, and adds 2 to any other whole number. Start with 47. What is the output?",
+    "audio_prompt": "An algorithm adds 10 to a multiple of 5, and adds 2 to any other whole number. Start with 47. What is the output?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-005",
-      "alt_text": "At the class shop: A subtraction-check algorithm with input, step and output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Start at 26, subtract 32",
+        "text": "57",
         "is_correct": false
       },
       {
-        "text": "Start at 32, subtract 6, compare with 26",
+        "text": "235",
+        "is_correct": false
+      },
+      {
+        "text": "49",
         "is_correct": true
       },
       {
-        "text": "Guess, then stop",
+        "text": "45",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The check follows the subtraction and compares the output with the expected value.",
-      "hint": "Use a clear input, operation and output."
-    }
+      "summary": "47 is not a multiple of 5, so add 2 to get 49.",
+      "hint": "Multiples of 5 end in 0 or 5."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-T-006",
@@ -1047,33 +1986,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "At the class shop, an algorithm says 26 + 6 = 33. What should be debugged?",
-    "audio_prompt": "At the class shop, an algorithm says 26 + 6 = 33. What should be debugged?",
+    "skill": "boundary_decision",
+    "question": "If a number is LESS THAN 50, add 4. Otherwise subtract 3. What happens when the input is exactly 50?",
+    "audio_prompt": "If a number is LESS THAN 50, add 4. Otherwise subtract 3. What happens when the input is exactly 50?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-006",
-      "alt_text": "At the class shop: An algorithm with an incorrect final output."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-t-006",
+      "alt_text": "Decision asks less than the stated threshold; yes adds 4, no subtracts 3."
     },
     "answers": [
       {
-        "text": "The starting number",
+        "text": "54",
         "is_correct": false
       },
       {
-        "text": "The word add",
-        "is_correct": false
-      },
-      {
-        "text": "The recorded output",
+        "text": "47",
         "is_correct": true
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "text": "51",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "26+6=32, so the final output is incorrect.",
-      "hint": "Recalculate each step and find the first mismatch."
-    }
+      "summary": "50 is equal to 50, not less. Use the otherwise branch: 50 − 3 = 47.",
+      "hint": "Check whether the boundary itself is included."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-T-007",
@@ -1081,33 +2025,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "At the class shop, which algorithm creates a pattern adding 6 each time?",
-    "audio_prompt": "At the class shop, which algorithm creates a pattern adding 6 each time?",
+    "skill": "stop_at_limit",
+    "question": "Start at 5. Keep adding 7. Stop as soon as the result is at least 30. What is the stopping number?",
+    "audio_prompt": "Start at 5. Keep adding 7. Stop as soon as the result is at least 30. What is the stopping number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-007",
-      "alt_text": "At the class shop: Three pattern terms produced by repeatedly adding 6."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Start at 26; repeatedly add 6",
+        "text": "33",
         "is_correct": true
       },
       {
-        "text": "Start at 26; repeatedly subtract 6",
+        "text": "26",
         "is_correct": false
       },
       {
-        "text": "Start at 26; change the rule each time",
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "32",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Repeating the same add-6 step creates a constant pattern.",
-      "hint": "The repeated instruction must stay the same."
-    }
+      "summary": "The results are 12, 19, 26, 33. 33 is the first that reaches or passes 30.",
+      "hint": "“At least” includes equality and larger numbers."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-T-008",
@@ -1115,33 +2062,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "At the class shop, a robot must move forward 6 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
-    "audio_prompt": "At the class shop, a robot must move forward 6 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
+    "skill": "complete_tripling_algorithm",
+    "question": "To make 3 times 9, first double 9. Which step completes the algorithm?",
+    "audio_prompt": "To make 3 times 9, first double 9. Which step completes the algorithm?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-008",
-      "alt_text": "At the class shop: A three-step robot movement algorithm."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The robot changes colour",
+        "text": "Add 1.",
         "is_correct": false
       },
       {
-        "text": "Moving it changes the pathway",
+        "text": "Double the result again.",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract the original 9.",
+        "is_correct": false
+      },
+      {
+        "text": "Add the original 9.",
         "is_correct": true
-      },
-      {
-        "text": "Turns have no effect",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Algorithms depend on ordered steps; changing the turn changes the route.",
-      "hint": "Trace both possible orders on a grid."
-    }
+      "summary": "Doubling gives 18, or two groups of 9. Add one more group of 9 to get 27.",
+      "hint": "Three groups are two groups plus one group."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-T-009",
@@ -1149,33 +2099,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "In the pathway challenge, start at 33, add 7, then double. What is the output?",
-    "audio_prompt": "In the pathway challenge, start at 33, add 7, then double. What is the output?",
+    "skill": "coin_sort_algorithm",
+    "question": "Sort coins into 5-cent and 10-cent groups. There are 6 five-cent coins and 5 ten-cent coins. Multiply each coin count by its value, then add. What total does the algorithm give, in cents?",
+    "audio_prompt": "Sort coins into 5-cent and 10-cent groups. There are 6 five-cent coins and 5 ten-cent coins. Multiply each coin count by its value, then add. What total does the algorithm give, in cents?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-009",
-      "alt_text": "In the pathway challenge: An algorithm starting at 33, adding 7, then doubling."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "47",
+        "text": "11",
         "is_correct": false
       },
       {
-        "text": "87",
+        "text": "85",
         "is_correct": false
       },
       {
         "text": "80",
         "is_correct": true
+      },
+      {
+        "text": "75",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Following the steps gives 33+7=40, then double to 80.",
-      "hint": "Complete one instruction before the next."
-    }
+      "summary": "6 × 5 = 30 cents and 5 × 10 = 50 cents. Add to get 80 cents.",
+      "hint": "Use coin values, not just the number of coins."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-T-010",
@@ -1183,33 +2136,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "In the pathway challenge, which instruction is precise enough for an algorithm?",
-    "audio_prompt": "In the pathway challenge, which instruction is precise enough for an algorithm?",
+    "skill": "debug_trace",
+    "question": "The rule is “add 6 each time”. The recorded numbers are 9, 15, 22, 27. Which value needs replacing?",
+    "audio_prompt": "The rule is “add 6 each time”. The recorded numbers are 9, 15, 22, 27. Which value needs replacing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-010",
-      "alt_text": "In the pathway challenge: A clear add-7 algorithm step."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Add 7",
+        "text": "Replace 15 with 16.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace 22 with 21.",
         "is_correct": true
       },
       {
-        "text": "Make it nicer",
+        "text": "Replace 9 with 10.",
         "is_correct": false
       },
       {
-        "text": "Do something with it",
+        "text": "Replace 27 with 28.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A precise instruction tells exactly what operation to perform.",
-      "hint": "Another person should be able to follow it without guessing."
-    }
+      "summary": "15 + 6 = 21, not 22. The corrected next step also gives 27.",
+      "hint": "Test each transition against the rule."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-T-011",
@@ -1217,33 +2173,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "In the pathway challenge, what is missing from: start at 33; ___; output 40?",
-    "audio_prompt": "In the pathway challenge, what is missing from: start at 33; ___; output 40?",
+    "skill": "explain_parity_pattern",
+    "question": "Start at 14 and repeatedly add 8. What pattern do the results follow?",
+    "audio_prompt": "Start at 14 and repeatedly add 8. What pattern do the results follow?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-011",
-      "alt_text": "In the pathway challenge: An algorithm with one missing operation between input and output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Subtract 7",
-        "is_correct": false
-      },
-      {
-        "text": "Add 7",
+        "text": "They stay even.",
         "is_correct": true
       },
       {
-        "text": "Multiply by 7",
+        "text": "They alternate between odd and even.",
+        "is_correct": false
+      },
+      {
+        "text": "They all end in zero.",
+        "is_correct": false
+      },
+      {
+        "text": "They eventually decrease.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Adding 7 changes 33 to 40.",
-      "hint": "Compare input and output."
-    }
+      "summary": "Adding an even number preserves whether a number is odd or even. Starting at 14, all results stay even.",
+      "hint": "Think about adding complete pairs."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-T-012",
@@ -1251,33 +2210,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "In the pathway challenge, why can changing the order of “add 7” and “double” change the output?",
-    "audio_prompt": "In the pathway challenge, why can changing the order of “add 7” and “double” change the output?",
+    "skill": "find_table_rule",
+    "question": "The table maps 2 to 12, 4 to 24, and 7 to 42. Which multiplication rule fits every row?",
+    "audio_prompt": "The table maps 2 to 12, 4 to 24, and 7 to 42. Which multiplication rule fits every row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-012",
-      "alt_text": "In the pathway challenge: Two operation orders shown for comparison."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07-reviewed.svg#ac9m3n07-t-012",
+      "alt_text": "Input-output pairs: 2 to 12, 4 to 24, 7 to 42."
     },
     "answers": [
       {
-        "text": "Numbers forget their value",
+        "text": "Add 6.",
         "is_correct": false
       },
       {
-        "text": "Order never changes an answer",
+        "text": "Multiply by 7.",
         "is_correct": false
       },
       {
-        "text": "The operations act on different intermediate values",
+        "text": "Subtract 6.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply by 6.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Adding then doubling is not generally the same as doubling then adding.",
-      "hint": "Try both orders with the starting value."
-    }
+      "summary": "2 × 6 = 12, 4 × 6 = 24, and 7 × 6 = 42. The same rule fits all rows.",
+      "hint": "A rule must work for every input-output pair."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N07-T-013",
@@ -1285,33 +2249,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "In the pathway challenge, which sequence correctly checks 40 − 7 = 33?",
-    "audio_prompt": "In the pathway challenge, which sequence correctly checks 40 − 7 = 33?",
+    "skill": "reverse_two_steps",
+    "question": "A machine doubles its input, then adds 6. The output is 28. What was the input?",
+    "audio_prompt": "A machine doubles its input, then adds 6. The output is 28. What was the input?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-013",
-      "alt_text": "In the pathway challenge: A subtraction-check algorithm with input, step and output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Start at 40, subtract 7, compare with 33",
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "11",
         "is_correct": true
       },
       {
-        "text": "Start at 33, subtract 40",
-        "is_correct": false
-      },
-      {
-        "text": "Guess, then stop",
+        "text": "10",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The check follows the subtraction and compares the output with the expected value.",
-      "hint": "Use a clear input, operation and output."
-    }
+      "summary": "Undo the last step first: 28 − 6 = 22. Then halve to get 11.",
+      "hint": "Work backwards in reverse order."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-T-014",
@@ -1319,33 +2286,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "In the pathway challenge, an algorithm says 33 + 7 = 41. What should be debugged?",
-    "audio_prompt": "In the pathway challenge, an algorithm says 33 + 7 = 41. What should be debugged?",
+    "skill": "design_stop_rule",
+    "question": "A counter starts at 0 and adds 3 each time. It must stop exactly when it reaches 36. Which check should follow every addition?",
+    "audio_prompt": "A counter starts at 0 and adds 3 each time. It must stop exactly when it reaches 36. Which check should follow every addition?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-014",
-      "alt_text": "In the pathway challenge: An algorithm with an incorrect final output."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The starting number",
+        "text": "Stop before doing any addition.",
         "is_correct": false
       },
       {
-        "text": "The recorded output",
+        "text": "If the new total equals 36, stop; otherwise repeat.",
         "is_correct": true
       },
       {
-        "text": "The word add",
+        "text": "Always repeat, even after reaching the target.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop after the first addition.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "33+7=40, so the final output is incorrect.",
-      "hint": "Recalculate each step and find the first mismatch."
-    }
+      "summary": "36 is reached after 12 additions of 3. Checking each new total stops the process at the target.",
+      "hint": "A repeating algorithm needs an explicit stopping decision."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-T-015",
@@ -1353,33 +2323,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "In the pathway challenge, which algorithm creates a pattern adding 7 each time?",
-    "audio_prompt": "In the pathway challenge, which algorithm creates a pattern adding 7 each time?",
+    "skill": "recheck_branch",
+    "question": "Rule: if even, halve; if odd, add 1. Start at 16 and apply the rule twice, checking the new number each time. What is the final number?",
+    "audio_prompt": "Rule: if even, halve; if odd, add 1. Start at 16 and apply the rule twice, checking the new number each time. What is the final number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-015",
-      "alt_text": "In the pathway challenge: Three pattern terms produced by repeatedly adding 7."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Start at 33; repeatedly subtract 7",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 33; change the rule each time",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 33; repeatedly add 7",
+        "text": "4",
         "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Repeating the same add-7 step creates a constant pattern.",
-      "hint": "The repeated instruction must stay the same."
-    }
+      "summary": "16 becomes 8. Check 8 again: it becomes 4. The decision uses the current value.",
+      "hint": "Do not keep using the branch chosen for the starting number."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N07-T-016",
@@ -1387,32 +2360,35 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N07",
     "bank": "test",
-    "skill": "algorithm",
-    "question": "In the pathway challenge, a robot must move forward 7 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
-    "audio_prompt": "In the pathway challenge, a robot must move forward 7 squares, turn right, then move 2 squares. Why must the turn stay in the middle?",
+    "skill": "complete_creation",
+    "question": "Complete these instructions to generate 12, 20, 28, 36: “Write 12. Then ___, write the result and repeat.”",
+    "audio_prompt": "Complete these instructions to generate 12, 20, 28, 36: “Write 12. Then ___, write the result and repeat.”",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n07.svg#ac9m3n07-t-016",
-      "alt_text": "In the pathway challenge: A three-step robot movement algorithm."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Moving it changes the pathway",
+        "text": "add 12 to the current number",
+        "is_correct": false
+      },
+      {
+        "text": "multiply the current number by 8",
+        "is_correct": false
+      },
+      {
+        "text": "subtract 8 from the current number",
+        "is_correct": false
+      },
+      {
+        "text": "add 8 to the current number",
         "is_correct": true
-      },
-      {
-        "text": "The robot changes colour",
-        "is_correct": false
-      },
-      {
-        "text": "Turns have no effect",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Algorithms depend on ordered steps; changing the turn changes the route.",
-      "hint": "Trace both possible orders on a grid."
-    }
+      "summary": "The gap between successive numbers is always 8. The instruction must update the current number by that amount.",
+      "hint": "Test the proposed step on every pair of neighbours."
+    },
+    "difficulty": 2
   }
 ]
