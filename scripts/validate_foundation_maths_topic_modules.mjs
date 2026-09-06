@@ -2,6 +2,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
+import { hasCompleteStaticWorksheet } from "./lib/static-worksheet-coverage.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const errors = [];
@@ -53,7 +54,8 @@ for (const code of codes) {
   }
   const worksheetRoute = `quiz/grade-k/math/${code.toLowerCase()}/worksheet/index.html`;
   assert(fs.existsSync(path.join(root, worksheetRoute)), `${code}: worksheet route missing`);
-  assert(read(worksheetRoute).includes("foundation-maths-topic-module-data-v2.js"), `${code}: worksheet overlay not loaded`);
+  const worksheetHtml = read(worksheetRoute);
+  assert(worksheetHtml.includes("foundation-maths-topic-module-data-v2.js") || hasCompleteStaticWorksheet(worksheetHtml, code), `${code}: needs the worksheet overlay or complete static questions, answer guide, tiers and print controls`);
   for (const link of [spec.resourceLinks.worksheet, spec.resourceLinks.practice, spec.resourceLinks.test]) {
     const route = link.replace(/^\//, "").replace(/\/$/, "/index.html");
     assert(fs.existsSync(path.join(root, route)), `${code}: broken internal link ${link}`);

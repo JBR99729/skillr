@@ -2,6 +2,18 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { hasStaticCurriculumCoverage } from "../lib/static-curriculum-coverage.mjs";
 import { year2EnglishBankProfile, editingChoiceSpeech, needsEditingChoiceSpeech } from "../lib/year2-english-bank.mjs";
+import fs from "node:fs";
+import { hasCompleteStaticWorksheet } from "../lib/static-worksheet-coverage.mjs";
+
+test("static worksheets require real numbered tasks, matching answers, tiers and student-only printing", () => {
+  const page = fs.readFileSync(new URL("../../quiz/grade-k/math/ac9mfn03/worksheet/index.html", import.meta.url), "utf8");
+  assert.equal(hasCompleteStaticWorksheet(page, "AC9MFN03"), true);
+  assert.equal(hasCompleteStaticWorksheet(page, "AC9MFN04"), false);
+  assert.equal(hasCompleteStaticWorksheet(page.replace(/<li value="9">[\s\S]*?<\/li>/, ""), "AC9MFN03"), false);
+  assert.equal(hasCompleteStaticWorksheet(page.replace('class="task"', 'class="empty"'), "AC9MFN03"), false);
+  assert.equal(hasCompleteStaticWorksheet(page.replace("classList.remove('print-answers')", "classList.add('print-answers')"), "AC9MFN03"), false);
+  assert.equal(hasCompleteStaticWorksheet(`<!--${page.replace(/<!--[\s\S]*?-->/g, "")}-->`, "AC9MFN03"), false);
+});
 
 const article = '<article><h3>E1: Choose language for the listener</h3><p>Compare a request to a friend with a request to a teacher.</p></article>';
 const section = (body) => `<details><summary><strong>Australian Curriculum elaborations</strong></summary>${body}</details>`;
