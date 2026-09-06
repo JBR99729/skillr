@@ -4,28 +4,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-001",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "missing addend",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, which subtraction fact checks 24 + 17 = 41?",
-    "audioPrompt": "At the bead table, which subtraction fact checks 24 + 17 = 41?",
-    "visual": "At the bead table: An addition fact with parts 24 and 17 and whole 41.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: An addition fact with parts 24 and 17 and whole 41.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-001\"></use></svg>",
+    "question": "Find the missing number: 38 + □ = 65.",
+    "audioPrompt": "Find the missing number: 38 + □ = 65.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-001",
-      "alt_text": "At the bead table: An addition fact with parts 24 and 17 and whole 41."
+      "type": "none"
     },
     "answers": [
-      "41 − 17 = 24",
-      "41 − 24 = 18",
-      "24 − 17 = 41"
+      "27",
+      "103",
+      "37",
+      "17"
     ],
+    "difficulty": 1,
     "correct": 0,
-    "explanation": "Subtraction undoes the addition: 41−17=24.\nHint: Start subtraction with the whole, 41.",
+    "explanation": "Subtract the known part: 65 − 38 = 27. Check: 38 + 27 = 65.\nHint: Identify the whole and the known part.",
     "structuredExplanation": {
-      "summary": "Subtraction undoes the addition: 41−17=24.",
-      "hint": "Start subtraction with the whole, 41."
+      "summary": "Subtract the known part: 65 − 38 = 27. Check: 38 + 27 = 65.",
+      "hint": "Identify the whole and the known part."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-002",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "unknown minuend",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, which addition fact checks 41 − 24 = 17?",
-    "audioPrompt": "At the bead table, which addition fact checks 41 − 24 = 17?",
-    "visual": "At the bead table: A subtraction fact ready to check with inverse addition.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: A subtraction fact ready to check with inverse addition.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-002\"></use></svg>",
+    "question": "□ − 29 = 46. What was the starting number?",
+    "audioPrompt": "□ − 29 = 46. What was the starting number?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-002",
-      "alt_text": "At the bead table: A subtraction fact ready to check with inverse addition."
+      "type": "none"
     },
     "answers": [
-      "41 + 24 = 17",
-      "17 + 24 = 41",
-      "17 − 24 = 41"
+      "17",
+      "85",
+      "65",
+      "75"
     ],
-    "correct": 1,
-    "explanation": "Adding the removed part back reconstructs 41.\nHint: Use difference + removed part = starting amount.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Put back the amount removed: 46 + 29 = 75.\nHint: Undo subtraction by adding.",
     "structuredExplanation": {
-      "summary": "Adding the removed part back reconstructs 41.",
-      "hint": "Use difference + removed part = starting amount."
+      "summary": "Put back the amount removed: 46 + 29 = 75.",
+      "hint": "Undo subtraction by adding."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-003",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "unknown subtrahend",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, find the missing number: 24 + ___ = 41.",
-    "audioPrompt": "At the bead table, find the missing number: 24 + ___ = 41.",
-    "visual": "At the bead table: A part-part-whole equation with one missing addend.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: A part-part-whole equation with one missing addend.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-003\"></use></svg>",
+    "question": "71 − □ = 43. How much was taken away?",
+    "audioPrompt": "71 − □ = 43. How much was taken away?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-003",
-      "alt_text": "At the bead table: A part-part-whole equation with one missing addend."
+      "type": "none"
     },
     "answers": [
-      "24",
-      "41",
-      "17"
+      "114",
+      "43",
+      "28",
+      "38"
     ],
+    "difficulty": 2,
     "correct": 2,
-    "explanation": "41−24=17.\nHint: Use subtraction to find the missing part.",
+    "explanation": "The whole is 71 and the remaining part is 43; 71 − 43 = 28.\nHint: The missing number is the removed part, not the whole.",
     "structuredExplanation": {
-      "summary": "41−24=17.",
-      "hint": "Use subtraction to find the missing part."
+      "summary": "The whole is 71 and the remaining part is 43; 71 − 43 = 28.",
+      "hint": "The missing number is the removed part, not the whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-004",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "select inverse",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, find the missing number: 41 − ___ = 24.",
-    "audioPrompt": "At the bead table, find the missing number: 41 − ___ = 24.",
-    "visual": "At the bead table: A subtraction equation with the removed part missing.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: A subtraction equation with the removed part missing.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-004\"></use></svg>",
+    "question": "36 + □ = 85. Which calculation finds the missing part?",
+    "audioPrompt": "36 + □ = 85. Which calculation finds the missing part?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-004",
-      "alt_text": "At the bead table: A subtraction equation with the removed part missing."
+      "type": "none"
     },
     "answers": [
-      "17",
-      "24",
-      "18"
+      "85 + 36",
+      "85 − 36",
+      "36 − 85",
+      "85 − 85"
     ],
-    "correct": 0,
-    "explanation": "The missing amount is 17 because 24+17=41.\nHint: Think of the related addition fact.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "Subtract a known part from the whole to find the other part. The missing part is 49.\nHint: Addition and subtraction undo each other.",
     "structuredExplanation": {
-      "summary": "The missing amount is 17 because 24+17=41.",
-      "hint": "Think of the related addition fact."
+      "summary": "Subtract a known part from the whole to find the other part. The missing part is 49.",
+      "hint": "Addition and subtraction undo each other."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +120,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-005",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "part whole diagram",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, which fact family uses exactly 24, 17 and 41?",
-    "audioPrompt": "At the bead table, which fact family uses exactly 24, 17 and 41?",
-    "visual": "At the bead table: Three values arranged as a fact family.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: Three values arranged as a fact family.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-005\"></use></svg>",
+    "question": "What number belongs in the empty part of this diagram?",
+    "audioPrompt": "What number belongs in the empty part of this diagram?",
+    "visual": "Whole 63; one part 26; other part unknown. Diagram not to scale.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Whole 63; one part 26; other part unknown. Diagram not to scale.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01-reviewed.svg#ac9m3a01-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-005",
-      "alt_text": "At the bead table: Three values arranged as a fact family."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01-reviewed.svg#ac9m3a01-p-005",
+      "alt_text": "Whole 63; one part 26; other part unknown. Diagram not to scale."
     },
     "answers": [
-      "24+41=17; 17−24=41",
-      "24+17=41; 41−24=17",
-      "24−17=41; 41+17=24"
+      "37",
+      "89",
+      "26",
+      "47"
     ],
-    "correct": 1,
-    "explanation": "A fact family keeps the same two parts and whole.\nHint: The largest number is the whole.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "The two parts make 63. Subtract the known part: 63 − 26 = 37.\nHint: Use whole minus known part.",
     "structuredExplanation": {
-      "summary": "A fact family keeps the same two parts and whole.",
-      "hint": "The largest number is the whole."
+      "summary": "The two parts make 63. Subtract the known part: 63 − 26 = 37.",
+      "hint": "Use whole minus known part."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +151,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-006",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "complete fact family",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, mina had 41 cards and gave away 17. Which inverse fact checks that 24 remain?",
-    "audioPrompt": "At the bead table, mina had 41 cards and gave away 17. Which inverse fact checks that 24 remain?",
-    "visual": "At the bead table: A card-removal story shown as a subtraction equation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: A card-removal story shown as a subtraction equation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-006\"></use></svg>",
+    "question": "24 + 39 = 63; 39 + 24 = 63; 63 − 24 = 39. Which related fact is missing?",
+    "audioPrompt": "24 + 39 = 63; 39 + 24 = 63; 63 − 24 = 39. Which related fact is missing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-006",
-      "alt_text": "At the bead table: A card-removal story shown as a subtraction equation."
+      "type": "none"
     },
     "answers": [
-      "41 + 17 = 24",
-      "24 − 17 = 41",
-      "24 + 17 = 41"
+      "24 − 39 = 63",
+      "63 + 39 = 24",
+      "63 − 24 = 39",
+      "63 − 39 = 24"
     ],
-    "correct": 2,
-    "explanation": "Remaining cards plus cards given away must equal the starting total.\nHint: Rebuild the original amount.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The missing subtraction removes the other part, 39, from the same whole 63.\nHint: Use the same whole and both parts.",
     "structuredExplanation": {
-      "summary": "Remaining cards plus cards given away must equal the starting total.",
-      "hint": "Rebuild the original amount."
+      "summary": "The missing subtraction removes the other part, 39, from the same whole 63.",
+      "hint": "Use the same whole and both parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +180,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-007",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "balance addition",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, a student writes 24+17=41, then checks with 41−17=25. What is wrong?",
-    "audioPrompt": "At the bead table, a student writes 24+17=41, then checks with 41−17=25. What is wrong?",
-    "visual": "At the bead table: An inverse check with an incorrect result.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: An inverse check with an incorrect result.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-007\"></use></svg>",
+    "question": "28 + 17 = 8 + □. Find □.",
+    "audioPrompt": "28 + 17 = 8 + □. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-007",
-      "alt_text": "At the bead table: An inverse check with an incorrect result."
+      "type": "none"
     },
     "answers": [
-      "The check should equal 24",
-      "The addition should start with 41",
-      "Inverse operations cannot check answers"
+      "53",
+      "45",
+      "37",
+      "27"
     ],
-    "correct": 0,
-    "explanation": "The inverse check must return the original addend 24.\nHint: Compare the check output with the number that was added first.",
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "Both sides must equal 45. So □ = 45 − 8 = 37.\nHint: Work out the complete side first.",
     "structuredExplanation": {
-      "summary": "The inverse check must return the original addend 24.",
-      "hint": "Compare the check output with the number that was added first."
+      "summary": "Both sides must equal 45. So □ = 45 − 8 = 37.",
+      "hint": "Work out the complete side first."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +209,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-008",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "balance subtraction",
     "printable": true,
     "type": "single",
-    "question": "At the bead table, why are addition and subtraction called inverse operations?",
-    "audioPrompt": "At the bead table, why are addition and subtraction called inverse operations?",
-    "visual": "At the bead table: A number path moving forward by 17 and back by 17.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the bead table: A number path moving forward by 17 and back by 17.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-008\"></use></svg>",
+    "question": "85 − 36 = □ − 19. Find □.",
+    "audioPrompt": "85 − 36 = □ − 19. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-008",
-      "alt_text": "At the bead table: A number path moving forward by 17 and back by 17."
+      "type": "none"
     },
     "answers": [
-      "They always give the same answer",
-      "They undo each other",
-      "They only work with one-digit numbers"
+      "30",
+      "68",
+      "49",
+      "78"
     ],
+    "difficulty": 3,
     "correct": 1,
-    "explanation": "Adding a part and then subtracting that same part returns to the start.\nHint: Think of moving forward and back by the same amount.",
+    "explanation": "The left side is 49. The missing starting number is 49 + 19 = 68.\nHint: Undo the subtraction on the incomplete side.",
     "structuredExplanation": {
-      "summary": "Adding a part and then subtracting that same part returns to the start.",
-      "hint": "Think of moving forward and back by the same amount."
+      "summary": "The left side is 49. The missing starting number is 49 + 19 = 68.",
+      "hint": "Undo the subtraction on the incomplete side."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +238,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-009",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "check with inverse",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, which subtraction fact checks 37 + 24 = 61?",
-    "audioPrompt": "On the number steps, which subtraction fact checks 37 + 24 = 61?",
-    "visual": "On the number steps: An addition fact with parts 37 and 24 and whole 61.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: An addition fact with parts 37 and 24 and whole 61.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-009\"></use></svg>",
+    "question": "A student says 69 − 43 = 26. Which addition checks this answer?",
+    "audioPrompt": "A student says 69 − 43 = 26. Which addition checks this answer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-009",
-      "alt_text": "On the number steps: An addition fact with parts 37 and 24 and whole 61."
+      "type": "none"
     },
     "answers": [
-      "61 − 37 = 25",
-      "37 − 24 = 61",
-      "61 − 24 = 37"
+      "26 + 43 = 69",
+      "69 + 43 = 26",
+      "26 + 69 = 43",
+      "43 + 43 = 69"
     ],
-    "correct": 2,
-    "explanation": "Subtraction undoes the addition: 61−24=37.\nHint: Start subtraction with the whole, 61.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "Adding the amount removed to the amount remaining must rebuild the starting whole.\nHint: Combine the two parts again.",
     "structuredExplanation": {
-      "summary": "Subtraction undoes the addition: 61−24=37.",
-      "hint": "Start subtraction with the whole, 61."
+      "summary": "Adding the amount removed to the amount remaining must rebuild the starting whole.",
+      "hint": "Combine the two parts again."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +267,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-010",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "diagnose missing part",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, which addition fact checks 61 − 37 = 24?",
-    "audioPrompt": "On the number steps, which addition fact checks 61 − 37 = 24?",
-    "visual": "On the number steps: A subtraction fact ready to check with inverse addition.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: A subtraction fact ready to check with inverse addition.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-010\"></use></svg>",
+    "question": "To solve 57 + □ = 75, a student calculates 57 + 75. What should they do?",
+    "audioPrompt": "To solve 57 + □ = 75, a student calculates 57 + 75. What should they do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-010",
-      "alt_text": "On the number steps: A subtraction fact ready to check with inverse addition."
+      "type": "none"
     },
     "answers": [
-      "24 + 37 = 61",
-      "61 + 37 = 24",
-      "24 − 37 = 61"
+      "Add another 57.",
+      "Subtract 75 from 57.",
+      "Use the whole as the missing part.",
+      "Subtract 57 from 75."
     ],
-    "correct": 0,
-    "explanation": "Adding the removed part back reconstructs 61.\nHint: Use difference + removed part = starting amount.",
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "75 is already the total. Its missing part is 75 − 57 = 18.\nHint: Decide which number is the whole.",
     "structuredExplanation": {
-      "summary": "Adding the removed part back reconstructs 61.",
-      "hint": "Use difference + removed part = starting amount."
+      "summary": "75 is already the total. Its missing part is 75 − 57 = 18.",
+      "hint": "Decide which number is the whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +296,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-011",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "explain inverse",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, find the missing number: 37 + ___ = 61.",
-    "audioPrompt": "On the number steps, find the missing number: 37 + ___ = 61.",
-    "visual": "On the number steps: A part-part-whole equation with one missing addend.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: A part-part-whole equation with one missing addend.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-011\"></use></svg>",
+    "question": "A number has 20 added and then 20 subtracted. What happens?",
+    "audioPrompt": "A number has 20 added and then 20 subtracted. What happens?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-011",
-      "alt_text": "On the number steps: A part-part-whole equation with one missing addend."
+      "type": "none"
     },
     "answers": [
-      "37",
-      "24",
-      "61"
+      "It becomes 0.",
+      "It increases by 40.",
+      "It returns to the starting number.",
+      "It decreases by 20."
     ],
-    "correct": 1,
-    "explanation": "61−37=24.\nHint: Use subtraction to find the missing part.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "The second operation removes exactly what the first operation added.\nHint: Think about undoing a change.",
     "structuredExplanation": {
-      "summary": "61−37=24.",
-      "hint": "Use subtraction to find the missing part."
+      "summary": "The second operation removes exactly what the first operation added.",
+      "hint": "Think about undoing a change."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +325,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-012",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "nonstandard partition",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, find the missing number: 61 − ___ = 37.",
-    "audioPrompt": "On the number steps, find the missing number: 61 − ___ = 37.",
-    "visual": "On the number steps: A subtraction equation with the removed part missing.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: A subtraction equation with the removed part missing.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-012\"></use></svg>",
+    "question": "86 is split into 50 and another part. What is the other part?",
+    "audioPrompt": "86 is split into 50 and another part. What is the other part?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-012",
-      "alt_text": "On the number steps: A subtraction equation with the removed part missing."
+      "type": "none"
     },
     "answers": [
-      "37",
-      "25",
-      "24"
+      "46",
+      "36",
+      "136",
+      "26"
     ],
-    "correct": 2,
-    "explanation": "The missing amount is 24 because 37+24=61.\nHint: Think of the related addition fact.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "86 − 50 = 36. A partition need not use only hundreds, tens and ones separately.\nHint: Both parts together must equal the whole.",
     "structuredExplanation": {
-      "summary": "The missing amount is 24 because 37+24=61.",
-      "hint": "Think of the related addition fact."
+      "summary": "86 − 50 = 36. A partition need not use only hundreds, tens and ones separately.",
+      "hint": "Both parts together must equal the whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +354,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-013",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "reversed equality",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, which fact family uses exactly 37, 24 and 61?",
-    "audioPrompt": "On the number steps, which fact family uses exactly 37, 24 and 61?",
-    "visual": "On the number steps: Three values arranged as a fact family.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: Three values arranged as a fact family.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-013\"></use></svg>",
+    "question": "68 = □ + 45. What goes in □?",
+    "audioPrompt": "68 = □ + 45. What goes in □?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-013",
-      "alt_text": "On the number steps: Three values arranged as a fact family."
+      "type": "none"
     },
     "answers": [
-      "37+24=61; 61−37=24",
-      "37+61=24; 24−37=61",
-      "37−24=61; 61+24=37"
+      "23",
+      "113",
+      "33",
+      "13"
     ],
+    "difficulty": 2,
     "correct": 0,
-    "explanation": "A fact family keeps the same two parts and whole.\nHint: The largest number is the whole.",
+    "explanation": "An equals sign means both sides have the same value. 68 − 45 = 23.\nHint: The whole can be on either side of the equals sign.",
     "structuredExplanation": {
-      "summary": "A fact family keeps the same two parts and whole.",
-      "hint": "The largest number is the whole."
+      "summary": "An equals sign means both sides have the same value. 68 − 45 = 23.",
+      "hint": "The whole can be on either side of the equals sign."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +383,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-014",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "context unknown",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, mina had 61 cards and gave away 24. Which inverse fact checks that 37 remain?",
-    "audioPrompt": "On the number steps, mina had 61 cards and gave away 24. Which inverse fact checks that 37 remain?",
-    "visual": "On the number steps: A card-removal story shown as a subtraction equation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: A card-removal story shown as a subtraction equation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-014\"></use></svg>",
+    "question": "A box held some cards. After 26 more were added, it held 74. How many cards were there at first?",
+    "audioPrompt": "A box held some cards. After 26 more were added, it held 74. How many cards were there at first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-014",
-      "alt_text": "On the number steps: A card-removal story shown as a subtraction equation."
+      "type": "none"
     },
     "answers": [
-      "61 + 24 = 37",
-      "37 + 24 = 61",
-      "37 − 24 = 61"
+      "100",
+      "58",
+      "26",
+      "48"
     ],
-    "correct": 1,
-    "explanation": "Remaining cards plus cards given away must equal the starting total.\nHint: Rebuild the original amount.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The known whole is 74 and the known part is 26. The missing part is 74 − 26 = 48.\nHint: Represent the whole and its parts before calculating.",
     "structuredExplanation": {
-      "summary": "Remaining cards plus cards given away must equal the starting total.",
-      "hint": "Rebuild the original amount."
+      "summary": "The known whole is 74 and the known part is 26. The missing part is 74 − 26 = 48.",
+      "hint": "Represent the whole and its parts before calculating."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +412,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-015",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "zero and equality",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, a student writes 37+24=61, then checks with 61−24=38. What is wrong?",
-    "audioPrompt": "On the number steps, a student writes 37+24=61, then checks with 61−24=38. What is wrong?",
-    "visual": "On the number steps: An inverse check with an incorrect result.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: An inverse check with an incorrect result.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-015\"></use></svg>",
+    "question": "□ + 18 = 18. What is □?",
+    "audioPrompt": "□ + 18 = 18. What is □?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-015",
-      "alt_text": "On the number steps: An inverse check with an incorrect result."
+      "type": "none"
     },
     "answers": [
-      "The addition should start with 61",
-      "Inverse operations cannot check answers",
-      "The check should equal 37"
+      "18",
+      "1",
+      "0",
+      "36"
     ],
+    "difficulty": 1,
     "correct": 2,
-    "explanation": "The inverse check must return the original addend 37.\nHint: Compare the check output with the number that was added first.",
+    "explanation": "Adding zero leaves a number unchanged.\nHint: Check your number in the original sentence.",
     "structuredExplanation": {
-      "summary": "The inverse check must return the original addend 37.",
-      "hint": "Compare the check output with the number that was added first."
+      "summary": "Adding zero leaves a number unchanged.",
+      "hint": "Check your number in the original sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +441,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-016",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "same unknown twice",
     "printable": true,
     "type": "single",
-    "question": "On the number steps, why are addition and subtraction called inverse operations?",
-    "audioPrompt": "On the number steps, why are addition and subtraction called inverse operations?",
-    "visual": "On the number steps: A number path moving forward by 24 and back by 24.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the number steps: A number path moving forward by 24 and back by 24.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-016\"></use></svg>",
+    "question": "The two boxes stand for the same number: □ + □ = 32. What is each number?",
+    "audioPrompt": "The two boxes stand for the same number: □ + □ = 32. What is each number?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-016",
-      "alt_text": "On the number steps: A number path moving forward by 24 and back by 24."
+      "type": "none"
     },
     "answers": [
-      "They undo each other",
-      "They always give the same answer",
-      "They only work with one-digit numbers"
+      "32",
+      "16",
+      "15",
+      "17"
     ],
-    "correct": 0,
-    "explanation": "Adding a part and then subtracting that same part returns to the start.\nHint: Think of moving forward and back by the same amount.",
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "The total is split into two equal parts: 16 + 16 = 32.\nHint: Both boxes must contain the same value.",
     "structuredExplanation": {
-      "summary": "Adding a part and then subtracting that same part returns to the start.",
-      "hint": "Think of moving forward and back by the same amount."
+      "summary": "The total is split into two equal parts: 16 + 16 = 32.",
+      "hint": "Both boxes must contain the same value."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +470,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-017",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "missing addend",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, which subtraction fact checks 50 + 31 = 81?",
-    "audioPrompt": "With the shell cards, which subtraction fact checks 50 + 31 = 81?",
-    "visual": "With the shell cards: An addition fact with parts 50 and 31 and whole 81.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: An addition fact with parts 50 and 31 and whole 81.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-017\"></use></svg>",
+    "question": "Find the missing number: 146 + □ = 204.",
+    "audioPrompt": "Find the missing number: 146 + □ = 204.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-017",
-      "alt_text": "With the shell cards: An addition fact with parts 50 and 31 and whole 81."
+      "type": "none"
     },
     "answers": [
-      "81 − 50 = 32",
-      "81 − 31 = 50",
-      "50 − 31 = 81"
+      "58",
+      "350",
+      "68",
+      "48"
     ],
-    "correct": 1,
-    "explanation": "Subtraction undoes the addition: 81−31=50.\nHint: Start subtraction with the whole, 81.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "Subtract the known part: 204 − 146 = 58. Check: 146 + 58 = 204.\nHint: Identify the whole and the known part.",
     "structuredExplanation": {
-      "summary": "Subtraction undoes the addition: 81−31=50.",
-      "hint": "Start subtraction with the whole, 81."
+      "summary": "Subtract the known part: 204 − 146 = 58. Check: 146 + 58 = 204.",
+      "hint": "Identify the whole and the known part."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +499,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-018",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "unknown minuend",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, which addition fact checks 81 − 50 = 31?",
-    "audioPrompt": "With the shell cards, which addition fact checks 81 − 50 = 31?",
-    "visual": "With the shell cards: A subtraction fact ready to check with inverse addition.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: A subtraction fact ready to check with inverse addition.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-018\"></use></svg>",
+    "question": "□ − 138 = 74. What was the starting number?",
+    "audioPrompt": "□ − 138 = 74. What was the starting number?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-018",
-      "alt_text": "With the shell cards: A subtraction fact ready to check with inverse addition."
+      "type": "none"
     },
     "answers": [
-      "81 + 50 = 31",
-      "31 − 50 = 81",
-      "31 + 50 = 81"
+      "64",
+      "222",
+      "202",
+      "212"
     ],
-    "correct": 2,
-    "explanation": "Adding the removed part back reconstructs 81.\nHint: Use difference + removed part = starting amount.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Put back the amount removed: 74 + 138 = 212.\nHint: Undo subtraction by adding.",
     "structuredExplanation": {
-      "summary": "Adding the removed part back reconstructs 81.",
-      "hint": "Use difference + removed part = starting amount."
+      "summary": "Put back the amount removed: 74 + 138 = 212.",
+      "hint": "Undo subtraction by adding."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +528,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-019",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "unknown subtrahend",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, find the missing number: 50 + ___ = 81.",
-    "audioPrompt": "With the shell cards, find the missing number: 50 + ___ = 81.",
-    "visual": "With the shell cards: A part-part-whole equation with one missing addend.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: A part-part-whole equation with one missing addend.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-019\"></use></svg>",
+    "question": "213 − □ = 127. How much was taken away?",
+    "audioPrompt": "213 − □ = 127. How much was taken away?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-019",
-      "alt_text": "With the shell cards: A part-part-whole equation with one missing addend."
+      "type": "none"
     },
     "answers": [
-      "31",
-      "50",
-      "81"
+      "340",
+      "127",
+      "86",
+      "96"
     ],
-    "correct": 0,
-    "explanation": "81−50=31.\nHint: Use subtraction to find the missing part.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "The whole is 213 and the remaining part is 127; 213 − 127 = 86.\nHint: The missing number is the removed part, not the whole.",
     "structuredExplanation": {
-      "summary": "81−50=31.",
-      "hint": "Use subtraction to find the missing part."
+      "summary": "The whole is 213 and the remaining part is 127; 213 − 127 = 86.",
+      "hint": "The missing number is the removed part, not the whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +557,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-020",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "select inverse",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, find the missing number: 81 − ___ = 50.",
-    "audioPrompt": "With the shell cards, find the missing number: 81 − ___ = 50.",
-    "visual": "With the shell cards: A subtraction equation with the removed part missing.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: A subtraction equation with the removed part missing.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-020\"></use></svg>",
+    "question": "154 + □ = 221. Which calculation finds the missing part?",
+    "audioPrompt": "154 + □ = 221. Which calculation finds the missing part?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-020",
-      "alt_text": "With the shell cards: A subtraction equation with the removed part missing."
+      "type": "none"
     },
     "answers": [
-      "50",
-      "31",
-      "32"
+      "221 + 154",
+      "221 − 154",
+      "154 − 221",
+      "221 − 221"
     ],
+    "difficulty": 2,
     "correct": 1,
-    "explanation": "The missing amount is 31 because 50+31=81.\nHint: Think of the related addition fact.",
+    "explanation": "Subtract a known part from the whole to find the other part. The missing part is 67.\nHint: Addition and subtraction undo each other.",
     "structuredExplanation": {
-      "summary": "The missing amount is 31 because 50+31=81.",
-      "hint": "Think of the related addition fact."
+      "summary": "Subtract a known part from the whole to find the other part. The missing part is 67.",
+      "hint": "Addition and subtraction undo each other."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +586,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-021",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "part whole diagram",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, which fact family uses exactly 50, 31 and 81?",
-    "audioPrompt": "With the shell cards, which fact family uses exactly 50, 31 and 81?",
-    "visual": "With the shell cards: Three values arranged as a fact family.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: Three values arranged as a fact family.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-021\"></use></svg>",
+    "question": "What number belongs in the empty part of this diagram?",
+    "audioPrompt": "What number belongs in the empty part of this diagram?",
+    "visual": "Whole 213; one part 145; other part unknown. Diagram not to scale.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Whole 213; one part 145; other part unknown. Diagram not to scale.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01-reviewed.svg#ac9m3a01-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-021",
-      "alt_text": "With the shell cards: Three values arranged as a fact family."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01-reviewed.svg#ac9m3a01-p-021",
+      "alt_text": "Whole 213; one part 145; other part unknown. Diagram not to scale."
     },
     "answers": [
-      "50+81=31; 31−50=81",
-      "50−31=81; 81+31=50",
-      "50+31=81; 81−50=31"
+      "68",
+      "358",
+      "145",
+      "78"
     ],
-    "correct": 2,
-    "explanation": "A fact family keeps the same two parts and whole.\nHint: The largest number is the whole.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "The two parts make 213. Subtract the known part: 213 − 145 = 68.\nHint: Use whole minus known part.",
     "structuredExplanation": {
-      "summary": "A fact family keeps the same two parts and whole.",
-      "hint": "The largest number is the whole."
+      "summary": "The two parts make 213. Subtract the known part: 213 − 145 = 68.",
+      "hint": "Use whole minus known part."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +617,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-022",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "complete fact family",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, mina had 81 cards and gave away 31. Which inverse fact checks that 50 remain?",
-    "audioPrompt": "With the shell cards, mina had 81 cards and gave away 31. Which inverse fact checks that 50 remain?",
-    "visual": "With the shell cards: A card-removal story shown as a subtraction equation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: A card-removal story shown as a subtraction equation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-022\"></use></svg>",
+    "question": "136 + 85 = 221; 85 + 136 = 221; 221 − 136 = 85. Which related fact is missing?",
+    "audioPrompt": "136 + 85 = 221; 85 + 136 = 221; 221 − 136 = 85. Which related fact is missing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-022",
-      "alt_text": "With the shell cards: A card-removal story shown as a subtraction equation."
+      "type": "none"
     },
     "answers": [
-      "50 + 31 = 81",
-      "81 + 31 = 50",
-      "50 − 31 = 81"
+      "136 − 85 = 221",
+      "221 + 85 = 136",
+      "221 − 136 = 85",
+      "221 − 85 = 136"
     ],
-    "correct": 0,
-    "explanation": "Remaining cards plus cards given away must equal the starting total.\nHint: Rebuild the original amount.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The missing subtraction removes the other part, 85, from the same whole 221.\nHint: Use the same whole and both parts.",
     "structuredExplanation": {
-      "summary": "Remaining cards plus cards given away must equal the starting total.",
-      "hint": "Rebuild the original amount."
+      "summary": "The missing subtraction removes the other part, 85, from the same whole 221.",
+      "hint": "Use the same whole and both parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +646,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-023",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "balance addition",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, a student writes 50+31=81, then checks with 81−31=51. What is wrong?",
-    "audioPrompt": "With the shell cards, a student writes 50+31=81, then checks with 81−31=51. What is wrong?",
-    "visual": "With the shell cards: An inverse check with an incorrect result.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: An inverse check with an incorrect result.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-023\"></use></svg>",
+    "question": "136 + 49 = 26 + □. Find □.",
+    "audioPrompt": "136 + 49 = 26 + □. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-023",
-      "alt_text": "With the shell cards: An inverse check with an incorrect result."
+      "type": "none"
     },
     "answers": [
-      "The addition should start with 81",
-      "The check should equal 50",
-      "Inverse operations cannot check answers"
+      "211",
+      "185",
+      "159",
+      "149"
     ],
-    "correct": 1,
-    "explanation": "The inverse check must return the original addend 50.\nHint: Compare the check output with the number that was added first.",
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "Both sides must equal 185. So □ = 185 − 26 = 159.\nHint: Work out the complete side first.",
     "structuredExplanation": {
-      "summary": "The inverse check must return the original addend 50.",
-      "hint": "Compare the check output with the number that was added first."
+      "summary": "Both sides must equal 185. So □ = 185 − 26 = 159.",
+      "hint": "Work out the complete side first."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +675,726 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3a01-p-024",
     "curriculumCode": "AC9M3A01",
     "bank": "practice",
-    "skill": "inverse operations",
+    "skill": "balance subtraction",
     "printable": true,
     "type": "single",
-    "question": "With the shell cards, why are addition and subtraction called inverse operations?",
-    "audioPrompt": "With the shell cards, why are addition and subtraction called inverse operations?",
-    "visual": "With the shell cards: A number path moving forward by 31 and back by 31.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the shell cards: A number path moving forward by 31 and back by 31.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-024\"></use></svg>",
+    "question": "247 − 128 = □ − 36. Find □.",
+    "audioPrompt": "247 − 128 = □ − 36. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01.svg#ac9m3a01-p-024",
-      "alt_text": "With the shell cards: A number path moving forward by 31 and back by 31."
+      "type": "none"
     },
     "answers": [
-      "They always give the same answer",
-      "They only work with one-digit numbers",
-      "They undo each other"
+      "83",
+      "155",
+      "119",
+      "165"
     ],
-    "correct": 2,
-    "explanation": "Adding a part and then subtracting that same part returns to the start.\nHint: Think of moving forward and back by the same amount.",
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "The left side is 119. The missing starting number is 119 + 36 = 155.\nHint: Undo the subtraction on the incomplete side.",
     "structuredExplanation": {
-      "summary": "Adding a part and then subtracting that same part returns to the start.",
-      "hint": "Think of moving forward and back by the same amount."
+      "summary": "The left side is 119. The missing starting number is 119 + 36 = 155.",
+      "hint": "Undo the subtraction on the incomplete side."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-025",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "check with inverse",
+    "printable": true,
+    "type": "single",
+    "question": "A student says 225 − 158 = 67. Which addition checks this answer?",
+    "audioPrompt": "A student says 225 − 158 = 67. Which addition checks this answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "67 + 158 = 225",
+      "225 + 158 = 67",
+      "67 + 225 = 158",
+      "158 + 158 = 225"
+    ],
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "Adding the amount removed to the amount remaining must rebuild the starting whole.\nHint: Combine the two parts again.",
+    "structuredExplanation": {
+      "summary": "Adding the amount removed to the amount remaining must rebuild the starting whole.",
+      "hint": "Combine the two parts again."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-026",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "diagnose missing part",
+    "printable": true,
+    "type": "single",
+    "question": "To solve 184 + □ = 263, a student calculates 184 + 263. What should they do?",
+    "audioPrompt": "To solve 184 + □ = 263, a student calculates 184 + 263. What should they do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Add another 184.",
+      "Subtract 263 from 184.",
+      "Use the whole as the missing part.",
+      "Subtract 184 from 263."
+    ],
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "263 is already the total. Its missing part is 263 − 184 = 79.\nHint: Decide which number is the whole.",
+    "structuredExplanation": {
+      "summary": "263 is already the total. Its missing part is 263 − 184 = 79.",
+      "hint": "Decide which number is the whole."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-027",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "explain inverse",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement explains why 92 − 35 can be checked by 57 + 35?",
+    "audioPrompt": "Which statement explains why 92 − 35 can be checked by 57 + 35?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Subtraction can always be reversed by swapping its numbers.",
+      "Adding always gives a smaller result.",
+      "The remaining part and removed part rebuild 92.",
+      "The two parts must be equal."
+    ],
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "Subtraction separates a whole into parts; addition joins those parts again.\nHint: Think about undoing a change.",
+    "structuredExplanation": {
+      "summary": "Subtraction separates a whole into parts; addition joins those parts again.",
+      "hint": "Think about undoing a change."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-028",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "nonstandard partition",
+    "printable": true,
+    "type": "single",
+    "question": "243 is split into 170 and another part. What is the other part?",
+    "audioPrompt": "243 is split into 170 and another part. What is the other part?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "83",
+      "73",
+      "413",
+      "63"
+    ],
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "243 − 170 = 73. A partition need not use only hundreds, tens and ones separately.\nHint: Both parts together must equal the whole.",
+    "structuredExplanation": {
+      "summary": "243 − 170 = 73. A partition need not use only hundreds, tens and ones separately.",
+      "hint": "Both parts together must equal the whole."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-029",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "reversed equality",
+    "printable": true,
+    "type": "single",
+    "question": "204 = □ + 78. What goes in □?",
+    "audioPrompt": "204 = □ + 78. What goes in □?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "126",
+      "282",
+      "136",
+      "116"
+    ],
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "An equals sign means both sides have the same value. 204 − 78 = 126.\nHint: The whole can be on either side of the equals sign.",
+    "structuredExplanation": {
+      "summary": "An equals sign means both sides have the same value. 204 − 78 = 126.",
+      "hint": "The whole can be on either side of the equals sign."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-030",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "context unknown",
+    "printable": true,
+    "type": "single",
+    "question": "A library had 185 books on a display. Some were borrowed and 68 remained. How many were borrowed?",
+    "audioPrompt": "A library had 185 books on a display. Some were borrowed and 68 remained. How many were borrowed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "253",
+      "127",
+      "68",
+      "117"
+    ],
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The known whole is 185 and the known part is 68. The missing part is 185 − 68 = 117.\nHint: Represent the whole and its parts before calculating.",
+    "structuredExplanation": {
+      "summary": "The known whole is 185 and the known part is 68. The missing part is 185 − 68 = 117.",
+      "hint": "Represent the whole and its parts before calculating."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-031",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "zero and equality",
+    "printable": true,
+    "type": "single",
+    "question": "96 − □ = 96. What is □?",
+    "audioPrompt": "96 − □ = 96. What is □?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "96",
+      "1",
+      "0",
+      "192"
+    ],
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "Nothing has been removed, so the missing amount is zero.\nHint: Check your number in the original sentence.",
+    "structuredExplanation": {
+      "summary": "Nothing has been removed, so the missing amount is zero.",
+      "hint": "Check your number in the original sentence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-032",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "same unknown twice",
+    "printable": true,
+    "type": "single",
+    "question": "The two boxes stand for the same number: □ + □ = 48. What is each number?",
+    "audioPrompt": "The two boxes stand for the same number: □ + □ = 48. What is each number?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "48",
+      "24",
+      "23",
+      "25"
+    ],
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "The total is split into two equal parts: 24 + 24 = 48.\nHint: Both boxes must contain the same value.",
+    "structuredExplanation": {
+      "summary": "The total is split into two equal parts: 24 + 24 = 48.",
+      "hint": "Both boxes must contain the same value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-033",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "missing addend",
+    "printable": true,
+    "type": "single",
+    "question": "Find the missing number: 275 + □ = 411.",
+    "audioPrompt": "Find the missing number: 275 + □ = 411.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "136",
+      "686",
+      "146",
+      "126"
+    ],
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "Subtract the known part: 411 − 275 = 136. Check: 275 + 136 = 411.\nHint: Identify the whole and the known part.",
+    "structuredExplanation": {
+      "summary": "Subtract the known part: 411 − 275 = 136. Check: 275 + 136 = 411.",
+      "hint": "Identify the whole and the known part."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-034",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "unknown minuend",
+    "printable": true,
+    "type": "single",
+    "question": "□ − 256 = 189. What was the starting number?",
+    "audioPrompt": "□ − 256 = 189. What was the starting number?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "67",
+      "455",
+      "435",
+      "445"
+    ],
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Put back the amount removed: 189 + 256 = 445.\nHint: Undo subtraction by adding.",
+    "structuredExplanation": {
+      "summary": "Put back the amount removed: 189 + 256 = 445.",
+      "hint": "Undo subtraction by adding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-035",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "unknown subtrahend",
+    "printable": true,
+    "type": "single",
+    "question": "422 − □ = 264. How much was taken away?",
+    "audioPrompt": "422 − □ = 264. How much was taken away?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "686",
+      "264",
+      "158",
+      "168"
+    ],
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "The whole is 422 and the remaining part is 264; 422 − 264 = 158.\nHint: The missing number is the removed part, not the whole.",
+    "structuredExplanation": {
+      "summary": "The whole is 422 and the remaining part is 264; 422 − 264 = 158.",
+      "hint": "The missing number is the removed part, not the whole."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-036",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "select inverse",
+    "printable": true,
+    "type": "single",
+    "question": "218 + □ = 394. Which calculation finds the missing part?",
+    "audioPrompt": "218 + □ = 394. Which calculation finds the missing part?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "394 + 218",
+      "394 − 218",
+      "218 − 394",
+      "394 − 394"
+    ],
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "Subtract a known part from the whole to find the other part. The missing part is 176.\nHint: Addition and subtraction undo each other.",
+    "structuredExplanation": {
+      "summary": "Subtract a known part from the whole to find the other part. The missing part is 176.",
+      "hint": "Addition and subtraction undo each other."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-037",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "part whole diagram",
+    "printable": true,
+    "type": "single",
+    "question": "What number belongs in the empty part of this diagram?",
+    "audioPrompt": "What number belongs in the empty part of this diagram?",
+    "visual": "Whole 363; one part 237; other part unknown. Diagram not to scale.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Whole 363; one part 237; other part unknown. Diagram not to scale.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a01-reviewed.svg#ac9m3a01-p-037\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a01-reviewed.svg#ac9m3a01-p-037",
+      "alt_text": "Whole 363; one part 237; other part unknown. Diagram not to scale."
+    },
+    "answers": [
+      "126",
+      "600",
+      "237",
+      "136"
+    ],
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "The two parts make 363. Subtract the known part: 363 − 237 = 126.\nHint: Use whole minus known part.",
+    "structuredExplanation": {
+      "summary": "The two parts make 363. Subtract the known part: 363 − 237 = 126.",
+      "hint": "Use whole minus known part."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-038",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "complete fact family",
+    "printable": true,
+    "type": "single",
+    "question": "248 + 167 = 415; 167 + 248 = 415; 415 − 248 = 167. Which related fact is missing?",
+    "audioPrompt": "248 + 167 = 415; 167 + 248 = 415; 415 − 248 = 167. Which related fact is missing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "248 − 167 = 415",
+      "415 + 167 = 248",
+      "415 − 248 = 167",
+      "415 − 167 = 248"
+    ],
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The missing subtraction removes the other part, 167, from the same whole 415.\nHint: Use the same whole and both parts.",
+    "structuredExplanation": {
+      "summary": "The missing subtraction removes the other part, 167, from the same whole 415.",
+      "hint": "Use the same whole and both parts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-039",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "balance addition",
+    "printable": true,
+    "type": "single",
+    "question": "245 + 178 = 45 + □. Find □.",
+    "audioPrompt": "245 + 178 = 45 + □. Find □.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "468",
+      "423",
+      "378",
+      "368"
+    ],
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "Both sides must equal 423. So □ = 423 − 45 = 378.\nHint: Work out the complete side first.",
+    "structuredExplanation": {
+      "summary": "Both sides must equal 423. So □ = 423 − 45 = 378.",
+      "hint": "Work out the complete side first."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-040",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "balance subtraction",
+    "printable": true,
+    "type": "single",
+    "question": "526 − 187 = □ − 54. Find □.",
+    "audioPrompt": "526 − 187 = □ − 54. Find □.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "285",
+      "393",
+      "339",
+      "403"
+    ],
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "The left side is 339. The missing starting number is 339 + 54 = 393.\nHint: Undo the subtraction on the incomplete side.",
+    "structuredExplanation": {
+      "summary": "The left side is 339. The missing starting number is 339 + 54 = 393.",
+      "hint": "Undo the subtraction on the incomplete side."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-041",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "check with inverse",
+    "printable": true,
+    "type": "single",
+    "question": "A student says 453 − 269 = 184. Which addition checks this answer?",
+    "audioPrompt": "A student says 453 − 269 = 184. Which addition checks this answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "184 + 269 = 453",
+      "453 + 269 = 184",
+      "184 + 453 = 269",
+      "269 + 269 = 453"
+    ],
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "Adding the amount removed to the amount remaining must rebuild the starting whole.\nHint: Combine the two parts again.",
+    "structuredExplanation": {
+      "summary": "Adding the amount removed to the amount remaining must rebuild the starting whole.",
+      "hint": "Combine the two parts again."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-042",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "diagnose missing part",
+    "printable": true,
+    "type": "single",
+    "question": "To solve 325 + □ = 471, a student calculates 325 + 471. What should they do?",
+    "audioPrompt": "To solve 325 + □ = 471, a student calculates 325 + 471. What should they do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Add another 325.",
+      "Subtract 471 from 325.",
+      "Use the whole as the missing part.",
+      "Subtract 325 from 471."
+    ],
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "471 is already the total. Its missing part is 471 − 325 = 146.\nHint: Decide which number is the whole.",
+    "structuredExplanation": {
+      "summary": "471 is already the total. Its missing part is 471 − 325 = 146.",
+      "hint": "Decide which number is the whole."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-043",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "explain inverse",
+    "printable": true,
+    "type": "single",
+    "question": "A number has 40 subtracted and then 50 added. Compared with the start, where does it finish?",
+    "audioPrompt": "A number has 40 subtracted and then 50 added. Compared with the start, where does it finish?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "10 smaller",
+      "The same",
+      "10 greater",
+      "90 greater"
+    ],
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "Adding 40 would undo subtracting 40; adding 50 adds another 10.\nHint: Think about undoing a change.",
+    "structuredExplanation": {
+      "summary": "Adding 40 would undo subtracting 40; adding 50 adds another 10.",
+      "hint": "Think about undoing a change."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-044",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "nonstandard partition",
+    "printable": true,
+    "type": "single",
+    "question": "516 is split into 380 and another part. What is the other part?",
+    "audioPrompt": "516 is split into 380 and another part. What is the other part?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "146",
+      "136",
+      "896",
+      "126"
+    ],
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "516 − 380 = 136. A partition need not use only hundreds, tens and ones separately.\nHint: Both parts together must equal the whole.",
+    "structuredExplanation": {
+      "summary": "516 − 380 = 136. A partition need not use only hundreds, tens and ones separately.",
+      "hint": "Both parts together must equal the whole."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-045",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "reversed equality",
+    "printable": true,
+    "type": "single",
+    "question": "404 = □ + 146. What goes in □?",
+    "audioPrompt": "404 = □ + 146. What goes in □?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "258",
+      "550",
+      "268",
+      "248"
+    ],
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "An equals sign means both sides have the same value. 404 − 146 = 258.\nHint: The whole can be on either side of the equals sign.",
+    "structuredExplanation": {
+      "summary": "An equals sign means both sides have the same value. 404 − 146 = 258.",
+      "hint": "The whole can be on either side of the equals sign."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-046",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "context unknown",
+    "printable": true,
+    "type": "single",
+    "question": "A team needs 326 points. It already has 149. How many more points are needed?",
+    "audioPrompt": "A team needs 326 points. It already has 149. How many more points are needed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "475",
+      "187",
+      "149",
+      "177"
+    ],
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The known whole is 326 and the known part is 149. The missing part is 326 − 149 = 177.\nHint: Represent the whole and its parts before calculating.",
+    "structuredExplanation": {
+      "summary": "The known whole is 326 and the known part is 149. The missing part is 326 − 149 = 177.",
+      "hint": "Represent the whole and its parts before calculating."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-047",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "zero and equality",
+    "printable": true,
+    "type": "single",
+    "question": "□ − 0 = 137. What is □?",
+    "audioPrompt": "□ − 0 = 137. What is □?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "0",
+      "136",
+      "137",
+      "138"
+    ],
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "Subtracting zero leaves the starting number unchanged.\nHint: Check your number in the original sentence.",
+    "structuredExplanation": {
+      "summary": "Subtracting zero leaves the starting number unchanged.",
+      "hint": "Check your number in the original sentence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3a01-p-048",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "skill": "same unknown twice",
+    "printable": true,
+    "type": "single",
+    "question": "The two boxes stand for the same number: □ + □ = 70. What is each number?",
+    "audioPrompt": "The two boxes stand for the same number: □ + □ = 70. What is each number?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "70",
+      "35",
+      "34",
+      "36"
+    ],
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "The total is split into two equal parts: 35 + 35 = 70.\nHint: Both boxes must contain the same value.",
+    "structuredExplanation": {
+      "summary": "The total is split into two equal parts: 35 + 35 = 70.",
+      "hint": "Both boxes must contain the same value."
     },
     "qualitySchema": "production-v1"
   }

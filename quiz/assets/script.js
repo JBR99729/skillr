@@ -28,4 +28,4 @@ if (window.quizConfig && /\/(?:practice|test)(?:\/index\.html|\/?)$/i.test(windo
   window.quizConfig.retakeUrl = `${activityPath}retake/`;
 }
 
-document.write('<script src="/quiz/assets/script-runtime-v115.js?v=20260906-english-er5"><\/script>');
+document.write('<script src="/quiz/assets/script-runtime-v115.js?v=20260907-algebra-repeats"><\/script>');

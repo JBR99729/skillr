@@ -119,12 +119,13 @@ for (const code of codes) {
     if (!configMatch) continue;
     const config = parseConfigLiteral(configMatch[1], `${code}-${mode}`);
     const isPractice = mode === "practice";
-    const expectedQuestionCount = isPractice ? 8 : 12;
+    const simpleShuffle = ["AC9M3A01", "AC9M3A02", "AC9M3A03"].includes(code);
+    const expectedQuestionCount = simpleShuffle ? 5 : isPractice ? 8 : 12;
     assert(config.skillCode === code, `${code} ${mode}: skill code mismatch`);
     assert(config.preModuleNotesRequired === true, `${code} ${mode}: mandatory pre-module gate not enabled`);
     assert(config.preReadSeconds === 0, `${code} ${mode}: artificial countdown must remain disabled`);
     assert(config.maxQuestions === expectedQuestionCount, `${code} ${mode}: expected ${expectedQuestionCount}-question launch`);
-    assert(config.questionCycle === true && config.shuffleQuestions === true && config.shuffleAnswers === true, `${code} ${mode}: bank selection behaviour changed`);
+    assert(config.questionCycle === !simpleShuffle && (!simpleShuffle || config.allowQuestionRepeats === true) && config.shuffleQuestions === true && config.shuffleAnswers === true, `${code} ${mode}: bank selection behaviour changed`);
     assert(config.requireStudentName === !isPractice, `${code} ${mode}: student-name flow changed`);
     assert(config.certificateOnPass === !isPractice, `${code} ${mode}: certificate flow changed`);
     assert((html.match(/year3-maths-pre-module-notes\.js\?v=20260814-1/g) || []).length === 1, `${code} ${mode}: shared note source must load exactly once`);
@@ -184,4 +185,4 @@ if (errors.length) {
 
 console.log(`Year 3 Maths pre-module notes: ${codes.length}/${codes.length} passing`);
 console.log(`Prose word counts: ${Object.entries(counts).map(([code, count]) => `${code} ${count}`).join(", ")}`);
-console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, 46 mandatory live launches, 8/12 selections, reviewed 48/16 banks (legacy 24/16), same shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");
+console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, 46 mandatory launch configurations, 5-question algebra selections and preserved legacy selections, reviewed 48/16 banks (legacy 24/16), same shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");

@@ -5,36 +5,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "At the sock table, what is 4 × 3?",
-    "audio_prompt": "At the sock table, what is 4 × 3?",
+    "skill": "multiply_3",
+    "question": "6 × 3 = □. Find □.",
+    "audio_prompt": "6 × 3 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-001",
-      "alt_text": "At the sock table: 4 equal groups of 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "7",
+        "text": "15",
         "is_correct": false
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": true
       },
       {
         "text": "9",
         "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "4 groups of 3 make 12.",
-      "hint": "Skip-count by 3, 4 times."
+      "summary": "6 groups of 3 make 18. Use the 3 times table.",
+      "hint": "Multiply; do not add the two factors."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-002",
@@ -42,36 +42,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "At the sock table, what is 12 ÷ 3?",
-    "audio_prompt": "At the sock table, what is 12 ÷ 3?",
+    "skill": "multiply_4",
+    "question": "8 × 4 = □. Find □.",
+    "audio_prompt": "8 × 4 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-002",
-      "alt_text": "At the sock table: 4 equal groups of 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "4",
+        "text": "28",
+        "is_correct": false
+      },
+      {
+        "text": "32",
         "is_correct": true
       },
       {
-        "text": "3",
+        "text": "36",
         "is_correct": false
       },
       {
-        "text": "5",
+        "text": "12",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "12 split into groups of 3 makes 4 groups.",
-      "hint": "Use the related multiplication fact."
+      "summary": "8 groups of 4 make 32. Use the 4 times table.",
+      "hint": "Multiply; do not add the two factors."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-003",
@@ -79,36 +79,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "At the sock table, which fact helps solve 3 × 5?",
-    "audio_prompt": "At the sock table, which fact helps solve 3 × 5?",
+    "skill": "multiply_5",
+    "question": "7 × 5 = □. Find □.",
+    "audio_prompt": "7 × 5 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-003",
-      "alt_text": "At the sock table: 4 equal groups of 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "3 + 4 = 7",
-        "is_correct": false
-      },
-      {
-        "text": "3 × 4 = 12",
+        "text": "35",
         "is_correct": true
       },
       {
-        "text": "12 ÷ 4 = 4",
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "12",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Add one more group of 3 to the known fact.",
-      "hint": "Use a nearby multiplication fact."
+      "summary": "7 groups of 5 make 35. Use the 5 times table.",
+      "hint": "Multiply; do not add the two factors."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-004",
@@ -116,36 +116,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "At the sock table, which array represents 3 × 4?",
-    "audio_prompt": "At the sock table, which array represents 3 × 4?",
+    "skill": "multiply_10",
+    "question": "6 × 10 = □. Find □.",
+    "audio_prompt": "6 × 10 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-004",
-      "alt_text": "At the sock table: An array with 3 rows and 4 columns."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "7 dots in one row",
+        "text": "50",
         "is_correct": false
       },
       {
-        "text": "3 rows of 5",
+        "text": "70",
         "is_correct": false
       },
       {
-        "text": "3 rows of 4",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "60",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "3 equal rows of 4 contain 12 objects.",
-      "hint": "Rows × objects per row gives the total."
+      "summary": "6 groups of 10 make 60. Use the 10 times table.",
+      "hint": "Multiply; do not add the two factors."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-005",
@@ -153,35 +153,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "skip_count_fact",
-    "question": "At the sock table, what comes next when skip-counting by 3: 3, 6, 9, ___?",
-    "audio_prompt": "At the sock table, what comes next when skip-counting by 3: 3, 6, 9, ___?",
+    "skill": "divide_3",
+    "question": "21 ÷ 3 = □. Find □.",
+    "audio_prompt": "21 ÷ 3 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-005",
-      "alt_text": "At the sock table: A sequence increasing by 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "12",
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "7",
         "is_correct": true
       },
       {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "15",
+        "text": "18",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Add 3 to 9 to get 12.",
-      "hint": "Keep the jump size constant."
+      "summary": "3 × 7 = 21, so 21 ÷ 3 = 7.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-006",
@@ -189,22 +190,24 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "At the sock table, 4 boxes hold 3 pencils each. How many pencils are there?",
-    "audio_prompt": "At the sock table, 4 boxes hold 3 pencils each. How many pencils are there?",
+    "skill": "divide_4",
+    "question": "20 ÷ 4 = □. Find □.",
+    "audio_prompt": "20 ÷ 4 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-006",
-      "alt_text": "At the sock table: 4 equal groups of 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "7",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "12",
+        "text": "5",
         "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
       },
       {
         "text": "16",
@@ -213,12 +216,10 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Equal groups are multiplied: 4×3=12.",
-      "hint": "Identify groups and amount in each group."
+      "summary": "4 × 5 = 20, so 20 ÷ 4 = 5.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-007",
@@ -226,36 +227,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "At the sock table, a student answers 4×3 as 7. What was confused?",
-    "audio_prompt": "At the sock table, a student answers 4×3 as 7. What was confused?",
+    "skill": "divide_5",
+    "question": "40 ÷ 5 = □. Find □.",
+    "audio_prompt": "40 ÷ 5 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-007",
-      "alt_text": "At the sock table: 4 equal groups of 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Rows with columns",
-        "is_correct": false
-      },
-      {
-        "text": "Division with subtraction",
-        "is_correct": false
-      },
-      {
-        "text": "Multiplication with addition",
+        "text": "8",
         "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "35",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "4×3 means 4 equal groups of 3, not 4+3.",
-      "hint": "Draw the equal groups."
+      "summary": "5 × 8 = 40, so 40 ÷ 5 = 8.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-008",
@@ -263,36 +264,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "At the sock table, which division fact belongs with 4×3=12?",
-    "audio_prompt": "At the sock table, which division fact belongs with 4×3=12?",
+    "skill": "divide_10",
+    "question": "40 ÷ 10 = □. Find □.",
+    "audio_prompt": "40 ÷ 10 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-008",
-      "alt_text": "At the sock table: 4 equal groups of 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "12÷4=3",
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
-      },
-      {
-        "text": "12−4=3",
-        "is_correct": false
-      },
-      {
-        "text": "4÷3=12",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Division reverses the equal-group multiplication.",
-      "hint": "Start with the product 12."
+      "summary": "10 × 4 = 40, so 40 ÷ 10 = 4.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-009",
@@ -300,36 +301,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "With the bike cards, what is 5 × 4?",
-    "audio_prompt": "With the bike cards, what is 5 × 4?",
+    "skill": "related_division_fact",
+    "question": "Use 3 × 8 = 24. Which division fact follows?",
+    "audio_prompt": "Use 3 × 8 = 24. Which division fact follows?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-009",
-      "alt_text": "With the bike cards: 5 equal groups of 4."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-p-009",
+      "alt_text": "Fact triangle with 24 at the top and factors 3 and 8 below."
     },
     "answers": [
       {
-        "text": "9",
+        "text": "24 ÷ 3 = 3",
         "is_correct": false
       },
       {
-        "text": "20",
+        "text": "8 ÷ 3 = 24",
+        "is_correct": false
+      },
+      {
+        "text": "24 ÷ 8 = 3",
         "is_correct": true
       },
       {
-        "text": "16",
+        "text": "24 − 8 = 3",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "5 groups of 4 make 20.",
-      "hint": "Skip-count by 4, 5 times."
+      "summary": "Dividing the product by either factor gives the other factor. Here 24 ÷ 8 = 3.",
+      "hint": "Start the division with the product."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3A03-P-010",
@@ -337,13 +340,420 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "With the bike cards, what is 20 ÷ 4?",
-    "audio_prompt": "With the bike cards, what is 20 ÷ 4?",
+    "skill": "missing_factor",
+    "question": "3 × □ = 27. What is the missing factor?",
+    "audio_prompt": "3 × □ = 27. What is the missing factor?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the related division: 27 ÷ 3 = 9.",
+      "hint": "Find how many equal groups are needed."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "derive_four_from_two",
+    "question": "You know 2 × 7 = 14. How can you find 4 × 7?",
+    "audio_prompt": "You know 2 × 7 = 14. How can you find 4 × 7?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Double 14 to get 28.",
+        "is_correct": true
+      },
+      {
+        "text": "Add 2 to 14.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 4 to 14.",
+        "is_correct": false
+      },
+      {
+        "text": "Halve 14.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Four groups are twice as many as two groups, so double the product 14.",
+      "hint": "Double the number of groups, keeping the group size."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "derive_five_from_ten",
+    "question": "10 × 8 = 80. Use this to find 5 × 8.",
+    "audio_prompt": "10 × 8 = 80. Use this to find 5 × 8.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "75",
+        "is_correct": false
+      },
+      {
+        "text": "80",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Five groups are half of ten groups. Half of 80 is 40.",
+      "hint": "Halve the known product."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "one_more_group",
+    "question": "6 × 3 = 18. Which calculation gives 7 × 3?",
+    "audio_prompt": "6 × 3 = 18. Which calculation gives 7 × 3?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "18 + 1",
+        "is_correct": false
+      },
+      {
+        "text": "18 − 3",
+        "is_correct": false
+      },
+      {
+        "text": "18 + 3",
+        "is_correct": true
+      },
+      {
+        "text": "18 × 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The new multiplication has one extra group of 3, so add 3 to get 21.",
+      "hint": "One more group adds the group size, not one object."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "array_inverse",
+    "question": "The array has 3 equal rows. Which division finds the dots in each row?",
+    "audio_prompt": "The array has 3 equal rows. Which division finds the dots in each row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-010",
-      "alt_text": "With the bike cards: 5 equal groups of 4."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-p-014",
+      "alt_text": "3 rows with 7 dots in each row; 21 dots altogether."
+    },
+    "answers": [
+      {
+        "text": "21 + 3",
+        "is_correct": false
+      },
+      {
+        "text": "21 ÷ 3",
+        "is_correct": true
+      },
+      {
+        "text": "3 ÷ 21",
+        "is_correct": false
+      },
+      {
+        "text": "21 − 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "3 × 7 = 21. Division finds a missing factor: 21 ÷ 3 = 7, or 21 ÷ 7 = 3.",
+      "hint": "Decide whether you need the group size or number of groups."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "check_fact_meaning",
+    "question": "A student says 24 ÷ 3 = 21 because 24 − 3 = 21. What is the correct quotient?",
+    "audio_prompt": "A student says 24 ÷ 3 = 21 because 24 − 3 = 21. What is the correct quotient?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Division asks how many groups of 3 make 24. Since 3 × 8 = 24, the quotient is 8.",
+      "hint": "Connect division or multiplication to equal groups."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "apply_known_fact",
+    "question": "A ribbon is 27 cm long. It is cut into equal 3 cm pieces. How many pieces are made?",
+    "audio_prompt": "A ribbon is 27 cm long. It is cut into equal 3 cm pieces. How many pieces are made?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "There are 9 groups of 3 in 27 because 3 × 9 = 27.",
+      "hint": "Use a multiplication fact or its related division fact."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-017",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "multiply_3",
+    "question": "9 × 3 = □. Find □.",
+    "audio_prompt": "9 × 3 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "9 groups of 3 make 27. Use the 3 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-018",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "multiply_4",
+    "question": "6 × 4 = □. Find □.",
+    "audio_prompt": "6 × 4 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": true
+      },
+      {
+        "text": "28",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "6 groups of 4 make 24. Use the 4 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-019",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "multiply_5",
+    "question": "9 × 5 = □. Find □.",
+    "audio_prompt": "9 × 5 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "45",
+        "is_correct": true
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "9 groups of 5 make 45. Use the 5 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-020",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "multiply_10",
+    "question": "0 × 10 = □. Find □.",
+    "audio_prompt": "0 × 10 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "0 groups of 10 make 0. Zero groups contain no objects.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-021",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "divide_3",
+    "question": "15 ÷ 3 = □. Find □.",
+    "audio_prompt": "15 ÷ 3 = □. Find □.",
+    "visual": {
+      "type": "none"
     },
     "answers": [
       {
@@ -357,411 +767,18 @@
       {
         "text": "5",
         "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "20 split into groups of 4 makes 5 groups.",
-      "hint": "Use the related multiplication fact."
+      "summary": "3 × 5 = 15, so 15 ÷ 3 = 5.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-011",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "With the bike cards, which fact helps solve 4 × 6?",
-    "audio_prompt": "With the bike cards, which fact helps solve 4 × 6?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-011",
-      "alt_text": "With the bike cards: 5 equal groups of 4."
-    },
-    "answers": [
-      {
-        "text": "4 × 5 = 20",
-        "is_correct": true
-      },
-      {
-        "text": "4 + 5 = 9",
-        "is_correct": false
-      },
-      {
-        "text": "20 ÷ 5 = 5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Add one more group of 4 to the known fact.",
-      "hint": "Use a nearby multiplication fact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-012",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "With the bike cards, which array represents 4 × 5?",
-    "audio_prompt": "With the bike cards, which array represents 4 × 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-012",
-      "alt_text": "With the bike cards: An array with 4 rows and 5 columns."
-    },
-    "answers": [
-      {
-        "text": "9 dots in one row",
-        "is_correct": false
-      },
-      {
-        "text": "4 rows of 5",
-        "is_correct": true
-      },
-      {
-        "text": "4 rows of 6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "4 equal rows of 5 contain 20 objects.",
-      "hint": "Rows × objects per row gives the total."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-013",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "skip_count_fact",
-    "question": "With the bike cards, what comes next when skip-counting by 4: 4, 8, 12, ___?",
-    "audio_prompt": "With the bike cards, what comes next when skip-counting by 4: 4, 8, 12, ___?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-013",
-      "alt_text": "With the bike cards: A sequence increasing by 4."
-    },
-    "answers": [
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "20",
-        "is_correct": false
-      },
-      {
-        "text": "16",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Add 4 to 12 to get 16.",
-      "hint": "Keep the jump size constant."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-014",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "With the bike cards, 5 boxes hold 4 pencils each. How many pencils are there?",
-    "audio_prompt": "With the bike cards, 5 boxes hold 4 pencils each. How many pencils are there?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-014",
-      "alt_text": "With the bike cards: 5 equal groups of 4."
-    },
-    "answers": [
-      {
-        "text": "20",
-        "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "25",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Equal groups are multiplied: 5×4=20.",
-      "hint": "Identify groups and amount in each group."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-015",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "With the bike cards, a student answers 5×4 as 9. What was confused?",
-    "audio_prompt": "With the bike cards, a student answers 5×4 as 9. What was confused?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-015",
-      "alt_text": "With the bike cards: 5 equal groups of 4."
-    },
-    "answers": [
-      {
-        "text": "Rows with columns",
-        "is_correct": false
-      },
-      {
-        "text": "Multiplication with addition",
-        "is_correct": true
-      },
-      {
-        "text": "Division with subtraction",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "5×4 means 5 equal groups of 4, not 5+4.",
-      "hint": "Draw the equal groups."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-016",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "With the bike cards, which division fact belongs with 5×4=20?",
-    "audio_prompt": "With the bike cards, which division fact belongs with 5×4=20?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-016",
-      "alt_text": "With the bike cards: 5 equal groups of 4."
-    },
-    "answers": [
-      {
-        "text": "20−5=4",
-        "is_correct": false
-      },
-      {
-        "text": "5÷4=20",
-        "is_correct": false
-      },
-      {
-        "text": "20÷5=4",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Division reverses the equal-group multiplication.",
-      "hint": "Start with the product 20."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-017",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "In the counter game, what is 6 × 5?",
-    "audio_prompt": "In the counter game, what is 6 × 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-017",
-      "alt_text": "In the counter game: 6 equal groups of 5."
-    },
-    "answers": [
-      {
-        "text": "30",
-        "is_correct": true
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "25",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "6 groups of 5 make 30.",
-      "hint": "Skip-count by 5, 6 times."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-018",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "In the counter game, what is 30 ÷ 5?",
-    "audio_prompt": "In the counter game, what is 30 ÷ 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-018",
-      "alt_text": "In the counter game: 6 equal groups of 5."
-    },
-    "answers": [
-      {
-        "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "30 split into groups of 5 makes 6 groups.",
-      "hint": "Use the related multiplication fact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-019",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "In the counter game, which fact helps solve 5 × 7?",
-    "audio_prompt": "In the counter game, which fact helps solve 5 × 7?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-019",
-      "alt_text": "In the counter game: 6 equal groups of 5."
-    },
-    "answers": [
-      {
-        "text": "5 + 6 = 11",
-        "is_correct": false
-      },
-      {
-        "text": "30 ÷ 6 = 6",
-        "is_correct": false
-      },
-      {
-        "text": "5 × 6 = 30",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Add one more group of 5 to the known fact.",
-      "hint": "Use a nearby multiplication fact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-020",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "In the counter game, which array represents 5 × 6?",
-    "audio_prompt": "In the counter game, which array represents 5 × 6?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-020",
-      "alt_text": "In the counter game: An array with 5 rows and 6 columns."
-    },
-    "answers": [
-      {
-        "text": "5 rows of 6",
-        "is_correct": true
-      },
-      {
-        "text": "11 dots in one row",
-        "is_correct": false
-      },
-      {
-        "text": "5 rows of 7",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "5 equal rows of 6 contain 30 objects.",
-      "hint": "Rows × objects per row gives the total."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3A03-P-021",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "practice",
-    "skill": "skip_count_fact",
-    "question": "In the counter game, what comes next when skip-counting by 5: 5, 10, 15, ___?",
-    "audio_prompt": "In the counter game, what comes next when skip-counting by 5: 5, 10, 15, ___?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-021",
-      "alt_text": "In the counter game: A sequence increasing by 5."
-    },
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "20",
-        "is_correct": true
-      },
-      {
-        "text": "25",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Add 5 to 15 to get 20.",
-      "hint": "Keep the jump size constant."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-022",
@@ -769,35 +786,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "In the counter game, 6 boxes hold 5 pencils each. How many pencils are there?",
-    "audio_prompt": "In the counter game, 6 boxes hold 5 pencils each. How many pencils are there?",
+    "skill": "divide_4",
+    "question": "28 ÷ 4 = □. Find □.",
+    "audio_prompt": "28 ÷ 4 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-022",
-      "alt_text": "In the counter game: 6 equal groups of 5."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "11",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "36",
-        "is_correct": false
-      },
-      {
-        "text": "30",
+        "text": "7",
         "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Equal groups are multiplied: 6×5=30.",
-      "hint": "Identify groups and amount in each group."
+      "summary": "4 × 7 = 28, so 28 ÷ 4 = 7.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-023",
@@ -805,35 +823,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "In the counter game, a student answers 6×5 as 11. What was confused?",
-    "audio_prompt": "In the counter game, a student answers 6×5 as 11. What was confused?",
+    "skill": "divide_5",
+    "question": "30 ÷ 5 = □. Find □.",
+    "audio_prompt": "30 ÷ 5 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-023",
-      "alt_text": "In the counter game: 6 equal groups of 5."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Multiplication with addition",
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "Rows with columns",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "Division with subtraction",
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "25",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "6×5 means 6 equal groups of 5, not 6+5.",
-      "hint": "Draw the equal groups."
+      "summary": "5 × 6 = 30, so 30 ÷ 5 = 6.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
     "id": "AC9M3A03-P-024",
@@ -841,53 +860,165 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "practice",
-    "skill": "multiplication_facts",
-    "question": "In the counter game, which division fact belongs with 6×5=30?",
-    "audio_prompt": "In the counter game, which division fact belongs with 6×5=30?",
+    "skill": "divide_10",
+    "question": "80 ÷ 10 = □. Find □.",
+    "audio_prompt": "80 ÷ 10 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-p-024",
-      "alt_text": "In the counter game: 6 equal groups of 5."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "30−6=5",
+        "text": "7",
         "is_correct": false
       },
       {
-        "text": "30÷6=5",
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "70",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "10 × 8 = 80, so 80 ÷ 10 = 8.",
+      "hint": "Ask how many groups of the divisor make the total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-025",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "related_division_fact",
+    "question": "Use 4 × 9 = 36. Which division fact follows?",
+    "audio_prompt": "Use 4 × 9 = 36. Which division fact follows?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-p-025",
+      "alt_text": "Fact triangle with 36 at the top and factors 4 and 9 below."
+    },
+    "answers": [
+      {
+        "text": "36 ÷ 4 = 4",
+        "is_correct": false
+      },
+      {
+        "text": "9 ÷ 4 = 36",
+        "is_correct": false
+      },
+      {
+        "text": "36 ÷ 9 = 4",
         "is_correct": true
       },
       {
-        "text": "6÷5=30",
+        "text": "36 − 9 = 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dividing the product by either factor gives the other factor. Here 36 ÷ 9 = 4.",
+      "hint": "Start the division with the product."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-026",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "missing_factor",
+    "question": "4 × □ = 32. What is the missing factor?",
+    "audio_prompt": "4 × □ = 32. What is the missing factor?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "28",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Division reverses the equal-group multiplication.",
-      "hint": "Start with the product 30."
+      "summary": "Use the related division: 32 ÷ 4 = 8.",
+      "hint": "Find how many equal groups are needed."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
-    "id": "AC9M3A03-T-001",
+    "id": "AC9M3A03-P-027",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "At the doubles station, what is 7 × 10?",
-    "audio_prompt": "At the doubles station, what is 7 × 10?",
+    "bank": "practice",
+    "skill": "derive_four_from_two",
+    "question": "You know 2 × 9 = 18. How can you find 4 × 9?",
+    "audio_prompt": "You know 2 × 9 = 18. How can you find 4 × 9?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-001",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "17",
+        "text": "Double 18 to get 36.",
+        "is_correct": true
+      },
+      {
+        "text": "Add 2 to 18.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 4 to 18.",
+        "is_correct": false
+      },
+      {
+        "text": "Halve 18.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Four groups are twice as many as two groups, so double the product 18.",
+      "hint": "Double the number of groups, keeping the group size."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-028",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "derive_five_from_ten",
+    "question": "10 × 6 = 60. Use this to find 5 × 6.",
+    "audio_prompt": "10 × 6 = 60. Use this to find 5 × 6.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "55",
         "is_correct": false
       },
       {
@@ -895,267 +1026,145 @@
         "is_correct": false
       },
       {
-        "text": "70",
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "30",
         "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Five groups are half of ten groups. Half of 60 is 30.",
+      "hint": "Halve the known product."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-029",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "one_more_group",
+    "question": "7 × 4 = 28. Which calculation gives 8 × 4?",
+    "audio_prompt": "7 × 4 = 28. Which calculation gives 8 × 4?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "28 + 1",
+        "is_correct": false
+      },
+      {
+        "text": "28 − 4",
+        "is_correct": false
+      },
+      {
+        "text": "28 + 4",
+        "is_correct": true
+      },
+      {
+        "text": "28 × 4",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "7 groups of 10 make 70.",
-      "hint": "Skip-count by 10, 7 times."
-    }
+      "summary": "The new multiplication has one extra group of 4, so add 4 to get 32.",
+      "hint": "One more group adds the group size, not one object."
+    },
+    "difficulty": 2
   },
   {
-    "id": "AC9M3A03-T-002",
+    "id": "AC9M3A03-P-030",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "At the doubles station, what is 70 ÷ 10?",
-    "audio_prompt": "At the doubles station, what is 70 ÷ 10?",
+    "bank": "practice",
+    "skill": "array_inverse",
+    "question": "24 counters are arranged in rows of 6. Which division finds the number of rows?",
+    "audio_prompt": "24 counters are arranged in rows of 6. Which division finds the number of rows?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-002",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-p-030",
+      "alt_text": "4 rows with 6 dots in each row; 24 dots altogether."
     },
     "answers": [
       {
-        "text": "7",
+        "text": "24 + 6",
+        "is_correct": false
+      },
+      {
+        "text": "24 ÷ 6",
         "is_correct": true
       },
       {
-        "text": "10",
+        "text": "6 ÷ 24",
         "is_correct": false
       },
       {
-        "text": "8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "70 split into groups of 10 makes 7 groups.",
-      "hint": "Use the related multiplication fact."
-    }
-  },
-  {
-    "id": "AC9M3A03-T-003",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "At the doubles station, which fact helps solve 10 × 8?",
-    "audio_prompt": "At the doubles station, which fact helps solve 10 × 8?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-003",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
-    },
-    "answers": [
-      {
-        "text": "10 + 7 = 17",
-        "is_correct": false
-      },
-      {
-        "text": "10 × 7 = 70",
-        "is_correct": true
-      },
-      {
-        "text": "70 ÷ 7 = 7",
+        "text": "24 − 6",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Add one more group of 10 to the known fact.",
-      "hint": "Use a nearby multiplication fact."
-    }
+      "summary": "4 × 6 = 24. Division finds a missing factor: 24 ÷ 4 = 6, or 24 ÷ 6 = 4.",
+      "hint": "Decide whether you need the group size or number of groups."
+    },
+    "difficulty": 2
   },
   {
-    "id": "AC9M3A03-T-004",
+    "id": "AC9M3A03-P-031",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "At the doubles station, which array represents 10 × 7?",
-    "audio_prompt": "At the doubles station, which array represents 10 × 7?",
+    "bank": "practice",
+    "skill": "check_fact_meaning",
+    "question": "There are 0 counters shared equally among 4 trays. How many counters are in each tray?",
+    "audio_prompt": "There are 0 counters shared equally among 4 trays. How many counters are in each tray?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-004",
-      "alt_text": "At the doubles station: An array with 10 rows and 7 columns."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "17 dots in one row",
-        "is_correct": false
-      },
-      {
-        "text": "10 rows of 8",
-        "is_correct": false
-      },
-      {
-        "text": "10 rows of 7",
+        "text": "0",
         "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "10 equal rows of 7 contain 70 objects.",
-      "hint": "Rows × objects per row gives the total."
-    }
-  },
-  {
-    "id": "AC9M3A03-T-005",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "skip_count_fact",
-    "question": "At the doubles station, what comes next when skip-counting by 10: 10, 20, 30, ___?",
-    "audio_prompt": "At the doubles station, what comes next when skip-counting by 10: 10, 20, 30, ___?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-005",
-      "alt_text": "At the doubles station: A sequence increasing by 10."
-    },
-    "answers": [
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
       {
         "text": "40",
-        "is_correct": true
-      },
-      {
-        "text": "31",
-        "is_correct": false
-      },
-      {
-        "text": "50",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Add 10 to 30 to get 40.",
-      "hint": "Keep the jump size constant."
-    }
-  },
-  {
-    "id": "AC9M3A03-T-006",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "At the doubles station, 7 boxes hold 10 pencils each. How many pencils are there?",
-    "audio_prompt": "At the doubles station, 7 boxes hold 10 pencils each. How many pencils are there?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-006",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
+      "summary": "There are no counters to place on any tray, so 0 ÷ 4 = 0.",
+      "hint": "Connect division or multiplication to equal groups."
     },
-    "answers": [
-      {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "70",
-        "is_correct": true
-      },
-      {
-        "text": "77",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Equal groups are multiplied: 7×10=70.",
-      "hint": "Identify groups and amount in each group."
-    }
+    "difficulty": 2
   },
   {
-    "id": "AC9M3A03-T-007",
+    "id": "AC9M3A03-P-032",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "At the doubles station, a student answers 7×10 as 17. What was confused?",
-    "audio_prompt": "At the doubles station, a student answers 7×10 as 17. What was confused?",
+    "bank": "practice",
+    "skill": "apply_known_fact",
+    "question": "Each stool has 4 legs. How many legs do 7 stools have?",
+    "audio_prompt": "Each stool has 4 legs. How many legs do 7 stools have?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-007",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
-    },
-    "answers": [
-      {
-        "text": "Rows with columns",
-        "is_correct": false
-      },
-      {
-        "text": "Division with subtraction",
-        "is_correct": false
-      },
-      {
-        "text": "Multiplication with addition",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "7×10 means 7 equal groups of 10, not 7+10.",
-      "hint": "Draw the equal groups."
-    }
-  },
-  {
-    "id": "AC9M3A03-T-008",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "At the doubles station, which division fact belongs with 7×10=70?",
-    "audio_prompt": "At the doubles station, which division fact belongs with 7×10=70?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-008",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
-    },
-    "answers": [
-      {
-        "text": "70÷7=10",
-        "is_correct": true
-      },
-      {
-        "text": "70−7=10",
-        "is_correct": false
-      },
-      {
-        "text": "7÷10=70",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Division reverses the equal-group multiplication.",
-      "hint": "Start with the product 70."
-    }
-  },
-  {
-    "id": "AC9M3A03-T-009",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "During the pair challenge, what is 8 × 3?",
-    "audio_prompt": "During the pair challenge, what is 8 × 3?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-009",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "type": "none"
     },
     "answers": [
       {
@@ -1164,138 +1173,39 @@
       },
       {
         "text": "24",
-        "is_correct": true
+        "is_correct": false
       },
       {
-        "text": "21",
+        "text": "32",
         "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "8 groups of 3 make 24.",
-      "hint": "Skip-count by 3, 8 times."
-    }
+      "summary": "Seven equal groups of 4 make 28 legs: 7 × 4 = 28.",
+      "hint": "Use a multiplication fact or its related division fact."
+    },
+    "difficulty": 2
   },
   {
-    "id": "AC9M3A03-T-010",
+    "id": "AC9M3A03-P-033",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "During the pair challenge, what is 24 ÷ 3?",
-    "audio_prompt": "During the pair challenge, what is 24 ÷ 3?",
+    "bank": "practice",
+    "skill": "multiply_3",
+    "question": "4 × 3 = □. Find □.",
+    "audio_prompt": "4 × 3 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-010",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "type": "none"
     },
     "answers": [
-      {
-        "text": "3",
-        "is_correct": false
-      },
       {
         "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "24 split into groups of 3 makes 8 groups.",
-      "hint": "Use the related multiplication fact."
-    }
-  },
-  {
-    "id": "AC9M3A03-T-011",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "During the pair challenge, which fact helps solve 3 × 9?",
-    "audio_prompt": "During the pair challenge, which fact helps solve 3 × 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-011",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
-    },
-    "answers": [
-      {
-        "text": "3 × 8 = 24",
-        "is_correct": true
-      },
-      {
-        "text": "3 + 8 = 11",
-        "is_correct": false
-      },
-      {
-        "text": "24 ÷ 8 = 8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Add one more group of 3 to the known fact.",
-      "hint": "Use a nearby multiplication fact."
-    }
-  },
-  {
-    "id": "AC9M3A03-T-012",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "During the pair challenge, which array represents 3 × 8?",
-    "audio_prompt": "During the pair challenge, which array represents 3 × 8?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-012",
-      "alt_text": "During the pair challenge: An array with 3 rows and 8 columns."
-    },
-    "answers": [
-      {
-        "text": "11 dots in one row",
-        "is_correct": false
-      },
-      {
-        "text": "3 rows of 8",
-        "is_correct": true
-      },
-      {
-        "text": "3 rows of 9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "3 equal rows of 8 contain 24 objects.",
-      "hint": "Rows × objects per row gives the total."
-    }
-  },
-  {
-    "id": "AC9M3A03-T-013",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3A03",
-    "bank": "test",
-    "skill": "skip_count_fact",
-    "question": "During the pair challenge, what comes next when skip-counting by 3: 3, 6, 9, ___?",
-    "audio_prompt": "During the pair challenge, what comes next when skip-counting by 3: 3, 6, 9, ___?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-013",
-      "alt_text": "During the pair challenge: A sequence increasing by 3."
-    },
-    "answers": [
-      {
-        "text": "10",
         "is_correct": false
       },
       {
@@ -1305,29 +1215,599 @@
       {
         "text": "12",
         "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Add 3 to 9 to get 12.",
-      "hint": "Keep the jump size constant."
-    }
+      "summary": "4 groups of 3 make 12. Use the 3 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
   },
   {
-    "id": "AC9M3A03-T-014",
+    "id": "AC9M3A03-P-034",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "multiply_4",
+    "question": "9 × 4 = □. Find □.",
+    "audio_prompt": "9 × 4 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": true
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "9 groups of 4 make 36. Use the 4 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-035",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "multiply_5",
+    "question": "3 × 5 = □. Find □.",
+    "audio_prompt": "3 × 5 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "3 groups of 5 make 15. Use the 5 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-036",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "multiply_10",
+    "question": "9 × 10 = □. Find □.",
+    "audio_prompt": "9 × 10 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "80",
+        "is_correct": false
+      },
+      {
+        "text": "100",
+        "is_correct": false
+      },
+      {
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "90",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "9 groups of 10 make 90. Use the 10 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-037",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "divide_3",
+    "question": "30 ÷ 3 = □. Find □.",
+    "audio_prompt": "30 ÷ 3 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "3 × 10 = 30, so 30 ÷ 3 = 10.",
+      "hint": "Ask how many groups of the divisor make the total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-038",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "divide_4",
+    "question": "12 ÷ 4 = □. Find □.",
+    "audio_prompt": "12 ÷ 4 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "4 × 3 = 12, so 12 ÷ 4 = 3.",
+      "hint": "Ask how many groups of the divisor make the total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-039",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "divide_5",
+    "question": "50 ÷ 5 = □. Find □.",
+    "audio_prompt": "50 ÷ 5 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "5 × 10 = 50, so 50 ÷ 5 = 10.",
+      "hint": "Ask how many groups of the divisor make the total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-040",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "divide_10",
+    "question": "50 ÷ 10 = □. Find □.",
+    "audio_prompt": "50 ÷ 10 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "10 × 5 = 50, so 50 ÷ 10 = 5.",
+      "hint": "Ask how many groups of the divisor make the total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-P-041",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "related_division_fact",
+    "question": "Use 5 × 6 = 30. Which division fact follows?",
+    "audio_prompt": "Use 5 × 6 = 30. Which division fact follows?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-p-041",
+      "alt_text": "Fact triangle with 30 at the top and factors 5 and 6 below."
+    },
+    "answers": [
+      {
+        "text": "30 ÷ 5 = 5",
+        "is_correct": false
+      },
+      {
+        "text": "6 ÷ 5 = 30",
+        "is_correct": false
+      },
+      {
+        "text": "30 ÷ 6 = 5",
+        "is_correct": true
+      },
+      {
+        "text": "30 − 6 = 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dividing the product by either factor gives the other factor. Here 30 ÷ 6 = 5.",
+      "hint": "Start the division with the product."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-042",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "missing_factor",
+    "question": "5 × □ = 35. What is the missing factor?",
+    "audio_prompt": "5 × □ = 35. What is the missing factor?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the related division: 35 ÷ 5 = 7.",
+      "hint": "Find how many equal groups are needed."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-043",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "derive_four_from_two",
+    "question": "You know 2 × 6 = 12. How can you find 4 × 6?",
+    "audio_prompt": "You know 2 × 6 = 12. How can you find 4 × 6?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Double 12 to get 24.",
+        "is_correct": true
+      },
+      {
+        "text": "Add 2 to 12.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 4 to 12.",
+        "is_correct": false
+      },
+      {
+        "text": "Halve 12.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Four groups are twice as many as two groups, so double the product 12.",
+      "hint": "Double the number of groups, keeping the group size."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-044",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "derive_five_from_ten",
+    "question": "10 × 9 = 90. Use this to find 5 × 9.",
+    "audio_prompt": "10 × 9 = 90. Use this to find 5 × 9.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "85",
+        "is_correct": false
+      },
+      {
+        "text": "90",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "45",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Five groups are half of ten groups. Half of 90 is 45.",
+      "hint": "Halve the known product."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-045",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "one_more_group",
+    "question": "8 × 5 = 40. Which calculation gives 9 × 5?",
+    "audio_prompt": "8 × 5 = 40. Which calculation gives 9 × 5?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "40 + 1",
+        "is_correct": false
+      },
+      {
+        "text": "40 − 5",
+        "is_correct": false
+      },
+      {
+        "text": "40 + 5",
+        "is_correct": true
+      },
+      {
+        "text": "40 × 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The new multiplication has one extra group of 5, so add 5 to get 45.",
+      "hint": "One more group adds the group size, not one object."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-046",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "array_inverse",
+    "question": "The array is turned around to show 4 rows instead. How many dots will be in each new row?",
+    "audio_prompt": "The array is turned around to show 4 rows instead. How many dots will be in each new row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-p-046",
+      "alt_text": "5 rows with 4 dots in each row; 20 dots altogether."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "20 = 5 × 4. The two array dimensions are 5 and 4.",
+      "hint": "Use the total and the known row size."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-047",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "check_fact_meaning",
+    "question": "A student counts 5, 10, 15, 20, 25, 30, 35 and says 7 × 5 = 30. What should the product be?",
+    "audio_prompt": "A student counts 5, 10, 15, 20, 25, 30, 35 and says 7 × 5 = 30. What should the product be?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "35",
+        "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Seven counts of five end at 35. Stopping at 30 includes only six groups.",
+      "hint": "Connect division or multiplication to equal groups."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-P-048",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "practice",
+    "skill": "apply_known_fact",
+    "question": "A packet holds 5 pencils. How many full packets can be made from 45 pencils?",
+    "audio_prompt": "A packet holds 5 pencils. How many full packets can be made from 45 pencils?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "5 × 9 = 45, so 45 ÷ 5 = 9 full packets.",
+      "hint": "Use a multiplication fact or its related division fact."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-T-001",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "During the pair challenge, 8 boxes hold 3 pencils each. How many pencils are there?",
-    "audio_prompt": "During the pair challenge, 8 boxes hold 3 pencils each. How many pencils are there?",
+    "skill": "multiply_3",
+    "question": "8 × 3 = □. Find □.",
+    "audio_prompt": "8 × 3 = □. Find □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-014",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "type": "none"
     },
     "answers": [
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      },
       {
         "text": "24",
         "is_correct": true
@@ -1335,17 +1815,499 @@
       {
         "text": "11",
         "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "8 groups of 3 make 24. Use the 3 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-T-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "multiply_4",
+    "question": "7 × 4 = □. Find □.",
+    "audio_prompt": "7 × 4 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": true
       },
       {
         "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "7 groups of 4 make 28. Use the 4 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-T-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "multiply_5",
+    "question": "8 × 5 = □. Find □.",
+    "audio_prompt": "8 × 5 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "40",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      },
+      {
+        "text": "13",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equal groups are multiplied: 8×3=24.",
-      "hint": "Identify groups and amount in each group."
-    }
+      "summary": "8 groups of 5 make 40. Use the 5 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-T-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "multiply_10",
+    "question": "7 × 10 = □. Find □.",
+    "audio_prompt": "7 × 10 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "60",
+        "is_correct": false
+      },
+      {
+        "text": "80",
+        "is_correct": false
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "70",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "7 groups of 10 make 70. Use the 10 times table.",
+      "hint": "Multiply; do not add the two factors."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-T-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "divide_3",
+    "question": "18 ÷ 3 = □. Find □.",
+    "audio_prompt": "18 ÷ 3 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "3 × 6 = 18, so 18 ÷ 3 = 6.",
+      "hint": "Ask how many groups of the divisor make the total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-T-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "divide_4",
+    "question": "32 ÷ 4 = □. Find □.",
+    "audio_prompt": "32 ÷ 4 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "4 × 8 = 32, so 32 ÷ 4 = 8.",
+      "hint": "Ask how many groups of the divisor make the total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-T-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "divide_5",
+    "question": "20 ÷ 5 = □. Find □.",
+    "audio_prompt": "20 ÷ 5 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "5 × 4 = 20, so 20 ÷ 5 = 4.",
+      "hint": "Ask how many groups of the divisor make the total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-T-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "divide_10",
+    "question": "90 ÷ 10 = □. Find □.",
+    "audio_prompt": "90 ÷ 10 = □. Find □.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "80",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "10 × 9 = 90, so 90 ÷ 10 = 9.",
+      "hint": "Ask how many groups of the divisor make the total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3A03-T-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "related_division_fact",
+    "question": "Use 10 × 8 = 80. Which division fact follows?",
+    "audio_prompt": "Use 10 × 8 = 80. Which division fact follows?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-t-009",
+      "alt_text": "Fact triangle with 80 at the top and factors 10 and 8 below."
+    },
+    "answers": [
+      {
+        "text": "80 ÷ 10 = 10",
+        "is_correct": false
+      },
+      {
+        "text": "8 ÷ 10 = 80",
+        "is_correct": false
+      },
+      {
+        "text": "80 ÷ 8 = 10",
+        "is_correct": true
+      },
+      {
+        "text": "80 − 8 = 10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dividing the product by either factor gives the other factor. Here 80 ÷ 8 = 10.",
+      "hint": "Start the division with the product."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-T-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "missing_factor",
+    "question": "10 × □ = 60. What is the missing factor?",
+    "audio_prompt": "10 × □ = 60. What is the missing factor?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the related division: 60 ÷ 10 = 6.",
+      "hint": "Find how many equal groups are needed."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-T-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "derive_four_from_two",
+    "question": "You know 2 × 8 = 16. How can you find 4 × 8?",
+    "audio_prompt": "You know 2 × 8 = 16. How can you find 4 × 8?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Double 16 to get 32.",
+        "is_correct": true
+      },
+      {
+        "text": "Add 2 to 16.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 4 to 16.",
+        "is_correct": false
+      },
+      {
+        "text": "Halve 16.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Four groups are twice as many as two groups, so double the product 16.",
+      "hint": "Double the number of groups, keeping the group size."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-T-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "derive_five_from_ten",
+    "question": "10 × 7 = 70. Use this to find 5 × 7.",
+    "audio_prompt": "10 × 7 = 70. Use this to find 5 × 7.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": false
+      },
+      {
+        "text": "70",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "35",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Five groups are half of ten groups. Half of 70 is 35.",
+      "hint": "Halve the known product."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-T-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "one_more_group",
+    "question": "4 × 10 = 40. Which calculation gives 5 × 10?",
+    "audio_prompt": "4 × 10 = 40. Which calculation gives 5 × 10?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "40 + 1",
+        "is_correct": false
+      },
+      {
+        "text": "40 − 10",
+        "is_correct": false
+      },
+      {
+        "text": "40 + 10",
+        "is_correct": true
+      },
+      {
+        "text": "40 × 10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The new multiplication has one extra group of 10, so add 10 to get 50.",
+      "hint": "One more group adds the group size, not one object."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3A03-T-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3A03",
+    "bank": "test",
+    "skill": "array_inverse",
+    "question": "This array has 36 dots. If each row has 9 dots, how many rows are there?",
+    "audio_prompt": "This array has 36 dots. If each row has 9 dots, how many rows are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-t-014",
+      "alt_text": "4 rows with 9 dots in each row; 36 dots altogether."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "36 = 4 × 9. The two array dimensions are 4 and 9.",
+      "hint": "Use the total and the known row size."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3A03-T-015",
@@ -1353,33 +2315,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "During the pair challenge, a student answers 8×3 as 11. What was confused?",
-    "audio_prompt": "During the pair challenge, a student answers 8×3 as 11. What was confused?",
+    "skill": "check_fact_meaning",
+    "question": "A student says 40 ÷ 10 = 30. Which answer is correct?",
+    "audio_prompt": "A student says 40 ÷ 10 = 30. Which answer is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-015",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Rows with columns",
-        "is_correct": false
-      },
-      {
-        "text": "Multiplication with addition",
+        "text": "4",
         "is_correct": true
       },
       {
-        "text": "Division with subtraction",
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "40",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "8×3 means 8 equal groups of 3, not 8+3.",
-      "hint": "Draw the equal groups."
-    }
+      "summary": "Subtracting ten once gives 30. Division instead asks how many tens make 40: four tens.",
+      "hint": "Connect division or multiplication to equal groups."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3A03-T-016",
@@ -1387,32 +2352,35 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication_facts",
-    "question": "During the pair challenge, which division fact belongs with 8×3=24?",
-    "audio_prompt": "During the pair challenge, which division fact belongs with 8×3=24?",
+    "skill": "apply_known_fact",
+    "question": "There are 60 cards shared equally among 10 players. How many cards does each player receive?",
+    "audio_prompt": "There are 60 cards shared equally among 10 players. How many cards does each player receive?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-016",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "24−8=3",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "8÷3=24",
+        "text": "50",
         "is_correct": false
       },
       {
-        "text": "24÷8=3",
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "6",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Division reverses the equal-group multiplication.",
-      "hint": "Start with the product 24."
-    }
+      "summary": "10 × 6 = 60, so each player receives 6 cards.",
+      "hint": "Use a multiplication fact or its related division fact."
+    },
+    "difficulty": 2
   }
 ]

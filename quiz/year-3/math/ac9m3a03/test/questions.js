@@ -4,28 +4,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-001",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "multiply 3",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, what is 7 × 10?",
-    "audioPrompt": "At the doubles station, what is 7 × 10?",
-    "visual": "At the doubles station: 7 equal groups of 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 7 equal groups of 10.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-001\"></use></svg>",
+    "question": "8 × 3 = □. Find □.",
+    "audioPrompt": "8 × 3 = □. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-001",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
+      "type": "none"
     },
     "answers": [
-      "17",
-      "60",
-      "70"
+      "21",
+      "27",
+      "24",
+      "11"
     ],
+    "difficulty": 1,
     "correct": 2,
-    "explanation": "7 groups of 10 make 70.\nHint: Skip-count by 10, 7 times.",
+    "explanation": "8 groups of 3 make 24. Use the 3 times table.\nHint: Multiply; do not add the two factors.",
     "structuredExplanation": {
-      "summary": "7 groups of 10 make 70.",
-      "hint": "Skip-count by 10, 7 times."
+      "summary": "8 groups of 3 make 24. Use the 3 times table.",
+      "hint": "Multiply; do not add the two factors."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-002",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "multiply 4",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, what is 70 ÷ 10?",
-    "audioPrompt": "At the doubles station, what is 70 ÷ 10?",
-    "visual": "At the doubles station: 7 equal groups of 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 7 equal groups of 10.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-002\"></use></svg>",
+    "question": "7 × 4 = □. Find □.",
+    "audioPrompt": "7 × 4 = □. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-002",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
+      "type": "none"
     },
     "answers": [
-      "7",
-      "10",
-      "8"
+      "24",
+      "28",
+      "32",
+      "11"
     ],
-    "correct": 0,
-    "explanation": "70 split into groups of 10 makes 7 groups.\nHint: Use the related multiplication fact.",
+    "difficulty": 1,
+    "correct": 1,
+    "explanation": "7 groups of 4 make 28. Use the 4 times table.\nHint: Multiply; do not add the two factors.",
     "structuredExplanation": {
-      "summary": "70 split into groups of 10 makes 7 groups.",
-      "hint": "Use the related multiplication fact."
+      "summary": "7 groups of 4 make 28. Use the 4 times table.",
+      "hint": "Multiply; do not add the two factors."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-003",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "multiply 5",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, which fact helps solve 10 × 8?",
-    "audioPrompt": "At the doubles station, which fact helps solve 10 × 8?",
-    "visual": "At the doubles station: 7 equal groups of 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 7 equal groups of 10.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-003\"></use></svg>",
+    "question": "8 × 5 = □. Find □.",
+    "audioPrompt": "8 × 5 = □. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-003",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
+      "type": "none"
     },
     "answers": [
-      "10 + 7 = 17",
-      "10 × 7 = 70",
-      "70 ÷ 7 = 7"
+      "40",
+      "35",
+      "45",
+      "13"
     ],
-    "correct": 1,
-    "explanation": "Add one more group of 10 to the known fact.\nHint: Use a nearby multiplication fact.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "8 groups of 5 make 40. Use the 5 times table.\nHint: Multiply; do not add the two factors.",
     "structuredExplanation": {
-      "summary": "Add one more group of 10 to the known fact.",
-      "hint": "Use a nearby multiplication fact."
+      "summary": "8 groups of 5 make 40. Use the 5 times table.",
+      "hint": "Multiply; do not add the two factors."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-004",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "multiply 10",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, which array represents 10 × 7?",
-    "audioPrompt": "At the doubles station, which array represents 10 × 7?",
-    "visual": "At the doubles station: An array with 10 rows and 7 columns.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: An array with 10 rows and 7 columns.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-004\"></use></svg>",
+    "question": "7 × 10 = □. Find □.",
+    "audioPrompt": "7 × 10 = □. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-004",
-      "alt_text": "At the doubles station: An array with 10 rows and 7 columns."
+      "type": "none"
     },
     "answers": [
-      "17 dots in one row",
-      "10 rows of 8",
-      "10 rows of 7"
+      "60",
+      "80",
+      "17",
+      "70"
     ],
-    "correct": 2,
-    "explanation": "10 equal rows of 7 contain 70 objects.\nHint: Rows × objects per row gives the total.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "7 groups of 10 make 70. Use the 10 times table.\nHint: Multiply; do not add the two factors.",
     "structuredExplanation": {
-      "summary": "10 equal rows of 7 contain 70 objects.",
-      "hint": "Rows × objects per row gives the total."
+      "summary": "7 groups of 10 make 70. Use the 10 times table.",
+      "hint": "Multiply; do not add the two factors."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +120,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-005",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "skip count fact",
+    "skill": "divide 3",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, what comes next when skip-counting by 10: 10, 20, 30, ___?",
-    "audioPrompt": "At the doubles station, what comes next when skip-counting by 10: 10, 20, 30, ___?",
-    "visual": "At the doubles station: A sequence increasing by 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: A sequence increasing by 10.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-005\"></use></svg>",
+    "question": "18 ÷ 3 = □. Find □.",
+    "audioPrompt": "18 ÷ 3 = □. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-005",
-      "alt_text": "At the doubles station: A sequence increasing by 10."
+      "type": "none"
     },
     "answers": [
-      "40",
-      "31",
-      "50"
+      "5",
+      "7",
+      "6",
+      "15"
     ],
-    "correct": 0,
-    "explanation": "Add 10 to 30 to get 40.\nHint: Keep the jump size constant.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "3 × 6 = 18, so 18 ÷ 3 = 6.\nHint: Ask how many groups of the divisor make the total.",
     "structuredExplanation": {
-      "summary": "Add 10 to 30 to get 40.",
-      "hint": "Keep the jump size constant."
+      "summary": "3 × 6 = 18, so 18 ÷ 3 = 6.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +149,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-006",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "divide 4",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, 7 boxes hold 10 pencils each. How many pencils are there?",
-    "audioPrompt": "At the doubles station, 7 boxes hold 10 pencils each. How many pencils are there?",
-    "visual": "At the doubles station: 7 equal groups of 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 7 equal groups of 10.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-006\"></use></svg>",
+    "question": "32 ÷ 4 = □. Find □.",
+    "audioPrompt": "32 ÷ 4 = □. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-006",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
+      "type": "none"
     },
     "answers": [
-      "17",
-      "70",
-      "77"
+      "7",
+      "8",
+      "9",
+      "28"
     ],
+    "difficulty": 1,
     "correct": 1,
-    "explanation": "Equal groups are multiplied: 7×10=70.\nHint: Identify groups and amount in each group.",
+    "explanation": "4 × 8 = 32, so 32 ÷ 4 = 8.\nHint: Ask how many groups of the divisor make the total.",
     "structuredExplanation": {
-      "summary": "Equal groups are multiplied: 7×10=70.",
-      "hint": "Identify groups and amount in each group."
+      "summary": "4 × 8 = 32, so 32 ÷ 4 = 8.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +178,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-007",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "divide 5",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, a student answers 7×10 as 17. What was confused?",
-    "audioPrompt": "At the doubles station, a student answers 7×10 as 17. What was confused?",
-    "visual": "At the doubles station: 7 equal groups of 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 7 equal groups of 10.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-007\"></use></svg>",
+    "question": "20 ÷ 5 = □. Find □.",
+    "audioPrompt": "20 ÷ 5 = □. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-007",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
+      "type": "none"
     },
     "answers": [
-      "Rows with columns",
-      "Division with subtraction",
-      "Multiplication with addition"
+      "4",
+      "3",
+      "5",
+      "15"
     ],
-    "correct": 2,
-    "explanation": "7×10 means 7 equal groups of 10, not 7+10.\nHint: Draw the equal groups.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "5 × 4 = 20, so 20 ÷ 5 = 4.\nHint: Ask how many groups of the divisor make the total.",
     "structuredExplanation": {
-      "summary": "7×10 means 7 equal groups of 10, not 7+10.",
-      "hint": "Draw the equal groups."
+      "summary": "5 × 4 = 20, so 20 ÷ 5 = 4.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +207,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-008",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "divide 10",
     "printable": true,
     "type": "single",
-    "question": "At the doubles station, which division fact belongs with 7×10=70?",
-    "audioPrompt": "At the doubles station, which division fact belongs with 7×10=70?",
-    "visual": "At the doubles station: 7 equal groups of 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the doubles station: 7 equal groups of 10.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-008\"></use></svg>",
+    "question": "90 ÷ 10 = □. Find □.",
+    "audioPrompt": "90 ÷ 10 = □. Find □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-008",
-      "alt_text": "At the doubles station: 7 equal groups of 10."
+      "type": "none"
     },
     "answers": [
-      "70÷7=10",
-      "70−7=10",
-      "7÷10=70"
+      "8",
+      "10",
+      "80",
+      "9"
     ],
-    "correct": 0,
-    "explanation": "Division reverses the equal-group multiplication.\nHint: Start with the product 70.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "10 × 9 = 90, so 90 ÷ 10 = 9.\nHint: Ask how many groups of the divisor make the total.",
     "structuredExplanation": {
-      "summary": "Division reverses the equal-group multiplication.",
-      "hint": "Start with the product 70."
+      "summary": "10 × 9 = 90, so 90 ÷ 10 = 9.",
+      "hint": "Ask how many groups of the divisor make the total."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +236,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-009",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "related division fact",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, what is 8 × 3?",
-    "audioPrompt": "During the pair challenge, what is 8 × 3?",
-    "visual": "During the pair challenge: 8 equal groups of 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 8 equal groups of 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-009\"></use></svg>",
+    "question": "Use 10 × 8 = 80. Which division fact follows?",
+    "audioPrompt": "Use 10 × 8 = 80. Which division fact follows?",
+    "visual": "Fact triangle with 80 at the top and factors 10 and 8 below.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Fact triangle with 80 at the top and factors 10 and 8 below.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-009",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-t-009",
+      "alt_text": "Fact triangle with 80 at the top and factors 10 and 8 below."
     },
     "answers": [
-      "11",
-      "24",
-      "21"
+      "80 ÷ 10 = 10",
+      "8 ÷ 10 = 80",
+      "80 ÷ 8 = 10",
+      "80 − 8 = 10"
     ],
-    "correct": 1,
-    "explanation": "8 groups of 3 make 24.\nHint: Skip-count by 3, 8 times.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "Dividing the product by either factor gives the other factor. Here 80 ÷ 8 = 10.\nHint: Start the division with the product.",
     "structuredExplanation": {
-      "summary": "8 groups of 3 make 24.",
-      "hint": "Skip-count by 3, 8 times."
+      "summary": "Dividing the product by either factor gives the other factor. Here 80 ÷ 8 = 10.",
+      "hint": "Start the division with the product."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +267,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-010",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "missing factor",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, what is 24 ÷ 3?",
-    "audioPrompt": "During the pair challenge, what is 24 ÷ 3?",
-    "visual": "During the pair challenge: 8 equal groups of 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 8 equal groups of 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-010\"></use></svg>",
+    "question": "10 × □ = 60. What is the missing factor?",
+    "audioPrompt": "10 × □ = 60. What is the missing factor?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-010",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "type": "none"
     },
     "answers": [
-      "3",
-      "9",
-      "8"
+      "7",
+      "6",
+      "5",
+      "50"
     ],
-    "correct": 2,
-    "explanation": "24 split into groups of 3 makes 8 groups.\nHint: Use the related multiplication fact.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "Use the related division: 60 ÷ 10 = 6.\nHint: Find how many equal groups are needed.",
     "structuredExplanation": {
-      "summary": "24 split into groups of 3 makes 8 groups.",
-      "hint": "Use the related multiplication fact."
+      "summary": "Use the related division: 60 ÷ 10 = 6.",
+      "hint": "Find how many equal groups are needed."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +296,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-011",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "derive four from two",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, which fact helps solve 3 × 9?",
-    "audioPrompt": "During the pair challenge, which fact helps solve 3 × 9?",
-    "visual": "During the pair challenge: 8 equal groups of 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 8 equal groups of 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-011\"></use></svg>",
+    "question": "You know 2 × 8 = 16. How can you find 4 × 8?",
+    "audioPrompt": "You know 2 × 8 = 16. How can you find 4 × 8?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-011",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "type": "none"
     },
     "answers": [
-      "3 × 8 = 24",
-      "3 + 8 = 11",
-      "24 ÷ 8 = 8"
+      "Double 16 to get 32.",
+      "Add 2 to 16.",
+      "Add 4 to 16.",
+      "Halve 16."
     ],
+    "difficulty": 2,
     "correct": 0,
-    "explanation": "Add one more group of 3 to the known fact.\nHint: Use a nearby multiplication fact.",
+    "explanation": "Four groups are twice as many as two groups, so double the product 16.\nHint: Double the number of groups, keeping the group size.",
     "structuredExplanation": {
-      "summary": "Add one more group of 3 to the known fact.",
-      "hint": "Use a nearby multiplication fact."
+      "summary": "Four groups are twice as many as two groups, so double the product 16.",
+      "hint": "Double the number of groups, keeping the group size."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +325,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-012",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "derive five from ten",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, which array represents 3 × 8?",
-    "audioPrompt": "During the pair challenge, which array represents 3 × 8?",
-    "visual": "During the pair challenge: An array with 3 rows and 8 columns.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: An array with 3 rows and 8 columns.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-012\"></use></svg>",
+    "question": "10 × 7 = 70. Use this to find 5 × 7.",
+    "audioPrompt": "10 × 7 = 70. Use this to find 5 × 7.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-012",
-      "alt_text": "During the pair challenge: An array with 3 rows and 8 columns."
+      "type": "none"
     },
     "answers": [
-      "11 dots in one row",
-      "3 rows of 8",
-      "3 rows of 9"
+      "65",
+      "70",
+      "12",
+      "35"
     ],
-    "correct": 1,
-    "explanation": "3 equal rows of 8 contain 24 objects.\nHint: Rows × objects per row gives the total.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Five groups are half of ten groups. Half of 70 is 35.\nHint: Halve the known product.",
     "structuredExplanation": {
-      "summary": "3 equal rows of 8 contain 24 objects.",
-      "hint": "Rows × objects per row gives the total."
+      "summary": "Five groups are half of ten groups. Half of 70 is 35.",
+      "hint": "Halve the known product."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +354,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-013",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "skip count fact",
+    "skill": "one more group",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, what comes next when skip-counting by 3: 3, 6, 9, ___?",
-    "audioPrompt": "During the pair challenge, what comes next when skip-counting by 3: 3, 6, 9, ___?",
-    "visual": "During the pair challenge: A sequence increasing by 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: A sequence increasing by 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-013\"></use></svg>",
+    "question": "4 × 10 = 40. Which calculation gives 5 × 10?",
+    "audioPrompt": "4 × 10 = 40. Which calculation gives 5 × 10?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-013",
-      "alt_text": "During the pair challenge: A sequence increasing by 3."
+      "type": "none"
     },
     "answers": [
-      "10",
-      "15",
-      "12"
+      "40 + 1",
+      "40 − 10",
+      "40 + 10",
+      "40 × 10"
     ],
+    "difficulty": 2,
     "correct": 2,
-    "explanation": "Add 3 to 9 to get 12.\nHint: Keep the jump size constant.",
+    "explanation": "The new multiplication has one extra group of 10, so add 10 to get 50.\nHint: One more group adds the group size, not one object.",
     "structuredExplanation": {
-      "summary": "Add 3 to 9 to get 12.",
-      "hint": "Keep the jump size constant."
+      "summary": "The new multiplication has one extra group of 10, so add 10 to get 50.",
+      "hint": "One more group adds the group size, not one object."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +383,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-014",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "array inverse",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, 8 boxes hold 3 pencils each. How many pencils are there?",
-    "audioPrompt": "During the pair challenge, 8 boxes hold 3 pencils each. How many pencils are there?",
-    "visual": "During the pair challenge: 8 equal groups of 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 8 equal groups of 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-014\"></use></svg>",
+    "question": "This array has 36 dots. If each row has 9 dots, how many rows are there?",
+    "audioPrompt": "This array has 36 dots. If each row has 9 dots, how many rows are there?",
+    "visual": "4 rows with 9 dots in each row; 36 dots altogether.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"4 rows with 9 dots in each row; 36 dots altogether.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-014",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03-reviewed.svg#ac9m3a03-t-014",
+      "alt_text": "4 rows with 9 dots in each row; 36 dots altogether."
     },
     "answers": [
-      "24",
-      "11",
-      "32"
+      "9",
+      "4",
+      "36",
+      "5"
     ],
-    "correct": 0,
-    "explanation": "Equal groups are multiplied: 8×3=24.\nHint: Identify groups and amount in each group.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "36 = 4 × 9. The two array dimensions are 4 and 9.\nHint: Use the total and the known row size.",
     "structuredExplanation": {
-      "summary": "Equal groups are multiplied: 8×3=24.",
-      "hint": "Identify groups and amount in each group."
+      "summary": "36 = 4 × 9. The two array dimensions are 4 and 9.",
+      "hint": "Use the total and the known row size."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +414,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-015",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "check fact meaning",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, a student answers 8×3 as 11. What was confused?",
-    "audioPrompt": "During the pair challenge, a student answers 8×3 as 11. What was confused?",
-    "visual": "During the pair challenge: 8 equal groups of 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 8 equal groups of 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-015\"></use></svg>",
+    "question": "A student says 40 ÷ 10 = 30. Which answer is correct?",
+    "audioPrompt": "A student says 40 ÷ 10 = 30. Which answer is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-015",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "type": "none"
     },
     "answers": [
-      "Rows with columns",
-      "Multiplication with addition",
-      "Division with subtraction"
+      "4",
+      "30",
+      "10",
+      "40"
     ],
-    "correct": 1,
-    "explanation": "8×3 means 8 equal groups of 3, not 8+3.\nHint: Draw the equal groups.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "Subtracting ten once gives 30. Division instead asks how many tens make 40: four tens.\nHint: Connect division or multiplication to equal groups.",
     "structuredExplanation": {
-      "summary": "8×3 means 8 equal groups of 3, not 8+3.",
-      "hint": "Draw the equal groups."
+      "summary": "Subtracting ten once gives 30. Division instead asks how many tens make 40: four tens.",
+      "hint": "Connect division or multiplication to equal groups."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +443,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a03-t-016",
     "curriculumCode": "AC9M3A03",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "apply known fact",
     "printable": true,
     "type": "single",
-    "question": "During the pair challenge, which division fact belongs with 8×3=24?",
-    "audioPrompt": "During the pair challenge, which division fact belongs with 8×3=24?",
-    "visual": "During the pair challenge: 8 equal groups of 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the pair challenge: 8 equal groups of 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-016\"></use></svg>",
+    "question": "There are 60 cards shared equally among 10 players. How many cards does each player receive?",
+    "audioPrompt": "There are 60 cards shared equally among 10 players. How many cards does each player receive?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a03.svg#ac9m3a03-t-016",
-      "alt_text": "During the pair challenge: 8 equal groups of 3."
+      "type": "none"
     },
     "answers": [
-      "24−8=3",
-      "8÷3=24",
-      "24÷8=3"
+      "5",
+      "50",
+      "10",
+      "6"
     ],
-    "correct": 2,
-    "explanation": "Division reverses the equal-group multiplication.\nHint: Start with the product 24.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "10 × 6 = 60, so each player receives 6 cards.\nHint: Use a multiplication fact or its related division fact.",
     "structuredExplanation": {
-      "summary": "Division reverses the equal-group multiplication.",
-      "hint": "Start with the product 24."
+      "summary": "10 × 6 = 60, so each player receives 6 cards.",
+      "hint": "Use a multiplication fact or its related division fact."
     },
     "qualitySchema": "production-v1"
   }

@@ -4,28 +4,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-001",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "extend addition fact",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, knowing 9+7=16, what is 90+70?",
-    "audioPrompt": "During the bird count, knowing 9+7=16, what is 90+70?",
-    "visual": "During the bird count: A basic addition fact extended from ones to tens.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: A basic addition fact extended from ones to tens.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-001\"></use></svg>",
+    "question": "Use 9 + 7 = 16 to work out 90 + 70.",
+    "audioPrompt": "Use 9 + 7 = 16 to work out 90 + 70.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-001",
-      "alt_text": "During the bird count: A basic addition fact extended from ones to tens."
+      "type": "none"
     },
     "answers": [
       "16",
       "160",
-      "1600"
+      "170",
+      "150"
     ],
+    "difficulty": 1,
     "correct": 1,
-    "explanation": "Each addend is 10 times as large, so the sum is 160.\nHint: Keep the basic fact and scale each value by 10.",
+    "explanation": "9 tens plus 7 tens is 16 tens, or 160.\nHint: Keep the unit: these are tens.",
     "structuredExplanation": {
-      "summary": "Each addend is 10 times as large, so the sum is 160.",
-      "hint": "Keep the basic fact and scale each value by 10."
+      "summary": "9 tens plus 7 tens is 16 tens, or 160.",
+      "hint": "Keep the unit: these are tens."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-002",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "extend subtraction fact",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, knowing 16−9=7, what is 160−90?",
-    "audioPrompt": "During the bird count, knowing 16−9=7, what is 160−90?",
-    "visual": "During the bird count: A subtraction fact extended from ones to tens.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: A subtraction fact extended from ones to tens.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-002\"></use></svg>",
+    "question": "You know 16 − 9 = 7. What is 160 − 90?",
+    "audioPrompt": "You know 16 − 9 = 7. What is 160 − 90?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-002",
-      "alt_text": "During the bird count: A subtraction fact extended from ones to tens."
+      "type": "none"
     },
     "answers": [
+      "70",
       "7",
-      "80",
-      "70"
+      "250",
+      "80"
     ],
-    "correct": 2,
-    "explanation": "The related tens fact is 160−90=70.\nHint: Use the same fact-family relationship in tens.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "The same fact works with tens: 16 tens minus 9 tens is 7 tens.\nHint: Use the related small-number fact.",
     "structuredExplanation": {
-      "summary": "The related tens fact is 160−90=70.",
-      "hint": "Use the same fact-family relationship in tens."
+      "summary": "The same fact works with tens: 16 tens minus 9 tens is 7 tens.",
+      "hint": "Use the related small-number fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-003",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "add tens",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, what is 98 + 7?",
-    "audioPrompt": "During the bird count, what is 98 + 7?",
-    "visual": "During the bird count: A two-digit number partitioned into tens and ones before adding.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: A two-digit number partitioned into tens and ones before adding.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-003\"></use></svg>",
+    "question": "Add mentally: 269 + 20.",
+    "audioPrompt": "Add mentally: 269 + 20.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-003",
-      "alt_text": "During the bird count: A two-digit number partitioned into tens and ones before adding."
+      "type": "none"
     },
     "answers": [
-      "105",
-      "104",
-      "115"
+      "271",
+      "299",
+      "279",
+      "289"
     ],
-    "correct": 0,
-    "explanation": "Use 8+7=15, then combine with 90.\nHint: Work with the ones fact, then restore the tens.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "Add 2 tens; the ones digit stays 9. The sum is 289.\nHint: Add tens to tens.",
     "structuredExplanation": {
-      "summary": "Use 8+7=15, then combine with 90.",
-      "hint": "Work with the ones fact, then restore the tens."
+      "summary": "Add 2 tens; the ones digit stays 9. The sum is 289.",
+      "hint": "Add tens to tens."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-004",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "subtract tens",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, what is 106 − 7?",
-    "audioPrompt": "During the bird count, what is 106 − 7?",
-    "visual": "During the bird count: A subtraction calculation partitioned into tens and a known fact.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: A subtraction calculation partitioned into tens and a known fact.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-004\"></use></svg>",
+    "question": "Work out 362 − 50 without a calculator.",
+    "audioPrompt": "Work out 362 − 50 without a calculator.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-004",
-      "alt_text": "During the bird count: A subtraction calculation partitioned into tens and a known fact."
+      "type": "none"
     },
     "answers": [
-      "97",
-      "99",
-      "109"
+      "357",
+      "322",
+      "312",
+      "412"
     ],
-    "correct": 1,
-    "explanation": "Since 16−7=9, the tens stay and the ones become 9.\nHint: Use the known subtraction fact in the ones.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "Subtract 5 tens and keep the ones unchanged: 312.\nHint: Do not subtract tens from the ones digit.",
     "structuredExplanation": {
-      "summary": "Since 16−7=9, the tens stay and the ones become 9.",
-      "hint": "Use the known subtraction fact in the ones."
+      "summary": "Subtract 5 tens and keep the ones unchanged: 312.",
+      "hint": "Do not subtract tens from the ones digit."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +120,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-005",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "add hundreds",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, which strategy is efficient for 99 + 8?",
-    "audioPrompt": "During the bird count, which strategy is efficient for 99 + 8?",
-    "visual": "During the bird count: An addition poised one below the next multiple of ten.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: An addition poised one below the next multiple of ten.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-005\"></use></svg>",
+    "question": "What is 563 + 300? Use a mental place-value strategy.",
+    "audioPrompt": "What is 563 + 300? Use a mental place-value strategy.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-005",
-      "alt_text": "During the bird count: An addition poised one below the next multiple of ten."
+      "type": "none"
     },
     "answers": [
-      "Count every number from zero",
-      "Ignore the ones digits",
-      "Make the next ten, then add the remainder"
+      "593",
+      "863",
+      "763",
+      "873"
     ],
-    "correct": 2,
-    "explanation": "Bridging to a multiple of 10 reduces the calculation to known facts.\nHint: Ask how much 99 needs to reach 100.",
+    "difficulty": 1,
+    "correct": 1,
+    "explanation": "Add 3 hundreds. The tens and ones stay unchanged, giving 863.\nHint: Change the hundreds, not the other places.",
     "structuredExplanation": {
-      "summary": "Bridging to a multiple of 10 reduces the calculation to known facts.",
-      "hint": "Ask how much 99 needs to reach 100."
+      "summary": "Add 3 hundreds. The tens and ones stay unchanged, giving 863.",
+      "hint": "Change the hundreds, not the other places."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +149,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-006",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "subtract hundreds",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, what is 900 + 700?",
-    "audioPrompt": "During the bird count, what is 900 + 700?",
-    "visual": "During the bird count: Two collections of hundreds to combine mentally.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: Two collections of hundreds to combine mentally.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-006\"></use></svg>",
+    "question": "Subtract mentally: 925 − 600.",
+    "audioPrompt": "Subtract mentally: 925 − 600.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-006",
-      "alt_text": "During the bird count: Two collections of hundreds to combine mentally."
+      "type": "none"
     },
     "answers": [
-      "1600",
-      "160",
-      "1700"
+      "325",
+      "865",
+      "425",
+      "315"
     ],
+    "difficulty": 1,
     "correct": 0,
-    "explanation": "9+7=16, so 9 hundreds + 7 hundreds = 16 hundreds.\nHint: Treat hundreds as equal units.",
+    "explanation": "Remove 6 hundreds from 925; the result is 325.\nHint: Use the hundreds fact and keep the remaining places.",
     "structuredExplanation": {
-      "summary": "9+7=16, so 9 hundreds + 7 hundreds = 16 hundreds.",
-      "hint": "Treat hundreds as equal units."
+      "summary": "Remove 6 hundreds from 925; the result is 325.",
+      "hint": "Use the hundreds fact and keep the remaining places."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +178,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-007",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "bridge next ten",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, a student says 90+70=16. What place-value idea was missed?",
-    "audioPrompt": "During the bird count, a student says 90+70=16. What place-value idea was missed?",
-    "visual": "During the bird count: A tens calculation incorrectly answered with a ones fact.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: A tens calculation incorrectly answered with a ones fact.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-007\"></use></svg>",
+    "question": "The jumps show 268 + 5. What is the final value?",
+    "audioPrompt": "The jumps show 268 + 5. What is the final value?",
+    "visual": "Jump from 268 to 270 by adding 2, then add 3 to an unknown endpoint.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Jump from 268 to 270 by adding 2, then add 3 to an unknown endpoint.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02-reviewed.svg#ac9m3a02-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-007",
-      "alt_text": "During the bird count: A tens calculation incorrectly answered with a ones fact."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02-reviewed.svg#ac9m3a02-t-007",
+      "alt_text": "Jump from 268 to 270 by adding 2, then add 3 to an unknown endpoint."
     },
     "answers": [
-      "Addition changes to multiplication",
-      "Each basic-fact unit now represents ten",
-      "Zeros have no value"
+      "263",
+      "275",
+      "274",
+      "273"
     ],
-    "correct": 1,
-    "explanation": "The digits follow the known fact, but the values are tens, giving 160.\nHint: Name the unit being counted.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Add 2 to reach 270, then add the remaining 3. The answer is 273.\nHint: Split the addend at the next multiple of ten.",
     "structuredExplanation": {
-      "summary": "The digits follow the known fact, but the values are tens, giving 160.",
-      "hint": "Name the unit being counted."
+      "summary": "Add 2 to reach 270, then add the remaining 3. The answer is 273.",
+      "hint": "Split the addend at the next multiple of ten."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +209,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-008",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "bridge back ten",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, which estimate supports 98+7=105?",
-    "audioPrompt": "During the bird count, which estimate supports 98+7=105?",
-    "visual": "During the bird count: An addition result compared with nearby multiples of ten.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: An addition result compared with nearby multiples of ten.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-008\"></use></svg>",
+    "question": "To calculate 241 − 6, first subtract 1 to reach 240. How much more must you subtract?",
+    "audioPrompt": "To calculate 241 − 6, first subtract 1 to reach 240. How much more must you subtract?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-008",
-      "alt_text": "During the bird count: An addition result compared with nearby multiples of ten."
+      "type": "none"
     },
     "answers": [
-      "The answer should be less than 90",
-      "The answer must be exactly 100",
-      "The answer should be a little more than 100"
+      "6",
+      "7",
+      "5",
+      "1"
     ],
+    "difficulty": 2,
     "correct": 2,
-    "explanation": "Adding a positive one-digit number increases 98 beyond the next ten.\nHint: Use nearby tens to judge reasonableness.",
+    "explanation": "6 is split into 1 and 5. After reaching 240, subtract 5 to finish at 235.\nHint: You have already subtracted part of the amount.",
     "structuredExplanation": {
-      "summary": "Adding a positive one-digit number increases 98 beyond the next ten.",
-      "hint": "Use nearby tens to judge reasonableness."
+      "summary": "6 is split into 1 and 5. After reaching 240, subtract 5 to finish at 235.",
+      "hint": "You have already subtracted part of the amount."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +238,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-009",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "compensate addition",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, knowing 10+8=18, what is 100+80?",
-    "audioPrompt": "At the sticker station, knowing 10+8=18, what is 100+80?",
-    "visual": "At the sticker station: A basic addition fact extended from ones to tens.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: A basic addition fact extended from ones to tens.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-009\"></use></svg>",
+    "question": "Which mental calculation equals 354 + 49?",
+    "audioPrompt": "Which mental calculation equals 354 + 49?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-009",
-      "alt_text": "At the sticker station: A basic addition fact extended from ones to tens."
+      "type": "none"
     },
     "answers": [
-      "180",
-      "18",
-      "1800"
+      "354 + 50 + 1",
+      "354 + 50 − 1",
+      "354 + 50",
+      "354 − 50 + 1"
     ],
-    "correct": 0,
-    "explanation": "Each addend is 10 times as large, so the sum is 180.\nHint: Keep the basic fact and scale each value by 10.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "50 is one more than 49. Add 50, then remove the extra one: 403.\nHint: Correct for the extra amount added.",
     "structuredExplanation": {
-      "summary": "Each addend is 10 times as large, so the sum is 180.",
-      "hint": "Keep the basic fact and scale each value by 10."
+      "summary": "50 is one more than 49. Add 50, then remove the extra one: 403.",
+      "hint": "Correct for the extra amount added."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +267,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-010",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "compensate subtraction",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, knowing 18−10=8, what is 180−100?",
-    "audioPrompt": "At the sticker station, knowing 18−10=8, what is 180−100?",
-    "visual": "At the sticker station: A subtraction fact extended from ones to tens.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: A subtraction fact extended from ones to tens.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-010\"></use></svg>",
+    "question": "To find 426 − 99, first calculate 426 − 100. What next?",
+    "audioPrompt": "To find 426 − 99, first calculate 426 − 100. What next?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-010",
-      "alt_text": "At the sticker station: A subtraction fact extended from ones to tens."
+      "type": "none"
     },
     "answers": [
-      "8",
-      "80",
-      "90"
+      "Add 1 back.",
+      "Subtract 1 more.",
+      "Double the result.",
+      "Leave the result unchanged."
     ],
-    "correct": 1,
-    "explanation": "The related tens fact is 180−100=80.\nHint: Use the same fact-family relationship in tens.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "Subtracting 100 removed one too many. Add 1 back to get 327.\nHint: Notice whether you subtracted too much or too little.",
     "structuredExplanation": {
-      "summary": "The related tens fact is 180−100=80.",
-      "hint": "Use the same fact-family relationship in tens."
+      "summary": "Subtracting 100 removed one too many. Add 1 back to get 327.",
+      "hint": "Notice whether you subtracted too much or too little."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +296,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-011",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "near doubles",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, what is 108 + 8?",
-    "audioPrompt": "At the sticker station, what is 108 + 8?",
-    "visual": "At the sticker station: A two-digit number partitioned into tens and ones before adding.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: A two-digit number partitioned into tens and ones before adding.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-011\"></use></svg>",
+    "question": "Use double 128 to calculate 128 + 129.",
+    "audioPrompt": "Use double 128 to calculate 128 + 129.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-011",
-      "alt_text": "At the sticker station: A two-digit number partitioned into tens and ones before adding."
+      "type": "none"
     },
     "answers": [
-      "115",
-      "126",
-      "116"
+      "256",
+      "258",
+      "129",
+      "257"
     ],
-    "correct": 2,
-    "explanation": "Use 8+8=16, then combine with 100.\nHint: Work with the ones fact, then restore the tens.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Double 128 is 256; the second addend is one larger, so add 1: 257.\nHint: Start with a double, then adjust.",
     "structuredExplanation": {
-      "summary": "Use 8+8=16, then combine with 100.",
-      "hint": "Work with the ones fact, then restore the tens."
+      "summary": "Double 128 is 256; the second addend is one larger, so add 1: 257.",
+      "hint": "Start with a double, then adjust."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +325,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-012",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "reorder friendly pair",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, what is 118 − 8?",
-    "audioPrompt": "At the sticker station, what is 118 − 8?",
-    "visual": "At the sticker station: A subtraction calculation partitioned into tens and a known fact.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: A subtraction calculation partitioned into tens and a known fact.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-012\"></use></svg>",
+    "question": "Which first step makes 36 + 164 + 47 easiest to add mentally?",
+    "audioPrompt": "Which first step makes 36 + 164 + 47 easiest to add mentally?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-012",
-      "alt_text": "At the sticker station: A subtraction calculation partitioned into tens and a known fact."
+      "type": "none"
     },
     "answers": [
-      "110",
-      "108",
-      "120"
+      "Subtract 47 from 36.",
+      "Add 36 and 47 and ignore the last number.",
+      "Add 36 and 164 to make 200.",
+      "Round all three numbers and use the estimate as the exact answer."
     ],
-    "correct": 0,
-    "explanation": "Since 18−8=10, the tens stay and the ones become 10.\nHint: Use the known subtraction fact in the ones.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "Combine the pair that makes 200, then add the remaining 47. The total is 247.\nHint: Look for a pair that makes a multiple of ten or one hundred.",
     "structuredExplanation": {
-      "summary": "Since 18−8=10, the tens stay and the ones become 10.",
-      "hint": "Use the known subtraction fact in the ones."
+      "summary": "Combine the pair that makes 200, then add the remaining 47. The total is 247.",
+      "hint": "Look for a pair that makes a multiple of ten or one hundred."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +354,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-013",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "evaluate mental strategy",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, which strategy is efficient for 109 + 9?",
-    "audioPrompt": "At the sticker station, which strategy is efficient for 109 + 9?",
-    "visual": "At the sticker station: An addition poised one below the next multiple of ten.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: An addition poised one below the next multiple of ten.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-013\"></use></svg>",
+    "question": "To find 398 + 47, a student uses 400 + 45. Why is this valid?",
+    "audioPrompt": "To find 398 + 47, a student uses 400 + 45. Why is this valid?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-013",
-      "alt_text": "At the sticker station: An addition poised one below the next multiple of ten."
+      "type": "none"
     },
     "answers": [
-      "Count every number from zero",
-      "Make the next ten, then add the remainder",
-      "Ignore the ones digits"
+      "Both addends were increased by 2.",
+      "Moving 2 from one addend to the other keeps the total the same.",
+      "The total gets 2 larger.",
+      "Any two numbers near the originals have the same sum."
     ],
+    "difficulty": 3,
     "correct": 1,
-    "explanation": "Bridging to a multiple of 10 reduces the calculation to known facts.\nHint: Ask how much 109 needs to reach 110.",
+    "explanation": "398 gained 2 while 47 lost 2, so the total is unchanged at 445.\nHint: Track the amount added or removed at each step.",
     "structuredExplanation": {
-      "summary": "Bridging to a multiple of 10 reduces the calculation to known facts.",
-      "hint": "Ask how much 109 needs to reach 110."
+      "summary": "398 gained 2 while 47 lost 2, so the total is unchanged at 445.",
+      "hint": "Track the amount added or removed at each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +383,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-014",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "bridge hundred",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, what is 1000 + 800?",
-    "audioPrompt": "At the sticker station, what is 1000 + 800?",
-    "visual": "At the sticker station: Two collections of hundreds to combine mentally.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: Two collections of hundreds to combine mentally.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-014\"></use></svg>",
+    "question": "Work out 697 + 9 by making 700 first.",
+    "audioPrompt": "Work out 697 + 9 by making 700 first.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-014",
-      "alt_text": "At the sticker station: Two collections of hundreds to combine mentally."
+      "type": "none"
     },
     "answers": [
-      "180",
-      "1900",
-      "1800"
+      "706",
+      "696",
+      "709",
+      "716"
     ],
-    "correct": 2,
-    "explanation": "10+8=18, so 10 hundreds + 8 hundreds = 18 hundreds.\nHint: Treat hundreds as equal units.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "Add 3 to reach 700; then add the remaining 6 to get 706.\nHint: Cross the hundred using the same make-ten idea.",
     "structuredExplanation": {
-      "summary": "10+8=18, so 10 hundreds + 8 hundreds = 18 hundreds.",
-      "hint": "Treat hundreds as equal units."
+      "summary": "Add 3 to reach 700; then add the remaining 6 to get 706.",
+      "hint": "Cross the hundred using the same make-ten idea."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +412,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-015",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "embedded known fact",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, a student says 100+80=18. What place-value idea was missed?",
-    "audioPrompt": "At the sticker station, a student says 100+80=18. What place-value idea was missed?",
-    "visual": "At the sticker station: A tens calculation incorrectly answered with a ones fact.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: A tens calculation incorrectly answered with a ones fact.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-015\"></use></svg>",
+    "question": "Knowing 7 + 8 = 15, work out 367 + 8.",
+    "audioPrompt": "Knowing 7 + 8 = 15, work out 367 + 8.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-015",
-      "alt_text": "At the sticker station: A tens calculation incorrectly answered with a ones fact."
+      "type": "none"
     },
     "answers": [
-      "Each basic-fact unit now represents ten",
-      "Addition changes to multiplication",
-      "Zeros have no value"
+      "365",
+      "385",
+      "15",
+      "375"
     ],
-    "correct": 0,
-    "explanation": "The digits follow the known fact, but the values are tens, giving 180.\nHint: Name the unit being counted.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "367 = 360 + 7. Use 7 + 8 = 15, then add 360, giving 375.\nHint: Keep the unchanged tens or hundreds aside.",
     "structuredExplanation": {
-      "summary": "The digits follow the known fact, but the values are tens, giving 180.",
-      "hint": "Name the unit being counted."
+      "summary": "367 = 360 + 7. Use 7 + 8 = 15, then add 360, giving 375.",
+      "hint": "Keep the unchanged tens or hundreds aside."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +441,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3a02-t-016",
     "curriculumCode": "AC9M3A02",
     "bank": "test",
-    "skill": "mental facts",
+    "skill": "count up difference",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, which estimate supports 108+8=116?",
-    "audioPrompt": "At the sticker station, which estimate supports 108+8=116?",
-    "visual": "At the sticker station: An addition result compared with nearby multiples of ten.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: An addition result compared with nearby multiples of ten.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-016\"></use></svg>",
+    "question": "Find the difference between 493 and 501 by counting up.",
+    "audioPrompt": "Find the difference between 493 and 501 by counting up.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3a02.svg#ac9m3a02-t-016",
-      "alt_text": "At the sticker station: An addition result compared with nearby multiples of ten."
+      "type": "none"
     },
     "answers": [
-      "The answer should be less than 100",
-      "The answer should be a little more than 110",
-      "The answer must be exactly 100"
+      "18",
+      "7",
+      "8",
+      "994"
     ],
-    "correct": 1,
-    "explanation": "Adding a positive one-digit number increases 108 beyond the next ten.\nHint: Use nearby tens to judge reasonableness.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "Count from 493 to 501. The total increase is 8, so 501 − 493 = 8.\nHint: Choose a nearby multiple of ten or hundred as a stepping stone.",
     "structuredExplanation": {
-      "summary": "Adding a positive one-digit number increases 108 beyond the next ten.",
-      "hint": "Use nearby tens to judge reasonableness."
+      "summary": "Count from 493 to 501. The total increase is 8, so 501 − 493 = 8.",
+      "hint": "Choose a nearby multiple of ten or hundred as a stepping stone."
     },
     "qualitySchema": "production-v1"
   }

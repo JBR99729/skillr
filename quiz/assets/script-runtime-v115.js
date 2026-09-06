@@ -339,7 +339,7 @@ document.addEventListener("DOMContentLoaded", () => {
         : 8;
     config.maxQuestions = selectedQuestionCount;
     config.shuffleQuestions = config.preserveQuestionOrder ? false : true;
-    config.questionCycle = questions.length > selectedQuestionCount;
+    config.questionCycle = !config.allowQuestionRepeats && questions.length > selectedQuestionCount;
     const displayedCount = document.getElementById("questionCount");
     if (displayedCount) displayedCount.textContent = String(selectedQuestionCount);
   }
