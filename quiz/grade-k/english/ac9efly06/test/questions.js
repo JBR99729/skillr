@@ -5,133 +5,433 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9EFLY06",
     "bank": "test",
     "sourceType": "Multiple choice",
-    "question": "Which sentence needs a full stop?",
-    "explanation": "It records a measured observation using topic vocabulary.",
+    "question": "Which is a complete sentence?",
+    "explanation": "A complete sentence tells a whole thought.",
     "printable": true,
     "type": "single",
     "answers": [
-      "I see a dog",
-      "Is that your dog?",
-      "Stop!"
+      "Mum packs lunch.",
+      "red bag",
+      "under the bed"
     ],
-    "correct": 0
+    "correct": 0,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "A complete sentence tells a whole thought."
+    },
+    "difficulty": "core",
+    "sequencePriority": 1,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "A complete sentence tells a whole thought."
+    }
   },
   {
     "id": "ac9efly06-e02",
     "curriculumCode": "AC9EFLY06",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "Choose the corrected sentence.",
-    "explanation": "Change t to capital T (1 mark) because it begins the sentence (1 mark); 2 marks total.",
+    "sourceType": "Multiple choice",
+    "question": "Put the words in order. “ran / The / dog / .”",
+    "explanation": "The sentence starts with The and tells a complete thought.",
     "printable": true,
     "type": "single",
-    "correct": 0,
     "answers": [
-      "The cat is big.",
-      "the cat is big.",
-      "The cat is big"
-    ]
+      "Ran the dog.",
+      "The dog ran.",
+      "Dog the ran."
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "The sentence starts with The and tells a complete thought."
+    },
+    "difficulty": "core",
+    "sequencePriority": 2,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The sentence starts with The and tells a complete thought."
+    }
   },
   {
     "id": "ac9efly06-e03",
     "curriculumCode": "AC9EFLY06",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "Which word fixes the sentence? ‘I ___ a red hat.’",
-    "explanation": "m-u-d in correct order. Award 1 mark.",
+    "sourceType": "Multiple choice",
+    "question": "Which word is spelled correctly for /c/ /a/ /t/?",
+    "explanation": "The letters c-a-t represent the sounds in cat.",
     "printable": true,
     "type": "single",
-    "acceptedAnswers": [
-      "m-u-d in correct order"
-    ],
-    "correct": 0,
     "answers": [
-      "have",
-      "has",
-      "having"
-    ]
+      "cta",
+      "cot",
+      "cat"
+    ],
+    "correct": 2,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "The letters c-a-t represent the sounds in cat."
+    },
+    "difficulty": "core",
+    "sequencePriority": 3,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The letters c-a-t represent the sounds in cat."
+    }
   },
   {
     "id": "ac9efly06-e04",
     "curriculumCode": "AC9EFLY06",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "Which sentence has spaces between the words?",
-    "explanation": "A complete accurate sentence such as “The paper boat floated.” Award 1 mark for result/topic word and 1 mark for capital plus suitable end mark; 2 marks total.",
+    "sourceType": "Multiple choice",
+    "question": "Which word is spelled correctly for /d/ /o/ /g/?",
+    "explanation": "The letters d-o-g make dog, which matches the prompt evidence.",
     "printable": true,
     "type": "single",
-    "acceptedAnswers": [
-      "A complete accurate sentence such as “The paper boat floated.”"
+    "answers": [
+      "dog",
+      "dug",
+      "gdo"
     ],
     "correct": 0,
-    "answers": [
-      "We can run.",
-      "Wecanrun.",
-      "W ecanr un."
-    ]
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "The letters d-o-g make dog, which matches the prompt evidence."
+    },
+    "difficulty": "core",
+    "sequencePriority": 4,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The letters d-o-g make dog, which matches the prompt evidence."
+    }
   },
   {
     "id": "ac9efly06-e05",
     "curriculumCode": "AC9EFLY06",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Which sentence needs a full stop?",
-    "explanation": "1 mark for sunlight/weather event, 1 mark for path/puddle change, 1 mark for logical connection/order, and 1 mark for sentence boundaries; 4 marks total.",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence records an event clearly?",
+    "explanation": "A clear event sentence has words in a meaningful order.",
     "printable": true,
     "type": "single",
-    "correct": 0,
     "answers": [
-      "I see a dog",
-      "Is that your dog?",
-      "Stop!"
-    ]
+      "went park.",
+      "We went to the park.",
+      "Park went we"
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "A clear event sentence has words in a meaningful order."
+    },
+    "difficulty": "core",
+    "sequencePriority": 5,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "A clear event sentence has words in a meaningful order."
+    }
   },
   {
     "id": "ac9efly06-e06",
     "curriculumCode": "AC9EFLY06",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "Choose the corrected sentence.",
-    "explanation": "Identifies bug or sat as correct (1 mark) and changes rok to rock (1 mark). Accept discussion that rock uses two letters for final /k/; 2 marks total.",
+    "sourceType": "Multiple choice",
+    "question": "Which edit fixes the start of the sentence? “sam has a cap.”",
+    "explanation": "The first word and name Sam need a capital letter.",
     "printable": true,
     "type": "single",
-    "correct": 0,
     "answers": [
-      "The cat is big.",
-      "the cat is big.",
-      "The cat is big"
-    ]
+      "sam has a cap.",
+      "sam has a cap",
+      "Sam has a cap."
+    ],
+    "correct": 2,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "The first word and name Sam need a capital letter."
+    },
+    "difficulty": "core",
+    "sequencePriority": 6,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The first word and name Sam need a capital letter."
+    }
   },
   {
     "id": "ac9efly06-e07",
     "curriculumCode": "AC9EFLY06",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Which word fixes the sentence? ‘I ___ a red hat.’",
-    "explanation": "1 mark each for setup, sunny result and comparison/shade result; 1 mark for logical sequence, 1 mark for at least two relevant terms such as ice cube, sunlight, shade, melted, solid; 1 mark for capitals/end marks; 6 marks total.",
+    "sourceType": "Multiple choice",
+    "question": "Which edit fixes the pronoun? “may i help?”",
+    "explanation": "The pronoun I is always capitalised, which matches the prompt evidence.",
     "printable": true,
     "type": "single",
-    "correct": 0,
     "answers": [
-      "have",
-      "has",
-      "having"
-    ]
+      "May I help?",
+      "May i help?",
+      "may i help"
+    ],
+    "correct": 0,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "The pronoun I is always capitalised, which matches the prompt evidence."
+    },
+    "difficulty": "core",
+    "sequencePriority": 7,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The pronoun I is always capitalised, which matches the prompt evidence."
+    }
   },
   {
     "id": "ac9efly06-e08",
     "curriculumCode": "AC9EFLY06",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Which sentence has spaces between the words?",
-    "explanation": "A strong version is “We got a big box. Sam put six red pegs in it. The box tipped.” Award 1 mark for three clear sentence units, 1 mark for capitals including Sam, 1 mark for pegs plural, 1 mark for tipped, and up to 2 marks for explaining any two changes; 6 marks total.",
+    "sourceType": "Multiple choice",
+    "question": "Which word completes: The ___ sat on the mat.",
+    "explanation": "Cat makes sense and matches the sentence.",
     "printable": true,
     "type": "single",
-    "correct": 0,
     "answers": [
-      "We can run.",
-      "Wecanrun.",
-      "W ecanr un."
-    ]
+      "cut",
+      "cat",
+      "cot"
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "Cat makes sense and matches the sentence."
+    },
+    "difficulty": "core",
+    "sequencePriority": 8,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Cat makes sense and matches the sentence."
+    }
+  },
+  {
+    "id": "ac9efly06-e09",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence is best for a short report?",
+    "explanation": "A report records a factual idea, which matches the prompt evidence.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Wow, the magic seed sang!",
+      "The seed danced away.",
+      "The seed has roots."
+    ],
+    "correct": 2,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "A report records a factual idea, which matches the prompt evidence."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 9,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "A report records a factual idea, which matches the prompt evidence."
+    }
+  },
+  {
+    "id": "ac9efly06-e10",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence is best for telling an event?",
+    "explanation": "The sentence records a simple event clearly.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "I saw a red bird.",
+      "Red bird saw I",
+      "bird red saw."
+    ],
+    "correct": 0,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "The sentence records a simple event clearly."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 10,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The sentence records a simple event clearly."
+    }
+  },
+  {
+    "id": "ac9efly06-e11",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "During shared editing, what should you check?",
+    "explanation": "Shared editing checks features that make writing clear.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "How fast the pencil moves.",
+      "Capital letters, end marks and spelling.",
+      "Only the colour of the paper."
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "Shared editing checks features that make writing clear."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 11,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Shared editing checks features that make writing clear."
+    },
+    "image": "/assets/quiz-visuals/foundation-english/ac9efly06-edit-card.svg",
+    "imageAlt": "Editing card showing a sentence to check for capital letter and end punctuation."
+  },
+  {
+    "id": "ac9efly06-e12",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which word has the CVC pattern?",
+    "explanation": "Sun has consonant-vowel-consonant sounds.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "shop",
+      "tree",
+      "sun"
+    ],
+    "correct": 2,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "Sun has consonant-vowel-consonant sounds."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 12,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Sun has consonant-vowel-consonant sounds."
+    }
+  },
+  {
+    "id": "ac9efly06-e13",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which word is a CVC word with short a?",
+    "explanation": "Bag has consonant-vowel-consonant sounds and uses the short a vowel sound.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "bag",
+      "blue",
+      "chair"
+    ],
+    "correct": 0,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "Bag has consonant-vowel-consonant sounds and uses the short a vowel sound."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 13,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Bag has consonant-vowel-consonant sounds and uses the short a vowel sound."
+    }
+  },
+  {
+    "id": "ac9efly06-e14",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence has correct punctuation?",
+    "explanation": "It begins with I and ends with a full stop.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "i can hop.",
+      "I can hop.",
+      "I can hop"
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "It begins with I and ends with a full stop."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 14,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "It begins with I and ends with a full stop."
+    }
+  },
+  {
+    "id": "ac9efly06-e15",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence is an asking sentence?",
+    "explanation": "Can we go? asks a question, which matches the prompt evidence.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "We can go.",
+      "We can go!",
+      "Can we go?"
+    ],
+    "correct": 2,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "Can we go? asks a question, which matches the prompt evidence."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 15,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Can we go? asks a question, which matches the prompt evidence."
+    }
+  },
+  {
+    "id": "ac9efly06-e16",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which edit makes this right: “the hen ran.”",
+    "explanation": "The first word needs a capital letter and the sentence needs an end mark.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The hen ran.",
+      "the hen ran",
+      "the Hen ran"
+    ],
+    "correct": 0,
+    "feedback": {
+      "approach": "Read the prompt carefully, then choose the answer that best matches the Foundation English skill.",
+      "reasoning": "The first word needs a capital letter and the sentence needs an end mark."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 16,
+    "qualitySchema": "20260906-foundation-english-ly02-ly06-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The first word needs a capital letter and the sentence needs an end mark."
+    }
   }
 ];
