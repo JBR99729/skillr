@@ -6,6 +6,7 @@ import vm from "node:vm";
 const root = path.resolve(import.meta.dirname, "..");
 const read = (relativePath) => fs.readFileSync(path.join(root, relativePath), "utf8");
 const exists = (relativePath) => fs.existsSync(path.join(root, relativePath));
+const reviewedCodes = new Set(JSON.parse(read("data/content-verification-status.json")).reviewedCodes);
 const errors = [];
 const assert = (condition, message) => {
   if (!condition) errors.push(message);
@@ -136,10 +137,10 @@ for (const code of codes) {
     const questionWindow = { location: { pathname: `/${questionFile}` } };
     new vm.Script(read(questionFile), { filename: questionFile }).runInNewContext({ window: questionWindow });
     const bank = isPractice ? questionWindow.skillrPracticeQuestions : questionWindow.skillrTestQuestions;
-    const expectedBankLength = isPractice ? 24 : 16;
+    const expectedBankLength = isPractice ? (reviewedCodes.has(code) ? 48 : 24) : 16;
     assert(Array.isArray(bank) && bank.length === expectedBankLength, `${code} ${mode}: expected preserved ${expectedBankLength}-question source bank`);
     assert(bank?.every((question) => question.curriculumCode === code), `${code} ${mode}: source bank contains a different curriculum code`);
-    assert(new Set((bank || []).map((question) => question.id)).size === expectedBankLength, `${code} ${mode}: source-bank IDs must stay unique`);
+    assert(new Set((bank || []).map((question) => question.id)).size === (bank || []).length, `${code} ${mode}: source-bank IDs must stay unique`);
   }
 
   const worksheetRoot = `quiz/year-3/math/${code.toLowerCase()}/worksheet`;
@@ -183,4 +184,4 @@ if (errors.length) {
 
 console.log(`Year 3 Maths pre-module notes: ${codes.length}/${codes.length} passing`);
 console.log(`Prose word counts: ${Object.entries(counts).map(([code, count]) => `${code} ${count}`).join(", ")}`);
-console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, 46 mandatory live launches, 8/12 selections, preserved 24/16 banks, same shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");
+console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, 46 mandatory live launches, 8/12 selections, reviewed 48/16 banks (legacy 24/16), same shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");
