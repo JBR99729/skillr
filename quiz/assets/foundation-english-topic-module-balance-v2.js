@@ -58,3 +58,7 @@
  window.SkillrFoundationEnglishSoundReview = Object.fromEntries(['AC9EFLY09','AC9EFLY10','AC9EFLY11'].map(code => [code, JSON.parse(JSON.stringify(window.SkillrFoundationEnglishWorksheetData[code]))]));
  if (location.pathname.includes("/worksheet/")) document.write('<script>Object.assign(window.SkillrFoundationEnglishWorksheetData, window.SkillrFoundationEnglishSoundReview);<\/script>');
 })();
+
+
+// Preserve authored LA05–LA09 worksheet banks for the scoped review.
+window.SkillrFoundationEnglishLanguageReview = Object.fromEntries(["AC9EFLA05", "AC9EFLA06", "AC9EFLA07", "AC9EFLA08", "AC9EFLA09"].map(code => [code, JSON.parse(JSON.stringify(window.SkillrFoundationEnglishWorksheetData[code]))]));
