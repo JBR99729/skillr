@@ -212,6 +212,10 @@ function updateHtml(code, bank) {
   html = html.replace(/Complete (?:an?|a) \d+-question Foundation (practice|test)/g, `Complete ${article} ${display}-question Foundation $1`);
   html = html.replace(/This page serves \d+ (practice|test) questions/g, `This page serves ${display} $1 questions`);
   html = html.replace(/<span class="summary-number" id="questionCount">\d+<\/span>/g, `<span class="summary-number" id="questionCount">${display}</span>`);
+  if (bank === "test") {
+    html = html.replace(/draws \d+ questions from a \d+-question test bank/g, "draws 12 questions from a 16-question test bank");
+    html = html.replace(/<span class="summary-number">\d+<\/span><span class="summary-label">Question bank<\/span>/g, `<span class="summary-number">16</span><span class="summary-label">Question bank</span>`);
+  }
   html = html.replace(/"maxQuestions":\d+/g, `"maxQuestions":${display}`);
   html = html.replace(/"shuffleQuestions":(?:true|false)/g, `"shuffleQuestions":true`);
   html = html.replace(/"questionCycle":(?:true|false)/g, `"questionCycle":true`);
