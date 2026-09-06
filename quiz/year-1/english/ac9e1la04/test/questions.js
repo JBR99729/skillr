@@ -1,498 +1,466 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e1la04-er1-t-001",
+    "id": "ac9e1la04-t-001",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Read: 'Swish, swish, swish goes the broom.' Which word repeats?",
-    "audioPrompt": "Read: 'Swish, swish, swish goes the broom.' Which word repeats?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly show rhythm change?",
+    "audioPrompt": "Which response would correctly show rhythm change?",
+    "visual": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show rhythm change; 🔎 repeat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001",
+      "alt_text": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence"
     },
     "answers": [
-      "swish",
-      "broom",
-      "goes"
+      "Steady version is easier because listeners can predict and follow the rhythm",
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Read without rhythm."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Swish repeats three times to create a sound pattern.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Steady version is easier because listeners can predict and follow the rhythm This matches the task.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "Swish repeats three times to create a sound pattern.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Steady version is easier because listeners can predict and follow the rhythm This matches the task.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-002",
+    "id": "ac9e1la04-t-002",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "'The small brown mouse / ran to its house.' Which line-ending words rhyme?",
-    "audioPrompt": "'The small brown mouse / ran to its house.' Which line-ending words rhyme?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you show rhythm change?",
+    "audioPrompt": "Which tip would help you show rhythm change?",
+    "visual": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002",
+      "alt_text": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
-      "brown and its",
-      "mouse and house",
-      "small and ran"
+      "Read without rhythm.",
+      "Rhyme usually matches the ending sound.",
+      "Do not listen for words or lines that come back."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Mouse and house share an ending sound that connects the lines.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Rhyme usually matches the ending sound.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "Mouse and house share an ending sound that connects the lines.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Rhyme usually matches the ending sound.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-003",
+    "id": "ac9e1la04-t-003",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 02 answer",
     "printable": true,
     "type": "single",
-    "question": "'Come and play. Come and play. It's a sunny day.' Which line repeats?",
-    "audioPrompt": "'Come and play. Come and play. It's a sunny day.' Which line repeats?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly draw a refrain pattern?",
+    "audioPrompt": "Which response would correctly draw a refrain pattern?",
+    "visual": "📖 Draw a refrain pattern; 🔎 rhyme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a refrain pattern; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-003",
+      "alt_text": "📖 Draw a refrain pattern; 🔎 rhyme; ✅ choose with evidence"
     },
     "answers": [
-      "It's a sunny day.",
-      "Come and day.",
-      "Come and play."
+      "Read without rhythm.",
+      "Do not listen for words or lines that come back.",
+      "Same refrain follows every verse and repeated text is clearly labelled"
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "The returning line makes the song predictable and easy to join.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Same refrain follows every verse and repeated text is clearly labelled This matches the task.\nHint: Clap or tap the beat first.",
     "structuredExplanation": {
-      "summary": "The returning line makes the song predictable and easy to join.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Same refrain follows every verse and repeated text is clearly labelled This matches the task.",
+      "hint": "Clap or tap the beat first."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-004",
+    "id": "ac9e1la04-t-004",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 02 strategy",
     "printable": true,
     "type": "single",
-    "question": "Finish: 'A duck went for a swim / while fish swam close to ___.'",
-    "audioPrompt": "Finish: 'A duck went for a swim / while fish swam close to ___.'",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you draw a refrain pattern?",
+    "audioPrompt": "Which tip would help you draw a refrain pattern?",
+    "visual": "🧠 Draw a refrain pattern; ➡️ Clap rhythm; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a refrain pattern; ➡️ Clap rhythm; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-004",
+      "alt_text": "🧠 Draw a refrain pattern; ➡️ Clap rhythm; 💡 helpful strategy"
     },
     "answers": [
-      "him",
-      "hat",
-      "hen"
+      "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.",
+      "Do not listen for words or lines that come back.",
+      "Choose a word with the same first sound instead of a rhyme."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "Him rhymes with swim and fits the meaning of the line.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.\nHint: Clap or tap the beat first.",
     "structuredExplanation": {
-      "summary": "Him rhymes with swim and fits the meaning of the line.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.",
+      "hint": "Clap or tap the beat first."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-005",
+    "id": "ac9e1la04-t-005",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 03 answer",
     "printable": true,
     "type": "single",
-    "question": "'Pop, pop, pop! / Stop, stop, stop!' What pattern is shared?",
-    "audioPrompt": "'Pop, pop, pop! / Stop, stop, stop!' What pattern is shared?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly correct spelling-only reasoning?",
+    "audioPrompt": "Which response would correctly correct spelling-only reasoning?",
+    "visual": "📖 Correct spelling-only reasoning; 🔎 rhythm; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct spelling-only reasoning; 🔎 rhythm; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-005",
+      "alt_text": "📖 Correct spelling-only reasoning; 🔎 rhythm; ✅ choose with evidence"
     },
     "answers": [
-      "Each line has a different number of words.",
-      "Each line repeats one short word three times.",
-      "Each line names three different animals."
+      "ove",
+      "Rhyme depends on spoken ending sound; move and love have different vowel sounds",
+      "Do not listen for words or lines that come back."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "The same repeated-word structure connects the two lines.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Rhyme depends on spoken ending sound; move and love have different vowel sounds This matches the task.\nHint: Listen for words or lines that come back.",
     "structuredExplanation": {
-      "summary": "The same repeated-word structure connects the two lines.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Rhyme depends on spoken ending sound; move and love have different vowel sounds This matches the task.",
+      "hint": "Listen for words or lines that come back."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-006",
+    "id": "ac9e1la04-t-006",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 03 strategy",
     "printable": true,
     "type": "single",
-    "question": "Read: 'Snow falls slow / on the path below.' Which words have matching ending sounds?",
-    "audioPrompt": "Read: 'Snow falls slow / on the path below.' Which words have matching ending sounds?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you correct spelling-only reasoning?",
+    "audioPrompt": "Which tip would help you correct spelling-only reasoning?",
+    "visual": "🧠 Correct spelling-only reasoning; ➡️ Find repeat; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct spelling-only reasoning; ➡️ Find repeat; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-006",
+      "alt_text": "🧠 Correct spelling-only reasoning; ➡️ Find repeat; 💡 helpful strategy"
     },
     "answers": [
-      "snow and path",
-      "falls and the",
-      "slow and below"
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Read without rhythm.",
+      "Look for rhythm and check the whole example."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Slow and below rhyme even though they contain different numbers of syllables.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Look for rhythm and check the whole example.\nHint: Listen for words or lines that come back.",
     "structuredExplanation": {
-      "summary": "Slow and below rhyme even though they contain different numbers of syllables.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Look for rhythm and check the whole example.",
+      "hint": "Listen for words or lines that come back."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-007",
+    "id": "ac9e1la04-t-007",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 04 answer",
     "printable": true,
     "type": "single",
-    "question": "A chant goes 'Bend, stretch, jump. Bend, stretch, jump.' Which line continues it?",
-    "audioPrompt": "A chant goes 'Bend, stretch, jump. Bend, stretch, jump.' Which line continues it?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly analyse a short chant?",
+    "audioPrompt": "Which response would correctly analyse a short chant?",
+    "visual": "📖 Analyse a short chant; 🔎 chant; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a short chant; 🔎 chant; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-007",
+      "alt_text": "📖 Analyse a short chant; 🔎 chant; ✅ choose with evidence"
     },
     "answers": [
-      "Bend, stretch, jump.",
-      "Stretch, jump, bend.",
-      "Jump, jump, bend."
+      "Repetition: turn around; rhyme: ground/sound; repeated structure supports a predictable beat and cohesion",
+      "Turn around, touch the ground; turn around, make no sound",
+      "Choose a word with the same first sound instead of a rhyme."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Continuing the order preserves the chant's repeated pattern.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Repetition: turn around; rhyme: ground/sound; repeated structure supports a predictable beat and cohesion This matches the task.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "Continuing the order preserves the chant's repeated pattern.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Repetition: turn around; rhyme: ground/sound; repeated structure supports a predictable beat and cohesion This matches the task.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-008",
+    "id": "ac9e1la04-t-008",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 04 strategy",
     "printable": true,
     "type": "single",
-    "question": "'We heard the sheep / and fell ___.' Which word rhymes and makes sense?",
-    "audioPrompt": "'We heard the sheep / and fell ___.' Which word rhymes and makes sense?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you analyse a short chant?",
+    "audioPrompt": "Which tip would help you analyse a short chant?",
+    "visual": "🧠 Analyse a short chant; ➡️ Find rhyme; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a short chant; ➡️ Find rhyme; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-008",
+      "alt_text": "🧠 Analyse a short chant; ➡️ Find rhyme; 💡 helpful strategy"
     },
     "answers": [
-      "keep",
-      "asleep",
-      "deep"
+      "Read without rhythm.",
+      "Check that you can perform pattern.",
+      "Do not listen for words or lines that come back."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Asleep rhymes with sheep and forms the familiar phrase fell asleep.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Check that you can perform pattern.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "Asleep rhymes with sheep and forms the familiar phrase fell asleep.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Check that you can perform pattern.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-009",
+    "id": "ac9e1la04-t-009",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "Read aloud: 'Shake the bell / by the well.' How are the endings connected?",
-    "audioPrompt": "Read aloud: 'Shake the bell / by the well.' How are the endings connected?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002",
+      "alt_text": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
-      "Bell means the same as well.",
-      "Well repeats the word bell.",
-      "Bell rhymes with well."
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Read without rhythm.",
+      "Rhyme usually matches the ending sound."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "The ending sounds match even though the words have different meanings.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Rhyme usually matches the ending sound. is the useful check. Rhyme usually matches the ending sound.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "The ending sounds match even though the words have different meanings.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Rhyme usually matches the ending sound. is the useful check. Rhyme usually matches the ending sound.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-010",
+    "id": "ac9e1la04-t-010",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "A poem ends with sun, bun and sit. Which word breaks the rhyme pattern?",
-    "audioPrompt": "A poem ends with sun, bun and sit. Which word breaks the rhyme pattern?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw a refrain pattern; ➡️ Clap rhythm; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a refrain pattern; ➡️ Clap rhythm; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-004",
+      "alt_text": "🧠 Draw a refrain pattern; ➡️ Clap rhythm; 💡 helpful strategy"
     },
     "answers": [
-      "sit",
-      "sun",
-      "bun"
+      "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.",
+      "Read without rhythm.",
+      "Do not listen for words or lines that come back."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Sun and bun rhyme; sit ends with a different sound.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform. is the useful check. Clap or tap the beat first.\nHint: Clap or tap the beat first.",
     "structuredExplanation": {
-      "summary": "Sun and bun rhyme; sit ends with a different sound.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform. is the useful check. Clap or tap the beat first.",
+      "hint": "Clap or tap the beat first."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-011",
+    "id": "ac9e1la04-t-011",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "Say 'Knock, knock, tap' on three equal beats. Which replacement fits the same pattern?",
-    "audioPrompt": "Say 'Knock, knock, tap' on three equal beats. Which replacement fits the same pattern?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct spelling-only reasoning; ➡️ Find repeat; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct spelling-only reasoning; ➡️ Find repeat; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-006",
+      "alt_text": "🧠 Correct spelling-only reasoning; ➡️ Find repeat; 💡 helpful strategy"
     },
     "answers": [
-      "Clap and then turn around.",
-      "Clap, clap, stamp.",
-      "Clapping very softly."
+      "ove",
+      "Look for rhythm and check the whole example.",
+      "Do not listen for words or lines that come back."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Three short words can match the three equal beats.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Look for rhythm and check the whole example. is the useful check. Listen for words or lines that come back.\nHint: Listen for words or lines that come back.",
     "structuredExplanation": {
-      "summary": "Three short words can match the three equal beats.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Look for rhythm and check the whole example. is the useful check. Listen for words or lines that come back.",
+      "hint": "Listen for words or lines that come back."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-012",
+    "id": "ac9e1la04-t-012",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "'Follow the trail / past a shiny ___.' Which ending both rhymes and names something you might pass?",
-    "audioPrompt": "'Follow the trail / past a shiny ___.' Which ending both rhymes and names something you might pass?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Analyse a short chant; ➡️ Find rhyme; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a short chant; ➡️ Find rhyme; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-008",
+      "alt_text": "🧠 Analyse a short chant; ➡️ Find rhyme; 💡 helpful strategy"
     },
     "answers": [
-      "sailor",
-      "stone",
-      "snail"
+      "Turn around, touch the ground; turn around, make no sound",
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Check that you can perform pattern."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Snail rhymes with trail and fits as something beside a path.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Check that you can perform pattern. is the useful check. Rhyme usually matches the ending sound.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "Snail rhymes with trail and fits as something beside a path.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Check that you can perform pattern. is the useful check. Rhyme usually matches the ending sound.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-013",
+    "id": "ac9e1la04-t-013",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A verse repeats 'Little waves' at the start of each line. What does that repetition help do?",
-    "audioPrompt": "A verse repeats 'Little waves' at the start of each line. What does that repetition help do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Choose a word with the same first sound instead of a rhyme.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Choose a word with the same first sound instead of a rhyme.. Which answer would improve their response?",
+    "visual": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show rhythm change; 🔎 repeat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001",
+      "alt_text": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence"
     },
     "answers": [
-      "Keep the waves as the shared subject.",
-      "Tell us the exact depth of the sea.",
-      "Make every line describe a different topic."
+      "Steady version is easier because listeners can predict and follow the rhythm",
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Read without rhythm."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Repeating the subject ties the descriptions together.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Steady version is easier because listeners can predict and follow the rhythm is the stronger response because it uses the target skill. Rhyme usually matches the ending sound.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "Repeating the subject ties the descriptions together.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Steady version is easier because listeners can predict and follow the rhythm is the stronger response because it uses the target skill. Rhyme usually matches the ending sound.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-014",
+    "id": "ac9e1la04-t-014",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "A writer changes 'The bear sat on a chair' to 'The bear sat on a stool'. What is lost?",
-    "audioPrompt": "A writer changes 'The bear sat on a chair' to 'The bear sat on a stool'. What is lost?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Read without rhythm.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Read without rhythm.. Which answer would improve their response?",
+    "visual": "📖 Draw a refrain pattern; 🔎 rhyme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a refrain pattern; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-003",
+      "alt_text": "📖 Draw a refrain pattern; 🔎 rhyme; ✅ choose with evidence"
     },
     "answers": [
-      "The name of the animal.",
-      "The rhyme between bear and chair.",
-      "The idea that the bear is sitting."
+      "Read without rhythm.",
+      "Same refrain follows every verse and repeated text is clearly labelled",
+      "Do not listen for words or lines that come back."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "The action remains, but stool no longer rhymes with bear.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Same refrain follows every verse and repeated text is clearly labelled is the stronger response because it uses the target skill. Clap or tap the beat first.\nHint: Clap or tap the beat first.",
     "structuredExplanation": {
-      "summary": "The action remains, but stool no longer rhymes with bear.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Same refrain follows every verse and repeated text is clearly labelled is the stronger response because it uses the target skill. Clap or tap the beat first.",
+      "hint": "Clap or tap the beat first."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-015",
+    "id": "ac9e1la04-t-015",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A song repeats 'Here we come' after each new verse. What helps the class sing that part together?",
-    "audioPrompt": "A song repeats 'Here we come' after each new verse. What helps the class sing that part together?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “ove”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose ove. Which answer would improve their response?",
+    "visual": "📖 Correct spelling-only reasoning; 🔎 rhythm; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct spelling-only reasoning; 🔎 rhythm; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-005",
+      "alt_text": "📖 Correct spelling-only reasoning; 🔎 rhythm; ✅ choose with evidence"
     },
     "answers": [
-      "They must invent new words every time.",
-      "They can ignore the timing completely.",
-      "They can predict the returning words."
+      "ove",
+      "Do not listen for words or lines that come back.",
+      "Rhyme depends on spoken ending sound; move and love have different vowel sounds"
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Familiar repeated words let singers anticipate the shared line.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Rhyme depends on spoken ending sound; move and love have different vowel sounds is the stronger response because it uses the target skill. Listen for words or lines that come back.\nHint: Listen for words or lines that come back.",
     "structuredExplanation": {
-      "summary": "Familiar repeated words let singers anticipate the shared line.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Rhyme depends on spoken ending sound; move and love have different vowel sounds is the stronger response because it uses the target skill. Listen for words or lines that come back.",
+      "hint": "Listen for words or lines that come back."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la04-er1-t-016",
+    "id": "ac9e1la04-t-016",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "repetition, rhyme and rhythm connecting poems, chants and songs",
+    "skill": "ac9e1la04 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "'Slow, slow, slow we creep. / Leap! Leap! Leap!' Why does the change in the second line stand out?",
-    "audioPrompt": "'Slow, slow, slow we creep. / Leap! Leap! Leap!' Why does the change in the second line stand out?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Turn around, touch the ground; turn around, make no sound”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Turn around, touch the ground; turn around, make no sound. Which answer would improve their response?",
+    "visual": "📖 Analyse a short chant; 🔎 chant; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a short chant; 🔎 chant; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-007",
+      "alt_text": "📖 Analyse a short chant; 🔎 chant; ✅ choose with evidence"
     },
     "answers": [
-      "The action words change from creeping to leaping.",
-      "The second line repeats creep without a change.",
-      "The lines give two names for the same animal."
+      "Repetition: turn around; rhyme: ground/sound; repeated structure supports a predictable beat and cohesion",
+      "Turn around, touch the ground; turn around, make no sound",
+      "Choose a word with the same first sound instead of a rhyme."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "The repeated slow movement sets up a noticeable switch to energetic movement.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Repetition: turn around; rhyme: ground/sound; repeated structure supports a predictable beat and cohesion is the stronger response because it uses the target skill. Rhyme usually matches the ending sound.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "The repeated slow movement sets up a noticeable switch to energetic movement.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Repetition: turn around; rhyme: ground/sound; repeated structure supports a predictable beat and cohesion is the stronger response because it uses the target skill. Rhyme usually matches the ending sound.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   }

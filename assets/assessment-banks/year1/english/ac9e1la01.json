@@ -1,1722 +1,1954 @@
 [
   {
-    "id": "ac9e1la01-er1-p-001",
+    "id": "AC9E1LA01-P-001",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "You need to know where the library is. What could you ask?",
-    "audio_prompt": "You need to know where the library is. What could you ask?",
+    "skill": "ac9e1la01_01_recognise",
+    "question": "What is the purpose of 'Please may I borrow the ruler?'",
+    "audio_prompt": "What is the purpose of 'Please may I borrow the ruler?'",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-001",
+      "alt_text": "📖 Identify a request; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Where is the library?",
+        "text": "It is a polite request asking to borrow the ruler",
         "is_correct": true
       },
       {
-        "text": "The library is open.",
+        "text": "It is a polite question asking to borrow the ruler",
         "is_correct": false
       },
       {
-        "text": "Please open the library.",
+        "text": "It is a polite command asking to borrow the ruler",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Where asks for information about a place.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "It is a polite request asking to borrow the ruler This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 1,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "recognise"
   },
   {
-    "id": "ac9e1la01-er1-p-002",
+    "id": "AC9E1LA01-P-002",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A friend drops a stack of books. Which words offer help?",
-    "audio_prompt": "A friend drops a stack of books. Which words offer help?",
+    "skill": "ac9e1la01_02_recognise",
+    "question": "Which response would correctly match words and purposes?",
+    "audio_prompt": "Which response would correctly match words and purposes?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-003",
+      "alt_text": "📖 Match words and purposes; 🔎 offer; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Why are those books there?",
+        "text": "Help ↔ offer; library ↔ request; stand ↔ command",
         "is_correct": false
       },
       {
-        "text": "Would you like me to carry some?",
-        "is_correct": true
-      },
-      {
-        "text": "Can you carry my books?",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "An offer says what you are willing to do for someone else.",
-      "hint": "Read the whole example and check what the question asks."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 2,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
-  },
-  {
-    "id": "ac9e1la01-er1-p-003",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A coach says, 'Stand behind the line.' What is the coach doing?",
-    "audio_prompt": "A coach says, 'Stand behind the line.' What is the coach doing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Asking where the line is.",
+        "text": "Help ↔ offer; library ↔ command; stand ↔ command",
         "is_correct": false
       },
       {
-        "text": "Offering to draw a line.",
-        "is_correct": false
-      },
-      {
-        "text": "Giving an instruction.",
+        "text": "Help ↔ offer; library ↔ question; stand ↔ command",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The words tell the players what to do.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Help ↔ offer; library ↔ question; stand ↔ command This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 3,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "recognise"
   },
   {
-    "id": "ac9e1la01-er1-p-004",
+    "id": "AC9E1LA01-P-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A child sees a huge rainbow and says, 'Wow, look at those colours!' What do the words show?",
-    "audio_prompt": "A child sees a huge rainbow and says, 'Wow, look at those colours!' What do the words show?",
+    "skill": "ac9e1la01_03_recognise",
+    "question": "Which response would correctly show two meanings?",
+    "audio_prompt": "Which response would correctly show two meanings?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-005",
+      "alt_text": "📖 Show two meanings; 🔎 request; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Surprise and excitement.",
+        "text": "That is the one",
+        "is_correct": false
+      },
+      {
+        "text": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
         "is_correct": true
       },
       {
-        "text": "A request to borrow colours.",
-        "is_correct": false
-      },
-      {
-        "text": "An answer about the time.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Wow and the exclamation express a strong reaction.",
-      "hint": "Read the whole example and check what the question asks."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 4,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
-  },
-  {
-    "id": "ac9e1la01-er1-p-005",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'What time does the bus leave?' Which reply provides the information asked for?",
-    "audio_prompt": "'What time does the bus leave?' Which reply provides the information asked for?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It is a yellow bus.",
-        "is_correct": false
-      },
-      {
-        "text": "It leaves at nine.",
-        "is_correct": true
-      },
-      {
-        "text": "It stops by the gate.",
+        "text": "Use one voice for every purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The question asks when, so the reply needs a time.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture This matches the task.",
+      "hint": "Change volume, tone or gesture to match meaning."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 5,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "recognise"
   },
   {
-    "id": "ac9e1la01-er1-p-006",
+    "id": "AC9E1LA01-P-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "You would like a turn with the paintbrush. Which words make a request?",
-    "audio_prompt": "You would like a turn with the paintbrush. Which words make a request?",
+    "skill": "ac9e1la01_04_recognise",
+    "question": "Which response would correctly turn a command into a request?",
+    "audio_prompt": "Which response would correctly turn a command into a request?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-007",
+      "alt_text": "📖 Turn a command into a request; 🔎 command; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "I have finished painting.",
-        "is_correct": false
-      },
-      {
-        "text": "Would you like my brush?",
-        "is_correct": false
-      },
-      {
-        "text": "May I use it when you finish?",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A request asks another person to let you do or have something.",
-      "hint": "Read the whole example and check what the question asks."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 6,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
-  },
-  {
-    "id": "ac9e1la01-er1-p-007",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A child points to an empty chair and says, 'You can sit here.' What does pointing help show?",
-    "audio_prompt": "A child points to an empty chair and says, 'You can sit here.' What does pointing help show?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Which seat is being offered.",
+        "text": "'Could you please pass me the scissors?'",
         "is_correct": true
       },
       {
-        "text": "When the visitor arrived.",
+        "text": "Give me the scissors",
         "is_correct": false
       },
       {
-        "text": "Why the chair was made.",
+        "text": "Check only the words.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The gesture gives a clear location for here.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "'Could you please pass me the scissors?' This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 7,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "recognise"
   },
   {
-    "id": "ac9e1la01-er1-p-008",
+    "id": "AC9E1LA01-P-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A friend asks, 'Did you enjoy the play?' You smile and say, 'Yes!' How do the words and expression work together?",
-    "audio_prompt": "A friend asks, 'Did you enjoy the play?' You smile and say, 'Yes!' How do the words and expression work together?",
+    "skill": "ac9e1la01_05_recognise",
+    "question": "Which response would correctly order an information exchange?",
+    "audio_prompt": "Which response would correctly order an information exchange?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-009",
+      "alt_text": "📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "The smile asks a new question.",
+        "text": "It starts at ten",
         "is_correct": false
       },
       {
-        "text": "Both show that you enjoyed it.",
+        "text": "When does the game start",
+        "is_correct": false
+      },
+      {
+        "text": "Ask question → provide answer → acknowledge",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ask question → provide answer → acknowledge This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
+    },
+    "stage": "recognise"
+  },
+  {
+    "id": "AC9E1LA01-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_06_recognise",
+    "question": "Which response would correctly draw matching expressions?",
+    "audio_prompt": "Which response would correctly draw matching expressions?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-011",
+      "alt_text": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "What a wonderful surprise",
+        "is_correct": false
+      },
+      {
+        "text": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
         "is_correct": true
       },
       {
-        "text": "The smile changes yes to no.",
+        "text": "I do not understand yet",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "In this situation, the smile supports the spoken answer.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label This matches the task.",
+      "hint": "Change volume, tone or gesture to match meaning."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 8,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "recognise"
   },
   {
-    "id": "ac9e1la01-er1-p-009",
+    "id": "AC9E1LA01-P-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A librarian asks, 'Which book are you returning?' Which answer is most useful?",
-    "audio_prompt": "A librarian asks, 'Which book are you returning?' Which answer is most useful?",
+    "skill": "ac9e1la01_07_recognise",
+    "question": "Which response would correctly explain a mixed message?",
+    "audio_prompt": "Which response would correctly explain a mixed message?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-013",
+      "alt_text": "📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "I return books each week.",
-        "is_correct": false
-      },
-      {
-        "text": "I enjoyed reading at home.",
-        "is_correct": false
-      },
-      {
-        "text": "The book about frogs.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Which asks you to identify the particular book.",
-      "hint": "Read the whole example and check what the question asks."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 9,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
-  },
-  {
-    "id": "ac9e1la01-er1-p-010",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'Can I help you zip your bag?' Who is offering to help?",
-    "audio_prompt": "'Can I help you zip your bag?' Who is offering to help?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The person who says the words.",
+        "text": "Words signal willingness, but expression/body language signal reluctance or unhappiness",
         "is_correct": true
       },
       {
-        "text": "The person holding the bag.",
+        "text": "I am happy to help",
         "is_correct": false
       },
       {
-        "text": "Both people are asking for help.",
+        "text": "Check only the words.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Can I help offers the speaker's help to the listener.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Words signal willingness, but expression/body language signal reluctance or unhappiness This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 10,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "recognise"
   },
   {
-    "id": "ac9e1la01-er1-p-011",
+    "id": "AC9E1LA01-P-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "You want someone to pass the glue. Which sentence asks them politely to act?",
-    "audio_prompt": "You want someone to pass the glue. Which sentence asks them politely to act?",
+    "skill": "ac9e1la01_08_recognise",
+    "question": "Which response would correctly choose language for a situation?",
+    "audio_prompt": "Which response would correctly choose language for a situation?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-015",
+      "alt_text": "📖 Choose language for a situation; 🔎 request; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "I used the glue yesterday.",
+        "text": "Do not use polite wording when asking someone to do something.",
         "is_correct": false
       },
       {
-        "text": "Could you pass the glue, please?",
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
+    },
+    "stage": "recognise"
+  },
+  {
+    "id": "AC9E1LA01-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_09_recognise",
+    "question": "Which response would correctly classify an exclamation?",
+    "audio_prompt": "Which response would correctly classify an exclamation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-017",
+      "alt_text": "📖 Classify an exclamation; 🔎 command; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Watch out",
+        "is_correct": false
+      },
+      {
+        "text": "It is an exclamation/warning intended to get urgent attention",
         "is_correct": true
       },
       {
-        "text": "The glue is beside your hand.",
+        "text": "Use one voice for every purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The first sentence makes the requested action clear.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "It is an exclamation/warning intended to get urgent attention This matches the task.",
+      "hint": "Change volume, tone or gesture to match meaning."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 11,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "recognise"
   },
   {
-    "id": "ac9e1la01-er1-p-012",
+    "id": "AC9E1LA01-P-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A friend says, 'Come over here,' but you cannot tell where. What would make the message clearer?",
-    "audio_prompt": "A friend says, 'Come over here,' but you cannot tell where. What would make the message clearer?",
+    "skill": "ac9e1la01_10_recognise",
+    "question": "Which response would correctly match fresh cues?",
+    "audio_prompt": "Which response would correctly match fresh cues?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-019",
+      "alt_text": "📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Say the same words more quietly.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe what they ate for lunch.",
-        "is_correct": false
-      },
-      {
-        "text": "Point to the place they mean.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Pointing can show the location that here refers to.",
-      "hint": "Read the whole example and check what the question asks."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 12,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
-  },
-  {
-    "id": "ac9e1la01-er1-p-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A teacher holds up a hand and says, 'Wait.' How do the gesture and word work together?",
-    "audio_prompt": "A teacher holds up a hand and says, 'Wait.' How do the gesture and word work together?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Both tell the class to pause.",
+        "text": "Each gesture/expression matches the stated spoken meaning",
         "is_correct": true
       },
       {
-        "text": "The hand tells the class to hurry.",
+        "text": "Really",
         "is_correct": false
       },
       {
-        "text": "The word asks who raised a hand.",
+        "text": "Here you are",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The gesture supports the instruction to stop for a moment.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Each gesture/expression matches the stated spoken meaning This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 13,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "recognise"
   },
   {
-    "id": "ac9e1la01-er1-p-014",
+    "id": "AC9E1LA01-P-011",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'Please tell me how you made that tower.' What does the speaker want?",
-    "audio_prompt": "'Please tell me how you made that tower.' What does the speaker want?",
+    "skill": "ac9e1la01_01_explain",
+    "question": "Which tip would help you identify a request?",
+    "audio_prompt": "Which tip would help you identify a request?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-002",
+      "alt_text": "🧠 Identify a request; ➡️ Notice purpose; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "An offer to lend more blocks.",
+        "text": "Do not use polite wording when asking someone to do something.",
         "is_correct": false
       },
       {
-        "text": "Information about the method.",
+        "text": "notice face, gesture, voice and relationship.",
         "is_correct": true
       },
       {
-        "text": "Permission to knock it down.",
+        "text": "Use one voice for every purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How asks about the way something was done.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 14,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "explain"
   },
   {
-    "id": "ac9e1la01-er1-p-015",
+    "id": "AC9E1LA01-P-012",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A child is far across the playground. You need to get their attention. Which choice fits?",
-    "audio_prompt": "A child is far across the playground. You need to get their attention. Which choice fits?",
+    "skill": "ac9e1la01_02_explain",
+    "question": "Which tip would help you match words and purposes?",
+    "audio_prompt": "Which tip would help you match words and purposes?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-004",
+      "alt_text": "🧠 Match words and purposes; ➡️ Choose words; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Whisper their name into your sleeve.",
-        "is_correct": false
-      },
-      {
-        "text": "Point at your own shoes silently.",
-        "is_correct": false
-      },
-      {
-        "text": "Call their name clearly and wave.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A clear call and wave are easier to notice from a distance.",
-      "hint": "Read the whole example and check what the question asks."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 15,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
-  },
-  {
-    "id": "ac9e1la01-er1-p-016",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A baby is asleep nearby. How could you ask for your blanket?",
-    "audio_prompt": "A baby is asleep nearby. How could you ask for your blanket?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Speak softly: 'Please pass my blanket.'",
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
         "is_correct": true
       },
       {
-        "text": "Shout: 'PLEASE PASS MY BLANKET!'",
+        "text": "Use one voice for every purpose.",
         "is_correct": false
       },
       {
-        "text": "Say loudly: 'What a blanket!'",
+        "text": "Check only the words.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A soft, clear request suits the quiet setting.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+      "hint": "Use polite wording when asking someone to do something."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 16,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "explain"
   },
   {
-    "id": "ac9e1la01-er1-p-017",
+    "id": "AC9E1LA01-P-013",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "One child says, 'Can I carry your lunchbox?' Another says, 'Can you carry mine?' How are the messages different?",
-    "audio_prompt": "One child says, 'Can I carry your lunchbox?' Another says, 'Can you carry mine?' How are the messages different?",
+    "skill": "ac9e1la01_03_explain",
+    "question": "Which tip would help you show two meanings?",
+    "audio_prompt": "Which tip would help you show two meanings?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-006",
+      "alt_text": "🧠 Show two meanings; ➡️ Use voice/gesture; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Both ask where the lunchboxes are.",
+        "text": "Check only the words.",
         "is_correct": false
       },
       {
-        "text": "The first offers help; the second asks for help.",
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for request and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for request and check the whole example.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA01-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_04_explain",
+    "question": "Which tip would help you turn a command into a request?",
+    "audio_prompt": "Which tip would help you turn a command into a request?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-008",
+      "alt_text": "🧠 Turn a command into a request; ➡️ Check response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice gesture/facial expression.",
         "is_correct": true
       },
       {
-        "text": "Both offer to carry the other person's lunchbox.",
+        "text": "Use one voice for every purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Changing I to you changes who is being asked to do the carrying.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Check that you can notice gesture/facial expression.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 17,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "explain"
   },
   {
-    "id": "ac9e1la01-er1-p-018",
+    "id": "AC9E1LA01-P-015",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A visitor looks puzzled after you say, 'Put it there.' What is the clearest repair?",
-    "audio_prompt": "A visitor looks puzzled after you say, 'Put it there.' What is the clearest repair?",
+    "skill": "ac9e1la01_05_explain",
+    "question": "Which tip would help you order an information exchange?",
+    "audio_prompt": "Which tip would help you order an information exchange?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-010",
+      "alt_text": "🧠 Order an information exchange; ➡️ Notice purpose; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Repeat there without pointing.",
-        "is_correct": false
-      },
-      {
-        "text": "Tell the visitor to guess.",
-        "is_correct": false
-      },
-      {
-        "text": "Name the object and point to its place.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Naming the object and location removes the missing information.",
-      "hint": "Read the whole example and check what the question asks."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 18,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
-  },
-  {
-    "id": "ac9e1la01-er1-p-019",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "Your friend says, 'I'm fine,' but is crying. What could you say to check what they mean?",
-    "audio_prompt": "Your friend says, 'I'm fine,' but is crying. What could you say to check what they mean?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "You look upset. Would you like to talk?",
+        "text": "Sequencing a question-and-answer interaction.",
         "is_correct": true
       },
       {
-        "text": "You said fine, so you must be happy.",
+        "text": "Use one voice for every purpose.",
         "is_correct": false
       },
       {
-        "text": "Stop crying because you said fine.",
+        "text": "Check only the words.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Words and facial expression may give different clues; a question checks rather than assumes.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Sequencing a question-and-answer interaction.",
+      "hint": "Use polite wording when asking someone to do something."
     },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 19,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "explain"
   },
   {
-    "id": "ac9e1la01-er1-p-020",
+    "id": "AC9E1LA01-P-016",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A teacher says, 'Could you close the door, please?' Is the teacher mainly testing whether you can close doors?",
-    "audio_prompt": "A teacher says, 'Could you close the door, please?' Is the teacher mainly testing whether you can close doors?",
+    "skill": "ac9e1la01_06_explain",
+    "question": "Which tip would help you draw matching expressions?",
+    "audio_prompt": "Which tip would help you draw matching expressions?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-012",
+      "alt_text": "🧠 Draw matching expressions; ➡️ Choose words; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "No; the teacher is offering to close it for you.",
+        "text": "Check only the words.",
         "is_correct": false
       },
       {
-        "text": "No; the teacher is politely asking for an action.",
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Change volume, tone or gesture to match meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA01-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_07_explain",
+    "question": "Which tip would help you explain a mixed message?",
+    "audio_prompt": "Which tip would help you explain a mixed message?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-014",
+      "alt_text": "🧠 Explain a mixed message; ➡️ Use voice/gesture; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
         "is_correct": true
       },
       {
-        "text": "Yes; the teacher wants a yes-or-no answer only.",
+        "text": "Use one voice for every purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A sentence shaped like a question can function as a polite request.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 20,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "explain"
   },
   {
-    "id": "ac9e1la01-er1-p-021",
+    "id": "AC9E1LA01-P-018",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'Where did you put the ball?' 'After lunch.' Why does this reply not answer the question?",
-    "audio_prompt": "'Where did you put the ball?' 'After lunch.' Why does this reply not answer the question?",
+    "skill": "ac9e1la01_08_explain",
+    "question": "Which tip would help you choose language for a situation?",
+    "audio_prompt": "Which tip would help you choose language for a situation?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-016",
+      "alt_text": "🧠 Choose language for a situation; ➡️ Check response; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "It gives a place instead of a time.",
-        "is_correct": false
-      },
-      {
-        "text": "It tells how the ball looks.",
-        "is_correct": false
-      },
-      {
-        "text": "It gives a time instead of a place.",
+        "text": "Look for request and check the whole example.",
         "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Where asks for a location; after lunch answers when.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Look for request and check the whole example.",
+      "hint": "Use polite wording when asking someone to do something."
     },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 21,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "explain"
   },
   {
-    "id": "ac9e1la01-er1-p-022",
+    "id": "AC9E1LA01-P-019",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "You say, 'Would you like a turn?' Your friend nods and reaches for the game. What do the clues suggest?",
-    "audio_prompt": "You say, 'Would you like a turn?' Your friend nods and reaches for the game. What do the clues suggest?",
+    "skill": "ac9e1la01_09_explain",
+    "question": "Which tip would help you classify an exclamation?",
+    "audio_prompt": "Which tip would help you classify an exclamation?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-018",
+      "alt_text": "🧠 Classify an exclamation; ➡️ Notice purpose; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "They are accepting your offer.",
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice gesture/facial expression.",
         "is_correct": true
-      },
-      {
-        "text": "They are asking you to hide the game.",
-        "is_correct": false
-      },
-      {
-        "text": "They are telling you the game is broken.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The nod and reaching action support acceptance in this context.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Check that you can notice gesture/facial expression.",
+      "hint": "Change volume, tone or gesture to match meaning."
     },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 22,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "explain"
   },
   {
-    "id": "ac9e1la01-er1-p-023",
+    "id": "AC9E1LA01-P-020",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A child whispers, 'Help, my finger is stuck.' Why should you listen to the words as well as the quiet voice?",
-    "audio_prompt": "A child whispers, 'Help, my finger is stuck.' Why should you listen to the words as well as the quiet voice?",
+    "skill": "ac9e1la01_10_explain",
+    "question": "Which tip would help you match fresh cues?",
+    "audio_prompt": "Which tip would help you match fresh cues?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-020",
+      "alt_text": "🧠 Match fresh cues; ➡️ Choose words; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Whispering always means the words are a joke.",
+        "text": "Do not use polite wording when asking someone to do something.",
         "is_correct": false
       },
       {
-        "text": "A quiet voice can still make an urgent request.",
+        "text": "Interpreting coordinated verbal and non-verbal cues.",
         "is_correct": true
       },
       {
-        "text": "Only a loud voice can ask for help.",
+        "text": "Use one voice for every purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Volume alone does not tell you how serious a message is.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Interpreting coordinated verbal and non-verbal cues.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 23,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "explain"
   },
   {
-    "id": "ac9e1la01-er1-p-024",
+    "id": "AC9E1LA01-P-021",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
     "bank": "practice",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'What a tall tower!' and 'How tall is the tower?' How do their purposes differ?",
-    "audio_prompt": "'What a tall tower!' and 'How tall is the tower?' How do their purposes differ?",
+    "skill": "ac9e1la01_01_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-001",
+      "alt_text": "📖 Identify a request; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Both ask someone to measure the tower.",
-        "is_correct": false
-      },
-      {
-        "text": "One offers help; the other gives an instruction.",
-        "is_correct": false
-      },
-      {
-        "text": "One reacts with surprise; the other asks for information.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "An exclamation reacts, while the how question seeks an answer.",
-      "hint": "Read the whole example and check what the question asks."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 24,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
-  },
-  {
-    "id": "ac9e1la01-er1-t-001",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "You want to find out who owns a coat. Which words fit?",
-    "audio_prompt": "You want to find out who owns a coat. Which words fit?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Whose coat is this?",
+        "text": "It is a polite question asking to borrow the ruler",
         "is_correct": true
       },
       {
-        "text": "Please put on this coat.",
+        "text": "It is a polite request asking to borrow the ruler",
         "is_correct": false
       },
       {
-        "text": "This coat feels soft.",
+        "text": "notice face, gesture, voice and relationship.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Whose asks who something belongs to.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "It is a polite question asking to borrow the ruler is the mix-up. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 1,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "discriminate"
   },
   {
-    "id": "ac9e1la01-er1-t-002",
+    "id": "AC9E1LA01-P-022",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A classmate cannot reach a shelf. Which words offer assistance?",
-    "audio_prompt": "A classmate cannot reach a shelf. Which words offer assistance?",
+    "bank": "practice",
+    "skill": "ac9e1la01_02_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-003",
+      "alt_text": "📖 Match words and purposes; 🔎 offer; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Which shelf is the tallest?",
+        "text": "Help ↔ offer; library ↔ question; stand ↔ command",
         "is_correct": false
       },
       {
-        "text": "I can get that book for you.",
+        "text": "Help ↔ offer; library ↔ request; stand ↔ command",
         "is_correct": true
       },
       {
-        "text": "Can you get a book for me?",
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The speaker offers to do something helpful for the classmate.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Help ↔ offer; library ↔ request; stand ↔ command is the mix-up. Use polite wording when asking someone to do something.",
+      "hint": "Use polite wording when asking someone to do something."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 2,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "discriminate"
   },
   {
-    "id": "ac9e1la01-er1-t-003",
+    "id": "AC9E1LA01-P-023",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'Walk beside me until we reach the gate.' What is this message doing?",
-    "audio_prompt": "'Walk beside me until we reach the gate.' What is this message doing?",
+    "bank": "practice",
+    "skill": "ac9e1la01_03_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-005",
+      "alt_text": "📖 Show two meanings; 🔎 request; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Asking how far the gate is.",
+        "text": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
         "is_correct": false
       },
       {
-        "text": "Offering a choice of snacks.",
+        "text": "Look for request and check the whole example.",
         "is_correct": false
       },
       {
-        "text": "Telling someone what to do.",
+        "text": "That is the one",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It gives an action and says how long to continue it.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "That is the one is the mix-up. Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 3,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "discriminate"
   },
   {
-    "id": "ac9e1la01-er1-t-004",
+    "id": "AC9E1LA01-P-024",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'Oh! The butterfly landed on my hand!' What does Oh help express here?",
-    "audio_prompt": "'Oh! The butterfly landed on my hand!' What does Oh help express here?",
+    "bank": "practice",
+    "skill": "ac9e1la01_04_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-007",
+      "alt_text": "📖 Turn a command into a request; 🔎 command; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Surprise at what happened.",
+        "text": "Give me the scissors",
         "is_correct": true
       },
       {
-        "text": "A question about butterfly food.",
+        "text": "'Could you please pass me the scissors?'",
         "is_correct": false
       },
       {
-        "text": "A request to move the butterfly.",
+        "text": "Check that you can notice gesture/facial expression.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Oh introduces a reaction to an unexpected event.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Give me the scissors is the mix-up. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 4,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "discriminate"
   },
   {
-    "id": "ac9e1la01-er1-t-005",
+    "id": "AC9E1LA01-P-025",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'How many cups do we need?' Which reply answers directly?",
-    "audio_prompt": "'How many cups do we need?' Which reply answers directly?",
+    "bank": "practice",
+    "skill": "ac9e1la01_05_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-009",
+      "alt_text": "📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "They are made of plastic.",
+        "text": "Ask question → provide answer → acknowledge",
         "is_correct": false
       },
       {
-        "text": "We need six.",
+        "text": "It starts at ten",
         "is_correct": true
       },
       {
-        "text": "They are in the cupboard.",
+        "text": "Sequencing a question-and-answer interaction.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How many asks for a number.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "It starts at ten is the mix-up. Use polite wording when asking someone to do something.",
+      "hint": "Use polite wording when asking someone to do something."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 5,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "discriminate"
   },
   {
-    "id": "ac9e1la01-er1-t-006",
+    "id": "AC9E1LA01-P-026",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "You want permission to join a game. What could you say?",
-    "audio_prompt": "You want permission to join a game. What could you say?",
+    "bank": "practice",
+    "skill": "ac9e1la01_06_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-011",
+      "alt_text": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "This game has three players.",
+        "text": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
         "is_correct": false
       },
       {
-        "text": "I can teach you a new game.",
+        "text": "Change volume, tone or gesture to match meaning.",
         "is_correct": false
       },
       {
-        "text": "May I join the next round?",
+        "text": "What a wonderful surprise",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "May I join is a request for permission.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "What a wonderful surprise is the mix-up. Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 6,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "discriminate"
   },
   {
-    "id": "ac9e1la01-er1-t-007",
+    "id": "AC9E1LA01-P-027",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "Someone asks which path to take. You point left and say, 'That one.' What does the gesture add?",
-    "audio_prompt": "Someone asks which path to take. You point left and say, 'That one.' What does the gesture add?",
+    "bank": "practice",
+    "skill": "ac9e1la01_07_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-013",
+      "alt_text": "📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "It identifies the path.",
+        "text": "I am happy to help",
         "is_correct": true
       },
       {
-        "text": "It tells how long the walk takes.",
+        "text": "Words signal willingness, but expression/body language signal reluctance or unhappiness",
         "is_correct": false
       },
       {
-        "text": "It explains why paths have stones.",
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Pointing makes the otherwise unclear words that one specific.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "I am happy to help is the mix-up. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 7,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "discriminate"
   },
   {
-    "id": "ac9e1la01-er1-t-008",
+    "id": "AC9E1LA01-P-028",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "You greet a new classmate with 'Hello' and a friendly smile. What do these clues communicate together?",
-    "audio_prompt": "You greet a new classmate with 'Hello' and a friendly smile. What do these clues communicate together?",
+    "bank": "practice",
+    "skill": "ac9e1la01_08_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-015",
+      "alt_text": "📖 Choose language for a situation; 🔎 request; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "An instruction to sit down.",
+        "text": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression",
         "is_correct": false
       },
       {
-        "text": "A welcome.",
+        "text": "Do not use polite wording when asking someone to do something.",
         "is_correct": true
       },
       {
-        "text": "A warning to leave.",
+        "text": "Look for request and check the whole example.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The friendly words and expression support a welcoming message.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Do not use polite wording when asking someone to do something. is the mix-up. Use polite wording when asking someone to do something.",
+      "hint": "Use polite wording when asking someone to do something."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 8,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "discriminate"
   },
   {
-    "id": "ac9e1la01-er1-t-009",
+    "id": "AC9E1LA01-P-029",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'When is your birthday?' 'At my house.' What information is still needed?",
-    "audio_prompt": "'When is your birthday?' 'At my house.' What information is still needed?",
+    "bank": "practice",
+    "skill": "ac9e1la01_09_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-017",
+      "alt_text": "📖 Classify an exclamation; 🔎 command; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "The house address.",
+        "text": "It is an exclamation/warning intended to get urgent attention",
         "is_correct": false
       },
       {
-        "text": "The name of a party game.",
+        "text": "Check that you can notice gesture/facial expression.",
         "is_correct": false
       },
       {
-        "text": "A date or time of year.",
+        "text": "Watch out",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "When asks for time, not location.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Watch out is the mix-up. Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 9,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "discriminate"
   },
   {
-    "id": "ac9e1la01-er1-t-010",
+    "id": "AC9E1LA01-P-030",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A friend says, 'Would you like me to read the next page?' Which reply accepts the offer?",
-    "audio_prompt": "A friend says, 'Would you like me to read the next page?' Which reply accepts the offer?",
+    "bank": "practice",
+    "skill": "ac9e1la01_10_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-019",
+      "alt_text": "📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Yes, please. I'd like that.",
+        "text": "Really",
         "is_correct": true
       },
       {
-        "text": "May I borrow your book?",
+        "text": "Each gesture/expression matches the stated spoken meaning",
         "is_correct": false
       },
       {
-        "text": "Where is the next page?",
+        "text": "Interpreting coordinated verbal and non-verbal cues.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Yes, please clearly accepts the help being offered.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Really is the mix-up. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 10,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "discriminate"
   },
   {
-    "id": "ac9e1la01-er1-t-011",
+    "id": "AC9E1LA01-P-031",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A child says, 'Move that,' while looking at two boxes. Which revision removes the uncertainty?",
-    "audio_prompt": "A child says, 'Move that,' while looking at two boxes. Which revision removes the uncertainty?",
+    "bank": "practice",
+    "skill": "ac9e1la01_01_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-001",
+      "alt_text": "📖 Identify a request; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Move it over there, please.",
+        "text": "It is a polite question asking to borrow the ruler",
         "is_correct": false
       },
       {
-        "text": "Please move the blue box.",
+        "text": "It is a polite request asking to borrow the ruler",
         "is_correct": true
       },
       {
-        "text": "Please move that thing.",
+        "text": "It is a polite command asking to borrow the ruler",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Naming the blue box tells the listener exactly which object is meant.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "It is a polite request asking to borrow the ruler uses the skill correctly. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 11,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "apply"
   },
   {
-    "id": "ac9e1la01-er1-t-012",
+    "id": "AC9E1LA01-P-032",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "You cannot hear a speaker clearly. Which request would help?",
-    "audio_prompt": "You cannot hear a speaker clearly. Which request would help?",
+    "bank": "practice",
+    "skill": "ac9e1la01_02_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-003",
+      "alt_text": "📖 Match words and purposes; 🔎 offer; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Could you speak even more softly?",
+        "text": "Help ↔ offer; library ↔ request; stand ↔ command",
         "is_correct": false
       },
       {
-        "text": "Could you stop before you finish?",
+        "text": "Help ↔ offer; library ↔ command; stand ↔ command",
         "is_correct": false
       },
       {
-        "text": "Could you say that a little louder?",
+        "text": "Help ↔ offer; library ↔ question; stand ↔ command",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The request names the change needed to hear the message.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Help ↔ offer; library ↔ question; stand ↔ command uses the skill correctly. Use polite wording when asking someone to do something.",
+      "hint": "Use polite wording when asking someone to do something."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 12,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "apply"
   },
   {
-    "id": "ac9e1la01-er1-t-013",
+    "id": "AC9E1LA01-P-033",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A friend says, 'This way,' and beckons towards a doorway. What is the friend inviting you to do?",
-    "audio_prompt": "A friend says, 'This way,' and beckons towards a doorway. What is the friend inviting you to do?",
+    "bank": "practice",
+    "skill": "ac9e1la01_03_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-005",
+      "alt_text": "📖 Show two meanings; 🔎 request; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Follow them through the doorway.",
+        "text": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
         "is_correct": true
       },
       {
-        "text": "Close every door in the room.",
+        "text": "That is the one",
         "is_correct": false
       },
       {
-        "text": "Explain where you have been.",
+        "text": "Use one voice for every purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The words and beckoning gesture point to following along.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture uses the skill correctly. Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 13,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "apply"
   },
   {
-    "id": "ac9e1la01-er1-t-014",
+    "id": "AC9E1LA01-P-034",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'Can you hold my bag?' and 'I can hold your bag.' What changes?",
-    "audio_prompt": "'Can you hold my bag?' and 'I can hold your bag.' What changes?",
+    "bank": "practice",
+    "skill": "ac9e1la01_04_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-007",
+      "alt_text": "📖 Turn a command into a request; 🔎 command; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Both ask the listener to hold the bag.",
+        "text": "Give me the scissors",
         "is_correct": false
       },
       {
-        "text": "A request becomes an offer.",
+        "text": "'Could you please pass me the scissors?'",
         "is_correct": true
       },
       {
-        "text": "An offer becomes a question about time.",
+        "text": "Check only the words.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The first asks the listener to act; the second offers the speaker's help.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "'Could you please pass me the scissors?' uses the skill correctly. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 14,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "apply"
   },
   {
-    "id": "ac9e1la01-er1-t-015",
+    "id": "AC9E1LA01-P-035",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "A child laughs while saying, 'I'm scared,' during a game. What is the best way to find out whether they want to stop?",
-    "audio_prompt": "A child laughs while saying, 'I'm scared,' during a game. What is the best way to find out whether they want to stop?",
+    "bank": "practice",
+    "skill": "ac9e1la01_05_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-009",
+      "alt_text": "📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Assume laughing means they cannot feel scared.",
+        "text": "It starts at ten",
         "is_correct": false
       },
       {
-        "text": "Assume the game must continue because they laughed.",
+        "text": "When does the game start",
         "is_correct": false
       },
       {
-        "text": "Ask, 'Are you having fun, or would you like to stop?'",
+        "text": "Ask question → provide answer → acknowledge",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A checking question is better than deciding from just one clue.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Ask question → provide answer → acknowledge uses the skill correctly. Use polite wording when asking someone to do something.",
+      "hint": "Use polite wording when asking someone to do something."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 15,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
-    }
+    "stage": "apply"
   },
   {
-    "id": "ac9e1la01-er1-t-016",
+    "id": "AC9E1LA01-P-036",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA01",
-    "bank": "test",
-    "skill": "language, facial expressions and gestures in interactions",
-    "question": "'Please show me where to put my bag.' Which response best combines words and a gesture?",
-    "audio_prompt": "'Please show me where to put my bag.' Which response best combines words and a gesture?",
+    "bank": "practice",
+    "skill": "ac9e1la01_06_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-011",
+      "alt_text": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Point to a hook and say, 'Hang it here.'",
+        "text": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
         "is_correct": true
       },
       {
-        "text": "Point to a clock and say, 'It's nearly lunch.'",
+        "text": "What a wonderful surprise",
         "is_correct": false
       },
       {
-        "text": "Point to the bag and say, 'That's a bag.'",
+        "text": "I do not understand yet",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The reply gives the requested location and shows it clearly.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label uses the skill correctly. Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
     },
-    "stage": "independent",
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "sequence_priority": 16,
-    "review": {
-      "version": "20260906-english-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/ela/year-1/describe-the-difference-between-related-words",
-      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA01-P-037",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_07_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-013",
+      "alt_text": "📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "I am happy to help",
+        "is_correct": false
+      },
+      {
+        "text": "Words signal willingness, but expression/body language signal reluctance or unhappiness",
+        "is_correct": true
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Words signal willingness, but expression/body language signal reluctance or unhappiness uses the skill correctly. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA01-P-038",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_08_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-015",
+      "alt_text": "📖 Choose language for a situation; 🔎 request; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression uses the skill correctly. Use polite wording when asking someone to do something.",
+      "hint": "Use polite wording when asking someone to do something."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA01-P-039",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_09_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-017",
+      "alt_text": "📖 Classify an exclamation; 🔎 command; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "It is an exclamation/warning intended to get urgent attention",
+        "is_correct": true
+      },
+      {
+        "text": "Watch out",
+        "is_correct": false
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It is an exclamation/warning intended to get urgent attention uses the skill correctly. Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA01-P-040",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_10_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-019",
+      "alt_text": "📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Really",
+        "is_correct": false
+      },
+      {
+        "text": "Each gesture/expression matches the stated spoken meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Here you are",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each gesture/expression matches the stated spoken meaning uses the skill correctly. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA01-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_01_answer",
+    "question": "Which response would correctly show question and command?",
+    "audio_prompt": "Which response would correctly show question and command?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001",
+      "alt_text": "📖 show question and command; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Uses question form and polite tone versus concise urgent command with matching expression or gesture",
+        "is_correct": true
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Uses question form and polite tone versus concise urgent command with matching expression or gesture This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
     }
+  },
+  {
+    "id": "AC9E1LA01-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_01_strategy",
+    "question": "Which tip would help you show question and command?",
+    "audio_prompt": "Which tip would help you show question and command?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002",
+      "alt_text": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "notice face, gesture, voice and relationship.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_02_answer",
+    "question": "Which response would correctly draw a three-panel interaction?",
+    "audio_prompt": "Which response would correctly draw a three-panel interaction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-003",
+      "alt_text": "📖 Draw a three-panel interaction; 🔎 offer; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Panels show question, information with gesture, and acknowledgement in logical order",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Panels show question, information with gesture, and acknowledgement in logical order This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_02_strategy",
+    "question": "Which tip would help you draw a three-panel interaction?",
+    "audio_prompt": "Which tip would help you draw a three-panel interaction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-004",
+      "alt_text": "🧠 Draw a three-panel interaction; ➡️ Choose words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_03_answer",
+    "question": "Which response would correctly repair an impolite exchange?",
+    "audio_prompt": "Which response would correctly repair an impolite exchange?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-005",
+      "alt_text": "📖 Repair an impolite exchange; 🔎 request; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Move",
+        "is_correct": false
+      },
+      {
+        "text": "Example 'Excuse me, could I please get past?' with calm voice and non-threatening gesture",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Example 'Excuse me, could I please get past?' with calm voice and non-threatening gesture This matches the task.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_03_strategy",
+    "question": "Which tip would help you repair an impolite exchange?",
+    "audio_prompt": "Which tip would help you repair an impolite exchange?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-006",
+      "alt_text": "🧠 Repair an impolite exchange; ➡️ Use voice/gesture; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for request and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for request and check the whole example.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_04_answer",
+    "question": "Which response would correctly compare two deliveries?",
+    "audio_prompt": "Which response would correctly compare two deliveries?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-007",
+      "alt_text": "📖 Compare two deliveries; 🔎 command; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Can you come here",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_04_strategy",
+    "question": "Which tip would help you compare two deliveries?",
+    "audio_prompt": "Which tip would help you compare two deliveries?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-008",
+      "alt_text": "🧠 Compare two deliveries; ➡️ Check response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice gesture/facial expression.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can notice gesture/facial expression.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_01_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002",
+      "alt_text": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "notice face, gesture, voice and relationship.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "notice face, gesture, voice and relationship. is the useful check. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    },
+    "stage": "verify"
+  },
+  {
+    "id": "AC9E1LA01-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_02_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-004",
+      "alt_text": "🧠 Draw a three-panel interaction; ➡️ Choose words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response. is the useful check. Use polite wording when asking someone to do something.",
+      "hint": "Use polite wording when asking someone to do something."
+    },
+    "stage": "verify"
+  },
+  {
+    "id": "AC9E1LA01-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_03_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-006",
+      "alt_text": "🧠 Repair an impolite exchange; ➡️ Use voice/gesture; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Move",
+        "is_correct": false
+      },
+      {
+        "text": "Look for request and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for request and check the whole example. is the useful check. Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    },
+    "stage": "verify"
+  },
+  {
+    "id": "AC9E1LA01-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_04_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-008",
+      "alt_text": "🧠 Compare two deliveries; ➡️ Check response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Can you come here",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice gesture/facial expression.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can notice gesture/facial expression. is the useful check. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    },
+    "stage": "verify"
+  },
+  {
+    "id": "AC9E1LA01-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_01_test_apply",
+    "question": "A classmate chose “Check only the words.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Check only the words.. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001",
+      "alt_text": "📖 show question and command; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Uses question form and polite tone versus concise urgent command with matching expression or gesture",
+        "is_correct": true
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Uses question form and polite tone versus concise urgent command with matching expression or gesture is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA01-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_02_test_apply",
+    "question": "A classmate chose “Do not use polite wording when asking someone to do something.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Do not use polite wording when asking someone to do something.. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-003",
+      "alt_text": "📖 Draw a three-panel interaction; 🔎 offer; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Panels show question, information with gesture, and acknowledgement in logical order",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Panels show question, information with gesture, and acknowledgement in logical order is the stronger response because it uses the target skill. Use polite wording when asking someone to do something.",
+      "hint": "Use polite wording when asking someone to do something."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA01-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_03_test_apply",
+    "question": "A classmate chose “Move”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Move. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-005",
+      "alt_text": "📖 Repair an impolite exchange; 🔎 request; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Move",
+        "is_correct": false
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Example 'Excuse me, could I please get past?' with calm voice and non-threatening gesture",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Example 'Excuse me, could I please get past?' with calm voice and non-threatening gesture is the stronger response because it uses the target skill. Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA01-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_04_test_apply",
+    "question": "A classmate chose “Can you come here”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Can you come here. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-007",
+      "alt_text": "📖 Compare two deliveries; 🔎 command; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Can you come here",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    },
+    "stage": "apply"
   }
 ]

@@ -4,1440 +4,1161 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1la07-p-001",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 01 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which word names an animal?",
-    "audioPrompt": "Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What is the verb in 'The ducks paddle'?",
+    "audioPrompt": "What is the verb in 'The ducks paddle'?",
+    "visual": "📖 Find the verb; 🔎 noun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the verb; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-001",
+      "alt_text": "📖 Find the verb; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
-      "green",
-      "hop",
-      "frog"
+      "Paddle",
+      "The",
+      "ducks"
     ],
-    "correct": 2,
-    "explanation": "frog is the best answer.",
+    "correct": 0,
+    "explanation": "Paddle This matches the task.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "frog is the best answer."
+      "summary": "Paddle This matches the task.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-002",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 02 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which word names a person?",
-    "audioPrompt": "Which word names a person?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly match words and jobs?",
+    "audioPrompt": "Which response would correctly match words and jobs?",
+    "visual": "📖 Match words and jobs; 🔎 verb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and jobs; 🔎 verb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-003",
+      "alt_text": "📖 Match words and jobs; 🔎 verb; ✅ choose with evidence"
     },
     "answers": [
-      "teach",
-      "teacher",
-      "kind"
+      "Teacher ↔ pronoun; they ↔ adverb detail; gently ↔ noun",
+      "Treat adjective as noun.",
+      "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail"
     ],
-    "correct": 1,
-    "explanation": "teacher is the best answer.",
+    "correct": 2,
+    "explanation": "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail This matches the task.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "teacher is the best answer."
+      "summary": "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail This matches the task.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-003",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 03 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which word names a place?",
-    "audioPrompt": "Which word names a place?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly sort sentence cards?",
+    "audioPrompt": "Which response would correctly sort sentence cards?",
+    "visual": "📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-005",
+      "alt_text": "📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence"
     },
     "answers": [
-      "happy",
-      "park",
-      "play"
+      "Do not find what happens or what is.",
+      "Cat noun; sleeps verb; furry adjective; quietly adverb/how",
+      "Do not ask what job the word does in the sentence."
     ],
     "correct": 1,
-    "explanation": "park is the best answer.",
+    "explanation": "Cat noun; sleeps verb; furry adjective; quietly adverb/how This matches the task.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "park is the best answer."
+      "summary": "Cat noun; sleeps verb; furry adjective; quietly adverb/how This matches the task.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-004",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 04 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly replace repeated noun?",
+    "audioPrompt": "Which response would correctly replace repeated noun?",
+    "visual": "📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-007",
+      "alt_text": "📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence"
     },
     "answers": [
-      "run",
-      "book",
-      "soft"
+      "'Lena found her hat.'",
+      "Lena found Lena",
+      "Do not ask what job the word does in the sentence."
     ],
-    "correct": 1,
-    "explanation": "book is the best answer.",
+    "correct": 0,
+    "explanation": "'Lena found her hat.' This matches the task.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "book is the best answer."
+      "summary": "'Lena found her hat.' This matches the task.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-005",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 05 recognise",
     "printable": true,
     "type": "single",
-    "question": "Find the naming word: “The frog runs.”",
-    "audioPrompt": "Find the naming word: “The frog runs.”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly order a detailed sentence?",
+    "audioPrompt": "Which response would correctly order a detailed sentence?",
+    "visual": "📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-009",
+      "alt_text": "📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence"
     },
     "answers": [
-      "the",
-      "frog",
-      "runs"
+      "Treat adjective as noun.",
+      "Do not find what happens or what is.",
+      "The small crab moves quickly."
     ],
-    "correct": 1,
-    "explanation": "frog is the best answer.",
+    "correct": 2,
+    "explanation": "The small crab moves quickly. This matches the task.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "frog is the best answer."
+      "summary": "The small crab moves quickly. This matches the task.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-006",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 06 recognise",
     "printable": true,
     "type": "single",
-    "question": "Find the place word: “Leo went to the pond.”",
-    "audioPrompt": "Find the place word: “Leo went to the pond.”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly draw word roles?",
+    "audioPrompt": "Which response would correctly draw word roles?",
+    "visual": "📖 Draw word roles; 🔎 noun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw word roles; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-011",
+      "alt_text": "📖 Draw word roles; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
-      "went",
-      "leo",
-      "pond"
+      "A tall tree bends slowly",
+      "Tree noun; tall adjective; bends verb; slowly adverb/how",
+      "Do not find what happens or what is."
     ],
-    "correct": 2,
-    "explanation": "pond is the best answer.",
+    "correct": 1,
+    "explanation": "Tree noun; tall adjective; bends verb; slowly adverb/how This matches the task.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "pond is the best answer."
+      "summary": "Tree noun; tall adjective; bends verb; slowly adverb/how This matches the task.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-007",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 07 recognise",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear picture of a fish.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a fish.] Which word could name this picture?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly distinguish two jobs?",
+    "audioPrompt": "Which response would correctly distinguish two jobs?",
+    "visual": "📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-013",
+      "alt_text": "📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence"
     },
     "answers": [
-      "jump",
-      "fish",
-      "quick"
+      "First describes train, so adjective; second tells how it moves, so adverb detail",
+      "The fast train moves fast",
+      "Do not ask what job the word does in the sentence."
     ],
-    "correct": 1,
-    "explanation": "The word fish names the animal.",
+    "correct": 0,
+    "explanation": "First describes train, so adjective; second tells how it moves, so adverb detail This matches the task.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "The word fish names the animal."
+      "summary": "First describes train, so adjective; second tells how it moves, so adverb detail This matches the task.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-008",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 08 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly improve a plain sentence?",
+    "audioPrompt": "Which response would correctly improve a plain sentence?",
+    "visual": "📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-015",
+      "alt_text": "📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence"
     },
     "answers": [
-      "Max runs.",
-      "Max has a map.",
-      "Jump up."
+      "Birds fly",
+      "Treat adjective as noun.",
+      "'Colourful birds fly quietly above the lake.' with both required additions"
     ],
-    "correct": 1,
-    "explanation": "Max has a map. is the best answer.",
+    "correct": 2,
+    "explanation": "'Colourful birds fly quietly above the lake.' with both required additions This matches the task.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "Max has a map. is the best answer."
+      "summary": "'Colourful birds fly quietly above the lake.' with both required additions This matches the task.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-009",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 09 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which word names an animal?",
-    "audioPrompt": "Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What is the verb in 'The soup is warm'?",
+    "audioPrompt": "What is the verb in 'The soup is warm'?",
+    "visual": "📖 Find a state verb; 🔎 adverb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a state verb; 🔎 adverb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-017",
+      "alt_text": "📖 Find a state verb; 🔎 adverb; ✅ choose with evidence"
     },
     "answers": [
-      "frog",
-      "hop",
-      "green"
+      "The soup is warm",
+      "Is; it links the soup with its state",
+      "Do not find what happens or what is."
     ],
-    "correct": 0,
-    "explanation": "frog is the best answer.",
+    "correct": 1,
+    "explanation": "Is; it links the soup with its state This matches the task.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "frog is the best answer."
+      "summary": "Is; it links the soup with its state This matches the task.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-010",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 10 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which word names a person?",
-    "audioPrompt": "Which word names a person?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly match questions and details?",
+    "audioPrompt": "Which response would correctly match questions and details?",
+    "visual": "📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-019",
+      "alt_text": "📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence"
     },
     "answers": [
-      "kind",
-      "teach",
-      "teacher"
+      "How ↔ carefully; when ↔ tomorrow; where ↔ outside",
+      "How ↔ tomorrow; when ↔ outside; where ↔ carefully",
+      "Do not ask what job the word does in the sentence."
     ],
-    "correct": 2,
-    "explanation": "teacher is the best answer.",
+    "correct": 0,
+    "explanation": "How ↔ carefully; when ↔ tomorrow; where ↔ outside This matches the task.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "teacher is the best answer."
+      "summary": "How ↔ carefully; when ↔ tomorrow; where ↔ outside This matches the task.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-011",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 01 explain",
     "printable": true,
     "type": "single",
-    "question": "Which word names a place?",
-    "audioPrompt": "Which word names a place?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you find the verb?",
+    "audioPrompt": "Which tip would help you find the verb?",
+    "visual": "🧠 Find the verb; ➡️ Read sentence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the verb; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-002",
+      "alt_text": "🧠 Find the verb; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
-      "play",
-      "park",
-      "happy"
+      "Treat adjective as noun.",
+      "Ask what job the word does in the sentence.",
+      "Do not find what happens or what is."
     ],
     "correct": 1,
-    "explanation": "park is the best answer.",
+    "explanation": "Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "park is the best answer."
+      "summary": "Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-012",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 02 explain",
     "printable": true,
     "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you match words and jobs?",
+    "audioPrompt": "Which tip would help you match words and jobs?",
+    "visual": "🧠 Match words and jobs; ➡️ Find word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match words and jobs; ➡️ Find word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-004",
+      "alt_text": "🧠 Match words and jobs; ➡️ Find word; 💡 helpful strategy"
     },
     "answers": [
-      "sock",
-      "run",
-      "soft"
+      "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+      "Do not find what happens or what is.",
+      "Do not ask what job the word does in the sentence."
     ],
     "correct": 0,
-    "explanation": "sock is the best answer.",
+    "explanation": "Use this routine: Read sentence → Find word → Ask its job → Name word class.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "sock is the best answer."
+      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-013",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 03 explain",
     "printable": true,
     "type": "single",
-    "question": "Find the naming word: “The fish runs.”",
-    "audioPrompt": "Find the naming word: “The fish runs.”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you sort sentence cards?",
+    "audioPrompt": "Which tip would help you sort sentence cards?",
+    "visual": "🧠 Sort sentence cards; ➡️ Ask its job; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Sort sentence cards; ➡️ Ask its job; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-006",
+      "alt_text": "🧠 Sort sentence cards; ➡️ Ask its job; 💡 helpful strategy"
     },
     "answers": [
-      "runs",
-      "the",
-      "fish"
+      "Do not ask what job the word does in the sentence.",
+      "Treat adjective as noun.",
+      "Look for adjective and check the whole example."
     ],
     "correct": 2,
-    "explanation": "fish is the best answer.",
+    "explanation": "Look for adjective and check the whole example.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "fish is the best answer."
+      "summary": "Look for adjective and check the whole example.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-014",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 04 explain",
     "printable": true,
     "type": "single",
-    "question": "Find the place word: “Zoe went to the farm.”",
-    "audioPrompt": "Find the place word: “Zoe went to the farm.”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you replace repeated noun?",
+    "audioPrompt": "Which tip would help you replace repeated noun?",
+    "visual": "🧠 Replace repeated noun; ➡️ Name word class; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Replace repeated noun; ➡️ Name word class; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-008",
+      "alt_text": "🧠 Replace repeated noun; ➡️ Name word class; 💡 helpful strategy"
     },
     "answers": [
-      "zoe",
-      "farm",
-      "went"
+      "Treat adjective as noun.",
+      "Check that you can find adverbs.",
+      "Do not find what happens or what is."
     ],
     "correct": 1,
-    "explanation": "farm is the best answer.",
+    "explanation": "Check that you can find adverbs.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "farm is the best answer."
+      "summary": "Check that you can find adverbs.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-015",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 05 explain",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear picture of a cat.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a cat.] Which word could name this picture?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you order a detailed sentence?",
+    "audioPrompt": "Which tip would help you order a detailed sentence?",
+    "visual": "🧠 Order a detailed sentence; ➡️ Read sentence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a detailed sentence; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-010\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-010",
+      "alt_text": "🧠 Order a detailed sentence; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
-      "cat",
-      "jump",
-      "quick"
+      "Arranging noun, adjective, verb and adverb.",
+      "Do not find what happens or what is.",
+      "Do not ask what job the word does in the sentence."
     ],
     "correct": 0,
-    "explanation": "The word cat names the animal.",
+    "explanation": "Arranging noun, adjective, verb and adverb.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "The word cat names the animal."
+      "summary": "Arranging noun, adjective, verb and adverb.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-016",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 06 explain",
     "printable": true,
     "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you draw word roles?",
+    "audioPrompt": "Which tip would help you draw word roles?",
+    "visual": "🧠 Draw word roles; ➡️ Find word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw word roles; ➡️ Find word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-012\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-012",
+      "alt_text": "🧠 Draw word roles; ➡️ Find word; 💡 helpful strategy"
     },
     "answers": [
-      "Mia runs.",
-      "Jump up.",
-      "Mia has a cup."
+      "Do not ask what job the word does in the sentence.",
+      "Treat adjective as noun.",
+      "Find what happens or what is."
     ],
     "correct": 2,
-    "explanation": "Mia has a cup. is the best answer.",
+    "explanation": "Find what happens or what is.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "Mia has a cup. is the best answer."
+      "summary": "Find what happens or what is.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-017",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 07 explain",
     "printable": true,
     "type": "single",
-    "question": "Which word names an animal?",
-    "audioPrompt": "Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you distinguish two jobs?",
+    "audioPrompt": "Which tip would help you distinguish two jobs?",
+    "visual": "🧠 Distinguish two jobs; ➡️ Ask its job; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Distinguish two jobs; ➡️ Ask its job; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-014\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-014",
+      "alt_text": "🧠 Distinguish two jobs; ➡️ Ask its job; 💡 helpful strategy"
     },
     "answers": [
-      "hop",
-      "green",
-      "frog"
+      "Treat adjective as noun.",
+      "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+      "Do not find what happens or what is."
     ],
-    "correct": 2,
-    "explanation": "frog is the best answer.",
+    "correct": 1,
+    "explanation": "Use this routine: Read sentence → Find word → Ask its job → Name word class.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "frog is the best answer."
+      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-018",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 08 explain",
     "printable": true,
     "type": "single",
-    "question": "Which word names a person?",
-    "audioPrompt": "Which word names a person?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you improve a plain sentence?",
+    "audioPrompt": "Which tip would help you improve a plain sentence?",
+    "visual": "🧠 Improve a plain sentence; ➡️ Name word class; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Improve a plain sentence; ➡️ Name word class; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-016\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-016",
+      "alt_text": "🧠 Improve a plain sentence; ➡️ Name word class; 💡 helpful strategy"
     },
     "answers": [
-      "teacher",
-      "kind",
-      "teach"
+      "Look for adjective and check the whole example.",
+      "Do not find what happens or what is.",
+      "Do not ask what job the word does in the sentence."
     ],
     "correct": 0,
-    "explanation": "teacher is the best answer.",
+    "explanation": "Look for adjective and check the whole example.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "teacher is the best answer."
+      "summary": "Look for adjective and check the whole example.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-019",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 09 explain",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which word names a place?",
-    "audioPrompt": "Read and choose: Which word names a place?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you find a state verb?",
+    "audioPrompt": "Which tip would help you find a state verb?",
+    "visual": "🧠 Find a state verb; ➡️ Read sentence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find a state verb; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-018\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-018",
+      "alt_text": "🧠 Find a state verb; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
-      "happy",
-      "park",
-      "play"
+      "Do not ask what job the word does in the sentence.",
+      "Treat adjective as noun.",
+      "Check that you can find adverbs."
     ],
-    "correct": 1,
-    "explanation": "park is the best answer.",
+    "correct": 2,
+    "explanation": "Check that you can find adverbs.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "park is the best answer."
+      "summary": "Check that you can find adverbs.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-020",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 10 explain",
     "printable": true,
     "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you match questions and details?",
+    "audioPrompt": "Which tip would help you match questions and details?",
+    "visual": "🧠 Match questions and details; ➡️ Find word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match questions and details; ➡️ Find word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-020\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-020",
+      "alt_text": "🧠 Match questions and details; ➡️ Find word; 💡 helpful strategy"
     },
     "answers": [
-      "bag",
-      "soft",
-      "run"
+      "Treat adjective as noun.",
+      "Classifying adverbial details by meaning.",
+      "Do not find what happens or what is."
     ],
-    "correct": 0,
-    "explanation": "bag is the best answer.",
+    "correct": 1,
+    "explanation": "Classifying adverbial details by meaning.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "bag is the best answer."
+      "summary": "Classifying adverbial details by meaning.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-021",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 01 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Find the naming word: “The cat runs.”",
-    "audioPrompt": "Find the naming word: “The cat runs.”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Find the verb; 🔎 noun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the verb; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-001",
+      "alt_text": "📖 Find the verb; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
-      "runs",
-      "cat",
-      "the"
+      "The",
+      "Paddle",
+      "Ask what job the word does in the sentence."
     ],
-    "correct": 1,
-    "explanation": "cat is the best answer.",
+    "correct": 0,
+    "explanation": "The is the mix-up. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "cat is the best answer."
+      "summary": "The is the mix-up. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-022",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 02 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Find the place word: “Max went to the zoo.”",
-    "audioPrompt": "Find the place word: “Max went to the zoo.”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match words and jobs; 🔎 verb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and jobs; 🔎 verb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-003",
+      "alt_text": "📖 Match words and jobs; 🔎 verb; ✅ choose with evidence"
     },
     "answers": [
-      "max",
-      "went",
-      "zoo"
+      "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail",
+      "Teacher ↔ pronoun; they ↔ adverb detail; gently ↔ noun",
+      "Use this routine: Read sentence → Find word → Ask its job → Name word class."
     ],
-    "correct": 2,
-    "explanation": "zoo is the best answer.",
+    "correct": 1,
+    "explanation": "Teacher ↔ pronoun; they ↔ adverb detail; gently ↔ noun is the mix-up. A describing word needs something to describe.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "zoo is the best answer."
+      "summary": "Teacher ↔ pronoun; they ↔ adverb detail; gently ↔ noun is the mix-up. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-023",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 03 discriminate",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear picture of a hen.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a hen.] Which word could name this picture?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-005",
+      "alt_text": "📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence"
     },
     "answers": [
-      "jump",
-      "hen",
-      "quick"
+      "Cat noun; sleeps verb; furry adjective; quietly adverb/how",
+      "Look for adjective and check the whole example.",
+      "Do not find what happens or what is."
     ],
-    "correct": 1,
-    "explanation": "The word hen names the animal.",
+    "correct": 2,
+    "explanation": "Do not find what happens or what is. is the mix-up. Find what happens or what is.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "The word hen names the animal."
+      "summary": "Do not find what happens or what is. is the mix-up. Find what happens or what is.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-024",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 04 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-007",
+      "alt_text": "📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence"
     },
     "answers": [
-      "Ben runs.",
-      "Ben has a kite.",
-      "Jump up."
+      "Lena found Lena",
+      "'Lena found her hat.'",
+      "Check that you can find adverbs."
     ],
-    "correct": 1,
-    "explanation": "Ben has a kite. is the best answer.",
+    "correct": 0,
+    "explanation": "Lena found Lena is the mix-up. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "Ben has a kite. is the best answer."
+      "summary": "Lena found Lena is the mix-up. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-025",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 05 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which word names an animal?",
-    "audioPrompt": "Read and choose: Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-009",
+      "alt_text": "📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence"
     },
     "answers": [
-      "green",
-      "hop",
-      "frog"
+      "The small crab moves quickly.",
+      "Treat adjective as noun.",
+      "Arranging noun, adjective, verb and adverb."
     ],
-    "correct": 2,
-    "explanation": "frog is the best answer.",
+    "correct": 1,
+    "explanation": "Treat adjective as noun. is the mix-up. A describing word needs something to describe.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "frog is the best answer."
+      "summary": "Treat adjective as noun. is the mix-up. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-026",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 06 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which word names a person?",
-    "audioPrompt": "Read and choose: Which word names a person?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Draw word roles; 🔎 noun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw word roles; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-011",
+      "alt_text": "📖 Draw word roles; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
-      "teach",
-      "teacher",
-      "kind"
+      "Tree noun; tall adjective; bends verb; slowly adverb/how",
+      "Find what happens or what is.",
+      "A tall tree bends slowly"
     ],
-    "correct": 1,
-    "explanation": "teacher is the best answer.",
+    "correct": 2,
+    "explanation": "A tall tree bends slowly is the mix-up. Find what happens or what is.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "teacher is the best answer."
+      "summary": "A tall tree bends slowly is the mix-up. Find what happens or what is.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-027",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 07 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which word names a place?",
-    "audioPrompt": "Which word names a place?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-013",
+      "alt_text": "📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence"
     },
     "answers": [
-      "play",
-      "happy",
-      "park"
+      "The fast train moves fast",
+      "First describes train, so adjective; second tells how it moves, so adverb detail",
+      "Use this routine: Read sentence → Find word → Ask its job → Name word class."
     ],
-    "correct": 2,
-    "explanation": "park is the best answer.",
+    "correct": 0,
+    "explanation": "The fast train moves fast is the mix-up. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "park is the best answer."
+      "summary": "The fast train moves fast is the mix-up. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-028",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 08 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-015",
+      "alt_text": "📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence"
     },
     "answers": [
-      "ball",
-      "soft",
-      "run"
+      "'Colourful birds fly quietly above the lake.' with both required additions",
+      "Birds fly",
+      "Look for adjective and check the whole example."
     ],
-    "correct": 0,
-    "explanation": "ball is the best answer.",
+    "correct": 1,
+    "explanation": "Birds fly is the mix-up. A describing word needs something to describe.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "ball is the best answer."
+      "summary": "Birds fly is the mix-up. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-029",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 09 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Find the naming word: “The hen runs.”",
-    "audioPrompt": "Find the naming word: “The hen runs.”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Find a state verb; 🔎 adverb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a state verb; 🔎 adverb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-017",
+      "alt_text": "📖 Find a state verb; 🔎 adverb; ✅ choose with evidence"
     },
     "answers": [
-      "runs",
-      "the",
-      "hen"
+      "Is; it links the soup with its state",
+      "Check that you can find adverbs.",
+      "The soup is warm"
     ],
     "correct": 2,
-    "explanation": "hen is the best answer.",
+    "explanation": "The soup is warm is the mix-up. Find what happens or what is.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "hen is the best answer."
+      "summary": "The soup is warm is the mix-up. Find what happens or what is.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-030",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 10 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Find the place word: “Mia went to the school.”",
-    "audioPrompt": "Find the place word: “Mia went to the school.”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-019",
+      "alt_text": "📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence"
     },
     "answers": [
-      "mia",
-      "school",
-      "went"
+      "How ↔ tomorrow; when ↔ outside; where ↔ carefully",
+      "How ↔ carefully; when ↔ tomorrow; where ↔ outside",
+      "Classifying adverbial details by meaning."
     ],
-    "correct": 1,
-    "explanation": "school is the best answer.",
+    "correct": 0,
+    "explanation": "How ↔ tomorrow; when ↔ outside; where ↔ carefully is the mix-up. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "school is the best answer."
+      "summary": "How ↔ tomorrow; when ↔ outside; where ↔ carefully is the mix-up. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-031",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 01 apply",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear picture of a frog.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a frog.] Which word could name this picture?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Find the verb; 🔎 noun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the verb; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-001",
+      "alt_text": "📖 Find the verb; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
-      "frog",
-      "quick",
-      "jump"
+      "The",
+      "Paddle",
+      "ducks"
     ],
-    "correct": 0,
-    "explanation": "The word frog names the animal.",
+    "correct": 1,
+    "explanation": "Paddle uses the skill correctly. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "The word frog names the animal."
+      "summary": "Paddle uses the skill correctly. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-032",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 02 apply",
     "printable": true,
     "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match words and jobs; 🔎 verb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and jobs; 🔎 verb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-003",
+      "alt_text": "📖 Match words and jobs; 🔎 verb; ✅ choose with evidence"
     },
     "answers": [
-      "Sam runs.",
-      "Jump up.",
-      "Sam has a hat."
+      "Teacher ↔ pronoun; they ↔ adverb detail; gently ↔ noun",
+      "Treat adjective as noun.",
+      "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail"
     ],
     "correct": 2,
-    "explanation": "Sam has a hat. is the best answer.",
+    "explanation": "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail uses the skill correctly. A describing word needs something to describe.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "Sam has a hat. is the best answer."
+      "summary": "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail uses the skill correctly. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-033",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 03 apply",
     "printable": true,
     "type": "single",
-    "question": "Which word names an animal?",
-    "audioPrompt": "Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-005",
+      "alt_text": "📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence"
     },
     "answers": [
-      "hop",
-      "frog",
-      "green"
+      "Cat noun; sleeps verb; furry adjective; quietly adverb/how",
+      "Do not find what happens or what is.",
+      "Do not ask what job the word does in the sentence."
     ],
-    "correct": 1,
-    "explanation": "frog is the best answer.",
+    "correct": 0,
+    "explanation": "Cat noun; sleeps verb; furry adjective; quietly adverb/how uses the skill correctly. Find what happens or what is.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "frog is the best answer."
+      "summary": "Cat noun; sleeps verb; furry adjective; quietly adverb/how uses the skill correctly. Find what happens or what is.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-034",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 04 apply",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which word names a person?",
-    "audioPrompt": "Read and choose: Which word names a person?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-007",
+      "alt_text": "📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence"
     },
     "answers": [
-      "teacher",
-      "kind",
-      "teach"
+      "Lena found Lena",
+      "'Lena found her hat.'",
+      "Do not ask what job the word does in the sentence."
     ],
-    "correct": 0,
-    "explanation": "teacher is the best answer.",
+    "correct": 1,
+    "explanation": "'Lena found her hat.' uses the skill correctly. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "teacher is the best answer."
+      "summary": "'Lena found her hat.' uses the skill correctly. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-035",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 05 apply",
     "printable": true,
     "type": "single",
-    "question": "Look and choose: Which word names a place?",
-    "audioPrompt": "Look and choose: Which word names a place?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-009",
+      "alt_text": "📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence"
     },
     "answers": [
-      "happy",
-      "park",
-      "play"
+      "Treat adjective as noun.",
+      "Do not find what happens or what is.",
+      "The small crab moves quickly."
     ],
-    "correct": 1,
-    "explanation": "park is the best answer.",
+    "correct": 2,
+    "explanation": "The small crab moves quickly. uses the skill correctly. A describing word needs something to describe.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "park is the best answer."
+      "summary": "The small crab moves quickly. uses the skill correctly. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-036",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 06 apply",
     "printable": true,
     "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Draw word roles; 🔎 noun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw word roles; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-011",
+      "alt_text": "📖 Draw word roles; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
-      "soft",
-      "map",
-      "run"
+      "Tree noun; tall adjective; bends verb; slowly adverb/how",
+      "A tall tree bends slowly",
+      "Do not find what happens or what is."
     ],
-    "correct": 1,
-    "explanation": "map is the best answer.",
+    "correct": 0,
+    "explanation": "Tree noun; tall adjective; bends verb; slowly adverb/how uses the skill correctly. Find what happens or what is.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "map is the best answer."
+      "summary": "Tree noun; tall adjective; bends verb; slowly adverb/how uses the skill correctly. Find what happens or what is.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-037",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 07 apply",
     "printable": true,
     "type": "single",
-    "question": "Find the naming word: “The frog runs.”",
-    "audioPrompt": "Find the naming word: “The frog runs.”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-013",
+      "alt_text": "📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence"
     },
     "answers": [
-      "frog",
-      "the",
-      "runs"
+      "The fast train moves fast",
+      "First describes train, so adjective; second tells how it moves, so adverb detail",
+      "Do not ask what job the word does in the sentence."
     ],
-    "correct": 0,
-    "explanation": "frog is the best answer.",
+    "correct": 1,
+    "explanation": "First describes train, so adjective; second tells how it moves, so adverb detail uses the skill correctly. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "frog is the best answer."
+      "summary": "First describes train, so adjective; second tells how it moves, so adverb detail uses the skill correctly. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-038",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 08 apply",
     "printable": true,
     "type": "single",
-    "question": "Find the place word: “Ben went to the shop.”",
-    "audioPrompt": "Find the place word: “Ben went to the shop.”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-015",
+      "alt_text": "📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence"
     },
     "answers": [
-      "went",
-      "shop",
-      "ben"
+      "Birds fly",
+      "Treat adjective as noun.",
+      "'Colourful birds fly quietly above the lake.' with both required additions"
     ],
-    "correct": 1,
-    "explanation": "shop is the best answer.",
+    "correct": 2,
+    "explanation": "'Colourful birds fly quietly above the lake.' with both required additions uses the skill correctly. A describing word needs something to describe.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "shop is the best answer."
+      "summary": "'Colourful birds fly quietly above the lake.' with both required additions uses the skill correctly. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-039",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 09 apply",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear picture of a fish.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a fish.] Which word could name this picture?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Find a state verb; 🔎 adverb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a state verb; 🔎 adverb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-017",
+      "alt_text": "📖 Find a state verb; 🔎 adverb; ✅ choose with evidence"
     },
     "answers": [
-      "quick",
-      "jump",
-      "fish"
+      "Is; it links the soup with its state",
+      "The soup is warm",
+      "Do not find what happens or what is."
     ],
-    "correct": 2,
-    "explanation": "The word fish names the animal.",
+    "correct": 0,
+    "explanation": "Is; it links the soup with its state uses the skill correctly. Find what happens or what is.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "The word fish names the animal."
+      "summary": "Is; it links the soup with its state uses the skill correctly. Find what happens or what is.",
+      "hint": "Find what happens or what is."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la07-p-040",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "ac9e1la07 10 apply",
     "printable": true,
     "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-019",
+      "alt_text": "📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence"
     },
     "answers": [
-      "Kim runs.",
-      "Kim has a book.",
-      "Jump up."
+      "How ↔ tomorrow; when ↔ outside; where ↔ carefully",
+      "How ↔ carefully; when ↔ tomorrow; where ↔ outside",
+      "Do not ask what job the word does in the sentence."
     ],
     "correct": 1,
-    "explanation": "Kim has a book. is the best answer.",
+    "explanation": "How ↔ carefully; when ↔ tomorrow; where ↔ outside uses the skill correctly. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "Kim has a book. is the best answer."
+      "summary": "How ↔ carefully; when ↔ tomorrow; where ↔ outside uses the skill correctly. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1la07-p-041",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which word names an animal?",
-    "audioPrompt": "Look and choose: Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "green",
-      "hop",
-      "frog"
-    ],
-    "correct": 2,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-042",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names a person?",
-    "audioPrompt": "Which word names a person?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "teach",
-      "kind",
-      "teacher"
-    ],
-    "correct": 2,
-    "explanation": "teacher is the best answer.",
-    "structuredExplanation": {
-      "summary": "teacher is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-043",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names a place?",
-    "audioPrompt": "Which word names a place?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "park",
-      "happy",
-      "play"
-    ],
-    "correct": 0,
-    "explanation": "park is the best answer.",
-    "structuredExplanation": {
-      "summary": "park is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-044",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "run",
-      "soft",
-      "cup"
-    ],
-    "correct": 2,
-    "explanation": "cup is the best answer.",
-    "structuredExplanation": {
-      "summary": "cup is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-045",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the naming word: “The fish runs.”",
-    "audioPrompt": "Find the naming word: “The fish runs.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "fish",
-      "the",
-      "runs"
-    ],
-    "correct": 0,
-    "explanation": "fish is the best answer.",
-    "structuredExplanation": {
-      "summary": "fish is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-046",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the place word: “Sam went to the camp.”",
-    "audioPrompt": "Find the place word: “Sam went to the camp.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sam",
-      "went",
-      "camp"
-    ],
-    "correct": 2,
-    "explanation": "camp is the best answer.",
-    "structuredExplanation": {
-      "summary": "camp is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-047",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "[Show a clear picture of a cat.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a cat.] Which word could name this picture?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "quick",
-      "cat",
-      "jump"
-    ],
-    "correct": 1,
-    "explanation": "The word cat names the animal.",
-    "structuredExplanation": {
-      "summary": "The word cat names the animal."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-048",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Jump up.",
-      "Ava runs.",
-      "Ava has a sock."
-    ],
-    "correct": 2,
-    "explanation": "Ava has a sock. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Ava has a sock. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

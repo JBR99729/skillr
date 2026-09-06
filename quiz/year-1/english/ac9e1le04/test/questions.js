@@ -4,480 +4,466 @@ window.skillrTestQuestions = [
     "id": "ac9e1le04-t-001",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which word rhymes with cat?",
-    "audioPrompt": "Read and choose: Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly show imitation?",
+    "audioPrompt": "Which response would correctly show imitation?",
+    "visual": "📖 show imitation; 🔎 rhyme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show imitation; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001",
+      "alt_text": "📖 show imitation; 🔎 rhyme; ✅ choose with evidence"
     },
     "answers": [
-      "sun",
-      "hat",
-      "bag"
+      "Accurately imitates twice and creates a clearly stated variation",
+      "tap-tap-pause",
+      "Do not listen for same sound, not just same spelling."
     ],
-    "correct": 1,
-    "explanation": "hat is the best answer.",
+    "correct": 0,
+    "explanation": "Accurately imitates twice and creates a clearly stated variation This matches the task.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "hat is the best answer."
+      "summary": "Accurately imitates twice and creates a clearly stated variation This matches the task.",
+      "hint": "Listen for same sound, not just same spelling."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-002",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Look and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Look and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you show imitation?",
+    "audioPrompt": "Which tip would help you show imitation?",
+    "visual": "🧠 show imitation; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show imitation; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002",
+      "alt_text": "🧠 show imitation; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
-      "log and see",
-      "log and frog",
-      "see and by"
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Listen for same sound, not just same spelling.",
+      "Leave out performance."
     ],
     "correct": 1,
-    "explanation": "log and frog is the best answer.",
+    "explanation": "Listen for same sound, not just same spelling.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "log and frog is the best answer."
+      "summary": "Listen for same sound, not just same spelling.",
+      "hint": "Listen for same sound, not just same spelling."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-003",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 02 answer",
     "printable": true,
     "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly draw rhyme pairs?",
+    "audioPrompt": "Which response would correctly draw rhyme pairs?",
+    "visual": "📖 Draw rhyme pairs; 🔎 alliteration; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw rhyme pairs; 🔎 alliteration; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-003",
+      "alt_text": "📖 Draw rhyme pairs; 🔎 alliteration; ✅ choose with evidence"
     },
     "answers": [
-      "Mia sees a dog.",
-      "The fish can hop.",
-      "Mia makes muffins."
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Leave out performance.",
+      "Two pairs have matching spoken end sounds and labels"
     ],
     "correct": 2,
-    "explanation": "Mia makes muffins. is the best answer.",
+    "explanation": "Two pairs have matching spoken end sounds and labels This matches the task.\nHint: Rhyme is usually ending sound.",
     "structuredExplanation": {
-      "summary": "Mia makes muffins. is the best answer."
+      "summary": "Two pairs have matching spoken end sounds and labels This matches the task.",
+      "hint": "Rhyme is usually ending sound."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-004",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 02 strategy",
     "printable": true,
     "type": "single",
-    "question": "Clap the beat: “Run to the shop.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the shop.” Which word comes last?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you draw rhyme pairs?",
+    "audioPrompt": "Which tip would help you draw rhyme pairs?",
+    "visual": "🧠 Draw rhyme pairs; ➡️ Find sound pattern; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw rhyme pairs; ➡️ Find sound pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-004",
+      "alt_text": "🧠 Draw rhyme pairs; ➡️ Find sound pattern; 💡 helpful strategy"
     },
     "answers": [
-      "run",
-      "the",
-      "shop"
+      "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+      "Leave out performance.",
+      "Do not listen for same sound, not just same spelling."
     ],
-    "correct": 2,
-    "explanation": "shop is the best answer.",
+    "correct": 0,
+    "explanation": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.\nHint: Rhyme is usually ending sound.",
     "structuredExplanation": {
-      "summary": "shop is the best answer."
+      "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+      "hint": "Rhyme is usually ending sound."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-005",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 03 answer",
     "printable": true,
     "type": "single",
-    "question": "Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Finish the rhyme: “I see a bee in a …”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly correct false alliteration?",
+    "audioPrompt": "Which response would correctly correct false alliteration?",
+    "visual": "📖 Correct false alliteration; 🔎 beat; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct false alliteration; 🔎 beat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-005",
+      "alt_text": "📖 Correct false alliteration; 🔎 beat; ✅ choose with evidence"
     },
     "answers": [
-      "tree",
-      "box",
-      "dog"
+      "giant goat",
+      "Giant starts /j/ while goat starts /g/, so initial sounds differ",
+      "Leave out performance."
     ],
-    "correct": 0,
-    "explanation": "tree is the best answer.",
+    "correct": 1,
+    "explanation": "Giant starts /j/ while goat starts /g/, so initial sounds differ This matches the task.\nHint: Say it aloud to hear the pattern.",
     "structuredExplanation": {
-      "summary": "tree is the best answer."
+      "summary": "Giant starts /j/ while goat starts /g/, so initial sounds differ This matches the task.",
+      "hint": "Say it aloud to hear the pattern."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-006",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 03 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which pair does not rhyme?",
-    "audioPrompt": "Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you correct false alliteration?",
+    "audioPrompt": "Which tip would help you correct false alliteration?",
+    "visual": "🧠 Correct false alliteration; ➡️ Imitate; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct false alliteration; ➡️ Imitate; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-006",
+      "alt_text": "🧠 Correct false alliteration; ➡️ Imitate; 💡 helpful strategy"
     },
     "answers": [
-      "light – cup",
-      "light – kite",
-      "kite – light"
+      "Do not listen for same sound, not just same spelling.",
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Look for beat and check the whole example."
     ],
-    "correct": 0,
-    "explanation": "light – cup is the best answer.",
+    "correct": 2,
+    "explanation": "Look for beat and check the whole example.\nHint: Say it aloud to hear the pattern.",
     "structuredExplanation": {
-      "summary": "light – cup is the best answer."
+      "summary": "Look for beat and check the whole example.",
+      "hint": "Say it aloud to hear the pattern."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-007",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 04 answer",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read and choose: Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly create and discuss a verse?",
+    "audioPrompt": "Which response would correctly create and discuss a verse?",
+    "visual": "📖 Create and discuss a verse; 🔎 chant; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Create and discuss a verse; 🔎 chant; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-007",
+      "alt_text": "📖 Create and discuss a verse; 🔎 chant; ✅ choose with evidence"
     },
     "answers": [
-      "aloud",
-      "read",
-      "tap"
+      "All three features are present, accurately named and contribute to a coherent mini-verse",
+      "Do not listen for same sound, not just same spelling.",
+      "Choose a word with the same first sound instead of a rhyme."
     ],
-    "correct": 2,
-    "explanation": "tap is the best answer.",
+    "correct": 0,
+    "explanation": "All three features are present, accurately named and contribute to a coherent mini-verse This matches the task.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "tap is the best answer."
+      "summary": "All three features are present, accurately named and contribute to a coherent mini-verse This matches the task.",
+      "hint": "Listen for same sound, not just same spelling."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-008",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 04 strategy",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which line uses alliteration?",
-    "audioPrompt": "Read and choose: Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you create and discuss a verse?",
+    "audioPrompt": "Which tip would help you create and discuss a verse?",
+    "visual": "🧠 Create and discuss a verse; ➡️ Invent; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Create and discuss a verse; ➡️ Invent; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-008",
+      "alt_text": "🧠 Create and discuss a verse; ➡️ Invent; 💡 helpful strategy"
     },
     "answers": [
-      "I see two snakes.",
-      "The snake is long.",
-      "Silly snakes slide."
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Check that you can invent pattern.",
+      "Leave out performance."
     ],
-    "correct": 2,
-    "explanation": "Silly snakes slide. is the best answer.",
+    "correct": 1,
+    "explanation": "Check that you can invent pattern.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
+      "summary": "Check that you can invent pattern.",
+      "hint": "Listen for same sound, not just same spelling."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-009",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which word rhymes with cat?",
-    "audioPrompt": "Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show imitation; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show imitation; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002",
+      "alt_text": "🧠 show imitation; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
-      "bag",
-      "hat",
-      "sun"
+      "tap-tap-pause",
+      "Do not listen for same sound, not just same spelling.",
+      "Listen for same sound, not just same spelling."
     ],
-    "correct": 1,
-    "explanation": "hat is the best answer.",
+    "correct": 2,
+    "explanation": "Listen for same sound, not just same spelling. is the useful check. Listen for same sound, not just same spelling.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "hat is the best answer."
+      "summary": "Listen for same sound, not just same spelling. is the useful check. Listen for same sound, not just same spelling.",
+      "hint": "Listen for same sound, not just same spelling."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-010",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw rhyme pairs; ➡️ Find sound pattern; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw rhyme pairs; ➡️ Find sound pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-004",
+      "alt_text": "🧠 Draw rhyme pairs; ➡️ Find sound pattern; 💡 helpful strategy"
     },
     "answers": [
-      "see and by",
-      "log and see",
-      "log and frog"
+      "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Leave out performance."
     ],
-    "correct": 2,
-    "explanation": "log and frog is the best answer.",
+    "correct": 0,
+    "explanation": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform. is the useful check. Rhyme is usually ending sound.\nHint: Rhyme is usually ending sound.",
     "structuredExplanation": {
-      "summary": "log and frog is the best answer."
+      "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform. is the useful check. Rhyme is usually ending sound.",
+      "hint": "Rhyme is usually ending sound."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-011",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct false alliteration; ➡️ Imitate; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct false alliteration; ➡️ Imitate; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-006",
+      "alt_text": "🧠 Correct false alliteration; ➡️ Imitate; 💡 helpful strategy"
     },
     "answers": [
-      "The cat can hop.",
-      "Ben sees a dog.",
-      "Ben makes muffins."
+      "giant goat",
+      "Look for beat and check the whole example.",
+      "Leave out performance."
     ],
-    "correct": 2,
-    "explanation": "Ben makes muffins. is the best answer.",
+    "correct": 1,
+    "explanation": "Look for beat and check the whole example. is the useful check. Say it aloud to hear the pattern.\nHint: Say it aloud to hear the pattern.",
     "structuredExplanation": {
-      "summary": "Ben makes muffins. is the best answer."
+      "summary": "Look for beat and check the whole example. is the useful check. Say it aloud to hear the pattern.",
+      "hint": "Say it aloud to hear the pattern."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-012",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Clap the beat: “Run to the camp.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the camp.” Which word comes last?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Create and discuss a verse; ➡️ Invent; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Create and discuss a verse; ➡️ Invent; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-008",
+      "alt_text": "🧠 Create and discuss a verse; ➡️ Invent; 💡 helpful strategy"
     },
     "answers": [
-      "run",
-      "the",
-      "camp"
+      "Do not listen for same sound, not just same spelling.",
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Check that you can invent pattern."
     ],
     "correct": 2,
-    "explanation": "camp is the best answer.",
+    "explanation": "Check that you can invent pattern. is the useful check. Listen for same sound, not just same spelling.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "camp is the best answer."
+      "summary": "Check that you can invent pattern. is the useful check. Listen for same sound, not just same spelling.",
+      "hint": "Listen for same sound, not just same spelling."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-013",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "Look and choose: Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Look and choose: Finish the rhyme: “I see a bee in a …”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “tap-tap-pause”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose tap-tap-pause. Which answer would improve their response?",
+    "visual": "📖 show imitation; 🔎 rhyme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show imitation; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001",
+      "alt_text": "📖 show imitation; 🔎 rhyme; ✅ choose with evidence"
     },
     "answers": [
-      "tree",
-      "dog",
-      "box"
+      "Accurately imitates twice and creates a clearly stated variation",
+      "tap-tap-pause",
+      "Do not listen for same sound, not just same spelling."
     ],
     "correct": 0,
-    "explanation": "tree is the best answer.",
+    "explanation": "Accurately imitates twice and creates a clearly stated variation is the stronger response because it uses the target skill. Listen for same sound, not just same spelling.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "tree is the best answer."
+      "summary": "Accurately imitates twice and creates a clearly stated variation is the stronger response because it uses the target skill. Listen for same sound, not just same spelling.",
+      "hint": "Listen for same sound, not just same spelling."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-014",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which pair does not rhyme?",
-    "audioPrompt": "Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Choose a word with the same first sound instead of a rhyme.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Choose a word with the same first sound instead of a rhyme.. Which answer would improve their response?",
+    "visual": "📖 Draw rhyme pairs; 🔎 alliteration; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw rhyme pairs; 🔎 alliteration; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-003",
+      "alt_text": "📖 Draw rhyme pairs; 🔎 alliteration; ✅ choose with evidence"
     },
     "answers": [
-      "light – cup",
-      "kite – light",
-      "light – kite"
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Two pairs have matching spoken end sounds and labels",
+      "Leave out performance."
     ],
-    "correct": 0,
-    "explanation": "light – cup is the best answer.",
+    "correct": 1,
+    "explanation": "Two pairs have matching spoken end sounds and labels is the stronger response because it uses the target skill. Rhyme is usually ending sound.\nHint: Rhyme is usually ending sound.",
     "structuredExplanation": {
-      "summary": "light – cup is the best answer."
+      "summary": "Two pairs have matching spoken end sounds and labels is the stronger response because it uses the target skill. Rhyme is usually ending sound.",
+      "hint": "Rhyme is usually ending sound."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-015",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “giant goat”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose giant goat. Which answer would improve their response?",
+    "visual": "📖 Correct false alliteration; 🔎 beat; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct false alliteration; 🔎 beat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-005",
+      "alt_text": "📖 Correct false alliteration; 🔎 beat; ✅ choose with evidence"
     },
     "answers": [
-      "read",
-      "aloud",
-      "tap"
+      "giant goat",
+      "Leave out performance.",
+      "Giant starts /j/ while goat starts /g/, so initial sounds differ"
     ],
     "correct": 2,
-    "explanation": "tap is the best answer.",
+    "explanation": "Giant starts /j/ while goat starts /g/, so initial sounds differ is the stronger response because it uses the target skill. Say it aloud to hear the pattern.\nHint: Say it aloud to hear the pattern.",
     "structuredExplanation": {
-      "summary": "tap is the best answer."
+      "summary": "Giant starts /j/ while goat starts /g/, so initial sounds differ is the stronger response because it uses the target skill. Say it aloud to hear the pattern.",
+      "hint": "Say it aloud to hear the pattern."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le04-t-016",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "ac9e1le04 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Look and choose: Which line uses alliteration?",
-    "audioPrompt": "Look and choose: Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Do not listen for same sound, not just same spelling.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not listen for same sound, not just same spelling.. Which answer would improve their response?",
+    "visual": "📖 Create and discuss a verse; 🔎 chant; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Create and discuss a verse; 🔎 chant; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-007",
+      "alt_text": "📖 Create and discuss a verse; 🔎 chant; ✅ choose with evidence"
     },
     "answers": [
-      "The snake is long.",
-      "I see two snakes.",
-      "Silly snakes slide."
+      "All three features are present, accurately named and contribute to a coherent mini-verse",
+      "Do not listen for same sound, not just same spelling.",
+      "Choose a word with the same first sound instead of a rhyme."
     ],
-    "correct": 2,
-    "explanation": "Silly snakes slide. is the best answer.",
+    "correct": 0,
+    "explanation": "All three features are present, accurately named and contribute to a coherent mini-verse is the stronger response because it uses the target skill. Listen for same sound, not just same spelling.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
+      "summary": "All three features are present, accurately named and contribute to a coherent mini-verse is the stronger response because it uses the target skill. Listen for same sound, not just same spelling.",
+      "hint": "Listen for same sound, not just same spelling."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

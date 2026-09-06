@@ -4,1440 +4,1161 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1le02-p-001",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 01 recognise",
     "printable": true,
     "type": "single",
-    "question": "Read: “Mia felt shy on the first day.” When might you feel like Mia?",
-    "audioPrompt": "Read: “Mia felt shy on the first day.” When might you feel like Mia?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly name a connection?",
+    "audioPrompt": "Which response would correctly name a connection?",
+    "visual": "📖 Name a connection; 🔎 connection; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name a connection; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-001",
+      "alt_text": "📖 Name a connection; 🔎 connection; ✅ choose with evidence"
     },
     "answers": [
-      "when counting",
-      "while asleep",
-      "on a first day"
+      "Learning a new skill, practising, falling safely or receiving help; connection relates to the event",
+      "Learning a new skill, practising, falling safely or receiving help; experience relates to the event",
+      "Learning a new skill, practising, falling safely or receiving help; discussion relates to the event"
     ],
-    "correct": 2,
-    "explanation": "on a first day is the best answer.",
+    "correct": 0,
+    "explanation": "Learning a new skill, practising, falling safely or receiving help; connection relates to the event This matches the task.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "on a first day is the best answer."
+      "summary": "Learning a new skill, practising, falling safely or receiving help; connection relates to the event This matches the task.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-002",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 02 recognise",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ben lost a favourite bag.” How might Ben feel?",
-    "audioPrompt": "Read: “Ben lost a favourite bag.” How might Ben feel?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly match events and connections?",
+    "audioPrompt": "Which response would correctly match events and connections?",
+    "visual": "📖 Match events and connections; 🔎 feeling; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match events and connections; 🔎 feeling; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-003",
+      "alt_text": "📖 Match events and connections; 🔎 feeling; ✅ choose with evidence"
     },
     "answers": [
-      "proud",
-      "sad",
-      "sleepy"
+      "Give a connection that is too vague.",
+      "Do not listen first, then respond.",
+      "Each story event matches its relevant experience category"
     ],
-    "correct": 1,
-    "explanation": "sad is the best answer.",
+    "correct": 2,
+    "explanation": "Each story event matches its relevant experience category This matches the task.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "Each story event matches its relevant experience category This matches the task.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-003",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 03 recognise",
     "printable": true,
     "type": "single",
-    "question": "Read: “Sam helped a small hen.” What does this remind you of?",
-    "audioPrompt": "Read: “Sam helped a small hen.” What does this remind you of?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly share a safe oral response?",
+    "audioPrompt": "Which response would correctly share a safe oral response?",
+    "visual": "📖 Share a safe oral response; 🔎 thought; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Share a safe oral response; 🔎 thought; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-005",
+      "alt_text": "📖 Share a safe oral response; 🔎 thought; ✅ choose with evidence"
     },
     "answers": [
-      "writing a number",
-      "helping someone",
-      "eating lunch"
+      "Do not listen first, then respond.",
+      "Names feeling, gives appropriate connection and explains the link",
+      "Leave out your thought, feeling or connection."
     ],
     "correct": 1,
-    "explanation": "helping someone is the best answer.",
+    "explanation": "Names feeling, gives appropriate connection and explains the link This matches the task.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "helping someone is the best answer."
+      "summary": "Names feeling, gives appropriate connection and explains the link This matches the task.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-004",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 04 recognise",
     "printable": true,
     "type": "single",
-    "question": "Read: “The children played at the beach.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the beach.” Which connection makes sense?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly complete a connection sentence?",
+    "audioPrompt": "Which response would correctly complete a connection sentence?",
+    "visual": "📖 Complete a connection sentence; 🔎 experience; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Complete a connection sentence; 🔎 experience; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-007",
+      "alt_text": "📖 Complete a connection sentence; 🔎 experience; ✅ choose with evidence"
     },
     "answers": [
-      "I am a beach.",
-      "I have played at a beach.",
-      "A beach is a letter."
+      "A coherent event and reason connected to rain/indoor activity or feeling",
+      "The rainy-day story reminds me of __ because __",
+      "Leave out your thought, feeling or connection."
     ],
-    "correct": 1,
-    "explanation": "I have played at a beach. is the best answer.",
+    "correct": 0,
+    "explanation": "A coherent event and reason connected to rain/indoor activity or feeling This matches the task.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "I have played at a beach. is the best answer."
+      "summary": "A coherent event and reason connected to rain/indoor activity or feeling This matches the task.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-005",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 05 recognise",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ava was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Ava was brave in the dark.” Have you ever needed to be brave?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly order a thoughtful response?",
+    "audioPrompt": "Which response would correctly order a thoughtful response?",
+    "visual": "📖 Order a thoughtful response; 🔎 discussion; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a thoughtful response; 🔎 discussion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-009",
+      "alt_text": "📖 Order a thoughtful response; 🔎 discussion; ✅ choose with evidence"
     },
     "answers": [
-      "Yes, when I counted.",
-      "Yes, when I felt afraid.",
-      "No, because ball."
+      "insight about character → compare → experience → Text event",
+      "Give a connection that is too vague.",
+      "Text event → experience → compare → insight about character"
     ],
-    "correct": 1,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
+    "correct": 2,
+    "explanation": "Text event → experience → compare → insight about character This matches the task.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
+      "summary": "Text event → experience → compare → insight about character This matches the task.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-006",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 06 recognise",
     "printable": true,
     "type": "single",
-    "question": "Read: “Leo shared the kite.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Leo shared the kite.” What lesson connects to your life?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly draw text and self panels?",
+    "audioPrompt": "Which response would correctly draw text and self panels?",
+    "visual": "📖 Draw text and self panels; 🔎 connection; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw text and self panels; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-011",
+      "alt_text": "📖 Draw text and self panels; 🔎 connection; ✅ choose with evidence"
     },
     "answers": [
-      "Books have pages.",
-      "Blue is a colour.",
-      "Sharing is kind."
+      "Do not listen first, then respond.",
+      "Both panels are clear and one meaningful similarity is labelled",
+      "Leave out your thought, feeling or connection."
     ],
-    "correct": 2,
-    "explanation": "Sharing is kind. is the best answer.",
+    "correct": 1,
+    "explanation": "Both panels are clear and one meaningful similarity is labelled This matches the task.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
+      "summary": "Both panels are clear and one meaningful similarity is labelled This matches the task.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-007",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 07 recognise",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Zoe cheered for a friend.” Which experience is similar?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly check relevance?",
+    "audioPrompt": "Which response would correctly check relevance?",
+    "visual": "📖 Check relevance; 🔎 feeling; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Check relevance; 🔎 feeling; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-013",
+      "alt_text": "📖 Check relevance; 🔎 feeling; ✅ choose with evidence"
     },
     "answers": [
-      "closing a door",
-      "clapping for a friend",
-      "washing a cup"
+      "Connect to sharing, hunger, friendship or a comparable choice and explain how it helps understand the story",
+      "Leave out your thought, feeling or connection.",
+      "Give a connection that is too vague."
     ],
-    "correct": 1,
-    "explanation": "clapping for a friend is the best answer.",
+    "correct": 0,
+    "explanation": "Connect to sharing, hunger, friendship or a comparable choice and explain how it helps understand the story This matches the task.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
+      "summary": "Connect to sharing, hunger, friendship or a comparable choice and explain how it helps understand the story This matches the task.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-008",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 08 recognise",
     "printable": true,
     "type": "single",
-    "question": "Read: “Max tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Max tried again after a mistake.” What could you do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly respect a different response?",
+    "audioPrompt": "Which response would correctly respect a different response?",
+    "visual": "📖 Respect a different response; 🔎 thought; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Respect a different response; 🔎 thought; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-015",
+      "alt_text": "📖 Respect a different response; 🔎 thought; ✅ choose with evidence"
     },
     "answers": [
-      "hide the work",
-      "try again",
-      "stop learning"
+      "Give a connection that is too vague.",
+      "Do not listen first, then respond.",
+      "Experiences and feelings differ; each response is useful if connected to text evidence and shared respectfully"
     ],
-    "correct": 1,
-    "explanation": "try again is the best answer.",
+    "correct": 2,
+    "explanation": "Experiences and feelings differ; each response is useful if connected to text evidence and shared respectfully This matches the task.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "try again is the best answer."
+      "summary": "Experiences and feelings differ; each response is useful if connected to text evidence and shared respectfully This matches the task.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-009",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 09 recognise",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ben felt shy on the first day.” When might you feel like Ben?",
-    "audioPrompt": "Read: “Ben felt shy on the first day.” When might you feel like Ben?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly infer through experience?",
+    "audioPrompt": "Which response would correctly infer through experience?",
+    "visual": "📖 Infer through experience; 🔎 experience; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Infer through experience; 🔎 experience; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-017",
+      "alt_text": "📖 Infer through experience; 🔎 experience; ✅ choose with evidence"
     },
     "answers": [
-      "on a first day",
-      "while asleep",
-      "when counting"
+      "Do not listen first, then respond.",
+      "It can explain effort, nerves, improvement or pride, linked to repeated practice",
+      "Leave out your thought, feeling or connection."
     ],
-    "correct": 0,
-    "explanation": "on a first day is the best answer.",
+    "correct": 1,
+    "explanation": "It can explain effort, nerves, improvement or pride, linked to repeated practice This matches the task.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "on a first day is the best answer."
+      "summary": "It can explain effort, nerves, improvement or pride, linked to repeated practice This matches the task.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-010",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 10 recognise",
     "printable": true,
     "type": "single",
-    "question": "Read: “Sam lost a favourite ball.” How might Sam feel?",
-    "audioPrompt": "Read: “Sam lost a favourite ball.” How might Sam feel?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly match response starters?",
+    "audioPrompt": "Which response would correctly match response starters?",
+    "visual": "📖 Match response starters; 🔎 discussion; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match response starters; 🔎 discussion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-019",
+      "alt_text": "📖 Match response starters; 🔎 discussion; ✅ choose with evidence"
     },
     "answers": [
-      "sleepy",
-      "proud",
-      "sad"
+      "Both ↔ similarity; Unlike ↔ difference; helps understand ↔ insight",
+      "Both ___",
+      "Unlike ___"
     ],
-    "correct": 2,
-    "explanation": "sad is the best answer.",
+    "correct": 0,
+    "explanation": "Both ↔ similarity; Unlike ↔ difference; helps understand ↔ insight This matches the task.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "Both ↔ similarity; Unlike ↔ difference; helps understand ↔ insight This matches the task.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-011",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 01 explain",
     "printable": true,
     "type": "single",
-    "question": "Read: “Kim helped a small frog.” What does this remind you of?",
-    "audioPrompt": "Read: “Kim helped a small frog.” What does this remind you of?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you name a connection?",
+    "audioPrompt": "Which tip would help you name a connection?",
+    "visual": "🧠 Name a connection; ➡️ Listen/read; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Name a connection; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-002",
+      "alt_text": "🧠 Name a connection; ➡️ Listen/read; 💡 helpful strategy"
     },
     "answers": [
-      "eating lunch",
-      "helping someone",
-      "writing a number"
+      "Give a connection that is too vague.",
+      "Add your thought, feeling or connection.",
+      "Do not listen first, then respond."
     ],
     "correct": 1,
-    "explanation": "helping someone is the best answer.",
+    "explanation": "Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "helping someone is the best answer."
+      "summary": "Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-012",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 02 explain",
     "printable": true,
     "type": "single",
-    "question": "Read: “The children played at the park.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the park.” Which connection makes sense?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you match events and connections?",
+    "audioPrompt": "Which tip would help you match events and connections?",
+    "visual": "🧠 Match events and connections; ➡️ Notice part; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match events and connections; ➡️ Notice part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-004",
+      "alt_text": "🧠 Match events and connections; ➡️ Notice part; 💡 helpful strategy"
     },
     "answers": [
-      "I have played at a park.",
-      "I am a park.",
-      "A park is a letter."
+      "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "Do not listen first, then respond.",
+      "Leave out your thought, feeling or connection."
     ],
     "correct": 0,
-    "explanation": "I have played at a park. is the best answer.",
+    "explanation": "Use this routine: Listen/read → Notice part → Connect → Explain response.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "I have played at a park. is the best answer."
+      "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-013",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 03 explain",
     "printable": true,
     "type": "single",
-    "question": "Read: “Leo was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Leo was brave in the dark.” Have you ever needed to be brave?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you share a safe oral response?",
+    "audioPrompt": "Which tip would help you share a safe oral response?",
+    "visual": "🧠 Share a safe oral response; ➡️ Connect; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Share a safe oral response; ➡️ Connect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-006",
+      "alt_text": "🧠 Share a safe oral response; ➡️ Connect; 💡 helpful strategy"
     },
     "answers": [
-      "No, because map.",
-      "Yes, when I counted.",
-      "Yes, when I felt afraid."
+      "Leave out your thought, feeling or connection.",
+      "Give a connection that is too vague.",
+      "Look for thought and check the whole example."
     ],
     "correct": 2,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
+    "explanation": "Look for thought and check the whole example.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
+      "summary": "Look for thought and check the whole example.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-014",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 04 explain",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe shared the hat.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Zoe shared the hat.” What lesson connects to your life?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you complete a connection sentence?",
+    "audioPrompt": "Which tip would help you complete a connection sentence?",
+    "visual": "🧠 Complete a connection sentence; ➡️ Explain response; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Complete a connection sentence; ➡️ Explain response; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-008",
+      "alt_text": "🧠 Complete a connection sentence; ➡️ Explain response; 💡 helpful strategy"
     },
     "answers": [
-      "Blue is a colour.",
-      "Sharing is kind.",
-      "Books have pages."
+      "Give a connection that is too vague.",
+      "Check that you can use text evidence.",
+      "Do not listen first, then respond."
     ],
     "correct": 1,
-    "explanation": "Sharing is kind. is the best answer.",
+    "explanation": "Check that you can use text evidence.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
+      "summary": "Check that you can use text evidence.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-015",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 05 explain",
     "printable": true,
     "type": "single",
-    "question": "Read: “Max cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Max cheered for a friend.” Which experience is similar?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you order a thoughtful response?",
+    "audioPrompt": "Which tip would help you order a thoughtful response?",
+    "visual": "🧠 Order a thoughtful response; ➡️ Listen/read; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a thoughtful response; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-010\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-010",
+      "alt_text": "🧠 Order a thoughtful response; ➡️ Listen/read; 💡 helpful strategy"
     },
     "answers": [
-      "clapping for a friend",
-      "closing a door",
-      "washing a cup"
+      "Sequencing an evidence-connected literary response.",
+      "Do not listen first, then respond.",
+      "Leave out your thought, feeling or connection."
     ],
     "correct": 0,
-    "explanation": "clapping for a friend is the best answer.",
+    "explanation": "Sequencing an evidence-connected literary response.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
+      "summary": "Sequencing an evidence-connected literary response.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-016",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 06 explain",
     "printable": true,
     "type": "single",
-    "question": "Read: “Mia tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Mia tried again after a mistake.” What could you do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you draw text and self panels?",
+    "audioPrompt": "Which tip would help you draw text and self panels?",
+    "visual": "🧠 Draw text and self panels; ➡️ Notice part; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw text and self panels; ➡️ Notice part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-012\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-012",
+      "alt_text": "🧠 Draw text and self panels; ➡️ Notice part; 💡 helpful strategy"
     },
     "answers": [
-      "hide the work",
-      "stop learning",
-      "try again"
+      "Leave out your thought, feeling or connection.",
+      "Give a connection that is too vague.",
+      "Listen first, then respond."
     ],
     "correct": 2,
-    "explanation": "try again is the best answer.",
+    "explanation": "Listen first, then respond.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "try again is the best answer."
+      "summary": "Listen first, then respond.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-017",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 07 explain",
     "printable": true,
     "type": "single",
-    "question": "Read: “Sam felt shy on the first day.” When might you feel like Sam?",
-    "audioPrompt": "Read: “Sam felt shy on the first day.” When might you feel like Sam?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you check relevance?",
+    "audioPrompt": "Which tip would help you check relevance?",
+    "visual": "🧠 Check relevance; ➡️ Connect; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Check relevance; ➡️ Connect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-014\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-014",
+      "alt_text": "🧠 Check relevance; ➡️ Connect; 💡 helpful strategy"
     },
     "answers": [
-      "while asleep",
-      "when counting",
-      "on a first day"
+      "Give a connection that is too vague.",
+      "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "Do not listen first, then respond."
     ],
-    "correct": 2,
-    "explanation": "on a first day is the best answer.",
+    "correct": 1,
+    "explanation": "Use this routine: Listen/read → Notice part → Connect → Explain response.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "on a first day is the best answer."
+      "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-018",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 08 explain",
     "printable": true,
     "type": "single",
-    "question": "Read: “Kim lost a favourite map.” How might Kim feel?",
-    "audioPrompt": "Read: “Kim lost a favourite map.” How might Kim feel?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you respect a different response?",
+    "audioPrompt": "Which tip would help you respect a different response?",
+    "visual": "🧠 Respect a different response; ➡️ Explain response; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Respect a different response; ➡️ Explain response; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-016\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-016",
+      "alt_text": "🧠 Respect a different response; ➡️ Explain response; 💡 helpful strategy"
     },
     "answers": [
-      "sad",
-      "sleepy",
-      "proud"
+      "Look for thought and check the whole example.",
+      "Do not listen first, then respond.",
+      "Leave out your thought, feeling or connection."
     ],
     "correct": 0,
-    "explanation": "sad is the best answer.",
+    "explanation": "Look for thought and check the whole example.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "Look for thought and check the whole example.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-019",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 09 explain",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ava helped a small fish.” What does this remind you of?",
-    "audioPrompt": "Read: “Ava helped a small fish.” What does this remind you of?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you infer through experience?",
+    "audioPrompt": "Which tip would help you infer through experience?",
+    "visual": "🧠 Infer through experience; ➡️ Listen/read; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Infer through experience; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-018\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-018",
+      "alt_text": "🧠 Infer through experience; ➡️ Listen/read; 💡 helpful strategy"
     },
     "answers": [
-      "writing a number",
-      "helping someone",
-      "eating lunch"
+      "Leave out your thought, feeling or connection.",
+      "Give a connection that is too vague.",
+      "Check that you can use text evidence."
     ],
-    "correct": 1,
-    "explanation": "helping someone is the best answer.",
+    "correct": 2,
+    "explanation": "Check that you can use text evidence.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "helping someone is the best answer."
+      "summary": "Check that you can use text evidence.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-020",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 10 explain",
     "printable": true,
     "type": "single",
-    "question": "Read: “The children played at the pond.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the pond.” Which connection makes sense?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you match response starters?",
+    "audioPrompt": "Which tip would help you match response starters?",
+    "visual": "🧠 Match response starters; ➡️ Notice part; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match response starters; ➡️ Notice part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-020\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-020",
+      "alt_text": "🧠 Match response starters; ➡️ Notice part; 💡 helpful strategy"
     },
     "answers": [
-      "I have played at a pond.",
-      "A pond is a letter.",
-      "I am a pond."
+      "Give a connection that is too vague.",
+      "Using comparative language in literary discussion.",
+      "Do not listen first, then respond."
     ],
-    "correct": 0,
-    "explanation": "I have played at a pond. is the best answer.",
+    "correct": 1,
+    "explanation": "Using comparative language in literary discussion.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "I have played at a pond. is the best answer."
+      "summary": "Using comparative language in literary discussion.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-021",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 01 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Zoe was brave in the dark.” Have you ever needed to be brave?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Name a connection; 🔎 connection; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name a connection; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-001",
+      "alt_text": "📖 Name a connection; 🔎 connection; ✅ choose with evidence"
     },
     "answers": [
-      "No, because cup.",
-      "Yes, when I felt afraid.",
-      "Yes, when I counted."
+      "Learning a new skill, practising, falling safely or receiving help; experience relates to the event",
+      "Learning a new skill, practising, falling safely or receiving help; connection relates to the event",
+      "Add your thought, feeling or connection."
     ],
-    "correct": 1,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
+    "correct": 0,
+    "explanation": "Learning a new skill, practising, falling safely or receiving help; experience relates to the event is the mix-up. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
+      "summary": "Learning a new skill, practising, falling safely or receiving help; experience relates to the event is the mix-up. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-022",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 02 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read: “Max shared the book.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Max shared the book.” What lesson connects to your life?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match events and connections; 🔎 feeling; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match events and connections; 🔎 feeling; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-003",
+      "alt_text": "📖 Match events and connections; 🔎 feeling; ✅ choose with evidence"
     },
     "answers": [
-      "Blue is a colour.",
-      "Books have pages.",
-      "Sharing is kind."
+      "Each story event matches its relevant experience category",
+      "Give a connection that is too vague.",
+      "Use this routine: Listen/read → Notice part → Connect → Explain response."
     ],
-    "correct": 2,
-    "explanation": "Sharing is kind. is the best answer.",
+    "correct": 1,
+    "explanation": "Give a connection that is too vague. is the mix-up. Name the part of the text that made the connection.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
+      "summary": "Give a connection that is too vague. is the mix-up. Name the part of the text that made the connection.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-023",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 03 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read: “Mia cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Mia cheered for a friend.” Which experience is similar?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Share a safe oral response; 🔎 thought; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Share a safe oral response; 🔎 thought; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-005",
+      "alt_text": "📖 Share a safe oral response; 🔎 thought; ✅ choose with evidence"
     },
     "answers": [
-      "closing a door",
-      "clapping for a friend",
-      "washing a cup"
+      "Names feeling, gives appropriate connection and explains the link",
+      "Look for thought and check the whole example.",
+      "Do not listen first, then respond."
     ],
-    "correct": 1,
-    "explanation": "clapping for a friend is the best answer.",
+    "correct": 2,
+    "explanation": "Do not listen first, then respond. is the mix-up. Listen first, then respond.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
+      "summary": "Do not listen first, then respond. is the mix-up. Listen first, then respond.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-024",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 04 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ben tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Ben tried again after a mistake.” What could you do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Complete a connection sentence; 🔎 experience; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Complete a connection sentence; 🔎 experience; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-007",
+      "alt_text": "📖 Complete a connection sentence; 🔎 experience; ✅ choose with evidence"
     },
     "answers": [
-      "hide the work",
-      "try again",
-      "stop learning"
+      "The rainy-day story reminds me of __ because __",
+      "A coherent event and reason connected to rain/indoor activity or feeling",
+      "Check that you can use text evidence."
     ],
-    "correct": 1,
-    "explanation": "try again is the best answer.",
+    "correct": 0,
+    "explanation": "The rainy-day story reminds me of __ because __ is the mix-up. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "try again is the best answer."
+      "summary": "The rainy-day story reminds me of __ because __ is the mix-up. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-025",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 05 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read: “Kim felt shy on the first day.” When might you feel like Kim?",
-    "audioPrompt": "Read: “Kim felt shy on the first day.” When might you feel like Kim?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Order a thoughtful response; 🔎 discussion; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a thoughtful response; 🔎 discussion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-009",
+      "alt_text": "📖 Order a thoughtful response; 🔎 discussion; ✅ choose with evidence"
     },
     "answers": [
-      "when counting",
-      "while asleep",
-      "on a first day"
+      "Text event → experience → compare → insight about character",
+      "insight about character → compare → experience → Text event",
+      "Sequencing an evidence-connected literary response."
     ],
-    "correct": 2,
-    "explanation": "on a first day is the best answer.",
+    "correct": 1,
+    "explanation": "insight about character → compare → experience → Text event is the mix-up. Name the part of the text that made the connection.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "on a first day is the best answer."
+      "summary": "insight about character → compare → experience → Text event is the mix-up. Name the part of the text that made the connection.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-026",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 06 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ava lost a favourite cup.” How might Ava feel?",
-    "audioPrompt": "Read: “Ava lost a favourite cup.” How might Ava feel?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Draw text and self panels; 🔎 connection; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw text and self panels; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-011",
+      "alt_text": "📖 Draw text and self panels; 🔎 connection; ✅ choose with evidence"
     },
     "answers": [
-      "proud",
-      "sad",
-      "sleepy"
+      "Both panels are clear and one meaningful similarity is labelled",
+      "Listen first, then respond.",
+      "Do not listen first, then respond."
     ],
-    "correct": 1,
-    "explanation": "sad is the best answer.",
+    "correct": 2,
+    "explanation": "Do not listen first, then respond. is the mix-up. Listen first, then respond.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "Do not listen first, then respond. is the mix-up. Listen first, then respond.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-027",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 07 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read: “Leo helped a small cat.” What does this remind you of?",
-    "audioPrompt": "Read: “Leo helped a small cat.” What does this remind you of?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Check relevance; 🔎 feeling; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Check relevance; 🔎 feeling; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-013",
+      "alt_text": "📖 Check relevance; 🔎 feeling; ✅ choose with evidence"
     },
     "answers": [
-      "eating lunch",
-      "writing a number",
-      "helping someone"
+      "Leave out your thought, feeling or connection.",
+      "Connect to sharing, hunger, friendship or a comparable choice and explain how it helps understand the story",
+      "Use this routine: Listen/read → Notice part → Connect → Explain response."
     ],
-    "correct": 2,
-    "explanation": "helping someone is the best answer.",
+    "correct": 0,
+    "explanation": "Leave out your thought, feeling or connection. is the mix-up. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "helping someone is the best answer."
+      "summary": "Leave out your thought, feeling or connection. is the mix-up. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-028",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 08 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read: “The children played at the farm.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the farm.” Which connection makes sense?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Respect a different response; 🔎 thought; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Respect a different response; 🔎 thought; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-015",
+      "alt_text": "📖 Respect a different response; 🔎 thought; ✅ choose with evidence"
     },
     "answers": [
-      "I have played at a farm.",
-      "A farm is a letter.",
-      "I am a farm."
+      "Experiences and feelings differ; each response is useful if connected to text evidence and shared respectfully",
+      "Give a connection that is too vague.",
+      "Look for thought and check the whole example."
     ],
-    "correct": 0,
-    "explanation": "I have played at a farm. is the best answer.",
+    "correct": 1,
+    "explanation": "Give a connection that is too vague. is the mix-up. Name the part of the text that made the connection.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "I have played at a farm. is the best answer."
+      "summary": "Give a connection that is too vague. is the mix-up. Name the part of the text that made the connection.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-029",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 09 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read: “Max was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Max was brave in the dark.” Have you ever needed to be brave?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Infer through experience; 🔎 experience; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Infer through experience; 🔎 experience; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-017",
+      "alt_text": "📖 Infer through experience; 🔎 experience; ✅ choose with evidence"
     },
     "answers": [
-      "No, because kite.",
-      "Yes, when I counted.",
-      "Yes, when I felt afraid."
+      "It can explain effort, nerves, improvement or pride, linked to repeated practice",
+      "Check that you can use text evidence.",
+      "Do not listen first, then respond."
     ],
     "correct": 2,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
+    "explanation": "Do not listen first, then respond. is the mix-up. Listen first, then respond.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
+      "summary": "Do not listen first, then respond. is the mix-up. Listen first, then respond.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-030",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 10 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read: “Mia shared the sock.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Mia shared the sock.” What lesson connects to your life?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match response starters; 🔎 discussion; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match response starters; 🔎 discussion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-019",
+      "alt_text": "📖 Match response starters; 🔎 discussion; ✅ choose with evidence"
     },
     "answers": [
-      "Blue is a colour.",
-      "Sharing is kind.",
-      "Books have pages."
+      "Both ___",
+      "Both ↔ similarity; Unlike ↔ difference; helps understand ↔ insight",
+      "Using comparative language in literary discussion."
     ],
-    "correct": 1,
-    "explanation": "Sharing is kind. is the best answer.",
+    "correct": 0,
+    "explanation": "Both ___ is the mix-up. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
+      "summary": "Both ___ is the mix-up. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-031",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 01 apply",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ben cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Ben cheered for a friend.” Which experience is similar?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Name a connection; 🔎 connection; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name a connection; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-001",
+      "alt_text": "📖 Name a connection; 🔎 connection; ✅ choose with evidence"
     },
     "answers": [
-      "clapping for a friend",
-      "washing a cup",
-      "closing a door"
+      "Learning a new skill, practising, falling safely or receiving help; experience relates to the event",
+      "Learning a new skill, practising, falling safely or receiving help; connection relates to the event",
+      "Learning a new skill, practising, falling safely or receiving help; discussion relates to the event"
     ],
-    "correct": 0,
-    "explanation": "clapping for a friend is the best answer.",
+    "correct": 1,
+    "explanation": "Learning a new skill, practising, falling safely or receiving help; connection relates to the event uses the skill correctly. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
+      "summary": "Learning a new skill, practising, falling safely or receiving help; connection relates to the event uses the skill correctly. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-032",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 02 apply",
     "printable": true,
     "type": "single",
-    "question": "Read: “Sam tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Sam tried again after a mistake.” What could you do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match events and connections; 🔎 feeling; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match events and connections; 🔎 feeling; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-003",
+      "alt_text": "📖 Match events and connections; 🔎 feeling; ✅ choose with evidence"
     },
     "answers": [
-      "hide the work",
-      "stop learning",
-      "try again"
+      "Give a connection that is too vague.",
+      "Do not listen first, then respond.",
+      "Each story event matches its relevant experience category"
     ],
     "correct": 2,
-    "explanation": "try again is the best answer.",
+    "explanation": "Each story event matches its relevant experience category uses the skill correctly. Name the part of the text that made the connection.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "try again is the best answer."
+      "summary": "Each story event matches its relevant experience category uses the skill correctly. Name the part of the text that made the connection.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-033",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 03 apply",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ava felt shy on the first day.” When might you feel like Ava?",
-    "audioPrompt": "Read: “Ava felt shy on the first day.” When might you feel like Ava?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Share a safe oral response; 🔎 thought; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Share a safe oral response; 🔎 thought; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-005",
+      "alt_text": "📖 Share a safe oral response; 🔎 thought; ✅ choose with evidence"
     },
     "answers": [
-      "while asleep",
-      "on a first day",
-      "when counting"
+      "Names feeling, gives appropriate connection and explains the link",
+      "Do not listen first, then respond.",
+      "Leave out your thought, feeling or connection."
     ],
-    "correct": 1,
-    "explanation": "on a first day is the best answer.",
+    "correct": 0,
+    "explanation": "Names feeling, gives appropriate connection and explains the link uses the skill correctly. Listen first, then respond.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "on a first day is the best answer."
+      "summary": "Names feeling, gives appropriate connection and explains the link uses the skill correctly. Listen first, then respond.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-034",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 04 apply",
     "printable": true,
     "type": "single",
-    "question": "Read: “Leo lost a favourite kite.” How might Leo feel?",
-    "audioPrompt": "Read: “Leo lost a favourite kite.” How might Leo feel?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Complete a connection sentence; 🔎 experience; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Complete a connection sentence; 🔎 experience; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-007",
+      "alt_text": "📖 Complete a connection sentence; 🔎 experience; ✅ choose with evidence"
     },
     "answers": [
-      "sad",
-      "sleepy",
-      "proud"
+      "The rainy-day story reminds me of __ because __",
+      "A coherent event and reason connected to rain/indoor activity or feeling",
+      "Leave out your thought, feeling or connection."
     ],
-    "correct": 0,
-    "explanation": "sad is the best answer.",
+    "correct": 1,
+    "explanation": "A coherent event and reason connected to rain/indoor activity or feeling uses the skill correctly. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "A coherent event and reason connected to rain/indoor activity or feeling uses the skill correctly. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-035",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 05 apply",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe helped a small hen.” What does this remind you of?",
-    "audioPrompt": "Read: “Zoe helped a small hen.” What does this remind you of?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Order a thoughtful response; 🔎 discussion; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a thoughtful response; 🔎 discussion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-009",
+      "alt_text": "📖 Order a thoughtful response; 🔎 discussion; ✅ choose with evidence"
     },
     "answers": [
-      "writing a number",
-      "helping someone",
-      "eating lunch"
+      "insight about character → compare → experience → Text event",
+      "Give a connection that is too vague.",
+      "Text event → experience → compare → insight about character"
     ],
-    "correct": 1,
-    "explanation": "helping someone is the best answer.",
+    "correct": 2,
+    "explanation": "Text event → experience → compare → insight about character uses the skill correctly. Name the part of the text that made the connection.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "helping someone is the best answer."
+      "summary": "Text event → experience → compare → insight about character uses the skill correctly. Name the part of the text that made the connection.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-036",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 06 apply",
     "printable": true,
     "type": "single",
-    "question": "Read: “The children played at the zoo.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the zoo.” Which connection makes sense?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Draw text and self panels; 🔎 connection; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw text and self panels; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-011",
+      "alt_text": "📖 Draw text and self panels; 🔎 connection; ✅ choose with evidence"
     },
     "answers": [
-      "A zoo is a letter.",
-      "I have played at a zoo.",
-      "I am a zoo."
+      "Both panels are clear and one meaningful similarity is labelled",
+      "Do not listen first, then respond.",
+      "Leave out your thought, feeling or connection."
     ],
-    "correct": 1,
-    "explanation": "I have played at a zoo. is the best answer.",
+    "correct": 0,
+    "explanation": "Both panels are clear and one meaningful similarity is labelled uses the skill correctly. Listen first, then respond.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "I have played at a zoo. is the best answer."
+      "summary": "Both panels are clear and one meaningful similarity is labelled uses the skill correctly. Listen first, then respond.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-037",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 07 apply",
     "printable": true,
     "type": "single",
-    "question": "Read: “Mia was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Mia was brave in the dark.” Have you ever needed to be brave?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Check relevance; 🔎 feeling; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Check relevance; 🔎 feeling; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-013",
+      "alt_text": "📖 Check relevance; 🔎 feeling; ✅ choose with evidence"
     },
     "answers": [
-      "Yes, when I felt afraid.",
-      "Yes, when I counted.",
-      "No, because hat."
+      "Leave out your thought, feeling or connection.",
+      "Connect to sharing, hunger, friendship or a comparable choice and explain how it helps understand the story",
+      "Give a connection that is too vague."
     ],
-    "correct": 0,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
+    "correct": 1,
+    "explanation": "Connect to sharing, hunger, friendship or a comparable choice and explain how it helps understand the story uses the skill correctly. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
+      "summary": "Connect to sharing, hunger, friendship or a comparable choice and explain how it helps understand the story uses the skill correctly. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-038",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 08 apply",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ben shared the bag.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Ben shared the bag.” What lesson connects to your life?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Respect a different response; 🔎 thought; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Respect a different response; 🔎 thought; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-015",
+      "alt_text": "📖 Respect a different response; 🔎 thought; ✅ choose with evidence"
     },
     "answers": [
-      "Books have pages.",
-      "Sharing is kind.",
-      "Blue is a colour."
+      "Give a connection that is too vague.",
+      "Do not listen first, then respond.",
+      "Experiences and feelings differ; each response is useful if connected to text evidence and shared respectfully"
     ],
-    "correct": 1,
-    "explanation": "Sharing is kind. is the best answer.",
+    "correct": 2,
+    "explanation": "Experiences and feelings differ; each response is useful if connected to text evidence and shared respectfully uses the skill correctly. Name the part of the text that made the connection.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
+      "summary": "Experiences and feelings differ; each response is useful if connected to text evidence and shared respectfully uses the skill correctly. Name the part of the text that made the connection.",
+      "hint": "Name the part of the text that made the connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-039",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 09 apply",
     "printable": true,
     "type": "single",
-    "question": "Read: “Sam cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Sam cheered for a friend.” Which experience is similar?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Infer through experience; 🔎 experience; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Infer through experience; 🔎 experience; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-017",
+      "alt_text": "📖 Infer through experience; 🔎 experience; ✅ choose with evidence"
     },
     "answers": [
-      "washing a cup",
-      "closing a door",
-      "clapping for a friend"
+      "It can explain effort, nerves, improvement or pride, linked to repeated practice",
+      "Do not listen first, then respond.",
+      "Leave out your thought, feeling or connection."
     ],
-    "correct": 2,
-    "explanation": "clapping for a friend is the best answer.",
+    "correct": 0,
+    "explanation": "It can explain effort, nerves, improvement or pride, linked to repeated practice uses the skill correctly. Listen first, then respond.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
+      "summary": "It can explain effort, nerves, improvement or pride, linked to repeated practice uses the skill correctly. Listen first, then respond.",
+      "hint": "Listen first, then respond."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1le02-p-040",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "ac9e1le02 10 apply",
     "printable": true,
     "type": "single",
-    "question": "Read: “Kim tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Kim tried again after a mistake.” What could you do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match response starters; 🔎 discussion; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match response starters; 🔎 discussion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-019",
+      "alt_text": "📖 Match response starters; 🔎 discussion; ✅ choose with evidence"
     },
     "answers": [
-      "hide the work",
-      "try again",
-      "stop learning"
+      "Both ___",
+      "Both ↔ similarity; Unlike ↔ difference; helps understand ↔ insight",
+      "Unlike ___"
     ],
     "correct": 1,
-    "explanation": "try again is the best answer.",
+    "explanation": "Both ↔ similarity; Unlike ↔ difference; helps understand ↔ insight uses the skill correctly. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "try again is the best answer."
+      "summary": "Both ↔ similarity; Unlike ↔ difference; helps understand ↔ insight uses the skill correctly. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1le02-p-041",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Leo felt shy on the first day.” When might you feel like Leo?",
-    "audioPrompt": "Read: “Leo felt shy on the first day.” When might you feel like Leo?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "when counting",
-      "while asleep",
-      "on a first day"
-    ],
-    "correct": 2,
-    "explanation": "on a first day is the best answer.",
-    "structuredExplanation": {
-      "summary": "on a first day is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-042",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Zoe lost a favourite hat.” How might Zoe feel?",
-    "audioPrompt": "Read: “Zoe lost a favourite hat.” How might Zoe feel?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "proud",
-      "sleepy",
-      "sad"
-    ],
-    "correct": 2,
-    "explanation": "sad is the best answer.",
-    "structuredExplanation": {
-      "summary": "sad is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-043",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Max helped a small frog.” What does this remind you of?",
-    "audioPrompt": "Read: “Max helped a small frog.” What does this remind you of?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "helping someone",
-      "writing a number",
-      "eating lunch"
-    ],
-    "correct": 0,
-    "explanation": "helping someone is the best answer.",
-    "structuredExplanation": {
-      "summary": "helping someone is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-044",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The children played at the school.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the school.” Which connection makes sense?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I am a school.",
-      "A school is a letter.",
-      "I have played at a school."
-    ],
-    "correct": 2,
-    "explanation": "I have played at a school. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I have played at a school. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-045",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Ben was brave in the dark.” Have you ever needed to be brave?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Yes, when I felt afraid.",
-      "Yes, when I counted.",
-      "No, because book."
-    ],
-    "correct": 0,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-046",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Sam shared the ball.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Sam shared the ball.” What lesson connects to your life?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Blue is a colour.",
-      "Books have pages.",
-      "Sharing is kind."
-    ],
-    "correct": 2,
-    "explanation": "Sharing is kind. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-047",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Kim cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Kim cheered for a friend.” Which experience is similar?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "washing a cup",
-      "clapping for a friend",
-      "closing a door"
-    ],
-    "correct": 1,
-    "explanation": "clapping for a friend is the best answer.",
-    "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-048",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ava tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Ava tried again after a mistake.” What could you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "stop learning",
-      "hide the work",
-      "try again"
-    ],
-    "correct": 2,
-    "explanation": "try again is the best answer.",
-    "structuredExplanation": {
-      "summary": "try again is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

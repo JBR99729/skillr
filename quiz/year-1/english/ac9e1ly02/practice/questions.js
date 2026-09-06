@@ -4,1440 +4,1161 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly02-p-001",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 01 recognise",
     "printable": true,
     "type": "single",
-    "question": "Kim is speaking. What should Mia do?",
-    "audioPrompt": "Kim is speaking. What should Mia do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What should you do when another person is speaking in a group?",
+    "audioPrompt": "What should you do when another person is speaking in a group?",
+    "visual": "📖 Identify turn-taking; 🔎 turn-taking; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify turn-taking; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-001",
+      "alt_text": "📖 Identify turn-taking; 🔎 turn-taking; ✅ choose with evidence"
     },
     "answers": [
-      "walk away",
-      "talk over them",
-      "listen and wait"
+      "Listen without interrupting and wait for an appropriate turn",
+      "Do not listen for the idea before responding.",
+      "Do not use classroom volume and clear pace."
     ],
-    "correct": 2,
-    "explanation": "listen and wait is the best answer.",
+    "correct": 0,
+    "explanation": "Listen without interrupting and wait for an appropriate turn This matches the task.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
+      "summary": "Listen without interrupting and wait for an appropriate turn This matches the task.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-002",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 02 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which words show active listening?",
-    "audioPrompt": "Which words show active listening?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly match skills and examples?",
+    "audioPrompt": "Which response would correctly match skills and examples?",
+    "visual": "📖 Match skills and examples; 🔎 listening; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match skills and examples; 🔎 listening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-003",
+      "alt_text": "📖 Match skills and examples; 🔎 listening; ✅ choose with evidence"
     },
     "answers": [
-      "Be quiet!",
-      "I heard your idea.",
-      "I was not listening."
+      "I agree because ___",
+      "Do not use classroom volume and clear pace.",
+      "Each skill matched to its example"
     ],
-    "correct": 1,
-    "explanation": "I heard your idea. is the best answer.",
+    "correct": 2,
+    "explanation": "Each skill matched to its example This matches the task.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
+      "summary": "Each skill matched to its example This matches the task.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-003",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 03 recognise",
     "printable": true,
     "type": "single",
-    "question": "How can Sam join the discussion?",
-    "audioPrompt": "How can Sam join the discussion?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly practise a connected reply?",
+    "audioPrompt": "Which response would correctly practise a connected reply?",
+    "visual": "📖 Practise a connected reply; 🔎 clear voice; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Practise a connected reply; 🔎 clear voice; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-005",
+      "alt_text": "📖 Practise a connected reply; 🔎 clear voice; ✅ choose with evidence"
     },
     "answers": [
-      "turn away",
-      "wait, then speak",
-      "shout at once"
+      "I think we should sort by size",
+      "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully",
+      "Add a new idea without responding to the partner."
     ],
     "correct": 1,
-    "explanation": "wait, then speak is the best answer.",
+    "explanation": "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully This matches the task.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
+      "summary": "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully This matches the task.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-004",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 04 recognise",
     "printable": true,
     "type": "single",
-    "question": "Zoe says, “I like the beach.” Which reply connects?",
-    "audioPrompt": "Zoe says, “I like the beach.” Which reply connects?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly turn a comment into a question?",
+    "audioPrompt": "Which response would correctly turn a comment into a question?",
+    "visual": "📖 Turn a comment into a question; 🔎 response; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Turn a comment into a question; 🔎 response; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-007",
+      "alt_text": "📖 Turn a comment into a question; 🔎 response; ✅ choose with evidence"
     },
     "answers": [
-      "My shoe is blue.",
-      "I like it too.",
-      "Do not speak."
+      "'Did both plants receive the same water?' or 'How much taller?'",
+      "The plant near the window grew taller",
+      "Do not listen for the idea before responding."
     ],
-    "correct": 1,
-    "explanation": "I like it too. is the best answer.",
+    "correct": 0,
+    "explanation": "'Did both plants receive the same water?' or 'How much taller?' This matches the task.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
+      "summary": "'Did both plants receive the same water?' or 'How much taller?' This matches the task.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-005",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 05 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which question helps you learn more?",
-    "audioPrompt": "Which question helps you learn more?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly order a discussion turn?",
+    "audioPrompt": "Which response would correctly order a discussion turn?",
+    "visual": "📖 Order a discussion turn; 🔎 question; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a discussion turn; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-009",
+      "alt_text": "📖 Order a discussion turn; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "Is it?",
-      "Why do you think that?",
-      "What?"
+      "yield turn → speak → wait/signal → Listen",
+      "Do not use classroom volume and clear pace.",
+      "Listen → wait/signal → speak → yield turn"
     ],
-    "correct": 1,
-    "explanation": "Why do you think that? is the best answer.",
+    "correct": 2,
+    "explanation": "Listen → wait/signal → speak → yield turn This matches the task.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
+      "summary": "Listen → wait/signal → speak → yield turn This matches the task.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-006",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 06 recognise",
     "printable": true,
     "type": "single",
-    "question": "Leo did not hear. What can Leo say?",
-    "audioPrompt": "Leo did not hear. What can Leo say?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly draw listening behaviours?",
+    "audioPrompt": "Which response would correctly draw listening behaviours?",
+    "visual": "📖 Draw listening behaviours; 🔎 turn-taking; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw listening behaviours; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-011",
+      "alt_text": "📖 Draw listening behaviours; 🔎 turn-taking; ✅ choose with evidence"
     },
     "answers": [
-      "I will shout.",
-      "You are wrong.",
-      "Please say that again."
+      "Add a new idea without responding to the partner.",
+      "Panels show clear role changes and behaviours such as listen, respond, wait",
+      "Do not listen for the idea before responding."
     ],
-    "correct": 2,
-    "explanation": "Please say that again. is the best answer.",
+    "correct": 1,
+    "explanation": "Panels show clear role changes and behaviours such as listen, respond, wait This matches the task.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
+      "summary": "Panels show clear role changes and behaviours such as listen, respond, wait This matches the task.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-007",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 07 recognise",
     "printable": true,
     "type": "single",
-    "question": "What helps others hear your idea?",
-    "audioPrompt": "What helps others hear your idea?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly repair an unrelated response?",
+    "audioPrompt": "Which response would correctly repair an unrelated response?",
+    "visual": "📖 Repair an unrelated response; 🔎 listening; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair an unrelated response; 🔎 listening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-013",
+      "alt_text": "📖 Repair an unrelated response; 🔎 listening; ✅ choose with evidence"
     },
     "answers": [
-      "a turned back",
-      "a clear voice",
-      "a whisper far away"
+      "A relevant response about the ending, character, feeling or question",
+      "I had cereal",
+      "Do not listen for the idea before responding."
     ],
-    "correct": 1,
-    "explanation": "a clear voice is the best answer.",
+    "correct": 0,
+    "explanation": "A relevant response about the ending, character, feeling or question This matches the task.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
+      "summary": "A relevant response about the ending, character, feeling or question This matches the task.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-008",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 08 recognise",
     "printable": true,
     "type": "single",
-    "question": "Sam shares an idea. Which reply is kind?",
-    "audioPrompt": "Sam shares an idea. Which reply is kind?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly contribute without repeating?",
+    "audioPrompt": "Which response would correctly contribute without repeating?",
+    "visual": "📖 Contribute without repeating; 🔎 clear voice; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Contribute without repeating; 🔎 clear voice; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-015",
+      "alt_text": "📖 Contribute without repeating; 🔎 clear voice; ✅ choose with evidence"
     },
     "answers": [
-      "That is silly.",
-      "Thank you for sharing.",
-      "Stop talking."
+      "Do not use classroom volume and clear pace.",
+      "Add a new idea without responding to the partner.",
+      "Adds a new feature such as width, stability or material with connected reason"
     ],
-    "correct": 1,
-    "explanation": "Thank you for sharing. is the best answer.",
+    "correct": 2,
+    "explanation": "Adds a new feature such as width, stability or material with connected reason This matches the task.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
+      "summary": "Adds a new feature such as width, stability or material with connected reason This matches the task.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-009",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 09 recognise",
     "printable": true,
     "type": "single",
-    "question": "Ava is speaking. What should Ben do?",
-    "audioPrompt": "Ava is speaking. What should Ben do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly recognise active listening evidence?",
+    "audioPrompt": "Which response would correctly recognise active listening evidence?",
+    "visual": "📖 Recognise active listening evidence; 🔎 response; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise active listening evidence; 🔎 response; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-017",
+      "alt_text": "📖 Recognise active listening evidence; 🔎 response; ✅ choose with evidence"
     },
     "answers": [
-      "listen and wait",
-      "talk over them",
-      "walk away"
+      "So you observed six birds, not five—is that right",
+      "Listening/remembering, checking understanding and responding to contribution",
+      "Add a new idea without responding to the partner."
     ],
-    "correct": 0,
-    "explanation": "listen and wait is the best answer.",
+    "correct": 1,
+    "explanation": "Listening/remembering, checking understanding and responding to contribution This matches the task.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
+      "summary": "Listening/remembering, checking understanding and responding to contribution This matches the task.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-010",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 10 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which words show active listening?",
-    "audioPrompt": "Which words show active listening?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly match response stems?",
+    "audioPrompt": "Which response would correctly match response stems?",
+    "visual": "📖 Match response stems; 🔎 question; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match response stems; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-019",
+      "alt_text": "📖 Match response stems; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "I was not listening.",
-      "Be quiet!",
-      "I heard your idea."
+      "Each stem matched correctly",
+      "Can you explain ___",
+      "I agree because ___"
     ],
-    "correct": 2,
-    "explanation": "I heard your idea. is the best answer.",
+    "correct": 0,
+    "explanation": "Each stem matched correctly This matches the task.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
+      "summary": "Each stem matched correctly This matches the task.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-011",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 01 explain",
     "printable": true,
     "type": "single",
-    "question": "How can Kim join the discussion?",
-    "audioPrompt": "How can Kim join the discussion?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you identify turn-taking?",
+    "audioPrompt": "Which tip would help you identify turn-taking?",
+    "visual": "🧠 Identify turn-taking; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify turn-taking; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-002",
+      "alt_text": "🧠 Identify turn-taking; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
-      "shout at once",
-      "wait, then speak",
-      "turn away"
+      "Do not use classroom volume and clear pace.",
+      "Listen for the idea before responding.",
+      "Add a new idea without responding to the partner."
     ],
     "correct": 1,
-    "explanation": "wait, then speak is the best answer.",
+    "explanation": "Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
+      "summary": "Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-012",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 02 explain",
     "printable": true,
     "type": "single",
-    "question": "Max says, “I like the park.” Which reply connects?",
-    "audioPrompt": "Max says, “I like the park.” Which reply connects?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you match skills and examples?",
+    "audioPrompt": "Which tip would help you match skills and examples?",
+    "visual": "🧠 Match skills and examples; ➡️ Wait turn; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match skills and examples; ➡️ Wait turn; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-004",
+      "alt_text": "🧠 Match skills and examples; ➡️ Wait turn; 💡 helpful strategy"
     },
     "answers": [
-      "I like it too.",
-      "My shoe is blue.",
-      "Do not speak."
+      "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question.",
+      "Add a new idea without responding to the partner.",
+      "Do not listen for the idea before responding."
     ],
     "correct": 0,
-    "explanation": "I like it too. is the best answer.",
+    "explanation": "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
+      "summary": "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-013",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 03 explain",
     "printable": true,
     "type": "single",
-    "question": "Which question helps you learn more?",
-    "audioPrompt": "Which question helps you learn more?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you practise a connected reply?",
+    "audioPrompt": "Which tip would help you practise a connected reply?",
+    "visual": "🧠 Practise a connected reply; ➡️ Speak clearly; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Practise a connected reply; ➡️ Speak clearly; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-006",
+      "alt_text": "🧠 Practise a connected reply; ➡️ Speak clearly; 💡 helpful strategy"
     },
     "answers": [
-      "What?",
-      "Is it?",
-      "Why do you think that?"
+      "Do not listen for the idea before responding.",
+      "Do not use classroom volume and clear pace.",
+      "Look for clear voice and check the whole example."
     ],
     "correct": 2,
-    "explanation": "Why do you think that? is the best answer.",
+    "explanation": "Look for clear voice and check the whole example.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
+      "summary": "Look for clear voice and check the whole example.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-014",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 04 explain",
     "printable": true,
     "type": "single",
-    "question": "Zoe did not hear. What can Zoe say?",
-    "audioPrompt": "Zoe did not hear. What can Zoe say?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you turn a comment into a question?",
+    "audioPrompt": "Which tip would help you turn a comment into a question?",
+    "visual": "🧠 Turn a comment into a question; ➡️ Respond to idea; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Turn a comment into a question; ➡️ Respond to idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-008",
+      "alt_text": "🧠 Turn a comment into a question; ➡️ Respond to idea; 💡 helpful strategy"
     },
     "answers": [
-      "You are wrong.",
-      "Please say that again.",
-      "I will shout."
+      "Do not use classroom volume and clear pace.",
+      "Check that you can respond to others.",
+      "Add a new idea without responding to the partner."
     ],
     "correct": 1,
-    "explanation": "Please say that again. is the best answer.",
+    "explanation": "Check that you can respond to others.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
+      "summary": "Check that you can respond to others.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-015",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 05 explain",
     "printable": true,
     "type": "single",
-    "question": "What helps others hear your idea?",
-    "audioPrompt": "What helps others hear your idea?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you order a discussion turn?",
+    "audioPrompt": "Which tip would help you order a discussion turn?",
+    "visual": "🧠 Order a discussion turn; ➡️ Ask/question; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a discussion turn; ➡️ Ask/question; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-010\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-010",
+      "alt_text": "🧠 Order a discussion turn; ➡️ Ask/question; 💡 helpful strategy"
     },
     "answers": [
-      "a clear voice",
-      "a turned back",
-      "a whisper far away"
+      "Sequencing respectful participation.",
+      "Add a new idea without responding to the partner.",
+      "Do not listen for the idea before responding."
     ],
     "correct": 0,
-    "explanation": "a clear voice is the best answer.",
+    "explanation": "Sequencing respectful participation.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
+      "summary": "Sequencing respectful participation.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-016",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 06 explain",
     "printable": true,
     "type": "single",
-    "question": "Kim shares an idea. Which reply is kind?",
-    "audioPrompt": "Kim shares an idea. Which reply is kind?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you draw listening behaviours?",
+    "audioPrompt": "Which tip would help you draw listening behaviours?",
+    "visual": "🧠 Draw listening behaviours; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw listening behaviours; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-012\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-012",
+      "alt_text": "🧠 Draw listening behaviours; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
-      "That is silly.",
-      "Stop talking.",
-      "Thank you for sharing."
+      "Do not listen for the idea before responding.",
+      "Do not use classroom volume and clear pace.",
+      "Connect to what was already said."
     ],
     "correct": 2,
-    "explanation": "Thank you for sharing. is the best answer.",
+    "explanation": "Connect to what was already said.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
+      "summary": "Connect to what was already said.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-017",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 07 explain",
     "printable": true,
     "type": "single",
-    "question": "Leo is speaking. What should Sam do?",
-    "audioPrompt": "Leo is speaking. What should Sam do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you repair an unrelated response?",
+    "audioPrompt": "Which tip would help you repair an unrelated response?",
+    "visual": "🧠 Repair an unrelated response; ➡️ Wait turn; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Repair an unrelated response; ➡️ Wait turn; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-014\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-014",
+      "alt_text": "🧠 Repair an unrelated response; ➡️ Wait turn; 💡 helpful strategy"
     },
     "answers": [
-      "talk over them",
-      "walk away",
-      "listen and wait"
+      "Do not use classroom volume and clear pace.",
+      "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question.",
+      "Add a new idea without responding to the partner."
     ],
-    "correct": 2,
-    "explanation": "listen and wait is the best answer.",
+    "correct": 1,
+    "explanation": "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
+      "summary": "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-018",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 08 explain",
     "printable": true,
     "type": "single",
-    "question": "Which words show active listening?",
-    "audioPrompt": "Which words show active listening?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you contribute without repeating?",
+    "audioPrompt": "Which tip would help you contribute without repeating?",
+    "visual": "🧠 Contribute without repeating; ➡️ Speak clearly; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Contribute without repeating; ➡️ Speak clearly; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-016\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-016",
+      "alt_text": "🧠 Contribute without repeating; ➡️ Speak clearly; 💡 helpful strategy"
     },
     "answers": [
-      "I heard your idea.",
-      "I was not listening.",
-      "Be quiet!"
+      "Look for clear voice and check the whole example.",
+      "Add a new idea without responding to the partner.",
+      "Do not listen for the idea before responding."
     ],
     "correct": 0,
-    "explanation": "I heard your idea. is the best answer.",
+    "explanation": "Look for clear voice and check the whole example.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
+      "summary": "Look for clear voice and check the whole example.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-019",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 09 explain",
     "printable": true,
     "type": "single",
-    "question": "How can Ava join the discussion?",
-    "audioPrompt": "How can Ava join the discussion?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you recognise active listening evidence?",
+    "audioPrompt": "Which tip would help you recognise active listening evidence?",
+    "visual": "🧠 Recognise active listening evidence; ➡️ Respond to idea; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Recognise active listening evidence; ➡️ Respond to idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-018\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-018",
+      "alt_text": "🧠 Recognise active listening evidence; ➡️ Respond to idea; 💡 helpful strategy"
     },
     "answers": [
-      "turn away",
-      "wait, then speak",
-      "shout at once"
+      "Do not listen for the idea before responding.",
+      "Do not use classroom volume and clear pace.",
+      "Check that you can respond to others."
     ],
-    "correct": 1,
-    "explanation": "wait, then speak is the best answer.",
+    "correct": 2,
+    "explanation": "Check that you can respond to others.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
+      "summary": "Check that you can respond to others.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-020",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 10 explain",
     "printable": true,
     "type": "single",
-    "question": "Mia says, “I like the pond.” Which reply connects?",
-    "audioPrompt": "Mia says, “I like the pond.” Which reply connects?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you match response stems?",
+    "audioPrompt": "Which tip would help you match response stems?",
+    "visual": "🧠 Match response stems; ➡️ Ask/question; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match response stems; ➡️ Ask/question; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-020\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-020",
+      "alt_text": "🧠 Match response stems; ➡️ Ask/question; 💡 helpful strategy"
     },
     "answers": [
-      "I like it too.",
-      "Do not speak.",
-      "My shoe is blue."
+      "Do not use classroom volume and clear pace.",
+      "Selecting language for interaction purposes.",
+      "Add a new idea without responding to the partner."
     ],
-    "correct": 0,
-    "explanation": "I like it too. is the best answer.",
+    "correct": 1,
+    "explanation": "Selecting language for interaction purposes.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
+      "summary": "Selecting language for interaction purposes.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-021",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 01 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which question helps you learn more?",
-    "audioPrompt": "Which question helps you learn more?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Identify turn-taking; 🔎 turn-taking; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify turn-taking; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-001",
+      "alt_text": "📖 Identify turn-taking; 🔎 turn-taking; ✅ choose with evidence"
     },
     "answers": [
-      "What?",
-      "Why do you think that?",
-      "Is it?"
+      "Do not listen for the idea before responding.",
+      "Listen without interrupting and wait for an appropriate turn",
+      "Listen for the idea before responding."
     ],
-    "correct": 1,
-    "explanation": "Why do you think that? is the best answer.",
+    "correct": 0,
+    "explanation": "Do not listen for the idea before responding. is the mix-up. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
+      "summary": "Do not listen for the idea before responding. is the mix-up. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-022",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 02 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Max did not hear. What can Max say?",
-    "audioPrompt": "Max did not hear. What can Max say?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match skills and examples; 🔎 listening; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match skills and examples; 🔎 listening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-003",
+      "alt_text": "📖 Match skills and examples; 🔎 listening; ✅ choose with evidence"
     },
     "answers": [
-      "You are wrong.",
-      "I will shout.",
-      "Please say that again."
+      "Each skill matched to its example",
+      "I agree because ___",
+      "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question."
     ],
-    "correct": 2,
-    "explanation": "Please say that again. is the best answer.",
+    "correct": 1,
+    "explanation": "I agree because ___ is the mix-up. Use classroom volume and clear pace.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
+      "summary": "I agree because ___ is the mix-up. Use classroom volume and clear pace.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-023",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 03 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: What helps others hear your idea?",
-    "audioPrompt": "Read and choose: What helps others hear your idea?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Practise a connected reply; 🔎 clear voice; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Practise a connected reply; 🔎 clear voice; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-005",
+      "alt_text": "📖 Practise a connected reply; 🔎 clear voice; ✅ choose with evidence"
     },
     "answers": [
-      "a turned back",
-      "a clear voice",
-      "a whisper far away"
+      "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully",
+      "Look for clear voice and check the whole example.",
+      "I think we should sort by size"
     ],
-    "correct": 1,
-    "explanation": "a clear voice is the best answer.",
+    "correct": 2,
+    "explanation": "I think we should sort by size is the mix-up. Connect to what was already said.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
+      "summary": "I think we should sort by size is the mix-up. Connect to what was already said.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-024",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 04 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Ava shares an idea. Which reply is kind?",
-    "audioPrompt": "Ava shares an idea. Which reply is kind?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Turn a comment into a question; 🔎 response; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Turn a comment into a question; 🔎 response; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-007",
+      "alt_text": "📖 Turn a comment into a question; 🔎 response; ✅ choose with evidence"
     },
     "answers": [
-      "That is silly.",
-      "Thank you for sharing.",
-      "Stop talking."
+      "The plant near the window grew taller",
+      "'Did both plants receive the same water?' or 'How much taller?'",
+      "Check that you can respond to others."
     ],
-    "correct": 1,
-    "explanation": "Thank you for sharing. is the best answer.",
+    "correct": 0,
+    "explanation": "The plant near the window grew taller is the mix-up. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
+      "summary": "The plant near the window grew taller is the mix-up. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-025",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 05 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Zoe is speaking. What should Kim do?",
-    "audioPrompt": "Zoe is speaking. What should Kim do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Order a discussion turn; 🔎 question; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a discussion turn; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-009",
+      "alt_text": "📖 Order a discussion turn; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "walk away",
-      "talk over them",
-      "listen and wait"
+      "Listen → wait/signal → speak → yield turn",
+      "yield turn → speak → wait/signal → Listen",
+      "Sequencing respectful participation."
     ],
-    "correct": 2,
-    "explanation": "listen and wait is the best answer.",
+    "correct": 1,
+    "explanation": "yield turn → speak → wait/signal → Listen is the mix-up. Use classroom volume and clear pace.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
+      "summary": "yield turn → speak → wait/signal → Listen is the mix-up. Use classroom volume and clear pace.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-026",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 06 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which words show active listening?",
-    "audioPrompt": "Read and choose: Which words show active listening?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Draw listening behaviours; 🔎 turn-taking; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw listening behaviours; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-011",
+      "alt_text": "📖 Draw listening behaviours; 🔎 turn-taking; ✅ choose with evidence"
     },
     "answers": [
-      "Be quiet!",
-      "I heard your idea.",
-      "I was not listening."
+      "Panels show clear role changes and behaviours such as listen, respond, wait",
+      "Connect to what was already said.",
+      "Add a new idea without responding to the partner."
     ],
-    "correct": 1,
-    "explanation": "I heard your idea. is the best answer.",
+    "correct": 2,
+    "explanation": "Add a new idea without responding to the partner. is the mix-up. Connect to what was already said.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
+      "summary": "Add a new idea without responding to the partner. is the mix-up. Connect to what was already said.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-027",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 07 discriminate",
     "printable": true,
     "type": "single",
-    "question": "How can Leo join the discussion?",
-    "audioPrompt": "How can Leo join the discussion?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Repair an unrelated response; 🔎 listening; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair an unrelated response; 🔎 listening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-013",
+      "alt_text": "📖 Repair an unrelated response; 🔎 listening; ✅ choose with evidence"
     },
     "answers": [
-      "shout at once",
-      "turn away",
-      "wait, then speak"
+      "I had cereal",
+      "A relevant response about the ending, character, feeling or question",
+      "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question."
     ],
-    "correct": 2,
-    "explanation": "wait, then speak is the best answer.",
+    "correct": 0,
+    "explanation": "I had cereal is the mix-up. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
+      "summary": "I had cereal is the mix-up. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-028",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 08 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Ben says, “I like the farm.” Which reply connects?",
-    "audioPrompt": "Ben says, “I like the farm.” Which reply connects?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Contribute without repeating; 🔎 clear voice; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Contribute without repeating; 🔎 clear voice; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-015",
+      "alt_text": "📖 Contribute without repeating; 🔎 clear voice; ✅ choose with evidence"
     },
     "answers": [
-      "I like it too.",
-      "Do not speak.",
-      "My shoe is blue."
+      "Adds a new feature such as width, stability or material with connected reason",
+      "Do not use classroom volume and clear pace.",
+      "Look for clear voice and check the whole example."
     ],
-    "correct": 0,
-    "explanation": "I like it too. is the best answer.",
+    "correct": 1,
+    "explanation": "Do not use classroom volume and clear pace. is the mix-up. Use classroom volume and clear pace.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
+      "summary": "Do not use classroom volume and clear pace. is the mix-up. Use classroom volume and clear pace.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-029",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 09 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which question helps you learn more?",
-    "audioPrompt": "Read and choose: Which question helps you learn more?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Recognise active listening evidence; 🔎 response; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise active listening evidence; 🔎 response; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-017",
+      "alt_text": "📖 Recognise active listening evidence; 🔎 response; ✅ choose with evidence"
     },
     "answers": [
-      "What?",
-      "Is it?",
-      "Why do you think that?"
+      "Listening/remembering, checking understanding and responding to contribution",
+      "Check that you can respond to others.",
+      "So you observed six birds, not five—is that right"
     ],
     "correct": 2,
-    "explanation": "Why do you think that? is the best answer.",
+    "explanation": "So you observed six birds, not five—is that right is the mix-up. Connect to what was already said.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
+      "summary": "So you observed six birds, not five—is that right is the mix-up. Connect to what was already said.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-030",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 10 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Mia did not hear. What can Mia say?",
-    "audioPrompt": "Mia did not hear. What can Mia say?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match response stems; 🔎 question; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match response stems; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-019",
+      "alt_text": "📖 Match response stems; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "You are wrong.",
-      "Please say that again.",
-      "I will shout."
+      "Can you explain ___",
+      "Each stem matched correctly",
+      "Selecting language for interaction purposes."
     ],
-    "correct": 1,
-    "explanation": "Please say that again. is the best answer.",
+    "correct": 0,
+    "explanation": "Can you explain ___ is the mix-up. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
+      "summary": "Can you explain ___ is the mix-up. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-031",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 01 apply",
     "printable": true,
     "type": "single",
-    "question": "What helps others hear your idea?",
-    "audioPrompt": "What helps others hear your idea?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Identify turn-taking; 🔎 turn-taking; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify turn-taking; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-001",
+      "alt_text": "📖 Identify turn-taking; 🔎 turn-taking; ✅ choose with evidence"
     },
     "answers": [
-      "a clear voice",
-      "a whisper far away",
-      "a turned back"
+      "Do not listen for the idea before responding.",
+      "Listen without interrupting and wait for an appropriate turn",
+      "Do not use classroom volume and clear pace."
     ],
-    "correct": 0,
-    "explanation": "a clear voice is the best answer.",
+    "correct": 1,
+    "explanation": "Listen without interrupting and wait for an appropriate turn uses the skill correctly. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
+      "summary": "Listen without interrupting and wait for an appropriate turn uses the skill correctly. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-032",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 02 apply",
     "printable": true,
     "type": "single",
-    "question": "Leo shares an idea. Which reply is kind?",
-    "audioPrompt": "Leo shares an idea. Which reply is kind?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match skills and examples; 🔎 listening; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match skills and examples; 🔎 listening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-003",
+      "alt_text": "📖 Match skills and examples; 🔎 listening; ✅ choose with evidence"
     },
     "answers": [
-      "That is silly.",
-      "Stop talking.",
-      "Thank you for sharing."
+      "I agree because ___",
+      "Do not use classroom volume and clear pace.",
+      "Each skill matched to its example"
     ],
     "correct": 2,
-    "explanation": "Thank you for sharing. is the best answer.",
+    "explanation": "Each skill matched to its example uses the skill correctly. Use classroom volume and clear pace.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
+      "summary": "Each skill matched to its example uses the skill correctly. Use classroom volume and clear pace.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-033",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 03 apply",
     "printable": true,
     "type": "single",
-    "question": "Max is speaking. What should Ava do?",
-    "audioPrompt": "Max is speaking. What should Ava do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Practise a connected reply; 🔎 clear voice; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Practise a connected reply; 🔎 clear voice; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-005",
+      "alt_text": "📖 Practise a connected reply; 🔎 clear voice; ✅ choose with evidence"
     },
     "answers": [
-      "talk over them",
-      "listen and wait",
-      "walk away"
+      "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully",
+      "I think we should sort by size",
+      "Add a new idea without responding to the partner."
     ],
-    "correct": 1,
-    "explanation": "listen and wait is the best answer.",
+    "correct": 0,
+    "explanation": "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully uses the skill correctly. Connect to what was already said.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
+      "summary": "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully uses the skill correctly. Connect to what was already said.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-034",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 04 apply",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which words show active listening?",
-    "audioPrompt": "Read and choose: Which words show active listening?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Turn a comment into a question; 🔎 response; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Turn a comment into a question; 🔎 response; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-007",
+      "alt_text": "📖 Turn a comment into a question; 🔎 response; ✅ choose with evidence"
     },
     "answers": [
-      "I heard your idea.",
-      "I was not listening.",
-      "Be quiet!"
+      "The plant near the window grew taller",
+      "'Did both plants receive the same water?' or 'How much taller?'",
+      "Do not listen for the idea before responding."
     ],
-    "correct": 0,
-    "explanation": "I heard your idea. is the best answer.",
+    "correct": 1,
+    "explanation": "'Did both plants receive the same water?' or 'How much taller?' uses the skill correctly. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
+      "summary": "'Did both plants receive the same water?' or 'How much taller?' uses the skill correctly. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-035",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 05 apply",
     "printable": true,
     "type": "single",
-    "question": "How can Zoe join the discussion?",
-    "audioPrompt": "How can Zoe join the discussion?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Order a discussion turn; 🔎 question; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a discussion turn; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-009",
+      "alt_text": "📖 Order a discussion turn; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "turn away",
-      "wait, then speak",
-      "shout at once"
+      "yield turn → speak → wait/signal → Listen",
+      "Do not use classroom volume and clear pace.",
+      "Listen → wait/signal → speak → yield turn"
     ],
-    "correct": 1,
-    "explanation": "wait, then speak is the best answer.",
+    "correct": 2,
+    "explanation": "Listen → wait/signal → speak → yield turn uses the skill correctly. Use classroom volume and clear pace.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
+      "summary": "Listen → wait/signal → speak → yield turn uses the skill correctly. Use classroom volume and clear pace.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-036",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 06 apply",
     "printable": true,
     "type": "single",
-    "question": "Sam says, “I like the zoo.” Which reply connects?",
-    "audioPrompt": "Sam says, “I like the zoo.” Which reply connects?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Draw listening behaviours; 🔎 turn-taking; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw listening behaviours; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-011",
+      "alt_text": "📖 Draw listening behaviours; 🔎 turn-taking; ✅ choose with evidence"
     },
     "answers": [
-      "Do not speak.",
-      "I like it too.",
-      "My shoe is blue."
+      "Panels show clear role changes and behaviours such as listen, respond, wait",
+      "Add a new idea without responding to the partner.",
+      "Do not listen for the idea before responding."
     ],
-    "correct": 1,
-    "explanation": "I like it too. is the best answer.",
+    "correct": 0,
+    "explanation": "Panels show clear role changes and behaviours such as listen, respond, wait uses the skill correctly. Connect to what was already said.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
+      "summary": "Panels show clear role changes and behaviours such as listen, respond, wait uses the skill correctly. Connect to what was already said.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-037",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 07 apply",
     "printable": true,
     "type": "single",
-    "question": "Which question helps you learn more?",
-    "audioPrompt": "Which question helps you learn more?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Repair an unrelated response; 🔎 listening; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair an unrelated response; 🔎 listening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-013",
+      "alt_text": "📖 Repair an unrelated response; 🔎 listening; ✅ choose with evidence"
     },
     "answers": [
-      "Why do you think that?",
-      "Is it?",
-      "What?"
+      "I had cereal",
+      "A relevant response about the ending, character, feeling or question",
+      "Do not listen for the idea before responding."
     ],
-    "correct": 0,
-    "explanation": "Why do you think that? is the best answer.",
+    "correct": 1,
+    "explanation": "A relevant response about the ending, character, feeling or question uses the skill correctly. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
+      "summary": "A relevant response about the ending, character, feeling or question uses the skill correctly. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-038",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 08 apply",
     "printable": true,
     "type": "single",
-    "question": "Ben did not hear. What can Ben say?",
-    "audioPrompt": "Ben did not hear. What can Ben say?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Contribute without repeating; 🔎 clear voice; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Contribute without repeating; 🔎 clear voice; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-015",
+      "alt_text": "📖 Contribute without repeating; 🔎 clear voice; ✅ choose with evidence"
     },
     "answers": [
-      "I will shout.",
-      "Please say that again.",
-      "You are wrong."
+      "Do not use classroom volume and clear pace.",
+      "Add a new idea without responding to the partner.",
+      "Adds a new feature such as width, stability or material with connected reason"
     ],
-    "correct": 1,
-    "explanation": "Please say that again. is the best answer.",
+    "correct": 2,
+    "explanation": "Adds a new feature such as width, stability or material with connected reason uses the skill correctly. Use classroom volume and clear pace.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
+      "summary": "Adds a new feature such as width, stability or material with connected reason uses the skill correctly. Use classroom volume and clear pace.",
+      "hint": "Use classroom volume and clear pace."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-039",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 09 apply",
     "printable": true,
     "type": "single",
-    "question": "What helps others hear your idea?",
-    "audioPrompt": "What helps others hear your idea?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Recognise active listening evidence; 🔎 response; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise active listening evidence; 🔎 response; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-017",
+      "alt_text": "📖 Recognise active listening evidence; 🔎 response; ✅ choose with evidence"
     },
     "answers": [
-      "a whisper far away",
-      "a turned back",
-      "a clear voice"
+      "Listening/remembering, checking understanding and responding to contribution",
+      "So you observed six birds, not five—is that right",
+      "Add a new idea without responding to the partner."
     ],
-    "correct": 2,
-    "explanation": "a clear voice is the best answer.",
+    "correct": 0,
+    "explanation": "Listening/remembering, checking understanding and responding to contribution uses the skill correctly. Connect to what was already said.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
+      "summary": "Listening/remembering, checking understanding and responding to contribution uses the skill correctly. Connect to what was already said.",
+      "hint": "Connect to what was already said."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly02-p-040",
     "curriculumCode": "AC9E1LY02",
     "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+    "skill": "ac9e1ly02 10 apply",
     "printable": true,
     "type": "single",
-    "question": "Zoe shares an idea. Which reply is kind?",
-    "audioPrompt": "Zoe shares an idea. Which reply is kind?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match response stems; 🔎 question; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match response stems; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-p-019",
+      "alt_text": "📖 Match response stems; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "That is silly.",
-      "Thank you for sharing.",
-      "Stop talking."
+      "Can you explain ___",
+      "Each stem matched correctly",
+      "I agree because ___"
     ],
     "correct": 1,
-    "explanation": "Thank you for sharing. is the best answer.",
+    "explanation": "Each stem matched correctly uses the skill correctly. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
+      "summary": "Each stem matched correctly uses the skill correctly. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly02-p-041",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Mia is speaking. What should Leo do?",
-    "audioPrompt": "Mia is speaking. What should Leo do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "walk away",
-      "talk over them",
-      "listen and wait"
-    ],
-    "correct": 2,
-    "explanation": "listen and wait is the best answer.",
-    "structuredExplanation": {
-      "summary": "listen and wait is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-042",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Which words show active listening?",
-    "audioPrompt": "Which words show active listening?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Be quiet!",
-      "I was not listening.",
-      "I heard your idea."
-    ],
-    "correct": 2,
-    "explanation": "I heard your idea. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I heard your idea. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-043",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "How can Max join the discussion?",
-    "audioPrompt": "How can Max join the discussion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "wait, then speak",
-      "turn away",
-      "shout at once"
-    ],
-    "correct": 0,
-    "explanation": "wait, then speak is the best answer.",
-    "structuredExplanation": {
-      "summary": "wait, then speak is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-044",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Kim says, “I like the school.” Which reply connects?",
-    "audioPrompt": "Kim says, “I like the school.” Which reply connects?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "My shoe is blue.",
-      "Do not speak.",
-      "I like it too."
-    ],
-    "correct": 2,
-    "explanation": "I like it too. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like it too. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-045",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which question helps you learn more?",
-    "audioPrompt": "Read and choose: Which question helps you learn more?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Why do you think that?",
-      "Is it?",
-      "What?"
-    ],
-    "correct": 0,
-    "explanation": "Why do you think that? is the best answer.",
-    "structuredExplanation": {
-      "summary": "Why do you think that? is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-046",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Sam did not hear. What can Sam say?",
-    "audioPrompt": "Sam did not hear. What can Sam say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "You are wrong.",
-      "I will shout.",
-      "Please say that again."
-    ],
-    "correct": 2,
-    "explanation": "Please say that again. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Please say that again. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-047",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "What helps others hear your idea?",
-    "audioPrompt": "What helps others hear your idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a whisper far away",
-      "a clear voice",
-      "a turned back"
-    ],
-    "correct": 1,
-    "explanation": "a clear voice is the best answer.",
-    "structuredExplanation": {
-      "summary": "a clear voice is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly02-p-048",
-    "curriculumCode": "AC9E1LY02",
-    "bank": "practice",
-    "skill": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
-    "printable": true,
-    "type": "single",
-    "question": "Max shares an idea. Which reply is kind?",
-    "audioPrompt": "Max shares an idea. Which reply is kind?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Stop talking.",
-      "That is silly.",
-      "Thank you for sharing."
-    ],
-    "correct": 2,
-    "explanation": "Thank you for sharing. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Thank you for sharing. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

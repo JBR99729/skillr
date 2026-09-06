@@ -4,1440 +4,1161 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly08-p-001",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 01 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which is the lower-case letter for A?",
-    "audioPrompt": "Which is the lower-case letter for A?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which letter should begin the name maya when written correctly?",
+    "audioPrompt": "Which letter should begin the name maya when written correctly?",
+    "visual": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001",
+      "alt_text": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
-      "b",
-      "A",
-      "a"
+      "Upper-case M",
+      "Do not use clear spaces between words.",
+      "Do not use capitals only where needed."
     ],
-    "correct": 1,
-    "explanation": "a is the best answer.",
+    "correct": 0,
+    "explanation": "Upper-case M This matches the task.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "a is the best answer."
+      "summary": "Upper-case M This matches the task.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-002",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 02 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which is the upper-case letter for b?",
-    "audioPrompt": "Which is the upper-case letter for b?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly match upper and lower case?",
+    "audioPrompt": "Which response would correctly match upper and lower case?",
+    "visual": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003",
+      "alt_text": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence"
     },
     "answers": [
-      "b",
-      "B",
-      "G"
+      "A ↔ g; G ↔ t; T ↔ a",
+      "Do not use capitals only where needed.",
+      "A ↔ a; G ↔ g; T ↔ t"
     ],
-    "correct": 0,
-    "explanation": "B is the best answer.",
+    "correct": 2,
+    "explanation": "A ↔ a; G ↔ g; T ↔ t This matches the task.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "B is the best answer."
+      "summary": "A ↔ a; G ↔ g; T ↔ t This matches the task.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-003",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 03 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which letter starts the name Sam?",
-    "audioPrompt": "Which letter starts the name Sam?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Write the word map using separate lower-case letters on the line.",
+    "audioPrompt": "Write the word map using separate lower-case letters on the line.",
+    "visual": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write a clear word; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005",
+      "alt_text": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence"
     },
     "answers": [
-      "K",
-      "S",
-      "s"
+      "Reverse a letter.",
+      "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently",
+      "Do not use clear spaces between words."
     ],
     "correct": 1,
-    "explanation": "S is the best answer.",
+    "explanation": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently This matches the task.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "S is the best answer."
+      "summary": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently This matches the task.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-004",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 04 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which word should begin with a capital letter?",
-    "audioPrompt": "Which word should begin with a capital letter?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly add word spacing?",
+    "audioPrompt": "Which response would correctly add word spacing?",
+    "visual": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add word spacing; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007",
+      "alt_text": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence"
     },
     "answers": [
-      "monday",
-      "Monday",
-      "ball"
+      "the red dog, with clear spaces and recognisable letters",
+      "Do not use clear spaces between words.",
+      "Do not use capitals only where needed."
     ],
     "correct": 0,
-    "explanation": "Monday is the best answer.",
+    "explanation": "the red dog, with clear spaces and recognisable letters This matches the task.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "Monday is the best answer."
+      "summary": "the red dog, with clear spaces and recognisable letters This matches the task.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-005",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 05 recognise",
     "printable": true,
     "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly order letter formation checks?",
+    "audioPrompt": "Which response would correctly order letter formation checks?",
+    "visual": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009",
+      "alt_text": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence"
     },
     "answers": [
-      "ava",
-      "Ava",
-      "AVA"
+      "reread → check spacing → form separate letters → Choose case",
+      "Do not use capitals only where needed.",
+      "Choose case → form separate letters → check spacing → reread"
     ],
-    "correct": 0,
-    "explanation": "Ava is the best answer.",
+    "correct": 2,
+    "explanation": "Choose case → form separate letters → check spacing → reread This matches the task.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "Ava is the best answer."
+      "summary": "Choose case → form separate letters → check spacing → reread This matches the task.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-006",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 06 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which pair matches?",
-    "audioPrompt": "Which pair matches?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly copy with case?",
+    "audioPrompt": "Which response would correctly copy with case?",
+    "visual": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Copy with case; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011",
+      "alt_text": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
-      "p and t",
-      "P and s",
-      "P and p"
+      "Ben has a kite",
+      "Accurate case, unjoined legible forms and three word spaces",
+      "Reverse a letter."
     ],
-    "correct": 2,
-    "explanation": "P and p is the best answer.",
+    "correct": 1,
+    "explanation": "Accurate case, unjoined legible forms and three word spaces This matches the task.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "P and p is the best answer."
+      "summary": "Accurate case, unjoined legible forms and three word spaces This matches the task.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-007",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 07 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which letter has been written as a capital?",
-    "audioPrompt": "Which letter has been written as a capital?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly find a case error?",
+    "audioPrompt": "Which response would correctly find a case error?",
+    "visual": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a case error; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013",
+      "alt_text": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence"
     },
     "answers": [
-      "s",
-      "S",
-      "t"
+      "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals",
+      "Do not use clear spaces between words.",
+      "Do not use capitals only where needed."
     ],
     "correct": 0,
-    "explanation": "S is the best answer.",
+    "explanation": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals This matches the task.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "S is the best answer."
+      "summary": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals This matches the task.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-008",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 08 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which letter has been written as lower case?",
-    "audioPrompt": "Which letter has been written as lower case?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly compare readability?",
+    "audioPrompt": "Which response would correctly compare readability?",
+    "visual": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare readability; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015",
+      "alt_text": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence"
     },
     "answers": [
-      "T",
-      "t",
-      "D"
+      "Do not use capitals only where needed.",
+      "Reverse a letter.",
+      "They distinguish letters/words, prevent crowding or splitting and make recognition easier"
     ],
-    "correct": 0,
-    "explanation": "t is the best answer.",
+    "correct": 2,
+    "explanation": "They distinguish letters/words, prevent crowding or splitting and make recognition easier This matches the task.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "t is the best answer."
+      "summary": "They distinguish letters/words, prevent crowding or splitting and make recognition easier This matches the task.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-009",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 09 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which is the lower-case letter for A?",
-    "audioPrompt": "Which is the lower-case letter for A?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Write ACT in separate upper-case letters.",
+    "audioPrompt": "Write ACT in separate upper-case letters.",
+    "visual": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017",
+      "alt_text": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence"
     },
     "answers": [
-      "a",
-      "A",
-      "b"
+      "Reverse a letter.",
+      "A-C-T, all recognisable and unjoined with consistent size",
+      "Do not use clear spaces between words."
     ],
-    "correct": 0,
-    "explanation": "a is the best answer.",
+    "correct": 1,
+    "explanation": "A-C-T, all recognisable and unjoined with consistent size This matches the task.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "a is the best answer."
+      "summary": "A-C-T, all recognisable and unjoined with consistent size This matches the task.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-010",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 10 recognise",
     "printable": true,
     "type": "single",
-    "question": "Which is the upper-case letter for b?",
-    "audioPrompt": "Which is the upper-case letter for b?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly match case uses?",
+    "audioPrompt": "Which response would correctly match case uses?",
+    "visual": "📖 Match case uses; 🔎 readable; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match case uses; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019",
+      "alt_text": "📖 Match case uses; 🔎 readable; ✅ choose with evidence"
     },
     "answers": [
-      "G",
-      "b",
-      "B"
+      "All three matched correctly",
+      "Do not use clear spaces between words.",
+      "Do not use capitals only where needed."
     ],
-    "correct": 1,
-    "explanation": "B is the best answer.",
+    "correct": 0,
+    "explanation": "All three matched correctly This matches the task.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "B is the best answer."
+      "summary": "All three matched correctly This matches the task.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-011",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 01 explain",
     "printable": true,
     "type": "single",
-    "question": "Which letter starts the name Kim?",
-    "audioPrompt": "Which letter starts the name Kim?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you choose the capital?",
+    "audioPrompt": "Which tip would help you choose the capital?",
+    "visual": "🧠 Choose the capital; ➡️ Start point; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose the capital; ➡️ Start point; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-002",
+      "alt_text": "🧠 Choose the capital; ➡️ Start point; 💡 helpful strategy"
     },
     "answers": [
-      "k",
-      "K",
-      "M"
+      "Do not use capitals only where needed.",
+      "Use clear spaces between words.",
+      "Reverse a letter."
     ],
-    "correct": 0,
-    "explanation": "K is the best answer.",
+    "correct": 1,
+    "explanation": "Use clear spaces between words.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "K is the best answer."
+      "summary": "Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-012",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 02 explain",
     "printable": true,
     "type": "single",
-    "question": "Which word should begin with a capital letter?",
-    "audioPrompt": "Which word should begin with a capital letter?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you match upper and lower case?",
+    "audioPrompt": "Which tip would help you match upper and lower case?",
+    "visual": "🧠 Match upper and lower case; ➡️ Form letter; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match upper and lower case; ➡️ Form letter; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-004",
+      "alt_text": "🧠 Match upper and lower case; ➡️ Form letter; 💡 helpful strategy"
     },
     "answers": [
-      "Monday",
-      "monday",
-      "ball"
+      "Use this routine: Start point → Form letter → Space word → Re-read.",
+      "Reverse a letter.",
+      "Do not use clear spaces between words."
     ],
     "correct": 0,
-    "explanation": "Monday is the best answer.",
+    "explanation": "Use this routine: Start point → Form letter → Space word → Re-read.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "Monday is the best answer."
+      "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-013",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 03 explain",
     "printable": true,
     "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you write a clear word?",
+    "audioPrompt": "Which tip would help you write a clear word?",
+    "visual": "🧠 Write a clear word; ➡️ Space word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Write a clear word; ➡️ Space word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-006",
+      "alt_text": "🧠 Write a clear word; ➡️ Space word; 💡 helpful strategy"
     },
     "answers": [
-      "LEO",
-      "leo",
-      "Leo"
+      "Do not use clear spaces between words.",
+      "Do not use capitals only where needed.",
+      "Look for spacing and check the whole example."
     ],
-    "correct": 0,
-    "explanation": "Leo is the best answer.",
+    "correct": 2,
+    "explanation": "Look for spacing and check the whole example.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "Leo is the best answer."
+      "summary": "Look for spacing and check the whole example.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-014",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 04 explain",
     "printable": true,
     "type": "single",
-    "question": "Which pair matches?",
-    "audioPrompt": "Which pair matches?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you add word spacing?",
+    "audioPrompt": "Which tip would help you add word spacing?",
+    "visual": "🧠 Add word spacing; ➡️ Re-read; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Add word spacing; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-008",
+      "alt_text": "🧠 Add word spacing; ➡️ Re-read; 💡 helpful strategy"
     },
     "answers": [
-      "P and s",
-      "P and p",
-      "p and t"
+      "Do not use capitals only where needed.",
+      "Check that you can use spaces.",
+      "Reverse a letter."
     ],
     "correct": 1,
-    "explanation": "P and p is the best answer.",
+    "explanation": "Check that you can use spaces.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "P and p is the best answer."
+      "summary": "Check that you can use spaces.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-015",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 05 explain",
     "printable": true,
     "type": "single",
-    "question": "Which letter has been written as a capital?",
-    "audioPrompt": "Which letter has been written as a capital?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you order letter formation checks?",
+    "audioPrompt": "Which tip would help you order letter formation checks?",
+    "visual": "🧠 Order letter formation checks; ➡️ Start point; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order letter formation checks; ➡️ Start point; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-010\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-010",
+      "alt_text": "🧠 Order letter formation checks; ➡️ Start point; 💡 helpful strategy"
     },
     "answers": [
-      "S",
-      "s",
-      "t"
+      "Sequencing a handwriting self-check.",
+      "Reverse a letter.",
+      "Do not use clear spaces between words."
     ],
     "correct": 0,
-    "explanation": "S is the best answer.",
+    "explanation": "Sequencing a handwriting self-check.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "S is the best answer."
+      "summary": "Sequencing a handwriting self-check.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-016",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 06 explain",
     "printable": true,
     "type": "single",
-    "question": "Which letter has been written as lower case?",
-    "audioPrompt": "Which letter has been written as lower case?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you copy with case?",
+    "audioPrompt": "Which tip would help you copy with case?",
+    "visual": "🧠 Copy with case; ➡️ Form letter; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Copy with case; ➡️ Form letter; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-012\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-012",
+      "alt_text": "🧠 Copy with case; ➡️ Form letter; 💡 helpful strategy"
     },
     "answers": [
-      "T",
-      "D",
-      "t"
+      "Do not use clear spaces between words.",
+      "Do not use capitals only where needed.",
+      "Practise start point and direction."
     ],
-    "correct": 0,
-    "explanation": "t is the best answer.",
+    "correct": 2,
+    "explanation": "Practise start point and direction.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "t is the best answer."
+      "summary": "Practise start point and direction.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-017",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 07 explain",
     "printable": true,
     "type": "single",
-    "question": "Which is the lower-case letter for A?",
-    "audioPrompt": "Which is the lower-case letter for A?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you find a case error?",
+    "audioPrompt": "Which tip would help you find a case error?",
+    "visual": "🧠 Find a case error; ➡️ Space word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find a case error; ➡️ Space word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-014\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-014",
+      "alt_text": "🧠 Find a case error; ➡️ Space word; 💡 helpful strategy"
     },
     "answers": [
-      "A",
-      "b",
-      "a"
+      "Do not use capitals only where needed.",
+      "Use this routine: Start point → Form letter → Space word → Re-read.",
+      "Reverse a letter."
     ],
-    "correct": 0,
-    "explanation": "a is the best answer.",
+    "correct": 1,
+    "explanation": "Use this routine: Start point → Form letter → Space word → Re-read.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "a is the best answer."
+      "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-018",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 08 explain",
     "printable": true,
     "type": "single",
-    "question": "Which is the upper-case letter for b?",
-    "audioPrompt": "Which is the upper-case letter for b?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you compare readability?",
+    "audioPrompt": "Which tip would help you compare readability?",
+    "visual": "🧠 Compare readability; ➡️ Re-read; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare readability; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-016\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-016",
+      "alt_text": "🧠 Compare readability; ➡️ Re-read; 💡 helpful strategy"
     },
     "answers": [
-      "B",
-      "G",
-      "b"
+      "Look for spacing and check the whole example.",
+      "Reverse a letter.",
+      "Do not use clear spaces between words."
     ],
     "correct": 0,
-    "explanation": "B is the best answer.",
+    "explanation": "Look for spacing and check the whole example.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "B is the best answer."
+      "summary": "Look for spacing and check the whole example.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-019",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 09 explain",
     "printable": true,
     "type": "single",
-    "question": "Which letter starts the name Ava?",
-    "audioPrompt": "Which letter starts the name Ava?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you write an upper-case word?",
+    "audioPrompt": "Which tip would help you write an upper-case word?",
+    "visual": "🧠 Write an upper-case word; ➡️ Start point; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Write an upper-case word; ➡️ Start point; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-018\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-018",
+      "alt_text": "🧠 Write an upper-case word; ➡️ Start point; 💡 helpful strategy"
     },
     "answers": [
-      "K",
-      "A",
-      "a"
+      "Do not use clear spaces between words.",
+      "Do not use capitals only where needed.",
+      "Check that you can use spaces."
     ],
-    "correct": 1,
-    "explanation": "A is the best answer.",
+    "correct": 2,
+    "explanation": "Check that you can use spaces.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "A is the best answer."
+      "summary": "Check that you can use spaces.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-020",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 10 explain",
     "printable": true,
     "type": "single",
-    "question": "Which word should begin with a capital letter?",
-    "audioPrompt": "Which word should begin with a capital letter?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you match case uses?",
+    "audioPrompt": "Which tip would help you match case uses?",
+    "visual": "🧠 Match case uses; ➡️ Form letter; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match case uses; ➡️ Form letter; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-020\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-020",
+      "alt_text": "🧠 Match case uses; ➡️ Form letter; 💡 helpful strategy"
     },
     "answers": [
-      "Monday",
-      "ball",
-      "monday"
+      "Do not use capitals only where needed.",
+      "Connecting handwriting features with functions.",
+      "Reverse a letter."
     ],
-    "correct": 0,
-    "explanation": "Monday is the best answer.",
+    "correct": 1,
+    "explanation": "Connecting handwriting features with functions.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "Monday is the best answer."
+      "summary": "Connecting handwriting features with functions.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-021",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 01 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001",
+      "alt_text": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
-      "ZOE",
-      "Zoe",
-      "zoe"
+      "Do not use clear spaces between words.",
+      "Upper-case M",
+      "Use clear spaces between words."
     ],
     "correct": 0,
-    "explanation": "Zoe is the best answer.",
+    "explanation": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "Zoe is the best answer."
+      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-022",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 02 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which pair matches?",
-    "audioPrompt": "Which pair matches?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003",
+      "alt_text": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence"
     },
     "answers": [
-      "P and s",
-      "p and t",
-      "P and p"
+      "A ↔ a; G ↔ g; T ↔ t",
+      "A ↔ g; G ↔ t; T ↔ a",
+      "Use this routine: Start point → Form letter → Space word → Re-read."
     ],
-    "correct": 2,
-    "explanation": "P and p is the best answer.",
+    "correct": 1,
+    "explanation": "A ↔ g; G ↔ t; T ↔ a is the mix-up. Use capitals only where needed.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "P and p is the best answer."
+      "summary": "A ↔ g; G ↔ t; T ↔ a is the mix-up. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-023",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 03 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which letter has been written as a capital?",
-    "audioPrompt": "Read and choose: Which letter has been written as a capital?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write a clear word; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005",
+      "alt_text": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence"
     },
     "answers": [
-      "s",
-      "S",
-      "t"
+      "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently",
+      "Look for spacing and check the whole example.",
+      "Reverse a letter."
     ],
-    "correct": 0,
-    "explanation": "S is the best answer.",
+    "correct": 2,
+    "explanation": "Reverse a letter. is the mix-up. Practise start point and direction.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "S is the best answer."
+      "summary": "Reverse a letter. is the mix-up. Practise start point and direction.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-024",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 04 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which letter has been written as lower case?",
-    "audioPrompt": "Read and choose: Which letter has been written as lower case?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add word spacing; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007",
+      "alt_text": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence"
     },
     "answers": [
-      "T",
-      "t",
-      "D"
+      "Do not use clear spaces between words.",
+      "the red dog, with clear spaces and recognisable letters",
+      "Check that you can use spaces."
     ],
     "correct": 0,
-    "explanation": "t is the best answer.",
+    "explanation": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "t is the best answer."
+      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-025",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 05 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which is the lower-case letter for A?",
-    "audioPrompt": "Read and choose: Which is the lower-case letter for A?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009",
+      "alt_text": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence"
     },
     "answers": [
-      "b",
-      "A",
-      "a"
+      "Choose case → form separate letters → check spacing → reread",
+      "reread → check spacing → form separate letters → Choose case",
+      "Sequencing a handwriting self-check."
     ],
     "correct": 1,
-    "explanation": "a is the best answer.",
+    "explanation": "reread → check spacing → form separate letters → Choose case is the mix-up. Use capitals only where needed.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "a is the best answer."
+      "summary": "reread → check spacing → form separate letters → Choose case is the mix-up. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-026",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 06 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which is the upper-case letter for b?",
-    "audioPrompt": "Read and choose: Which is the upper-case letter for b?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Copy with case; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011",
+      "alt_text": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
-      "b",
-      "B",
-      "G"
+      "Accurate case, unjoined legible forms and three word spaces",
+      "Practise start point and direction.",
+      "Ben has a kite"
     ],
-    "correct": 0,
-    "explanation": "B is the best answer.",
+    "correct": 2,
+    "explanation": "Ben has a kite is the mix-up. Practise start point and direction.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "B is the best answer."
+      "summary": "Ben has a kite is the mix-up. Practise start point and direction.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-027",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 07 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which letter starts the name Leo?",
-    "audioPrompt": "Which letter starts the name Leo?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a case error; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013",
+      "alt_text": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence"
     },
     "answers": [
-      "l",
-      "K",
-      "L"
+      "Do not use clear spaces between words.",
+      "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals",
+      "Use this routine: Start point → Form letter → Space word → Re-read."
     ],
     "correct": 0,
-    "explanation": "L is the best answer.",
+    "explanation": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "L is the best answer."
+      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-028",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 08 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which word should begin with a capital letter?",
-    "audioPrompt": "Read and choose: Which word should begin with a capital letter?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare readability; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015",
+      "alt_text": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence"
     },
     "answers": [
-      "Monday",
-      "ball",
-      "monday"
+      "They distinguish letters/words, prevent crowding or splitting and make recognition easier",
+      "Do not use capitals only where needed.",
+      "Look for spacing and check the whole example."
     ],
-    "correct": 0,
-    "explanation": "Monday is the best answer.",
+    "correct": 1,
+    "explanation": "Do not use capitals only where needed. is the mix-up. Use capitals only where needed.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "Monday is the best answer."
+      "summary": "Do not use capitals only where needed. is the mix-up. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-029",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 09 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017",
+      "alt_text": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence"
     },
     "answers": [
-      "MAX",
-      "max",
-      "Max"
+      "A-C-T, all recognisable and unjoined with consistent size",
+      "Check that you can use spaces.",
+      "Reverse a letter."
     ],
-    "correct": 0,
-    "explanation": "Max is the best answer.",
+    "correct": 2,
+    "explanation": "Reverse a letter. is the mix-up. Practise start point and direction.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "Max is the best answer."
+      "summary": "Reverse a letter. is the mix-up. Practise start point and direction.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-030",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 10 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which pair matches?",
-    "audioPrompt": "Read and choose: Which pair matches?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match case uses; 🔎 readable; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match case uses; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019",
+      "alt_text": "📖 Match case uses; 🔎 readable; ✅ choose with evidence"
     },
     "answers": [
-      "P and s",
-      "P and p",
-      "p and t"
+      "Do not use clear spaces between words.",
+      "All three matched correctly",
+      "Connecting handwriting features with functions."
     ],
-    "correct": 1,
-    "explanation": "P and p is the best answer.",
+    "correct": 0,
+    "explanation": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "P and p is the best answer."
+      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-031",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 01 apply",
     "printable": true,
     "type": "single",
-    "question": "Which letter has been written as a capital?",
-    "audioPrompt": "Which letter has been written as a capital?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001",
+      "alt_text": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
-      "S",
-      "t",
-      "s"
+      "Do not use clear spaces between words.",
+      "Upper-case M",
+      "Do not use capitals only where needed."
     ],
-    "correct": 0,
-    "explanation": "S is the best answer.",
+    "correct": 1,
+    "explanation": "Upper-case M uses the skill correctly. Use clear spaces between words.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "S is the best answer."
+      "summary": "Upper-case M uses the skill correctly. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-032",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 02 apply",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which letter has been written as lower case?",
-    "audioPrompt": "Read and choose: Which letter has been written as lower case?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003",
+      "alt_text": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence"
     },
     "answers": [
-      "T",
-      "D",
-      "t"
+      "A ↔ g; G ↔ t; T ↔ a",
+      "Do not use capitals only where needed.",
+      "A ↔ a; G ↔ g; T ↔ t"
     ],
-    "correct": 0,
-    "explanation": "t is the best answer.",
+    "correct": 2,
+    "explanation": "A ↔ a; G ↔ g; T ↔ t uses the skill correctly. Use capitals only where needed.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "t is the best answer."
+      "summary": "A ↔ a; G ↔ g; T ↔ t uses the skill correctly. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-033",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 03 apply",
     "printable": true,
     "type": "single",
-    "question": "Which is the lower-case letter for A?",
-    "audioPrompt": "Which is the lower-case letter for A?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write a clear word; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005",
+      "alt_text": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence"
     },
     "answers": [
-      "A",
-      "a",
-      "b"
+      "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently",
+      "Reverse a letter.",
+      "Do not use clear spaces between words."
     ],
     "correct": 0,
-    "explanation": "a is the best answer.",
+    "explanation": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently uses the skill correctly. Practise start point and direction.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "a is the best answer."
+      "summary": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently uses the skill correctly. Practise start point and direction.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-034",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 04 apply",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which is the upper-case letter for b?",
-    "audioPrompt": "Read and choose: Which is the upper-case letter for b?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add word spacing; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007",
+      "alt_text": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence"
     },
     "answers": [
-      "B",
-      "G",
-      "b"
+      "Do not use clear spaces between words.",
+      "the red dog, with clear spaces and recognisable letters",
+      "Do not use capitals only where needed."
     ],
-    "correct": 0,
-    "explanation": "B is the best answer.",
+    "correct": 1,
+    "explanation": "the red dog, with clear spaces and recognisable letters uses the skill correctly. Use clear spaces between words.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "B is the best answer."
+      "summary": "the red dog, with clear spaces and recognisable letters uses the skill correctly. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-035",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 05 apply",
     "printable": true,
     "type": "single",
-    "question": "Which letter starts the name Zoe?",
-    "audioPrompt": "Which letter starts the name Zoe?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009",
+      "alt_text": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence"
     },
     "answers": [
-      "K",
-      "Z",
-      "z"
+      "reread → check spacing → form separate letters → Choose case",
+      "Do not use capitals only where needed.",
+      "Choose case → form separate letters → check spacing → reread"
     ],
-    "correct": 1,
-    "explanation": "Z is the best answer.",
+    "correct": 2,
+    "explanation": "Choose case → form separate letters → check spacing → reread uses the skill correctly. Use capitals only where needed.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "Z is the best answer."
+      "summary": "Choose case → form separate letters → check spacing → reread uses the skill correctly. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-036",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 06 apply",
     "printable": true,
     "type": "single",
-    "question": "Which word should begin with a capital letter?",
-    "audioPrompt": "Which word should begin with a capital letter?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Copy with case; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011",
+      "alt_text": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
-      "ball",
-      "Monday",
-      "monday"
+      "Accurate case, unjoined legible forms and three word spaces",
+      "Ben has a kite",
+      "Reverse a letter."
     ],
-    "correct": 1,
-    "explanation": "Monday is the best answer.",
+    "correct": 0,
+    "explanation": "Accurate case, unjoined legible forms and three word spaces uses the skill correctly. Practise start point and direction.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "Monday is the best answer."
+      "summary": "Accurate case, unjoined legible forms and three word spaces uses the skill correctly. Practise start point and direction.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-037",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 07 apply",
     "printable": true,
     "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a case error; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013",
+      "alt_text": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence"
     },
     "answers": [
-      "Mia",
-      "mia",
-      "MIA"
+      "Do not use clear spaces between words.",
+      "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals",
+      "Do not use capitals only where needed."
     ],
-    "correct": 0,
-    "explanation": "Mia is the best answer.",
+    "correct": 1,
+    "explanation": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals uses the skill correctly. Use clear spaces between words.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "Mia is the best answer."
+      "summary": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals uses the skill correctly. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-038",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 08 apply",
     "printable": true,
     "type": "single",
-    "question": "Which pair matches?",
-    "audioPrompt": "Which pair matches?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare readability; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015",
+      "alt_text": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence"
     },
     "answers": [
-      "p and t",
-      "P and p",
-      "P and s"
+      "Do not use capitals only where needed.",
+      "Reverse a letter.",
+      "They distinguish letters/words, prevent crowding or splitting and make recognition easier"
     ],
-    "correct": 1,
-    "explanation": "P and p is the best answer.",
+    "correct": 2,
+    "explanation": "They distinguish letters/words, prevent crowding or splitting and make recognition easier uses the skill correctly. Use capitals only where needed.\nHint: Use capitals only where needed.",
     "structuredExplanation": {
-      "summary": "P and p is the best answer."
+      "summary": "They distinguish letters/words, prevent crowding or splitting and make recognition easier uses the skill correctly. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-039",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 09 apply",
     "printable": true,
     "type": "single",
-    "question": "Which letter has been written as a capital?",
-    "audioPrompt": "Which letter has been written as a capital?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017",
+      "alt_text": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence"
     },
     "answers": [
-      "t",
-      "s",
-      "S"
+      "A-C-T, all recognisable and unjoined with consistent size",
+      "Reverse a letter.",
+      "Do not use clear spaces between words."
     ],
-    "correct": 1,
-    "explanation": "S is the best answer.",
+    "correct": 0,
+    "explanation": "A-C-T, all recognisable and unjoined with consistent size uses the skill correctly. Practise start point and direction.\nHint: Practise start point and direction.",
     "structuredExplanation": {
-      "summary": "S is the best answer."
+      "summary": "A-C-T, all recognisable and unjoined with consistent size uses the skill correctly. Practise start point and direction.",
+      "hint": "Practise start point and direction."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1ly08-p-040",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "ac9e1ly08 10 apply",
     "printable": true,
     "type": "single",
-    "question": "Look and choose: Which letter has been written as lower case?",
-    "audioPrompt": "Look and choose: Which letter has been written as lower case?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match case uses; 🔎 readable; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match case uses; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019",
+      "alt_text": "📖 Match case uses; 🔎 readable; ✅ choose with evidence"
     },
     "answers": [
-      "T",
-      "t",
-      "D"
-    ],
-    "correct": 0,
-    "explanation": "t is the best answer.",
-    "structuredExplanation": {
-      "summary": "t is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly08-p-041",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which is the lower-case letter for A?",
-    "audioPrompt": "Look and choose: Which is the lower-case letter for A?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "b",
-      "A",
-      "a"
+      "Do not use clear spaces between words.",
+      "All three matched correctly",
+      "Do not use capitals only where needed."
     ],
     "correct": 1,
-    "explanation": "a is the best answer.",
+    "explanation": "All three matched correctly uses the skill correctly. Use clear spaces between words.\nHint: Use clear spaces between words.",
     "structuredExplanation": {
-      "summary": "a is the best answer."
+      "summary": "All three matched correctly uses the skill correctly. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-042",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the upper-case letter for b?",
-    "audioPrompt": "Which is the upper-case letter for b?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "b",
-      "G",
-      "B"
-    ],
-    "correct": 0,
-    "explanation": "B is the best answer.",
-    "structuredExplanation": {
-      "summary": "B is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-043",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter starts the name Max?",
-    "audioPrompt": "Which letter starts the name Max?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "M",
-      "K",
-      "m"
-    ],
-    "correct": 0,
-    "explanation": "M is the best answer.",
-    "structuredExplanation": {
-      "summary": "M is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-044",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which word should begin with a capital letter?",
-    "audioPrompt": "Which word should begin with a capital letter?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "monday",
-      "ball",
-      "Monday"
-    ],
-    "correct": 0,
-    "explanation": "Monday is the best answer.",
-    "structuredExplanation": {
-      "summary": "Monday is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-045",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Ben",
-      "ben",
-      "BEN"
-    ],
-    "correct": 0,
-    "explanation": "Ben is the best answer.",
-    "structuredExplanation": {
-      "summary": "Ben is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-046",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which pair matches?",
-    "audioPrompt": "Read and choose: Which pair matches?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "P and s",
-      "p and t",
-      "P and p"
-    ],
-    "correct": 2,
-    "explanation": "P and p is the best answer.",
-    "structuredExplanation": {
-      "summary": "P and p is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-047",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter has been written as a capital?",
-    "audioPrompt": "Which letter has been written as a capital?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "t",
-      "S",
-      "s"
-    ],
-    "correct": 1,
-    "explanation": "S is the best answer.",
-    "structuredExplanation": {
-      "summary": "S is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-048",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter has been written as lower case?",
-    "audioPrompt": "Which letter has been written as lower case?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "D",
-      "T",
-      "t"
-    ],
-    "correct": 1,
-    "explanation": "t is the best answer.",
-    "structuredExplanation": {
-      "summary": "t is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

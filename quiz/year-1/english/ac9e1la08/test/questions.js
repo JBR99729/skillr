@@ -4,480 +4,466 @@ window.skillrTestQuestions = [
     "id": "ac9e1la08-t-001",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 01 answer",
     "printable": true,
     "type": "single",
-    "question": "[Show Zoe smiling.] The picture shows Zoe smiling. What does the picture tell us?",
-    "audioPrompt": "[Show Zoe smiling.] The picture shows Zoe smiling. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly show caption change?",
+    "audioPrompt": "Which response would correctly show caption change?",
+    "visual": "📖 show caption change; 🔎 image; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show caption change; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001",
+      "alt_text": "📖 show caption change; 🔎 image; ✅ choose with evidence"
     },
     "answers": [
-      "sad",
-      "happy",
-      "nothing"
+      "Factual caption records condition/place/time; story caption builds event/mood, with clear contrast",
+      "Use describing only.",
+      "Ignore words."
     ],
-    "correct": 1,
-    "explanation": "happy is the best answer.",
+    "correct": 0,
+    "explanation": "Factual caption records condition/place/time; story caption builds event/mood, with clear contrast This matches the task.\nHint: Explain how the image changes or supports meaning.",
     "structuredExplanation": {
-      "summary": "happy is the best answer."
+      "summary": "Factual caption records condition/place/time; story caption builds event/mood, with clear contrast This matches the task.",
+      "hint": "Explain how the image changes or supports meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-002",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "[Show Max crying.] The picture shows Max crying. What does the picture tell us?",
-    "audioPrompt": "[Show Max crying.] The picture shows Max crying. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you show caption change?",
+    "audioPrompt": "Which tip would help you show caption change?",
+    "visual": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show caption change; ➡️ Look at image; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002",
+      "alt_text": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy"
     },
     "answers": [
-      "happy",
-      "sad",
-      "nothing"
+      "Ignore words.",
+      "Explain how the image changes or supports meaning.",
+      "Use one correct image only."
     ],
     "correct": 1,
-    "explanation": "sad is the best answer.",
+    "explanation": "Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-003",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 02 answer",
     "printable": true,
     "type": "single",
-    "question": "[Show Mia shivering.] The picture shows Mia shivering. What does the picture tell us?",
-    "audioPrompt": "[Show Mia shivering.] The picture shows Mia shivering. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly draw labelled versus unlabelled?",
+    "audioPrompt": "Which response would correctly draw labelled versus unlabelled?",
+    "visual": "📖 Draw labelled versus unlabelled; 🔎 words; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw labelled versus unlabelled; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-003",
+      "alt_text": "📖 Draw labelled versus unlabelled; 🔎 words; ✅ choose with evidence"
     },
     "answers": [
-      "hot",
-      "nothing",
-      "cold"
+      "Ignore words.",
+      "Use one correct image only.",
+      "Information version identifies parts; explanation notes labels make factual reference precise"
     ],
     "correct": 2,
-    "explanation": "cold is the best answer.",
+    "explanation": "Information version identifies parts; explanation notes labels make factual reference precise This matches the task.\nHint: Read words and image together.",
     "structuredExplanation": {
-      "summary": "cold is the best answer."
+      "summary": "Information version identifies parts; explanation notes labels make factual reference precise This matches the task.",
+      "hint": "Read words and image together."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-004",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 02 strategy",
     "printable": true,
     "type": "single",
-    "question": "[Show Ben yawning.] The picture shows Ben yawning. What does the picture tell us?",
-    "audioPrompt": "[Show Ben yawning.] The picture shows Ben yawning. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you draw labelled versus unlabelled?",
+    "audioPrompt": "Which tip would help you draw labelled versus unlabelled?",
+    "visual": "🧠 Draw labelled versus unlabelled; ➡️ Read words; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw labelled versus unlabelled; ➡️ Read words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-004",
+      "alt_text": "🧠 Draw labelled versus unlabelled; ➡️ Read words; 💡 helpful strategy"
     },
     "answers": [
-      "angry",
-      "nothing",
-      "tired"
+      "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+      "Use one correct image only.",
+      "Use describing only."
     ],
-    "correct": 2,
-    "explanation": "tired is the best answer.",
+    "correct": 0,
+    "explanation": "Use this routine: Look at image → Read words → Compare message → Explain effect.\nHint: Read words and image together.",
     "structuredExplanation": {
-      "summary": "tired is the best answer."
+      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+      "hint": "Read words and image together."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-005",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 03 answer",
     "printable": true,
     "type": "single",
-    "question": "[Show Sam running.] The picture shows Sam running. What does the picture tell us?",
-    "audioPrompt": "[Show Sam running.] The picture shows Sam running. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly correct a mismatched image?",
+    "audioPrompt": "Which response would correctly correct a mismatched image?",
+    "visual": "📖 Correct a mismatched image; 🔎 meaning; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a mismatched image; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-005",
+      "alt_text": "📖 Correct a mismatched image; 🔎 meaning; ✅ choose with evidence"
     },
     "answers": [
-      "in a hurry",
-      "nothing",
-      "asleep"
+      "How bees collect nectar",
+      "Beach does not support topic",
+      "Use one correct image only."
     ],
-    "correct": 0,
-    "explanation": "in a hurry is the best answer.",
+    "correct": 1,
+    "explanation": "Beach does not support topic This matches the task.\nHint: Different images can support different meanings.",
     "structuredExplanation": {
-      "summary": "in a hurry is the best answer."
+      "summary": "Beach does not support topic This matches the task.",
+      "hint": "Different images can support different meanings."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-006",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 03 strategy",
     "printable": true,
     "type": "single",
-    "question": "[Show Kim waving.] The picture shows Kim waving. What does the picture tell us?",
-    "audioPrompt": "[Show Kim waving.] The picture shows Kim waving. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you correct a mismatched image?",
+    "audioPrompt": "Which tip would help you correct a mismatched image?",
+    "visual": "🧠 Correct a mismatched image; ➡️ Compare message; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a mismatched image; ➡️ Compare message; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-006",
+      "alt_text": "🧠 Correct a mismatched image; ➡️ Compare message; 💡 helpful strategy"
     },
     "answers": [
-      "friendly",
-      "hidden",
-      "nothing"
+      "Use describing only.",
+      "Ignore words.",
+      "Look for meaning and check the whole example."
     ],
-    "correct": 0,
-    "explanation": "friendly is the best answer.",
+    "correct": 2,
+    "explanation": "Look for meaning and check the whole example.\nHint: Different images can support different meanings.",
     "structuredExplanation": {
-      "summary": "friendly is the best answer."
+      "summary": "Look for meaning and check the whole example.",
+      "hint": "Different images can support different meanings."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-007",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 04 answer",
     "printable": true,
     "type": "single",
-    "question": "[Show Ava frowning.] The picture shows Ava frowning. What does the picture tell us?",
-    "audioPrompt": "[Show Ava frowning.] The picture shows Ava frowning. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly analyse three text types?",
+    "audioPrompt": "Which response would correctly analyse three text types?",
+    "visual": "📖 Analyse three text types; 🔎 mood; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse three text types; 🔎 mood; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-007",
+      "alt_text": "📖 Analyse three text types; 🔎 mood; ✅ choose with evidence"
     },
     "answers": [
-      "nothing",
-      "glad",
-      "upset"
+      "Narrative adds event/mood",
+      "Narrative adds event/meaning",
+      "Narrative adds event/detail"
     ],
-    "correct": 2,
-    "explanation": "upset is the best answer.",
+    "correct": 0,
+    "explanation": "Narrative adds event/mood This matches the task.\nHint: Explain how the image changes or supports meaning.",
     "structuredExplanation": {
-      "summary": "upset is the best answer."
+      "summary": "Narrative adds event/mood This matches the task.",
+      "hint": "Explain how the image changes or supports meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-008",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 04 strategy",
     "printable": true,
     "type": "single",
-    "question": "[Show Leo laughing.] The picture shows Leo laughing. What does the picture tell us?",
-    "audioPrompt": "[Show Leo laughing.] The picture shows Leo laughing. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you analyse three text types?",
+    "audioPrompt": "Which tip would help you analyse three text types?",
+    "visual": "🧠 Analyse three text types; ➡️ Explain effect; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse three text types; ➡️ Explain effect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-008",
+      "alt_text": "🧠 Analyse three text types; ➡️ Explain effect; 💡 helpful strategy"
     },
     "answers": [
-      "nothing",
-      "afraid",
-      "amused"
+      "Ignore words.",
+      "Check that you can notice mood/detail.",
+      "Use one correct image only."
     ],
-    "correct": 2,
-    "explanation": "amused is the best answer.",
+    "correct": 1,
+    "explanation": "Check that you can notice mood/detail.\nHint: Explain how the image changes or supports meaning.",
     "structuredExplanation": {
-      "summary": "amused is the best answer."
+      "summary": "Check that you can notice mood/detail.",
+      "hint": "Explain how the image changes or supports meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-009",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "[Show Max smiling.] The picture shows Max smiling. What does the picture tell us?",
-    "audioPrompt": "[Show Max smiling.] The picture shows Max smiling. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show caption change; ➡️ Look at image; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002",
+      "alt_text": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy"
     },
     "answers": [
-      "nothing",
-      "happy",
-      "sad"
+      "Use describing only.",
+      "Ignore words.",
+      "Explain how the image changes or supports meaning."
     ],
-    "correct": 1,
-    "explanation": "happy is the best answer.",
+    "correct": 2,
+    "explanation": "Explain how the image changes or supports meaning. is the useful check. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
     "structuredExplanation": {
-      "summary": "happy is the best answer."
+      "summary": "Explain how the image changes or supports meaning. is the useful check. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-010",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "[Show Mia crying.] The picture shows Mia crying. What does the picture tell us?",
-    "audioPrompt": "[Show Mia crying.] The picture shows Mia crying. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw labelled versus unlabelled; ➡️ Read words; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw labelled versus unlabelled; ➡️ Read words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-004",
+      "alt_text": "🧠 Draw labelled versus unlabelled; ➡️ Read words; 💡 helpful strategy"
     },
     "answers": [
-      "nothing",
-      "happy",
-      "sad"
+      "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+      "Ignore words.",
+      "Use one correct image only."
     ],
-    "correct": 2,
-    "explanation": "sad is the best answer.",
+    "correct": 0,
+    "explanation": "Use this routine: Look at image → Read words → Compare message → Explain effect. is the useful check. Read words and image together.\nHint: Read words and image together.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect. is the useful check. Read words and image together.",
+      "hint": "Read words and image together."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-011",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "[Show Ben shivering.] The picture shows Ben shivering. What does the picture tell us?",
-    "audioPrompt": "[Show Ben shivering.] The picture shows Ben shivering. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct a mismatched image; ➡️ Compare message; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a mismatched image; ➡️ Compare message; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-006",
+      "alt_text": "🧠 Correct a mismatched image; ➡️ Compare message; 💡 helpful strategy"
     },
     "answers": [
-      "nothing",
-      "hot",
-      "cold"
+      "How bees collect nectar",
+      "Look for meaning and check the whole example.",
+      "Use one correct image only."
     ],
-    "correct": 2,
-    "explanation": "cold is the best answer.",
+    "correct": 1,
+    "explanation": "Look for meaning and check the whole example. is the useful check. Different images can support different meanings.\nHint: Different images can support different meanings.",
     "structuredExplanation": {
-      "summary": "cold is the best answer."
+      "summary": "Look for meaning and check the whole example. is the useful check. Different images can support different meanings.",
+      "hint": "Different images can support different meanings."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-012",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "[Show Sam yawning.] The picture shows Sam yawning. What does the picture tell us?",
-    "audioPrompt": "[Show Sam yawning.] The picture shows Sam yawning. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Analyse three text types; ➡️ Explain effect; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse three text types; ➡️ Explain effect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-008",
+      "alt_text": "🧠 Analyse three text types; ➡️ Explain effect; 💡 helpful strategy"
     },
     "answers": [
-      "angry",
-      "nothing",
-      "tired"
+      "Narrative adds event/meaning",
+      "Narrative adds event/detail",
+      "Check that you can notice mood/detail."
     ],
     "correct": 2,
-    "explanation": "tired is the best answer.",
+    "explanation": "Check that you can notice mood/detail. is the useful check. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
     "structuredExplanation": {
-      "summary": "tired is the best answer."
+      "summary": "Check that you can notice mood/detail. is the useful check. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-013",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "[Show Kim running.] The picture shows Kim running. What does the picture tell us?",
-    "audioPrompt": "[Show Kim running.] The picture shows Kim running. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Use describing only.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Use describing only.. Which answer would improve their response?",
+    "visual": "📖 show caption change; 🔎 image; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show caption change; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001",
+      "alt_text": "📖 show caption change; 🔎 image; ✅ choose with evidence"
     },
     "answers": [
-      "in a hurry",
-      "asleep",
-      "nothing"
+      "Factual caption records condition/place/time; story caption builds event/mood, with clear contrast",
+      "Use describing only.",
+      "Ignore words."
     ],
     "correct": 0,
-    "explanation": "in a hurry is the best answer.",
+    "explanation": "Factual caption records condition/place/time; story caption builds event/mood, with clear contrast is the stronger response because it uses the target skill. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
     "structuredExplanation": {
-      "summary": "in a hurry is the best answer."
+      "summary": "Factual caption records condition/place/time; story caption builds event/mood, with clear contrast is the stronger response because it uses the target skill. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-014",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "[Show Ava waving.] The picture shows Ava waving. What does the picture tell us?",
-    "audioPrompt": "[Show Ava waving.] The picture shows Ava waving. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Ignore words.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Ignore words.. Which answer would improve their response?",
+    "visual": "📖 Draw labelled versus unlabelled; 🔎 words; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw labelled versus unlabelled; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-003",
+      "alt_text": "📖 Draw labelled versus unlabelled; 🔎 words; ✅ choose with evidence"
     },
     "answers": [
-      "friendly",
-      "nothing",
-      "hidden"
+      "Ignore words.",
+      "Information version identifies parts; explanation notes labels make factual reference precise",
+      "Use one correct image only."
     ],
-    "correct": 0,
-    "explanation": "friendly is the best answer.",
+    "correct": 1,
+    "explanation": "Information version identifies parts; explanation notes labels make factual reference precise is the stronger response because it uses the target skill. Read words and image together.\nHint: Read words and image together.",
     "structuredExplanation": {
-      "summary": "friendly is the best answer."
+      "summary": "Information version identifies parts; explanation notes labels make factual reference precise is the stronger response because it uses the target skill. Read words and image together.",
+      "hint": "Read words and image together."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-015",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "[Show Leo frowning.] The picture shows Leo frowning. What does the picture tell us?",
-    "audioPrompt": "[Show Leo frowning.] The picture shows Leo frowning. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “How bees collect nectar”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose How bees collect nectar. Which answer would improve their response?",
+    "visual": "📖 Correct a mismatched image; 🔎 meaning; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a mismatched image; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-005",
+      "alt_text": "📖 Correct a mismatched image; 🔎 meaning; ✅ choose with evidence"
     },
     "answers": [
-      "glad",
-      "nothing",
-      "upset"
+      "How bees collect nectar",
+      "Use one correct image only.",
+      "Beach does not support topic"
     ],
     "correct": 2,
-    "explanation": "upset is the best answer.",
+    "explanation": "Beach does not support topic is the stronger response because it uses the target skill. Different images can support different meanings.\nHint: Different images can support different meanings.",
     "structuredExplanation": {
-      "summary": "upset is the best answer."
+      "summary": "Beach does not support topic is the stronger response because it uses the target skill. Different images can support different meanings.",
+      "hint": "Different images can support different meanings."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e1la08-t-016",
     "curriculumCode": "AC9E1LA08",
     "bank": "test",
-    "skill": "compare how images in different types of texts contribute to meaning",
+    "skill": "ac9e1la08 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "[Show Zoe laughing.] The picture shows Zoe laughing. What does the picture tell us?",
-    "audioPrompt": "[Show Zoe laughing.] The picture shows Zoe laughing. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Narrative adds event/meaning”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Narrative adds event/meaning. Which answer would improve their response?",
+    "visual": "📖 Analyse three text types; 🔎 mood; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse three text types; 🔎 mood; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-007",
+      "alt_text": "📖 Analyse three text types; 🔎 mood; ✅ choose with evidence"
     },
     "answers": [
-      "afraid",
-      "nothing",
-      "amused"
+      "Narrative adds event/mood",
+      "Narrative adds event/meaning",
+      "Narrative adds event/detail"
     ],
-    "correct": 2,
-    "explanation": "amused is the best answer.",
+    "correct": 0,
+    "explanation": "Narrative adds event/mood is the stronger response because it uses the target skill. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
     "structuredExplanation": {
-      "summary": "amused is the best answer."
+      "summary": "Narrative adds event/mood is the stronger response because it uses the target skill. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

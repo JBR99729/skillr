@@ -1,498 +1,466 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e1la03-er1-t-001",
+    "id": "ac9e1la03-t-001",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 01 answer",
     "printable": true,
     "type": "single",
-    "question": "'Last night we made soup. Next we ate it. Finally we washed the bowls.' Which purpose fits?",
-    "audioPrompt": "'Last night we made soup. Next we ate it. Finally we washed the bowls.' Which purpose fits?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly show two openings?",
+    "audioPrompt": "Which response would correctly show two openings?",
+    "visual": "📖 show two openings; 🔎 purpose; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two openings; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001",
+      "alt_text": "📖 show two openings; 🔎 purpose; ✅ choose with evidence"
     },
     "answers": [
-      "Recounting what happened.",
-      "Explaining how bowls are made.",
-      "Arguing that soup is the best food."
+      "Narrative introduces character/setting/event; report introduces factual topic",
+      "Do not ask what the text is doing, not only what it is about.",
+      "Do not match structure to purpose."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "The text retells a sequence of past events.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Narrative introduces character/setting/event; report introduces factual topic This matches the task.\nHint: Ask what the text is doing, not only what it is about.",
     "structuredExplanation": {
-      "summary": "The text retells a sequence of past events.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Narrative introduces character/setting/event; report introduces factual topic This matches the task.",
+      "hint": "Ask what the text is doing, not only what it is about."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-002",
+    "id": "ac9e1la03-t-002",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "'Wombats are mammals. They dig burrows and eat grasses.' What kind of organisation fits more information?",
-    "audioPrompt": "'Wombats are mammals. They dig burrows and eat grasses.' What kind of organisation fits more information?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you show two openings?",
+    "audioPrompt": "Which tip would help you show two openings?",
+    "visual": "🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002",
+      "alt_text": "🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy"
     },
     "answers": [
-      "Rank classmates' favourite animals.",
-      "Group related facts about wombats.",
-      "Add a magic problem for the wombat to solve."
+      "Do not match structure to purpose.",
+      "Ask what the text is doing, not only what it is about.",
+      "Leave out evidence."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Related fact groups suit an informative report.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
     "structuredExplanation": {
-      "summary": "Related fact groups suit an informative report.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Ask what the text is doing, not only what it is about.",
+      "hint": "Ask what the text is doing, not only what it is about."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-003",
+    "id": "ac9e1la03-t-003",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 02 answer",
     "printable": true,
     "type": "single",
-    "question": "'I believe the playground needs more bins because rubbish blows onto the grass.' What supports the opinion?",
-    "audioPrompt": "'I believe the playground needs more bins because rubbish blows onto the grass.' What supports the opinion?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly draw a compare-plan?",
+    "audioPrompt": "Which response would correctly draw a compare-plan?",
+    "visual": "📖 Draw a compare-plan; 🔎 recount; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a compare-plan; 🔎 recount; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-003",
+      "alt_text": "📖 Draw a compare-plan; 🔎 recount; ✅ choose with evidence"
     },
     "answers": [
-      "The number of letters in playground.",
-      "The statement that the writer believes something.",
-      "The problem of rubbish blowing onto the grass."
+      "Do not match structure to purpose.",
+      "Leave out evidence.",
+      "Recount shows chronological events; explanation shows ordered steps/causes leading to an outcome"
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "The litter problem provides a reason for adding bins.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Recount shows chronological events; explanation shows ordered steps/causes leading to an outcome This matches the task.\nHint: Match structure to purpose.",
     "structuredExplanation": {
-      "summary": "The litter problem provides a reason for adding bins.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Recount shows chronological events; explanation shows ordered steps/causes leading to an outcome This matches the task.",
+      "hint": "Match structure to purpose."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-004",
+    "id": "ac9e1la03-t-004",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 02 strategy",
     "printable": true,
     "type": "single",
-    "question": "'A duckling fell into a hole. Its friends lowered a branch and helped it climb out.' What comes after the problem?",
-    "audioPrompt": "'A duckling fell into a hole. Its friends lowered a branch and helped it climb out.' What comes after the problem?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you draw a compare-plan?",
+    "audioPrompt": "Which tip would help you draw a compare-plan?",
+    "visual": "🧠 Draw a compare-plan; ➡️ Notice structure; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a compare-plan; ➡️ Notice structure; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-004",
+      "alt_text": "🧠 Draw a compare-plan; ➡️ Notice structure; 💡 helpful strategy"
     },
     "answers": [
-      "The solution.",
-      "A table of contents.",
-      "An unrelated opinion."
+      "Use this routine: Identify purpose → Notice structure → Find key features → Explain.",
+      "Leave out evidence.",
+      "Do not ask what the text is doing, not only what it is about."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "The rescue resolves the difficulty of being trapped.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Use this routine: Identify purpose → Notice structure → Find key features → Explain.\nHint: Match structure to purpose.",
     "structuredExplanation": {
-      "summary": "The rescue resolves the difficulty of being trapped.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Use this routine: Identify purpose → Notice structure → Find key features → Explain.",
+      "hint": "Match structure to purpose."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-005",
+    "id": "ac9e1la03-t-005",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 03 answer",
     "printable": true,
     "type": "single",
-    "question": "'Clouds covered the sun, so the playground became darker.' What does the text explain?",
-    "audioPrompt": "'Clouds covered the sun, so the playground became darker.' What does the text explain?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly correct a mixed structure?",
+    "audioPrompt": "Which response would correctly correct a mixed structure?",
+    "visual": "📖 Correct a mixed structure; 🔎 narrate; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a mixed structure; 🔎 narrate; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-005",
+      "alt_text": "📖 Correct a mixed structure; 🔎 narrate; ✅ choose with evidence"
     },
     "answers": [
-      "Why playgrounds are the best places.",
-      "A cause of the change in light.",
-      "The order of games played all day."
+      "Leave out evidence.",
+      "Adds/clarifies opening and problem, orders events toward resolution, removes or integrates unrelated facts",
+      "Do not ask what the text is doing, not only what it is about."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "So connects the covering of the sun with its effect.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Adds/clarifies opening and problem, orders events toward resolution, removes or integrates unrelated facts This matches the task.\nHint: Point to a heading, time word, fact or opinion word.",
     "structuredExplanation": {
-      "summary": "So connects the covering of the sun with its effect.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Adds/clarifies opening and problem, orders events toward resolution, removes or integrates unrelated facts This matches the task.",
+      "hint": "Point to a heading, time word, fact or opinion word."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-006",
+    "id": "ac9e1la03-t-006",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 03 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which opening suits an information text about hats?",
-    "audioPrompt": "Which opening suits an information text about hats?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you correct a mixed structure?",
+    "audioPrompt": "Which tip would help you correct a mixed structure?",
+    "visual": "🧠 Correct a mixed structure; ➡️ Find key features; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a mixed structure; ➡️ Find key features; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-006",
+      "alt_text": "🧠 Correct a mixed structure; ➡️ Find key features; 💡 helpful strategy"
     },
     "answers": [
-      "Yesterday I lost my hat on the bus.",
-      "My hat flew to a talking cloud.",
-      "Hats can protect our heads from sun or cold."
+      "Do not ask what the text is doing, not only what it is about.",
+      "Do not match structure to purpose.",
+      "Look for narrate and check the whole example."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "The first opening introduces a factual topic rather than a recount or fantasy.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Look for narrate and check the whole example.\nHint: Point to a heading, time word, fact or opinion word.",
     "structuredExplanation": {
-      "summary": "The first opening introduces a factual topic rather than a recount or fantasy.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Look for narrate and check the whole example.",
+      "hint": "Point to a heading, time word, fact or opinion word."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-007",
+    "id": "ac9e1la03-t-007",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 04 answer",
     "printable": true,
     "type": "single",
-    "question": "A recount starts, 'On Saturday we planted beans.' Which sentence follows naturally?",
-    "audioPrompt": "A recount starts, 'On Saturday we planted beans.' Which sentence follows naturally?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which response would correctly plan three purposes?",
+    "audioPrompt": "Which response would correctly plan three purposes?",
+    "visual": "📖 Plan three purposes; 🔎 inform; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Plan three purposes; 🔎 inform; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-007",
+      "alt_text": "📖 Plan three purposes; 🔎 inform; ✅ choose with evidence"
     },
     "answers": [
-      "After planting, we watered the soil.",
-      "Before Saturday existed, beans were best.",
-      "Beans should be everyone's favourite food."
+      "Recount: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant",
+      "purpose: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant",
+      "narrate: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant"
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "It continues the sequence of the planting event.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Recount: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant This matches the task.\nHint: Ask what the text is doing, not only what it is about.",
     "structuredExplanation": {
-      "summary": "It continues the sequence of the planting event.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Recount: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant This matches the task.",
+      "hint": "Ask what the text is doing, not only what it is about."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-008",
+    "id": "ac9e1la03-t-008",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 04 strategy",
     "printable": true,
     "type": "single",
-    "question": "A story's mouse cannot reach a high shelf. Which event could resolve this?",
-    "audioPrompt": "A story's mouse cannot reach a high shelf. Which event could resolve this?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which tip would help you plan three purposes?",
+    "audioPrompt": "Which tip would help you plan three purposes?",
+    "visual": "🧠 Plan three purposes; ➡️ Explain; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Plan three purposes; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-008",
+      "alt_text": "🧠 Plan three purposes; ➡️ Explain; 💡 helpful strategy"
     },
     "answers": [
-      "A report lists kinds of shelves.",
-      "The mouse brings a ladder and climbs it.",
-      "The mouse describes the colour of the wall."
+      "Do not match structure to purpose.",
+      "Check that you can compare text types.",
+      "Leave out evidence."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Using a ladder addresses the story's problem.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Check that you can compare text types.\nHint: Ask what the text is doing, not only what it is about.",
     "structuredExplanation": {
-      "summary": "Using a ladder addresses the story's problem.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Check that you can compare text types.",
+      "hint": "Ask what the text is doing, not only what it is about."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-009",
+    "id": "ac9e1la03-t-009",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which sentence belongs under 'Where penguins live' in a report?",
-    "audioPrompt": "Which sentence belongs under 'Where penguins live' in a report?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002",
+      "alt_text": "🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy"
     },
     "answers": [
-      "Penguins eat fish.",
-      "Penguins have feathers.",
-      "Some penguins live on rocky coasts."
+      "Do not ask what the text is doing, not only what it is about.",
+      "Do not match structure to purpose.",
+      "Ask what the text is doing, not only what it is about."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "The heading calls for a fact about location or habitat.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Ask what the text is doing, not only what it is about. is the useful check. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
     "structuredExplanation": {
-      "summary": "The heading calls for a fact about location or habitat.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Ask what the text is doing, not only what it is about. is the useful check. Ask what the text is doing, not only what it is about.",
+      "hint": "Ask what the text is doing, not only what it is about."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-010",
+    "id": "ac9e1la03-t-010",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "You want to explain why a puddle got bigger during rain. Which plan fits?",
-    "audioPrompt": "You want to explain why a puddle got bigger during rain. Which plan fits?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw a compare-plan; ➡️ Notice structure; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a compare-plan; ➡️ Notice structure; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-004\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-004",
+      "alt_text": "🧠 Draw a compare-plan; ➡️ Notice structure; 💡 helpful strategy"
     },
     "answers": [
-      "Describe rain adding water, then the larger puddle.",
-      "Tell readers that puddles are your favourite.",
-      "Introduce a puddle character and a treasure hunt."
+      "Use this routine: Identify purpose → Notice structure → Find key features → Explain.",
+      "Do not match structure to purpose.",
+      "Leave out evidence."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "The first plan connects the cause and result.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Use this routine: Identify purpose → Notice structure → Find key features → Explain. is the useful check. Match structure to purpose.\nHint: Match structure to purpose.",
     "structuredExplanation": {
-      "summary": "The first plan connects the cause and result.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Use this routine: Identify purpose → Notice structure → Find key features → Explain. is the useful check. Match structure to purpose.",
+      "hint": "Match structure to purpose."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-011",
+    "id": "ac9e1la03-t-011",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "An opinion text gives three reasons to plant flowers. Which ending fits its purpose?",
-    "audioPrompt": "An opinion text gives three reasons to plant flowers. Which ending fits its purpose?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct a mixed structure; ➡️ Find key features; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a mixed structure; ➡️ Find key features; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-006",
+      "alt_text": "🧠 Correct a mixed structure; ➡️ Find key features; 💡 helpful strategy"
     },
     "answers": [
-      "Flowers can be counted with numbers.",
-      "These reasons make flowers a good choice for our garden.",
-      "Then we caught the bus home from the zoo."
+      "Leave out evidence.",
+      "Look for narrate and check the whole example.",
+      "Do not ask what the text is doing, not only what it is about."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "The ending draws the reasons back to the proposed choice.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Look for narrate and check the whole example. is the useful check. Point to a heading, time word, fact or opinion word.\nHint: Point to a heading, time word, fact or opinion word.",
     "structuredExplanation": {
-      "summary": "The ending draws the reasons back to the proposed choice.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Look for narrate and check the whole example. is the useful check. Point to a heading, time word, fact or opinion word.",
+      "hint": "Point to a heading, time word, fact or opinion word."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-012",
+    "id": "ac9e1la03-t-012",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "A recount says, 'First we ate the cake. Then we baked it.' What needs checking?",
-    "audioPrompt": "A recount says, 'First we ate the cake. Then we baked it.' What needs checking?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Plan three purposes; ➡️ Explain; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Plan three purposes; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-008\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-008",
+      "alt_text": "🧠 Plan three purposes; ➡️ Explain; 💡 helpful strategy"
     },
     "answers": [
-      "Whether cake is an interesting topic.",
-      "Whether the text needs an animal heading.",
-      "Whether the events are in the correct order."
+      "purpose: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant",
+      "narrate: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant",
+      "Check that you can compare text types."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "The time order conflicts with the usual sequence of baking and eating that cake.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Check that you can compare text types. is the useful check. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
     "structuredExplanation": {
-      "summary": "The time order conflicts with the usual sequence of baking and eating that cake.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Check that you can compare text types. is the useful check. Ask what the text is doing, not only what it is about.",
+      "hint": "Ask what the text is doing, not only what it is about."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-013",
+    "id": "ac9e1la03-t-013",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A report is about what turtles eat. Which added sentence stays with the topic?",
-    "audioPrompt": "A report is about what turtles eat. Which added sentence stays with the topic?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Do not ask what the text is doing, not only what it is about.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not ask what the text is doing, not only what it is about.. Which answer would improve their response?",
+    "visual": "📖 show two openings; 🔎 purpose; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two openings; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001",
+      "alt_text": "📖 show two openings; 🔎 purpose; ✅ choose with evidence"
     },
     "answers": [
-      "Some turtles eat plants and small animals.",
-      "Yesterday my toy turtle fell off my bed.",
-      "I wish all turtles could sing."
+      "Narrative introduces character/setting/event; report introduces factual topic",
+      "Do not ask what the text is doing, not only what it is about.",
+      "Do not match structure to purpose."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "The first sentence adds relevant factual information.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Narrative introduces character/setting/event; report introduces factual topic is the stronger response because it uses the target skill. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
     "structuredExplanation": {
-      "summary": "The first sentence adds relevant factual information.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Narrative introduces character/setting/event; report introduces factual topic is the stronger response because it uses the target skill. Ask what the text is doing, not only what it is about.",
+      "hint": "Ask what the text is doing, not only what it is about."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-014",
+    "id": "ac9e1la03-t-014",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "A writer has a story ending: 'At last the lost puppy found its owner.' Which earlier event connects to it?",
-    "audioPrompt": "A writer has a story ending: 'At last the lost puppy found its owner.' Which earlier event connects to it?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Do not match structure to purpose.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not match structure to purpose.. Which answer would improve their response?",
+    "visual": "📖 Draw a compare-plan; 🔎 recount; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a compare-plan; 🔎 recount; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-003",
+      "alt_text": "📖 Draw a compare-plan; 🔎 recount; ✅ choose with evidence"
     },
     "answers": [
-      "Puppies have four legs.",
-      "The puppy wandered away from its owner.",
-      "The puppy learnt the names of shapes."
+      "Do not match structure to purpose.",
+      "Recount shows chronological events; explanation shows ordered steps/causes leading to an outcome",
+      "Leave out evidence."
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "Wandering away sets up the problem solved by finding the owner.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Recount shows chronological events; explanation shows ordered steps/causes leading to an outcome is the stronger response because it uses the target skill. Match structure to purpose.\nHint: Match structure to purpose.",
     "structuredExplanation": {
-      "summary": "Wandering away sets up the problem solved by finding the owner.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Recount shows chronological events; explanation shows ordered steps/causes leading to an outcome is the stronger response because it uses the target skill. Match structure to purpose.",
+      "hint": "Match structure to purpose."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-015",
+    "id": "ac9e1la03-t-015",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "Text A lists facts about rain. Text B tells what a child did on one rainy afternoon. How should they be organised differently?",
-    "audioPrompt": "Text A lists facts about rain. Text B tells what a child did on one rainy afternoon. How should they be organised differently?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “Leave out evidence.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Leave out evidence.. Which answer would improve their response?",
+    "visual": "📖 Correct a mixed structure; 🔎 narrate; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a mixed structure; 🔎 narrate; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-005",
+      "alt_text": "📖 Correct a mixed structure; 🔎 narrate; ✅ choose with evidence"
     },
     "answers": [
-      "A needs a made-up hero; B needs only headings.",
-      "Both must list facts in alphabetical order.",
-      "A groups facts; B follows the afternoon's events."
+      "Leave out evidence.",
+      "Do not ask what the text is doing, not only what it is about.",
+      "Adds/clarifies opening and problem, orders events toward resolution, removes or integrates unrelated facts"
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "An information text groups facts, while a recount follows events through time.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Adds/clarifies opening and problem, orders events toward resolution, removes or integrates unrelated facts is the stronger response because it uses the target skill. Point to a heading, time word, fact or opinion word.\nHint: Point to a heading, time word, fact or opinion word.",
     "structuredExplanation": {
-      "summary": "An information text groups facts, while a recount follows events through time.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Adds/clarifies opening and problem, orders events toward resolution, removes or integrates unrelated facts is the stronger response because it uses the target skill. Point to a heading, time word, fact or opinion word.",
+      "hint": "Point to a heading, time word, fact or opinion word."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-er1-t-016",
+    "id": "ac9e1la03-t-016",
     "curriculumCode": "AC9E1LA03",
     "bank": "test",
-    "skill": "text organisation matched to purpose",
+    "skill": "ac9e1la03 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "A writer adds 'because it saves water' after 'We should turn off dripping taps.' What does the addition do?",
-    "audioPrompt": "A writer adds 'because it saves water' after 'We should turn off dripping taps.' What does the addition do?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A classmate chose “purpose: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose purpose: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant. Which answer would improve their response?",
+    "visual": "📖 Plan three purposes; 🔎 inform; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Plan three purposes; 🔎 inform; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-007\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-007",
+      "alt_text": "📖 Plan three purposes; 🔎 inform; ✅ choose with evidence"
     },
     "answers": [
-      "Gives a reason supporting the opinion.",
-      "Introduces the setting of a fantasy story.",
-      "Tells the final event of a trip."
+      "Recount: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant",
+      "purpose: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant",
+      "narrate: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant"
     ],
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "The saving of water explains why the proposed action is worthwhile.\nHint: Read the whole example and check what the question asks.",
+    "explanation": "Recount: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant is the stronger response because it uses the target skill. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
     "structuredExplanation": {
-      "summary": "The saving of water explains why the proposed action is worthwhile.",
-      "hint": "Read the whole example and check what the question asks."
+      "summary": "Recount: timed events; report: grouped facts/headings; opinion: view, reasons, conclusion, all topic-relevant is the stronger response because it uses the target skill. Ask what the text is doing, not only what it is about.",
+      "hint": "Ask what the text is doing, not only what it is about."
     },
     "qualitySchema": "production-v1"
   }
