@@ -1,2730 +1,1687 @@
 [
   {
-    "id": "ac9s1i05-p-001",
-    "curriculumCode": "AC9S1I05",
+    "id": "ac9s1i05-r3-p-001",
+    "curriculum_code": "AC9S1I05",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Prediction: “The sunny ice cube will melt first.” Result: the sunny cube melted first. What happened?",
-    "audioPrompt": "Prediction: “The sunny ice cube will melt first.” Result: the sunny cube melted first. What happened?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A child predicted the sunny puddle would dry first. It did dry first. How does the result compare?",
+    "audio_prompt": "A child predicted the sunny puddle would dry first. It did dry first. How does the result compare?",
     "answers": [
       {
-        "text": "The result supported the prediction.",
+        "text": "It matches the prediction this time.",
         "is_correct": true
       },
       {
-        "text": "The prediction was wrong.",
+        "text": "It is the opposite of the prediction.",
         "is_correct": false
       },
       {
-        "text": "No comparison is possible.",
-        "is_correct": false
-      },
-      {
-        "text": "The result should be changed.",
+        "text": "It tells us nothing about drying.",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "The observed result matched what was predicted.\nHint: Did the result match the expectation?",
-    "structuredExplanation": {
-      "summary": "The observed result matched what was predicted.",
-      "hint": "Did the result match the expectation?"
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The observed outcome matches the expected outcome in this test.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-002",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i05-p-002",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Prediction: “The red car will roll farther.” Result: the blue car rolled farther. What happened?",
-    "audioPrompt": "Prediction: “The red car will roll farther.” Result: the blue car rolled farther. What happened?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A child predicted the red car would go farther. The blue car went farther. What should they say?",
+    "audio_prompt": "A child predicted the red car would go farther. The blue car went farther. What should they say?",
+    "answers": [
+      {
+        "text": "The red car went farther because I expected it.",
+        "is_correct": false
+      },
+      {
+        "text": "The result did not match my prediction.",
+        "is_correct": true
+      },
+      {
+        "text": "The result matched because a car moved.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The comparison must use what actually happened, not just whether something moved.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "The prediction was proved.",
-        "is_correct": false
-      },
-      {
-        "text": "Both cars rolled equally.",
-        "is_correct": false
-      },
-      {
-        "text": "The result should be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The result did not support the prediction.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The observed result was different from the prediction.\nHint: Compare expected with observed.",
-    "structuredExplanation": {
-      "summary": "The observed result was different from the prediction.",
-      "hint": "Compare expected with observed."
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-003",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i05-p-003",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence is a result?",
-    "audioPrompt": "Which sentence is a result?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Two children watched the same bird. Both recorded that it flew to a branch. How do their observations compare?",
+    "audio_prompt": "Two children watched the same bird. Both recorded that it flew to a branch. How do their observations compare?",
+    "answers": [
+      {
+        "text": "They disagree about where it went.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither child made an observation.",
+        "is_correct": false
+      },
+      {
+        "text": "They agree about where it went.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both records describe the same movement to a branch.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "I think the sponge will win.",
-        "is_correct": false
-      },
-      {
-        "text": "The sponge is my favourite.",
-        "is_correct": false
-      },
-      {
-        "text": "The sponge absorbed 18 drops.",
-        "is_correct": true
-      },
-      {
-        "text": "The sponge may absorb more.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A result reports what happened during the investigation.\nHint: Which event is complete?",
-    "structuredExplanation": {
-      "summary": "A result reports what happened during the investigation.",
-      "hint": "Which event is complete?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-004",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i05-p-004",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence compares prediction and result?",
-    "audioPrompt": "Which sentence compares prediction and result?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A class predicted a paper cover would keep a toy dry. The toy became wet. What does the result show?",
+    "audio_prompt": "A class predicted a paper cover would keep a toy dry. The toy became wet. What does the result show?",
     "answers": [
       {
-        "text": "Both cars have wheels.",
-        "is_correct": false
-      },
-      {
-        "text": "I predicted A would roll farther, but B travelled farther.",
+        "text": "The cover did not keep it dry in this test.",
         "is_correct": true
       },
       {
-        "text": "Car A is red.",
+        "text": "The cover kept it dry in this test.",
         "is_correct": false
       },
       {
-        "text": "I like car B.",
+        "text": "The prediction must have been about colour.",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "The sentence places the expectation beside the observed outcome.\nHint: Look for “predicted…but…”.",
-    "structuredExplanation": {
-      "summary": "The sentence places the expectation beside the observed outcome.",
-      "hint": "Look for “predicted…but…”."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The observed wetness does not match the prediction of staying dry.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-005",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i05-p-005",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "If a prediction matches one result, is it guaranteed forever?",
-    "audioPrompt": "If a prediction matches one result, is it guaranteed forever?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A child records a surprising result. Should it be kept?",
+    "audio_prompt": "A child records a surprising result. Should it be kept?",
     "answers": [
       {
-        "text": "No, more results may be different.",
+        "text": "No, it should be replaced with the prediction.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, it is part of what happened.",
         "is_correct": true
       },
       {
-        "text": "Yes, one match proves always.",
-        "is_correct": false
-      },
-      {
-        "text": "Only if the object is blue.",
-        "is_correct": false
-      },
-      {
-        "text": "Only on Mondays.",
+        "text": "No, only expected results belong in the record.",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "A single matching result supports a prediction in that test but does not guarantee every future result.\nHint: One result is not forever.",
-    "structuredExplanation": {
-      "summary": "A single matching result supports a prediction in that test but does not guarantee every future result.",
-      "hint": "One result is not forever."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Unexpected observations are still evidence to compare with the prediction.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-006",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i05-p-006",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which word means repeated results are similar?",
-    "audioPrompt": "Which word means repeated results are similar?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A class compares two towels using the same amount of water on each. What is this helping them do?",
+    "audio_prompt": "A class compares two towels using the same amount of water on each. What is this helping them do?",
     "answers": [
       {
-        "text": "invisible",
+        "text": "ensure both towels absorb equally",
         "is_correct": false
       },
       {
-        "text": "randomly chosen",
+        "text": "avoid looking at the results",
         "is_correct": false
       },
       {
-        "text": "decorative",
-        "is_correct": false
-      },
-      {
-        "text": "consistent",
+        "text": "make the comparison fairer",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Consistent results are similar across repeated trials.\nHint: Similar repeated results.",
-    "structuredExplanation": {
-      "summary": "Consistent results are similar across repeated trials.",
-      "hint": "Similar repeated results."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Using the same amount helps compare the towels; it does not guarantee equal results.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-007",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i05-p-007",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Trials give 42 cm, 40 cm, 41 cm. These results are:",
-    "audioPrompt": "Trials give 42 cm, 40 cm, 41 cm. These results are:",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A ball rolled farther than predicted. What should be compared?",
+    "audio_prompt": "A ball rolled farther than predicted. What should be compared?",
     "answers": [
       {
-        "text": "not measurements",
-        "is_correct": false
-      },
-      {
-        "text": "all equal exactly",
-        "is_correct": false
-      },
-      {
-        "text": "fairly consistent",
+        "text": "the predicted travel and the observed travel",
         "is_correct": true
       },
       {
-        "text": "completely different",
+        "text": "the ball's colour and the child's name",
+        "is_correct": false
+      },
+      {
+        "text": "only the child's favourite result",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "The distances are close to one another.\nHint: Are the numbers similar?",
-    "structuredExplanation": {
-      "summary": "The distances are close to one another.",
-      "hint": "Are the numbers similar?"
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The comparison needs the same outcome in the prediction and the observation.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-008",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i05-p-008",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Trials give 20 cm, 55 cm, 23 cm. What should be noticed?",
-    "audioPrompt": "Trials give 20 cm, 55 cm, 23 cm. What should be noticed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A child's prediction matches one trial. What can they say?",
+    "audio_prompt": "A child's prediction matches one trial. What can they say?",
     "answers": [
       {
-        "text": "Distance cannot vary.",
+        "text": "No more observations are possible.",
         "is_correct": false
       },
       {
-        "text": "One result is much larger and may need checking.",
+        "text": "It matched in this trial.",
         "is_correct": true
       },
       {
-        "text": "All results are identical.",
-        "is_correct": false
-      },
-      {
-        "text": "The middle result must be deleted.",
+        "text": "It must match every future trial.",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "The 55 cm result differs strongly from the others and should be checked, not automatically removed.\nHint: Which value stands out?",
-    "structuredExplanation": {
-      "summary": "The 55 cm result differs strongly from the others and should be checked, not automatically removed.",
-      "hint": "Which value stands out?"
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One matching result supports the prediction for that trial, not every future situation.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-009",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i05-p-009",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which result should be recorded?",
-    "audioPrompt": "Which result should be recorded?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Read the prediction and result cards. Which statement fits?",
+    "audio_prompt": "Read the prediction and result cards. Which statement fits?",
     "answers": [
       {
-        "text": "Every real result, including one that does not match the prediction.",
-        "is_correct": true
-      },
-      {
-        "text": "Only results that match.",
+        "text": "The result matched the prediction.",
         "is_correct": false
       },
       {
-        "text": "Only the largest result.",
+        "text": "Only a prediction was recorded.",
         "is_correct": false
       },
       {
-        "text": "Only the favourite result.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Scientific records keep all relevant evidence.\nHint: Do not hide surprises.",
-    "structuredExplanation": {
-      "summary": "Scientific records keep all relevant evidence.",
-      "hint": "Do not hide surprises."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i05-p-010",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why repeat a simple trial?",
-    "audioPrompt": "Why repeat a simple trial?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "To force the prediction to win.",
-        "is_correct": false
-      },
-      {
-        "text": "To make the object change colour.",
-        "is_correct": false
-      },
-      {
-        "text": "To remove the need to record.",
-        "is_correct": false
-      },
-      {
-        "text": "To see whether the result is similar or varied across attempts.",
+        "text": "The result was the reverse of the prediction.",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Repeated trials provide more evidence about consistency.\nHint: More trials, more evidence.",
-    "structuredExplanation": {
-      "summary": "Repeated trials provide more evidence about consistency.",
-      "hint": "More trials, more evidence."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The prediction favoured A, while the observed result favoured B.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i05-p-011",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why keep the original prediction after the test?",
-    "audioPrompt": "Why keep the original prediction after the test?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+    "visual": {
+      "type": "svg",
+      "alt_text": "Prediction: Towel A will hold more water.. Result: Towel B held more water..",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-09.svg#model"
     },
-    "answers": [
-      {
-        "text": "Because predictions are always correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Because results do not matter.",
-        "is_correct": false
-      },
-      {
-        "text": "So it can be honestly compared with the result.",
-        "is_correct": true
-      },
-      {
-        "text": "So the result can be changed to match it.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The original prediction shows what was expected before evidence was known.\nHint: Do not rewrite history.",
-    "structuredExplanation": {
-      "summary": "The original prediction shows what was expected before evidence was known.",
-      "hint": "Do not rewrite history."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-010",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i05-p-012",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “My prediction was wrong, so the investigation failed” a poor conclusion?",
-    "audioPrompt": "Why is “My prediction was wrong, so the investigation failed” a poor conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Two children counted insects in different garden patches. Their counts differ. What could help explain the difference?",
+    "audio_prompt": "Two children counted insects in different garden patches. Their counts differ. What could help explain the difference?",
     "answers": [
       {
-        "text": "Wrong predictions should be erased.",
-        "is_correct": false
-      },
-      {
-        "text": "Unexpected evidence can still teach us something.",
+        "text": "They observed different places.",
         "is_correct": true
       },
       {
-        "text": "Predictions must always be right.",
+        "text": "One child must have changed the record.",
         "is_correct": false
       },
       {
-        "text": "Investigations only count when guesses win.",
+        "text": "Different counts are never possible.",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Science learns from whether results support or challenge predictions.\nHint: Learning can come from surprise.",
-    "structuredExplanation": {
-      "summary": "Science learns from whether results support or challenge predictions.",
-      "hint": "Learning can come from surprise."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different locations can contain different numbers, so disagreement need not mean dishonesty.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-011",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i05-p-013",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why use all three trial results instead of choosing the one you like?",
-    "audioPrompt": "Why use all three trial results instead of choosing the one you like?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A child tests a strong push and a gentle push, but changes the car too. What makes the comparison unclear?",
+    "audio_prompt": "A child tests a strong push and a gentle push, but changes the car too. What makes the comparison unclear?",
     "answers": [
       {
-        "text": "All relevant evidence gives a more honest picture of what happened.",
+        "text": "the cars were tested in the same room",
+        "is_correct": false
+      },
+      {
+        "text": "both the push and the car changed",
         "is_correct": true
       },
       {
-        "text": "The highest number is always best.",
-        "is_correct": false
-      },
-      {
-        "text": "One result always represents every trial.",
-        "is_correct": false
-      },
-      {
-        "text": "Favourite results are more scientific.",
+        "text": "the child wrote down both results",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "Selecting only preferred evidence can misrepresent the investigation.\nHint: Use the full record.",
-    "structuredExplanation": {
-      "summary": "Selecting only preferred evidence can misrepresent the investigation.",
-      "hint": "Use the full record."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The difference could be connected to either change, so it is hard to compare push strength alone.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-012",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i05-p-014",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why might repeated results vary a little?",
-    "audioPrompt": "Why might repeated results vary a little?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A paper bridge held fewer counters than expected. Which next question follows?",
+    "audio_prompt": "A paper bridge held fewer counters than expected. Which next question follows?",
     "answers": [
       {
-        "text": "Science requires exactly identical numbers.",
+        "text": "Which child likes bridges best?",
         "is_correct": false
       },
       {
-        "text": "Variation means every trial is useless.",
+        "text": "What colour is the classroom door?",
         "is_correct": false
       },
       {
-        "text": "Numbers change because they are written down.",
-        "is_correct": false
-      },
-      {
-        "text": "Small differences can come from normal variation or small changes in how the test was done.",
+        "text": "Would folding the paper help it hold more counters?",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Real investigations often show some variation.\nHint: Similar does not mean identical.",
-    "structuredExplanation": {
-      "summary": "Real investigations often show some variation.",
-      "hint": "Similar does not mean identical."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The question follows the observed weakness and suggests a related test.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-013",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i05-p-015",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why should an unusual result be checked before being removed?",
-    "audioPrompt": "Why should an unusual result be checked before being removed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Two observers watched the same plant at different times of day. One recorded more open flowers. What should they check?",
+    "audio_prompt": "Two observers watched the same plant at different times of day. One recorded more open flowers. What should they check?",
     "answers": [
       {
-        "text": "Only average results count.",
-        "is_correct": false
-      },
-      {
-        "text": "Removing data makes predictions stronger.",
-        "is_correct": false
-      },
-      {
-        "text": "It may be real, or it may reveal a measurement or procedure problem.",
+        "text": "whether the flowers changed between those times",
         "is_correct": true
       },
       {
-        "text": "Unusual results are always wrong.",
+        "text": "which observer has the neater writing",
+        "is_correct": false
+      },
+      {
+        "text": "whether to erase the smaller count",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Outliers need investigation rather than automatic deletion.\nHint: Check before deciding.",
-    "structuredExplanation": {
-      "summary": "Outliers need investigation rather than automatic deletion.",
-      "hint": "Check before deciding."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The observation times may explain the different records.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-014",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i05-p-016",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A prediction was supported in four similar trials. What is a careful statement?",
-    "audioPrompt": "A prediction was supported in four similar trials. What is a careful statement?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A child gives towel A ten drops and towel B twenty drops. Can that alone show which towel absorbs more under equal conditions?",
+    "audio_prompt": "A child gives towel A ten drops and towel B twenty drops. Can that alone show which towel absorbs more under equal conditions?",
     "answers": [
       {
-        "text": "Every object will behave the same.",
+        "text": "Yes, because twenty is a larger number.",
         "is_correct": false
       },
       {
-        "text": "The evidence supported the prediction in these trials.",
+        "text": "No, the water amounts differ.",
         "is_correct": true
       },
       {
-        "text": "The prediction is true forever.",
-        "is_correct": false
-      },
-      {
-        "text": "No more evidence could ever matter.",
+        "text": "Yes, because both towels received water.",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Strong wording should stay within the evidence collected.\nHint: These trials, not all possible trials.",
-    "structuredExplanation": {
-      "summary": "Strong wording should stay within the evidence collected.",
-      "hint": "These trials, not all possible trials."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The starting amounts differ, so this is not an equal comparison of the towels.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-015",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i05-p-017",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why compare observations with the prediction using the same outcome?",
-    "audioPrompt": "Why compare observations with the prediction using the same outcome?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "The results are A farther, B farther, then equal. What should the class report?",
+    "audio_prompt": "The results are A farther, B farther, then equal. What should the class report?",
+    "answers": [
+      {
+        "text": "A went farther in every trial",
+        "is_correct": false
+      },
+      {
+        "text": "B went farther in every trial",
+        "is_correct": false
+      },
+      {
+        "text": "the results were mixed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The report must include all three outcomes, not select just one.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "You need to compare like with like.",
-        "is_correct": true
-      },
-      {
-        "text": "Any result can test any prediction.",
-        "is_correct": false
-      },
-      {
-        "text": "Colour can test distance.",
-        "is_correct": false
-      },
-      {
-        "text": "Opinions can replace measurements.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "A distance prediction needs distance results, a time prediction needs time results, and so on.\nHint: Same outcome.",
-    "structuredExplanation": {
-      "summary": "A distance prediction needs distance results, a time prediction needs time results, and so on.",
-      "hint": "Same outcome."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-016",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i05-p-018",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why might a class repeat a test after an accidental bump?",
-    "audioPrompt": "Why might a class repeat a test after an accidental bump?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A seedling grew towards a window. Which further question explores that observation?",
+    "audio_prompt": "A seedling grew towards a window. Which further question explores that observation?",
+    "answers": [
+      {
+        "text": "Would it grow towards light from another direction?",
+        "is_correct": true
+      },
+      {
+        "text": "Which pot has the nicest pattern?",
+        "is_correct": false
+      },
+      {
+        "text": "How many letters are in 'window'?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question follows the observed relationship between light and growth direction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Accidents improve science.",
-        "is_correct": false
-      },
-      {
-        "text": "The first result must be fake.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeating guarantees the prediction.",
-        "is_correct": false
-      },
-      {
-        "text": "The bump may have changed the result, so a controlled repeat gives better evidence.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "A known disturbance can make a trial less comparable.\nHint: Control what you can.",
-    "structuredExplanation": {
-      "summary": "A known disturbance can make a trial less comparable.",
-      "hint": "Control what you can."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-017",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i05-p-019",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why should a conclusion mention when a prediction was not supported?",
-    "audioPrompt": "Why should a conclusion mention when a prediction was not supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Read the two observers' cards. What do they agree on?",
+    "audio_prompt": "Read the two observers' cards. What do they agree on?",
     "answers": [
       {
-        "text": "It hides the evidence.",
+        "text": "both the count and the place",
         "is_correct": false
       },
       {
-        "text": "It proves the opposite forever.",
-        "is_correct": false
-      },
-      {
-        "text": "It accurately describes the relationship between expectation and evidence.",
+        "text": "the number of snails",
         "is_correct": true
       },
       {
-        "text": "It makes the prediction stronger.",
+        "text": "the place where the snails were",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Honest conclusions state whether evidence matched the prediction.\nHint: Say what the data showed.",
-    "structuredExplanation": {
-      "summary": "Honest conclusions state whether evidence matched the prediction.",
-      "hint": "Say what the data showed."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both recorded four snails, but at different locations.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i05-p-020",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “supported” often better than “proved” after a simple Year 1 test?",
-    "audioPrompt": "Why is “supported” often better than “proved” after a simple Year 1 test?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+    "visual": {
+      "type": "svg",
+      "alt_text": "Observer 1: 4 snails on the wall. Observer 2: 4 snails beside the gate.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-17.svg#model"
     },
-    "answers": [
-      {
-        "text": "Proved is required for every test.",
-        "is_correct": false
-      },
-      {
-        "text": "A small investigation gives evidence but usually cannot rule out every other result.",
-        "is_correct": true
-      },
-      {
-        "text": "Science never uses evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Supported means wrong.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "“Supported” reflects the limited amount of evidence more carefully.\nHint: Evidence can support without guaranteeing.",
-    "structuredExplanation": {
-      "summary": "“Supported” reflects the limited amount of evidence more carefully.",
-      "hint": "Evidence can support without guaranteeing."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i05-p-021",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Prediction: ball A farther. Trials: A 60/B 45, A 62/B 44, A 59/B 46. Best conclusion?",
-    "audioPrompt": "Prediction: ball A farther. Trials: A 60/B 45, A 62/B 44, A 59/B 46. Best conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The results consistently supported the prediction in these trials.",
-        "is_correct": true
-      },
-      {
-        "text": "B rolled farther.",
-        "is_correct": false
-      },
-      {
-        "text": "The prediction is true forever.",
-        "is_correct": false
-      },
-      {
-        "text": "The numbers should be averaged into one car.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "All three trials show A travelling farther than B.\nHint: Compare each pair.",
-    "structuredExplanation": {
-      "summary": "All three trials show A travelling farther than B.",
-      "hint": "Compare each pair."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i05-p-022",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Prediction: towel A absorbs more. Results: A 8 drops, B 14 drops. Best conclusion?",
-    "audioPrompt": "Prediction: towel A absorbs more. Results: A 8 drops, B 14 drops. Best conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A absorbed more.",
-        "is_correct": false
-      },
-      {
-        "text": "The test has no result.",
-        "is_correct": false
-      },
-      {
-        "text": "Change 8 to 18.",
-        "is_correct": false
-      },
-      {
-        "text": "The result did not support the prediction.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "B absorbed more than A, opposite to the prediction.\nHint: Which total is larger?",
-    "structuredExplanation": {
-      "summary": "B absorbed more than A, opposite to the prediction.",
-      "hint": "Which total is larger?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i05-p-023",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which conclusion is too strong?",
-    "audioPrompt": "Which conclusion is too strong?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "“Our prediction was supported this time.”",
-        "is_correct": false
-      },
-      {
-        "text": "“We could repeat the test.”",
-        "is_correct": false
-      },
-      {
-        "text": "“The sunny puddle dried first once, so sunny puddles always dry first.”",
-        "is_correct": true
-      },
-      {
-        "text": "“The sunny puddle dried first in this test.”",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "One result cannot justify “always”.\nHint: Watch absolute words.",
-    "structuredExplanation": {
-      "summary": "One result cannot justify “always”.",
-      "hint": "Watch absolute words."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i05-p-024",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Repeated distances are 30,31,29,30 cm. Which description fits?",
-    "audioPrompt": "Repeated distances are 30,31,29,30 cm. Which description fits?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The prediction must be wrong.",
-        "is_correct": false
-      },
-      {
-        "text": "Results are very similar across trials.",
-        "is_correct": true
-      },
-      {
-        "text": "Results are wildly different.",
-        "is_correct": false
-      },
-      {
-        "text": "No result should be kept.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The measurements cluster closely around 30 cm.\nHint: How spread out are they?",
-    "structuredExplanation": {
-      "summary": "The measurements cluster closely around 30 cm.",
-      "hint": "How spread out are they?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i05-p-025",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Results are 12,13,40,12 seconds. What should be checked first?",
-    "audioPrompt": "Results are 12,13,40,12 seconds. What should be checked first?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Whether the 40-second trial used the same method.",
-        "is_correct": true
-      },
-      {
-        "text": "Delete 40 immediately.",
-        "is_correct": false
-      },
-      {
-        "text": "Change 40 to 13.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore all four.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "The large difference may have a real cause or a procedure issue.\nHint: Investigate the unusual trial.",
-    "structuredExplanation": {
-      "summary": "The large difference may have a real cause or a procedure issue.",
-      "hint": "Investigate the unusual trial."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i05-p-026",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which student uses evidence honestly?",
-    "audioPrompt": "Which student uses evidence honestly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Noah erases the unexpected trial.",
-        "is_correct": false
-      },
-      {
-        "text": "Mia changes her prediction after seeing the result and says it was original.",
-        "is_correct": false
-      },
-      {
-        "text": "Leo records only the highest number.",
-        "is_correct": false
-      },
-      {
-        "text": "Ava records the result even though it does not match her prediction.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Ava keeps the actual evidence and original prediction.\nHint: Who preserves the real record?",
-    "structuredExplanation": {
-      "summary": "Ava keeps the actual evidence and original prediction.",
-      "hint": "Who preserves the real record?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i05-p-027",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement confuses support with proof?",
-    "audioPrompt": "Which statement confuses support with proof?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "“More trials could add evidence.”",
-        "is_correct": false
-      },
-      {
-        "text": "“The result matched this time.”",
-        "is_correct": false
-      },
-      {
-        "text": "“One matching result proves this will happen every time.”",
-        "is_correct": true
-      },
-      {
-        "text": "“This result supports my prediction.”",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "One matching result is not enough for a universal guarantee.\nHint: Proof forever is too strong.",
-    "structuredExplanation": {
-      "summary": "One matching result is not enough for a universal guarantee.",
-      "hint": "Proof forever is too strong."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i05-p-028",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A prediction is about melting time. Which result is relevant?",
-    "audioPrompt": "A prediction is about melting time. Which result is relevant?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Favourite cube",
-        "is_correct": false
-      },
-      {
-        "text": "Minutes until each ice cube melted",
-        "is_correct": true
-      },
-      {
-        "text": "Colour of the tray",
-        "is_correct": false
-      },
-      {
-        "text": "Number of children watching",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Melting time directly checks the predicted outcome.\nHint: Same outcome.",
-    "structuredExplanation": {
-      "summary": "Melting time directly checks the predicted outcome.",
-      "hint": "Same outcome."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i05-p-029",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which repeat is fairest after a car-roll trial?",
-    "audioPrompt": "Which repeat is fairest after a car-roll trial?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Reset the same ramp and start line, then roll again.",
-        "is_correct": true
-      },
-      {
-        "text": "Use a different ramp each time.",
-        "is_correct": false
-      },
-      {
-        "text": "Push much harder in the repeat.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the surface.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Keeping the setup similar makes repeated results more comparable.\nHint: Repeat the same method.",
-    "structuredExplanation": {
-      "summary": "Keeping the setup similar makes repeated results more comparable.",
-      "hint": "Repeat the same method."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i05-p-030",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which phrase best describes mixed results?",
-    "audioPrompt": "Which phrase best describes mixed results?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The prediction definitely won.",
-        "is_correct": false
-      },
-      {
-        "text": "All trials were identical.",
-        "is_correct": false
-      },
-      {
-        "text": "Mixed results must be hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "Some trials supported the prediction and some did not.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Mixed results should be described accurately rather than forced into one outcome.\nHint: Say what happened across trials.",
-    "structuredExplanation": {
-      "summary": "Mixed results should be described accurately rather than forced into one outcome.",
-      "hint": "Say what happened across trials."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i05-p-031",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Prediction: “The larger parachute will fall more slowly.” Three trials show larger parachute slower each time. Best conclusion?",
-    "audioPrompt": "Prediction: “The larger parachute will fall more slowly.” Three trials show larger parachute slower each time. Best conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The smaller one was secretly better.",
-        "is_correct": false
-      },
-      {
-        "text": "Three trials prove every future test.",
-        "is_correct": false
-      },
-      {
-        "text": "The results supported the prediction in all three trials.",
-        "is_correct": true
-      },
-      {
-        "text": "Large parachutes always fall slower everywhere.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The conclusion accurately limits itself to the observed trials.\nHint: Use evidence without overclaiming.",
-    "structuredExplanation": {
-      "summary": "The conclusion accurately limits itself to the observed trials.",
-      "hint": "Use evidence without overclaiming."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-018",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i05-p-032",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A class predicted warm water would dissolve sugar faster. One trial showed cool water faster because the warm cup was accidentally bumped. What should they do?",
-    "audioPrompt": "A class predicted warm water would dissolve sugar faster. One trial showed cool water faster because the warm cup was accidentally bumped. What should they do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A group wants to compare two ramp heights. What should it keep the same with guidance?",
+    "audio_prompt": "A group wants to compare two ramp heights. What should it keep the same with guidance?",
     "answers": [
       {
-        "text": "Declare the prediction false forever.",
+        "text": "the height of both ramps",
         "is_correct": false
       },
       {
-        "text": "Record the trial, note the bump, then repeat under controlled conditions.",
-        "is_correct": true
-      },
-      {
-        "text": "Erase the result.",
+        "text": "only the names of the children",
         "is_correct": false
       },
       {
-        "text": "Pretend the bump did not happen.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Known interference should be documented and the test repeated fairly.\nHint: Keep the evidence and improve the repeat.",
-    "structuredExplanation": {
-      "summary": "Known interference should be documented and the test repeated fairly.",
-      "hint": "Keep the evidence and improve the repeat."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i05-p-033",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Five plant-height changes are 2,2,3,2,2 cm. What can the class say?",
-    "audioPrompt": "Five plant-height changes are 2,2,3,2,2 cm. What can the class say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Growth was similar across these measurements, with one slightly larger change.",
-        "is_correct": true
-      },
-      {
-        "text": "Every plant grows exactly 2 cm.",
-        "is_correct": false
-      },
-      {
-        "text": "The 3 must be wrong.",
-        "is_correct": false
-      },
-      {
-        "text": "Growth can never vary.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "The data are mostly similar with modest variation.\nHint: Describe the pattern honestly.",
-    "structuredExplanation": {
-      "summary": "The data are mostly similar with modest variation.",
-      "hint": "Describe the pattern honestly."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i05-p-034",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A result disagrees with a prediction. Which reflection is strongest?",
-    "audioPrompt": "A result disagrees with a prediction. Which reflection is strongest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The result does not count.",
-        "is_correct": false
-      },
-      {
-        "text": "I was right because I guessed first.",
-        "is_correct": false
-      },
-      {
-        "text": "I will change the numbers.",
-        "is_correct": false
-      },
-      {
-        "text": "My prediction was not supported today; I should consider what the result suggests and test again.",
+        "text": "the car and the place it rolls onto",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Scientific reflection uses unexpected evidence to guide next questions.\nHint: Evidence can change your thinking.",
-    "structuredExplanation": {
-      "summary": "Scientific reflection uses unexpected evidence to guide next questions.",
-      "hint": "Evidence can change your thinking."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keeping the car and surface the same helps focus the comparison on ramp height.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i05-p-035",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Trials for two balls: trial 1 A farther, trial 2 B farther, trial 3 equal. Best conclusion?",
-    "audioPrompt": "Trials for two balls: trial 1 A farther, trial 2 B farther, trial 3 equal. Best conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "B definitely wins.",
-        "is_correct": false
-      },
-      {
-        "text": "Equal forever.",
-        "is_correct": false
-      },
-      {
-        "text": "The results were varied and did not show one ball consistently travelling farther.",
-        "is_correct": true
-      },
-      {
-        "text": "A definitely wins.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The three outcomes differ, so there is no consistent winner in these trials.\nHint: Look across all trials.",
-    "structuredExplanation": {
-      "summary": "The three outcomes differ, so there is no consistent winner in these trials.",
-      "hint": "Look across all trials."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-019",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i05-p-036",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A child forgot to start the timer until halfway through one trial. What should the record say?",
-    "audioPrompt": "A child forgot to start the timer until halfway through one trial. What should the record say?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A class predicted shade would keep ice longer. One shaded cube was much larger than the sunny cube. What should they question?",
+    "audio_prompt": "A class predicted shade would keep ice longer. One shaded cube was much larger than the sunny cube. What should they question?",
+    "answers": [
+      {
+        "text": "whether cube size made the comparison unfair",
+        "is_correct": true
+      },
+      {
+        "text": "whether the prediction was written neatly",
+        "is_correct": false
+      },
+      {
+        "text": "whether shade has a shorter name",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different starting sizes could affect how long the cubes last.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Hide the mistake.",
-        "is_correct": false
-      },
-      {
-        "text": "Mark that trial as affected by a timing problem and repeat it correctly.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep the time as fully reliable.",
-        "is_correct": false
-      },
-      {
-        "text": "Change it to match other times.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Documenting a known measurement issue supports honest interpretation.\nHint: Record the problem.",
-    "structuredExplanation": {
-      "summary": "Documenting a known measurement issue supports honest interpretation.",
-      "hint": "Record the problem."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-020",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i05-p-037",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A prediction says “paper will absorb more than foil”. Results are paper 20 drops, foil 2 drops. What is the best evidence statement?",
-    "audioPrompt": "A prediction says “paper will absorb more than foil”. Results are paper 20 drops, foil 2 drops. What is the best evidence statement?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A leaf with holes is found beside an unmarked leaf. Which question could extend the investigation?",
+    "audio_prompt": "A leaf with holes is found beside an unmarked leaf. Which question could extend the investigation?",
+    "answers": [
+      {
+        "text": "Which child owns the green pencil?",
+        "is_correct": false
+      },
+      {
+        "text": "Will more holes appear if we keep observing these leaves?",
+        "is_correct": true
+      },
+      {
+        "text": "Which leaf has the nicest name?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeated observations can explore whether the visible difference changes.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Paper absorbed 18 more drops than foil in this test.",
-        "is_correct": true
-      },
-      {
-        "text": "Paper is always the best material.",
-        "is_correct": false
-      },
-      {
-        "text": "Foil cannot absorb anything ever.",
-        "is_correct": false
-      },
-      {
-        "text": "The prediction caused the result.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "The numerical comparison stays close to the observed evidence.\nHint: State the measured difference.",
-    "structuredExplanation": {
-      "summary": "The numerical comparison stays close to the observed evidence.",
-      "hint": "State the measured difference."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-021",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "practice",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Use the trial record. Which conclusion uses every result?",
+    "audio_prompt": "Use the trial record. Which conclusion uses every result?",
+    "answers": [
+      {
+        "text": "A went farther in all three trials.",
+        "is_correct": false
+      },
+      {
+        "text": "B went farther in all three trials.",
+        "is_correct": false
+      },
+      {
+        "text": "A went farther twice, and B went farther once.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The conclusion must preserve both the repeated result and the different result.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Trial 1: Car A went farther.. Trial 2: Car B went farther.. Trial 3: Car A went farther..",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-21.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-p-038",
-    "curriculumCode": "AC9S1I05",
+    "id": "ac9s1i05-r3-p-022",
+    "curriculum_code": "AC9S1I05",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Repeated bird counts are 4,7,4,6. Which conclusion is safest?",
-    "audioPrompt": "Repeated bird counts are 4,7,4,6. Which conclusion is safest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Two children disagree about a count from the same photo. What could help?",
+    "audio_prompt": "Two children disagree about a count from the same photo. What could help?",
+    "answers": [
+      {
+        "text": "look at the photo together and count carefully",
+        "is_correct": true
+      },
+      {
+        "text": "keep only the larger count without checking",
+        "is_correct": false
+      },
+      {
+        "text": "choose the count that matches the prediction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rechecking the shared evidence can help resolve the disagreement.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Exactly 5 birds usually come.",
-        "is_correct": false
-      },
-      {
-        "text": "Birds prefer even numbers.",
-        "is_correct": false
-      },
-      {
-        "text": "Tomorrow must be 4.",
-        "is_correct": false
-      },
-      {
-        "text": "Counts varied across observations, from 4 to 7.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The data directly show variation within a range of 4–7.\nHint: Describe what the numbers show.",
-    "structuredExplanation": {
-      "summary": "The data directly show variation within a range of 4–7.",
-      "hint": "Describe what the numbers show."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-023",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i05-p-039",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A class wants stronger evidence for a prediction after one matching trial. What should they do?",
-    "audioPrompt": "A class wants stronger evidence for a prediction after one matching trial. What should they do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A toy car stopped early because someone touched it. What should the class do?",
+    "audio_prompt": "A toy car stopped early because someone touched it. What should the class do?",
+    "answers": [
+      {
+        "text": "use it as proof that the ramp never works",
+        "is_correct": false
+      },
+      {
+        "text": "note the touch and repeat without it",
+        "is_correct": true
+      },
+      {
+        "text": "hide that trial and pretend it never happened",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The touch affected the trial. Recording it and repeating helps make a clearer comparison.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Change the question.",
-        "is_correct": false
-      },
-      {
-        "text": "Only record future matching trials.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeat the investigation using the same method.",
-        "is_correct": true
-      },
-      {
-        "text": "Stop because one match proves it.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Repeated trials provide more evidence about consistency.\nHint: Check again.",
-    "structuredExplanation": {
-      "summary": "Repeated trials provide more evidence about consistency.",
-      "hint": "Check again."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-p-024",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i05-p-040",
-    "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which conclusion best uses all results: 5,5,6,5?",
-    "audioPrompt": "Which conclusion best uses all results: 5,5,6,5?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A test shows water passed through cloth but not plastic. Which further question follows?",
+    "audio_prompt": "A test shows water passed through cloth but not plastic. Which further question follows?",
+    "answers": [
+      {
+        "text": "Which colour of pencil is most popular?",
+        "is_correct": false
+      },
+      {
+        "text": "How many chairs are in the room?",
+        "is_correct": false
+      },
+      {
+        "text": "Would another cloth keep more water out?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The question extends the observed difference in water resistance.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "One result matters more than the others.",
-        "is_correct": false
-      },
-      {
-        "text": "Results were very similar, with three 5s and one 6.",
-        "is_correct": true
-      },
-      {
-        "text": "The result was always 5.",
-        "is_correct": false
-      },
-      {
-        "text": "The 6 should be removed automatically.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The conclusion reports both the common result and the variation.\nHint: Use every recorded value.",
-    "structuredExplanation": {
-      "summary": "The conclusion reports both the common result and the variation.",
-      "hint": "Use every recorded value."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
+  },
+  {
+    "id": "ac9s1i05-r3-t-001",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i05-t-001",
-    "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Prediction: “The shade ice will last longer.” Result: shade ice lasted longer. What can be said?",
-    "audioPrompt": "Prediction: “The shade ice will last longer.” Result: shade ice lasted longer. What can be said?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A child predicted a folded bridge would hold more counters. It did. What is a careful statement?",
+    "audio_prompt": "A child predicted a folded bridge would hold more counters. It did. What is a careful statement?",
+    "answers": [
+      {
+        "text": "The prediction matched this test.",
+        "is_correct": true
+      },
+      {
+        "text": "Every folded bridge must always hold more.",
+        "is_correct": false
+      },
+      {
+        "text": "The result did not match the prediction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The result supports the prediction in the observed test without proving a universal rule.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "It proves every shaded ice cube lasts longer.",
-        "is_correct": false
-      },
-      {
-        "text": "The result should be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The prediction becomes an observation.",
-        "is_correct": false
-      },
-      {
-        "text": "The result supported the prediction in this test.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The observed outcome matched the prediction.\nHint: Match or not?",
-    "structuredExplanation": {
-      "summary": "The observed outcome matched the prediction.",
-      "hint": "Match or not?"
-    },
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I05",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-002",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A paper-plane prediction was not matched by the result. Best response?",
-    "audioPrompt": "A paper-plane prediction was not matched by the result. Best response?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Hide the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Say the prediction won.",
-        "is_correct": false
-      },
-      {
-        "text": "Record the real distance and compare it with the prediction.",
-        "is_correct": true
-      },
-      {
-        "text": "Change the distance.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Unexpected results are still evidence.\nHint: Keep the real result.",
-    "structuredExplanation": {
-      "summary": "Unexpected results are still evidence.",
-      "hint": "Keep the real result."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-002",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A child expected the large ball to roll farther, but the small ball did. What should be reported?",
+    "audio_prompt": "A child expected the large ball to roll farther, but the small ball did. What should be reported?",
+    "answers": [
+      {
+        "text": "the result must be left out",
+        "is_correct": false
+      },
+      {
+        "text": "the result did not match the prediction",
+        "is_correct": true
+      },
+      {
+        "text": "the large ball won because it was expected",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The report should compare the expectation with the actual outcome.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-003",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Trials are 15,16,15 cm. How do they compare?",
-    "audioPrompt": "Trials are 15,16,15 cm. How do they compare?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "One must be erased.",
-        "is_correct": false
-      },
-      {
-        "text": "They are very similar.",
-        "is_correct": true
-      },
-      {
-        "text": "They are unrelated.",
-        "is_correct": false
-      },
-      {
-        "text": "They prove exactly 15 forever.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The measurements differ by only 1 cm.\nHint: Small variation.",
-    "structuredExplanation": {
-      "summary": "The measurements differ by only 1 cm.",
-      "hint": "Small variation."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-003",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Read the observer cards. What is different?",
+    "audio_prompt": "Read the observer cards. What is different?",
+    "answers": [
+      {
+        "text": "the plant they observed",
+        "is_correct": false
+      },
+      {
+        "text": "the day they observed it",
+        "is_correct": false
+      },
+      {
+        "text": "their recorded leaf counts",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The cards show different counts for the same plant on the same day.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Observer A: Tuesday, Plant 1: 3 leaves. Observer B: Tuesday, Plant 1: 4 leaves.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-27.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-004",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Trials are 9,10,32,9. What deserves checking?",
-    "audioPrompt": "Trials are 9,10,32,9. What deserves checking?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The 32 result and the method used in that trial.",
-        "is_correct": true
-      },
-      {
-        "text": "Only the 9s.",
-        "is_correct": false
-      },
-      {
-        "text": "The prediction wording only.",
-        "is_correct": false
-      },
-      {
-        "text": "Nothing.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "32 stands out from the cluster of other results.\nHint: Find the unusual value.",
-    "structuredExplanation": {
-      "summary": "32 stands out from the cluster of other results.",
-      "hint": "Find the unusual value."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-004",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "One towel starts dry and the other starts wet. What should be questioned in an absorption comparison?",
+    "audio_prompt": "One towel starts dry and the other starts wet. What should be questioned in an absorption comparison?",
+    "answers": [
+      {
+        "text": "whether their starting conditions are fair",
+        "is_correct": true
+      },
+      {
+        "text": "whether their labels use the same ink",
+        "is_correct": false
+      },
+      {
+        "text": "whether both are called towels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The starting wetness differs and could affect the result.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-005",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why repeat a test?",
-    "audioPrompt": "Why repeat a test?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "To force agreement.",
-        "is_correct": false
-      },
-      {
-        "text": "To change the first result.",
-        "is_correct": false
-      },
-      {
-        "text": "To avoid recording.",
-        "is_correct": false
-      },
-      {
-        "text": "To see whether similar results occur again.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Repeats add evidence about consistency.\nHint: More evidence.",
-    "structuredExplanation": {
-      "summary": "Repeats add evidence about consistency.",
-      "hint": "More evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-005",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A child predicts a ball will bounce higher on a hard floor than a mat. What observation is relevant?",
+    "audio_prompt": "A child predicts a ball will bounce higher on a hard floor than a mat. What observation is relevant?",
+    "answers": [
+      {
+        "text": "how many children like the mat",
+        "is_correct": false
+      },
+      {
+        "text": "how high it bounces on each surface",
+        "is_correct": true
+      },
+      {
+        "text": "how brightly coloured the ball is",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence must address bounce height on the two surfaces.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-006",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which is a careful conclusion after one matching result?",
-    "audioPrompt": "Which is a careful conclusion after one matching result?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "No more evidence can matter.",
-        "is_correct": false
-      },
-      {
-        "text": "Everything similar must behave the same.",
-        "is_correct": false
-      },
-      {
-        "text": "The result supported my prediction this time.",
-        "is_correct": true
-      },
-      {
-        "text": "My prediction is proved forever.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The wording stays within the evidence.\nHint: This time.",
-    "structuredExplanation": {
-      "summary": "The wording stays within the evidence.",
-      "hint": "This time."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-006",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A class sees more insects under one log than another. Which further question follows?",
+    "audio_prompt": "A class sees more insects under one log than another. Which further question follows?",
+    "answers": [
+      {
+        "text": "Which log has the funniest name?",
+        "is_correct": false
+      },
+      {
+        "text": "Which child has the largest lunchbox?",
+        "is_correct": false
+      },
+      {
+        "text": "Would another similar log have more insects too?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The question extends the observed difference to another place.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-007",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Prediction: red ball farther. Results: red 50, blue 70. Which conclusion?",
-    "audioPrompt": "Prediction: red ball farther. Results: red 50, blue 70. Which conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "No result exists.",
-        "is_correct": false
-      },
-      {
-        "text": "The prediction was not supported.",
-        "is_correct": true
-      },
-      {
-        "text": "The red ball won.",
-        "is_correct": false
-      },
-      {
-        "text": "Both were equal.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Blue travelled farther.\nHint: Compare distances.",
-    "structuredExplanation": {
-      "summary": "Blue travelled farther.",
-      "hint": "Compare distances."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-007",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A result is different from what the group hoped. What should happen?",
+    "audio_prompt": "A result is different from what the group hoped. What should happen?",
+    "answers": [
+      {
+        "text": "record it and compare it with the prediction",
+        "is_correct": true
+      },
+      {
+        "text": "replace it with the hoped-for result",
+        "is_correct": false
+      },
+      {
+        "text": "stop keeping any records",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The real result remains useful evidence even when it is unexpected.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-008",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "What should happen to a surprising real result?",
-    "audioPrompt": "What should happen to a surprising real result?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Keep it and check it carefully.",
-        "is_correct": true
-      },
-      {
-        "text": "Erase it automatically.",
-        "is_correct": false
-      },
-      {
-        "text": "Change it to the average.",
-        "is_correct": false
-      },
-      {
-        "text": "Hide it.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Surprising evidence may be important.\nHint: Check, do not delete.",
-    "structuredExplanation": {
-      "summary": "Surprising evidence may be important.",
-      "hint": "Check, do not delete."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-008",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Two groups count birds at different times. Their totals differ. What should they consider?",
+    "audio_prompt": "Two groups count birds at different times. Their totals differ. What should they consider?",
+    "answers": [
+      {
+        "text": "the larger number is automatically the correct one",
+        "is_correct": false
+      },
+      {
+        "text": "birds may have moved between the observations",
+        "is_correct": true
+      },
+      {
+        "text": "both counts must be identical",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Different times can produce different observations.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-009",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which evidence matches a prediction about bounce height?",
-    "audioPrompt": "Which evidence matches a prediction about bounce height?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Ball colour",
-        "is_correct": false
-      },
-      {
-        "text": "Time of lunch",
-        "is_correct": false
-      },
-      {
-        "text": "Name of observer",
-        "is_correct": false
-      },
-      {
-        "text": "Measured height of each bounce",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Bounce height is the predicted outcome.\nHint: Same outcome.",
-    "structuredExplanation": {
-      "summary": "Bounce height is the predicted outcome.",
-      "hint": "Same outcome."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-009",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Read the repeated results. Which statement fits?",
+    "audio_prompt": "Read the repeated results. Which statement fits?",
+    "answers": [
+      {
+        "text": "a different cover worked better in each trial",
+        "is_correct": false
+      },
+      {
+        "text": "both covers kept the paper equally dry",
+        "is_correct": false
+      },
+      {
+        "text": "the same cover kept the paper drier in both trials",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The record identifies the same better-performing cover twice.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "First trial: Cover B kept the paper drier.. Second trial: Cover B kept the paper drier..",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-33.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-010",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "What does “consistent” mean for repeated results?",
-    "audioPrompt": "What does “consistent” mean for repeated results?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "They are always correct.",
-        "is_correct": false
-      },
-      {
-        "text": "They match a favourite guess.",
-        "is_correct": false
-      },
-      {
-        "text": "They are similar across trials.",
-        "is_correct": true
-      },
-      {
-        "text": "They are exactly zero.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Consistency refers to similarity across repeats.\nHint: Similar repeats.",
-    "structuredExplanation": {
-      "summary": "Consistency refers to similarity across repeats.",
-      "hint": "Similar repeats."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-010",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A car test changes only the rolling surface and uses the same car. Why is that helpful?",
+    "audio_prompt": "A car test changes only the rolling surface and uses the same car. Why is that helpful?",
+    "answers": [
+      {
+        "text": "It makes the surface comparison clearer.",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the car travels equally far.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need to observe the car.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keeping the car the same helps compare the surfaces.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-011",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A child changed the prediction after seeing the result and said it was the original. Why is that a problem?",
-    "audioPrompt": "A child changed the prediction after seeing the result and said it was the original. Why is that a problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Writing is not science.",
-        "is_correct": false
-      },
-      {
-        "text": "It prevents an honest comparison of expectation and evidence.",
-        "is_correct": true
-      },
-      {
-        "text": "Predictions must never change later.",
-        "is_correct": false
-      },
-      {
-        "text": "Results should match predictions.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The original prediction must remain available for comparison.\nHint: Keep the before-test record.",
-    "structuredExplanation": {
-      "summary": "The original prediction must remain available for comparison.",
-      "hint": "Keep the before-test record."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-011",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "Two observers give different counts for the same tray of seeds. What is a useful next step?",
+    "audio_prompt": "Two observers give different counts for the same tray of seeds. What is a useful next step?",
+    "answers": [
+      {
+        "text": "change both counts to their prediction",
+        "is_correct": false
+      },
+      {
+        "text": "recount the seeds together",
+        "is_correct": true
+      },
+      {
+        "text": "accept the larger count without checking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A shared recount checks the evidence directly.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-012",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement uses all results 3,4,3,8?",
-    "audioPrompt": "Which statement uses all results 3,4,3,8?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Three results were close and one was much larger.",
-        "is_correct": true
-      },
-      {
-        "text": "All results were 3.",
-        "is_correct": false
-      },
-      {
-        "text": "8 does not count.",
-        "is_correct": false
-      },
-      {
-        "text": "The prediction is proved.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "It accurately describes the full set.\nHint: Do not omit the unusual value.",
-    "structuredExplanation": {
-      "summary": "It accurately describes the full set.",
-      "hint": "Do not omit the unusual value."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-012",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A paper boat sank after taking on water. Which further question relates to that result?",
+    "audio_prompt": "A paper boat sank after taking on water. Which further question relates to that result?",
+    "answers": [
+      {
+        "text": "Which child likes the boat's colour?",
+        "is_correct": false
+      },
+      {
+        "text": "What day comes after Friday?",
+        "is_correct": false
+      },
+      {
+        "text": "Would a waterproof coating help it stay afloat longer?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The question explores a possible way to address the observed water entry.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-013",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why note an accidental push in one trial?",
-    "audioPrompt": "Why note an accidental push in one trial?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It proves the result is false.",
-        "is_correct": false
-      },
-      {
-        "text": "It makes the result better.",
-        "is_correct": false
-      },
-      {
-        "text": "Accidents are irrelevant.",
-        "is_correct": false
-      },
-      {
-        "text": "It may explain why that trial is not comparable with the others.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Known procedure differences matter when interpreting data.\nHint: Record what changed.",
-    "structuredExplanation": {
-      "summary": "Known procedure differences matter when interpreting data.",
-      "hint": "Record what changed."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-013",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A child compares two ice cubes but puts them out at different times. What should they check?",
+    "audio_prompt": "A child compares two ice cubes but puts them out at different times. What should they check?",
+    "answers": [
+      {
+        "text": "whether the different starting times affected the comparison",
+        "is_correct": true
+      },
+      {
+        "text": "whether the labels have the same number of letters",
+        "is_correct": false
+      },
+      {
+        "text": "whether both cubes are made of ice",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different exposure times can make the comparison unfair.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-014",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which phrase is preferable after a small investigation?",
-    "audioPrompt": "Which phrase is preferable after a small investigation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "certain forever",
-        "is_correct": false
-      },
-      {
-        "text": "cannot ever change",
-        "is_correct": false
-      },
-      {
-        "text": "supported by these results",
-        "is_correct": true
-      },
-      {
-        "text": "proved for all time",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "“Supported” reflects evidence without overclaiming certainty.\nHint: Careful scientific language.",
-    "structuredExplanation": {
-      "summary": "“Supported” reflects evidence without overclaiming certainty.",
-      "hint": "Careful scientific language."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-014",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A prediction says one ball will go farther, but the balls stop together. How does the result compare?",
+    "audio_prompt": "A prediction says one ball will go farther, but the balls stop together. How does the result compare?",
+    "answers": [
+      {
+        "text": "It proves the prediction was never made.",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the predicted difference.",
+        "is_correct": true
+      },
+      {
+        "text": "It matches because both balls moved.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Equal travel does not match a prediction that one travels farther.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-015",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Mixed results mean:",
-    "audioPrompt": "Mixed results mean:",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "One result should be invented.",
-        "is_correct": false
-      },
-      {
-        "text": "The evidence did not show the same outcome every time.",
-        "is_correct": true
-      },
-      {
-        "text": "The test has no value.",
-        "is_correct": false
-      },
-      {
-        "text": "Only matching results count.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Variation across trials should be reported honestly.\nHint: Different outcomes occurred.",
-    "structuredExplanation": {
-      "summary": "Variation across trials should be reported honestly.",
-      "hint": "Different outcomes occurred."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-015",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A group gets two similar results and one different result. Which record is suitable?",
+    "audio_prompt": "A group gets two similar results and one different result. Which record is suitable?",
+    "answers": [
+      {
+        "text": "keep only the two matching results",
+        "is_correct": false
+      },
+      {
+        "text": "keep only the different result",
+        "is_correct": false
+      },
+      {
+        "text": "keep all three and look for a reason for the difference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "All observations matter; the difference may lead to useful questions.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   },
   {
-    "id": "ac9s1i05-t-016",
-    "curriculumCode": "AC9S1I05",
-    "bank": "test",
-    "skill": "comparing observations and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "How can a class strengthen evidence after a surprising first result?",
-    "audioPrompt": "How can a class strengthen evidence after a surprising first result?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Repeat the test carefully and compare the new results.",
-        "is_correct": true
-      },
-      {
-        "text": "Change the first result.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the question.",
-        "is_correct": false
-      },
-      {
-        "text": "Pick the expected answer.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Careful repetition can reveal whether the surprise recurs.\nHint: Repeat and compare.",
-    "structuredExplanation": {
-      "summary": "Careful repetition can reveal whether the surprise recurs.",
-      "hint": "Repeat and compare."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i05-r3-t-016",
     "curriculum_code": "AC9S1I05",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "question": "A sponge soaked up water quickly at first, then left water behind. Which further question could the class test?",
+    "audio_prompt": "A sponge soaked up water quickly at first, then left water behind. Which further question could the class test?",
+    "answers": [
+      {
+        "text": "How much water can the sponge hold before it stops soaking it up?",
+        "is_correct": true
+      },
+      {
+        "text": "What colour should the table be?",
+        "is_correct": false
+      },
+      {
+        "text": "Who likes using sponges most?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question follows the observed change in the sponge's ability to take up more water.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative related design/sequencing and evidence comparisons inspected; no full IXL fairness or adaptive-progression equivalence claimed. Official AC9S1I05 determines fairness and further-question coverage. See docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md."
+    }
   }
 ]

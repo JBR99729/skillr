@@ -8,8 +8,9 @@ const root = path.resolve(__dirname, '..');
 const read = p => fs.readFileSync(path.join(root,p),'utf8');
 const tick = () => new Promise(r=>setImmediate(r));
 const batch2 = process.argv.includes('--batch2');
-const codes = batch2 ? ['ac9s1h01','ac9s1i01','ac9s1i02'] : ['ac9s1u01','ac9s1u02','ac9s1u03'];
-const tag = batch2 ? 'r2' : 'r1';
+const batch3 = process.argv.includes('--batch3');
+const codes = batch3 ? ['ac9s1i03','ac9s1i04','ac9s1i05'] : batch2 ? ['ac9s1h01','ac9s1i01','ac9s1i02'] : ['ac9s1u01','ac9s1u02','ac9s1u03'];
+const tag = batch3 ? 'r3' : batch2 ? 'r2' : 'r1';
 let rendered = 0, visualCount = 0;
 (async()=>{
  for(const code of codes) {
@@ -22,7 +23,7 @@ let rendered = 0, visualCount = 0;
    const cfg=JSON.parse(html.match(/window.quizConfig=(\{.*?\});/s)[1]);
    const source=canonical.filter(q=>q.bank===mode);
    assert.equal(source.length,mode==='practice'?24:16);
-   assert(cfg.resultStorageKey.endsWith(batch2 ? 'ScienceR2' : 'ScienceR1'));
+   assert(cfg.resultStorageKey.endsWith('Science'+tag.toUpperCase()));
    for(const page of ['result','review']) assert(read(route+page+'/index.html').includes(cfg.resultStorageKey));
    assert(html.includes('questions.js?v=20260906-science-'+tag));
    const sandbox={window:{}};vm.runInNewContext(read(route+'questions.js'),sandbox);

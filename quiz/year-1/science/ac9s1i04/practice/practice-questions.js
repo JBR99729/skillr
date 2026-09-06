@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1i04-p-001",
+    "id": "ac9s1i04-r3-p-001",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "A class sorts buttons by colour. Which groups make sense?",
-    "audioPrompt": "A class sorts buttons by colour. Which groups make sense?",
+    "question": "A class sorts leaves by their edges. Which pair of labels uses that feature?",
+    "audioPrompt": "A class sorts leaves by their edges. Which pair of labels uses that feature?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,32 +16,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "red, blue, green",
-      "big, loud, wet",
-      "happy, sad, funny",
-      "today, tomorrow, yesterday"
+      "smooth edge / jagged edge",
+      "green / brown",
+      "large / small"
     ],
-    "correct": 0,
-    "explanation": "Sorting works when every item is grouped using the same clear feature.\nHint: Use one observable feature.",
-    "structuredExplanation": {
-      "summary": "Sorting works when every item is grouped using the same clear feature.",
-      "hint": "Use one observable feature."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The first labels sort by edges; the other pairs use colour or size.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The first labels sort by edges; the other pairs use colour or size.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-002",
+    "id": "ac9s1i04-r3-p-002",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which is a good category label for sorting leaves?",
-    "audioPrompt": "Which is a good category label for sorting leaves?",
+    "question": "Shells are being sorted into 'striped' and 'not striped'. Where does a shell with a visible stripe belong?",
+    "audioPrompt": "Shells are being sorted into 'striped' and 'not striped'. Where does a shell with a visible stripe belong?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -49,32 +47,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "nice leaf",
-      "best leaf",
-      "interesting",
-      "smooth edge"
+      "both groups at once",
+      "striped",
+      "not striped"
     ],
-    "correct": 3,
-    "explanation": "“Smooth edge” names an observable feature.\nHint: Choose a label others can check.",
-    "structuredExplanation": {
-      "summary": "“Smooth edge” names an observable feature.",
-      "hint": "Choose a label others can check."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The observed stripe matches the stated grouping rule.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The observed stripe matches the stated grouping rule.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-003",
+    "id": "ac9s1i04-r3-p-003",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "A tally shows 5 birds and 2 butterflies. Which group has more?",
-    "audioPrompt": "A tally shows 5 birds and 2 butterflies. Which group has more?",
+    "question": "A class records beetles and worms separately. What should each table row be labelled with?",
+    "audioPrompt": "A class records beetles and worms separately. What should each table row be labelled with?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -82,65 +78,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the same number",
-      "cannot tell",
-      "birds",
-      "butterflies"
+      "the child's favourite animal",
+      "a different day with no animal name",
+      "the animal group"
     ],
-    "correct": 2,
-    "explanation": "Five is greater than two.\nHint: Compare the totals.",
-    "structuredExplanation": {
-      "summary": "Five is greater than two.",
-      "hint": "Compare the totals."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Group labels tell readers what each count represents.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Group labels tell readers what each count represents.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-004",
+    "id": "ac9s1i04-r3-p-004",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which display is useful for showing how many objects are in each group?",
-    "audioPrompt": "Which display is useful for showing how many objects are in each group?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Look at the bird picture graph. Which group was counted most?",
+    "audioPrompt": "Look at the bird picture graph. Which group was counted most?",
+    "visual": "Each circle represents one animal. Ducks: 4 circles. Magpies: 2 circles.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Each circle represents one animal. Ducks: 4 circles. Magpies: 2 circles.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i04-04.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Each circle represents one animal. Ducks: 4 circles. Magpies: 2 circles.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i04-04.svg#model"
     },
     "answers": [
-      "map only",
-      "picture graph",
-      "story ending",
-      "weather forecast"
+      "ducks",
+      "magpies",
+      "both equally"
     ],
-    "correct": 1,
-    "explanation": "A picture graph can represent category totals visually.\nHint: Which display shows counts by group?",
-    "structuredExplanation": {
-      "summary": "A picture graph can represent category totals visually.",
-      "hint": "Which display shows counts by group?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The duck row contains more one-bird symbols.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The duck row contains more one-bird symbols.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-005",
+    "id": "ac9s1i04-r3-p-005",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "If two groups each have 4 shells, the totals are:",
-    "audioPrompt": "If two groups each have 4 shells, the totals are:",
+    "question": "Rainy, dry, rainy, dry are four daily records in order. Which display keeps that order?",
+    "audioPrompt": "Rainy, dry, rainy, dry are four daily records in order. Which display keeps that order?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -148,32 +141,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "equal",
-      "different",
-      "unknown",
-      "impossible"
+      "rainy, rainy, dry, dry",
+      "rainy, dry, rainy, dry",
+      "dry, dry, rainy, rainy"
     ],
-    "correct": 0,
-    "explanation": "Equal means the same number.\nHint: Same count.",
-    "structuredExplanation": {
-      "summary": "Equal means the same number.",
-      "hint": "Same count."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A time sequence keeps the observations in their original order.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A time sequence keeps the observations in their original order.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-006",
+    "id": "ac9s1i04-r3-p-006",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which word means the group with the smallest count?",
-    "audioPrompt": "Which word means the group with the smallest count?",
+    "question": "A class groups rocks as rough or smooth. What feature are they using?",
+    "audioPrompt": "A class groups rocks as rough or smooth. What feature are they using?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,32 +172,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "most",
-      "equal",
-      "pattern",
-      "least"
+      "colour",
+      "length",
+      "surface texture"
     ],
-    "correct": 3,
-    "explanation": "“Least” identifies the smallest total.\nHint: Smallest amount.",
-    "structuredExplanation": {
-      "summary": "“Least” identifies the smallest total.",
-      "hint": "Smallest amount."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Rough and smooth describe texture.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Rough and smooth describe texture.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-007",
+    "id": "ac9s1i04-r3-p-007",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which word means the group with the largest count?",
-    "audioPrompt": "Which word means the group with the largest count?",
+    "question": "A table shows 3 snails and 3 beetles. How do the counts compare?",
+    "audioPrompt": "A table shows 3 snails and 3 beetles. How do the counts compare?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -214,32 +203,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "same",
-      "none",
-      "most",
-      "least"
+      "the counts are equal",
+      "there are more snails",
+      "there are more beetles"
     ],
-    "correct": 2,
-    "explanation": "“Most” identifies the largest total.\nHint: Largest amount.",
-    "structuredExplanation": {
-      "summary": "“Most” identifies the largest total.",
-      "hint": "Largest amount."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Both groups have the same count.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Both groups have the same count.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-008",
+    "id": "ac9s1i04-r3-p-008",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "A table has headings “red”, “blue”, “yellow”. What feature is being used to sort?",
-    "audioPrompt": "A table has headings “red”, “blue”, “yellow”. What feature is being used to sort?",
+    "question": "Each picture in a graph means one butterfly. How many pictures should show four butterflies?",
+    "audioPrompt": "Each picture in a graph means one butterfly. How many pictures should show four butterflies?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -247,65 +234,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "texture",
-      "colour",
-      "size",
-      "shape"
+      "five",
+      "four",
+      "one"
     ],
-    "correct": 1,
-    "explanation": "The headings name colours.\nHint: What do the labels have in common?",
-    "structuredExplanation": {
-      "summary": "The headings name colours.",
-      "hint": "What do the labels have in common?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A one-to-one picture graph uses one symbol for every butterfly counted.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A one-to-one picture graph uses one symbol for every butterfly counted.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-009",
+    "id": "ac9s1i04-r3-p-009",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which item belongs in a “has wheels” group?",
-    "audioPrompt": "Which item belongs in a “has wheels” group?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Use the leaf table. Which group contains the fewest leaves?",
+    "audioPrompt": "Use the leaf table. Which group contains the fewest leaves?",
+    "visual": "Smooth edge: 6 leaves. Jagged edge: 2 leaves.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Smooth edge: 6 leaves. Jagged edge: 2 leaves.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i04-09.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Smooth edge: 6 leaves. Jagged edge: 2 leaves.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i04-09.svg#model"
     },
     "answers": [
-      "toy car",
-      "book",
-      "spoon",
-      "balloon"
+      "smooth edge",
+      "both groups equally",
+      "jagged edge"
     ],
-    "correct": 0,
-    "explanation": "A toy car has wheels.\nHint: Match item to feature.",
-    "structuredExplanation": {
-      "summary": "A toy car has wheels.",
-      "hint": "Match item to feature."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The jagged-edge row has the smaller count.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The jagged-edge row has the smaller count.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-010",
+    "id": "ac9s1i04-r3-p-010",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which total matches tally marks ||||?",
-    "audioPrompt": "Which total matches tally marks ||||?",
+    "question": "A leaf has a smooth edge but is brown. The groups are 'smooth edge' and 'jagged edge'. Where does it belong?",
+    "audioPrompt": "A leaf has a smooth edge but is brown. The groups are 'smooth edge' and 'jagged edge'. Where does it belong?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -313,32 +297,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "2",
-      "5",
-      "8",
-      "4"
+      "smooth edge",
+      "jagged edge because it is brown",
+      "neither group because it is brown"
     ],
-    "correct": 3,
-    "explanation": "Four tally marks represent four items.\nHint: Count the marks.",
-    "structuredExplanation": {
-      "summary": "Four tally marks represent four items.",
-      "hint": "Count the marks."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The sorting rule is edge type, so colour does not change its group.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The sorting rule is edge type, so colour does not change its group.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-011",
+    "id": "ac9s1i04-r3-p-011",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why should all groups in a sort use the same feature?",
-    "audioPrompt": "Why should all groups in a sort use the same feature?",
+    "question": "A class sorts seeds by colour. One seed was placed in two groups. What should happen?",
+    "audioPrompt": "A class sorts seeds by colour. One seed was placed in two groups. What should happen?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,32 +328,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "So nothing needs labels.",
-      "So the answer is always obvious.",
-      "So the categories are clear and items can be compared.",
-      "So every group has the same number."
+      "remove it from every group without checking",
+      "use the rule to place and count it once",
+      "keep it in both to raise the total"
     ],
-    "correct": 2,
-    "explanation": "A consistent sorting rule makes the groups meaningful.\nHint: Same rule for every item.",
-    "structuredExplanation": {
-      "summary": "A consistent sorting rule makes the groups meaningful.",
-      "hint": "Same rule for every item."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A single seed should not be counted twice in this sort.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A single seed should not be counted twice in this sort.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-012",
+    "id": "ac9s1i04-r3-p-012",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why label categories in a data display?",
-    "audioPrompt": "Why label categories in a data display?",
+    "question": "A class recorded 2 wet days and 4 dry days. Which picture graph matches if each picture is one day?",
+    "audioPrompt": "A class recorded 2 wet days and 4 dry days. Which picture graph matches if each picture is one day?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -379,32 +359,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Labels prove a cause.",
-      "So readers know what each group represents.",
-      "Labels make the numbers bigger.",
-      "Labels make every group equal."
+      "Wet: 4 pictures; dry: 2 pictures",
+      "Wet: 3 pictures; dry: 3 pictures",
+      "Wet: 2 pictures; dry: 4 pictures"
     ],
-    "correct": 1,
-    "explanation": "Labels tell the audience what the counts refer to.\nHint: What does each bar or group mean?",
-    "structuredExplanation": {
-      "summary": "Labels tell the audience what the counts refer to.",
-      "hint": "What does each bar or group mean?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The graph must keep each category's actual count.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The graph must keep each category's actual count.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-013",
+    "id": "ac9s1i04-r3-p-013",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why count each object only once?",
-    "audioPrompt": "Why count each object only once?",
+    "question": "Three seedling photos show a shoot appearing, two leaves, then four leaves. Which order shows the observed growth?",
+    "audioPrompt": "Three seedling photos show a shoot appearing, two leaves, then four leaves. Which order shows the observed growth?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -412,32 +390,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Counting an item twice would make the total wrong.",
-      "Objects dislike being counted.",
-      "Double-counting makes groups equal.",
-      "Only one object can be counted."
+      "shoot, two leaves, four leaves",
+      "four leaves, shoot, two leaves",
+      "two leaves, four leaves, shoot"
     ],
-    "correct": 0,
-    "explanation": "Each object should contribute one count to its group.\nHint: One item, one count.",
-    "structuredExplanation": {
-      "summary": "Each object should contribute one count to its group.",
-      "hint": "One item, one count."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The sequence should follow the observed stages over time.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The sequence should follow the observed stages over time.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-014",
+    "id": "ac9s1i04-r3-p-014",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "A group has 6 objects and another has 3. Why can we say the first has more?",
-    "audioPrompt": "A group has 6 objects and another has 3. Why can we say the first has more?",
+    "question": "A data table has counts 4, 2 and 5 but no group names. What is missing?",
+    "audioPrompt": "A data table has counts 4, 2 and 5 but no group names. What is missing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -445,32 +421,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first group is on the left.",
-      "Its label is longer.",
-      "It looks nicer.",
-      "6 is greater than 3."
+      "a prediction instead of the counts",
+      "labels telling what each count is for",
+      "a larger number in each row"
     ],
-    "correct": 3,
-    "explanation": "The conclusion comes from comparing the totals.\nHint: Use the numbers.",
-    "structuredExplanation": {
-      "summary": "The conclusion comes from comparing the totals.",
-      "hint": "Use the numbers."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Counts need labels so the reader knows what was observed.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Counts need labels so the reader knows what was observed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-015",
+    "id": "ac9s1i04-r3-p-015",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why is “pretty” a poor sorting category for science data?",
-    "audioPrompt": "Why is “pretty” a poor sorting category for science data?",
+    "question": "A class sorts objects by whether they floated in its test. A wooden piece sank. Where should its test card go?",
+    "audioPrompt": "A class sorts objects by whether they floated in its test. A wooden piece sank. Where should its test card go?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -478,32 +452,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Science cannot sort objects.",
-      "All objects are pretty.",
-      "People may disagree because it is an opinion.",
-      "Pretty is too short a word."
+      "floated because it is wood",
+      "both groups because it was tested",
+      "sank"
     ],
-    "correct": 2,
-    "explanation": "Useful categories are usually based on observable features people can apply consistently.\nHint: Can everyone check it the same way?",
-    "structuredExplanation": {
-      "summary": "Useful categories are usually based on observable features people can apply consistently.",
-      "hint": "Can everyone check it the same way?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The grouping rule uses the observed result, not an assumption about the material.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The grouping rule uses the observed result, not an assumption about the material.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-016",
+    "id": "ac9s1i04-r3-p-016",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why might a picture graph help Year 1 students?",
-    "audioPrompt": "Why might a picture graph help Year 1 students?",
+    "question": "A weather display shows sunny, cloudy, rainy. Its dates are Wednesday, Monday, Tuesday. How should it be arranged by day?",
+    "audioPrompt": "A weather display shows sunny, cloudy, rainy. Its dates are Wednesday, Monday, Tuesday. How should it be arranged by day?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -511,65 +483,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It proves why a pattern happened.",
-      "It makes category amounts easier to compare visually.",
-      "It guarantees the data are correct.",
-      "Pictures replace counting."
+      "cloudy, rainy, sunny",
+      "sunny, cloudy, rainy",
+      "rainy, sunny, cloudy"
     ],
-    "correct": 1,
-    "explanation": "A visual representation can make totals and differences easier to see.\nHint: See the amounts.",
-    "structuredExplanation": {
-      "summary": "A visual representation can make totals and differences easier to see.",
-      "hint": "See the amounts."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Matching each record to its date puts Monday first, then Tuesday and Wednesday.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Matching each record to its date puts Monday first, then Tuesday and Wednesday.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-017",
+    "id": "ac9s1i04-r3-p-017",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why should a graph key be clear if one picture means two objects?",
-    "audioPrompt": "Why should a graph key be clear if one picture means two objects?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the garden counts. Which comparison is correct?",
+    "audioPrompt": "Read the garden counts. Which comparison is correct?",
+    "visual": "Ants: 4. Beetles: 4. Worms: 2.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ants: 4. Beetles: 4. Worms: 2.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i04-17.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Ants: 4. Beetles: 4. Worms: 2.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i04-17.svg#model"
     },
     "answers": [
-      "So readers know how to turn pictures into totals.",
-      "Keys make pictures colourful.",
-      "Every picture always means one.",
-      "Keys prove patterns."
+      "All three counts are equal.",
+      "Ants and beetles are equal; worms are fewer.",
+      "Worms are most; ants are fewest."
     ],
-    "correct": 0,
-    "explanation": "A key explains the value represented by each symbol.\nHint: What does one picture stand for?",
-    "structuredExplanation": {
-      "summary": "A key explains the value represented by each symbol.",
-      "hint": "What does one picture stand for?"
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The table shows equal ant and beetle counts and a smaller worm count.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The table shows equal ant and beetle counts and a smaller worm count.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-018",
+    "id": "ac9s1i04-r3-p-018",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why might scientists sort animals by observable features?",
-    "audioPrompt": "Why might scientists sort animals by observable features?",
+    "question": "A class counted six shells. Its graph has seven one-shell pictures. What needs checking?",
+    "audioPrompt": "A class counted six shells. Its graph has seven one-shell pictures. What needs checking?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -577,32 +546,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes animals change.",
-      "It proves which animal is best.",
-      "It gives every group equal size.",
-      "It helps organise similarities and differences."
+      "whether the graph title is short enough",
+      "whether seven is a nicer number",
+      "whether a shell was shown twice or an extra picture was added"
     ],
-    "correct": 3,
-    "explanation": "Sorting can reveal patterns in shared features.\nHint: Organise by what is observed.",
-    "structuredExplanation": {
-      "summary": "Sorting can reveal patterns in shared features.",
-      "hint": "Organise by what is observed."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The display's total should agree with the recorded count.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The display's total should agree with the recorded count.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-019",
+    "id": "ac9s1i04-r3-p-019",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why should totals be checked after sorting?",
-    "audioPrompt": "Why should totals be checked after sorting?",
+    "question": "A leaf sort uses 'has spots' and 'no spots'. A leaf is small and spotted. What matters for its group?",
+    "audioPrompt": "A leaf sort uses 'has spots' and 'no spots'. A leaf is small and spotted. What matters for its group?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,32 +577,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "To choose the favourite result.",
-      "To change the categories.",
-      "To catch missed or double-counted items.",
-      "To make every total larger."
+      "whether it has spots",
+      "whether it is small",
+      "whether it is the newest leaf"
     ],
-    "correct": 2,
-    "explanation": "Checking counts helps make the data record accurate.\nHint: Make sure every item is counted once.",
-    "structuredExplanation": {
-      "summary": "Checking counts helps make the data record accurate.",
-      "hint": "Make sure every item is counted once."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Only the stated sorting feature determines its group.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Only the stated sorting feature determines its group.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-020",
+    "id": "ac9s1i04-r3-p-020",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why is a repeated sequence such as 2, 4, 2, 4 a pattern?",
-    "audioPrompt": "Why is a repeated sequence such as 2, 4, 2, 4 a pattern?",
+    "question": "A chart shows the same bird count on three mornings. Which description fits?",
+    "audioPrompt": "A chart shows the same bird count on three mornings. Which description fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -643,65 +608,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It must continue forever.",
-      "The same arrangement repeats.",
-      "All numbers are equal.",
-      "There is no order."
+      "the recorded count fell each morning",
+      "the recorded count stayed the same",
+      "the recorded count rose each morning"
     ],
-    "correct": 1,
-    "explanation": "A pattern has repetition or regular change.\nHint: What repeats?",
-    "structuredExplanation": {
-      "summary": "A pattern has repetition or regular change.",
-      "hint": "What repeats?"
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Equal recorded counts show no change across those observations.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Equal recorded counts show no change across those observations.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-021",
+    "id": "ac9s1i04-r3-p-021",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which sort uses one clear feature?",
-    "audioPrompt": "Which sort uses one clear feature?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Use the rainfall-day record. Which description matches these four weeks?",
+    "audioPrompt": "Use the rainfall-day record. Which description matches these four weeks?",
+    "visual": "Weeks 1 and 2: 1 rainy day; then 3 rainy days. Weeks 3 and 4: 1 rainy day; then 3 rainy days.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Weeks 1 and 2: 1 rainy day; then 3 rainy days. Weeks 3 and 4: 1 rainy day; then 3 rainy days.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i04-21.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Weeks 1 and 2: 1 rainy day; then 3 rainy days. Weeks 3 and 4: 1 rainy day; then 3 rainy days.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i04-21.svg#model"
     },
     "answers": [
-      "round / not round",
-      "red / big / soft",
-      "nice / ugly",
-      "mine / favourite"
+      "the counts increase every week",
+      "the counts stay at 3",
+      "the counts alternate between 1 and 3"
     ],
-    "correct": 0,
-    "explanation": "“Round/not round” applies one observable shape feature to all items.\nHint: One rule.",
-    "structuredExplanation": {
-      "summary": "“Round/not round” applies one observable shape feature to all items.",
-      "hint": "One rule."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The sequence repeats 1, 3, 1, 3 in the supplied record.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The sequence repeats 1, 3, 1, 3 in the supplied record.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-022",
+    "id": "ac9s1i04-r3-p-022",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which group label is too vague?",
-    "audioPrompt": "Which group label is too vague?",
+    "question": "A class wants a model of the order in which a puddle dried. Which set is useful?",
+    "audioPrompt": "A class wants a model of the order in which a puddle dried. Which set is useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -709,32 +671,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "has feathers",
-      "is metal",
-      "has four legs",
-      "interesting"
+      "dated drawings of the same puddle",
+      "drawings of different puddles with no dates",
+      "only a drawing of the empty sky"
     ],
-    "correct": 3,
-    "explanation": "“Interesting” depends on personal opinion.\nHint: Which label is not objectively checkable?",
-    "structuredExplanation": {
-      "summary": "“Interesting” depends on personal opinion.",
-      "hint": "Which label is not objectively checkable?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The same puddle at identified times can represent change in order.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The same puddle at identified times can represent change in order.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-023",
+    "id": "ac9s1i04-r3-p-023",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Counts are red 7, blue 3, green 5. Which statement is correct?",
-    "audioPrompt": "Counts are red 7, blue 3, green 5. Which statement is correct?",
+    "question": "Two groups each counted four insects, but drew different-sized symbols. What should readers use to compare the totals?",
+    "audioPrompt": "Two groups each counted four insects, but drew different-sized symbols. What should readers use to compare the totals?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -742,32 +702,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Green is least.",
-      "All are equal.",
-      "Red is most.",
-      "Blue is most."
+      "only which row covers more paper",
+      "the number of symbols and the key",
+      "only the size of the drawings"
     ],
-    "correct": 2,
-    "explanation": "Seven is the largest total.\nHint: Find the biggest number.",
-    "structuredExplanation": {
-      "summary": "Seven is the largest total.",
-      "hint": "Find the biggest number."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Larger drawings do not mean more insects when each symbol represents one.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Larger drawings do not mean more insects when each symbol represents one.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i04-p-024",
+    "id": "ac9s1i04-r3-p-024",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "sorting data and representing patterns",
+    "skill": "sorting and ordering science data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Counts are ants 4, beetles 4, worms 2. Which statement is correct?",
-    "audioPrompt": "Counts are ants 4, beetles 4, worms 2. Which statement is correct?",
+    "question": "A class used 'wet' and 'dry' to sort soil samples. One is partly damp. What should they do with guidance?",
+    "audioPrompt": "A class used 'wet' and 'dry' to sort soil samples. One is partly damp. What should they do with guidance?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -775,549 +733,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Beetles are least.",
-      "Ants and beetles are equal.",
-      "Worms are most.",
-      "All are different."
+      "choose whichever group has fewer samples",
+      "change the rule secretly for that sample",
+      "agree how to classify damp samples before placing it"
     ],
-    "correct": 1,
-    "explanation": "Ants and beetles both have four.\nHint: Same totals.",
-    "structuredExplanation": {
-      "summary": "Ants and beetles both have four.",
-      "hint": "Same totals."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-025",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Which graph is misleading?",
-    "audioPrompt": "Which graph is misleading?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A graph where one picture means 2 but the key is missing.",
-      "A graph with clear labels.",
-      "A table with totals.",
-      "A tally chart with headings."
-    ],
-    "correct": 0,
-    "explanation": "Without the key, readers cannot know the symbol values.\nHint: Can the audience interpret the pictures?",
-    "structuredExplanation": {
-      "summary": "Without the key, readers cannot know the symbol values.",
-      "hint": "Can the audience interpret the pictures?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-026",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Which item does NOT belong in “can roll”?",
-    "audioPrompt": "Which item does NOT belong in “can roll”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "ball",
-      "marble",
-      "cylinder",
-      "book"
-    ],
-    "correct": 3,
-    "explanation": "A flat book does not roll like the rounded objects.\nHint: Which lacks a rolling shape?",
-    "structuredExplanation": {
-      "summary": "A flat book does not roll like the rounded objects.",
-      "hint": "Which lacks a rolling shape?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-027",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement uses data rather than opinion?",
-    "audioPrompt": "Which statement uses data rather than opinion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Pears look boring.",
-      "Everyone should choose apples.",
-      "Six students chose apples; four chose pears.",
-      "Apples are the best fruit."
-    ],
     "correct": 2,
-    "explanation": "The first reports counted results.\nHint: Which can be checked from the tally?",
+    "explanation": "An agreed rule makes the sort clear and consistent.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "The first reports counted results.",
-      "hint": "Which can be checked from the tally?"
+      "summary": "An agreed rule makes the sort clear and consistent.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-028",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "A child counted one shell twice. What should they do?",
-    "audioPrompt": "A child counted one shell twice. What should they do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Erase the whole investigation.",
-      "Fix the tally so each shell is counted once.",
-      "Keep both marks.",
-      "Add another mark to every group."
-    ],
-    "correct": 1,
-    "explanation": "Correct the record to match the actual number of objects.\nHint: One item, one count.",
-    "structuredExplanation": {
-      "summary": "Correct the record to match the actual number of objects.",
-      "hint": "One item, one count."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-029",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Which pattern statement is supported by counts 2,2,2,2?",
-    "audioPrompt": "Which pattern statement is supported by counts 2,2,2,2?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The count stayed the same across these four observations.",
-      "It will always be 2 forever.",
-      "Two caused the result.",
-      "No further observations are useful."
-    ],
-    "correct": 0,
-    "explanation": "The data show sameness only across the recorded observations.\nHint: Do not overclaim.",
-    "structuredExplanation": {
-      "summary": "The data show sameness only across the recorded observations.",
-      "hint": "Do not overclaim."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-030",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Which category pair best sorts classroom objects by material?",
-    "audioPrompt": "Which category pair best sorts classroom objects by material?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "big / red",
-      "round / heavy",
-      "mine / yours",
-      "metal / plastic"
-    ],
-    "correct": 3,
-    "explanation": "Metal/plastic are material categories.\nHint: What feature is being compared?",
-    "structuredExplanation": {
-      "summary": "Metal/plastic are material categories.",
-      "hint": "What feature is being compared?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-031",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "A class collects 12 leaves. How should they sort by edge type?",
-    "audioPrompt": "A class collects 12 leaves. How should they sort by edge type?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Put one leaf in both groups.",
-      "Change the rule halfway.",
-      "Use labels such as smooth edge and jagged edge, placing each leaf once.",
-      "Sort by favourite leaf."
-    ],
-    "correct": 2,
-    "explanation": "Clear labels and one consistent rule make the sort meaningful.\nHint: Same rule, once each.",
-    "structuredExplanation": {
-      "summary": "Clear labels and one consistent rule make the sort meaningful.",
-      "hint": "Same rule, once each."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-032",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Bird visits are magpie 5, sparrow 8, pigeon 3. Which sentence belongs in a report?",
-    "audioPrompt": "Bird visits are magpie 5, sparrow 8, pigeon 3. Which sentence belongs in a report?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Magpies caused sparrows to come.",
-      "Sparrows were the most frequently observed of these three groups.",
-      "Sparrows will always be most.",
-      "Pigeons dislike the feeder."
-    ],
-    "correct": 1,
-    "explanation": "The statement accurately compares the recorded totals without adding an unsupported cause.\nHint: Say what the counts show.",
-    "structuredExplanation": {
-      "summary": "The statement accurately compares the recorded totals without adding an unsupported cause.",
-      "hint": "Say what the counts show."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-033",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "A picture graph uses one ⭐ for 2 shells. There are ⭐⭐⭐ under “striped”. How many striped shells?",
-    "audioPrompt": "A picture graph uses one ⭐ for 2 shells. There are ⭐⭐⭐ under “striped”. How many striped shells?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "6",
-      "3",
-      "5",
-      "8"
-    ],
-    "correct": 0,
-    "explanation": "Three symbols at two shells each represent six shells.\nHint: Use the key.",
-    "structuredExplanation": {
-      "summary": "Three symbols at two shells each represent six shells.",
-      "hint": "Use the key."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-034",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "A class sorts rocks into rough and smooth. One rock feels both in different places. Best response?",
-    "audioPrompt": "A class sorts rocks into rough and smooth. One rock feels both in different places. Best response?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Put it anywhere secretly.",
-      "Count it twice.",
-      "Throw it away.",
-      "Agree on a clear rule, such as classifying by most of the surface, and record it."
-    ],
-    "correct": 3,
-    "explanation": "Ambiguous items need a stated rule so the classification is consistent.\nHint: Clarify the rule.",
-    "structuredExplanation": {
-      "summary": "Ambiguous items need a stated rule so the classification is consistent.",
-      "hint": "Clarify the rule."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-035",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Counts of rainy days by week are 1, 3, 1, 3. What pattern can be described?",
-    "audioPrompt": "Counts of rainy days by week are 1, 3, 1, 3. What pattern can be described?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Rain is caused by odd numbers.",
-      "There is no pattern.",
-      "The counts alternate 1,3,1,3 in these four weeks.",
-      "It must rain 1 day next week."
-    ],
-    "correct": 2,
-    "explanation": "The sequence shows an alternating pattern in the recorded weeks.\nHint: Describe what repeats, not what must happen.",
-    "structuredExplanation": {
-      "summary": "The sequence shows an alternating pattern in the recorded weeks.",
-      "hint": "Describe what repeats, not what must happen."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-036",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "A graph shows cats 4, dogs 6, fish 6. Which comparison is correct?",
-    "audioPrompt": "A graph shows cats 4, dogs 6, fish 6. Which comparison is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "All are equal.",
-      "Dogs and fish are equal and both exceed cats.",
-      "Cats are most.",
-      "Fish are least."
-    ],
-    "correct": 1,
-    "explanation": "Dogs and fish both have six; cats have four.\nHint: Compare all three totals.",
-    "structuredExplanation": {
-      "summary": "Dogs and fish both have six; cats have four.",
-      "hint": "Compare all three totals."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-037",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "A class wants to show favourite playground areas. Which first step is needed before graphing?",
-    "audioPrompt": "A class wants to show favourite playground areas. Which first step is needed before graphing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Collect and count responses in clear categories.",
-      "Draw tall bars first.",
-      "Choose the winner before asking.",
-      "Make every category equal."
-    ],
-    "correct": 0,
-    "explanation": "A graph should represent collected data.\nHint: Data first, display second.",
-    "structuredExplanation": {
-      "summary": "A graph should represent collected data.",
-      "hint": "Data first, display second."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-038",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "A child groups animals as “flies” and “does not fly”. Where should a penguin go?",
-    "audioPrompt": "A child groups animals as “flies” and “does not fly”. Where should a penguin go?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "flies",
-      "both groups",
-      "neither because it is a bird",
-      "does not fly"
-    ],
-    "correct": 3,
-    "explanation": "Penguins are birds but do not fly, so observable ability determines the group.\nHint: Use the chosen rule, not assumptions.",
-    "structuredExplanation": {
-      "summary": "Penguins are birds but do not fly, so observable ability determines the group.",
-      "hint": "Use the chosen rule, not assumptions."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-039",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "After sorting seeds by colour, the totals do not add to the number collected. What should happen?",
-    "audioPrompt": "After sorting seeds by colour, the totals do not add to the number collected. What should happen?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Ignore the mismatch.",
-      "Guess the missing number.",
-      "Recount and check for missed or double-counted seeds.",
-      "Change the collection total."
-    ],
-    "correct": 2,
-    "explanation": "The mismatch signals a counting or recording issue worth checking.\nHint: Totals should match the items collected.",
-    "structuredExplanation": {
-      "summary": "The mismatch signals a counting or recording issue worth checking.",
-      "hint": "Totals should match the items collected."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i04-p-040",
-    "curriculumCode": "AC9S1I04",
-    "bank": "practice",
-    "skill": "sorting data and representing patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence best communicates a simple data pattern?",
-    "audioPrompt": "Which sentence best communicates a simple data pattern?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The pattern will never change.",
-      "Red objects were counted most often, blue least, and green in between.",
-      "Red is the best colour.",
-      "The colours caused the counts."
-    ],
-    "correct": 1,
-    "explanation": "It describes relative totals without adding opinion or certainty.\nHint: Describe, do not judge.",
-    "structuredExplanation": {
-      "summary": "It describes relative totals without adding opinion or certainty.",
-      "hint": "Describe, do not judge."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

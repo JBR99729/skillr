@@ -1,483 +1,751 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1i05-p-001",
+    "id": "ac9s1i05-r3-p-001",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "compare predictions and observations",
-    "question": "You guessed ice would melt. It melted. What happened?",
-    "explanation": "The observation matched the prediction.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A child predicted the sunny puddle would dry first. It did dry first. How does the result compare?",
+    "audioPrompt": "A child predicted the sunny puddle would dry first. It did dry first. How does the result compare?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The guess matched",
-      "The ice sang",
-      "The table moved"
+      "It matches the prediction this time.",
+      "It is the opposite of the prediction.",
+      "It tells us nothing about drying."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "audioPrompt": "You guessed ice would melt. It melted. What happened?",
+    "explanation": "The observed outcome matches the expected outcome in this test.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "The observation matched the prediction."
-    }
+      "summary": "The observed outcome matches the expected outcome in this test.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-002",
+    "id": "ac9s1i05-r3-p-002",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "compare predictions and observations",
-    "question": "You guessed a seed would sprout. It did not. What happened?",
-    "explanation": "The observation was different from the prediction.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A child predicted the red car would go farther. The blue car went farther. What should they say?",
+    "audioPrompt": "A child predicted the red car would go farther. The blue car went farther. What should they say?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The pot talked",
-      "The guess did not match",
-      "The seed was a shoe"
+      "The red car went farther because I expected it.",
+      "The result did not match my prediction.",
+      "The result matched because a car moved."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 1,
-    "audioPrompt": "You guessed a seed would sprout. It did not. What happened?",
+    "explanation": "The comparison must use what actually happened, not just whether something moved.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "The observation was different from the prediction."
-    }
+      "summary": "The comparison must use what actually happened, not just whether something moved.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-003",
+    "id": "ac9s1i05-r3-p-003",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "compare observations with others",
-    "question": "You counted 4 birds. Your friend counted 4. What happened?",
-    "explanation": "Both people recorded the same observation.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "Two children watched the same bird. Both recorded that it flew to a branch. How do their observations compare?",
+    "audioPrompt": "Two children watched the same bird. Both recorded that it flew to a branch. How do their observations compare?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Birds vanished",
-      "The counts changed colour",
-      "The observations matched"
+      "They disagree about where it went.",
+      "Neither child made an observation.",
+      "They agree about where it went."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "audioPrompt": "You counted 4 birds. Your friend counted 4. What happened?",
+    "explanation": "Both records describe the same movement to a branch.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Both people recorded the same observation."
-    }
+      "summary": "Both records describe the same movement to a branch.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-004",
+    "id": "ac9s1i05-r3-p-004",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "compare observations with others",
-    "question": "You counted 3 shells. Your friend counted 5. What should you do?",
-    "explanation": "Recounting helps check different observations.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A class predicted a paper cover would keep a toy dry. The toy became wet. What does the result show?",
+    "audioPrompt": "A class predicted a paper cover would keep a toy dry. The toy became wet. What does the result show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Count again together",
-      "Hide the shells",
-      "Pick your favourite number"
+      "The cover did not keep it dry in this test.",
+      "The cover kept it dry in this test.",
+      "The prediction must have been about colour."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "audioPrompt": "You counted 3 shells. Your friend counted 5. What should you do?",
+    "explanation": "The observed wetness does not match the prediction of staying dry.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Recounting helps check different observations."
-    }
+      "summary": "The observed wetness does not match the prediction of staying dry.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-005",
+    "id": "ac9s1i05-r3-p-005",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "consider fair investigations",
-    "question": "Two cars roll down ramps. What makes the test fair?",
-    "explanation": "A fair test keeps important things the same.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A child records a surprising result. Should it be kept?",
+    "audioPrompt": "A child records a surprising result. Should it be kept?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Different toy cars",
-      "Same kind of ramp",
-      "One car hidden"
+      "No, it should be replaced with the prediction.",
+      "Yes, it is part of what happened.",
+      "No, only expected results belong in the record."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 1,
-    "audioPrompt": "Two cars roll down ramps. What makes the test fair?",
+    "explanation": "Unexpected observations are still evidence to compare with the prediction.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A fair test keeps important things the same."
-    }
+      "summary": "Unexpected observations are still evidence to compare with the prediction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-006",
+    "id": "ac9s1i05-r3-p-006",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "evaluate investigations",
-    "question": "One plant gets water. One gets none. What is being tested?",
-    "explanation": "The changed thing is water.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A class compares two towels using the same amount of water on each. What is this helping them do?",
+    "audioPrompt": "A class compares two towels using the same amount of water on each. What is this helping them do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The plant names",
-      "The pot colours",
-      "Whether water helps growth"
+      "ensure both towels absorb equally",
+      "avoid looking at the results",
+      "make the comparison fairer"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "audioPrompt": "One plant gets water. One gets none. What is being tested?",
+    "explanation": "Using the same amount helps compare the towels; it does not guarantee equal results.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "The changed thing is water."
-    }
+      "summary": "Using the same amount helps compare the towels; it does not guarantee equal results.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-007",
+    "id": "ac9s1i05-r3-p-007",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "evaluate investigations",
-    "question": "You predicted more ants near crumbs. You saw ants there. What happened?",
-    "explanation": "The observation supports the prediction.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A ball rolled farther than predicted. What should be compared?",
+    "audioPrompt": "A ball rolled farther than predicted. What should be compared?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The prediction matched",
-      "The crumbs became birds",
-      "The ants were invisible"
+      "the predicted travel and the observed travel",
+      "the ball's colour and the child's name",
+      "only the child's favourite result"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "audioPrompt": "You predicted more ants near crumbs. You saw ants there. What happened?",
+    "explanation": "The comparison needs the same outcome in the prediction and the observation.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "The observation supports the prediction."
-    }
+      "summary": "The comparison needs the same outcome in the prediction and the observation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-008",
+    "id": "ac9s1i05-r3-p-008",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "compare observations with others",
-    "question": "Your friend sees fewer leaves than you. What should you do?",
-    "explanation": "Comparing and recounting helps check accuracy.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A child's prediction matches one trial. What can they say?",
+    "audioPrompt": "A child's prediction matches one trial. What can they say?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Stop the investigation",
-      "Compare and recount",
-      "Change their answer"
+      "No more observations are possible.",
+      "It matched in this trial.",
+      "It must match every future trial."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
     "correct": 1,
-    "audioPrompt": "Your friend sees fewer leaves than you. What should you do?",
+    "explanation": "One matching result supports the prediction for that trial, not every future situation.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Comparing and recounting helps check accuracy."
-    }
+      "summary": "One matching result supports the prediction for that trial, not every future situation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-009",
+    "id": "ac9s1i05-r3-p-009",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "consider fair investigations",
-    "question": "A ball is tested on carpet and tiles. What should stay the same?",
-    "explanation": "Using the same ball helps make the test fair.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "Read the prediction and result cards. Which statement fits?",
+    "audioPrompt": "Read the prediction and result cards. Which statement fits?",
+    "visual": "Prediction: Towel A will hold more water.. Result: Towel B held more water..",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Prediction: Towel A will hold more water.. Result: Towel B held more water..\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-09.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Prediction: Towel A will hold more water.. Result: Towel B held more water..",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-09.svg#model"
+    },
     "answers": [
-      "The ball",
-      "The lunchbox",
-      "The story book"
+      "The result matched the prediction.",
+      "Only a prediction was recorded.",
+      "The result was the reverse of the prediction."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "The prediction favoured A, while the observed result favoured B.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The prediction favoured A, while the observed result favoured B.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1i05-r3-p-010",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "printable": true,
+    "type": "single",
+    "question": "Two children counted insects in different garden patches. Their counts differ. What could help explain the difference?",
+    "audioPrompt": "Two children counted insects in different garden patches. Their counts differ. What could help explain the difference?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "They observed different places.",
+      "One child must have changed the record.",
+      "Different counts are never possible."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "audioPrompt": "A ball is tested on carpet and tiles. What should stay the same?",
+    "explanation": "Different locations can contain different numbers, so disagreement need not mean dishonesty.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Using the same ball helps make the test fair."
-    }
+      "summary": "Different locations can contain different numbers, so disagreement need not mean dishonesty.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-010",
+    "id": "ac9s1i05-r3-p-011",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "identify further questions",
-    "question": "The towel dried in the sun. What question comes next?",
-    "explanation": "A further question can test another condition.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A child tests a strong push and a gentle push, but changes the car too. What makes the comparison unclear?",
+    "audioPrompt": "A child tests a strong push and a gentle push, but changes the car too. What makes the comparison unclear?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Can towels read?",
-      "Is the towel happy?",
-      "Will shade dry it too?"
+      "the cars were tested in the same room",
+      "both the push and the car changed",
+      "the child wrote down both results"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "The difference could be connected to either change, so it is hard to compare push strength alone.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The difference could be connected to either change, so it is hard to compare push strength alone.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1i05-r3-p-012",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "printable": true,
+    "type": "single",
+    "question": "A paper bridge held fewer counters than expected. Which next question follows?",
+    "audioPrompt": "A paper bridge held fewer counters than expected. Which next question follows?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which child likes bridges best?",
+      "What colour is the classroom door?",
+      "Would folding the paper help it hold more counters?"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "audioPrompt": "The towel dried in the sun. What question comes next?",
+    "explanation": "The question follows the observed weakness and suggests a related test.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A further question can test another condition."
-    }
+      "summary": "The question follows the observed weakness and suggests a related test.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-011",
+    "id": "ac9s1i05-r3-p-013",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "compare predictions and observations",
-    "question": "You guessed the car would roll far. It stopped quickly. What happened?",
-    "explanation": "The result was different from the prediction.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "Two observers watched the same plant at different times of day. One recorded more open flowers. What should they check?",
+    "audioPrompt": "Two observers watched the same plant at different times of day. One recorded more open flowers. What should they check?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The prediction did not match",
-      "The car became food",
-      "The ramp disappeared"
+      "whether the flowers changed between those times",
+      "which observer has the neater writing",
+      "whether to erase the smaller count"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "audioPrompt": "You guessed the car would roll far. It stopped quickly. What happened?",
+    "explanation": "The observation times may explain the different records.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "The result was different from the prediction."
-    }
+      "summary": "The observation times may explain the different records.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-012",
+    "id": "ac9s1i05-r3-p-014",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "compare observations with others",
-    "question": "Two students hear the same bell. One says loud, one says soft. What should they do?",
-    "explanation": "Listening again helps compare observations.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A child gives towel A ten drops and towel B twenty drops. Can that alone show which towel absorbs more under equal conditions?",
+    "audioPrompt": "A child gives towel A ten drops and towel B twenty drops. Can that alone show which towel absorbs more under equal conditions?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Draw a fish",
-      "Listen again together",
-      "Hide the bell"
+      "Yes, because twenty is a larger number.",
+      "No, the water amounts differ.",
+      "Yes, because both towels received water."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "audioPrompt": "Two students hear the same bell. One says loud, one says soft. What should they do?",
+    "explanation": "The starting amounts differ, so this is not an equal comparison of the towels.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Listening again helps compare observations."
-    }
+      "summary": "The starting amounts differ, so this is not an equal comparison of the towels.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-013",
+    "id": "ac9s1i05-r3-p-015",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "consider fair investigations",
-    "question": "Which test is fair for two paper planes?",
-    "explanation": "The same throw makes the comparison fairer.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "The results are A farther, B farther, then equal. What should the class report?",
+    "audioPrompt": "The results are A farther, B farther, then equal. What should the class report?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Throw one inside a bag",
-      "Throw both the same way",
-      "Throw one tomorrow only"
+      "A went farther in every trial",
+      "B went farther in every trial",
+      "the results were mixed"
     ],
-    "correct": 1,
-    "audioPrompt": "Which test is fair for two paper planes?",
-    "structuredExplanation": {
-      "summary": "The same throw makes the comparison fairer."
-    }
-  },
-  {
-    "id": "ac9s1i05-p-014",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "consider fair investigations",
-    "question": "You test two seeds. What should be the same?",
-    "explanation": "Keeping water the same helps make the test fair.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Different light for no reason",
-      "Same water amount",
-      "One seed hidden"
-    ],
-    "correct": 1,
-    "audioPrompt": "You test two seeds. What should be the same?",
-    "structuredExplanation": {
-      "summary": "Keeping water the same helps make the test fair."
-    }
-  },
-  {
-    "id": "ac9s1i05-p-015",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "identify further questions",
-    "question": "The shadow moved. What further question fits?",
-    "explanation": "The new question follows from the observation.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Does the shadow sing?",
-      "Is the shadow kind?",
-      "Will it move again later?"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "audioPrompt": "The shadow moved. What further question fits?",
+    "explanation": "The report must include all three outcomes, not select just one.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "The new question follows from the observation."
-    }
+      "summary": "The report must include all three outcomes, not select just one.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-016",
+    "id": "ac9s1i05-r3-p-016",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "compare predictions and observations",
-    "question": "You predicted 2 snails. You saw 5. Did it match?",
-    "explanation": "The prediction and observation were different.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A seedling grew towards a window. Which further question explores that observation?",
+    "audioPrompt": "A seedling grew towards a window. Which further question explores that observation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Yes",
-      "No",
-      "Snails cannot count"
+      "Would it grow towards light from another direction?",
+      "Which pot has the nicest pattern?",
+      "How many letters are in 'window'?"
     ],
-    "correct": 1,
-    "audioPrompt": "You predicted 2 snails. You saw 5. Did it match?",
-    "structuredExplanation": {
-      "summary": "The prediction and observation were different."
-    }
-  },
-  {
-    "id": "ac9s1i05-p-017",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "evaluate investigations",
-    "question": "Two groups test magnets. Their results differ. What should they compare?",
-    "explanation": "Comparing steps helps find why results differ.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "What they ate",
-      "The colour of shoes",
-      "Their test steps"
-    ],
-    "correct": 2,
-    "audioPrompt": "Two groups test magnets. Their results differ. What should they compare?",
-    "structuredExplanation": {
-      "summary": "Comparing steps helps find why results differ."
-    }
-  },
-  {
-    "id": "ac9s1i05-p-018",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "identify further questions",
-    "question": "Which question helps after a sponge absorbs water?",
-    "explanation": "A further question can compare another sponge.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Can the sponge fly?",
-      "Is water sleepy?",
-      "Will another sponge absorb more?"
-    ],
-    "correct": 2,
-    "audioPrompt": "Which question helps after a sponge absorbs water?",
-    "structuredExplanation": {
-      "summary": "A further question can compare another sponge."
-    }
-  },
-  {
-    "id": "ac9s1i05-p-019",
-    "curriculumCode": "AC9S1I05",
-    "bank": "practice",
-    "skill": "consider fair investigations",
-    "question": "A fair car test changes one thing. Which one?",
-    "explanation": "A fair test changes one thing at a time.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Ramp height",
-      "Car colour and ramp height",
-      "Car, ramp and floor"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "audioPrompt": "A fair car test changes one thing. Which one?",
+    "explanation": "The question follows the observed relationship between light and growth direction.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A fair test changes one thing at a time."
-    }
+      "summary": "The question follows the observed relationship between light and growth direction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-020",
+    "id": "ac9s1i05-r3-p-017",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "compare observations with others",
-    "question": "You and a friend both see rain. What can you say?",
-    "explanation": "The observations match.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "Read the two observers' cards. What do they agree on?",
+    "audioPrompt": "Read the two observers' cards. What do they agree on?",
+    "visual": "Observer 1: 4 snails on the wall. Observer 2: 4 snails beside the gate.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observer 1: 4 snails on the wall. Observer 2: 4 snails beside the gate.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-17.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Observer 1: 4 snails on the wall. Observer 2: 4 snails beside the gate.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-17.svg#model"
+    },
     "answers": [
-      "Rain is a sandwich",
-      "We observed the same thing",
-      "We must stop writing"
+      "both the count and the place",
+      "the number of snails",
+      "the place where the snails were"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "audioPrompt": "You and a friend both see rain. What can you say?",
+    "explanation": "Both recorded four snails, but at different locations.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "The observations match."
-    }
+      "summary": "Both recorded four snails, but at different locations.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-021",
+    "id": "ac9s1i05-r3-p-018",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "evaluate investigations",
-    "question": "The plant grew less than predicted. What should you compare?",
-    "explanation": "Comparing prediction with result shows if it matched.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A group wants to compare two ramp heights. What should it keep the same with guidance?",
+    "audioPrompt": "A group wants to compare two ramp heights. What should it keep the same with guidance?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Pot name and shoe size",
-      "Desk colour and lunch",
-      "Prediction and result"
+      "the height of both ramps",
+      "only the names of the children",
+      "the car and the place it rolls onto"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "audioPrompt": "The plant grew less than predicted. What should you compare?",
+    "explanation": "Keeping the car and surface the same helps focus the comparison on ramp height.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Comparing prediction with result shows if it matched."
-    }
+      "summary": "Keeping the car and surface the same helps focus the comparison on ramp height.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-022",
+    "id": "ac9s1i05-r3-p-019",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "consider fair investigations",
-    "question": "Which test is not fair?",
-    "explanation": "Changing many things makes comparison unfair.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A class predicted shade would keep ice longer. One shaded cube was much larger than the sunny cube. What should they question?",
+    "audioPrompt": "A class predicted shade would keep ice longer. One shaded cube was much larger than the sunny cube. What should they question?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Same ball, same ramp",
-      "Same water, same cups",
-      "Different balls, different ramps"
+      "whether cube size made the comparison unfair",
+      "whether the prediction was written neatly",
+      "whether shade has a shorter name"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": 0,
+    "explanation": "Different starting sizes could affect how long the cubes last.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Different starting sizes could affect how long the cubes last.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1i05-r3-p-020",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "printable": true,
+    "type": "single",
+    "question": "A leaf with holes is found beside an unmarked leaf. Which question could extend the investigation?",
+    "audioPrompt": "A leaf with holes is found beside an unmarked leaf. Which question could extend the investigation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which child owns the green pencil?",
+      "Will more holes appear if we keep observing these leaves?",
+      "Which leaf has the nicest name?"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "Repeated observations can explore whether the visible difference changes.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Repeated observations can explore whether the visible difference changes.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1i05-r3-p-021",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "printable": true,
+    "type": "single",
+    "question": "Use the trial record. Which conclusion uses every result?",
+    "audioPrompt": "Use the trial record. Which conclusion uses every result?",
+    "visual": "Trial 1: Car A went farther.. Trial 2: Car B went farther.. Trial 3: Car A went farther..",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Trial 1: Car A went farther.. Trial 2: Car B went farther.. Trial 3: Car A went farther..\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-21.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Trial 1: Car A went farther.. Trial 2: Car B went farther.. Trial 3: Car A went farther..",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-3/ac9s1i05-21.svg#model"
+    },
+    "answers": [
+      "A went farther in all three trials.",
+      "B went farther in all three trials.",
+      "A went farther twice, and B went farther once."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "audioPrompt": "Which test is not fair?",
+    "explanation": "The conclusion must preserve both the repeated result and the different result.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Changing many things makes comparison unfair."
-    }
+      "summary": "The conclusion must preserve both the repeated result and the different result.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-023",
+    "id": "ac9s1i05-r3-p-022",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "identify further questions",
-    "question": "Your shell sank. What next question fits?",
-    "explanation": "This further question follows from the result.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "Two children disagree about a count from the same photo. What could help?",
+    "audioPrompt": "Two children disagree about a count from the same photo. What could help?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Will another shell sink?",
-      "Can the shell sing?",
-      "Is the shell a cloud?"
+      "look at the photo together and count carefully",
+      "keep only the larger count without checking",
+      "choose the count that matches the prediction"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "audioPrompt": "Your shell sank. What next question fits?",
+    "explanation": "Rechecking the shared evidence can help resolve the disagreement.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "This further question follows from the result."
-    }
+      "summary": "Rechecking the shared evidence can help resolve the disagreement.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i05-p-024",
+    "id": "ac9s1i05-r3-p-023",
     "curriculumCode": "AC9S1I05",
     "bank": "practice",
-    "skill": "compare observations with others",
-    "question": "Why compare observations?",
-    "explanation": "Comparing observations helps check evidence and learn.",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
+    "question": "A toy car stopped early because someone touched it. What should the class do?",
+    "audioPrompt": "A toy car stopped early because someone touched it. What should the class do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "To check and learn",
-      "To hide results",
-      "To make guesses true"
+      "use it as proof that the ramp never works",
+      "note the touch and repeat without it",
+      "hide that trial and pretend it never happened"
     ],
-    "correct": 0,
-    "audioPrompt": "Why compare observations?",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": 1,
+    "explanation": "The touch affected the trial. Recording it and repeating helps make a clearer comparison.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Comparing observations helps check evidence and learn."
-    }
+      "summary": "The touch affected the trial. Recording it and repeating helps make a clearer comparison.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1i05-r3-p-024",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "skill": "comparing evidence, considering fairness and identifying further questions",
+    "printable": true,
+    "type": "single",
+    "question": "A test shows water passed through cloth but not plastic. Which further question follows?",
+    "audioPrompt": "A test shows water passed through cloth but not plastic. Which further question follows?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which colour of pencil is most popular?",
+      "How many chairs are in the room?",
+      "Would another cloth keep more water out?"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": 2,
+    "explanation": "The question extends the observed difference in water resistance.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The question extends the observed difference in water resistance.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
