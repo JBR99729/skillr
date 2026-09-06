@@ -1,2730 +1,1686 @@
 [
   {
-    "id": "ac9s1h01-p-001",
-    "curriculumCode": "AC9S1H01",
+    "id": "ac9s1h01-r2-p-001",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A gardener measures bean-plant height each Friday. How is science helping?",
-    "audioPrompt": "A gardener measures bean-plant height each Friday. How is science helping?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A gardener checks how dry the soil is before watering. How does this help?",
+    "audio_prompt": "A gardener checks how dry the soil is before watering. How does this help?",
     "answers": [
       {
-        "text": "Using measurements to track growth",
+        "text": "It helps decide whether water is needed.",
         "is_correct": true
       },
       {
-        "text": "Choosing the prettiest plant",
+        "text": "It shows how tall the plant will become.",
         "is_correct": false
       },
       {
-        "text": "Guessing without looking",
-        "is_correct": false
-      },
-      {
-        "text": "Making plants identical",
+        "text": "It tells which flower will open first.",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "Height measurements give evidence about growth over time.\nHint: Look for evidence.",
-    "structuredExplanation": {
-      "summary": "Height measurements give evidence about growth over time.",
-      "hint": "Look for evidence."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Checking the soil supplies useful evidence for today's watering decision.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-002",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1h01-p-002",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A cook uses a timer while bread bakes. What is measured?",
-    "audioPrompt": "A cook uses a timer while bread bakes. What is measured?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "A cook uses a timer while bread bakes. What information does it give?",
+    "audio_prompt": "A cook uses a timer while bread bakes. What information does it give?",
+    "answers": [
+      {
+        "text": "how warm the oven is",
+        "is_correct": false
+      },
+      {
+        "text": "how long the bread has baked",
+        "is_correct": true
+      },
+      {
+        "text": "how heavy the bread is",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A timer measures time. Other tools are needed for mass or temperature.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "colour",
-        "is_correct": false
-      },
-      {
-        "text": "taste",
-        "is_correct": false
-      },
-      {
-        "text": "weight",
-        "is_correct": false
-      },
-      {
-        "text": "time",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "A timer measures duration.\nHint: What does a timer tell us?",
-    "structuredExplanation": {
-      "summary": "A timer measures duration.",
-      "hint": "What does a timer tell us?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-003",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1h01-p-003",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A family checks the forecast before hanging washing. Why?",
-    "audioPrompt": "A family checks the forecast before hanging washing. Why?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "A family checks a rain forecast before hanging washing. How can it help?",
+    "audio_prompt": "A family checks a rain forecast before hanging washing. How can it help?",
+    "answers": [
+      {
+        "text": "They can find the weight of the clothes.",
+        "is_correct": false
+      },
+      {
+        "text": "They can work out how much washing powder to use.",
+        "is_correct": false
+      },
+      {
+        "text": "They can plan where to dry the clothes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The forecast helps them plan for possible rain, although it is not a guarantee.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "It guarantees no rain.",
-        "is_correct": false
-      },
-      {
-        "text": "It changes clothes.",
-        "is_correct": false
-      },
-      {
-        "text": "Weather information can help them choose when clothes may dry.",
-        "is_correct": true
-      },
-      {
-        "text": "It makes wind start.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Forecasts provide information for practical decisions but not certainty.\nHint: How can weather information help?",
-    "structuredExplanation": {
-      "summary": "Forecasts provide information for practical decisions but not certainty.",
-      "hint": "How can weather information help?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-004",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1h01-p-004",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Wet towels dried quickly on three warm breezy days. Which prediction is careful?",
-    "audioPrompt": "Wet towels dried quickly on three warm breezy days. Which prediction is careful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A nurse checks a person's temperature. What is being measured?",
+    "audio_prompt": "A nurse checks a person's temperature. What is being measured?",
     "answers": [
       {
-        "text": "Towels never dry indoors.",
-        "is_correct": false
-      },
-      {
-        "text": "A towel may dry quickly on another warm breezy day.",
+        "text": "how hot or cold their body is",
         "is_correct": true
       },
       {
-        "text": "It must dry in 10 minutes.",
+        "text": "how tall their body is",
         "is_correct": false
       },
       {
-        "text": "Wind always dries everything.",
+        "text": "how quickly they are growing",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "The prediction uses a pattern without claiming certainty.\nHint: Use may, not must.",
-    "structuredExplanation": {
-      "summary": "The prediction uses a pattern without claiming certainty.",
-      "hint": "Use may, not must."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A thermometer gives evidence about body temperature.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-005",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1h01-p-005",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A nurse uses a thermometer. What does it measure?",
-    "audioPrompt": "A nurse uses a thermometer. What does it measure?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A baker measures the water for a recipe. Why is measuring useful?",
+    "audio_prompt": "A baker measures the water for a recipe. Why is measuring useful?",
     "answers": [
       {
-        "text": "temperature",
+        "text": "It tells whether the oven is hot.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps use the needed amount.",
         "is_correct": true
       },
       {
-        "text": "height",
-        "is_correct": false
-      },
-      {
-        "text": "sound",
-        "is_correct": false
-      },
-      {
-        "text": "time",
+        "text": "It shows when the bread will rise.",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "A thermometer measures temperature.\nHint: Match tool and quantity.",
-    "structuredExplanation": {
-      "summary": "A thermometer measures temperature.",
-      "hint": "Match tool and quantity."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Measuring helps the baker use the recipe's amount of water.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-006",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1h01-p-006",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence is an observation?",
-    "audioPrompt": "Which sentence is an observation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A builder checks that a shelf is level. Which everyday problem could this help prevent?",
+    "audio_prompt": "A builder checks that a shelf is level. Which everyday problem could this help prevent?",
     "answers": [
       {
-        "text": "The puddle may dry by lunch.",
+        "text": "objects being the wrong colour",
         "is_correct": false
       },
       {
-        "text": "Sun will dry it.",
+        "text": "objects weighing more than before",
         "is_correct": false
       },
       {
-        "text": "Tomorrow will be hotter.",
-        "is_correct": false
-      },
-      {
-        "text": "The puddle is 40 cm wide.",
+        "text": "objects rolling towards one end",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "An observation reports something checked now.\nHint: What is already known?",
-    "structuredExplanation": {
-      "summary": "An observation reports something checked now.",
-      "hint": "What is already known?"
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A level check helps the builder avoid an unwanted slope.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-007",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1h01-p-007",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which prediction uses a pattern?",
-    "audioPrompt": "Which prediction uses a pattern?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A gardener records plant height each week. What can the record help show?",
+    "audio_prompt": "A gardener records plant height each week. What can the record help show?",
     "answers": [
       {
-        "text": "I like magpies, so they will come.",
-        "is_correct": false
-      },
-      {
-        "text": "The lawn is green.",
-        "is_correct": false
-      },
-      {
-        "text": "Magpies visited after watering three mornings, so they may visit after watering tomorrow.",
+        "text": "how the plant grows over time",
         "is_correct": true
       },
       {
-        "text": "Magpies always visit wet lawns.",
+        "text": "how many seeds are inside the soil",
+        "is_correct": false
+      },
+      {
+        "text": "how tall every plant will become",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Repeated observations can support a cautious prediction.\nHint: Past evidence + may.",
-    "structuredExplanation": {
-      "summary": "Repeated observations can support a cautious prediction.",
-      "hint": "Past evidence + may."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated height measurements show changes in this plant's growth.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-008",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1h01-p-008",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A builder uses a spirit level on a shelf. What is being checked?",
-    "audioPrompt": "A builder uses a spirit level on a shelf. What is being checked?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A family measures the rain in their garden. Which decision can that information help with?",
+    "audio_prompt": "A family measures the rain in their garden. Which decision can that information help with?",
     "answers": [
       {
-        "text": "its temperature",
+        "text": "how many leaves will grow tomorrow",
         "is_correct": false
       },
       {
-        "text": "whether the shelf is level",
+        "text": "whether the garden may need more water",
         "is_correct": true
       },
       {
-        "text": "the shelf colour",
-        "is_correct": false
-      },
-      {
-        "text": "who owns it",
+        "text": "which flowers have the strongest smell",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "A spirit level checks whether a surface is level.\nHint: What can the tool show?",
-    "structuredExplanation": {
-      "summary": "A spirit level checks whether a surface is level.",
-      "hint": "What can the tool show?"
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rainfall information can help people decide whether to check for extra watering needs.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-009",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1h01-p-009",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which daily activity uses measurement?",
-    "audioPrompt": "Which daily activity uses measurement?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Wet towels dried quickly on three warm, breezy days. What is a sensible prediction for another similar day?",
+    "audio_prompt": "Wet towels dried quickly on three warm, breezy days. What is a sensible prediction for another similar day?",
     "answers": [
       {
-        "text": "Pouring 250 mL of water into a recipe",
-        "is_correct": true
-      },
-      {
-        "text": "Choosing a favourite cup",
+        "text": "The towels may dry more slowly.",
         "is_correct": false
       },
       {
-        "text": "Saying soup smells nice",
+        "text": "The towels may stay wet all day.",
         "is_correct": false
       },
       {
-        "text": "Drawing a lunchbox",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "250 mL is a measured volume.\nHint: Look for a number and unit.",
-    "structuredExplanation": {
-      "summary": "250 mL is a measured volume.",
-      "hint": "Look for a number and unit."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1h01-p-010",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A shadow is longer each morning than at lunchtime for several days. What was noticed?",
-    "audioPrompt": "A shadow is longer each morning than at lunchtime for several days. What was noticed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "a forever rule",
-        "is_correct": false
-      },
-      {
-        "text": "a favourite shadow",
-        "is_correct": false
-      },
-      {
-        "text": "a cause",
-        "is_correct": false
-      },
-      {
-        "text": "a repeated pattern",
+        "text": "The towels may dry quickly again.",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "A repeated difference across observations is a pattern.\nHint: What repeats?",
-    "structuredExplanation": {
-      "summary": "A repeated difference across observations is a pattern.",
-      "hint": "What repeats?"
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The repeated observations support a prediction, but do not guarantee an exact drying time.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1h01-p-011",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why record plant height instead of relying only on memory?",
-    "audioPrompt": "Why record plant height instead of relying only on memory?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Memory is never useful.",
-        "is_correct": false
-      },
-      {
-        "text": "Tall plants always win.",
-        "is_correct": false
-      },
-      {
-        "text": "The record can be checked and compared later.",
-        "is_correct": true
-      },
-      {
-        "text": "Writing makes plants grow.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Records preserve evidence over time.\nHint: Why keep the numbers?",
-    "structuredExplanation": {
-      "summary": "Records preserve evidence over time.",
-      "hint": "Why keep the numbers?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-010",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1h01-p-012",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “It rained after dark clouds once, so it will always rain” too strong?",
-    "audioPrompt": "Why is “It rained after dark clouds once, so it will always rain” too strong?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A gardener sees seedlings leaning towards a window on several days. What might another seedling do there?",
+    "audio_prompt": "A gardener sees seedlings leaning towards a window on several days. What might another seedling do there?",
     "answers": [
       {
-        "text": "Weather cannot be studied.",
-        "is_correct": false
-      },
-      {
-        "text": "One observation cannot prove every future result.",
+        "text": "grow towards the window too",
         "is_correct": true
       },
       {
-        "text": "Dark clouds never bring rain.",
+        "text": "always grow away from the window",
         "is_correct": false
       },
       {
-        "text": "Rain cannot be observed.",
+        "text": "stop growing as soon as it is watered",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "A small amount of evidence cannot justify “always”.\nHint: One result is not forever.",
-    "structuredExplanation": {
-      "summary": "A small amount of evidence cannot justify “always”.",
-      "hint": "One result is not forever."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The observed growth direction gives a reason for the prediction.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-011",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1h01-p-013",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Dough rose faster in a warm place on several baking days. How can that help next time?",
-    "audioPrompt": "Dough rose faster in a warm place on several baking days. How can that help next time?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Read the drying record. Which day looks more suitable for drying washing quickly outdoors?",
+    "audio_prompt": "Read the drying record. Which day looks more suitable for drying washing quickly outdoors?",
     "answers": [
       {
-        "text": "It can support a prediction that dough may rise faster there again.",
+        "text": "either day must take the same time",
+        "is_correct": false
+      },
+      {
+        "text": "a warm, breezy day",
         "is_correct": true
       },
       {
-        "text": "It proves every dough will.",
-        "is_correct": false
-      },
-      {
-        "text": "Warmth becomes an ingredient.",
-        "is_correct": false
-      },
-      {
-        "text": "No more observations are useful.",
+        "text": "a cool, still day",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "Repeated evidence can guide a future choice.\nHint: Use the pattern cautiously.",
-    "structuredExplanation": {
-      "summary": "Repeated evidence can guide a future choice.",
-      "hint": "Use the pattern cautiously."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recorded washing dried faster in warm, breezy conditions.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Warm, breezy days: Washing dried quickly: 3 days. Cool, still days: Washing dried slowly: 3 days.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1h01-11.svg#model"
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-012",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1h01-p-014",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why measure a person’s temperature instead of only looking at them?",
-    "audioPrompt": "Why measure a person’s temperature instead of only looking at them?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A family finds dew on the grass on several cool mornings. What might they expect on another similar morning?",
+    "audio_prompt": "A family finds dew on the grass on several cool mornings. What might they expect on another similar morning?",
     "answers": [
       {
-        "text": "Looking is forbidden.",
+        "text": "the grass must be dry",
         "is_correct": false
       },
       {
-        "text": "Temperature gives every diagnosis.",
+        "text": "the whole garden will be flooded",
         "is_correct": false
       },
       {
-        "text": "Thermometers show causes.",
-        "is_correct": false
-      },
-      {
-        "text": "A measurement gives specific evidence that can be compared.",
+        "text": "the grass may be damp again",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Measurements add precise evidence.\nHint: What does the number add?",
-    "structuredExplanation": {
-      "summary": "Measurements add precise evidence.",
-      "hint": "What does the number add?"
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pattern supports expecting damp grass, not a flood or a guaranteed result.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-013",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1h01-p-015",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Solar lights stayed on longer after sunny days. Why is “They may stay on longer after another sunny day” scientific?",
-    "audioPrompt": "Solar lights stayed on longer after sunny days. Why is “They may stay on longer after another sunny day” scientific?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A child notices a slide gets hot on sunny afternoons. How can this knowledge help before play?",
+    "audio_prompt": "A child notices a slide gets hot on sunny afternoons. How can this knowledge help before play?",
     "answers": [
       {
-        "text": "It is true because it mentions Sun.",
-        "is_correct": false
-      },
-      {
-        "text": "It cannot be wrong.",
-        "is_correct": false
-      },
-      {
-        "text": "It uses a repeated observation and can still be checked.",
+        "text": "An adult can check whether the slide is suitable.",
         "is_correct": true
       },
       {
-        "text": "It guarantees forever.",
+        "text": "The child can assume it is always cool.",
+        "is_correct": false
+      },
+      {
+        "text": "The child can decide from the slide's colour alone.",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "A scientific prediction remains testable and cautious.\nHint: Evidence + may.",
-    "structuredExplanation": {
-      "summary": "A scientific prediction remains testable and cautious.",
-      "hint": "Evidence + may."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A repeated observation helps people know what to check before using the slide.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-014",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1h01-p-016",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why measure recipe ingredients rather than add random amounts?",
-    "audioPrompt": "Why measure recipe ingredients rather than add random amounts?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Cold drinks warmed after being left on the bench. How can a café use this observation?",
+    "audio_prompt": "Cold drinks warmed after being left on the bench. How can a café use this observation?",
     "answers": [
       {
-        "text": "Cooking is not science.",
+        "text": "choose cups by colour to keep drinks cold",
         "is_correct": false
       },
       {
-        "text": "Measurements make amounts more consistent and comparable.",
+        "text": "keep drinks chilled until needed",
         "is_correct": true
       },
       {
-        "text": "Random amounts are illegal.",
-        "is_correct": false
-      },
-      {
-        "text": "Measuring guarantees perfect food.",
+        "text": "put drinks on the bench much earlier",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Repeatable amounts help compare outcomes.\nHint: Same amount next time.",
-    "structuredExplanation": {
-      "summary": "Repeatable amounts help compare outcomes.",
-      "hint": "Same amount next time."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The observation helps the café plan how to serve drinks cold.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-015",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1h01-p-017",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Wet shoes dried fastest by a sunny window yesterday. Why is that useful for today’s prediction?",
-    "audioPrompt": "Wet shoes dried fastest by a sunny window yesterday. Why is that useful for today’s prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "A gardener sees that a pot dries out faster on windy days. What should they do on the next windy day?",
+    "audio_prompt": "A gardener sees that a pot dries out faster on windy days. What should they do on the next windy day?",
+    "answers": [
+      {
+        "text": "add water without checking, every minute",
+        "is_correct": false
+      },
+      {
+        "text": "assume wind means the soil stays wet",
+        "is_correct": false
+      },
+      {
+        "text": "check the soil sooner",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pattern helps choose when to check. It does not prove that water is needed at every moment.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "It is relevant past experience about drying.",
-        "is_correct": true
-      },
-      {
-        "text": "Windows are lucky.",
-        "is_correct": false
-      },
-      {
-        "text": "Yesterday guarantees today.",
-        "is_correct": false
-      },
-      {
-        "text": "Shoes are always wet.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Past observations can support new predictions when relevant.\nHint: Use related experience.",
-    "structuredExplanation": {
-      "summary": "Past observations can support new predictions when relevant.",
-      "hint": "Use related experience."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-016",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1h01-p-018",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why can a wrong prediction still be useful?",
-    "audioPrompt": "Why can a wrong prediction still be useful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "A lunchbox test shows one ice pack keeps food cool longer. How can a parent use the result?",
+    "audio_prompt": "A lunchbox test shows one ice pack keeps food cool longer. How can a parent use the result?",
+    "answers": [
+      {
+        "text": "choose that pack when cooling is needed longer",
+        "is_correct": true
+      },
+      {
+        "text": "choose only by the picture on the pack",
+        "is_correct": false
+      },
+      {
+        "text": "assume the pack stays cold forever",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The test can guide a useful choice within the conditions tested.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "It must be erased.",
-        "is_correct": false
-      },
-      {
-        "text": "The test failed.",
-        "is_correct": false
-      },
-      {
-        "text": "Only correct guesses are science.",
-        "is_correct": false
-      },
-      {
-        "text": "Comparing it with the result can improve our idea.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Science learns by checking expectations against evidence.\nHint: Unexpected results teach too.",
-    "structuredExplanation": {
-      "summary": "Science learns by checking expectations against evidence.",
-      "hint": "Unexpected results teach too."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-017",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1h01-p-019",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A mechanic hears the same odd engine sound before two breakdowns. Why can the pattern matter?",
-    "audioPrompt": "A mechanic hears the same odd engine sound before two breakdowns. Why can the pattern matter?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Use the flower-shop record. When would checking the bucket water earlier be most useful?",
+    "audio_prompt": "Use the flower-shop record. When would checking the bucket water earlier be most useful?",
     "answers": [
       {
-        "text": "Listening repairs engines.",
+        "text": "after every bucket is already empty",
         "is_correct": false
       },
       {
-        "text": "Patterns only matter at school.",
-        "is_correct": false
-      },
-      {
-        "text": "It may tell the mechanic what to check when the sound returns.",
+        "text": "on a warm day",
         "is_correct": true
       },
       {
-        "text": "It proves the exact fault every time.",
+        "text": "on a cool day only",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Repeated observations can guide further checking.\nHint: Pattern guides, not proves.",
-    "structuredExplanation": {
-      "summary": "Repeated observations can guide further checking.",
-      "hint": "Pattern guides, not proves."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The record shows a faster fall in water level on warm days.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1h01-p-020",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why keep checking a pattern after making a prediction?",
-    "audioPrompt": "Why keep checking a pattern after making a prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+    "visual": {
+      "type": "svg",
+      "alt_text": "Warm days: Bucket water fell quickly. Cool days: Bucket water fell slowly.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1h01-17.svg#model"
     },
-    "answers": [
-      {
-        "text": "Checking makes old data false.",
-        "is_correct": false
-      },
-      {
-        "text": "New evidence can support, change or challenge it.",
-        "is_correct": true
-      },
-      {
-        "text": "Predictions end observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Patterns never change.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Scientific ideas can be updated as evidence grows.\nHint: More evidence matters.",
-    "structuredExplanation": {
-      "summary": "Scientific ideas can be updated as evidence grows.",
-      "hint": "More evidence matters."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1h01-p-021",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Who is using science most clearly?",
-    "audioPrompt": "Who is using science most clearly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Kai measures both seedlings weekly before choosing the better spot.",
-        "is_correct": true
-      },
-      {
-        "text": "Zoe chooses the nicest pot.",
-        "is_correct": false
-      },
-      {
-        "text": "Ben uses a lucky number.",
-        "is_correct": false
-      },
-      {
-        "text": "Ari refuses to look.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Kai uses repeated measurements for a decision.\nHint: Who checks evidence?",
-    "structuredExplanation": {
-      "summary": "Kai uses repeated measurements for a decision.",
-      "hint": "Who checks evidence?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1h01-p-022",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which prediction is best supported?",
-    "audioPrompt": "Which prediction is best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It will be slippery because Monday is unlucky.",
-        "is_correct": false
-      },
-      {
-        "text": "Every cold day has ice.",
-        "is_correct": false
-      },
-      {
-        "text": "Grey paths freeze more.",
-        "is_correct": false
-      },
-      {
-        "text": "Three icy mornings made the path slippery, so it may be slippery on another icy morning.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The first uses repeated relevant evidence cautiously.\nHint: Relevant past pattern.",
-    "structuredExplanation": {
-      "summary": "The first uses repeated relevant evidence cautiously.",
-      "hint": "Relevant past pattern."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1h01-p-023",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement confuses observation and prediction?",
-    "audioPrompt": "Which statement confuses observation and prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "“The soup is steaming” is an observation.",
-        "is_correct": false
-      },
-      {
-        "text": "“The soup measured 60°C” is an observation.",
-        "is_correct": false
-      },
-      {
-        "text": "“The soup is 60°C now” is a prediction.",
-        "is_correct": true
-      },
-      {
-        "text": "“The soup may cool” is a prediction.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A current measured temperature is an observation.\nHint: Now versus later.",
-    "structuredExplanation": {
-      "summary": "A current measured temperature is an observation.",
-      "hint": "Now versus later."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1h01-p-024",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "One watered plant grew taller next week. Which conclusion is most careful?",
-    "audioPrompt": "One watered plant grew taller next week. Which conclusion is most careful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Ignore the result.",
-        "is_correct": false
-      },
-      {
-        "text": "The plant grew after watering, but more evidence is needed before claiming cause.",
-        "is_correct": true
-      },
-      {
-        "text": "Watering always causes equal growth.",
-        "is_correct": false
-      },
-      {
-        "text": "One result proves the cause.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "One result cannot establish a broad cause-and-effect rule.\nHint: Do not overclaim.",
-    "structuredExplanation": {
-      "summary": "One result cannot establish a broad cause-and-effect rule.",
-      "hint": "Do not overclaim."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1h01-p-025",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which tool best checks whether bath water became cooler?",
-    "audioPrompt": "Which tool best checks whether bath water became cooler?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "thermometer",
-        "is_correct": true
-      },
-      {
-        "text": "ruler",
-        "is_correct": false
-      },
-      {
-        "text": "scales",
-        "is_correct": false
-      },
-      {
-        "text": "magnifier",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "A thermometer measures temperature.\nHint: What quantity changes?",
-    "structuredExplanation": {
-      "summary": "A thermometer measures temperature.",
-      "hint": "What quantity changes?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1h01-p-026",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which daily decision uses a pattern?",
-    "audioPrompt": "Which daily decision uses a pattern?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Sam says green is lucky.",
-        "is_correct": false
-      },
-      {
-        "text": "Sam picks favourite grass.",
-        "is_correct": false
-      },
-      {
-        "text": "Sam never looks outside.",
-        "is_correct": false
-      },
-      {
-        "text": "After several dewy mornings, Sam expects the grass may be wet again tomorrow morning.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Repeated observations support the expectation.\nHint: Pattern, not preference.",
-    "structuredExplanation": {
-      "summary": "Repeated observations support the expectation.",
-      "hint": "Pattern, not preference."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1h01-p-027",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement overclaims?",
-    "audioPrompt": "Which statement overclaims?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "We can record more arrivals.",
-        "is_correct": false
-      },
-      {
-        "text": "Today can be compared with earlier days.",
-        "is_correct": false
-      },
-      {
-        "text": "The bus arrived near 8:10 four days, so it will arrive exactly then forever.",
-        "is_correct": true
-      },
-      {
-        "text": "8:10 may be a useful time to be ready.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A short pattern cannot guarantee an exact result forever.\nHint: Watch exact and forever.",
-    "structuredExplanation": {
-      "summary": "A short pattern cannot guarantee an exact result forever.",
-      "hint": "Watch exact and forever."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1h01-p-028",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A cook compares cooling spots. Which evidence is best?",
-    "audioPrompt": "A cook compares cooling spots. Which evidence is best?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Favourite flavour",
-        "is_correct": false
-      },
-      {
-        "text": "Temperature after the same amount of time in each spot",
-        "is_correct": true
-      },
-      {
-        "text": "Plate colour",
-        "is_correct": false
-      },
-      {
-        "text": "Distance from door",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Comparable temperature readings directly address cooling.\nHint: Measure the outcome.",
-    "structuredExplanation": {
-      "summary": "Comparable temperature readings directly address cooling.",
-      "hint": "Measure the outcome."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1h01-p-029",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which separates evidence from opinion?",
-    "audioPrompt": "Which separates evidence from opinion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "“The plant grew 3 cm” is evidence; “it is the nicest plant” is opinion.",
-        "is_correct": true
-      },
-      {
-        "text": "Both are measurements.",
-        "is_correct": false
-      },
-      {
-        "text": "Both are predictions.",
-        "is_correct": false
-      },
-      {
-        "text": "Opinion proves measurement.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Growth can be measured; “nicest” is preference.\nHint: Can others check it?",
-    "structuredExplanation": {
-      "summary": "Growth can be measured; “nicest” is preference.",
-      "hint": "Can others check it?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1h01-p-030",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A pattern stops repeating. What is good scientific thinking?",
-    "audioPrompt": "A pattern stops repeating. What is good scientific thinking?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Erase the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep saying the old pattern must be true.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the measurement.",
-        "is_correct": false
-      },
-      {
-        "text": "Record the new result and reconsider the prediction.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Unexpected evidence should be kept and used.\nHint: Evidence first.",
-    "structuredExplanation": {
-      "summary": "Unexpected evidence should be kept and used.",
-      "hint": "Evidence first."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1h01-p-031",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A dog waits by the door before its owner arrives on four evenings. Best prediction?",
-    "audioPrompt": "A dog waits by the door before its owner arrives on four evenings. Best prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The dog knows the future.",
-        "is_correct": false
-      },
-      {
-        "text": "The door causes the owner.",
-        "is_correct": false
-      },
-      {
-        "text": "It may wait there again near the usual arrival time.",
-        "is_correct": true
-      },
-      {
-        "text": "It will do so at the exact second forever.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Repeated behaviour supports a cautious prediction.\nHint: May, not must.",
-    "structuredExplanation": {
-      "summary": "Repeated behaviour supports a cautious prediction.",
-      "hint": "May, not must."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-018",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1h01-p-032",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "How could a child compare drink cooling on a bench and in a fridge?",
-    "audioPrompt": "How could a child compare drink cooling on a bench and in a fridge?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Solar garden lights stayed on longer after several sunny days. What prediction uses that pattern?",
+    "audio_prompt": "Solar garden lights stayed on longer after several sunny days. What prediction uses that pattern?",
     "answers": [
       {
-        "text": "Use only one drink.",
+        "text": "They may stay on for less time after a sunny day.",
         "is_correct": false
       },
       {
-        "text": "Measure temperature in each place after equal times.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose the colder-looking place.",
+        "text": "They may stay on longer after a cloudy day.",
         "is_correct": false
       },
       {
-        "text": "Ask a friend.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Comparable temperature measurements provide evidence.\nHint: Same time, both places.",
-    "structuredExplanation": {
-      "summary": "Comparable temperature measurements provide evidence.",
-      "hint": "Same time, both places."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1h01-p-033",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Washing dried quickly on two warm windy days and slowly on a cool still day. Best plan?",
-    "audioPrompt": "Washing dried quickly on two warm windy days and slowly on a cool still day. Best plan?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Choose warm breezy conditions when possible but keep checking the weather.",
-        "is_correct": true
-      },
-      {
-        "text": "Only wash on Tuesdays.",
-        "is_correct": false
-      },
-      {
-        "text": "Warm wind dries everything instantly.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the record.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "The pattern can guide a practical decision without guaranteeing it.\nHint: Use evidence cautiously.",
-    "structuredExplanation": {
-      "summary": "The pattern can guide a practical decision without guaranteeing it.",
-      "hint": "Use evidence cautiously."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1h01-p-034",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "An ice block melted faster in sunlight once. How can stronger evidence be gathered?",
-    "audioPrompt": "An ice block melted faster in sunlight once. How can stronger evidence be gathered?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Announce a forever rule.",
-        "is_correct": false
-      },
-      {
-        "text": "Change today’s result.",
-        "is_correct": false
-      },
-      {
-        "text": "Stop observing.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeat the sun/shade comparison and record results.",
+        "text": "They may stay on longer after another sunny day.",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Repeated observations can show whether the pattern recurs.\nHint: Check again.",
-    "structuredExplanation": {
-      "summary": "Repeated observations can show whether the pattern recurs.",
-      "hint": "Check again."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pattern supports a likely difference, not an exact time or a claim about every cloudy day.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1h01-p-035",
-    "curriculumCode": "AC9S1H01",
-    "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Seedlings lean toward a window. Which action tests a prediction?",
-    "audioPrompt": "Seedlings lean toward a window. Which action tests a prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Pick a favourite seedling.",
-        "is_correct": false
-      },
-      {
-        "text": "Move them randomly.",
-        "is_correct": false
-      },
-      {
-        "text": "Predict new seedlings may lean toward the window, then record their growth direction.",
-        "is_correct": true
-      },
-      {
-        "text": "Say every plant leans east.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The prediction is testable with future observations.\nHint: Predict + check.",
-    "structuredExplanation": {
-      "summary": "The prediction is testable with future observations.",
-      "hint": "Predict + check."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-019",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1h01-p-036",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Cold drinks warm when left out of the fridge. How can this knowledge help?",
-    "audioPrompt": "Cold drinks warm when left out of the fridge. How can this knowledge help?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "A gardener expected soil to stay damp, but finds it dry. What should guide today's watering decision?",
+    "audio_prompt": "A gardener expected soil to stay damp, but finds it dry. What should guide today's watering decision?",
+    "answers": [
+      {
+        "text": "the soil they have checked today",
+        "is_correct": true
+      },
+      {
+        "text": "only yesterday's expectation",
+        "is_correct": false
+      },
+      {
+        "text": "the colour of the watering can",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Current observations matter when making the decision.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Stop checking.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep drinks chilled until needed when serving them cold.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave them in sun.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume all liquids warm equally.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Observed temperature changes can guide storage decisions.\nHint: Use evidence to decide.",
-    "structuredExplanation": {
-      "summary": "Observed temperature changes can guide storage decisions.",
-      "hint": "Use evidence to decide."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-020",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1h01-p-037",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A bicycle tyre feels softer every few days. Best science-informed action?",
-    "audioPrompt": "A bicycle tyre feels softer every few days. Best science-informed action?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "A mechanic notices a bicycle tyre keeps losing air. How can the pattern help?",
+    "audio_prompt": "A mechanic notices a bicycle tyre keeps losing air. How can the pattern help?",
+    "answers": [
+      {
+        "text": "It shows the bicycle needs a new seat.",
+        "is_correct": false
+      },
+      {
+        "text": "It suggests the tyre needs checking for a leak.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves every bicycle tyre has a leak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeated air loss gives a reason to check the tyre, but does not identify every possible cause.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Check tyre pressure regularly and look for a pattern.",
-        "is_correct": true
-      },
-      {
-        "text": "Guess from colour.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume it is fine forever.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace the bike without checking.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Regular measurements can show whether pressure repeatedly drops.\nHint: Measure before deciding.",
-    "structuredExplanation": {
-      "summary": "Regular measurements can show whether pressure repeatedly drops.",
-      "hint": "Measure before deciding."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-021",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1h01-p-038",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Sunrise has become earlier over several weeks. Which statement is best?",
-    "audioPrompt": "Sunrise has become earlier over several weeks. Which statement is best?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "Two lunch covers were tested equally. Cover A kept out more water each time. Which choice uses the evidence?",
+    "audio_prompt": "Two lunch covers were tested equally. Cover A kept out more water each time. Which choice uses the evidence?",
+    "answers": [
+      {
+        "text": "choose B because its colour is brighter",
+        "is_correct": false
+      },
+      {
+        "text": "assume A will keep out every amount of rain",
+        "is_correct": false
+      },
+      {
+        "text": "choose A when rain protection is needed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated tests support choosing A, without proving it works in every condition.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "It will become earlier forever.",
-        "is_correct": false
-      },
-      {
-        "text": "Tomorrow’s exact time is proved.",
-        "is_correct": false
-      },
-      {
-        "text": "Clocks are unnecessary.",
-        "is_correct": false
-      },
-      {
-        "text": "It may continue becoming earlier for a while, but keep checking times.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "A trend supports a cautious short-term prediction.\nHint: Pattern guides, not guarantees.",
-    "structuredExplanation": {
-      "summary": "A trend supports a cautious short-term prediction.",
-      "hint": "Pattern guides, not guarantees."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-022",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1h01-p-039",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A shaded puddle was predicted to last longer, but the sunny one lasted longer today. What should be said?",
-    "audioPrompt": "A shaded puddle was predicted to last longer, but the sunny one lasted longer today. What should be said?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "A child wants a picnic spot that stays shaded at lunch. Which record is most useful?",
+    "audio_prompt": "A child wants a picnic spot that stays shaded at lunch. Which record is most useful?",
+    "answers": [
+      {
+        "text": "shade at lunchtime on several days",
+        "is_correct": true
+      },
+      {
+        "text": "shade early in the morning only",
+        "is_correct": false
+      },
+      {
+        "text": "the height of the picnic table",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Observations at the relevant time help the child make a useful prediction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Change the record.",
-        "is_correct": false
-      },
-      {
-        "text": "Earlier observations vanished.",
-        "is_correct": false
-      },
-      {
-        "text": "Today did not match my prediction; record it and keep investigating.",
-        "is_correct": true
-      },
-      {
-        "text": "The result must be wrong.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Unexpected evidence should be recorded honestly.\nHint: Do not force the result.",
-    "structuredExplanation": {
-      "summary": "Unexpected evidence should be recorded honestly.",
-      "hint": "Do not force the result."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-023",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1h01-p-040",
-    "curriculumCode": "AC9S1H01",
     "bank": "practice",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which example best shows science helping an everyday decision?",
-    "audioPrompt": "Which example best shows science helping an everyday decision?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "Three previous warm days helped washing dry quickly. Today is warm but rain is forecast. What is a sensible plan?",
+    "audio_prompt": "Three previous warm days helped washing dry quickly. Today is warm but rain is forecast. What is a sensible plan?",
+    "answers": [
+      {
+        "text": "assume warmth prevents rain",
+        "is_correct": false
+      },
+      {
+        "text": "consider both the drying pattern and the rain forecast",
+        "is_correct": true
+      },
+      {
+        "text": "use the old pattern and ignore possible rain",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful decision considers new information as well as past patterns.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Use the nearest without checking.",
-        "is_correct": false
-      },
-      {
-        "text": "Compare how quickly two lunchbox ice packs warm, then choose the one staying cool longer.",
-        "is_correct": true
-      },
-      {
-        "text": "Pick the funniest picture.",
-        "is_correct": false
-      },
-      {
-        "text": "Say blue must be colder.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Relevant measurements can guide a practical choice.\nHint: Observe, compare, decide.",
-    "structuredExplanation": {
-      "summary": "Relevant measurements can guide a practical choice.",
-      "hint": "Observe, compare, decide."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1h01-r2-p-024",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A plant nursery tests two watering plans before choosing one. How is science helping?",
+    "audio_prompt": "A plant nursery tests two watering plans before choosing one. How is science helping?",
+    "answers": [
+      {
+        "text": "They choose the plan with the shortest name.",
+        "is_correct": false
+      },
+      {
+        "text": "They know both plans must work equally well.",
+        "is_correct": false
+      },
+      {
+        "text": "They use observations to choose a plan.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Testing supplies evidence for a practical decision.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-001",
-    "curriculumCode": "AC9S1H01",
+    "id": "ac9s1h01-r2-t-001",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "test",
     "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A family notices their bathroom mirror fogs after several hot showers. Which is a careful prediction?",
-    "audioPrompt": "A family notices their bathroom mirror fogs after several hot showers. Which is a careful prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "question": "A chef checks the temperature of food with a thermometer. What information does this provide?",
+    "audio_prompt": "A chef checks the temperature of food with a thermometer. What information does this provide?",
+    "answers": [
+      {
+        "text": "how hot or cold the food is",
+        "is_correct": true
+      },
+      {
+        "text": "how much the food weighs",
+        "is_correct": false
+      },
+      {
+        "text": "how much food is in the pot",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A thermometer measures temperature, which can inform the chef's next step.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "It must fog after every shower everywhere.",
-        "is_correct": false
-      },
-      {
-        "text": "The mirror likes hot water.",
-        "is_correct": false
-      },
-      {
-        "text": "Tuesday makes mirrors fog.",
-        "is_correct": false
-      },
-      {
-        "text": "It may fog again after another hot shower.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The first statement uses a repeated observation without making a guarantee.\nHint: Use the pattern cautiously.",
-    "structuredExplanation": {
-      "summary": "The first statement uses a repeated observation without making a guarantee.",
-      "hint": "Use the pattern cautiously."
-    },
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1H01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-002",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A florist checks bucket water each afternoon. Why keep the measurements?",
-    "audioPrompt": "A florist checks bucket water each afternoon. Why keep the measurements?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "To prove every bucket loses the same amount.",
-        "is_correct": false
-      },
-      {
-        "text": "To avoid looking at flowers.",
-        "is_correct": false
-      },
-      {
-        "text": "To compare water levels and decide when more is needed.",
-        "is_correct": true
-      },
-      {
-        "text": "To change flower colour.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Measurements provide evidence for a practical decision.\nHint: How can the record help?",
-    "structuredExplanation": {
-      "summary": "Measurements provide evidence for a practical decision.",
-      "hint": "How can the record help?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-002",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A family checks whether their garden soil is dry before using a hose. Why?",
+    "audio_prompt": "A family checks whether their garden soil is dry before using a hose. Why?",
+    "answers": [
+      {
+        "text": "to predict every plant's final height",
+        "is_correct": false
+      },
+      {
+        "text": "to decide whether watering is needed",
+        "is_correct": true
+      },
+      {
+        "text": "to find the garden's exact age",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The soil observation helps with a watering decision.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-003",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which worker is using measurement?",
-    "audioPrompt": "Which worker is using measurement?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A driver likes one song best.",
-        "is_correct": false
-      },
-      {
-        "text": "A barista checks milk temperature.",
-        "is_correct": true
-      },
-      {
-        "text": "A painter chooses a favourite colour.",
-        "is_correct": false
-      },
-      {
-        "text": "A cashier smiles.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Checking temperature is a measurement.\nHint: Look for a quantity being checked.",
-    "structuredExplanation": {
-      "summary": "Checking temperature is a measurement.",
-      "hint": "Look for a quantity being checked."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-003",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A builder measures a gap before cutting a board. How does this help?",
+    "audio_prompt": "A builder measures a gap before cutting a board. How does this help?",
+    "answers": [
+      {
+        "text": "It tells the board's colour.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes every board the same weight.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps choose the needed board length.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A measurement helps the builder fit the board to the gap.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-004",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Snails appeared on a path after rain on three mornings. Which statement is best?",
-    "audioPrompt": "Snails appeared on a path after rain on three mornings. Which statement is best?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Snails may appear there after another rainy morning.",
-        "is_correct": true
-      },
-      {
-        "text": "Rain always creates snails.",
-        "is_correct": false
-      },
-      {
-        "text": "Exactly three will appear every time.",
-        "is_correct": false
-      },
-      {
-        "text": "Snails only live on paths.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "The repeated observation supports a cautious prediction.\nHint: May, not always.",
-    "structuredExplanation": {
-      "summary": "The repeated observation supports a cautious prediction.",
-      "hint": "May, not always."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-004",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A florist records water levels in flower buckets. What can the record help them decide?",
+    "audio_prompt": "A florist records water levels in flower buckets. What can the record help them decide?",
+    "answers": [
+      {
+        "text": "when to check and refill the buckets",
+        "is_correct": true
+      },
+      {
+        "text": "which bucket is the prettiest",
+        "is_correct": false
+      },
+      {
+        "text": "the exact date every flower will open",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The water-level record can reveal when the flowers may need more water.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-005",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why might a swimming instructor check water temperature?",
-    "audioPrompt": "Why might a swimming instructor check water temperature?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "To make the pool warmer.",
-        "is_correct": false
-      },
-      {
-        "text": "To prove everyone feels the same.",
-        "is_correct": false
-      },
-      {
-        "text": "To measure pool length.",
-        "is_correct": false
-      },
-      {
-        "text": "To use evidence about whether the water is suitable for the planned activity.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Temperature information can guide a practical safety and comfort decision.\nHint: What decision could the number support?",
-    "structuredExplanation": {
-      "summary": "Temperature information can guide a practical safety and comfort decision.",
-      "hint": "What decision could the number support?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-005",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "Snails appeared on a path after three rainy mornings. What prediction fits?",
+    "audio_prompt": "Snails appeared on a path after three rainy mornings. What prediction fits?",
+    "answers": [
+      {
+        "text": "Snails may appear only before the rain starts.",
+        "is_correct": false
+      },
+      {
+        "text": "Snails may appear after another rainy morning.",
+        "is_correct": true
+      },
+      {
+        "text": "Snails may be less likely to appear after rain.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pattern supports a cautious prediction about similar conditions.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-006",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A bus arrived near 8:05 on five school days. Which action best uses the pattern?",
-    "audioPrompt": "A bus arrived near 8:05 on five school days. Which action best uses the pattern?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Stop checking the timetable.",
-        "is_correct": false
-      },
-      {
-        "text": "Say the bus causes clocks to change.",
-        "is_correct": false
-      },
-      {
-        "text": "Be ready a little before 8:05 while still allowing for variation.",
-        "is_correct": true
-      },
-      {
-        "text": "Assume it must arrive at exactly 8:05 forever.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The pattern can guide planning without guaranteeing an exact future time.\nHint: Plan from the pattern, but allow variation.",
-    "structuredExplanation": {
-      "summary": "The pattern can guide planning without guaranteeing an exact future time.",
-      "hint": "Plan from the pattern, but allow variation."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-006",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "Ice melted faster outside the freezer on several days. How can a shop use this knowledge?",
+    "audio_prompt": "Ice melted faster outside the freezer on several days. How can a shop use this knowledge?",
+    "answers": [
+      {
+        "text": "leave ice outside much earlier",
+        "is_correct": false
+      },
+      {
+        "text": "assume a larger label keeps ice frozen",
+        "is_correct": false
+      },
+      {
+        "text": "keep ice frozen until it is needed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The observation supports keeping ice in the freezer before use.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-007",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A café records that ice melts faster outside the freezer. What daily decision follows?",
-    "audioPrompt": "A café records that ice melts faster outside the freezer. What daily decision follows?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Stop observing.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep ice frozen until it is needed.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave ice in sunlight.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every piece melts at the same speed.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The observation can guide storage decisions.\nHint: Use evidence practically.",
-    "structuredExplanation": {
-      "summary": "The observation can guide storage decisions.",
-      "hint": "Use evidence practically."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-007",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "Use the lunchbox record. Which bag is better supported for keeping a drink cool for this journey?",
+    "audio_prompt": "Use the lunchbox record. Which bag is better supported for keeping a drink cool for this journey?",
+    "answers": [
+      {
+        "text": "Bag B",
+        "is_correct": true
+      },
+      {
+        "text": "Bag A",
+        "is_correct": false
+      },
+      {
+        "text": "Both bags must work equally well.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The repeated comparisons show the drink stayed cooler in Bag B.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Same journey, first test: Drink cooler in Bag B. Same journey, second test: Drink cooler in Bag B.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1h01-31.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-008",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement is evidence rather than opinion?",
-    "audioPrompt": "Which statement is evidence rather than opinion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The seedling grew 4 cm this week.",
-        "is_correct": true
-      },
-      {
-        "text": "This is the nicest seedling.",
-        "is_correct": false
-      },
-      {
-        "text": "It will be tallest forever.",
-        "is_correct": false
-      },
-      {
-        "text": "Green plants are luckier.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Measured growth is checkable evidence.\nHint: Which can be verified?",
-    "structuredExplanation": {
-      "summary": "Measured growth is checkable evidence.",
-      "hint": "Which can be verified?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-008",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A family finds their outdoor steps wet on several misty mornings. What should they plan next time?",
+    "audio_prompt": "A family finds their outdoor steps wet on several misty mornings. What should they plan next time?",
+    "answers": [
+      {
+        "text": "decide only from the day of the week",
+        "is_correct": false
+      },
+      {
+        "text": "check the steps before using them",
+        "is_correct": true
+      },
+      {
+        "text": "assume the steps are always dry",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pattern gives a reason to check conditions that could affect their journey.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-009",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A child notices the playground slide is hotter on sunny afternoons. Which prediction is reasonable?",
-    "audioPrompt": "A child notices the playground slide is hotter on sunny afternoons. Which prediction is reasonable?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It must always be hotter at exactly 2 pm.",
-        "is_correct": false
-      },
-      {
-        "text": "Slides create sunshine.",
-        "is_correct": false
-      },
-      {
-        "text": "Blue slides are always cold.",
-        "is_correct": false
-      },
-      {
-        "text": "It may feel hotter on another sunny afternoon.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The prediction is based on relevant repeated experience.\nHint: Use the observed pattern.",
-    "structuredExplanation": {
-      "summary": "The prediction is based on relevant repeated experience.",
-      "hint": "Use the observed pattern."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-009",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A gardener sees leaves drooping in dry soil. Which action uses that observation?",
+    "audio_prompt": "A gardener sees leaves drooping in dry soil. Which action uses that observation?",
+    "answers": [
+      {
+        "text": "choose a different pot colour only",
+        "is_correct": false
+      },
+      {
+        "text": "assume every plant in the garden is dry",
+        "is_correct": false
+      },
+      {
+        "text": "check and meet the plant's watering needs",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The observed plant and soil can guide a care decision for that plant.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-010",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A gardener’s first prediction does not match what happened. What should they do?",
-    "audioPrompt": "A gardener’s first prediction does not match what happened. What should they do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Change the measurement.",
-        "is_correct": false
-      },
-      {
-        "text": "Say the prediction was right anyway.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the result and use it to rethink the prediction.",
-        "is_correct": true
-      },
-      {
-        "text": "Erase the result.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Unexpected evidence can improve future decisions and predictions.\nHint: Evidence first.",
-    "structuredExplanation": {
-      "summary": "Unexpected evidence can improve future decisions and predictions.",
-      "hint": "Evidence first."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-010",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A sports coach notices the court has puddles after heavy rain. How can science help with today's lesson?",
+    "audio_prompt": "A sports coach notices the court has puddles after heavy rain. How can science help with today's lesson?",
+    "answers": [
+      {
+        "text": "check the court and choose a suitable place",
+        "is_correct": true
+      },
+      {
+        "text": "use yesterday's dry-court report only",
+        "is_correct": false
+      },
+      {
+        "text": "assume rain cannot change the court",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Current observations help the coach decide where the activity can take place.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-011",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which everyday action combines observation and measurement?",
-    "audioPrompt": "Which everyday action combines observation and measurement?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Using a lucky number.",
-        "is_correct": false
-      },
-      {
-        "text": "Checking a cake’s temperature and colour before deciding it is ready.",
-        "is_correct": true
-      },
-      {
-        "text": "Choosing the prettiest plate.",
-        "is_correct": false
-      },
-      {
-        "text": "Guessing the baking time without checking.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The first choice uses measured and visible evidence.\nHint: Look for two kinds of evidence.",
-    "structuredExplanation": {
-      "summary": "The first choice uses measured and visible evidence.",
-      "hint": "Look for two kinds of evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-011",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "Read the garden-light record. Which prediction is supported?",
+    "audio_prompt": "Read the garden-light record. Which prediction is supported?",
+    "answers": [
+      {
+        "text": "The lights may last equally long after both kinds of day.",
+        "is_correct": false
+      },
+      {
+        "text": "The lights may last longer after a sunny day.",
+        "is_correct": true
+      },
+      {
+        "text": "The lights may last longer after a cloudy day.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The record supports a comparison, not an absolute promise.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "After sunny days: Lights stayed on longer. After cloudy days: Lights stayed on for less time.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1h01-35.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-012",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Wet clothes dried quickly on several warm windy days. What would strengthen the pattern?",
-    "audioPrompt": "Wet clothes dried quickly on several warm windy days. What would strengthen the pattern?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "More drying observations in different conditions.",
-        "is_correct": true
-      },
-      {
-        "text": "One more guess.",
-        "is_correct": false
-      },
-      {
-        "text": "Changing the old records.",
-        "is_correct": false
-      },
-      {
-        "text": "Only recording fast-drying days.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "More complete observations can show when the pattern does or does not hold.\nHint: Collect more evidence.",
-    "structuredExplanation": {
-      "summary": "More complete observations can show when the pattern does or does not hold.",
-      "hint": "Collect more evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-012",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A cook's usual cooling time is not enough today. What should guide the next step?",
+    "audio_prompt": "A cook's usual cooling time is not enough today. What should guide the next step?",
+    "answers": [
+      {
+        "text": "assume the old timing must be right",
+        "is_correct": false
+      },
+      {
+        "text": "choose the brightest plate",
+        "is_correct": false
+      },
+      {
+        "text": "check today's food temperature",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A familiar pattern can guide a prediction, but today's evidence still needs checking.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-013",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A family uses a rain gauge each morning. What science skill are they using?",
-    "audioPrompt": "A family uses a rain gauge each morning. What science skill are they using?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "favourite-choice making",
-        "is_correct": false
-      },
-      {
-        "text": "storytelling only",
-        "is_correct": false
-      },
-      {
-        "text": "guessing without evidence",
-        "is_correct": false
-      },
-      {
-        "text": "measurement and recording",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "A rain gauge provides a measurable amount that can be recorded over time.\nHint: What does the tool provide?",
-    "structuredExplanation": {
-      "summary": "A rain gauge provides a measurable amount that can be recorded over time.",
-      "hint": "What does the tool provide?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-013",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A family compares two rain covers over several tests. Why is that useful?",
+    "audio_prompt": "A family compares two rain covers over several tests. Why is that useful?",
+    "answers": [
+      {
+        "text": "It gives evidence for choosing a cover.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves one cover can never leak.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need to look at results.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Tests help people choose, while leaving room for different conditions later.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-014",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “The soil was wet, so it will be wet tomorrow” not enough by itself?",
-    "audioPrompt": "Why is “The soil was wet, so it will be wet tomorrow” not enough by itself?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Tomorrow has no soil.",
-        "is_correct": false
-      },
-      {
-        "text": "Predictions never use observations.",
-        "is_correct": false
-      },
-      {
-        "text": "One observation gives little evidence for a future pattern.",
-        "is_correct": true
-      },
-      {
-        "text": "Soil cannot be observed.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A single result may not reveal a repeating pattern.\nHint: How much evidence supports the prediction?",
-    "structuredExplanation": {
-      "summary": "A single result may not reveal a repeating pattern.",
-      "hint": "How much evidence supports the prediction?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-014",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A child sees a patch shaded each day at snack time. What can they reasonably predict?",
+    "audio_prompt": "A child sees a patch shaded each day at snack time. What can they reasonably predict?",
+    "answers": [
+      {
+        "text": "Every patch nearby will also be shaded.",
+        "is_correct": false
+      },
+      {
+        "text": "It may be shaded at snack time tomorrow.",
+        "is_correct": true
+      },
+      {
+        "text": "It will be shaded at every hour tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The prediction should match the place and time actually observed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-015",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A cyclist records tyre pressure each Saturday and sees it falling. What is a sensible next step?",
-    "audioPrompt": "A cyclist records tyre pressure each Saturday and sees it falling. What is a sensible next step?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Assume all tyres lose pressure equally.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the pattern to decide that the tyre needs checking for a leak.",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore the measurements.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose a new tyre by colour only.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "A repeated pressure drop can guide further checking.\nHint: What practical decision follows?",
-    "structuredExplanation": {
-      "summary": "A repeated pressure drop can guide further checking.",
-      "hint": "What practical decision follows?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-015",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "A cyclist notices falling tyre pressure over several checks. What practical action fits?",
+    "audio_prompt": "A cyclist notices falling tyre pressure over several checks. What practical action fits?",
+    "answers": [
+      {
+        "text": "ignore the checks until the tyre is flat",
+        "is_correct": false
+      },
+      {
+        "text": "change the bicycle's colour",
+        "is_correct": false
+      },
+      {
+        "text": "have the tyre checked",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated falling pressure is useful evidence that the tyre needs attention.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1h01-t-016",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement best describes science in daily life?",
-    "audioPrompt": "Which statement best describes science in daily life?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "People use observations, measurements and patterns to make informed decisions.",
-        "is_correct": true
-      },
-      {
-        "text": "Science means every prediction is correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Science is only done in laboratories.",
-        "is_correct": false
-      },
-      {
-        "text": "One observation proves everything.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Science is used in everyday settings to gather evidence and guide choices.\nHint: Think evidence-based decisions.",
-    "structuredExplanation": {
-      "summary": "Science is used in everyday settings to gather evidence and guide choices.",
-      "hint": "Think evidence-based decisions."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1h01-r2-t-016",
     "curriculum_code": "AC9S1H01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "question": "An outdoor worker has last week's sunny records and today's rain forecast. Which information should guide today's plan?",
+    "audio_prompt": "An outdoor worker has last week's sunny records and today's rain forecast. Which information should guide today's plan?",
+    "answers": [
+      {
+        "text": "both the past records and today's forecast",
+        "is_correct": true
+      },
+      {
+        "text": "only the old sunny records",
+        "is_correct": false
+      },
+      {
+        "text": "only the worker's favourite weather",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "People use relevant new information along with experience to make informed decisions.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   }
 ]

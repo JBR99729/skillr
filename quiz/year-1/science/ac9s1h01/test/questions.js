@@ -1,323 +1,503 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9s1h01-t-001",
+    "id": "ac9s1h01-r2-t-001",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "The sky is grey. What might people predict?",
-    "explanation": "Grey skies can help people predict rain.",
+    "skill": "science in daily life and pattern-based predictions",
     "printable": true,
     "type": "single",
+    "question": "A chef checks the temperature of food with a thermometer. What information does this provide?",
+    "audioPrompt": "A chef checks the temperature of food with a thermometer. What information does this provide?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Lunch will fly",
-      "Rain may come",
-      "Shoes will sing"
+      "how hot or cold the food is",
+      "how much the food weighs",
+      "how much food is in the pot"
     ],
-    "correct": 1,
-    "audioPrompt": "The sky is grey. What might people predict?",
-    "structuredExplanation": {
-      "summary": "Grey skies can help people predict rain."
-    }
-  },
-  {
-    "id": "ac9s1h01-t-002",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "use science for safety and health",
-    "question": "A dentist checks your teeth. How is science used?",
-    "explanation": "Dentists use science to help keep teeth healthy.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "To keep teeth healthy",
-      "To count clouds",
-      "To paint shoes"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
     "correct": 0,
-    "audioPrompt": "A dentist checks your teeth. How is science used?",
+    "explanation": "A thermometer measures temperature, which can inform the chef's next step.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Dentists use science to help keep teeth healthy."
-    }
+      "summary": "A thermometer measures temperature, which can inform the chef's next step.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1h01-t-003",
+    "id": "ac9s1h01-r2-t-002",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "A gardener sees dry leaves. What might they check?",
-    "explanation": "A gardener uses observations to check what plants may need.",
+    "skill": "science in daily life and pattern-based predictions",
     "printable": true,
     "type": "single",
+    "question": "A family checks whether their garden soil is dry before using a hose. Why?",
+    "audioPrompt": "A family checks whether their garden soil is dry before using a hose. Why?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Toy cars",
-      "Story books",
-      "Soil and water"
+      "to predict every plant's final height",
+      "to decide whether watering is needed",
+      "to find the garden's exact age"
     ],
-    "correct": 2,
-    "audioPrompt": "A gardener sees dry leaves. What might they check?",
-    "structuredExplanation": {
-      "summary": "A gardener uses observations to check what plants may need."
-    }
-  },
-  {
-    "id": "ac9s1h01-t-004",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "use science in daily life",
-    "question": "The stove is hot. What should people do?",
-    "explanation": "People use heat knowledge to stay safe near a stove.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Touch it quickly",
-      "Be careful",
-      "Hide it"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
-    "audioPrompt": "The stove is hot. What should people do?",
+    "explanation": "The soil observation helps with a watering decision.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "People use heat knowledge to stay safe near a stove."
-    }
+      "summary": "The soil observation helps with a watering decision.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1h01-t-005",
+    "id": "ac9s1h01-r2-t-003",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "Birds visit the feeder each morning. What might happen tomorrow?",
-    "explanation": "A repeated morning pattern can help predict birds may visit.",
+    "skill": "science in daily life and pattern-based predictions",
     "printable": true,
     "type": "single",
+    "question": "A builder measures a gap before cutting a board. How does this help?",
+    "audioPrompt": "A builder measures a gap before cutting a board. How does this help?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Birds will become leaves",
-      "The feeder will talk",
-      "Birds may visit again"
+      "It tells the board's colour.",
+      "It makes every board the same weight.",
+      "It helps choose the needed board length."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
     "correct": 2,
-    "audioPrompt": "Birds visit the feeder each morning. What might happen tomorrow?",
+    "explanation": "A measurement helps the builder fit the board to the gap.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A repeated morning pattern can help predict birds may visit."
-    }
+      "summary": "A measurement helps the builder fit the board to the gap.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1h01-t-006",
+    "id": "ac9s1h01-r2-t-004",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "use science for safety and health",
-    "question": "A doctor uses a thermometer. What can it check?",
-    "explanation": "A thermometer checks temperature.",
+    "skill": "science in daily life and pattern-based predictions",
     "printable": true,
     "type": "single",
+    "question": "A florist records water levels in flower buckets. What can the record help them decide?",
+    "audioPrompt": "A florist records water levels in flower buckets. What can the record help them decide?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Body temperature",
-      "Shoe colour",
-      "Story names"
+      "when to check and refill the buckets",
+      "which bucket is the prettiest",
+      "the exact date every flower will open"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
     "correct": 0,
-    "audioPrompt": "A doctor uses a thermometer. What can it check?",
+    "explanation": "The water-level record can reveal when the flowers may need more water.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A thermometer checks temperature."
-    }
+      "summary": "The water-level record can reveal when the flowers may need more water.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1h01-t-007",
+    "id": "ac9s1h01-r2-t-005",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "A road is wet. What might people predict?",
-    "explanation": "Wet roads can be slippery.",
+    "skill": "science in daily life and pattern-based predictions",
     "printable": true,
     "type": "single",
+    "question": "Snails appeared on a path after three rainy mornings. What prediction fits?",
+    "audioPrompt": "Snails appeared on a path after three rainy mornings. What prediction fits?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "It may be fluffy",
-      "It may sing",
-      "It may be slippery"
+      "Snails may appear only before the rain starts.",
+      "Snails may appear after another rainy morning.",
+      "Snails may be less likely to appear after rain."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The pattern supports a cautious prediction about similar conditions.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The pattern supports a cautious prediction about similar conditions.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1h01-r2-t-006",
+    "curriculumCode": "AC9S1H01",
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Ice melted faster outside the freezer on several days. How can a shop use this knowledge?",
+    "audioPrompt": "Ice melted faster outside the freezer on several days. How can a shop use this knowledge?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "leave ice outside much earlier",
+      "assume a larger label keeps ice frozen",
+      "keep ice frozen until it is needed"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 2,
-    "audioPrompt": "A road is wet. What might people predict?",
+    "explanation": "The observation supports keeping ice in the freezer before use.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Wet roads can be slippery."
-    }
+      "summary": "The observation supports keeping ice in the freezer before use.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1h01-t-008",
+    "id": "ac9s1h01-r2-t-007",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "The same bus is late on rainy days. What pattern helps predict?",
-    "explanation": "The rainy-day pattern can help predict slower travel.",
+    "skill": "science in daily life and pattern-based predictions",
     "printable": true,
     "type": "single",
+    "question": "Use the lunchbox record. Which bag is better supported for keeping a drink cool for this journey?",
+    "audioPrompt": "Use the lunchbox record. Which bag is better supported for keeping a drink cool for this journey?",
+    "visual": "Same journey, first test: Drink cooler in Bag B. Same journey, second test: Drink cooler in Bag B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Same journey, first test: Drink cooler in Bag B. Same journey, second test: Drink cooler in Bag B.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1h01-31.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Same journey, first test: Drink cooler in Bag B. Same journey, second test: Drink cooler in Bag B.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1h01-31.svg#model"
+    },
     "answers": [
-      "Buses become clouds",
-      "Rain may slow travel",
-      "Rain stops all buses"
+      "Bag B",
+      "Bag A",
+      "Both bags must work equally well."
     ],
-    "correct": 1,
-    "audioPrompt": "The same bus is late on rainy days. What pattern helps predict?",
-    "structuredExplanation": {
-      "summary": "The rainy-day pattern can help predict slower travel."
-    }
-  },
-  {
-    "id": "ac9s1h01-t-009",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "A cook sees smoke from toast. What might they do?",
-    "explanation": "Smoke can signal the toast needs checking.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Check the toast",
-      "Count the plate",
-      "Name the smoke"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
     "correct": 0,
-    "audioPrompt": "A cook sees smoke from toast. What might they do?",
+    "explanation": "The repeated comparisons show the drink stayed cooler in Bag B.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Smoke can signal the toast needs checking."
-    }
+      "summary": "The repeated comparisons show the drink stayed cooler in Bag B.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1h01-t-010",
+    "id": "ac9s1h01-r2-t-008",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "use science for safety and health",
-    "question": "A lifeguard sees big waves. Why watch closely?",
-    "explanation": "Lifeguards use wave observations to help keep people safe.",
+    "skill": "science in daily life and pattern-based predictions",
     "printable": true,
     "type": "single",
+    "question": "A family finds their outdoor steps wet on several misty mornings. What should they plan next time?",
+    "audioPrompt": "A family finds their outdoor steps wet on several misty mornings. What should they plan next time?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "To make waves sleep",
-      "To keep people safe",
-      "To hide the beach"
+      "decide only from the day of the week",
+      "check the steps before using them",
+      "assume the steps are always dry"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
     "correct": 1,
-    "audioPrompt": "A lifeguard sees big waves. Why watch closely?",
+    "explanation": "The pattern gives a reason to check conditions that could affect their journey.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Lifeguards use wave observations to help keep people safe."
-    }
+      "summary": "The pattern gives a reason to check conditions that could affect their journey.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1h01-t-011",
+    "id": "ac9s1h01-r2-t-009",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "Ants often come near crumbs. What might people predict?",
-    "explanation": "A repeated crumb pattern can help predict ants.",
+    "skill": "science in daily life and pattern-based predictions",
     "printable": true,
     "type": "single",
+    "question": "A gardener sees leaves drooping in dry soil. Which action uses that observation?",
+    "audioPrompt": "A gardener sees leaves drooping in dry soil. Which action uses that observation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Ants may come near crumbs",
-      "Crumbs may become ants",
-      "Ants will read books"
+      "choose a different pot colour only",
+      "assume every plant in the garden is dry",
+      "check and meet the plant's watering needs"
     ],
-    "correct": 0,
-    "audioPrompt": "Ants often come near crumbs. What might people predict?",
-    "structuredExplanation": {
-      "summary": "A repeated crumb pattern can help predict ants."
-    }
-  },
-  {
-    "id": "ac9s1h01-t-012",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "A weather report says cold morning. What might people wear?",
-    "explanation": "People use weather reports to plan suitable clothing.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Swim goggles only",
-      "No shoes",
-      "Warm clothes"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
-    "audioPrompt": "A weather report says cold morning. What might people wear?",
+    "explanation": "The observed plant and soil can guide a care decision for that plant.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "People use weather reports to plan suitable clothing."
-    }
+      "summary": "The observed plant and soil can guide a care decision for that plant.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1h01-t-013",
+    "id": "ac9s1h01-r2-t-010",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "A mechanic smells smoke. What might they do?",
-    "explanation": "A smoke smell can help a mechanic decide to check the car safely.",
+    "skill": "science in daily life and pattern-based predictions",
     "printable": true,
     "type": "single",
+    "question": "A sports coach notices the court has puddles after heavy rain. How can science help with today's lesson?",
+    "audioPrompt": "A sports coach notices the court has puddles after heavy rain. How can science help with today's lesson?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The sky colour",
-      "Check the car safely",
-      "A lunchbox"
+      "check the court and choose a suitable place",
+      "use yesterday's dry-court report only",
+      "assume rain cannot change the court"
     ],
-    "correct": 1,
-    "audioPrompt": "A mechanic smells smoke. What might they do?",
-    "structuredExplanation": {
-      "summary": "A smoke smell can help a mechanic decide to check the car safely."
-    }
-  },
-  {
-    "id": "ac9s1h01-t-014",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "A plant bends toward light. What pattern is shown?",
-    "explanation": "Plants often grow toward light.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "It runs away",
-      "It becomes a lamp",
-      "It grows toward light"
-    ],
-    "correct": 2,
-    "audioPrompt": "A plant bends toward light. What pattern is shown?",
-    "structuredExplanation": {
-      "summary": "Plants often grow toward light."
-    }
-  },
-  {
-    "id": "ac9s1h01-t-015",
-    "curriculumCode": "AC9S1H01",
-    "bank": "test",
-    "skill": "use patterns to predict",
-    "question": "Why do people notice patterns?",
-    "explanation": "Patterns can help people make predictions.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "To make predictions",
-      "To stop thinking",
-      "To hide evidence"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
     "correct": 0,
-    "audioPrompt": "Why do people notice patterns?",
+    "explanation": "Current observations help the coach decide where the activity can take place.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Patterns can help people make predictions."
-    }
+      "summary": "Current observations help the coach decide where the activity can take place.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1h01-t-016",
+    "id": "ac9s1h01-r2-t-011",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "use science in daily life",
-    "question": "How do people use science daily?",
-    "explanation": "Science helps people make safe daily choices.",
+    "skill": "science in daily life and pattern-based predictions",
     "printable": true,
     "type": "single",
+    "question": "Read the garden-light record. Which prediction is supported?",
+    "audioPrompt": "Read the garden-light record. Which prediction is supported?",
+    "visual": "After sunny days: Lights stayed on longer. After cloudy days: Lights stayed on for less time.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After sunny days: Lights stayed on longer. After cloudy days: Lights stayed on for less time.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1h01-35.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "After sunny days: Lights stayed on longer. After cloudy days: Lights stayed on for less time.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1h01-35.svg#model"
+    },
     "answers": [
-      "To guess only",
-      "To make safe choices",
-      "To avoid looking"
+      "The lights may last equally long after both kinds of day.",
+      "The lights may last longer after a sunny day.",
+      "The lights may last longer after a cloudy day."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
     "correct": 1,
-    "audioPrompt": "How do people use science daily?",
+    "explanation": "The record supports a comparison, not an absolute promise.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Science helps people make safe daily choices."
-    }
+      "summary": "The record supports a comparison, not an absolute promise.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1h01-r2-t-012",
+    "curriculumCode": "AC9S1H01",
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A cook's usual cooling time is not enough today. What should guide the next step?",
+    "audioPrompt": "A cook's usual cooling time is not enough today. What should guide the next step?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "assume the old timing must be right",
+      "choose the brightest plate",
+      "check today's food temperature"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "A familiar pattern can guide a prediction, but today's evidence still needs checking.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A familiar pattern can guide a prediction, but today's evidence still needs checking.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1h01-r2-t-013",
+    "curriculumCode": "AC9S1H01",
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A family compares two rain covers over several tests. Why is that useful?",
+    "audioPrompt": "A family compares two rain covers over several tests. Why is that useful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It gives evidence for choosing a cover.",
+      "It proves one cover can never leak.",
+      "It removes the need to look at results."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "Tests help people choose, while leaving room for different conditions later.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Tests help people choose, while leaving room for different conditions later.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1h01-r2-t-014",
+    "curriculumCode": "AC9S1H01",
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A child sees a patch shaded each day at snack time. What can they reasonably predict?",
+    "audioPrompt": "A child sees a patch shaded each day at snack time. What can they reasonably predict?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Every patch nearby will also be shaded.",
+      "It may be shaded at snack time tomorrow.",
+      "It will be shaded at every hour tomorrow."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The prediction should match the place and time actually observed.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The prediction should match the place and time actually observed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1h01-r2-t-015",
+    "curriculumCode": "AC9S1H01",
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A cyclist notices falling tyre pressure over several checks. What practical action fits?",
+    "audioPrompt": "A cyclist notices falling tyre pressure over several checks. What practical action fits?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "ignore the checks until the tyre is flat",
+      "change the bicycle's colour",
+      "have the tyre checked"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Repeated falling pressure is useful evidence that the tyre needs attention.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Repeated falling pressure is useful evidence that the tyre needs attention.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s1h01-r2-t-016",
+    "curriculumCode": "AC9S1H01",
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "An outdoor worker has last week's sunny records and today's rain forecast. Which information should guide today's plan?",
+    "audioPrompt": "An outdoor worker has last week's sunny records and today's rain forecast. Which information should guide today's plan?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "both the past records and today's forecast",
+      "only the old sunny records",
+      "only the worker's favourite weather"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "People use relevant new information along with experience to make informed decisions.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "People use relevant new information along with experience to make informed decisions.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

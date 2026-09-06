@@ -1,2730 +1,1687 @@
 [
   {
-    "id": "ac9s1i02-p-001",
-    "curriculumCode": "AC9S1I02",
+    "id": "ac9s1i02-r2-p-001",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Before using a magnifying glass outdoors, what should you do first?",
-    "audioPrompt": "Before using a magnifying glass outdoors, what should you do first?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "The class will test which cloth soaks up more water. What should happen before using the materials?",
+    "audio_prompt": "The class will test which cloth soaks up more water. What should happen before using the materials?",
     "answers": [
       {
-        "text": "Listen to the instructions and check the area is safe.",
+        "text": "listen to the steps and check the work area",
         "is_correct": true
       },
       {
-        "text": "Point it at the sun.",
+        "text": "pour the water and then ask what to do",
         "is_correct": false
       },
       {
-        "text": "Run to collect objects.",
-        "is_correct": false
-      },
-      {
-        "text": "Taste anything interesting.",
+        "text": "start with whichever cloth is nearest",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "Safe investigations begin by following instructions and checking for hazards.\nHint: What keeps everyone safe before starting?",
-    "structuredExplanation": {
-      "summary": "Safe investigations begin by following instructions and checking for hazards.",
-      "hint": "What keeps everyone safe before starting?"
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The class needs to understand the procedure and prepare the area before beginning.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-002",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i02-p-002",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "You see broken glass near your investigation area. What should you do?",
-    "audioPrompt": "You see broken glass near your investigation area. What should you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A car test needs a clear rolling lane. Where should the observers stand?",
+    "audio_prompt": "A car test needs a clear rolling lane. Where should the observers stand?",
+    "answers": [
+      {
+        "text": "on the starting line",
+        "is_correct": false
+      },
+      {
+        "text": "beside the lane",
+        "is_correct": true
+      },
+      {
+        "text": "across the end of the lane",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Standing beside the lane keeps observers clear of moving cars.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Pick it up quickly.",
-        "is_correct": false
-      },
-      {
-        "text": "Kick it away.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore it.",
-        "is_correct": false
-      },
-      {
-        "text": "Stop and tell an adult.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Broken glass can cut people, so an adult should manage it safely.\nHint: Do not touch sharp objects.",
-    "structuredExplanation": {
-      "summary": "Broken glass can cut people, so an adult should manage it safely.",
-      "hint": "Do not touch sharp objects."
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-003",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i02-p-003",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which tool is safe for measuring a leaf length?",
-    "audioPrompt": "Which tool is safe for measuring a leaf length?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "The teacher says to use five drops on each paper sample. What should a child do?",
+    "audio_prompt": "The teacher says to use five drops on each paper sample. What should a child do?",
+    "answers": [
+      {
+        "text": "empty the dropper onto one sample",
+        "is_correct": false
+      },
+      {
+        "text": "add drops until one sample looks darker",
+        "is_correct": false
+      },
+      {
+        "text": "count five drops onto each sample",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Following the specified amount carries out the planned comparison.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "A lit candle",
-        "is_correct": false
-      },
-      {
-        "text": "An unknown chemical",
-        "is_correct": false
-      },
-      {
-        "text": "A ruler",
-        "is_correct": true
-      },
-      {
-        "text": "A sharp kitchen knife",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A ruler is suitable for simple length measurements.\nHint: Match the tool to the task safely.",
-    "structuredExplanation": {
-      "summary": "A ruler is suitable for simple length measurements.",
-      "hint": "Match the tool to the task safely."
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-004",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i02-p-004",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A liquid spills beside your table. What is the safest response?",
-    "audioPrompt": "A liquid spills beside your table. What is the safest response?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A child notices a crack in a container before a water test. What should happen?",
+    "audio_prompt": "A child notices a crack in a container before a water test. What should happen?",
     "answers": [
       {
-        "text": "Smell it closely.",
-        "is_correct": false
-      },
-      {
-        "text": "Stop and tell the teacher or adult.",
+        "text": "tell the teacher and get a suitable container",
         "is_correct": true
       },
       {
-        "text": "Keep working through it.",
+        "text": "fill it first to see how much it holds",
         "is_correct": false
       },
       {
-        "text": "Touch it to see what it is.",
+        "text": "cover the crack by holding it tightly",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Unknown spills should be reported rather than touched or investigated directly.\nHint: Stop, move back, tell an adult.",
-    "structuredExplanation": {
-      "summary": "Unknown spills should be reported rather than touched or investigated directly.",
-      "hint": "Stop, move back, tell an adult."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Damaged equipment should be checked and replaced by the adult before use.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-005",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i02-p-005",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "When observing a small insect, which action is safest and kindest?",
-    "audioPrompt": "When observing a small insect, which action is safest and kindest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "The class will observe an insect outside. Which action allows observation without disturbing it?",
+    "audio_prompt": "The class will observe an insect outside. Which action allows observation without disturbing it?",
     "answers": [
       {
-        "text": "Watch without squeezing or harming it.",
+        "text": "hold it still between fingers",
+        "is_correct": false
+      },
+      {
+        "text": "watch where it is, without touching",
         "is_correct": true
       },
       {
-        "text": "Hold it tightly.",
-        "is_correct": false
-      },
-      {
-        "text": "Poke it to make it move.",
-        "is_correct": false
-      },
-      {
-        "text": "Pull off a leg to look closer.",
+        "text": "move it repeatedly for a better view",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "Science observations should protect living things as well as people.\nHint: Observe gently.",
-    "structuredExplanation": {
-      "summary": "Science observations should protect living things as well as people.",
-      "hint": "Observe gently."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Watching without handling allows observation while reducing harm.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-006",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i02-p-006",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which sense should NOT be used on an unknown substance?",
-    "audioPrompt": "Which sense should NOT be used on an unknown substance?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A table has water materials and a plugged-in device. What should happen before the water test?",
+    "audio_prompt": "A table has water materials and a plugged-in device. What should happen before the water test?",
     "answers": [
       {
-        "text": "Sight from a safe distance",
+        "text": "pour carefully beside the device",
         "is_correct": false
       },
       {
-        "text": "Hearing if appropriate",
+        "text": "cover the device with a cloth and begin",
         "is_correct": false
       },
       {
-        "text": "Touch only when an adult says it is safe",
-        "is_correct": false
-      },
-      {
-        "text": "Taste",
+        "text": "ask the adult to arrange a separate safe water area",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Unknown substances should never be tasted.\nHint: Never taste unknown materials.",
-    "structuredExplanation": {
-      "summary": "Unknown substances should never be tasted.",
-      "hint": "Never taste unknown materials."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adult should separate water work from electrical equipment before the test begins.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-007",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i02-p-007",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which clothing choice is safest for a messy water investigation?",
-    "audioPrompt": "Which clothing choice is safest for a messy water investigation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A child does not understand the next instruction. What should they do?",
+    "audio_prompt": "A child does not understand the next instruction. What should they do?",
     "answers": [
       {
-        "text": "A long scarf hanging over the table",
-        "is_correct": false
-      },
-      {
-        "text": "Loose jewellery beside moving parts",
-        "is_correct": false
-      },
-      {
-        "text": "Closed shoes and sleeves that do not dangle into equipment",
+        "text": "ask the teacher before continuing",
         "is_correct": true
       },
       {
-        "text": "Bare feet",
+        "text": "guess the next step",
+        "is_correct": false
+      },
+      {
+        "text": "copy a different group's test",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Secure clothing and closed shoes reduce avoidable hazards.\nHint: Think about spills and snagging.",
-    "structuredExplanation": {
-      "summary": "Secure clothing and closed shoes reduce avoidable hazards.",
-      "hint": "Think about spills and snagging."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Asking prevents an unclear instruction from leading to the wrong or unsafe procedure.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-008",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i02-p-008",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A class is using droppers. What is the safest use?",
-    "audioPrompt": "A class is using droppers. What is the safest use?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "An instruction says, 'Put the tray on the table, then add water.' Which step comes first?",
+    "audio_prompt": "An instruction says, 'Put the tray on the table, then add water.' Which step comes first?",
     "answers": [
       {
-        "text": "Mix every liquid together.",
+        "text": "carry the filled tray around the room",
         "is_correct": false
       },
       {
-        "text": "Use only the liquid and amount the teacher provides.",
+        "text": "place the tray on the table",
         "is_correct": true
       },
       {
-        "text": "Squirt liquid at classmates.",
-        "is_correct": false
-      },
-      {
-        "text": "Taste the drops.",
+        "text": "add water while carrying the tray",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Following the approved procedure keeps the investigation controlled.\nHint: Use equipment only as instructed.",
-    "structuredExplanation": {
-      "summary": "Following the approved procedure keeps the investigation controlled.",
-      "hint": "Use equipment only as instructed."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Setting up the tray first follows the instructed sequence and helps contain water.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-009",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i02-p-009",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A battery feels hot during an investigation. What should you do?",
-    "audioPrompt": "A battery feels hot during an investigation. What should you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "Read the step cards. What belongs between setting up the tray and recording the result?",
+    "audio_prompt": "Read the step cards. What belongs between setting up the tray and recording the result?",
     "answers": [
       {
-        "text": "Stop using it and tell an adult.",
-        "is_correct": true
-      },
-      {
-        "text": "Hold it tighter.",
+        "text": "put all the materials away",
         "is_correct": false
       },
       {
-        "text": "Put it in water.",
+        "text": "change the test question",
         "is_correct": false
       },
       {
-        "text": "Hide it.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Unexpected heat can signal a problem, so stop and report it.\nHint: Hot equipment = stop and tell.",
-    "structuredExplanation": {
-      "summary": "Unexpected heat can signal a problem, so stop and report it.",
-      "hint": "Hot equipment = stop and tell."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i02-p-010",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which place is best for a rolling-ball test?",
-    "audioPrompt": "Which place is best for a rolling-ball test?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "At the top of stairs.",
-        "is_correct": false
-      },
-      {
-        "text": "Across a doorway.",
-        "is_correct": false
-      },
-      {
-        "text": "Beside a wet spill.",
-        "is_correct": false
-      },
-      {
-        "text": "A clear floor area away from people walking.",
+        "text": "add the instructed drops",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "A clear area reduces collision and slipping risks.\nHint: Choose a controlled space.",
-    "structuredExplanation": {
-      "summary": "A clear area reduces collision and slipping risks.",
-      "hint": "Choose a controlled space."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The water must be added before its effect can be observed and recorded.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i02-p-011",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why should you follow the same safe steps each time you repeat an investigation?",
-    "audioPrompt": "Why should you follow the same safe steps each time you repeat an investigation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+    "visual": {
+      "type": "svg",
+      "alt_text": "First: Set up paper in the tray. Next: ?. Last: Record what happened to the paper.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-09.svg#model"
     },
-    "answers": [
-      {
-        "text": "It makes tools stronger.",
-        "is_correct": false
-      },
-      {
-        "text": "It stops all mistakes forever.",
-        "is_correct": false
-      },
-      {
-        "text": "It helps keep people safe and makes the procedure consistent.",
-        "is_correct": true
-      },
-      {
-        "text": "It guarantees the same result.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Consistent safe procedures protect people and support fair comparisons.\nHint: Safety and consistency both matter.",
-    "structuredExplanation": {
-      "summary": "Consistent safe procedures protect people and support fair comparisons.",
-      "hint": "Safety and consistency both matter."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-010",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i02-p-012",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why should unknown liquids not be smelled closely?",
-    "audioPrompt": "Why should unknown liquids not be smelled closely?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A ball test is ready, but a bag lies across the lane. What should happen next?",
+    "audio_prompt": "A ball test is ready, but a bag lies across the lane. What should happen next?",
     "answers": [
       {
-        "text": "Your nose cannot observe anything.",
-        "is_correct": false
-      },
-      {
-        "text": "Some may be harmful, so you should not bring them near your face.",
+        "text": "clear the lane before rolling",
         "is_correct": true
       },
       {
-        "text": "All liquids smell bad.",
+        "text": "roll around the bag without changing the plan",
         "is_correct": false
       },
       {
-        "text": "Smelling changes the colour.",
+        "text": "move the bag after the ball reaches it",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Unknown substances can be unsafe to inhale.\nHint: Keep unknown substances away from your face.",
-    "structuredExplanation": {
-      "summary": "Unknown substances can be unsafe to inhale.",
-      "hint": "Keep unknown substances away from your face."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The planned lane needs to be clear before the trial begins.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-011",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i02-p-013",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why is a tray useful during a water investigation?",
-    "audioPrompt": "Why is a tray useful during a water investigation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A child will observe a leaf with a magnifier. Which setup is suitable?",
+    "audio_prompt": "A child will observe a leaf with a magnifier. Which setup is suitable?",
     "answers": [
       {
-        "text": "It can help contain small spills and keep the area controlled.",
+        "text": "use the magnifier to focus sunlight on the leaf",
+        "is_correct": false
+      },
+      {
+        "text": "place the leaf on the table and follow the adult's instructions",
         "is_correct": true
       },
       {
-        "text": "It makes water heavier.",
-        "is_correct": false
-      },
-      {
-        "text": "It guarantees no spill can happen.",
-        "is_correct": false
-      },
-      {
-        "text": "It measures temperature.",
+        "text": "walk around while holding leaf and magnifier",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "A tray can reduce mess and help keep water away from unsafe areas.\nHint: Think containment.",
-    "structuredExplanation": {
-      "summary": "A tray can reduce mess and help keep water away from unsafe areas.",
-      "hint": "Think containment."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A stable, instructed setup supports observation without concentrating sunlight.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-012",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i02-p-014",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why should long hair be tied back near moving equipment?",
-    "audioPrompt": "Why should long hair be tied back near moving equipment?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "The plan says to roll one ball at a time. Why should children wait for the lane to clear?",
+    "audio_prompt": "The plan says to roll one ball at a time. Why should children wait for the lane to clear?",
     "answers": [
       {
-        "text": "So results become correct.",
+        "text": "to make every ball travel equally far",
         "is_correct": false
       },
       {
-        "text": "So hair grows faster.",
+        "text": "to ensure the second ball is heavier",
         "is_correct": false
       },
       {
-        "text": "Because science requires short hair.",
-        "is_correct": false
-      },
-      {
-        "text": "So it does not become caught or fall into the investigation.",
+        "text": "to avoid balls and people crossing the trial",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Securing hair reduces snagging and contamination risks.\nHint: Keep loose things away from equipment.",
-    "structuredExplanation": {
-      "summary": "Securing hair reduces snagging and contamination risks.",
-      "hint": "Keep loose things away from equipment."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A clear lane makes each trial safer and easier to observe.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-013",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i02-p-015",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why should you tell an adult about damaged equipment?",
-    "audioPrompt": "Why should you tell an adult about damaged equipment?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A water spill reaches the floor during a test. What should the class do first?",
+    "audio_prompt": "A water spill reaches the floor during a test. What should the class do first?",
     "answers": [
       {
-        "text": "Adults like fixing things.",
-        "is_correct": false
-      },
-      {
-        "text": "Damaged tools give better results.",
-        "is_correct": false
-      },
-      {
-        "text": "Damaged equipment may not work safely.",
+        "text": "stop, keep clear and tell the adult",
         "is_correct": true
       },
       {
-        "text": "It is always expensive.",
+        "text": "finish the remaining trials first",
+        "is_correct": false
+      },
+      {
+        "text": "step over it while carrying more water",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Cracks, sharp edges or exposed parts can create hazards.\nHint: Damage can make equipment unsafe.",
-    "structuredExplanation": {
-      "summary": "Cracks, sharp edges or exposed parts can create hazards.",
-      "hint": "Damage can make equipment unsafe."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The spill should be dealt with before the investigation continues.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-014",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i02-p-016",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why should living things be returned carefully after observation?",
-    "audioPrompt": "Why should living things be returned carefully after observation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A teacher provides a sealed pond-water sample. How should children observe it?",
+    "audio_prompt": "A teacher provides a sealed pond-water sample. How should children observe it?",
     "answers": [
       {
-        "text": "Because all animals belong indoors.",
+        "text": "pour it onto their hands",
         "is_correct": false
       },
       {
-        "text": "To reduce harm and disturbance.",
+        "text": "look through the container as instructed",
         "is_correct": true
       },
       {
-        "text": "To make them remember the class.",
-        "is_correct": false
-      },
-      {
-        "text": "To make the result prettier.",
+        "text": "open it to smell the water closely",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Ethical investigations minimise harm to living things.\nHint: Observe, then leave living things safe.",
-    "structuredExplanation": {
-      "summary": "Ethical investigations minimise harm to living things.",
-      "hint": "Observe, then leave living things safe."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sealed sample allows observation without unnecessary contact with unknown water.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-015",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i02-p-017",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why are closed shoes better than bare feet during many classroom investigations?",
-    "audioPrompt": "Why are closed shoes better than bare feet during many classroom investigations?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "The class asks which paper stays driest under two covers. Which procedure tests that question?",
+    "audio_prompt": "The class asks which paper stays driest under two covers. Which procedure tests that question?",
+    "answers": [
+      {
+        "text": "look only at the covers' colours",
+        "is_correct": false
+      },
+      {
+        "text": "pour water onto the covers without any paper",
+        "is_correct": false
+      },
+      {
+        "text": "put paper under each cover and add the instructed water",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The paper underneath is needed to observe the outcome in the question.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "They help protect feet from spills and dropped objects.",
-        "is_correct": true
-      },
-      {
-        "text": "They make you run faster.",
-        "is_correct": false
-      },
-      {
-        "text": "They improve eyesight.",
-        "is_correct": false
-      },
-      {
-        "text": "They stop every accident.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Closed shoes add protection from common classroom hazards.\nHint: Think about what could fall or spill.",
-    "structuredExplanation": {
-      "summary": "Closed shoes add protection from common classroom hazards.",
-      "hint": "Think about what could fall or spill."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-016",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i02-p-018",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why should a candle not be used in a Year 1 investigation unless an adult is directly managing it?",
-    "audioPrompt": "Why should a candle not be used in a Year 1 investigation unless an adult is directly managing it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A child finishes observing worms in an adult-prepared damp tray. What should happen next?",
+    "audio_prompt": "A child finishes observing worms in an adult-prepared damp tray. What should happen next?",
+    "answers": [
+      {
+        "text": "follow the adult's plan to return them carefully",
+        "is_correct": true
+      },
+      {
+        "text": "leave the tray in sunlight until tomorrow",
+        "is_correct": false
+      },
+      {
+        "text": "keep moving the worms for extra pictures",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The procedure should include care for living things after the observation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Candles are too bright.",
-        "is_correct": false
-      },
-      {
-        "text": "Fire cannot be observed.",
-        "is_correct": false
-      },
-      {
-        "text": "Wax is not a material.",
-        "is_correct": false
-      },
-      {
-        "text": "Flames can burn people and start fires.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Open flames require adult control because of burn and fire risk.\nHint: Flame = adult-controlled hazard.",
-    "structuredExplanation": {
-      "summary": "Open flames require adult control because of burn and fire risk.",
-      "hint": "Flame = adult-controlled hazard."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-017",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i02-p-019",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why should only teacher-approved materials be mixed?",
-    "audioPrompt": "Why should only teacher-approved materials be mixed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "Read the car-test plan. Which step is missing before the next roll?",
+    "audio_prompt": "Read the car-test plan. Which step is missing before the next roll?",
     "answers": [
       {
-        "text": "Colours always disappear.",
+        "text": "change the question after each roll",
         "is_correct": false
       },
       {
-        "text": "Approved materials taste better.",
-        "is_correct": false
-      },
-      {
-        "text": "Some combinations may be unsafe or behave unexpectedly.",
+        "text": "retrieve the car when the lane is clear",
         "is_correct": true
       },
       {
-        "text": "Mixing is never science.",
+        "text": "send another car while someone retrieves the first",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Controlled investigations avoid unknown chemical or physical hazards.\nHint: Do not mix unknown things.",
-    "structuredExplanation": {
-      "summary": "Controlled investigations avoid unknown chemical or physical hazards.",
-      "hint": "Do not mix unknown things."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Waiting for a clear lane protects the person retrieving the car and prepares the next trial.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i02-p-020",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why is running around an investigation table unsafe?",
-    "audioPrompt": "Why is running around an investigation table unsafe?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+    "visual": {
+      "type": "svg",
+      "alt_text": "First: Check lane; release the car. Next: Observe and mark its stopping place. Before another roll: ?.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-17.svg#model"
     },
-    "answers": [
-      {
-        "text": "Walking is a science rule only.",
-        "is_correct": false
-      },
-      {
-        "text": "You could bump people, spill materials or knock equipment over.",
-        "is_correct": true
-      },
-      {
-        "text": "Running changes gravity.",
-        "is_correct": false
-      },
-      {
-        "text": "Tables are always sharp.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Moving calmly helps keep the work area controlled.\nHint: Think collisions and spills.",
-    "structuredExplanation": {
-      "summary": "Moving calmly helps keep the work area controlled.",
-      "hint": "Think collisions and spills."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i02-p-021",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which child is using safe procedure?",
-    "audioPrompt": "Which child is using safe procedure?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Mia reads the instruction card before touching the equipment.",
-        "is_correct": true
-      },
-      {
-        "text": "Leo tastes a powder to identify it.",
-        "is_correct": false
-      },
-      {
-        "text": "Sam points a magnifier at the sun.",
-        "is_correct": false
-      },
-      {
-        "text": "Ari runs with glassware.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Reading instructions before starting supports safe use of equipment.\nHint: Who checks before acting?",
-    "structuredExplanation": {
-      "summary": "Reading instructions before starting supports safe use of equipment.",
-      "hint": "Who checks before acting?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i02-p-022",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "You find a plant with unknown sap. Which action is best?",
-    "audioPrompt": "You find a plant with unknown sap. Which action is best?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Rub the sap on your skin.",
-        "is_correct": false
-      },
-      {
-        "text": "Taste the sap.",
-        "is_correct": false
-      },
-      {
-        "text": "Smell it closely.",
-        "is_correct": false
-      },
-      {
-        "text": "Observe it without touching and ask an adult about it.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Unknown plant substances should not be touched, tasted or inhaled.\nHint: Observe safely.",
-    "structuredExplanation": {
-      "summary": "Unknown plant substances should not be touched, tasted or inhaled.",
-      "hint": "Observe safely."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i02-p-023",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which action is unsafe during a magnet test?",
-    "audioPrompt": "Which action is unsafe during a magnet test?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Counting paper clips picked up.",
-        "is_correct": false
-      },
-      {
-        "text": "Following the teacher’s setup.",
-        "is_correct": false
-      },
-      {
-        "text": "Putting magnets near a school tablet without permission.",
-        "is_correct": true
-      },
-      {
-        "text": "Keeping magnets on the work mat.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Magnets can affect some electronic devices, so keep them away unless approved.\nHint: Protect nearby equipment.",
-    "structuredExplanation": {
-      "summary": "Magnets can affect some electronic devices, so keep them away unless approved.",
-      "hint": "Protect nearby equipment."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i02-p-024",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which plan is safest for testing which ball rolls farther?",
-    "audioPrompt": "Which plan is safest for testing which ball rolls farther?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Test on stairs.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a clear marked lane and roll one ball at a time.",
-        "is_correct": true
-      },
-      {
-        "text": "Roll balls through a busy doorway.",
-        "is_correct": false
-      },
-      {
-        "text": "Throw balls at a wall above people.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "A controlled lane keeps moving objects away from people.\nHint: Create a safe path.",
-    "structuredExplanation": {
-      "summary": "A controlled lane keeps moving objects away from people.",
-      "hint": "Create a safe path."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i02-p-025",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which response to a spill is wrong?",
-    "audioPrompt": "Which response to a spill is wrong?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Touch it first to find out what it is.",
-        "is_correct": true
-      },
-      {
-        "text": "Stop the activity.",
-        "is_correct": false
-      },
-      {
-        "text": "Move away from the spill.",
-        "is_correct": false
-      },
-      {
-        "text": "Tell an adult.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Unknown spills should not be touched.\nHint: Do not investigate a hazard with your body.",
-    "structuredExplanation": {
-      "summary": "Unknown spills should not be touched.",
-      "hint": "Do not investigate a hazard with your body."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i02-p-026",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which tool choice creates the least risk for measuring paper length?",
-    "audioPrompt": "Which tool choice creates the least risk for measuring paper length?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Craft knife",
-        "is_correct": false
-      },
-      {
-        "text": "Hot glue gun",
-        "is_correct": false
-      },
-      {
-        "text": "Glass shard",
-        "is_correct": false
-      },
-      {
-        "text": "Plastic ruler",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "A simple plastic ruler is appropriate and low risk.\nHint: Use the simplest safe tool.",
-    "structuredExplanation": {
-      "summary": "A simple plastic ruler is appropriate and low risk.",
-      "hint": "Use the simplest safe tool."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i02-p-027",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement about safety is correct?",
-    "audioPrompt": "Which statement about safety is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Only dangerous-looking tools need care.",
-        "is_correct": false
-      },
-      {
-        "text": "Safety matters only after an accident.",
-        "is_correct": false
-      },
-      {
-        "text": "A familiar activity can still need safety rules.",
-        "is_correct": true
-      },
-      {
-        "text": "If you did it before, no rules are needed.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Routine activities can still involve spills, sharp edges or moving objects.\nHint: Familiar does not mean risk-free.",
-    "structuredExplanation": {
-      "summary": "Routine activities can still involve spills, sharp edges or moving objects.",
-      "hint": "Familiar does not mean risk-free."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i02-p-028",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which observation method is safest for a spider?",
-    "audioPrompt": "Which observation method is safest for a spider?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Poke it repeatedly.",
-        "is_correct": false
-      },
-      {
-        "text": "Look from a safe distance without handling it.",
-        "is_correct": true
-      },
-      {
-        "text": "Pick it up with bare hands.",
-        "is_correct": false
-      },
-      {
-        "text": "Trap it tightly in your fist.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Distance allows observation while protecting both person and animal.\nHint: Observe without handling.",
-    "structuredExplanation": {
-      "summary": "Distance allows observation while protecting both person and animal.",
-      "hint": "Observe without handling."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i02-p-029",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A wire coating is damaged. What should happen?",
-    "audioPrompt": "A wire coating is damaged. What should happen?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Do not use it; tell an adult.",
-        "is_correct": true
-      },
-      {
-        "text": "Wrap it around your finger.",
-        "is_correct": false
-      },
-      {
-        "text": "Put it in water.",
-        "is_correct": false
-      },
-      {
-        "text": "Use it quickly before anyone notices.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Damaged electrical equipment should not be used.\nHint: Damage = stop.",
-    "structuredExplanation": {
-      "summary": "Damaged electrical equipment should not be used.",
-      "hint": "Damage = stop."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i02-p-030",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the best reason to keep bags away from the investigation floor area?",
-    "audioPrompt": "Which is the best reason to keep bags away from the investigation floor area?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "To make bags cleaner only.",
-        "is_correct": false
-      },
-      {
-        "text": "To change the experiment result.",
-        "is_correct": false
-      },
-      {
-        "text": "Because bags are not science objects.",
-        "is_correct": false
-      },
-      {
-        "text": "To prevent trips and blocked movement.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Clear walkways reduce tripping hazards.\nHint: Keep pathways clear.",
-    "structuredExplanation": {
-      "summary": "Clear walkways reduce tripping hazards.",
-      "hint": "Keep pathways clear."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i02-p-031",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "You are about to compare how far two toy cars roll. What setup is safest?",
-    "audioPrompt": "You are about to compare how far two toy cars roll. What setup is safest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Stand directly in front of the cars.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the stairs.",
-        "is_correct": false
-      },
-      {
-        "text": "Clear a straight lane, mark a start line and keep observers to the side.",
-        "is_correct": true
-      },
-      {
-        "text": "Roll through the classroom doorway.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A controlled lane protects people and makes the test easier to repeat.\nHint: Safe space + clear boundaries.",
-    "structuredExplanation": {
-      "summary": "A controlled lane protects people and makes the test easier to repeat.",
-      "hint": "Safe space + clear boundaries."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-018",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i02-p-032",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A class wants to observe pond water. Which plan is safest?",
-    "audioPrompt": "A class wants to observe pond water. Which plan is safest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A class compares gentle sounds made by objects. Which plan fits the task safely?",
+    "audio_prompt": "A class compares gentle sounds made by objects. Which plan fits the task safely?",
     "answers": [
       {
-        "text": "Smell it closely.",
+        "text": "hold each object beside a classmate's ear",
         "is_correct": false
       },
       {
-        "text": "Use a sealed sample provided by an adult and observe without tasting or touching it.",
-        "is_correct": true
-      },
-      {
-        "text": "Collect unknown water and drink some.",
+        "text": "make the loudest sound possible first",
         "is_correct": false
       },
       {
-        "text": "Rub the sample on skin.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Adult-provided contained samples reduce exposure to unknown organisms or substances.\nHint: Unknown water stays contained.",
-    "structuredExplanation": {
-      "summary": "Adult-provided contained samples reduce exposure to unknown organisms or substances.",
-      "hint": "Unknown water stays contained."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i02-p-033",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A child notices scissors have a loose blade before cutting paper. What should they do?",
-    "audioPrompt": "A child notices scissors have a loose blade before cutting paper. What should they do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Stop and give them to an adult.",
-        "is_correct": true
-      },
-      {
-        "text": "Use them carefully anyway.",
-        "is_correct": false
-      },
-      {
-        "text": "Tighten them while cutting.",
-        "is_correct": false
-      },
-      {
-        "text": "Hide the problem.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Damaged sharp tools should be removed from use.\nHint: Do not continue with damaged equipment.",
-    "structuredExplanation": {
-      "summary": "Damaged sharp tools should be removed from use.",
-      "hint": "Do not continue with damaged equipment."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i02-p-034",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "During a soil investigation, you find a sharp metal piece. What is the best response?",
-    "audioPrompt": "During a soil investigation, you find a sharp metal piece. What is the best response?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Pick it up bare-handed.",
-        "is_correct": false
-      },
-      {
-        "text": "Put it in your pocket.",
-        "is_correct": false
-      },
-      {
-        "text": "Bury it deeper.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave it where it is, keep others back and tell an adult.",
+        "text": "make gentle sounds away from ears",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Avoid contact with unknown sharp objects and alert an adult.\nHint: Stop, keep back, report.",
-    "structuredExplanation": {
-      "summary": "Avoid contact with unknown sharp objects and alert an adult.",
-      "hint": "Stop, keep back, report."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Gentle sounds at a suitable distance allow comparison without unnecessary loudness near ears.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i02-p-035",
-    "curriculumCode": "AC9S1I02",
-    "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A class is testing absorbency with small cups of water. Which rule is most useful?",
-    "audioPrompt": "A class is testing absorbency with small cups of water. Which rule is most useful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Pour water near power points.",
-        "is_correct": false
-      },
-      {
-        "text": "Race while holding the cups.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep water on a tray and wipe/report spills straight away.",
-        "is_correct": true
-      },
-      {
-        "text": "Fill cups to the top and carry them around.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Containment and quick spill management reduce slipping and electrical risks.\nHint: Control the water.",
-    "structuredExplanation": {
-      "summary": "Containment and quick spill management reduce slipping and electrical risks.",
-      "hint": "Control the water."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-019",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i02-p-036",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "You want to look closely at a leaf. Which method is safest?",
-    "audioPrompt": "You want to look closely at a leaf. Which method is safest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "The instruction says to stop after ten drops. A child wants to add more to get a different result. What should they do?",
+    "audio_prompt": "The instruction says to stop after ten drops. A child wants to add more to get a different result. What should they do?",
+    "answers": [
+      {
+        "text": "stop at ten and ask before changing the plan",
+        "is_correct": true
+      },
+      {
+        "text": "add more without telling the group",
+        "is_correct": false
+      },
+      {
+        "text": "write ten even after adding extra drops",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Following and honestly recording the procedure keeps the test meaningful.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Use a sharp blade to cut it without permission.",
-        "is_correct": false
-      },
-      {
-        "text": "Place it on the table and use a magnifier normally.",
-        "is_correct": true
-      },
-      {
-        "text": "Focus sunlight through the magnifier.",
-        "is_correct": false
-      },
-      {
-        "text": "Hold the magnifier against your eye.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Normal magnifier use provides close observation without creating heat or eye risk.\nHint: Magnify the object, not the sun.",
-    "structuredExplanation": {
-      "summary": "Normal magnifier use provides close observation without creating heat or eye risk.",
-      "hint": "Magnify the object, not the sun."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-020",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i02-p-037",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A bee lands near your outdoor investigation. What should you do?",
-    "audioPrompt": "A bee lands near your outdoor investigation. What should you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A teacher marks a safe spot for observing shadows. Children cannot see the shadow well there. What should they do?",
+    "audio_prompt": "A teacher marks a safe spot for observing shadows. Children cannot see the shadow well there. What should they do?",
+    "answers": [
+      {
+        "text": "look directly at the Sun instead",
+        "is_correct": false
+      },
+      {
+        "text": "ask for help finding another safe viewing spot",
+        "is_correct": true
+      },
+      {
+        "text": "move into the car park by themselves",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan can be adjusted with adult guidance while keeping the observation safe.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Stay calm, move away slowly and tell an adult if needed.",
-        "is_correct": true
-      },
-      {
-        "text": "Swat at it.",
-        "is_correct": false
-      },
-      {
-        "text": "Grab it.",
-        "is_correct": false
-      },
-      {
-        "text": "Chase it.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Calm distance reduces the chance of stings and avoids harming the bee.\nHint: Give wildlife space.",
-    "structuredExplanation": {
-      "summary": "Calm distance reduces the chance of stings and avoids harming the bee.",
-      "hint": "Give wildlife space."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-021",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i02-p-038",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A class wants to compare sounds made by objects. Which plan is safest for hearing?",
-    "audioPrompt": "A class wants to compare sounds made by objects. Which plan is safest for hearing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A group wants to test which ramp sends a car farther. Which complete plan is suitable?",
+    "audio_prompt": "A group wants to test which ramp sends a car farther. Which complete plan is suitable?",
+    "answers": [
+      {
+        "text": "release first, clear the lane later, then mark the start",
+        "is_correct": false
+      },
+      {
+        "text": "clear the lane, pack away the ramps, then guess the distance",
+        "is_correct": false
+      },
+      {
+        "text": "set up a clear lane, release as instructed, mark the stopping place",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The suitable sequence prepares the area, performs the test and observes the relevant outcome.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Bang metal beside someone’s ear.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the loudest possible sound.",
-        "is_correct": false
-      },
-      {
-        "text": "Put objects inside the ear.",
-        "is_correct": false
-      },
-      {
-        "text": "Make gentle sounds and keep objects away from ears.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Sound investigations should avoid loud noises close to ears.\nHint: Protect hearing.",
-    "structuredExplanation": {
-      "summary": "Sound investigations should avoid loud noises close to ears.",
-      "hint": "Protect hearing."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-022",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i02-p-039",
-    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A child gets an unknown substance on their hand. What should happen?",
-    "audioPrompt": "A child gets an unknown substance on their hand. What should happen?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A child is told to keep a fan's guard in place during a paper test. The paper does not move. What next?",
+    "audio_prompt": "A child is told to keep a fan's guard in place during a paper test. The paper does not move. What next?",
+    "answers": [
+      {
+        "text": "ask the adult how to adjust the setup safely",
+        "is_correct": true
+      },
+      {
+        "text": "remove the guard to get closer",
+        "is_correct": false
+      },
+      {
+        "text": "push fingers through the guard",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A result that is hard to see is a reason to seek help, not remove a safety feature.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Wipe it on clothing and continue.",
-        "is_correct": false
-      },
-      {
-        "text": "Hide it.",
-        "is_correct": false
-      },
-      {
-        "text": "Tell an adult immediately and follow the instructed washing procedure.",
-        "is_correct": true
-      },
-      {
-        "text": "Taste it to identify it.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Unknown exposure should be reported so the correct response can be followed.\nHint: Tell first.",
-    "structuredExplanation": {
-      "summary": "Unknown exposure should be reported so the correct response can be followed.",
-      "hint": "Tell first."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-p-023",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "practice",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "Read the water-test cards. Which step needs changing before the class starts?",
+    "audio_prompt": "Read the water-test cards. Which step needs changing before the class starts?",
+    "answers": [
+      {
+        "text": "remove the tray but keep the same location",
+        "is_correct": false
+      },
+      {
+        "text": "move the water work away from electrical equipment",
+        "is_correct": true
+      },
+      {
+        "text": "leave the tray beside the device and pour slowly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Changing the location addresses the hazard; pouring slowly or removing the tray does not.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Planned location: Beside a plugged-in device. Planned equipment: Tray, paper and cups of water. Planned action: Pour water onto paper in the tray.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-23.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-p-040",
-    "curriculumCode": "AC9S1I02",
+    "id": "ac9s1i02-r2-p-024",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "practice",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which investigation shows both safety and care for living things?",
-    "audioPrompt": "Which investigation shows both safety and care for living things?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A class follows a plan to test whether a cover keeps a toy dry. Rain starts during the outdoor setup. What should they do?",
+    "audio_prompt": "A class follows a plan to test whether a cover keeps a toy dry. Rain starts during the outdoor setup. What should they do?",
+    "answers": [
+      {
+        "text": "keep going because plans can never change",
+        "is_correct": false
+      },
+      {
+        "text": "collect all materials while running",
+        "is_correct": false
+      },
+      {
+        "text": "pause and ask the adult how to continue safely",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Safe procedures can be adjusted with guidance when conditions change.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Keep them without water.",
-        "is_correct": false
-      },
-      {
-        "text": "Observe worms in a damp tray briefly, handle only if instructed, then return them carefully.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave worms in the sun all day.",
-        "is_correct": false
-      },
-      {
-        "text": "Stretch worms to measure them.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The first plan limits handling and disturbance while allowing observation.\nHint: Science should not harm the organism.",
-    "structuredExplanation": {
-      "summary": "The first plan limits handling and disturbance while allowing observation.",
-      "hint": "Science should not harm the organism."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
+  },
+  {
+    "id": "ac9s1i02-r2-t-001",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i02-t-001",
-    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A jar cracks during an investigation. What should you do first?",
-    "audioPrompt": "A jar cracks during an investigation. What should you do first?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A group is given an unfamiliar tool for observing leaves. What should they do first?",
+    "audio_prompt": "A group is given an unfamiliar tool for observing leaves. What should they do first?",
+    "answers": [
+      {
+        "text": "ask how to use it before starting",
+        "is_correct": true
+      },
+      {
+        "text": "try it quickly and ask afterwards",
+        "is_correct": false
+      },
+      {
+        "text": "let everyone use it at once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Learning the safe procedure comes before using unfamiliar equipment.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Keep using it.",
-        "is_correct": false
-      },
-      {
-        "text": "Touch the crack.",
-        "is_correct": false
-      },
-      {
-        "text": "Throw it in a classroom bin yourself.",
-        "is_correct": false
-      },
-      {
-        "text": "Stop and tell an adult.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Cracked containers can have sharp edges.\nHint: Stop before touching damaged equipment.",
-    "structuredExplanation": {
-      "summary": "Cracked containers can have sharp edges.",
-      "hint": "Stop before touching damaged equipment."
-    },
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I02",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-002",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which is safest when using a ruler to measure sticks?",
-    "audioPrompt": "Which is safest when using a ruler to measure sticks?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Run while carrying the sticks.",
-        "is_correct": false
-      },
-      {
-        "text": "Measure on stairs.",
-        "is_correct": false
-      },
-      {
-        "text": "Lay the sticks on a table and measure calmly.",
-        "is_correct": true
-      },
-      {
-        "text": "Wave the ruler near faces.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A stable work surface keeps the activity controlled.\nHint: Stable surface.",
-    "structuredExplanation": {
-      "summary": "A stable work surface keeps the activity controlled.",
-      "hint": "Stable surface."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-002",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A paper-absorption test uses small cups of water. Which work area is suitable?",
+    "audio_prompt": "A paper-absorption test uses small cups of water. Which work area is suitable?",
+    "answers": [
+      {
+        "text": "a table edge beside a plugged-in device",
+        "is_correct": false
+      },
+      {
+        "text": "a stable table with a tray, away from electrical equipment",
+        "is_correct": true
+      },
+      {
+        "text": "a walkway where people pass",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The stable, separated setup helps contain water and keeps the activity out of passing traffic.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-003",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "You see an unknown mushroom during an outdoor walk. What should you do?",
-    "audioPrompt": "You see an unknown mushroom during an outdoor walk. What should you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Pick it for a friend.",
-        "is_correct": false
-      },
-      {
-        "text": "Look without touching and tell an adult.",
-        "is_correct": true
-      },
-      {
-        "text": "Taste a small piece.",
-        "is_correct": false
-      },
-      {
-        "text": "Rub it on your hand.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Unknown fungi should not be touched or eaten.\nHint: Observe only.",
-    "structuredExplanation": {
-      "summary": "Unknown fungi should not be touched or eaten.",
-      "hint": "Observe only."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-003",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A plan says to check the lane, roll the ball, then mark where it stops. What comes directly before marking?",
+    "audio_prompt": "A plan says to check the lane, roll the ball, then mark where it stops. What comes directly before marking?",
+    "answers": [
+      {
+        "text": "pack away the ball",
+        "is_correct": false
+      },
+      {
+        "text": "move the starting line",
+        "is_correct": false
+      },
+      {
+        "text": "roll the ball",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The ball must roll and stop before its endpoint can be marked.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-004",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why should instructions be read before using a dropper?",
-    "audioPrompt": "Why should instructions be read before using a dropper?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "So you know which liquid and how much to use safely.",
-        "is_correct": true
-      },
-      {
-        "text": "So the liquid changes colour.",
-        "is_correct": false
-      },
-      {
-        "text": "So the dropper gets bigger.",
-        "is_correct": false
-      },
-      {
-        "text": "Because droppers cannot spill.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Instructions define the safe and intended procedure.\nHint: Know the procedure first.",
-    "structuredExplanation": {
-      "summary": "Instructions define the safe and intended procedure.",
-      "hint": "Know the procedure first."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-004",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A child finds broken glass near an outdoor test spot. What should they do?",
+    "audio_prompt": "A child finds broken glass near an outdoor test spot. What should they do?",
+    "answers": [
+      {
+        "text": "keep clear and tell the adult",
+        "is_correct": true
+      },
+      {
+        "text": "move the glass by hand",
+        "is_correct": false
+      },
+      {
+        "text": "hide it under leaves",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adult should deal with the hazard before the spot is used.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-005",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which setup is best for a marble roll?",
-    "audioPrompt": "Which setup is best for a marble roll?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Across a busy walkway.",
-        "is_correct": false
-      },
-      {
-        "text": "Down stairs.",
-        "is_correct": false
-      },
-      {
-        "text": "Toward a glass door.",
-        "is_correct": false
-      },
-      {
-        "text": "A taped lane on a clear floor.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "A clear lane reduces collision and breakage risk.\nHint: Control where it can roll.",
-    "structuredExplanation": {
-      "summary": "A clear lane reduces collision and breakage risk.",
-      "hint": "Control where it can roll."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-005",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "Read the procedure cards. Which order can test the paper's water absorption?",
+    "audio_prompt": "Read the procedure cards. Which order can test the paper's water absorption?",
+    "answers": [
+      {
+        "text": "add drops, pack away, set up",
+        "is_correct": false
+      },
+      {
+        "text": "set up, add drops, observe",
+        "is_correct": true
+      },
+      {
+        "text": "observe, pack away, add drops",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Preparing first and observing after adding water follows a workable test sequence.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Set up: Put paper in the tray. Add drops: Use the instructed amount. Observe: Look at what happens to the paper.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-29.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-006",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A powder spills from a labelled classroom container. What should a child do?",
-    "audioPrompt": "A powder spills from a labelled classroom container. What should a child do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Taste it.",
-        "is_correct": false
-      },
-      {
-        "text": "Sweep it with bare hands.",
-        "is_correct": false
-      },
-      {
-        "text": "Move back and tell the teacher.",
-        "is_correct": true
-      },
-      {
-        "text": "Blow it away.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Spills should be managed according to adult instructions.\nHint: Do not touch or spread it.",
-    "structuredExplanation": {
-      "summary": "Spills should be managed according to adult instructions.",
-      "hint": "Do not touch or spread it."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-006",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A child is unsure whether an outdoor plant can be touched. What should they do?",
+    "audio_prompt": "A child is unsure whether an outdoor plant can be touched. What should they do?",
+    "answers": [
+      {
+        "text": "touch it first and then ask",
+        "is_correct": false
+      },
+      {
+        "text": "rub its leaves to find out",
+        "is_correct": false
+      },
+      {
+        "text": "observe without touching and ask the adult",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Observation can continue from a suitable distance while the adult checks what is safe.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-007",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which behaviour protects an insect being observed?",
-    "audioPrompt": "Which behaviour protects an insect being observed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Leaving it in heat.",
-        "is_correct": false
-      },
-      {
-        "text": "Keeping handling brief or avoiding it.",
-        "is_correct": true
-      },
-      {
-        "text": "Pulling its wings apart.",
-        "is_correct": false
-      },
-      {
-        "text": "Shaking its container.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Ethical observation reduces harm and stress.\nHint: Care for living things.",
-    "structuredExplanation": {
-      "summary": "Ethical observation reduces harm and stress.",
-      "hint": "Care for living things."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-007",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "The next car trial is ready while a child retrieves the first car. What should the group do?",
+    "audio_prompt": "The next car trial is ready while a child retrieves the first car. What should the group do?",
+    "answers": [
+      {
+        "text": "wait until the child and car are clear",
+        "is_correct": true
+      },
+      {
+        "text": "release the next car immediately",
+        "is_correct": false
+      },
+      {
+        "text": "ask the child to jump over the car",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Waiting keeps the lane clear for the next trial.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-008",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Why keep electrical items away from water?",
-    "audioPrompt": "Why keep electrical items away from water?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Water can create an electrical hazard.",
-        "is_correct": true
-      },
-      {
-        "text": "Water makes electricity blue.",
-        "is_correct": false
-      },
-      {
-        "text": "Electricity cannot move near water.",
-        "is_correct": false
-      },
-      {
-        "text": "Water always breaks plastic.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Water near electrical equipment can be dangerous.\nHint: Electricity + water = risk.",
-    "structuredExplanation": {
-      "summary": "Water near electrical equipment can be dangerous.",
-      "hint": "Electricity + water = risk."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-008",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A test uses a teacher-approved liquid. A child wants to mix in another liquid. What should happen?",
+    "audio_prompt": "A test uses a teacher-approved liquid. A child wants to mix in another liquid. What should happen?",
+    "answers": [
+      {
+        "text": "mix it but leave it out of the notes",
+        "is_correct": false
+      },
+      {
+        "text": "ask the teacher before changing the materials",
+        "is_correct": true
+      },
+      {
+        "text": "mix a little because the amount is small",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Changing materials needs adult guidance; a small amount does not make an unknown mixture safe.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-009",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A magnifying glass is being used outside. Which action is unsafe?",
-    "audioPrompt": "A magnifying glass is being used outside. Which action is unsafe?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Looking at a rock in shade.",
-        "is_correct": false
-      },
-      {
-        "text": "Holding it over a leaf.",
-        "is_correct": false
-      },
-      {
-        "text": "Returning it after use.",
-        "is_correct": false
-      },
-      {
-        "text": "Focusing sunlight onto dry leaves.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Focused sunlight can create heat and fire risk.\nHint: Never focus the sun.",
-    "structuredExplanation": {
-      "summary": "Focused sunlight can create heat and fire risk.",
-      "hint": "Never focus the sun."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-009",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A class wants to find which cover keeps paper dry. Which observation must the procedure allow?",
+    "audio_prompt": "A class wants to find which cover keeps paper dry. Which observation must the procedure allow?",
+    "answers": [
+      {
+        "text": "check only the covers' colours before the test",
+        "is_correct": false
+      },
+      {
+        "text": "count the unused cups after packing up",
+        "is_correct": false
+      },
+      {
+        "text": "check the paper under each cover after the water test",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The procedure needs to reveal the outcome being investigated.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-010",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which footwear is safest for a classroom water test?",
-    "audioPrompt": "Which footwear is safest for a classroom water test?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Slippery socks only",
-        "is_correct": false
-      },
-      {
-        "text": "Loose sandals that fall off",
-        "is_correct": false
-      },
-      {
-        "text": "Closed shoes",
-        "is_correct": true
-      },
-      {
-        "text": "Bare feet",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Closed shoes provide better foot protection.\nHint: Protect feet from spills and drops.",
-    "structuredExplanation": {
-      "summary": "Closed shoes provide better foot protection.",
-      "hint": "Protect feet from spills and drops."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-010",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A child notices water on the floor beside the experiment. What should happen before more trials?",
+    "audio_prompt": "A child notices water on the floor beside the experiment. What should happen before more trials?",
+    "answers": [
+      {
+        "text": "stop and have the spill dealt with under adult guidance",
+        "is_correct": true
+      },
+      {
+        "text": "carry on while stepping over it",
+        "is_correct": false
+      },
+      {
+        "text": "move the cups closer to the edge",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The area should be made suitable again before more trials are started.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-011",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A child feels dizzy during an outdoor investigation. What should they do?",
-    "audioPrompt": "A child feels dizzy during an outdoor investigation. What should they do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Drink an unknown liquid.",
-        "is_correct": false
-      },
-      {
-        "text": "Stop and tell an adult.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep going silently.",
-        "is_correct": false
-      },
-      {
-        "text": "Run around.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Feeling unwell is a reason to stop and seek adult help.\nHint: Your body is a safety signal too.",
-    "structuredExplanation": {
-      "summary": "Feeling unwell is a reason to stop and seek adult help.",
-      "hint": "Your body is a safety signal too."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-011",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "Read the observation plan. What is missing at the end?",
+    "audio_prompt": "Read the observation plan. What is missing at the end?",
+    "answers": [
+      {
+        "text": "repeat handling them until lunch",
+        "is_correct": false
+      },
+      {
+        "text": "return the living things as the adult directs",
+        "is_correct": true
+      },
+      {
+        "text": "leave them in the tray overnight",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A complete procedure includes caring for living things after observation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Start: Adult prepares damp worm tray. During: Observe briefly without handling. Finish: ?.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-35.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-012",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence is true about safety rules?",
-    "audioPrompt": "Which sentence is true about safety rules?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "They help prevent harm before problems happen.",
-        "is_correct": true
-      },
-      {
-        "text": "They are only needed after accidents.",
-        "is_correct": false
-      },
-      {
-        "text": "They are optional if you are careful.",
-        "is_correct": false
-      },
-      {
-        "text": "They stop every possible accident.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Safety rules reduce risk but do not guarantee zero risk.\nHint: Prevention.",
-    "structuredExplanation": {
-      "summary": "Safety rules reduce risk but do not guarantee zero risk.",
-      "hint": "Prevention."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-012",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A group cannot get a clear view of a sample. Which change is suitable?",
+    "audio_prompt": "A group cannot get a clear view of a sample. Which change is suitable?",
+    "answers": [
+      {
+        "text": "open an unknown sample without asking",
+        "is_correct": false
+      },
+      {
+        "text": "put the sample near their mouths",
+        "is_correct": false
+      },
+      {
+        "text": "ask the adult to adjust the viewing setup",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An unclear view should be solved by adjusting the approved setup with guidance.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-013",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A class uses a fan to move paper shapes. Where should fingers be?",
-    "audioPrompt": "A class uses a fan to move paper shapes. Where should fingers be?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Inside the fan guard.",
-        "is_correct": false
-      },
-      {
-        "text": "Touching the blades.",
-        "is_correct": false
-      },
-      {
-        "text": "Holding the motor.",
-        "is_correct": false
-      },
-      {
-        "text": "Away from moving fan parts.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Hands should stay away from moving parts.\nHint: Keep clear.",
-    "structuredExplanation": {
-      "summary": "Hands should stay away from moving parts.",
-      "hint": "Keep clear."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-013",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "The plan uses one dropper of water for each sample. Why should a child follow that amount?",
+    "audio_prompt": "The plan uses one dropper of water for each sample. Why should a child follow that amount?",
+    "answers": [
+      {
+        "text": "to carry out the agreed comparison",
+        "is_correct": true
+      },
+      {
+        "text": "to guarantee both samples act the same",
+        "is_correct": false
+      },
+      {
+        "text": "to avoid needing to observe the samples",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Following the amount tests the plan; it does not guarantee a result or replace observation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-014",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which is safe when comparing smells?",
-    "audioPrompt": "Which is safe when comparing smells?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Smell unknown chemicals directly.",
-        "is_correct": false
-      },
-      {
-        "text": "Taste first.",
-        "is_correct": false
-      },
-      {
-        "text": "Use only teacher-approved materials and follow instructions for wafting if told.",
-        "is_correct": true
-      },
-      {
-        "text": "Put your nose inside every container.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Only approved materials should be smelled using the taught method.\nHint: Approved + instructed.",
-    "structuredExplanation": {
-      "summary": "Only approved materials should be smelled using the taught method.",
-      "hint": "Approved + instructed."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-014",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A class tests soft sounds. Which procedure should be changed?",
+    "audio_prompt": "A class tests soft sounds. Which procedure should be changed?",
+    "answers": [
+      {
+        "text": "taking turns making gentle sounds",
+        "is_correct": false
+      },
+      {
+        "text": "banging objects close to someone's ear",
+        "is_correct": true
+      },
+      {
+        "text": "placing objects on a stable table",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The first action creates unnecessary noise close to an ear and should be changed.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-015",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "A child wants to collect a spider for class. Best choice?",
-    "audioPrompt": "A child wants to collect a spider for class. Best choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Trap it without air.",
-        "is_correct": false
-      },
-      {
-        "text": "Ask an adult and usually observe it where it is.",
-        "is_correct": true
-      },
-      {
-        "text": "Grab it quickly.",
-        "is_correct": false
-      },
-      {
-        "text": "Put it in a pocket.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Many animals are safest observed in place rather than handled.\nHint: Ask before handling wildlife.",
-    "structuredExplanation": {
-      "summary": "Many animals are safest observed in place rather than handled.",
-      "hint": "Ask before handling wildlife."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-015",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A group finishes using cups and a tray. Which final step belongs in the procedure?",
+    "audio_prompt": "A group finishes using cups and a tray. Which final step belongs in the procedure?",
+    "answers": [
+      {
+        "text": "leave water across the table for the next group",
+        "is_correct": false
+      },
+      {
+        "text": "carry full cups while running to the sink",
+        "is_correct": false
+      },
+      {
+        "text": "follow the instructions to empty, clean and put away materials",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A safe procedure includes leaving the area and equipment ready for others.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   },
   {
-    "id": "ac9s1i02-t-016",
-    "curriculumCode": "AC9S1I02",
-    "bank": "test",
-    "skill": "safe investigation procedures",
-    "printable": true,
-    "type": "single",
-    "question": "Which plan best combines fair testing and safety?",
-    "audioPrompt": "Which plan best combines fair testing and safety?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use the same ball on two marked surfaces in a clear area, one trial at a time.",
-        "is_correct": true
-      },
-      {
-        "text": "Throw different balls across a doorway.",
-        "is_correct": false
-      },
-      {
-        "text": "Test beside a spill.",
-        "is_correct": false
-      },
-      {
-        "text": "Roll balls from stairs.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "The first plan is both controlled and safe.\nHint: Fair and safe together.",
-    "structuredExplanation": {
-      "summary": "The first plan is both controlled and safe.",
-      "hint": "Fair and safe together."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i02-r2-t-016",
     "curriculum_code": "AC9S1I02",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "safe procedures to investigate questions and test predictions",
+    "question": "A paper test gives an unexpected result. The teacher's steps were followed safely. What should happen?",
+    "audio_prompt": "A paper test gives an unexpected result. The teacher's steps were followed safely. What should happen?",
+    "answers": [
+      {
+        "text": "record it and ask about the next safe trial",
+        "is_correct": true
+      },
+      {
+        "text": "change materials secretly until the expected result appears",
+        "is_correct": false
+      },
+      {
+        "text": "repeat faster without checking the area",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An unexpected result is useful. Further trials should still follow an agreed safe procedure.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/design-a-race-car-track",
+      "evidence_scope": "Related procedural-sequencing reference only: IXL lists no direct AC9S1I02 skill in its Year 1 plan. Safety coverage follows QCAA/ACARA. See docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not a direct IXL equivalence claim."
+    }
   }
 ]

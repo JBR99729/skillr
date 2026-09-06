@@ -4,16 +4,24 @@ on:
     branches: [main]
     paths:
       - 'assets/assessment-banks/year1/science/ac9s1u0[123].json'
-      - 'assets/assessment-visuals/year1/science/ixl-review-1/**'
+      - 'assets/assessment-banks/year1/science/ac9s1h01.json'
+      - 'assets/assessment-banks/year1/science/ac9s1i0[12].json'
+      - 'assets/assessment-visuals/year1/science/ixl-review-*/**'
       - 'quiz/year-1/science/ac9s1u0[123]/**'
+      - 'quiz/year-1/science/ac9s1h01/**'
+      - 'quiz/year-1/science/ac9s1i0[12]/**'
       - 'scripts/year1_science_ixl_review/**'
       - 'scripts/validate-year1-science-review.cjs'
       - '.github/workflows/validate-year1-science-reviewed-banks.yml'
   pull_request:
     paths:
       - 'assets/assessment-banks/year1/science/ac9s1u0[123].json'
-      - 'assets/assessment-visuals/year1/science/ixl-review-1/**'
+      - 'assets/assessment-banks/year1/science/ac9s1h01.json'
+      - 'assets/assessment-banks/year1/science/ac9s1i0[12].json'
+      - 'assets/assessment-visuals/year1/science/ixl-review-*/**'
       - 'quiz/year-1/science/ac9s1u0[123]/**'
+      - 'quiz/year-1/science/ac9s1h01/**'
+      - 'quiz/year-1/science/ac9s1i0[12]/**'
       - 'scripts/year1_science_ixl_review/**'
       - 'scripts/validate-year1-science-review.cjs'
       - '.github/workflows/validate-year1-science-reviewed-banks.yml'
@@ -30,7 +38,9 @@ jobs:
       - name: Install test-only DOM dependency
         run: npm install --prefix "$RUNNER_TEMP/science-bank-qa" --no-audit --no-fund jsdom@26.1.0
       - name: Check complete bank journeys
-        run: NODE_PATH="$RUNNER_TEMP/science-bank-qa/node_modules" node scripts/validate-year1-science-review.cjs
+        run: |
+          NODE_PATH="$RUNNER_TEMP/science-bank-qa/node_modules" node scripts/validate-year1-science-review.cjs
+          NODE_PATH="$RUNNER_TEMP/science-bank-qa/node_modules" node scripts/validate-year1-science-review.cjs --batch2
       - name: Check topic journeys and review ledger
         run: |
           node scripts/validate_year1_science_static_topic_pages.mjs

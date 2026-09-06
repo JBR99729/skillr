@@ -11,6 +11,10 @@ import textwrap
 ROOT = Path(__file__).resolve().parents[2]
 HERE = Path(__file__).resolve().parent
 VERSION = '20260906-science-review-1'
+ID_TAG = 'r1'
+ASSET_FOLDER = 'ixl-review-1'
+AUDIT_PATH = 'docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md'
+EVIDENCE_SCOPES = {}
 ASSETS = ROOT / 'assets/assessment-visuals/year1/science/ixl-review-1'
 ASSETS.mkdir(parents=True, exist_ok=True)
 
@@ -97,41 +101,45 @@ visuals = {
 
 SKILLS = {'u01':'needs of plants and animals','u02':'daily and seasonal changes','u03':'pushes and pulls'}
 REFS = {'u01':'what-do-animals-need-to-survive','u02':'weather-patterns','u03':'investigate-pushes-and-pulls'}
-for short in SKILLS:
-    code = 'AC9S1'+short.upper()
-    lines = [line.split('|') for line in (HERE/f'{short}.txt').read_text().splitlines() if line and not line.startswith('#')]
-    assert len(lines) == 40, (code, len(lines))
-    assert len({row[0] for row in lines}) == 40
-    bank = []
-    for index, row in enumerate(lines):
-        assert len(row) == 5, row
-        question, correct, wrong1, wrong2, explanation = row
-        answers = [correct, wrong1, wrong2]
-        position = index % 3
-        answers = answers[-position:]+answers[:-position] if position else answers
-        assert len(set(answers)) == 3
-        is_practice = index < 24
-        number = index+1 if is_practice else index-23
-        stage = ['recognise','apply','reason'][min(index//8,2)] if is_practice else 'independent'
-        visual = {'type':'none','alt_text':''}
-        if index+1 in visuals[short]:
-            body, alt = visuals[short][index+1]
-            asset = f'{code.lower()}-{index+1:02}.svg'
-            # Publisher consumes the named symbol; standalone asset supports visual QA.
-            svg = f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 300" role="img" aria-label="{html.escape(alt,quote=True)}"><defs><symbol id="model" viewBox="0 0 640 300">{body}</symbol></defs><use href="#model" xlink:href="#model" width="640" height="300"/></svg>\n'
-            (ASSETS/asset).write_text(svg)
-            visual = {'type':'svg','alt_text':alt,'asset_path':f'/assets/assessment-visuals/year1/science/ixl-review-1/{asset}#model'}
-        bank.append({
-            'id':f'{code.lower()}-r1-{"p" if is_practice else "t"}-{number:03}',
-            'curriculum_code':code,'year_level':'Year 1','subject':'science',
-            'bank':'practice' if is_practice else 'test','skill':SKILLS[short],
-            'question':question,'audio_prompt':question,
-            'answers':[{'text':a,'is_correct':j==position} for j,a in enumerate(answers)],
-            'correct_index':position,'explanation':{'summary':explanation,'hint':'Look for the observation that supports your answer.'},
-            'visual':visual,'difficulty':min(index//8+1,3) if is_practice else 3,
-            'difficulty_tier':stage,'sequence_priority':number,
-            'review':{'version':VERSION,'status':'editorially-reviewed','ixl_reference_url':f'https://au.ixl.com/science/year-1/{REFS[short]}','evidence_scope':'Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md. Not an IXL endorsement or measured equivalence.'}
-        })
-    dest = ROOT/f'assets/assessment-banks/year1/science/{code.lower()}.json'
-    dest.write_text(json.dumps(bank,indent=2,ensure_ascii=False)+'\n')
-    print(code,'24 Practice + 16 Test;',len(visuals[short]),'visuals')
+def build():
+    for short in SKILLS:
+        code = 'AC9S1'+short.upper()
+        lines = [line.split('|') for line in (HERE/f'{short}.txt').read_text().splitlines() if line and not line.startswith('#')]
+        assert len(lines) == 40, (code, len(lines))
+        assert len({row[0] for row in lines}) == 40
+        bank = []
+        for index, row in enumerate(lines):
+            assert len(row) == 5, row
+            question, correct, wrong1, wrong2, explanation = row
+            answers = [correct, wrong1, wrong2]
+            position = index % 3
+            answers = answers[-position:]+answers[:-position] if position else answers
+            assert len(set(answers)) == 3
+            is_practice = index < 24
+            number = index+1 if is_practice else index-23
+            stage = ['recognise','apply','reason'][min(index//8,2)] if is_practice else 'independent'
+            visual = {'type':'none','alt_text':''}
+            if index+1 in visuals[short]:
+                body, alt = visuals[short][index+1]
+                asset = f'{code.lower()}-{index+1:02}.svg'
+                # Publisher consumes the named symbol; standalone asset supports visual QA.
+                svg = f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 300" role="img" aria-label="{html.escape(alt,quote=True)}"><defs><symbol id="model" viewBox="0 0 640 300">{body}</symbol></defs><use href="#model" xlink:href="#model" width="640" height="300"/></svg>\n'
+                (ASSETS/asset).write_text(svg)
+                visual = {'type':'svg','alt_text':alt,'asset_path':f'/assets/assessment-visuals/year1/science/{ASSET_FOLDER}/{asset}#model'}
+            bank.append({
+                'id':f'{code.lower()}-{ID_TAG}-{"p" if is_practice else "t"}-{number:03}',
+                'curriculum_code':code,'year_level':'Year 1','subject':'science',
+                'bank':'practice' if is_practice else 'test','skill':SKILLS[short],
+                'question':question,'audio_prompt':question,
+                'answers':[{'text':a,'is_correct':j==position} for j,a in enumerate(answers)],
+                'correct_index':position,'explanation':{'summary':explanation,'hint':'Look for the observation that supports your answer.'},
+                'visual':visual,'difficulty':min(index//8+1,3) if is_practice else 3,
+                'difficulty_tier':stage,'sequence_priority':number,
+                'review':{'version':VERSION,'status':'editorially-reviewed','ixl_reference_url':f'https://au.ixl.com/science/year-1/{REFS[short]}','evidence_scope':EVIDENCE_SCOPES.get(short, f'Representative observed questions; see {AUDIT_PATH}. Not an IXL endorsement or measured equivalence.')}
+            })
+        dest = ROOT/f'assets/assessment-banks/year1/science/{code.lower()}.json'
+        dest.write_text(json.dumps(bank,indent=2,ensure_ascii=False)+'\n')
+        print(code,'24 Practice + 16 Test;',len(visuals[short]),'visuals')
+
+if __name__ == "__main__":
+    build()
