@@ -163,8 +163,8 @@ window.skillrTestQuestions = [
     "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "A class sees more insects under one log than another. Which further question follows?",
-    "audioPrompt": "A class sees more insects under one log than another. Which further question follows?",
+    "question": "A class sees more insects under one log than another. Which question extends the comparison of insect numbers?",
+    "audioPrompt": "A class sees more insects under one log than another. Which question extends the comparison of insect numbers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -172,8 +172,8 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which log has the funniest name?",
-      "Which child has the largest lunchbox?",
+      "Which of these logs has the roughest bark?",
+      "How long is each log?",
       "Would another similar log have more insects too?"
     ],
     "difficulty": 3,
@@ -350,8 +350,8 @@ window.skillrTestQuestions = [
     "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "A paper boat sank after taking on water. Which further question relates to that result?",
-    "audioPrompt": "A paper boat sank after taking on water. Which further question relates to that result?",
+    "question": "A paper boat sank after taking on water. Which question tests a way to keep water out?",
+    "audioPrompt": "A paper boat sank after taking on water. Which question tests a way to keep water out?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -359,8 +359,8 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which child likes the boat's colour?",
-      "What day comes after Friday?",
+      "How many folds are already in this boat?",
+      "How wide is the boat before it is put in water?",
       "Would a waterproof coating help it stay afloat longer?"
     ],
     "difficulty": 3,
@@ -474,8 +474,8 @@ window.skillrTestQuestions = [
     "skill": "comparing evidence, considering fairness and identifying further questions",
     "printable": true,
     "type": "single",
-    "question": "A sponge soaked up water quickly at first, then left water behind. Which further question could the class test?",
-    "audioPrompt": "A sponge soaked up water quickly at first, then left water behind. Which further question could the class test?",
+    "question": "A sponge soaked up water quickly at first, then left water behind. Which question explores how much it can take up?",
+    "audioPrompt": "A sponge soaked up water quickly at first, then left water behind. Which question explores how much it can take up?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -484,8 +484,8 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "How much water can the sponge hold before it stops soaking it up?",
-      "What colour should the table be?",
-      "Who likes using sponges most?"
+      "How long does the wet sponge take to dry?",
+      "How much water drips out when the sponge is squeezed?"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",

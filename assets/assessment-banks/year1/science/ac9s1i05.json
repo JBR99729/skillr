@@ -469,15 +469,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "comparing evidence, considering fairness and identifying further questions",
-    "question": "A paper bridge held fewer counters than expected. Which next question follows?",
-    "audio_prompt": "A paper bridge held fewer counters than expected. Which next question follows?",
+    "question": "A paper bridge held fewer counters than expected. Which question tests a way to make it stronger?",
+    "audio_prompt": "A paper bridge held fewer counters than expected. Which question tests a way to make it stronger?",
     "answers": [
       {
-        "text": "Which child likes bridges best?",
+        "text": "How long is the paper before it is folded?",
         "is_correct": false
       },
       {
-        "text": "What colour is the classroom door?",
+        "text": "How many counters were used today?",
         "is_correct": false
       },
       {
@@ -637,19 +637,19 @@
     "subject": "science",
     "bank": "practice",
     "skill": "comparing evidence, considering fairness and identifying further questions",
-    "question": "A seedling grew towards a window. Which further question explores that observation?",
-    "audio_prompt": "A seedling grew towards a window. Which further question explores that observation?",
+    "question": "A seedling grew towards a window. Which question explores whether growth direction follows light?",
+    "audio_prompt": "A seedling grew towards a window. Which question explores whether growth direction follows light?",
     "answers": [
       {
         "text": "Would it grow towards light from another direction?",
         "is_correct": true
       },
       {
-        "text": "Which pot has the nicest pattern?",
+        "text": "How many leaves does the seedling have today?",
         "is_correct": false
       },
       {
-        "text": "How many letters are in 'window'?",
+        "text": "How wide is the pot holding the seedling?",
         "is_correct": false
       }
     ],
@@ -806,11 +806,11 @@
     "subject": "science",
     "bank": "practice",
     "skill": "comparing evidence, considering fairness and identifying further questions",
-    "question": "A leaf with holes is found beside an unmarked leaf. Which question could extend the investigation?",
-    "audio_prompt": "A leaf with holes is found beside an unmarked leaf. Which question could extend the investigation?",
+    "question": "A leaf with holes is found beside an unmarked leaf. Which question explores how the holes change over time?",
+    "audio_prompt": "A leaf with holes is found beside an unmarked leaf. Which question explores how the holes change over time?",
     "answers": [
       {
-        "text": "Which child owns the green pencil?",
+        "text": "Are both leaves the same shade of green?",
         "is_correct": false
       },
       {
@@ -818,7 +818,7 @@
         "is_correct": true
       },
       {
-        "text": "Which leaf has the nicest name?",
+        "text": "Which leaf is longer today?",
         "is_correct": false
       }
     ],
@@ -975,15 +975,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "comparing evidence, considering fairness and identifying further questions",
-    "question": "A test shows water passed through cloth but not plastic. Which further question follows?",
-    "audio_prompt": "A test shows water passed through cloth but not plastic. Which further question follows?",
+    "question": "A test shows water passed through cloth but not plastic. Which question tests another way to keep the paper underneath dry?",
+    "audio_prompt": "A test shows water passed through cloth but not plastic. Which question tests another way to keep the paper underneath dry?",
     "answers": [
       {
-        "text": "Which colour of pencil is most popular?",
+        "text": "How wide is the paper before it gets wet?",
         "is_correct": false
       },
       {
-        "text": "How many chairs are in the room?",
+        "text": "How long does the wet paper take to dry?",
         "is_correct": false
       },
       {
@@ -1228,15 +1228,15 @@
     "subject": "science",
     "bank": "test",
     "skill": "comparing evidence, considering fairness and identifying further questions",
-    "question": "A class sees more insects under one log than another. Which further question follows?",
-    "audio_prompt": "A class sees more insects under one log than another. Which further question follows?",
+    "question": "A class sees more insects under one log than another. Which question extends the comparison of insect numbers?",
+    "audio_prompt": "A class sees more insects under one log than another. Which question extends the comparison of insect numbers?",
     "answers": [
       {
-        "text": "Which log has the funniest name?",
+        "text": "Which of these logs has the roughest bark?",
         "is_correct": false
       },
       {
-        "text": "Which child has the largest lunchbox?",
+        "text": "How long is each log?",
         "is_correct": false
       },
       {
@@ -1481,15 +1481,15 @@
     "subject": "science",
     "bank": "test",
     "skill": "comparing evidence, considering fairness and identifying further questions",
-    "question": "A paper boat sank after taking on water. Which further question relates to that result?",
-    "audio_prompt": "A paper boat sank after taking on water. Which further question relates to that result?",
+    "question": "A paper boat sank after taking on water. Which question tests a way to keep water out?",
+    "audio_prompt": "A paper boat sank after taking on water. Which question tests a way to keep water out?",
     "answers": [
       {
-        "text": "Which child likes the boat's colour?",
+        "text": "How many folds are already in this boat?",
         "is_correct": false
       },
       {
-        "text": "What day comes after Friday?",
+        "text": "How wide is the boat before it is put in water?",
         "is_correct": false
       },
       {
@@ -1649,19 +1649,19 @@
     "subject": "science",
     "bank": "test",
     "skill": "comparing evidence, considering fairness and identifying further questions",
-    "question": "A sponge soaked up water quickly at first, then left water behind. Which further question could the class test?",
-    "audio_prompt": "A sponge soaked up water quickly at first, then left water behind. Which further question could the class test?",
+    "question": "A sponge soaked up water quickly at first, then left water behind. Which question explores how much it can take up?",
+    "audio_prompt": "A sponge soaked up water quickly at first, then left water behind. Which question explores how much it can take up?",
     "answers": [
       {
         "text": "How much water can the sponge hold before it stops soaking it up?",
         "is_correct": true
       },
       {
-        "text": "What colour should the table be?",
+        "text": "How long does the wet sponge take to dry?",
         "is_correct": false
       },
       {
-        "text": "Who likes using sponges most?",
+        "text": "How much water drips out when the sponge is squeezed?",
         "is_correct": false
       }
     ],
