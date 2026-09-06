@@ -1,9 +1,11 @@
 import fs from "node:fs";
 import path from "node:path";
+import { execFileSync } from "node:child_process";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const input = process.argv[2];
-if (!input) throw new Error("Usage: node scripts/publish_production_question_bank.mjs <bank.json>");
+const markReviewed = process.argv.includes("--reviewed");
+if (!input) throw new Error("Usage: node scripts/publish_production_question_bank.mjs <bank.json> [--reviewed]");
 const items = JSON.parse(fs.readFileSync(path.resolve(ROOT, input), "utf8"));
 if (!Array.isArray(items) || !items.length) throw new Error("Expected a non-empty production bank");
 
@@ -126,3 +128,10 @@ if (fs.existsSync(activityFile)) {
 }
 
 console.log(JSON.stringify({ code: first.curriculum_code, route: path.relative(ROOT, route), practice: items.filter((item) => item.bank === "practice").length, test: items.filter((item) => item.bank === "test").length }, null, 2));
+
+if (markReviewed) {
+  execFileSync(process.execPath, ["scripts/update_content_verification_status.mjs", "--record", first.curriculum_code], {
+    cwd: ROOT,
+    stdio: "inherit"
+  });
+}
