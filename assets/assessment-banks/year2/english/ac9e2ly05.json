@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "predict_from_a_clue_direct",
-    "question": "The sky turns dark and Dad brings the washing inside. What is a supported prediction?",
-    "audio_prompt": "The sky turns dark and Dad brings the washing inside. What is a supported prediction?",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dad may put the washing back outside to keep drying.",
-        "is_correct": false
-      },
-      {
-        "text": "Rain may begin soon.",
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "The dark clouds may clear because the rain has already finished.",
+        "text": "Mira showed Dad.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira lost the shell.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Darkening sky and bringing washing in are clues that rain may be coming.",
-      "hint": "Use events in the text, not a wild guess."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "visualise_a_setting_direct",
-    "question": "Read: ‘Golden leaves spun across the narrow path.’ Which mental picture fits?",
-    "audio_prompt": "Read: ‘Golden leaves spun across the narrow path.’ Which mental picture fits?",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "brown leaves lying still across a wide road",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "yellow leaves falling straight down beside a broad path",
+        "text": "Change every word.",
         "is_correct": false
       },
       {
-        "text": "yellow leaves swirling over a thin walkway",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Golden, spun and narrow provide colour, movement and shape for visualising.",
-      "hint": "Build the picture from each descriptive clue."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "find_literal_meaning_direct",
-    "question": "The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly?",
-    "audio_prompt": "The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly?",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Nia put three red apples in a basket.",
+        "text": "bed",
+        "is_correct": false
+      },
+      {
+        "text": "the beach",
         "is_correct": true
       },
       {
-        "text": "Nia dislikes every green apple.",
-        "is_correct": false
-      },
-      {
-        "text": "The basket belongs to Nia's grandmother.",
+        "text": "the library",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The number, colour, object and action are directly stated in the sentence.",
-      "hint": "For literal meaning, use only information the words clearly give."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "infer_a_feeling_direct",
-    "question": "Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel?",
-    "audio_prompt": "Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel?",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "calm because he has taken one deep breath",
-        "is_correct": false
-      },
-      {
-        "text": "nervous about speaking",
+        "text": "tell the main ideas briefly",
         "is_correct": true
       },
       {
-        "text": "excited because the crowd is waiting for him",
+        "text": "copy every word",
+        "is_correct": false
+      },
+      {
+        "text": "list only commas",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Gripping the card and taking a deep breath before a crowd suggest nervousness.",
-      "hint": "Combine the character's actions with what you know about the situation."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "monitor_confusion_direct",
-    "question": "A paragraph says a seed grew leaves before it was planted. What should a careful reader do?",
-    "audio_prompt": "A paragraph says a seed grew leaves before it was planted. What should a careful reader do?",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Read on because an unusual sequence does not need checking.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       },
       {
-        "text": "Move the sentence to the end without rereading the paragraph.",
+        "text": "Mira lost the shell.",
         "is_correct": false
       },
       {
-        "text": "Stop, reread and ask whether the order makes sense.",
+        "text": "Mira opened the box.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Monitoring means noticing a meaning problem and checking the text again.",
-      "hint": "Respond when an idea conflicts with a sensible sequence."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "choose_a_summary_direct",
-    "question": "A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary?",
-    "audio_prompt": "A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary?",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Bees collect food and help plants reproduce.",
+        "text": "Change every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       },
       {
-        "text": "One bee landed on a purple flower at 10 o'clock.",
-        "is_correct": false
-      },
-      {
-        "text": "Bees, seeds, purple, flying, garden, wings.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The summary keeps the main idea and important supporting information.",
-      "hint": "Leave out small examples and keep what the whole passage is mostly about."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "ask_a_useful_question_direct",
-    "question": "After reading that sea turtles mistake plastic for food, which question would deepen understanding?",
-    "audio_prompt": "After reading that sea turtles mistake plastic for food, which question would deepen understanding?",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Does the sentence contain the word plastic?",
-        "is_correct": false
-      },
-      {
-        "text": "How can people stop plastic reaching the ocean?",
+        "text": "the beach",
         "is_correct": true
       },
       {
-        "text": "What colour was the piece of plastic in the picture?",
+        "text": "the library",
+        "is_correct": false
+      },
+      {
+        "text": "bed",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The question connects to the problem and invites further thinking.",
-      "hint": "Ask about an important idea that the text raises."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "make_a_text_connection_direct",
-    "question": "A character checks a map before a hike. Which connection could help a reader understand why?",
-    "audio_prompt": "A character checks a map before a hike. Which connection could help a reader understand why?",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "I have worn hiking shoes on a long walk.",
+        "text": "copy every word",
         "is_correct": false
       },
       {
-        "text": "I once saw a map printed in bright colours.",
+        "text": "list only commas",
         "is_correct": false
       },
       {
-        "text": "I have used a map to avoid taking a wrong path.",
+        "text": "tell the main ideas briefly",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The relevant experience explains how a map helps with finding a route.",
-      "hint": "Choose a connection that sheds light on the character's action."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "predict_from_a_pattern_direct",
-    "question": "On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning?",
-    "audio_prompt": "On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The puppy may wait there for food again.",
+        "text": "Mira lost the shell.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "The puppy may wait by the front door instead, with no new clue.",
-        "is_correct": false
-      },
-      {
-        "text": "The puppy may stop eating breakfast because the pattern happened twice.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The repeated morning behaviour supports a prediction that it will happen again.",
-      "hint": "Base the prediction on the pattern in the text."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "monitor_a_pronoun_direct",
-    "question": "The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do?",
-    "audio_prompt": "The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Assume her means Ella because Ella's name comes first.",
-        "is_correct": false
-      },
-      {
-        "text": "Reread nearby sentences for a clue about who her refers to.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       },
       {
-        "text": "Assume her means Priya because Priya's name is closest.",
+        "text": "Keep reading without thinking.",
+        "is_correct": false
+      },
+      {
+        "text": "Change every word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Rereading context can clarify an uncertain pronoun reference.",
-      "hint": "Notice exactly what is unclear and search nearby for evidence."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "predict_from_a_clue_explain",
-    "question": "The sky turns dark and Dad brings the washing inside. What is a supported prediction? Why is “Rain may begin soon.” the best answer?",
-    "audio_prompt": "The sky turns dark and Dad brings the washing inside. What is a supported prediction? Why is “Rain may begin soon.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Dad may put the washing back outside to keep drying.”.",
+        "text": "the library",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "bed",
         "is_correct": false
       },
       {
-        "text": "Darkening sky and bringing washing in are clues that rain may be coming.",
+        "text": "the beach",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Darkening sky and bringing washing in are clues that rain may be coming.",
-      "hint": "Use events in the text, not a wild guess."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "visualise_a_setting_explain",
-    "question": "Read: ‘Golden leaves spun across the narrow path.’ Which mental picture fits? Why is “yellow leaves swirling over a thin walkway” the best answer?",
-    "audio_prompt": "Read: ‘Golden leaves spun across the narrow path.’ Which mental picture fits? Why is “yellow leaves swirling over a thin walkway” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Golden, spun and narrow provide colour, movement and shape for visualising.",
+        "text": "list only commas",
+        "is_correct": false
+      },
+      {
+        "text": "tell the main ideas briefly",
         "is_correct": true
       },
       {
-        "text": "It is best only because it is longer than “brown leaves lying still across a wide road”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "copy every word",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Golden, spun and narrow provide colour, movement and shape for visualising.",
-      "hint": "Build the picture from each descriptive clue."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "find_literal_meaning_explain",
-    "question": "The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly? Why is “Nia put three red apples in a basket.” the best answer?",
-    "audio_prompt": "The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly? Why is “Nia put three red apples in a basket.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Nia dislikes every green apple.”.",
-        "is_correct": false
-      },
-      {
-        "text": "The number, colour, object and action are directly stated in the sentence.",
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "Mira showed Dad.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira lost the shell.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The number, colour, object and action are directly stated in the sentence.",
-      "hint": "For literal meaning, use only information the words clearly give."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "infer_a_feeling_explain",
-    "question": "Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel? Why is “nervous about speaking” the best answer?",
-    "audio_prompt": "Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel? Why is “nervous about speaking” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “calm because he has taken one deep breath”.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "Change every word.",
         "is_correct": false
       },
       {
-        "text": "Gripping the card and taking a deep breath before a crowd suggest nervousness.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Gripping the card and taking a deep breath before a crowd suggest nervousness.",
-      "hint": "Combine the character's actions with what you know about the situation."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "monitor_confusion_explain",
-    "question": "A paragraph says a seed grew leaves before it was planted. What should a careful reader do? Why is “Stop, reread and ask whether the order makes sense.” the best answer?",
-    "audio_prompt": "A paragraph says a seed grew leaves before it was planted. What should a careful reader do? Why is “Stop, reread and ask whether the order makes sense.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Monitoring means noticing a meaning problem and checking the text again.",
+        "text": "bed",
+        "is_correct": false
+      },
+      {
+        "text": "the beach",
         "is_correct": true
       },
       {
-        "text": "It is best only because it is longer than “Read on because an unusual sequence does not need checking.”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "the library",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Monitoring means noticing a meaning problem and checking the text again.",
-      "hint": "Respond when an idea conflicts with a sensible sequence."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "choose_a_summary_explain",
-    "question": "A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary? Why is “Bees collect food and help plants reproduce.” the best answer?",
-    "audio_prompt": "A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary? Why is “Bees collect food and help plants reproduce.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “One bee landed on a purple flower at 10 o'clock.”.",
-        "is_correct": false
-      },
-      {
-        "text": "The summary keeps the main idea and important supporting information.",
+        "text": "tell the main ideas briefly",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "copy every word",
+        "is_correct": false
+      },
+      {
+        "text": "list only commas",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The summary keeps the main idea and important supporting information.",
-      "hint": "Leave out small examples and keep what the whole passage is mostly about."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "ask_a_useful_question_explain",
-    "question": "After reading that sea turtles mistake plastic for food, which question would deepen understanding? Why is “How can people stop plastic reaching the ocean?” the best answer?",
-    "audio_prompt": "After reading that sea turtles mistake plastic for food, which question would deepen understanding? Why is “How can people stop plastic reaching the ocean?” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Does the sentence contain the word plastic?”.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "Mira lost the shell.",
         "is_correct": false
       },
       {
-        "text": "The question connects to the problem and invites further thinking.",
+        "text": "Mira opened the box.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The question connects to the problem and invites further thinking.",
-      "hint": "Ask about an important idea that the text raises."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 17,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "make_a_text_connection_explain",
-    "question": "A character checks a map before a hike. Which connection could help a reader understand why? Why is “I have used a map to avoid taking a wrong path.” the best answer?",
-    "audio_prompt": "A character checks a map before a hike. Which connection could help a reader understand why? Why is “I have used a map to avoid taking a wrong path.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The relevant experience explains how a map helps with finding a route.",
+        "text": "Change every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       },
       {
-        "text": "It is best only because it is longer than “I have worn hiking shoes on a long walk.”.",
-        "is_correct": false
-      },
-      {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The relevant experience explains how a map helps with finding a route.",
-      "hint": "Choose a connection that sheds light on the character's action."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 18,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "predict_from_a_pattern_explain",
-    "question": "On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning? Why is “The puppy may wait there for food again.” the best answer?",
-    "audio_prompt": "On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning? Why is “The puppy may wait there for food again.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “The puppy may wait by the front door instead, with no new clue.”.",
-        "is_correct": false
-      },
-      {
-        "text": "The repeated morning behaviour supports a prediction that it will happen again.",
+        "text": "the beach",
         "is_correct": true
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "the library",
+        "is_correct": false
+      },
+      {
+        "text": "bed",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The repeated morning behaviour supports a prediction that it will happen again.",
-      "hint": "Base the prediction on the pattern in the text."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 19,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "monitor_a_pronoun_explain",
-    "question": "The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do? Why is “Reread nearby sentences for a clue about who her refers to.” the best answer?",
-    "audio_prompt": "The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do? Why is “Reread nearby sentences for a clue about who her refers to.” the best answer?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is best only because it is longer than “Assume her means Ella because Ella's name comes first.”.",
+        "text": "copy every word",
         "is_correct": false
       },
       {
-        "text": "It is best because the details in the situation do not matter.",
+        "text": "list only commas",
         "is_correct": false
       },
       {
-        "text": "Rereading context can clarify an uncertain pronoun reference.",
+        "text": "tell the main ideas briefly",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rereading context can clarify an uncertain pronoun reference.",
-      "hint": "Notice exactly what is unclear and search nearby for evidence."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 20,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "find_literal_meaning_discriminate",
-    "question": "The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly? Which response is the clearest mix-up to avoid?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Nia dislikes every green apple.",
+        "text": "Mira lost the shell.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "Nia put three red apples in a basket.",
-        "is_correct": false
-      },
-      {
-        "text": "The basket belongs to Nia's grandmother.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“Nia dislikes every green apple.” is the mix-up to avoid. For literal meaning, use only information the words clearly give.",
-      "hint": "For literal meaning, use only information the words clearly give."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 21,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "infer_a_feeling_discriminate",
-    "question": "Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel? Which response is the clearest mix-up to avoid?",
+    "stage": "apply",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "nervous about speaking",
-        "is_correct": false
-      },
-      {
-        "text": "calm because he has taken one deep breath",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       },
       {
-        "text": "excited because the crowd is waiting for him",
+        "text": "Keep reading without thinking.",
+        "is_correct": false
+      },
+      {
+        "text": "Change every word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“calm because he has taken one deep breath” is the mix-up to avoid. Combine the character's actions with what you know about the situation.",
-      "hint": "Combine the character's actions with what you know about the situation."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 22,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-P-023",
@@ -841,37 +841,43 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "monitor_confusion_discriminate",
-    "question": "A paragraph says a seed grew leaves before it was planted. What should a careful reader do? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A paragraph says a seed grew leaves before it was planted. What should a careful reader do? Which response is the clearest mix-up to avoid?",
+    "stage": "create",
+    "skill": "explain concept",
+    "question": "Write or say two sentences that show the main idea of AC9E2LY05. Use your own example.",
+    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY05. Use your own example.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Stop, reread and ask whether the order makes sense.",
-        "is_correct": false
-      },
-      {
-        "text": "Move the sentence to the end without rereading the paragraph.",
-        "is_correct": false
-      },
-      {
-        "text": "Read on because an unusual sequence does not need checking.",
+        "text": "Parent or teacher review needed",
         "is_correct": true
+      },
+      {
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“Read on because an unusual sequence does not need checking.” is the mix-up to avoid. Respond when an idea conflicts with a sensible sequence.",
-      "hint": "Respond when an idea conflicts with a sensible sequence."
+      "summary": "A strong response explains the code idea and includes a correct original example for Comprehension Strategies.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 23,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response explains the code idea and includes a correct original example for Comprehension Strategies.",
+    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LY05-P-024",
@@ -879,645 +885,43 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "choose_a_summary_discriminate",
-    "question": "A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary? Which response is the clearest mix-up to avoid?",
+    "stage": "create",
+    "skill": "apply concept",
+    "question": "Create a short Year 2 example question for AC9E2LY05, then explain the answer.",
+    "audio_prompt": "Create a short Year 2 example question for AC9E2LY05, then explain the answer.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "One bee landed on a purple flower at 10 o'clock.",
+        "text": "Parent or teacher review needed",
         "is_correct": true
       },
       {
-        "text": "Bees collect food and help plants reproduce.",
+        "text": "Needs more detail",
         "is_correct": false
       },
       {
-        "text": "Bees, seeds, purple, flying, garden, wings.",
+        "text": "Off topic",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“One bee landed on a purple flower at 10 o'clock.” is the mix-up to avoid. Leave out small examples and keep what the whole passage is mostly about.",
-      "hint": "Leave out small examples and keep what the whole passage is mostly about."
+      "summary": "A strong response creates a clear example and explains why the answer works.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 24,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-025",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "ask_a_useful_question_discriminate",
-    "question": "After reading that sea turtles mistake plastic for food, which question would deepen understanding? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "After reading that sea turtles mistake plastic for food, which question would deepen understanding? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "How can people stop plastic reaching the ocean?",
-        "is_correct": false
-      },
-      {
-        "text": "Does the sentence contain the word plastic?",
-        "is_correct": true
-      },
-      {
-        "text": "What colour was the piece of plastic in the picture?",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "“Does the sentence contain the word plastic?” is the mix-up to avoid. Ask about an important idea that the text raises.",
-      "hint": "Ask about an important idea that the text raises."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 25,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-026",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "make_a_text_connection_discriminate",
-    "question": "A character checks a map before a hike. Which connection could help a reader understand why? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A character checks a map before a hike. Which connection could help a reader understand why? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I have used a map to avoid taking a wrong path.",
-        "is_correct": false
-      },
-      {
-        "text": "I once saw a map printed in bright colours.",
-        "is_correct": false
-      },
-      {
-        "text": "I have worn hiking shoes on a long walk.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "“I have worn hiking shoes on a long walk.” is the mix-up to avoid. Choose a connection that sheds light on the character's action.",
-      "hint": "Choose a connection that sheds light on the character's action."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 26,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-027",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "predict_from_a_pattern_discriminate",
-    "question": "On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The puppy may wait by the front door instead, with no new clue.",
-        "is_correct": true
-      },
-      {
-        "text": "The puppy may wait there for food again.",
-        "is_correct": false
-      },
-      {
-        "text": "The puppy may stop eating breakfast because the pattern happened twice.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "“The puppy may wait by the front door instead, with no new clue.” is the mix-up to avoid. Base the prediction on the pattern in the text.",
-      "hint": "Base the prediction on the pattern in the text."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 27,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-028",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "monitor_a_pronoun_discriminate",
-    "question": "The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Reread nearby sentences for a clue about who her refers to.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume her means Ella because Ella's name comes first.",
-        "is_correct": true
-      },
-      {
-        "text": "Assume her means Priya because Priya's name is closest.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "“Assume her means Ella because Ella's name comes first.” is the mix-up to avoid. Notice exactly what is unclear and search nearby for evidence.",
-      "hint": "Notice exactly what is unclear and search nearby for evidence."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 28,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-029",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "summarise_a_sequence_discriminate",
-    "question": "A passage shows a caterpillar hatching, eating, forming a chrysalis and becoming a butterfly. Which summary fits? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "A passage shows a caterpillar hatching, eating, forming a chrysalis and becoming a butterfly. Which summary fits? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A caterpillar changes through stages into a butterfly.",
-        "is_correct": false
-      },
-      {
-        "text": "The passage is about every insect in the garden.",
-        "is_correct": false
-      },
-      {
-        "text": "The caterpillar ate one green leaf on Tuesday.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "“The caterpillar ate one green leaf on Tuesday.” is the mix-up to avoid. Combine the key stages into one main idea.",
-      "hint": "Combine the key stages into one main idea."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 29,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-030",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "infer_a_place_discriminate",
-    "question": "People whisper, shelves are filled with books and a desk has a borrowing scanner. Where are they likely to be? Which response is the clearest mix-up to avoid?",
-    "audio_prompt": "People whisper, shelves are filled with books and a desk has a borrowing scanner. Where are they likely to be? Which response is the clearest mix-up to avoid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "in a quiet bookshop with a sales counter",
-        "is_correct": true
-      },
-      {
-        "text": "in a library",
-        "is_correct": false
-      },
-      {
-        "text": "in a classroom reading corner with no borrowing desk",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "“in a quiet bookshop with a sales counter” is the mix-up to avoid. Combine all the setting clues rather than relying on one word.",
-      "hint": "Combine all the setting clues rather than relying on one word."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 30,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-031",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "find_literal_meaning_apply",
-    "question": "Use this clue: For literal meaning, use only information the words clearly give. The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly?",
-    "audio_prompt": "Use this clue: For literal meaning, use only information the words clearly give. The text says, ‘Nia placed three red apples in the basket.’ Which answer is stated directly?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The basket belongs to Nia's grandmother.",
-        "is_correct": false
-      },
-      {
-        "text": "Nia put three red apples in a basket.",
-        "is_correct": true
-      },
-      {
-        "text": "Nia dislikes every green apple.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The number, colour, object and action are directly stated in the sentence.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 31,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-032",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "infer_a_feeling_apply",
-    "question": "Use this clue: Combine the character's actions with what you know about the situation. Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel?",
-    "audio_prompt": "Use this clue: Combine the character's actions with what you know about the situation. Omar grips his speech card, takes a deep breath and looks at the waiting crowd. How might he feel?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "excited because the crowd is waiting for him",
-        "is_correct": false
-      },
-      {
-        "text": "calm because he has taken one deep breath",
-        "is_correct": false
-      },
-      {
-        "text": "nervous about speaking",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Gripping the card and taking a deep breath before a crowd suggest nervousness.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 32,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-033",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "monitor_confusion_apply",
-    "question": "Use this clue: Respond when an idea conflicts with a sensible sequence. A paragraph says a seed grew leaves before it was planted. What should a careful reader do?",
-    "audio_prompt": "Use this clue: Respond when an idea conflicts with a sensible sequence. A paragraph says a seed grew leaves before it was planted. What should a careful reader do?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Stop, reread and ask whether the order makes sense.",
-        "is_correct": true
-      },
-      {
-        "text": "Move the sentence to the end without rereading the paragraph.",
-        "is_correct": false
-      },
-      {
-        "text": "Read on because an unusual sequence does not need checking.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Monitoring means noticing a meaning problem and checking the text again.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 33,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-034",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "choose_a_summary_apply",
-    "question": "Use this clue: Leave out small examples and keep what the whole passage is mostly about. A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary?",
-    "audio_prompt": "Use this clue: Leave out small examples and keep what the whole passage is mostly about. A passage explains that bees collect nectar, carry pollen and help plants make seeds. Which is the best summary?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Bees, seeds, purple, flying, garden, wings.",
-        "is_correct": false
-      },
-      {
-        "text": "Bees collect food and help plants reproduce.",
-        "is_correct": true
-      },
-      {
-        "text": "One bee landed on a purple flower at 10 o'clock.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The summary keeps the main idea and important supporting information.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 34,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-035",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "ask_a_useful_question_apply",
-    "question": "Use this clue: Ask about an important idea that the text raises. After reading that sea turtles mistake plastic for food, which question would deepen understanding?",
-    "audio_prompt": "Use this clue: Ask about an important idea that the text raises. After reading that sea turtles mistake plastic for food, which question would deepen understanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "What colour was the piece of plastic in the picture?",
-        "is_correct": false
-      },
-      {
-        "text": "Does the sentence contain the word plastic?",
-        "is_correct": false
-      },
-      {
-        "text": "How can people stop plastic reaching the ocean?",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The question connects to the problem and invites further thinking.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 35,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-036",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "make_a_text_connection_apply",
-    "question": "Use this clue: Choose a connection that sheds light on the character's action. A character checks a map before a hike. Which connection could help a reader understand why?",
-    "audio_prompt": "Use this clue: Choose a connection that sheds light on the character's action. A character checks a map before a hike. Which connection could help a reader understand why?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I have used a map to avoid taking a wrong path.",
-        "is_correct": true
-      },
-      {
-        "text": "I once saw a map printed in bright colours.",
-        "is_correct": false
-      },
-      {
-        "text": "I have worn hiking shoes on a long walk.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The relevant experience explains how a map helps with finding a route.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 36,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-037",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "predict_from_a_pattern_apply",
-    "question": "Use this clue: Base the prediction on the pattern in the text. On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning?",
-    "audio_prompt": "Use this clue: Base the prediction on the pattern in the text. On two mornings, the puppy waits by the cupboard just before breakfast. What is a sensible prediction for the next morning?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The puppy may stop eating breakfast because the pattern happened twice.",
-        "is_correct": false
-      },
-      {
-        "text": "The puppy may wait there for food again.",
-        "is_correct": true
-      },
-      {
-        "text": "The puppy may wait by the front door instead, with no new clue.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The repeated morning behaviour supports a prediction that it will happen again.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 37,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-038",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "monitor_a_pronoun_apply",
-    "question": "Use this clue: Notice exactly what is unclear and search nearby for evidence. The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do?",
-    "audio_prompt": "Use this clue: Notice exactly what is unclear and search nearby for evidence. The text says, ‘Ella gave Priya her hat,’ but the reader cannot tell whose hat it is. What should the reader do?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Assume her means Priya because Priya's name is closest.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume her means Ella because Ella's name comes first.",
-        "is_correct": false
-      },
-      {
-        "text": "Reread nearby sentences for a clue about who her refers to.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Rereading context can clarify an uncertain pronoun reference.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 38,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-039",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "summarise_a_sequence_apply",
-    "question": "Use this clue: Combine the key stages into one main idea. A passage shows a caterpillar hatching, eating, forming a chrysalis and becoming a butterfly. Which summary fits?",
-    "audio_prompt": "Use this clue: Combine the key stages into one main idea. A passage shows a caterpillar hatching, eating, forming a chrysalis and becoming a butterfly. Which summary fits?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A caterpillar changes through stages into a butterfly.",
-        "is_correct": true
-      },
-      {
-        "text": "The passage is about every insect in the garden.",
-        "is_correct": false
-      },
-      {
-        "text": "The caterpillar ate one green leaf on Tuesday.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The summary captures the important change across the whole sequence.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 39,
-    "quality_schema": "student-facing-v3"
-  },
-  {
-    "id": "AC9E2LY05-P-040",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY05",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "infer_a_place_apply",
-    "question": "Use this clue: Combine all the setting clues rather than relying on one word. People whisper, shelves are filled with books and a desk has a borrowing scanner. Where are they likely to be?",
-    "audio_prompt": "Use this clue: Combine all the setting clues rather than relying on one word. People whisper, shelves are filled with books and a desk has a borrowing scanner. Where are they likely to be?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "in a classroom reading corner with no borrowing desk",
-        "is_correct": false
-      },
-      {
-        "text": "in a library",
-        "is_correct": true
-      },
-      {
-        "text": "in a quiet bookshop with a sales counter",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Quiet voices, bookshelves and a borrowing scanner are clues for a library.",
-      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "application",
-    "sequence_priority": 40,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response creates a clear example and explains why the answer works.",
+    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LY05-T-001",
@@ -1525,37 +929,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_connect_to_knowledge_direct",
-    "question": "A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets?",
-    "audio_prompt": "A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Students wear jackets for every sport played on an oval.",
-        "is_correct": false
-      },
-      {
-        "text": "Frost forms in very cold conditions.",
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "Frost usually forms on the hottest, sunniest mornings.",
+        "text": "Mira showed Dad.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira lost the shell.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Knowing frost signals cold conditions helps connect the two details.",
-      "hint": "Use relevant real-world knowledge that fits the text clue."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-002",
@@ -1563,37 +967,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_revise_prediction_direct",
-    "question": "At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do?",
-    "audio_prompt": "At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the shed prediction because a first prediction should not change.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "Change the prediction to the roof because any new guess is a revision.",
+        "text": "Change every word.",
         "is_correct": false
       },
       {
-        "text": "Change the prediction to fit the new clue.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Readers revise predictions when later evidence points somewhere different.",
-      "hint": "A prediction should remain connected to the newest clues."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-003",
@@ -1601,37 +1005,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_infer_a_cause_direct",
-    "question": "The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred?",
-    "audio_prompt": "The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is probably wet outside.",
+        "text": "bed",
+        "is_correct": false
+      },
+      {
+        "text": "the beach",
         "is_correct": true
       },
       {
-        "text": "Someone probably spilled water on every coat inside.",
-        "is_correct": false
-      },
-      {
-        "text": "It is probably hot and dry outside, so the windows fogged.",
+        "text": "the library",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Dripping coats, an umbrella and foggy windows together suggest wet weather.",
-      "hint": "Combine several clues to reach one reasonable idea."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-004",
@@ -1639,37 +1043,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_main_idea_direct",
-    "question": "A paragraph tells how roots hold a plant, take in water and store food. What is its main idea?",
-    "audio_prompt": "A paragraph tells how roots hold a plant, take in water and store food. What is its main idea?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Roots take in water for a plant.",
-        "is_correct": false
-      },
-      {
-        "text": "Roots do several important jobs for a plant.",
+        "text": "tell the main ideas briefly",
         "is_correct": true
       },
       {
-        "text": "Roots store food for a plant.",
+        "text": "copy every word",
+        "is_correct": false
+      },
+      {
+        "text": "list only commas",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "All supporting points explain useful jobs performed by roots.",
-      "hint": "Find the idea that covers every important sentence."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-005",
@@ -1677,37 +1081,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_literal_and_inferred_direct",
-    "question": "The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference?",
-    "audio_prompt": "The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Mika closed the window.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       },
       {
-        "text": "Mika pulled on a jumper.",
+        "text": "Mira lost the shell.",
         "is_correct": false
       },
       {
-        "text": "Mika may be feeling cold.",
+        "text": "Mira opened the box.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Feeling cold is not stated but is supported by the two actions.",
-      "hint": "Choose an idea built from clues rather than copied directly."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-006",
@@ -1715,37 +1119,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_monitor_a_word_direct",
-    "question": "A reader meets the word current in a passage about a river and thinks it means now. What should the reader check?",
-    "audio_prompt": "A reader meets the word current in a passage about a river and thinks it means now. What should the reader check?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "the nearby sentences to see which meaning fits",
+        "text": "Change every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       },
       {
-        "text": "the familiar meaning now without rereading the sentence",
-        "is_correct": false
-      },
-      {
-        "text": "the river picture alone without checking the nearby words",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Context can show that current means moving water in this river passage.",
-      "hint": "Words can have more than one meaning, so reread around the word."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-007",
@@ -1753,37 +1157,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_visualise_movement_direct",
-    "question": "Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches?",
-    "audio_prompt": "Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "a large ship resting on still sand",
-        "is_correct": false
-      },
-      {
-        "text": "a small boat moving up and down on dark waves",
+        "text": "the beach",
         "is_correct": true
       },
       {
-        "text": "a tiny boat tied inside a bright shed",
+        "text": "the library",
+        "is_correct": false
+      },
+      {
+        "text": "bed",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Tiny, bobbed, dark and rolling build a specific mental image.",
-      "hint": "Use size, action and setting words together."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-008",
@@ -1791,37 +1195,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "test_question_an_inference_direct",
-    "question": "A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference?",
-    "audio_prompt": "A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference?",
+    "stage": "recognise",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "What words were written on the torn note?",
+        "text": "copy every word",
         "is_correct": false
       },
       {
-        "text": "When did another character first notice the tear?",
+        "text": "list only commas",
         "is_correct": false
       },
       {
-        "text": "Is there another clue showing Jaya touched or hid the note?",
+        "text": "tell the main ideas briefly",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The question seeks more relevant evidence before accepting the inference.",
-      "hint": "Ask for a clue that could support or challenge the inferred action."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-009",
@@ -1830,36 +1234,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_connect_to_knowledge_test-reason",
-    "question": "A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets? Which reason best supports the correct choice?",
-    "audio_prompt": "A text says frost covered the oval before school. What prior knowledge helps explain why students wore jackets? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Knowing frost signals cold conditions helps connect the two details.",
+        "text": "Mira lost the shell.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Mira showed Dad.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Knowing frost signals cold conditions helps connect the two details.",
-      "hint": "Use relevant real-world knowledge that fits the text clue."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-010",
@@ -1868,36 +1272,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_revise_prediction_test-reason",
-    "question": "At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do? Which reason best supports the correct choice?",
-    "audio_prompt": "At first, Bo predicts the lost cat is in the shed. Then he finds fresh paw prints leading to the porch. What should he do? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "Readers revise predictions when later evidence points somewhere different.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Keep reading without thinking.",
+        "is_correct": false
+      },
+      {
+        "text": "Change every word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Readers revise predictions when later evidence points somewhere different.",
-      "hint": "A prediction should remain connected to the newest clues."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-011",
@@ -1906,36 +1310,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_infer_a_cause_test-reason",
-    "question": "The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred? Which reason best supports the correct choice?",
-    "audio_prompt": "The classroom windows are foggy, coats are dripping and an umbrella stands by the door. What can be inferred? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "Liam packed a towel and sunscreen. Where might he be going?",
+    "audio_prompt": "Liam packed a towel and sunscreen. Where might he be going?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "the library",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "bed",
         "is_correct": false
       },
       {
-        "text": "Dripping coats, an umbrella and foggy windows together suggest wet weather.",
+        "text": "the beach",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Dripping coats, an umbrella and foggy windows together suggest wet weather.",
-      "hint": "Combine several clues to reach one reasonable idea."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-012",
@@ -1944,36 +1348,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_main_idea_test-reason",
-    "question": "A paragraph tells how roots hold a plant, take in water and store food. What is its main idea? Which reason best supports the correct choice?",
-    "audio_prompt": "A paragraph tells how roots hold a plant, take in water and store food. What is its main idea? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "A summary should ___.",
+    "audio_prompt": "A summary should ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "All supporting points explain useful jobs performed by roots.",
+        "text": "list only commas",
+        "is_correct": false
+      },
+      {
+        "text": "tell the main ideas briefly",
         "is_correct": true
       },
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "copy every word",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "All supporting points explain useful jobs performed by roots.",
-      "hint": "Find the idea that covers every important sentence."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-013",
@@ -1982,36 +1386,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_literal_and_inferred_test-reason",
-    "question": "The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference? Which reason best supports the correct choice?",
-    "audio_prompt": "The text states, ‘Mika closed the window and pulled on a jumper.’ Which answer is an inference? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
+    "audio_prompt": "Mira opened the box. Inside was a tiny shell. She smiled and ran to show Dad. What happened first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "Feeling cold is not stated but is supported by the two actions.",
+        "text": "Mira opened the box.",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Mira showed Dad.",
+        "is_correct": false
+      },
+      {
+        "text": "Mira lost the shell.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Feeling cold is not stated but is supported by the two actions.",
-      "hint": "Choose an idea built from clues rather than copied directly."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-014",
@@ -2020,36 +1424,36 @@
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
     "stage": "apply",
-    "skill": "test_monitor_a_word_test-reason",
-    "question": "A reader meets the word current in a passage about a river and thinks it means now. What should the reader check? Which reason best supports the correct choice?",
-    "audio_prompt": "A reader meets the word current in a passage about a river and thinks it means now. What should the reader check? Which reason best supports the correct choice?",
+    "skill": "reading comprehension",
+    "question": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
+    "audio_prompt": "The sentence does not make sense: “The bird swam in the sky.” What should a reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "Keep reading without thinking.",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Change every word.",
         "is_correct": false
       },
       {
-        "text": "Context can show that current means moving water in this river passage.",
+        "text": "Reread and self-correct the meaning.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Context can show that current means moving water in this river passage.",
-      "hint": "Words can have more than one meaning, so reread around the word."
+      "summary": "Fluent readers monitor meaning and use strategies such as predicting, rereading and summarising.",
+      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
     },
-    "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1"
   },
   {
     "id": "AC9E2LY05-T-015",
@@ -2057,37 +1461,43 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "test_visualise_movement_test-reason",
-    "question": "Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches? Which reason best supports the correct choice?",
-    "audio_prompt": "Read: ‘The tiny boat bobbed over dark, rolling waves.’ Which image best matches? Which reason best supports the correct choice?",
+    "stage": "create",
+    "skill": "explain concept",
+    "question": "Write or say two sentences that show the main idea of AC9E2LY05. Use your own example.",
+    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LY05. Use your own example.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Tiny, bobbed, dark and rolling build a specific mental image.",
+        "text": "Parent or teacher review needed",
         "is_correct": true
       },
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
+        "text": "Needs more detail",
         "is_correct": false
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Off topic",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Tiny, bobbed, dark and rolling build a specific mental image.",
-      "hint": "Use size, action and setting words together."
+      "summary": "A strong response explains the code idea and includes a correct original example for Comprehension Strategies.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 15,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response explains the code idea and includes a correct original example for Comprehension Strategies.",
+    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9E2LY05-T-016",
@@ -2095,36 +1505,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "test_question_an_inference_test-reason",
-    "question": "A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference? Which reason best supports the correct choice?",
-    "audio_prompt": "A reader thinks Jaya hid the torn note because she looks away when it is found. What question best checks the inference? Which reason best supports the correct choice?",
+    "stage": "create",
+    "skill": "apply concept",
+    "question": "Create a short Year 2 example question for AC9E2LY05, then explain the answer.",
+    "audio_prompt": "Create a short Year 2 example question for AC9E2LY05, then explain the answer.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The correct choice is simply the most formal-sounding option.",
-        "is_correct": false
-      },
-      {
-        "text": "The question seeks more relevant evidence before accepting the inference.",
+        "text": "Parent or teacher review needed",
         "is_correct": true
       },
       {
-        "text": "The correct choice works even if the situation and audience are ignored.",
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The question seeks more relevant evidence before accepting the inference.",
-      "hint": "Ask for a clue that could support or challenge the inferred action."
+      "summary": "A strong response creates a clear example and explains why the answer works.",
+      "hint": "Use the checklist in the question and ask an adult to confirm your response."
     },
     "difficulty": 3,
-    "difficulty_tier": "application",
+    "difficulty_tier": "stretch",
     "sequence_priority": 16,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "year2-english-remaining-original-v1",
+    "response_type": "adult_review",
+    "grading_mode": "adult_review",
+    "model_answer": "A strong response creates a clear example and explains why the answer works.",
+    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
+    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completion_label": "Ready for adult review"
   }
 ]

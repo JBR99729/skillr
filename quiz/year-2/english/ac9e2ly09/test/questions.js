@@ -4,498 +4,640 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly09-t-001",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test delete from clap direct",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Remove the first sound from clap. What word remains?",
-    "audioPrompt": "Remove the first sound from clap. What word remains?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Change “smile” by deleting /s/. What word is left?",
+    "audioPrompt": "Change “smile” by deleting /s/. What word is left?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "cap",
-      "clip",
-      "lap"
+      {
+        "text": "mile",
+        "is_correct": true
+      },
+      {
+        "text": "slime",
+        "is_correct": false
+      },
+      {
+        "text": "small",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "Removing the first sound from clap leaves lap.\nHint: After removing the first sound, blend from the sound at the start of leaf.",
-    "structuredExplanation": {
-      "summary": "Removing the first sound from clap leaves lap.",
-      "hint": "After removing the first sound, blend from the sound at the start of leaf."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-002",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test delete from smile direct",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Say smile, then remove its first sound. Which word remains?",
-    "audioPrompt": "Say smile, then remove its first sound. Which word remains?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word begins with a three-sound blend?",
+    "audioPrompt": "Which word begins with a three-sound blend?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "mile",
-      "smile",
-      "slime"
+      {
+        "text": "sing",
+        "is_correct": false
+      },
+      {
+        "text": "ring",
+        "is_correct": false
+      },
+      {
+        "text": "string",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Removing the first sound from smile leaves mile.\nHint: After deleting the first sound, begin with the sound at the start of moon.",
-    "structuredExplanation": {
-      "summary": "Removing the first sound from smile leaves mile.",
-      "hint": "After deleting the first sound, begin with the sound at the start of moon."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-003",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test substitute digraph direct",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made?",
-    "audioPrompt": "Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Is the syllable “me” open or closed?",
+    "audioPrompt": "Is the syllable “me” open or closed?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "ship",
-      "shop",
-      "chop"
+      {
+        "text": "compound",
+        "is_correct": false
+      },
+      {
+        "text": "open",
+        "is_correct": true
+      },
+      {
+        "text": "closed",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 3,
-    "correct": 1,
-    "explanation": "Keeping the rest of chop while changing its first sound from the chair cue to the shoe cue makes shop.\nHint: Only the first sound changes; the middle vowel sound stays the same.",
-    "structuredExplanation": {
-      "summary": "Keeping the rest of chop while changing its first sound from the chair cue to the shoe cue makes shop.",
-      "hint": "Only the first sound changes; the middle vowel sound stays the same."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-004",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test blend stream direct",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Blend these sounds: start of sun, start of top, start of red, long vowel in green, end of jam. Which word?",
-    "audioPrompt": "Blend these sounds: start of sun, start of top, start of red, long vowel in green, end of jam. Which word?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "audioPrompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "steam",
-      "storm",
-      "stream"
+      {
+        "text": "sat",
+        "is_correct": true
+      },
+      {
+        "text": "map",
+        "is_correct": false
+      },
+      {
+        "text": "meat",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 4,
-    "correct": 2,
-    "explanation": "Using all five cue sounds in order makes stream.\nHint: Keep all three starting sounds before the long vowel.",
-    "structuredExplanation": {
-      "summary": "Using all five cue sounds in order makes stream.",
-      "hint": "Keep all three starting sounds before the long vowel."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-005",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test segment brush direct",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Which cue-word sequence shows the four spoken sounds in brush?",
-    "audioPrompt": "Which cue-word sequence shows the four spoken sounds in brush?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Change “smile” by deleting /s/. What word is left?",
+    "audioPrompt": "Change “smile” by deleting /s/. What word is left?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "start of bag, start of red, middle of sun, start of shoe",
-      "start of bag, then the whole word rush",
-      "start of bag, start of red, middle of sun, start of sun, start of hat"
+      {
+        "text": "slime",
+        "is_correct": false
+      },
+      {
+        "text": "small",
+        "is_correct": false
+      },
+      {
+        "text": "mile",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 5,
-    "correct": 0,
-    "explanation": "Brush has four sounds, with its final sound matching the start of shoe.\nHint: The sound at the start of shoe counts as one spoken sound.",
-    "structuredExplanation": {
-      "summary": "Brush has four sounds, with its final sound matching the start of shoe.",
-      "hint": "The sound at the start of shoe counts as one spoken sound."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-006",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test substitute in goat direct",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Change the first sound in goat to the sound at the start of ball. Which word is made?",
-    "audioPrompt": "Change the first sound in goat to the sound at the start of ball. Which word is made?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word begins with a three-sound blend?",
+    "audioPrompt": "Which word begins with a three-sound blend?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "boot",
-      "boat",
-      "coat"
+      {
+        "text": "ring",
+        "is_correct": false
+      },
+      {
+        "text": "string",
+        "is_correct": true
+      },
+      {
+        "text": "sing",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 6,
-    "correct": 1,
-    "explanation": "Replacing the start of goat with the start of ball while keeping the rest makes boat.\nHint: Hold the long vowel and final sound steady.",
-    "structuredExplanation": {
-      "summary": "Replacing the start of goat with the start of ball while keeping the rest makes boat.",
-      "hint": "Hold the long vowel and final sound steady."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-007",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test delete from plane direct",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Remove the first sound from plane. Which word remains?",
-    "audioPrompt": "Remove the first sound from plane. Which word remains?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Is the syllable “me” open or closed?",
+    "audioPrompt": "Is the syllable “me” open or closed?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "plan",
-      "pane",
-      "lane"
+      {
+        "text": "open",
+        "is_correct": true
+      },
+      {
+        "text": "closed",
+        "is_correct": false
+      },
+      {
+        "text": "compound",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 7,
-    "correct": 2,
-    "explanation": "Removing the first sound from plane leaves lane.\nHint: After deleting the first sound, begin with the sound at the start of leaf.",
-    "structuredExplanation": {
-      "summary": "Removing the first sound from plane leaves lane.",
-      "hint": "After deleting the first sound, begin with the sound at the start of leaf."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-008",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test final substitution direct",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made?",
-    "audioPrompt": "Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "audioPrompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "fit",
-      "fin",
-      "sit"
+      {
+        "text": "map",
+        "is_correct": false
+      },
+      {
+        "text": "meat",
+        "is_correct": false
+      },
+      {
+        "text": "sat",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 8,
-    "correct": 0,
-    "explanation": "Keeping the start and middle of fish while changing its ending to the top cue makes fit.\nHint: Hold the first two sounds steady and change only the ending.",
-    "structuredExplanation": {
-      "summary": "Keeping the start and middle of fish while changing its ending to the top cue makes fit.",
-      "hint": "Hold the first two sounds steady and change only the ending."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-009",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test delete from clap test-reason",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Remove the first sound from clap. What word remains? Which reason best supports the correct choice?",
-    "audioPrompt": "Remove the first sound from clap. What word remains? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Change “smile” by deleting /s/. What word is left?",
+    "audioPrompt": "Change “smile” by deleting /s/. What word is left?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "Removing the first sound from clap leaves lap.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "small",
+        "is_correct": false
+      },
+      {
+        "text": "mile",
+        "is_correct": true
+      },
+      {
+        "text": "slime",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 9,
-    "correct": 1,
-    "explanation": "Removing the first sound from clap leaves lap.\nHint: After removing the first sound, blend from the sound at the start of leaf.",
-    "structuredExplanation": {
-      "summary": "Removing the first sound from clap leaves lap.",
-      "hint": "After removing the first sound, blend from the sound at the start of leaf."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-010",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test delete from smile test-reason",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Say smile, then remove its first sound. Which word remains? Which reason best supports the correct choice?",
-    "audioPrompt": "Say smile, then remove its first sound. Which word remains? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word begins with a three-sound blend?",
+    "audioPrompt": "Which word begins with a three-sound blend?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Removing the first sound from smile leaves mile."
+      {
+        "text": "string",
+        "is_correct": true
+      },
+      {
+        "text": "sing",
+        "is_correct": false
+      },
+      {
+        "text": "ring",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 10,
-    "correct": 2,
-    "explanation": "Removing the first sound from smile leaves mile.\nHint: After deleting the first sound, begin with the sound at the start of moon.",
-    "structuredExplanation": {
-      "summary": "Removing the first sound from smile leaves mile.",
-      "hint": "After deleting the first sound, begin with the sound at the start of moon."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-011",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test substitute digraph test-reason",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made? Which reason best supports the correct choice?",
-    "audioPrompt": "Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Is the syllable “me” open or closed?",
+    "audioPrompt": "Is the syllable “me” open or closed?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Keeping the rest of chop while changing its first sound from the chair cue to the shoe cue makes shop.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "closed",
+        "is_correct": false
+      },
+      {
+        "text": "compound",
+        "is_correct": false
+      },
+      {
+        "text": "open",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 11,
-    "correct": 0,
-    "explanation": "Keeping the rest of chop while changing its first sound from the chair cue to the shoe cue makes shop.\nHint: Only the first sound changes; the middle vowel sound stays the same.",
-    "structuredExplanation": {
-      "summary": "Keeping the rest of chop while changing its first sound from the chair cue to the shoe cue makes shop.",
-      "hint": "Only the first sound changes; the middle vowel sound stays the same."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-012",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test blend stream test-reason",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Blend these sounds: start of sun, start of top, start of red, long vowel in green, end of jam. Which word? Which reason best supports the correct choice?",
-    "audioPrompt": "Blend these sounds: start of sun, start of top, start of red, long vowel in green, end of jam. Which word? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "audioPrompt": "Substitute /m/ in mat with /s/. What word do you make?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "Using all five cue sounds in order makes stream.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "meat",
+        "is_correct": false
+      },
+      {
+        "text": "sat",
+        "is_correct": true
+      },
+      {
+        "text": "map",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 1,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 12,
-    "correct": 1,
-    "explanation": "Using all five cue sounds in order makes stream.\nHint: Keep all three starting sounds before the long vowel.",
-    "structuredExplanation": {
-      "summary": "Using all five cue sounds in order makes stream.",
-      "hint": "Keep all three starting sounds before the long vowel."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-013",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test segment brush test-reason",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Which cue-word sequence shows the four spoken sounds in brush? Which reason best supports the correct choice?",
-    "audioPrompt": "Which cue-word sequence shows the four spoken sounds in brush? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Change “smile” by deleting /s/. What word is left?",
+    "audioPrompt": "Change “smile” by deleting /s/. What word is left?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Brush has four sounds, with its final sound matching the start of shoe."
+      {
+        "text": "mile",
+        "is_correct": true
+      },
+      {
+        "text": "slime",
+        "is_correct": false
+      },
+      {
+        "text": "small",
+        "is_correct": false
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 0,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 13,
-    "correct": 2,
-    "explanation": "Brush has four sounds, with its final sound matching the start of shoe.\nHint: The sound at the start of shoe counts as one spoken sound.",
-    "structuredExplanation": {
-      "summary": "Brush has four sounds, with its final sound matching the start of shoe.",
-      "hint": "The sound at the start of shoe counts as one spoken sound."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-014",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test substitute in goat test-reason",
+    "skill": "sound manipulation",
     "printable": true,
-    "type": "single",
-    "question": "Change the first sound in goat to the sound at the start of ball. Which word is made? Which reason best supports the correct choice?",
-    "audioPrompt": "Change the first sound in goat to the sound at the start of ball. Which word is made? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Which word begins with a three-sound blend?",
+    "audioPrompt": "Which word begins with a three-sound blend?",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "Replacing the start of goat with the start of ball while keeping the rest makes boat.",
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "sing",
+        "is_correct": false
+      },
+      {
+        "text": "ring",
+        "is_correct": false
+      },
+      {
+        "text": "string",
+        "is_correct": true
+      }
     ],
-    "difficulty": 3,
-    "difficultyTier": "application",
+    "correctIndex": 2,
+    "explanation": "Blending, segmenting, deleting and substituting sounds changes spoken and written words.",
+    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
+    "difficulty": 2,
+    "difficultyTier": "core",
     "sequencePriority": 14,
-    "correct": 0,
-    "explanation": "Replacing the start of goat with the start of ball while keeping the rest makes boat.\nHint: Hold the long vowel and final sound steady.",
-    "structuredExplanation": {
-      "summary": "Replacing the start of goat with the start of ball while keeping the rest makes boat.",
-      "hint": "Hold the long vowel and final sound steady."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "multiple_choice",
+    "gradingMode": "auto",
+    "modelAnswer": null,
+    "acceptanceNote": null,
+    "responseInstructions": null,
+    "completionLabel": null
   },
   {
     "id": "ac9e2ly09-t-015",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test delete from plane test-reason",
+    "skill": "explain concept",
     "printable": true,
-    "type": "single",
-    "question": "Remove the first sound from plane. Which word remains? Which reason best supports the correct choice?",
-    "audioPrompt": "Remove the first sound from plane. Which word remains? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Write or say two sentences that show the main idea of AC9E2LY09. Use your own example.",
+    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY09. Use your own example.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "Removing the first sound from plane leaves lane.",
-      "The correct choice works even if the situation and audience are ignored."
+      {
+        "text": "Parent or teacher review needed",
+        "is_correct": true
+      },
+      {
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "A strong response explains the code idea and includes a correct original example for Manipulate Sounds in Words.",
+    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "stretch",
     "sequencePriority": 15,
-    "correct": 1,
-    "explanation": "Removing the first sound from plane leaves lane.\nHint: After deleting the first sound, begin with the sound at the start of leaf.",
-    "structuredExplanation": {
-      "summary": "Removing the first sound from plane leaves lane.",
-      "hint": "After deleting the first sound, begin with the sound at the start of leaf."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "adult_review",
+    "gradingMode": "adult_review",
+    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Manipulate Sounds in Words.",
+    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
+    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completionLabel": "Ready for adult review"
   },
   {
     "id": "ac9e2ly09-t-016",
     "curriculumCode": "AC9E2LY09",
     "bank": "test",
-    "skill": "test final substitution test-reason",
+    "skill": "apply concept",
     "printable": true,
-    "type": "single",
-    "question": "Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made? Which reason best supports the correct choice?",
-    "audioPrompt": "Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made? Which reason best supports the correct choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "type": "multiple-choice",
+    "prompt": "Create a short Year 2 example question for AC9E2LY09, then explain the answer.",
+    "audioPrompt": "Create a short Year 2 example question for AC9E2LY09, then explain the answer.",
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      "The correct choice is simply the most formal-sounding option.",
-      "The correct choice works even if the situation and audience are ignored.",
-      "Keeping the start and middle of fish while changing its ending to the top cue makes fit."
+      {
+        "text": "Parent or teacher review needed",
+        "is_correct": true
+      },
+      {
+        "text": "Needs more detail",
+        "is_correct": false
+      },
+      {
+        "text": "Off topic",
+        "is_correct": false
+      }
     ],
+    "correctIndex": 0,
+    "explanation": "A strong response creates a clear example and explains why the answer works.",
+    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "application",
+    "difficultyTier": "stretch",
     "sequencePriority": 16,
-    "correct": 2,
-    "explanation": "Keeping the start and middle of fish while changing its ending to the top cue makes fit.\nHint: Hold the first two sounds steady and change only the ending.",
-    "structuredExplanation": {
-      "summary": "Keeping the start and middle of fish while changing its ending to the top cue makes fit.",
-      "hint": "Hold the first two sounds steady and change only the ending."
-    },
-    "qualitySchema": "production-v1"
+    "responseType": "adult_review",
+    "gradingMode": "adult_review",
+    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
+    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
+    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
+    "completionLabel": "Ready for adult review"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
