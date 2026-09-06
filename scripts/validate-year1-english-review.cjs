@@ -7,8 +7,9 @@ const {JSDOM, VirtualConsole} = require('jsdom');
 const root = path.resolve(__dirname, '..');
 const read = p => fs.readFileSync(path.join(root,p),'utf8');
 const tick = () => new Promise(r=>setImmediate(r));
-const codes = ['ac9e1la01','ac9e1la02','ac9e1la03','ac9e1la04','ac9e1la05'];
-const tag = 'er1';
+const batch2 = process.argv.includes('--batch2');
+const codes = batch2 ? ['ac9e1la06','ac9e1la07','ac9e1la08','ac9e1la09','ac9e1la10'] : ['ac9e1la01','ac9e1la02','ac9e1la03','ac9e1la04','ac9e1la05'];
+const tag = batch2 ? 'er2' : 'er1';
 let rendered = 0, visualCount = 0;
 (async()=>{
  for(const code of codes) {
@@ -19,6 +20,7 @@ let rendered = 0, visualCount = 0;
    assert(Math.max(...counts)-Math.min(...counts)<=1,'Unbalanced answers: '+code);
   }
   assert.equal(canonical.length,40);
+  if(code==='ac9e1la08') assert.equal(canonical.filter(q=>q.visual.type==='svg').length,8);
   assert.equal(new Set(canonical.map(q=>q.question)).size,40);
   for(const mode of ['practice','test']) {
    const route=`quiz/year-1/english/${code}/${mode}/`;
@@ -42,9 +44,11 @@ let rendered = 0, visualCount = 0;
     assert.equal(new Set(published.answers).size,3);
     assert(q.explanation.summary.length>25);
     assert(!/This matches the task/.test(q.explanation.summary));
-    assert.equal(q.visual.type,'none');
-    assert.equal(published.visualHtml,'');
-    assert.equal(published.visual,'');
+    if(code!=='ac9e1la08' || q.visual.type!=='svg') {
+     assert.equal(q.visual.type,'none');
+     assert.equal(published.visualHtml,'');
+     assert.equal(published.visual,'');
+    }
     if(q.visual.type==='svg') {
      visualCount++;
      const [asset,symbol]=q.visual.asset_path.slice(1).split('#');

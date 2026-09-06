@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la07-p-001",
+    "id": "ac9e1la07-er2-p-001",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Which word names an animal?",
-    "audioPrompt": "Which word names an animal?",
+    "question": "In 'The ducks paddle', which word tells the action?",
+    "audioPrompt": "In 'The ducks paddle', which word tells the action?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,55 +16,26 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "green",
-      "hop",
-      "frog"
+      "paddle",
+      "ducks",
+      "The"
     ],
-    "correct": 2,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1la07-p-002",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names a person?",
-    "audioPrompt": "Which word names a person?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "teach",
-      "teacher",
-      "kind"
-    ],
-    "correct": 1,
-    "explanation": "teacher is the best answer.",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Paddle tells what the ducks do, so it is a verb here.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "teacher is the best answer."
+      "summary": "Paddle tells what the ducks do, so it is a verb here.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-003",
+    "id": "ac9e1la07-er2-p-002",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
     "question": "Which word names a place?",
@@ -76,29 +47,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "happy",
-      "park",
-      "play"
+      "hurry",
+      "library",
+      "sleepy"
     ],
-    "correct": 1,
-    "explanation": "park is the best answer.",
-    "structuredExplanation": {
-      "summary": "park is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 3
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Library names a place; sleepy describes and hurry can name an action in a command.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Library names a place; sleepy describes and hurry can name an action in a command.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-004",
+    "id": "ac9e1la07-er2-p-003",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
+    "question": "In 'A soft blanket covered me', which word describes the blanket?",
+    "audioPrompt": "In 'A soft blanket covered me', which word describes the blanket?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -106,89 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "run",
-      "book",
+      "covered",
+      "me",
       "soft"
     ],
-    "correct": 1,
-    "explanation": "book is the best answer.",
-    "structuredExplanation": {
-      "summary": "book is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1la07-p-005",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the naming word: “The frog runs.”",
-    "audioPrompt": "Find the naming word: “The frog runs.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the",
-      "frog",
-      "runs"
-    ],
-    "correct": 1,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1la07-p-006",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the place word: “Leo went to the pond.”",
-    "audioPrompt": "Find the place word: “Leo went to the pond.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "went",
-      "leo",
-      "pond"
-    ],
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "pond is the best answer.",
+    "explanation": "Soft tells a quality of the blanket, so it is an adjective.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "pond is the best answer."
+      "summary": "Soft tells a quality of the blanket, so it is an adjective.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-007",
+    "id": "ac9e1la07-er2-p-004",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear picture of a fish.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a fish.] Which word could name this picture?",
+    "question": "'Leah has a kite. She flies it.' Who does She refer to?",
+    "audioPrompt": "'Leah has a kite. She flies it.' Who does She refer to?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -196,89 +109,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "jump",
-      "fish",
-      "quick"
+      "Leah",
+      "the kite",
+      "a new person"
     ],
-    "correct": 1,
-    "explanation": "The word fish names the animal.",
-    "structuredExplanation": {
-      "summary": "The word fish names the animal."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1la07-p-008",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Max runs.",
-      "Max has a map.",
-      "Jump up."
-    ],
-    "correct": 1,
-    "explanation": "Max has a map. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Max has a map. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1la07-p-009",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names an animal?",
-    "audioPrompt": "Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "frog",
-      "hop",
-      "green"
-    ],
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "frog is the best answer.",
+    "explanation": "She replaces Leah's name in the second sentence.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "frog is the best answer."
+      "summary": "She replaces Leah's name in the second sentence.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la07-er2-p-005",
+    "curriculumCode": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "word roles in sentences",
+    "printable": true,
+    "type": "single",
+    "question": "In 'We arrived yesterday', which word tells when?",
+    "audioPrompt": "In 'We arrived yesterday', which word tells when?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "We",
+      "yesterday",
+      "arrived"
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Yesterday adds a time detail to arrived.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Yesterday adds a time detail to arrived.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-010",
+    "id": "ac9e1la07-er2-p-006",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Which word names a person?",
-    "audioPrompt": "Which word names a person?",
+    "question": "In 'The puppy waited outside', which word tells where?",
+    "audioPrompt": "In 'The puppy waited outside', which word tells where?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "kind",
-      "teach",
-      "teacher"
+      "puppy",
+      "waited",
+      "outside"
     ],
-    "correct": 2,
-    "explanation": "teacher is the best answer.",
-    "structuredExplanation": {
-      "summary": "teacher is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Outside tells the place where the puppy waited.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Outside tells the place where the puppy waited.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-011",
+    "id": "ac9e1la07-er2-p-007",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Which word names a place?",
-    "audioPrompt": "Which word names a place?",
+    "question": "In 'He spoke softly', which word tells how he spoke?",
+    "audioPrompt": "In 'He spoke softly', which word tells how he spoke?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "play",
-      "park",
-      "happy"
+      "softly",
+      "He",
+      "spoke"
     ],
-    "correct": 1,
-    "explanation": "park is the best answer.",
-    "structuredExplanation": {
-      "summary": "park is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Softly describes the manner of speaking.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Softly describes the manner of speaking.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-012",
+    "id": "ac9e1la07-er2-p-008",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
+    "question": "In 'The child feels tired', which word is the verb?",
+    "audioPrompt": "In 'The child feels tired', which word is the verb?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,89 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sock",
-      "run",
-      "soft"
+      "tired",
+      "feels",
+      "child"
     ],
-    "correct": 0,
-    "explanation": "sock is the best answer.",
-    "structuredExplanation": {
-      "summary": "sock is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1la07-p-013",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the naming word: “The fish runs.”",
-    "audioPrompt": "Find the naming word: “The fish runs.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "runs",
-      "the",
-      "fish"
-    ],
-    "correct": 2,
-    "explanation": "fish is the best answer.",
-    "structuredExplanation": {
-      "summary": "fish is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
-  },
-  {
-    "id": "ac9e1la07-p-014",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the place word: “Zoe went to the farm.”",
-    "audioPrompt": "Find the place word: “Zoe went to the farm.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "zoe",
-      "farm",
-      "went"
-    ],
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "farm is the best answer.",
+    "explanation": "Feels expresses a state; verbs are not limited to actions we can see.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "farm is the best answer."
+      "summary": "Feels expresses a state; verbs are not limited to actions we can see.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-015",
+    "id": "ac9e1la07-er2-p-009",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear picture of a cat.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a cat.] Which word could name this picture?",
+    "question": "Which word names the thing carried in 'The girl carried a basket'?",
+    "audioPrompt": "Which word names the thing carried in 'The girl carried a basket'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +264,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "cat",
-      "jump",
-      "quick"
+      "carried",
+      "a",
+      "basket"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Basket is a noun naming the carried object.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Basket is a noun naming the carried object.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la07-er2-p-010",
+    "curriculumCode": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "word roles in sentences",
+    "printable": true,
+    "type": "single",
+    "question": "Replace the repeated name: 'Omar waved. Omar smiled.'",
+    "audioPrompt": "Replace the repeated name: 'Omar waved. Omar smiled.'",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Omar waved. He smiled.",
+      "Omar waved. It smiled.",
+      "Omar waved. We smiled."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "The word cat names the animal.",
+    "explanation": "He refers back to the single person Omar in this context.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The word cat names the animal."
+      "summary": "He refers back to the single person Omar in this context.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-016",
+    "id": "ac9e1la07-er2-p-011",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
+    "question": "Which word completes the action in 'The fish ___ through the water'?",
+    "audioPrompt": "Which word completes the action in 'The fish ___ through the water'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Mia runs.",
-      "Jump up.",
-      "Mia has a cup."
+      "quiet",
+      "swims",
+      "silver"
     ],
-    "correct": 2,
-    "explanation": "Mia has a cup. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Mia has a cup. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1la07-p-017",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names an animal?",
-    "audioPrompt": "Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hop",
-      "green",
-      "frog"
-    ],
-    "correct": 2,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Swims is a verb that tells what the fish does.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Swims is a verb that tells what the fish does.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-018",
+    "id": "ac9e1la07-er2-p-012",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Which word names a person?",
-    "audioPrompt": "Which word names a person?",
+    "question": "Choose a describing word for 'The ___ path was hard to walk on'.",
+    "audioPrompt": "Choose a describing word for 'The ___ path was hard to walk on'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "teacher",
-      "kind",
-      "teach"
+      "walked",
+      "slowly",
+      "rocky"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Rocky describes the path; slowly would describe how an action happens.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Rocky describes the path; slowly would describe how an action happens.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la07-er2-p-013",
+    "curriculumCode": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "word roles in sentences",
+    "printable": true,
+    "type": "single",
+    "question": "In 'The bright moon shone', what job does bright do?",
+    "audioPrompt": "In 'The bright moon shone', what job does bright do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Describes the moon.",
+      "Names the action.",
+      "Replaces the word moon."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "teacher is the best answer.",
+    "explanation": "Bright is an adjective giving a quality of the moon.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "teacher is the best answer."
+      "summary": "Bright is an adjective giving a quality of the moon.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-019",
+    "id": "ac9e1la07-er2-p-014",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which word names a place?",
-    "audioPrompt": "Read and choose: Which word names a place?",
+    "question": "Which sentence uses quickly to tell how an action happens?",
+    "audioPrompt": "Which sentence uses quickly to tell how an action happens?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "happy",
-      "park",
-      "play"
+      "Quickly is the rabbit's name.",
+      "The rabbit hopped quickly.",
+      "The quickly rabbit."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "park is the best answer.",
+    "explanation": "Quickly adds a manner detail to hopped.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "park is the best answer."
+      "summary": "Quickly adds a manner detail to hopped.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-020",
+    "id": "ac9e1la07-er2-p-015",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
+    "question": "'Ava and Ben planted seeds. They watered them.' What does them refer to?",
+    "audioPrompt": "'Ava and Ben planted seeds. They watered them.' What does them refer to?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +450,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "bag",
-      "soft",
-      "run"
+      "Ava and Ben",
+      "the watering cans",
+      "the seeds"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Them refers to what was planted and then watered: the seeds.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Them refers to what was planted and then watered: the seeds.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la07-er2-p-016",
+    "curriculumCode": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "word roles in sentences",
+    "printable": true,
+    "type": "single",
+    "question": "In 'The soup smells delicious', which pair is the verb and the describing word?",
+    "audioPrompt": "In 'The soup smells delicious', which pair is the verb and the describing word?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "smells; delicious",
+      "soup; smells",
+      "The; soup"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "bag is the best answer.",
+    "explanation": "Smells is the verb linking soup to its quality; delicious describes it.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "bag is the best answer."
+      "summary": "Smells is the verb linking soup to its quality; delicious describes it.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-021",
+    "id": "ac9e1la07-er2-p-017",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Find the naming word: “The cat runs.”",
-    "audioPrompt": "Find the naming word: “The cat runs.”",
+    "question": "Compare 'The fast horse ran' and 'The horse ran fast'. What does fast describe in the second sentence?",
+    "audioPrompt": "Compare 'The fast horse ran' and 'The horse ran fast'. What does fast describe in the second sentence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "runs",
-      "cat",
-      "the"
+      "When the horse ran.",
+      "How the horse ran.",
+      "Which thing is called a horse."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "cat is the best answer.",
+    "explanation": "In the second sentence fast modifies the running, rather than describing the noun directly.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "cat is the best answer."
+      "summary": "In the second sentence fast modifies the running, rather than describing the noun directly.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-022",
+    "id": "ac9e1la07-er2-p-018",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Find the place word: “Max went to the zoo.”",
-    "audioPrompt": "Find the place word: “Max went to the zoo.”",
+    "question": "In 'We will play tomorrow', changing tomorrow to today changes which detail?",
+    "audioPrompt": "In 'We will play tomorrow', changing tomorrow to today changes which detail?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +543,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "max",
-      "went",
-      "zoo"
+      "Who is playing.",
+      "How many games exist.",
+      "When the playing happens."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "zoo is the best answer.",
+    "explanation": "Both words give time information, but they name different times.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "zoo is the best answer."
+      "summary": "Both words give time information, but they name different times.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-023",
+    "id": "ac9e1la07-er2-p-019",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear picture of a hen.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a hen.] Which word could name this picture?",
+    "question": "A child underlines blue as the action in 'The blue car stopped'. Which word should replace it?",
+    "audioPrompt": "A child underlines blue as the action in 'The blue car stopped'. Which word should replace it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +574,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "jump",
-      "hen",
-      "quick"
+      "stopped",
+      "car",
+      "The"
     ],
-    "correct": 1,
-    "explanation": "The word hen names the animal.",
-    "structuredExplanation": {
-      "summary": "The word hen names the animal."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1la07-p-024",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Ben runs.",
-      "Ben has a kite.",
-      "Jump up."
-    ],
-    "correct": 1,
-    "explanation": "Ben has a kite. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Ben has a kite. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1la07-p-025",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word names an animal?",
-    "audioPrompt": "Read and choose: Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "green",
-      "hop",
-      "frog"
-    ],
-    "correct": 2,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1la07-p-026",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word names a person?",
-    "audioPrompt": "Read and choose: Which word names a person?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "teach",
-      "teacher",
-      "kind"
-    ],
-    "correct": 1,
-    "explanation": "teacher is the best answer.",
-    "structuredExplanation": {
-      "summary": "teacher is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1la07-p-027",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names a place?",
-    "audioPrompt": "Which word names a place?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "play",
-      "happy",
-      "park"
-    ],
-    "correct": 2,
-    "explanation": "park is the best answer.",
-    "structuredExplanation": {
-      "summary": "park is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1la07-p-028",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "ball",
-      "soft",
-      "run"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "ball is the best answer.",
+    "explanation": "Stopped is the verb; blue is an adjective describing the car.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "ball is the best answer."
+      "summary": "Stopped is the verb; blue is an adjective describing the car.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-029",
+    "id": "ac9e1la07-er2-p-020",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Find the naming word: “The hen runs.”",
-    "audioPrompt": "Find the naming word: “The hen runs.”",
+    "question": "'The dog chased the ball. It rolled away.' What does It most likely replace?",
+    "audioPrompt": "'The dog chased the ball. It rolled away.' What does It most likely replace?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "runs",
-      "the",
-      "hen"
+      "both the dog and ball",
+      "the ball",
+      "the dog"
     ],
-    "correct": 2,
-    "explanation": "hen is the best answer.",
-    "structuredExplanation": {
-      "summary": "hen is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1la07-p-030",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the place word: “Mia went to the school.”",
-    "audioPrompt": "Find the place word: “Mia went to the school.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "mia",
-      "school",
-      "went"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "school is the best answer.",
+    "explanation": "Rolling away most naturally describes the ball in this context.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "school is the best answer."
+      "summary": "Rolling away most naturally describes the ball in this context.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-031",
+    "id": "ac9e1la07-er2-p-021",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "[Show a clear picture of a frog.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a frog.] Which word could name this picture?",
+    "question": "Which change adds a quality to the noun in 'A bird sang'?",
+    "audioPrompt": "Which change adds a quality to the noun in 'A bird sang'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "frog",
-      "quick",
-      "jump"
+      "A bird sang loudly.",
+      "A bird sang yesterday.",
+      "A cheerful bird sang."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Cheerful describes bird; loudly and yesterday add details to sang.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Cheerful describes bird; loudly and yesterday add details to sang.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la07-er2-p-022",
+    "curriculumCode": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "word roles in sentences",
+    "printable": true,
+    "type": "single",
+    "question": "Which change adds how to 'The child walked'?",
+    "audioPrompt": "Which change adds how to 'The child walked'?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The child walked carefully.",
+      "The careful child walked.",
+      "The child walked today."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "The word frog names the animal.",
+    "explanation": "Carefully describes the manner of walking; careful describes the child, and today gives time.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The word frog names the animal."
+      "summary": "Carefully describes the manner of walking; careful describes the child, and today gives time.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-032",
+    "id": "ac9e1la07-er2-p-023",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
+    "question": "In 'The farmer works nearby', which words are a person noun and a place detail?",
+    "audioPrompt": "In 'The farmer works nearby', which words are a person noun and a place detail?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Sam runs.",
-      "Jump up.",
-      "Sam has a hat."
+      "nearby; The",
+      "farmer; nearby",
+      "works; farmer"
     ],
-    "correct": 2,
-    "explanation": "Sam has a hat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Sam has a hat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1la07-p-033",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names an animal?",
-    "audioPrompt": "Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hop",
-      "frog",
-      "green"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "frog is the best answer.",
+    "explanation": "Farmer names a person; nearby tells where the working happens.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "frog is the best answer."
+      "summary": "Farmer names a person; nearby tells where the working happens.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la07-p-034",
+    "id": "ac9e1la07-er2-p-024",
     "curriculumCode": "AC9E1LA07",
     "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
+    "skill": "word roles in sentences",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which word names a person?",
-    "audioPrompt": "Read and choose: Which word names a person?",
+    "question": "A child says verbs always mean moving. Which sentence shows a verb expressing a state instead?",
+    "audioPrompt": "A child says verbs always mean moving. Which sentence shows a verb expressing a state instead?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,438 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "teacher",
-      "kind",
-      "teach"
+      "The baby crawls.",
+      "The baby kicks.",
+      "The baby is hungry."
     ],
-    "correct": 0,
-    "explanation": "teacher is the best answer.",
-    "structuredExplanation": {
-      "summary": "teacher is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
-  },
-  {
-    "id": "ac9e1la07-p-035",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which word names a place?",
-    "audioPrompt": "Look and choose: Which word names a place?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "happy",
-      "park",
-      "play"
-    ],
-    "correct": 1,
-    "explanation": "park is the best answer.",
-    "structuredExplanation": {
-      "summary": "park is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
-  },
-  {
-    "id": "ac9e1la07-p-036",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "soft",
-      "map",
-      "run"
-    ],
-    "correct": 1,
-    "explanation": "map is the best answer.",
-    "structuredExplanation": {
-      "summary": "map is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1la07-p-037",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the naming word: “The frog runs.”",
-    "audioPrompt": "Find the naming word: “The frog runs.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "frog",
-      "the",
-      "runs"
-    ],
-    "correct": 0,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1la07-p-038",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the place word: “Ben went to the shop.”",
-    "audioPrompt": "Find the place word: “Ben went to the shop.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "went",
-      "shop",
-      "ben"
-    ],
-    "correct": 1,
-    "explanation": "shop is the best answer.",
-    "structuredExplanation": {
-      "summary": "shop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1la07-p-039",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "[Show a clear picture of a fish.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a fish.] Which word could name this picture?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "quick",
-      "jump",
-      "fish"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "The word fish names the animal.",
+    "explanation": "Is links the baby to a state, hungry, without describing movement.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The word fish names the animal."
+      "summary": "Is links the baby to a state, hungry, without describing movement.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1la07-p-040",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Kim runs.",
-      "Kim has a book.",
-      "Jump up."
-    ],
-    "correct": 1,
-    "explanation": "Kim has a book. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Kim has a book. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1la07-p-041",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which word names an animal?",
-    "audioPrompt": "Look and choose: Which word names an animal?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "green",
-      "hop",
-      "frog"
-    ],
-    "correct": 2,
-    "explanation": "frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "frog is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-042",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names a person?",
-    "audioPrompt": "Which word names a person?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "teach",
-      "kind",
-      "teacher"
-    ],
-    "correct": 2,
-    "explanation": "teacher is the best answer.",
-    "structuredExplanation": {
-      "summary": "teacher is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-043",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names a place?",
-    "audioPrompt": "Which word names a place?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "park",
-      "happy",
-      "play"
-    ],
-    "correct": 0,
-    "explanation": "park is the best answer.",
-    "structuredExplanation": {
-      "summary": "park is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-044",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which word names a thing?",
-    "audioPrompt": "Which word names a thing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "run",
-      "soft",
-      "cup"
-    ],
-    "correct": 2,
-    "explanation": "cup is the best answer.",
-    "structuredExplanation": {
-      "summary": "cup is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-045",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the naming word: “The fish runs.”",
-    "audioPrompt": "Find the naming word: “The fish runs.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "fish",
-      "the",
-      "runs"
-    ],
-    "correct": 0,
-    "explanation": "fish is the best answer.",
-    "structuredExplanation": {
-      "summary": "fish is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-046",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Find the place word: “Sam went to the camp.”",
-    "audioPrompt": "Find the place word: “Sam went to the camp.”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sam",
-      "went",
-      "camp"
-    ],
-    "correct": 2,
-    "explanation": "camp is the best answer.",
-    "structuredExplanation": {
-      "summary": "camp is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-047",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "[Show a clear picture of a cat.] Which word could name this picture?",
-    "audioPrompt": "[Show a clear picture of a cat.] Which word could name this picture?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "quick",
-      "cat",
-      "jump"
-    ],
-    "correct": 1,
-    "explanation": "The word cat names the animal.",
-    "structuredExplanation": {
-      "summary": "The word cat names the animal."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la07-p-048",
-    "curriculumCode": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "understand that words can represent people, places and things (nouns",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence has two naming words?",
-    "audioPrompt": "Which sentence has two naming words?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Jump up.",
-      "Ava runs.",
-      "Ava has a sock."
-    ],
-    "correct": 2,
-    "explanation": "Ava has a sock. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Ava has a sock. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

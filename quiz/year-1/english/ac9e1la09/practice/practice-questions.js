@@ -1,1162 +1,746 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la09-p-001",
+    "id": "ac9e1la09-er2-p-001",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 01 recognise",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which word is topic vocabulary for where an animal lives: habitat, happy or quickly?",
-    "audioPrompt": "Which word is topic vocabulary for where an animal lives: habitat, happy or quickly?",
-    "visual": "📖 Identify a science word; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify a science word; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-001\"></use></svg>",
+    "question": "In a plant lesson, which word names the part usually growing into the soil?",
+    "audioPrompt": "In a plant lesson, which word names the part usually growing into the soil?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-001",
-      "alt_text": "📖 Identify a science word; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Habitat",
-      "happy",
-      "quickly"
+      "root",
+      "roof",
+      "route"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Habitat This matches the task.\nHint: Connect the word to meaning and topic.",
+    "explanation": "Root is the plant term for the part that anchors it and takes in water.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Habitat This matches the task.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "Root is the plant term for the part that anchors it and takes in water.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-002",
+    "id": "ac9e1la09-er2-p-002",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 02 recognise",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match terms and subjects?",
-    "audioPrompt": "Which response would correctly match terms and subjects?",
-    "visual": "📖 Match terms and subjects; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match terms and subjects; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-003\"></use></svg>",
+    "question": "'We will measure the length of the ribbon.' What does length mean here?",
+    "audioPrompt": "'We will measure the length of the ribbon.' What does length mean here?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-003",
-      "alt_text": "📖 Match terms and subjects; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add ↔ Science; habitat ↔ English/Arts; rhythm ↔ Mathematics",
-      "Do not check the subject meaning.",
-      "Add ↔ Mathematics; habitat ↔ Science; rhythm ↔ English/Arts"
+      "How bright it is.",
+      "How long it is.",
+      "How heavy it is."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Length is a measurement of how long something is.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Length is a measurement of how long something is.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-003",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "In music, a teacher says, 'Keep a steady beat.' What does beat mean?",
+    "audioPrompt": "In music, a teacher says, 'Keep a steady beat.' What does beat mean?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The colour of an instrument.",
+      "The words printed on a cover.",
+      "A regular pulse in the music."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Add ↔ Mathematics; habitat ↔ Science; rhythm ↔ English/Arts This matches the task.\nHint: Check the subject meaning.",
+    "explanation": "Beat names the regular pulse that can be clapped or tapped.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Add ↔ Mathematics; habitat ↔ Science; rhythm ↔ English/Arts This matches the task.",
-      "hint": "Check the subject meaning."
+      "summary": "Beat names the regular pulse that can be clapped or tapped.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-003",
+    "id": "ac9e1la09-er2-p-004",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 03 recognise",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly use a glossary?",
-    "audioPrompt": "Which response would correctly use a glossary?",
-    "visual": "📖 Use a glossary; 🔎 subject; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use a glossary; 🔎 subject; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-005\"></use></svg>",
+    "question": "Which word belongs with circle and triangle in a shapes lesson?",
+    "audioPrompt": "Which word belongs with circle and triangle in a shapes lesson?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-005",
-      "alt_text": "📖 Use a glossary; 🔎 subject; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "capacity",
-      "Locates C entry and explains capacity as how much a container can hold",
-      "Do not use in sentence."
+      "square",
+      "sentence",
+      "seedling"
     ],
-    "correct": 1,
-    "explanation": "Locates C entry and explains capacity as how much a container can hold This matches the task.\nHint: Practise a sentence, not just a definition.",
-    "structuredExplanation": {
-      "summary": "Locates C entry and explains capacity as how much a container can hold This matches the task.",
-      "hint": "Practise a sentence, not just a definition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-004",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 04 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly infer from context?",
-    "audioPrompt": "Which response would correctly infer from context?",
-    "visual": "📖 Infer from context; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Infer from context; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-007",
-      "alt_text": "📖 Infer from context; 🔎 sentence; ✅ choose with evidence"
-    },
-    "answers": [
-      "Pulls/draws closer",
-      "The magnet attracts the clip, pulling it closer",
-      "Use only the word's sound and not its meaning."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "Pulls/draws closer This matches the task.\nHint: Connect the word to meaning and topic.",
+    "explanation": "Square is another shape, so it belongs in this topic group.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Pulls/draws closer This matches the task.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "Square is another shape, so it belongs in this topic group.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-005",
+    "id": "ac9e1la09-er2-p-005",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 05 recognise",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order word learning?",
-    "audioPrompt": "Which response would correctly order word learning?",
-    "visual": "📖 Order word learning; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order word learning; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-009\"></use></svg>",
+    "question": "In a weather report, what does rainfall refer to?",
+    "audioPrompt": "In a weather report, what does rainfall refer to?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-009",
-      "alt_text": "📖 Order word learning; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "use in sentence → check topic fit → read clues/definition → Notice",
-      "Do not check the subject meaning.",
-      "Notice → read clues/definition → check topic fit → use in sentence"
+      "The speed of a car.",
+      "The rain that falls in a place.",
+      "The height of a tree."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Rainfall is vocabulary about rain received in an area.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Rainfall is vocabulary about rain received in an area.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-006",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "In art, a child makes a pattern. What are they making?",
+    "audioPrompt": "In art, a child makes a pattern. What are they making?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A list of book titles.",
+      "A way to weigh a stone.",
+      "A design with a repeated rule or arrangement."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Notice → read clues/definition → check topic fit → use in sentence This matches the task.\nHint: Check the subject meaning.",
+    "explanation": "Pattern describes an arrangement, often with repeated elements.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Notice → read clues/definition → check topic fit → use in sentence This matches the task.",
-      "hint": "Check the subject meaning."
+      "summary": "Pattern describes an arrangement, often with repeated elements.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-006",
+    "id": "ac9e1la09-er2-p-007",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 06 recognise",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw a vocabulary example?",
-    "audioPrompt": "Which response would correctly draw a vocabulary example?",
-    "visual": "📖 Draw a vocabulary example; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a vocabulary example; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-011\"></use></svg>",
+    "question": "An animal's habitat is the place where it lives. Which phrase describes a habitat?",
+    "audioPrompt": "An animal's habitat is the place where it lives. Which phrase describes a habitat?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-011",
-      "alt_text": "📖 Draw a vocabulary example; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use in sentence.",
-      "Shows groups with the same count and labels both terms meaningfully",
-      "Use only the word's sound and not its meaning."
+      "A pond where frogs live.",
+      "A frog's jumping action.",
+      "The colour of a frog's eyes."
     ],
-    "correct": 1,
-    "explanation": "Shows groups with the same count and labels both terms meaningfully This matches the task.\nHint: Practise a sentence, not just a definition.",
-    "structuredExplanation": {
-      "summary": "Shows groups with the same count and labels both terms meaningfully This matches the task.",
-      "hint": "Practise a sentence, not just a definition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-007",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 07 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly compare everyday and maths meaning?",
-    "audioPrompt": "Which response would correctly compare everyday and maths meaning?",
-    "visual": "📖 Compare everyday and maths meaning; 🔎 subject; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare everyday and maths meaning; 🔎 subject; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-013",
-      "alt_text": "📖 Compare everyday and maths meaning; 🔎 subject; ✅ choose with evidence"
-    },
-    "answers": [
-      "First is furniture; second is organised rows/columns of information",
-      "table",
-      "set the table"
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "First is furniture; second is organised rows/columns of information This matches the task.\nHint: Connect the word to meaning and topic.",
+    "explanation": "Habitat refers to a living place, not an action or body feature.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "First is furniture; second is organised rows/columns of information This matches the task.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "Habitat refers to a living place, not an action or body feature.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-008",
+    "id": "ac9e1la09-er2-p-008",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 08 recognise",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly choose precise wording?",
-    "audioPrompt": "Which response would correctly choose precise wording?",
-    "visual": "📖 Choose precise wording; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose precise wording; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-015\"></use></svg>",
+    "question": "In a science lesson, 'Observe the shell' means what?",
+    "audioPrompt": "In a science lesson, 'Observe the shell' means what?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-015",
-      "alt_text": "📖 Choose precise wording; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the thing moved",
-      "Do not check the subject meaning.",
-      "'The push moved the object to the left direction/left' with terms used accurately"
+      "Hide it before describing it.",
+      "Look closely to notice its features.",
+      "Guess without looking."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Observe means pay close attention to what can be noticed.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Observe means pay close attention to what can be noticed.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-009",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "The class sorts objects by texture. Which pair describes texture?",
+    "audioPrompt": "The class sorts objects by texture. Which pair describes texture?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "yesterday and tomorrow",
+      "left and right",
+      "rough and smooth"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "'The push moved the object to the left direction/left' with terms used accurately This matches the task.\nHint: Check the subject meaning.",
+    "explanation": "Texture concerns how a surface feels.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "'The push moved the object to the left direction/left' with terms used accurately This matches the task.",
-      "hint": "Check the subject meaning."
+      "summary": "Texture concerns how a surface feels.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-009",
+    "id": "ac9e1la09-er2-p-010",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 09 recognise",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "What does length tell us about an object?",
-    "audioPrompt": "What does length tell us about an object?",
-    "visual": "📖 Recognise a measurement term; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise a measurement term; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-017\"></use></svg>",
+    "question": "A teacher asks for the total after joining two groups. What are you finding?",
+    "audioPrompt": "A teacher asks for the total after joining two groups. What are you finding?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-017",
-      "alt_text": "📖 Recognise a measurement term; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use in sentence.",
-      "How long it is from one end to the other",
-      "Use only the word's sound and not its meaning."
+      "How many there are altogether.",
+      "How many groups were empty.",
+      "Which object is the longest."
     ],
-    "correct": 1,
-    "explanation": "How long it is from one end to the other This matches the task.\nHint: Practise a sentence, not just a definition.",
-    "structuredExplanation": {
-      "summary": "How long it is from one end to the other This matches the task.",
-      "hint": "Practise a sentence, not just a definition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-010",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 10 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match terms and examples?",
-    "audioPrompt": "Which response would correctly match terms and examples?",
-    "visual": "📖 Match terms and examples; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match terms and examples; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-019",
-      "alt_text": "📖 Match terms and examples; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "Each term matches its topic example",
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Each term matches its topic example This matches the task.\nHint: Connect the word to meaning and topic.",
+    "explanation": "Total means the whole amount being counted.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Each term matches its topic example This matches the task.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "Total means the whole amount being counted.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-011",
+    "id": "ac9e1la09-er2-p-011",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 01 explain",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you identify a science word?",
-    "audioPrompt": "Which tip would help you identify a science word?",
-    "visual": "🧠 Identify a science word; ➡️ Hear word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify a science word; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-002\"></use></svg>",
+    "question": "In a movement lesson, balance means staying steady. Which action shows this meaning?",
+    "audioPrompt": "In a movement lesson, balance means staying steady. Which action shows this meaning?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-002",
-      "alt_text": "🧠 Identify a science word; ➡️ Hear word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the subject meaning.",
-      "Connect the word to meaning and topic.",
-      "Do not use in sentence."
+      "Drawing a red line.",
+      "Standing steadily on one foot.",
+      "Adding two numbers."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
+    "explanation": "The movement meaning is keeping the body steady.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "The movement meaning is keeping the body steady.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-012",
+    "id": "ac9e1la09-er2-p-012",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 02 explain",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match terms and subjects?",
-    "audioPrompt": "Which tip would help you match terms and subjects?",
-    "visual": "🧠 Match terms and subjects; ➡️ Link to topic; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match terms and subjects; ➡️ Link to topic; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-004\"></use></svg>",
+    "question": "'Fold the paper along the edge.' What is an edge here?",
+    "audioPrompt": "'Fold the paper along the edge.' What is an edge here?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-004",
-      "alt_text": "🧠 Match terms and subjects; ➡️ Link to topic; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
-      "Do not use in sentence.",
-      "Use only the word's sound and not its meaning."
+      "The middle of the paper.",
+      "The weight of the paper.",
+      "The boundary of the paper."
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.\nHint: Check the subject meaning.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
-      "hint": "Check the subject meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-013",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 03 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you use a glossary?",
-    "audioPrompt": "Which tip would help you use a glossary?",
-    "visual": "🧠 Use a glossary; ➡️ Use in sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Use a glossary; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-006",
-      "alt_text": "🧠 Use a glossary; ➡️ Use in sentence; 💡 helpful strategy"
-    },
-    "answers": [
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning.",
-      "Look for subject and check the whole example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Look for subject and check the whole example.\nHint: Practise a sentence, not just a definition.",
+    "explanation": "Edge names the outside boundary in this context.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for subject and check the whole example.",
-      "hint": "Practise a sentence, not just a definition."
+      "summary": "Edge names the outside boundary in this context.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-014",
+    "id": "ac9e1la09-er2-p-013",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 04 explain",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you infer from context?",
-    "audioPrompt": "Which tip would help you infer from context?",
-    "visual": "🧠 Infer from context; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Infer from context; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-008\"></use></svg>",
+    "question": "Which word belongs with stem, leaf and flower?",
+    "audioPrompt": "Which word belongs with stem, leaf and flower?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-008",
-      "alt_text": "🧠 Infer from context; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the subject meaning.",
-      "Check that you can use in sentence.",
-      "Do not use in sentence."
+      "root",
+      "ruler",
+      "rhyme"
     ],
-    "correct": 1,
-    "explanation": "Check that you can use in sentence.\nHint: Connect the word to meaning and topic.",
-    "structuredExplanation": {
-      "summary": "Check that you can use in sentence.",
-      "hint": "Connect the word to meaning and topic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-015",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 05 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order word learning?",
-    "audioPrompt": "Which tip would help you order word learning?",
-    "visual": "🧠 Order word learning; ➡️ Hear word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order word learning; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-010",
-      "alt_text": "🧠 Order word learning; ➡️ Hear word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing a vocabulary-learning strategy.",
-      "Do not use in sentence.",
-      "Use only the word's sound and not its meaning."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Sequencing a vocabulary-learning strategy.\nHint: Check the subject meaning.",
+    "explanation": "These words name parts of a plant.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sequencing a vocabulary-learning strategy.",
-      "hint": "Check the subject meaning."
+      "summary": "These words name parts of a plant.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-016",
+    "id": "ac9e1la09-er2-p-014",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 06 explain",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw a vocabulary example?",
-    "audioPrompt": "Which tip would help you draw a vocabulary example?",
-    "visual": "🧠 Draw a vocabulary example; ➡️ Link to topic; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a vocabulary example; ➡️ Link to topic; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-012\"></use></svg>",
+    "question": "In music, loud and soft describe what?",
+    "audioPrompt": "In music, loud and soft describe what?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-012",
-      "alt_text": "🧠 Draw a vocabulary example; ➡️ Link to topic; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning.",
-      "Practise a sentence, not just a definition."
+      "Which colour the music page is.",
+      "How strong or quiet the sound is.",
+      "How long an instrument is."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "These words describe sound level in music.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "These words describe sound level in music.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-015",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "'Use a symbol to show the picnic place on the map.' What does symbol mean?",
+    "audioPrompt": "'Use a symbol to show the picnic place on the map.' What does symbol mean?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The real picnic table placed on paper.",
+      "Every word in the title.",
+      "A small sign or picture standing for something."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
+    "explanation": "A map symbol represents a place or feature.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Practise a sentence, not just a definition.",
-      "hint": "Practise a sentence, not just a definition."
+      "summary": "A map symbol represents a place or feature.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-017",
+    "id": "ac9e1la09-er2-p-016",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 07 explain",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you compare everyday and maths meaning?",
-    "audioPrompt": "Which tip would help you compare everyday and maths meaning?",
-    "visual": "🧠 Compare everyday and maths meaning; ➡️ Use in sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare everyday and maths meaning; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-014\"></use></svg>",
+    "question": "In a maths lesson, equal groups means groups with what?",
+    "audioPrompt": "In a maths lesson, equal groups means groups with what?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-014",
-      "alt_text": "🧠 Compare everyday and maths meaning; ➡️ Use in sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the subject meaning.",
-      "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
-      "Do not use in sentence."
+      "The same number in each.",
+      "The same colour only.",
+      "Different numbers in each."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.\nHint: Connect the word to meaning and topic.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
-      "hint": "Connect the word to meaning and topic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-018",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 08 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you choose precise wording?",
-    "audioPrompt": "Which tip would help you choose precise wording?",
-    "visual": "🧠 Choose precise wording; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose precise wording; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-016",
-      "alt_text": "🧠 Choose precise wording; ➡️ Explain; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for sentence and check the whole example.",
-      "Do not use in sentence.",
-      "Use only the word's sound and not its meaning."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Look for sentence and check the whole example.\nHint: Check the subject meaning.",
+    "explanation": "Equal describes matching amounts here.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for sentence and check the whole example.",
-      "hint": "Check the subject meaning."
+      "summary": "Equal describes matching amounts here.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-019",
+    "id": "ac9e1la09-er2-p-017",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 09 explain",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you recognise a measurement term?",
-    "audioPrompt": "Which tip would help you recognise a measurement term?",
-    "visual": "🧠 Recognise a measurement term; ➡️ Hear word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Recognise a measurement term; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-018\"></use></svg>",
+    "question": "'Watch the shadow move across the path.' In this science sentence, what is a shadow?",
+    "audioPrompt": "'Watch the shadow move across the path.' In this science sentence, what is a shadow?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-018",
-      "alt_text": "🧠 Recognise a measurement term; ➡️ Hear word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning.",
-      "Check that you can use in sentence."
+      "A painted line on the path.",
+      "A darker area where light is blocked.",
+      "A wet mark left by rain."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Shadow is the topic word for a darker area made by blocked light.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Shadow is the topic word for a darker area made by blocked light.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-018",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "In art you mix red and yellow. In cooking you mix flour and water. What does mix mean in both lessons?",
+    "audioPrompt": "In art you mix red and yellow. In cooking you mix flour and water. What does mix mean in both lessons?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Keep things in separate piles.",
+      "Choose the longest thing.",
+      "Combine things together."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Check that you can use in sentence.\nHint: Practise a sentence, not just a definition.",
+    "explanation": "The same useful word describes combining materials in both contexts.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Check that you can use in sentence.",
-      "hint": "Practise a sentence, not just a definition."
+      "summary": "The same useful word describes combining materials in both contexts.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-020",
+    "id": "ac9e1la09-er2-p-019",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 10 explain",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match terms and examples?",
-    "audioPrompt": "Which tip would help you match terms and examples?",
-    "visual": "🧠 Match terms and examples; ➡️ Link to topic; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match terms and examples; ➡️ Link to topic; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-020\"></use></svg>",
+    "question": "A child puts 'heavy' under the heading 'Length words'. Where does it fit better?",
+    "audioPrompt": "A child puts 'heavy' under the heading 'Length words'. Where does it fit better?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-020",
-      "alt_text": "🧠 Match terms and examples; ➡️ Link to topic; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the subject meaning.",
-      "Connecting cross-curricular vocabulary with meanings.",
-      "Do not use in sentence."
+      "Words about mass or weight.",
+      "Words about direction.",
+      "Words about colour."
     ],
-    "correct": 1,
-    "explanation": "Connecting cross-curricular vocabulary with meanings.\nHint: Connect the word to meaning and topic.",
-    "structuredExplanation": {
-      "summary": "Connecting cross-curricular vocabulary with meanings.",
-      "hint": "Connect the word to meaning and topic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-021",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 01 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Identify a science word; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify a science word; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-001",
-      "alt_text": "📖 Identify a science word; 🔎 topic word; ✅ choose with evidence"
-    },
-    "answers": [
-      "happy",
-      "Habitat",
-      "Connect the word to meaning and topic."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "happy is the mix-up. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
+    "explanation": "Heavy describes how much something weighs, not how long it is.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "happy is the mix-up. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "Heavy describes how much something weighs, not how long it is.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-022",
+    "id": "ac9e1la09-er2-p-020",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 02 discriminate",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match terms and subjects; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match terms and subjects; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-003\"></use></svg>",
+    "question": "A lesson says, 'A seedling is a young plant.' Which sentence uses seedling correctly?",
+    "audioPrompt": "A lesson says, 'A seedling is a young plant.' Which sentence uses seedling correctly?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-003",
-      "alt_text": "📖 Match terms and subjects; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Add ↔ Mathematics; habitat ↔ Science; rhythm ↔ English/Arts",
-      "Add ↔ Science; habitat ↔ English/Arts; rhythm ↔ Mathematics",
-      "Use this routine: Hear word → Link to topic → Use in sentence → Explain."
+      "The seedling is the watering can.",
+      "The seedling has just grown its first leaves.",
+      "The seedling is the stone beside the plant."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Add ↔ Science; habitat ↔ English/Arts; rhythm ↔ Mathematics is the mix-up. Check the subject meaning.\nHint: Check the subject meaning.",
+    "explanation": "A seedling is the growing young plant itself.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Add ↔ Science; habitat ↔ English/Arts; rhythm ↔ Mathematics is the mix-up. Check the subject meaning.",
-      "hint": "Check the subject meaning."
+      "summary": "A seedling is the growing young plant itself.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-023",
+    "id": "ac9e1la09-er2-p-021",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 03 discriminate",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Use a glossary; 🔎 subject; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use a glossary; 🔎 subject; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-005\"></use></svg>",
+    "question": "The teacher says, 'Record what you notice.' Which action fits record in this lesson?",
+    "audioPrompt": "The teacher says, 'Record what you notice.' Which action fits record in this lesson?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-005",
-      "alt_text": "📖 Use a glossary; 🔎 subject; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Locates C entry and explains capacity as how much a container can hold",
-      "Look for subject and check the whole example.",
-      "capacity"
+      "Forget the observations after looking.",
+      "Move the object without noting anything.",
+      "Write or draw the observations to keep them."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "capacity is the mix-up. Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
+    "explanation": "Record means preserve the information, for example in notes or drawings.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "capacity is the mix-up. Practise a sentence, not just a definition.",
-      "hint": "Practise a sentence, not just a definition."
+      "summary": "Record means preserve the information, for example in notes or drawings.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-024",
+    "id": "ac9e1la09-er2-p-022",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 04 discriminate",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Infer from context; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Infer from context; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-007\"></use></svg>",
+    "question": "In a book about maps, route means the way to go. Which sentence uses this meaning?",
+    "audioPrompt": "In a book about maps, route means the way to go. Which sentence uses this meaning?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-007",
-      "alt_text": "📖 Infer from context; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The magnet attracts the clip, pulling it closer",
-      "Pulls/draws closer",
-      "Check that you can use in sentence."
+      "We followed the route from school to the park.",
+      "The route took in water from the soil.",
+      "The route was the plant's green leaf."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "The magnet attracts the clip, pulling it closer is the mix-up. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
+    "explanation": "Route means a path or course, unlike the similar-sounding root.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The magnet attracts the clip, pulling it closer is the mix-up. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "Route means a path or course, unlike the similar-sounding root.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-025",
+    "id": "ac9e1la09-er2-p-023",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 05 discriminate",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order word learning; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order word learning; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-009\"></use></svg>",
+    "question": "A class groups 'float', 'sink' and 'water'. Which heading best matches this vocabulary?",
+    "audioPrompt": "A class groups 'float', 'sink' and 'water'. Which heading best matches this vocabulary?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-009",
-      "alt_text": "📖 Order word learning; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Notice → read clues/definition → check topic fit → use in sentence",
-      "use in sentence → check topic fit → read clues/definition → Notice",
-      "Sequencing a vocabulary-learning strategy."
+      "Telling stories.",
+      "Objects in water.",
+      "Making music."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "use in sentence → check topic fit → read clues/definition → Notice is the mix-up. Check the subject meaning.\nHint: Check the subject meaning.",
+    "explanation": "Float and sink describe what objects can do in water.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "use in sentence → check topic fit → read clues/definition → Notice is the mix-up. Check the subject meaning.",
-      "hint": "Check the subject meaning."
+      "summary": "Float and sink describe what objects can do in water.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-026",
+    "id": "ac9e1la09-er2-p-024",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "ac9e1la09 06 discriminate",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw a vocabulary example; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a vocabulary example; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-011\"></use></svg>",
+    "question": "A child thinks 'warm' always means a colour. The weather sentence says, 'The air is warm today.' What does warm describe here?",
+    "audioPrompt": "A child thinks 'warm' always means a colour. The weather sentence says, 'The air is warm today.' What does warm describe here?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-011",
-      "alt_text": "📖 Draw a vocabulary example; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Shows groups with the same count and labels both terms meaningfully",
-      "Practise a sentence, not just a definition.",
-      "Do not use in sentence."
+      "The air's painted colour.",
+      "The air's shape.",
+      "The air's temperature."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "Do not use in sentence. is the mix-up. Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
+    "explanation": "Context selects the temperature meaning, even though art also uses warm for colours.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Do not use in sentence. is the mix-up. Practise a sentence, not just a definition.",
-      "hint": "Practise a sentence, not just a definition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-027",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare everyday and maths meaning; 🔎 subject; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare everyday and maths meaning; 🔎 subject; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-013",
-      "alt_text": "📖 Compare everyday and maths meaning; 🔎 subject; ✅ choose with evidence"
-    },
-    "answers": [
-      "table",
-      "First is furniture; second is organised rows/columns of information",
-      "Use this routine: Hear word → Link to topic → Use in sentence → Explain."
-    ],
-    "correct": 0,
-    "explanation": "table is the mix-up. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
-    "structuredExplanation": {
-      "summary": "table is the mix-up. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-028",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose precise wording; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose precise wording; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-015",
-      "alt_text": "📖 Choose precise wording; 🔎 sentence; ✅ choose with evidence"
-    },
-    "answers": [
-      "'The push moved the object to the left direction/left' with terms used accurately",
-      "the thing moved",
-      "Look for sentence and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "the thing moved is the mix-up. Check the subject meaning.\nHint: Check the subject meaning.",
-    "structuredExplanation": {
-      "summary": "the thing moved is the mix-up. Check the subject meaning.",
-      "hint": "Check the subject meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-029",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Recognise a measurement term; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise a measurement term; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-017",
-      "alt_text": "📖 Recognise a measurement term; 🔎 topic word; ✅ choose with evidence"
-    },
-    "answers": [
-      "How long it is from one end to the other",
-      "Check that you can use in sentence.",
-      "Do not use in sentence."
-    ],
-    "correct": 2,
-    "explanation": "Do not use in sentence. is the mix-up. Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
-    "structuredExplanation": {
-      "summary": "Do not use in sentence. is the mix-up. Practise a sentence, not just a definition.",
-      "hint": "Practise a sentence, not just a definition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-030",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match terms and examples; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match terms and examples; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-019",
-      "alt_text": "📖 Match terms and examples; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "Use only the word's sound and not its meaning.",
-      "Each term matches its topic example",
-      "Connecting cross-curricular vocabulary with meanings."
-    ],
-    "correct": 0,
-    "explanation": "Use only the word's sound and not its meaning. is the mix-up. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
-    "structuredExplanation": {
-      "summary": "Use only the word's sound and not its meaning. is the mix-up. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-031",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Identify a science word; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify a science word; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-001",
-      "alt_text": "📖 Identify a science word; 🔎 topic word; ✅ choose with evidence"
-    },
-    "answers": [
-      "happy",
-      "Habitat",
-      "quickly"
-    ],
-    "correct": 1,
-    "explanation": "Habitat uses the skill correctly. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
-    "structuredExplanation": {
-      "summary": "Habitat uses the skill correctly. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-032",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match terms and subjects; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match terms and subjects; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-003",
-      "alt_text": "📖 Match terms and subjects; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "Add ↔ Science; habitat ↔ English/Arts; rhythm ↔ Mathematics",
-      "Do not check the subject meaning.",
-      "Add ↔ Mathematics; habitat ↔ Science; rhythm ↔ English/Arts"
-    ],
-    "correct": 2,
-    "explanation": "Add ↔ Mathematics; habitat ↔ Science; rhythm ↔ English/Arts uses the skill correctly. Check the subject meaning.\nHint: Check the subject meaning.",
-    "structuredExplanation": {
-      "summary": "Add ↔ Mathematics; habitat ↔ Science; rhythm ↔ English/Arts uses the skill correctly. Check the subject meaning.",
-      "hint": "Check the subject meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-033",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Use a glossary; 🔎 subject; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use a glossary; 🔎 subject; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-005",
-      "alt_text": "📖 Use a glossary; 🔎 subject; ✅ choose with evidence"
-    },
-    "answers": [
-      "Locates C entry and explains capacity as how much a container can hold",
-      "capacity",
-      "Do not use in sentence."
-    ],
-    "correct": 0,
-    "explanation": "Locates C entry and explains capacity as how much a container can hold uses the skill correctly. Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
-    "structuredExplanation": {
-      "summary": "Locates C entry and explains capacity as how much a container can hold uses the skill correctly. Practise a sentence, not just a definition.",
-      "hint": "Practise a sentence, not just a definition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-034",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Infer from context; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Infer from context; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-007",
-      "alt_text": "📖 Infer from context; 🔎 sentence; ✅ choose with evidence"
-    },
-    "answers": [
-      "The magnet attracts the clip, pulling it closer",
-      "Pulls/draws closer",
-      "Use only the word's sound and not its meaning."
-    ],
-    "correct": 1,
-    "explanation": "Pulls/draws closer uses the skill correctly. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
-    "structuredExplanation": {
-      "summary": "Pulls/draws closer uses the skill correctly. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-035",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order word learning; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order word learning; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-009",
-      "alt_text": "📖 Order word learning; 🔎 topic word; ✅ choose with evidence"
-    },
-    "answers": [
-      "use in sentence → check topic fit → read clues/definition → Notice",
-      "Do not check the subject meaning.",
-      "Notice → read clues/definition → check topic fit → use in sentence"
-    ],
-    "correct": 2,
-    "explanation": "Notice → read clues/definition → check topic fit → use in sentence uses the skill correctly. Check the subject meaning.\nHint: Check the subject meaning.",
-    "structuredExplanation": {
-      "summary": "Notice → read clues/definition → check topic fit → use in sentence uses the skill correctly. Check the subject meaning.",
-      "hint": "Check the subject meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-036",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw a vocabulary example; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a vocabulary example; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-011",
-      "alt_text": "📖 Draw a vocabulary example; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "Shows groups with the same count and labels both terms meaningfully",
-      "Do not use in sentence.",
-      "Use only the word's sound and not its meaning."
-    ],
-    "correct": 0,
-    "explanation": "Shows groups with the same count and labels both terms meaningfully uses the skill correctly. Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
-    "structuredExplanation": {
-      "summary": "Shows groups with the same count and labels both terms meaningfully uses the skill correctly. Practise a sentence, not just a definition.",
-      "hint": "Practise a sentence, not just a definition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-037",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare everyday and maths meaning; 🔎 subject; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare everyday and maths meaning; 🔎 subject; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-013",
-      "alt_text": "📖 Compare everyday and maths meaning; 🔎 subject; ✅ choose with evidence"
-    },
-    "answers": [
-      "table",
-      "First is furniture; second is organised rows/columns of information",
-      "set the table"
-    ],
-    "correct": 1,
-    "explanation": "First is furniture; second is organised rows/columns of information uses the skill correctly. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
-    "structuredExplanation": {
-      "summary": "First is furniture; second is organised rows/columns of information uses the skill correctly. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-038",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose precise wording; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose precise wording; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-015",
-      "alt_text": "📖 Choose precise wording; 🔎 sentence; ✅ choose with evidence"
-    },
-    "answers": [
-      "the thing moved",
-      "Do not check the subject meaning.",
-      "'The push moved the object to the left direction/left' with terms used accurately"
-    ],
-    "correct": 2,
-    "explanation": "'The push moved the object to the left direction/left' with terms used accurately uses the skill correctly. Check the subject meaning.\nHint: Check the subject meaning.",
-    "structuredExplanation": {
-      "summary": "'The push moved the object to the left direction/left' with terms used accurately uses the skill correctly. Check the subject meaning.",
-      "hint": "Check the subject meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-039",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Recognise a measurement term; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise a measurement term; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-017",
-      "alt_text": "📖 Recognise a measurement term; 🔎 topic word; ✅ choose with evidence"
-    },
-    "answers": [
-      "How long it is from one end to the other",
-      "Do not use in sentence.",
-      "Use only the word's sound and not its meaning."
-    ],
-    "correct": 0,
-    "explanation": "How long it is from one end to the other uses the skill correctly. Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
-    "structuredExplanation": {
-      "summary": "How long it is from one end to the other uses the skill correctly. Practise a sentence, not just a definition.",
-      "hint": "Practise a sentence, not just a definition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la09-p-040",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "ac9e1la09 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match terms and examples; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match terms and examples; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-019",
-      "alt_text": "📖 Match terms and examples; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "Use only the word's sound and not its meaning.",
-      "Each term matches its topic example",
-      "Do not check the subject meaning."
-    ],
-    "correct": 1,
-    "explanation": "Each term matches its topic example uses the skill correctly. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
-    "structuredExplanation": {
-      "summary": "Each term matches its topic example uses the skill correctly. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "Context selects the temperature meaning, even though art also uses warm for colours.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   }

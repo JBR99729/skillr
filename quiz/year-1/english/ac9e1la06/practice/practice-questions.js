@@ -1,1162 +1,746 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la06-p-001",
+    "id": "ac9e1la06-er2-p-001",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 01 recognise",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Is 'Birds sing.' a complete simple sentence? Explain briefly.",
-    "audioPrompt": "Is 'Birds sing.' a complete simple sentence? Explain briefly.",
-    "visual": "📖 Identify a complete sentence; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify a complete sentence; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-001\"></use></svg>",
+    "question": "Which group of words gives a complete idea?",
+    "audioPrompt": "Which group of words gives a complete idea?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-001",
-      "alt_text": "📖 Identify a complete sentence; 🔎 who/what; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Yes; Birds names who/what and sing tells what they do",
-      "Yes; Birds names what happened and sing tells what they do",
-      "Yes; Birds names complete idea and sing tells what they do"
+      "The kite fell.",
+      "The red kite.",
+      "Under the kite."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Yes; Birds names who/what and sing tells what they do This matches the task.\nHint: Add the person, place or thing doing the action.",
+    "explanation": "The kite fell tells what happened; the others leave the action unstated.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Yes; Birds names who/what and sing tells what they do This matches the task.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "The kite fell tells what happened; the others leave the action unstated.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-002",
+    "id": "ac9e1la06-er2-p-002",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 02 recognise",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match sentence parts?",
-    "audioPrompt": "Which response would correctly match sentence parts?",
-    "visual": "📖 Match sentence parts; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match sentence parts; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-003\"></use></svg>",
+    "question": "In 'The baby sleeps', which words name who the sentence is about?",
+    "audioPrompt": "In 'The baby sleeps', which words name who the sentence is about?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-003",
-      "alt_text": "📖 Match sentence parts; 🔎 what happened; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Dog ↔ are wet; shoes ↔ falls; rain ↔ barks",
-      "Do not keep one clear event or idea.",
-      "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls"
+      "baby sleeps",
+      "The baby",
+      "sleeps"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The baby is the naming part; sleeps tells what the baby does.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The baby is the naming part; sleeps tells what the baby does.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-p-003",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "In 'Rain falls', which word tells what happens?",
+    "audioPrompt": "In 'Rain falls', which word tells what happens?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Rain",
+      "Both words name things.",
+      "falls"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls This matches the task.\nHint: Keep one clear event or idea.",
+    "explanation": "Falls is the action part of this short sentence.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls This matches the task.",
-      "hint": "Keep one clear event or idea."
+      "summary": "Falls is the action part of this short sentence.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-003",
+    "id": "ac9e1la06-er2-p-004",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 03 recognise",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly build one sentence?",
-    "audioPrompt": "Which response would correctly build one sentence?",
-    "visual": "📖 Build one sentence; 🔎 complete idea; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build one sentence; 🔎 complete idea; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-005\"></use></svg>",
+    "question": "Which ending completes 'The puppy ___' as a sentence?",
+    "audioPrompt": "Which ending completes 'The puppy ___' as a sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-005",
-      "alt_text": "📖 Build one sentence; 🔎 complete idea; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The silver fish",
-      "'The silver fish swims quickly.' with complete meaning",
-      "swims quickly"
+      "barks",
+      "with spots",
+      "under the table"
     ],
-    "correct": 1,
-    "explanation": "'The silver fish swims quickly.' with complete meaning This matches the task.\nHint: Start with a capital and end with punctuation.",
-    "structuredExplanation": {
-      "summary": "'The silver fish swims quickly.' with complete meaning This matches the task.",
-      "hint": "Start with a capital and end with punctuation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-004",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 04 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly repair a fragment?",
-    "audioPrompt": "Which response would correctly repair a fragment?",
-    "visual": "📖 Repair a fragment; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair a fragment; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-007",
-      "alt_text": "📖 Repair a fragment; 🔎 full stop; ✅ choose with evidence"
-    },
-    "answers": [
-      "'A rabbit waits beside the tall tree.'",
-      "Beside the tall tree",
-      "Leave out the person, place or thing doing the action."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "'A rabbit waits beside the tall tree.' This matches the task.\nHint: Add the person, place or thing doing the action.",
+    "explanation": "Barks tells what the puppy does, completing the idea.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "'A rabbit waits beside the tall tree.' This matches the task.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "Barks tells what the puppy does, completing the idea.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-005",
+    "id": "ac9e1la06-er2-p-005",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 05 recognise",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order a sentence?",
-    "audioPrompt": "Which response would correctly order a sentence?",
-    "visual": "📖 Order a sentence; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a sentence; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-009\"></use></svg>",
+    "question": "Which beginning completes '___ is shining' as a sentence?",
+    "audioPrompt": "Which beginning completes '___ is shining' as a sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-009",
-      "alt_text": "📖 Order a sentence; 🔎 who/what; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep one clear event or idea.",
-      "Leave out boundary mark.",
-      "The bird sings softly."
+      "Very bright",
+      "The sun",
+      "Under"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The sun supplies what is shining.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The sun supplies what is shining.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-p-006",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "'Beside the pond.' What is missing if this is meant to stand alone as a sentence?",
+    "audioPrompt": "'Beside the pond.' What is missing if this is meant to stand alone as a sentence?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A longer word for pond.",
+      "A second full stop.",
+      "Who or what is there and what happens."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "The bird sings softly. This matches the task.\nHint: Keep one clear event or idea.",
+    "explanation": "A place phrase alone does not state a complete event or idea.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The bird sings softly. This matches the task.",
-      "hint": "Keep one clear event or idea."
+      "summary": "A place phrase alone does not state a complete event or idea.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-006",
+    "id": "ac9e1la06-er2-p-007",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 06 recognise",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw sentence meaning?",
-    "audioPrompt": "Which response would correctly draw sentence meaning?",
-    "visual": "📖 Draw sentence meaning; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sentence meaning; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-011\"></use></svg>",
+    "question": "Which sentence tells one event using just a naming part and an action part?",
+    "audioPrompt": "Which sentence tells one event using just a naming part and an action part?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-011",
-      "alt_text": "📖 Draw sentence meaning; 🔎 what happened; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The puppy carries a red sock",
-      "Drawing matches one event; puppy labelled who/what and carries sock labelled action",
-      "Leave out boundary mark."
+      "The leaf dropped.",
+      "The leaf.",
+      "After the leaf dropped."
     ],
-    "correct": 1,
-    "explanation": "Drawing matches one event; puppy labelled who/what and carries sock labelled action This matches the task.\nHint: Start with a capital and end with punctuation.",
-    "structuredExplanation": {
-      "summary": "Drawing matches one event; puppy labelled who/what and carries sock labelled action This matches the task.",
-      "hint": "Start with a capital and end with punctuation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-007",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 07 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly find two events?",
-    "audioPrompt": "Which response would correctly find two events?",
-    "visual": "📖 Find two events; 🔎 complete idea; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find two events; 🔎 complete idea; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-013",
-      "alt_text": "📖 Find two events; 🔎 complete idea; ✅ choose with evidence"
-    },
-    "answers": [
-      "Bell rang; children ran",
-      "The bell rang and the children ran",
-      "Leave out the person, place or thing doing the action."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Bell rang; children ran This matches the task.\nHint: Add the person, place or thing doing the action.",
+    "explanation": "The leaf dropped can stand alone as a complete idea.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Bell rang; children ran This matches the task.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "The leaf dropped can stand alone as a complete idea.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-008",
+    "id": "ac9e1la06-er2-p-008",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 08 recognise",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly create from a picture?",
-    "audioPrompt": "Which response would correctly create from a picture?",
-    "visual": "📖 Create from a picture; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Create from a picture; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-015\"></use></svg>",
+    "question": "'Our teacher smiled.' What does the sentence tell us?",
+    "audioPrompt": "'Our teacher smiled.' What does the sentence tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-015",
-      "alt_text": "📖 Create from a picture; 🔎 full stop; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep one clear event or idea.",
-      "Leave out boundary mark.",
-      "'Mina waters the plant.' with subject and verb, capital and full stop"
+      "Only where the teacher was.",
+      "Who did something and what they did.",
+      "Only the teacher's name."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Our teacher names who; smiled tells the action.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Our teacher names who; smiled tells the action.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-p-009",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "Complete 'The children ___ in the yard.'",
+    "audioPrompt": "Complete 'The children ___ in the yard.'",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "playful",
+      "the game",
+      "play"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "'Mina waters the plant.' with subject and verb, capital and full stop This matches the task.\nHint: Keep one clear event or idea.",
+    "explanation": "Play supplies the action needed to make a complete sentence.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "'Mina waters the plant.' with subject and verb, capital and full stop This matches the task.",
-      "hint": "Keep one clear event or idea."
+      "summary": "Play supplies the action needed to make a complete sentence.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-009",
+    "id": "ac9e1la06-er2-p-010",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 09 recognise",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Why is 'Because the rain stopped' incomplete when it stands alone?",
-    "audioPrompt": "Why is 'Because the rain stopped' incomplete when it stands alone?",
-    "visual": "📖 Check an incomplete clause; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Check an incomplete clause; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-017\"></use></svg>",
+    "question": "Which repair makes 'The little boat' a complete sentence?",
+    "audioPrompt": "Which repair makes 'The little boat' a complete sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-017",
-      "alt_text": "📖 Check an incomplete clause; 🔎 who/what; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Because the rain stopped",
-      "Because signals that another idea is needed; the clause does not complete the relationship by itself",
-      "Leave out boundary mark."
+      "The little boat floated.",
+      "The very little boat.",
+      "The little blue boat."
     ],
-    "correct": 1,
-    "explanation": "Because signals that another idea is needed; the clause does not complete the relationship by itself This matches the task.\nHint: Start with a capital and end with punctuation.",
-    "structuredExplanation": {
-      "summary": "Because signals that another idea is needed; the clause does not complete the relationship by itself This matches the task.",
-      "hint": "Start with a capital and end with punctuation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-010",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 10 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match beginnings and endings?",
-    "audioPrompt": "Which response would correctly match beginnings and endings?",
-    "visual": "📖 Match beginnings and endings; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match beginnings and endings; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-019",
-      "alt_text": "📖 Match beginnings and endings; 🔎 what happened; ✅ choose with evidence"
-    },
-    "answers": [
-      "Each subject matches a grammatical meaningful predicate",
-      "Leave out the person, place or thing doing the action.",
-      "Do not keep one clear event or idea."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Each subject matches a grammatical meaningful predicate This matches the task.\nHint: Add the person, place or thing doing the action.",
+    "explanation": "Adding floated tells what the boat did; extra describing words do not complete it.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Each subject matches a grammatical meaningful predicate This matches the task.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "Adding floated tells what the boat did; extra describing words do not complete it.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-011",
+    "id": "ac9e1la06-er2-p-011",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 01 explain",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you identify a complete sentence?",
-    "audioPrompt": "Which tip would help you identify a complete sentence?",
-    "visual": "🧠 Identify a complete sentence; ➡️ Choose idea; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify a complete sentence; ➡️ Choose idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-002\"></use></svg>",
+    "question": "Which repair makes 'Jumped over the puddle' a complete statement?",
+    "audioPrompt": "Which repair makes 'Jumped over the puddle' a complete statement?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-002",
-      "alt_text": "🧠 Identify a complete sentence; ➡️ Choose idea; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep one clear event or idea.",
-      "Add the person, place or thing doing the action.",
-      "Leave out boundary mark."
+      "Jumped over the wide puddle.",
+      "The dog jumped over the puddle.",
+      "Over the deep puddle."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
+    "explanation": "The dog supplies who performed the action.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "The dog supplies who performed the action.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-012",
+    "id": "ac9e1la06-er2-p-012",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 02 explain",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match sentence parts?",
-    "audioPrompt": "Which tip would help you match sentence parts?",
-    "visual": "🧠 Match sentence parts; ➡️ Say sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match sentence parts; ➡️ Say sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-004\"></use></svg>",
+    "question": "In 'The old bus rattled along the road', which words name what rattled?",
+    "audioPrompt": "In 'The old bus rattled along the road', which words name what rattled?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-004",
-      "alt_text": "🧠 Match sentence parts; ➡️ Say sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
-      "Leave out boundary mark.",
-      "Leave out the person, place or thing doing the action."
+      "along the road",
+      "rattled along",
+      "The old bus"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.\nHint: Keep one clear event or idea.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
-      "hint": "Keep one clear event or idea."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-013",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 03 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you build one sentence?",
-    "audioPrompt": "Which tip would help you build one sentence?",
-    "visual": "🧠 Build one sentence; ➡️ Check it makes sense; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Build one sentence; ➡️ Check it makes sense; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-006",
-      "alt_text": "🧠 Build one sentence; ➡️ Check it makes sense; 💡 helpful strategy"
-    },
-    "answers": [
-      "Leave out the person, place or thing doing the action.",
-      "Do not keep one clear event or idea.",
-      "Look for complete idea and check the whole example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Look for complete idea and check the whole example.\nHint: Start with a capital and end with punctuation.",
+    "explanation": "The naming part is the old bus; the rest tells what it did and where.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for complete idea and check the whole example.",
-      "hint": "Start with a capital and end with punctuation."
+      "summary": "The naming part is the old bus; the rest tells what it did and where.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-014",
+    "id": "ac9e1la06-er2-p-013",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 04 explain",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you repair a fragment?",
-    "audioPrompt": "Which tip would help you repair a fragment?",
-    "visual": "🧠 Repair a fragment; ➡️ Add boundary punctuation; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Repair a fragment; ➡️ Add boundary punctuation; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-008\"></use></svg>",
+    "question": "'Our cat is sleepy.' Is this a complete sentence even though the cat is not moving?",
+    "audioPrompt": "'Our cat is sleepy.' Is this a complete sentence even though the cat is not moving?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-008",
-      "alt_text": "🧠 Repair a fragment; ➡️ Add boundary punctuation; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep one clear event or idea.",
-      "Check that you can use boundary punctuation.",
-      "Leave out boundary mark."
+      "Yes; it tells us a complete idea about the cat.",
+      "No; every sentence must describe running or jumping.",
+      "No; sleepy must be a person's name."
     ],
-    "correct": 1,
-    "explanation": "Check that you can use boundary punctuation.\nHint: Add the person, place or thing doing the action.",
-    "structuredExplanation": {
-      "summary": "Check that you can use boundary punctuation.",
-      "hint": "Add the person, place or thing doing the action."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-015",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 05 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order a sentence?",
-    "audioPrompt": "Which tip would help you order a sentence?",
-    "visual": "🧠 Order a sentence; ➡️ Choose idea; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a sentence; ➡️ Choose idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-010",
-      "alt_text": "🧠 Order a sentence; ➡️ Choose idea; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing words into a grammatical simple sentence.",
-      "Leave out boundary mark.",
-      "Leave out the person, place or thing doing the action."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Sequencing words into a grammatical simple sentence.\nHint: Keep one clear event or idea.",
+    "explanation": "A sentence can describe a state using is, not only a visible action.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sequencing words into a grammatical simple sentence.",
-      "hint": "Keep one clear event or idea."
+      "summary": "A sentence can describe a state using is, not only a visible action.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-016",
+    "id": "ac9e1la06-er2-p-014",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 06 explain",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw sentence meaning?",
-    "audioPrompt": "Which tip would help you draw sentence meaning?",
-    "visual": "🧠 Draw sentence meaning; ➡️ Say sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw sentence meaning; ➡️ Say sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-012\"></use></svg>",
+    "question": "Which words can stand alone as a complete sentence?",
+    "audioPrompt": "Which words can stand alone as a complete sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-012",
-      "alt_text": "🧠 Draw sentence meaning; ➡️ Say sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out the person, place or thing doing the action.",
-      "Do not keep one clear event or idea.",
-      "Start with a capital and end with punctuation."
+      "The slowly opening door.",
+      "The door opened slowly.",
+      "When the door opened."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The first states an event; the others leave the thought incomplete.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The first states an event; the others leave the thought incomplete.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-p-015",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "Which version adds where without starting a second event?",
+    "audioPrompt": "Which version adds where without starting a second event?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The bird sang. The dog barked.",
+      "The bird and the tree.",
+      "The bird sang in the tree."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Start with a capital and end with punctuation.\nHint: Start with a capital and end with punctuation.",
+    "explanation": "In the tree adds a place to the same singing event.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Start with a capital and end with punctuation.",
-      "hint": "Start with a capital and end with punctuation."
+      "summary": "In the tree adds a place to the same singing event.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-017",
+    "id": "ac9e1la06-er2-p-016",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 07 explain",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you find two events?",
-    "audioPrompt": "Which tip would help you find two events?",
-    "visual": "🧠 Find two events; ➡️ Check it makes sense; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find two events; ➡️ Check it makes sense; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-014\"></use></svg>",
+    "question": "'Because the bell rang.' Which revision stands alone as a simple sentence?",
+    "audioPrompt": "'Because the bell rang.' Which revision stands alone as a simple sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-014",
-      "alt_text": "🧠 Find two events; ➡️ Check it makes sense; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep one clear event or idea.",
-      "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
-      "Leave out boundary mark."
+      "The bell rang.",
+      "Because the loud bell rang.",
+      "When the bell rang."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.\nHint: Add the person, place or thing doing the action.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
-      "hint": "Add the person, place or thing doing the action."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-018",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 08 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you create from a picture?",
-    "audioPrompt": "Which tip would help you create from a picture?",
-    "visual": "🧠 Create from a picture; ➡️ Add boundary punctuation; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Create from a picture; ➡️ Add boundary punctuation; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-016",
-      "alt_text": "🧠 Create from a picture; ➡️ Add boundary punctuation; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for full stop and check the whole example.",
-      "Leave out boundary mark.",
-      "Leave out the person, place or thing doing the action."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Look for full stop and check the whole example.\nHint: Keep one clear event or idea.",
+    "explanation": "Removing because makes the event an independent statement.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for full stop and check the whole example.",
-      "hint": "Keep one clear event or idea."
+      "summary": "Removing because makes the event an independent statement.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-019",
+    "id": "ac9e1la06-er2-p-017",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 09 explain",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you check an incomplete clause?",
-    "audioPrompt": "Which tip would help you check an incomplete clause?",
-    "visual": "🧠 Check an incomplete clause; ➡️ Choose idea; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Check an incomplete clause; ➡️ Choose idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-018\"></use></svg>",
+    "question": "A child says 'The long green snake slid under a rock' is not simple because it has many words. What should they check?",
+    "audioPrompt": "A child says 'The long green snake slid under a rock' is not simple because it has many words. What should they check?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-018",
-      "alt_text": "🧠 Check an incomplete clause; ➡️ Choose idea; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out the person, place or thing doing the action.",
-      "Do not keep one clear event or idea.",
-      "Check that you can use boundary punctuation."
+      "Whether it names only small animals.",
+      "Whether it has one complete clause, not just its length.",
+      "Whether every word has one syllable."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "A simple sentence may include descriptions and location details within one clause.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A simple sentence may include descriptions and location details within one clause.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-p-018",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice expresses one complete event rather than two separate sentences?",
+    "audioPrompt": "Which choice expresses one complete event rather than two separate sentences?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The rabbit ate. The fox slept.",
+      "The rabbit beside the leaf.",
+      "The rabbit nibbled a leaf."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Check that you can use boundary punctuation.\nHint: Start with a capital and end with punctuation.",
+    "explanation": "The first has one complete event; the second has two, and the third is incomplete.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Check that you can use boundary punctuation.",
-      "hint": "Start with a capital and end with punctuation."
+      "summary": "The first has one complete event; the second has two, and the third is incomplete.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-020",
+    "id": "ac9e1la06-er2-p-019",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 10 explain",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match beginnings and endings?",
-    "audioPrompt": "Which tip would help you match beginnings and endings?",
-    "visual": "🧠 Match beginnings and endings; ➡️ Say sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match beginnings and endings; ➡️ Say sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-020\"></use></svg>",
+    "question": "You want one sentence about a butterfly landing. Which parts belong together?",
+    "audioPrompt": "You want one sentence about a butterfly landing. Which parts belong together?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-020",
-      "alt_text": "🧠 Match beginnings and endings; ➡️ Say sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep one clear event or idea.",
-      "Forming complete simple sentences.",
-      "Leave out boundary mark."
+      "The butterfly + landed on a flower.",
+      "The butterfly + with colourful wings.",
+      "On a flower + beside the fence."
     ],
-    "correct": 1,
-    "explanation": "Forming complete simple sentences.\nHint: Add the person, place or thing doing the action.",
-    "structuredExplanation": {
-      "summary": "Forming complete simple sentences.",
-      "hint": "Add the person, place or thing doing the action."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-021",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 01 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Identify a complete sentence; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify a complete sentence; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-001",
-      "alt_text": "📖 Identify a complete sentence; 🔎 who/what; ✅ choose with evidence"
-    },
-    "answers": [
-      "Yes; Birds names what happened and sing tells what they do",
-      "Yes; Birds names who/what and sing tells what they do",
-      "Add the person, place or thing doing the action."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "Yes; Birds names what happened and sing tells what they do is the mix-up. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
+    "explanation": "The first pair combines who or what with a complete action part.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Yes; Birds names what happened and sing tells what they do is the mix-up. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "The first pair combines who or what with a complete action part.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-022",
+    "id": "ac9e1la06-er2-p-020",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 02 discriminate",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match sentence parts; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match sentence parts; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-003\"></use></svg>",
+    "question": "'Behind the shed, a kitten waited.' Why can this be a complete sentence?",
+    "audioPrompt": "'Behind the shed, a kitten waited.' Why can this be a complete sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-003",
-      "alt_text": "📖 Match sentence parts; 🔎 what happened; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls",
-      "Dog ↔ are wet; shoes ↔ falls; rain ↔ barks",
-      "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation."
+      "The comma does all the work of completing it.",
+      "It includes a kitten and what it did, plus a place.",
+      "A place phrase automatically makes any words a sentence."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Dog ↔ are wet; shoes ↔ falls; rain ↔ barks is the mix-up. Keep one clear event or idea.\nHint: Keep one clear event or idea.",
+    "explanation": "A kitten waited is the complete core; behind the shed adds location.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Dog ↔ are wet; shoes ↔ falls; rain ↔ barks is the mix-up. Keep one clear event or idea.",
-      "hint": "Keep one clear event or idea."
+      "summary": "A kitten waited is the complete core; behind the shed adds location.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-023",
+    "id": "ac9e1la06-er2-p-021",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 03 discriminate",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Build one sentence; 🔎 complete idea; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build one sentence; 🔎 complete idea; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-005\"></use></svg>",
+    "question": "Which change adds detail but keeps the same complete event: 'The cyclist stopped'?",
+    "audioPrompt": "Which change adds detail but keeps the same complete event: 'The cyclist stopped'?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-005",
-      "alt_text": "📖 Build one sentence; 🔎 complete idea; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'The silver fish swims quickly.' with complete meaning",
-      "Look for complete idea and check the whole example.",
-      "The silver fish"
+      "The cyclist stopped. A car passed.",
+      "The tired cyclist near the gate.",
+      "The tired cyclist stopped near the gate."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "The silver fish is the mix-up. Start with a capital and end with punctuation.\nHint: Start with a capital and end with punctuation.",
+    "explanation": "The first still tells the same stopping event with extra detail.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The silver fish is the mix-up. Start with a capital and end with punctuation.",
-      "hint": "Start with a capital and end with punctuation."
+      "summary": "The first still tells the same stopping event with extra detail.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-024",
+    "id": "ac9e1la06-er2-p-022",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 04 discriminate",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Repair a fragment; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair a fragment; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-007\"></use></svg>",
+    "question": "Which choice is a simple sentence with a complete idea?",
+    "audioPrompt": "Which choice is a simple sentence with a complete idea?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-007",
-      "alt_text": "📖 Repair a fragment; 🔎 full stop; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Beside the tall tree",
-      "'A rabbit waits beside the tall tree.'",
-      "Check that you can use boundary punctuation."
+      "My shoes are wet.",
+      "My wet shoes.",
+      "Because my shoes are wet."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "Beside the tall tree is the mix-up. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
+    "explanation": "My shoes are wet can stand alone and describes a state.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Beside the tall tree is the mix-up. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "My shoes are wet can stand alone and describes a state.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-025",
+    "id": "ac9e1la06-er2-p-023",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 05 discriminate",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order a sentence; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a sentence; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-009\"></use></svg>",
+    "question": "'After lunch the class.' Which added words complete the idea?",
+    "audioPrompt": "'After lunch the class.' Which added words complete the idea?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-009",
-      "alt_text": "📖 Order a sentence; 🔎 who/what; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The bird sings softly.",
-      "Do not keep one clear event or idea.",
-      "Sequencing words into a grammatical simple sentence."
+      "with the teacher",
+      "read a story",
+      "in the room"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "Do not keep one clear event or idea. is the mix-up. Keep one clear event or idea.\nHint: Keep one clear event or idea.",
+    "explanation": "Read a story tells what the class did; the other phrases add details without a main action.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Do not keep one clear event or idea. is the mix-up. Keep one clear event or idea.",
-      "hint": "Keep one clear event or idea."
+      "summary": "Read a story tells what the class did; the other phrases add details without a main action.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-p-026",
+    "id": "ac9e1la06-er2-p-024",
     "curriculumCode": "AC9E1LA06",
     "bank": "practice",
-    "skill": "ac9e1la06 06 discriminate",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw sentence meaning; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sentence meaning; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-011\"></use></svg>",
+    "question": "A child writes 'The frog leapt' and adds 'into the water'. What happens to the sentence?",
+    "audioPrompt": "A child writes 'The frog leapt' and adds 'into the water'. What happens to the sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-011",
-      "alt_text": "📖 Draw sentence meaning; 🔎 what happened; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Drawing matches one event; puppy labelled who/what and carries sock labelled action",
-      "Start with a capital and end with punctuation.",
-      "The puppy carries a red sock"
+      "It becomes two separate sentences.",
+      "It loses its action part.",
+      "It stays complete and gains a place detail."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "The puppy carries a red sock is the mix-up. Start with a capital and end with punctuation.\nHint: Start with a capital and end with punctuation.",
+    "explanation": "Into the water tells more about the same leap.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The puppy carries a red sock is the mix-up. Start with a capital and end with punctuation.",
-      "hint": "Start with a capital and end with punctuation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-027",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find two events; 🔎 complete idea; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find two events; 🔎 complete idea; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-013",
-      "alt_text": "📖 Find two events; 🔎 complete idea; ✅ choose with evidence"
-    },
-    "answers": [
-      "The bell rang and the children ran",
-      "Bell rang; children ran",
-      "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation."
-    ],
-    "correct": 0,
-    "explanation": "The bell rang and the children ran is the mix-up. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
-    "structuredExplanation": {
-      "summary": "The bell rang and the children ran is the mix-up. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-028",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Create from a picture; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Create from a picture; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-015",
-      "alt_text": "📖 Create from a picture; 🔎 full stop; ✅ choose with evidence"
-    },
-    "answers": [
-      "'Mina waters the plant.' with subject and verb, capital and full stop",
-      "Do not keep one clear event or idea.",
-      "Look for full stop and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "Do not keep one clear event or idea. is the mix-up. Keep one clear event or idea.\nHint: Keep one clear event or idea.",
-    "structuredExplanation": {
-      "summary": "Do not keep one clear event or idea. is the mix-up. Keep one clear event or idea.",
-      "hint": "Keep one clear event or idea."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-029",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Check an incomplete clause; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Check an incomplete clause; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-017",
-      "alt_text": "📖 Check an incomplete clause; 🔎 who/what; ✅ choose with evidence"
-    },
-    "answers": [
-      "Because signals that another idea is needed; the clause does not complete the relationship by itself",
-      "Check that you can use boundary punctuation.",
-      "Because the rain stopped"
-    ],
-    "correct": 2,
-    "explanation": "Because the rain stopped is the mix-up. Start with a capital and end with punctuation.\nHint: Start with a capital and end with punctuation.",
-    "structuredExplanation": {
-      "summary": "Because the rain stopped is the mix-up. Start with a capital and end with punctuation.",
-      "hint": "Start with a capital and end with punctuation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-030",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match beginnings and endings; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match beginnings and endings; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-019",
-      "alt_text": "📖 Match beginnings and endings; 🔎 what happened; ✅ choose with evidence"
-    },
-    "answers": [
-      "Leave out the person, place or thing doing the action.",
-      "Each subject matches a grammatical meaningful predicate",
-      "Forming complete simple sentences."
-    ],
-    "correct": 0,
-    "explanation": "Leave out the person, place or thing doing the action. is the mix-up. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
-    "structuredExplanation": {
-      "summary": "Leave out the person, place or thing doing the action. is the mix-up. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-031",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Identify a complete sentence; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify a complete sentence; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-001",
-      "alt_text": "📖 Identify a complete sentence; 🔎 who/what; ✅ choose with evidence"
-    },
-    "answers": [
-      "Yes; Birds names what happened and sing tells what they do",
-      "Yes; Birds names who/what and sing tells what they do",
-      "Yes; Birds names complete idea and sing tells what they do"
-    ],
-    "correct": 1,
-    "explanation": "Yes; Birds names who/what and sing tells what they do uses the skill correctly. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
-    "structuredExplanation": {
-      "summary": "Yes; Birds names who/what and sing tells what they do uses the skill correctly. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-032",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match sentence parts; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match sentence parts; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-003",
-      "alt_text": "📖 Match sentence parts; 🔎 what happened; ✅ choose with evidence"
-    },
-    "answers": [
-      "Dog ↔ are wet; shoes ↔ falls; rain ↔ barks",
-      "Do not keep one clear event or idea.",
-      "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls"
-    ],
-    "correct": 2,
-    "explanation": "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls uses the skill correctly. Keep one clear event or idea.\nHint: Keep one clear event or idea.",
-    "structuredExplanation": {
-      "summary": "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls uses the skill correctly. Keep one clear event or idea.",
-      "hint": "Keep one clear event or idea."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-033",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Build one sentence; 🔎 complete idea; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build one sentence; 🔎 complete idea; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-005",
-      "alt_text": "📖 Build one sentence; 🔎 complete idea; ✅ choose with evidence"
-    },
-    "answers": [
-      "'The silver fish swims quickly.' with complete meaning",
-      "The silver fish",
-      "swims quickly"
-    ],
-    "correct": 0,
-    "explanation": "'The silver fish swims quickly.' with complete meaning uses the skill correctly. Start with a capital and end with punctuation.\nHint: Start with a capital and end with punctuation.",
-    "structuredExplanation": {
-      "summary": "'The silver fish swims quickly.' with complete meaning uses the skill correctly. Start with a capital and end with punctuation.",
-      "hint": "Start with a capital and end with punctuation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-034",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Repair a fragment; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair a fragment; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-007",
-      "alt_text": "📖 Repair a fragment; 🔎 full stop; ✅ choose with evidence"
-    },
-    "answers": [
-      "Beside the tall tree",
-      "'A rabbit waits beside the tall tree.'",
-      "Leave out the person, place or thing doing the action."
-    ],
-    "correct": 1,
-    "explanation": "'A rabbit waits beside the tall tree.' uses the skill correctly. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
-    "structuredExplanation": {
-      "summary": "'A rabbit waits beside the tall tree.' uses the skill correctly. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-035",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order a sentence; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a sentence; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-009",
-      "alt_text": "📖 Order a sentence; 🔎 who/what; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not keep one clear event or idea.",
-      "Leave out boundary mark.",
-      "The bird sings softly."
-    ],
-    "correct": 2,
-    "explanation": "The bird sings softly. uses the skill correctly. Keep one clear event or idea.\nHint: Keep one clear event or idea.",
-    "structuredExplanation": {
-      "summary": "The bird sings softly. uses the skill correctly. Keep one clear event or idea.",
-      "hint": "Keep one clear event or idea."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-036",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw sentence meaning; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sentence meaning; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-011",
-      "alt_text": "📖 Draw sentence meaning; 🔎 what happened; ✅ choose with evidence"
-    },
-    "answers": [
-      "Drawing matches one event; puppy labelled who/what and carries sock labelled action",
-      "The puppy carries a red sock",
-      "Leave out boundary mark."
-    ],
-    "correct": 0,
-    "explanation": "Drawing matches one event; puppy labelled who/what and carries sock labelled action uses the skill correctly. Start with a capital and end with punctuation.\nHint: Start with a capital and end with punctuation.",
-    "structuredExplanation": {
-      "summary": "Drawing matches one event; puppy labelled who/what and carries sock labelled action uses the skill correctly. Start with a capital and end with punctuation.",
-      "hint": "Start with a capital and end with punctuation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-037",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find two events; 🔎 complete idea; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find two events; 🔎 complete idea; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-013",
-      "alt_text": "📖 Find two events; 🔎 complete idea; ✅ choose with evidence"
-    },
-    "answers": [
-      "The bell rang and the children ran",
-      "Bell rang; children ran",
-      "Leave out the person, place or thing doing the action."
-    ],
-    "correct": 1,
-    "explanation": "Bell rang; children ran uses the skill correctly. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
-    "structuredExplanation": {
-      "summary": "Bell rang; children ran uses the skill correctly. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-038",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Create from a picture; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Create from a picture; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-015",
-      "alt_text": "📖 Create from a picture; 🔎 full stop; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not keep one clear event or idea.",
-      "Leave out boundary mark.",
-      "'Mina waters the plant.' with subject and verb, capital and full stop"
-    ],
-    "correct": 2,
-    "explanation": "'Mina waters the plant.' with subject and verb, capital and full stop uses the skill correctly. Keep one clear event or idea.\nHint: Keep one clear event or idea.",
-    "structuredExplanation": {
-      "summary": "'Mina waters the plant.' with subject and verb, capital and full stop uses the skill correctly. Keep one clear event or idea.",
-      "hint": "Keep one clear event or idea."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-039",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Check an incomplete clause; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Check an incomplete clause; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-017",
-      "alt_text": "📖 Check an incomplete clause; 🔎 who/what; ✅ choose with evidence"
-    },
-    "answers": [
-      "Because signals that another idea is needed; the clause does not complete the relationship by itself",
-      "Because the rain stopped",
-      "Leave out boundary mark."
-    ],
-    "correct": 0,
-    "explanation": "Because signals that another idea is needed; the clause does not complete the relationship by itself uses the skill correctly. Start with a capital and end with punctuation.\nHint: Start with a capital and end with punctuation.",
-    "structuredExplanation": {
-      "summary": "Because signals that another idea is needed; the clause does not complete the relationship by itself uses the skill correctly. Start with a capital and end with punctuation.",
-      "hint": "Start with a capital and end with punctuation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la06-p-040",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "practice",
-    "skill": "ac9e1la06 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match beginnings and endings; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match beginnings and endings; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-019",
-      "alt_text": "📖 Match beginnings and endings; 🔎 what happened; ✅ choose with evidence"
-    },
-    "answers": [
-      "Leave out the person, place or thing doing the action.",
-      "Each subject matches a grammatical meaningful predicate",
-      "Do not keep one clear event or idea."
-    ],
-    "correct": 1,
-    "explanation": "Each subject matches a grammatical meaningful predicate uses the skill correctly. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
-    "structuredExplanation": {
-      "summary": "Each subject matches a grammatical meaningful predicate uses the skill correctly. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "Into the water tells more about the same leap.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   }

@@ -3,16 +3,18 @@ on:
   push:
     branches: [main]
     paths:
-      - 'assets/assessment-banks/year1/english/ac9e1la0[12345].json'
-      - 'quiz/year-1/english/ac9e1la0[12345]/**'
+      - 'assets/assessment-banks/year1/english/ac9e1la*.json'
+      - 'assets/assessment-visuals/year1/english/ixl-review-2/**'
+      - 'quiz/year-1/english/ac9e1la*/**'
       - 'scripts/year1_english_ixl_review/**'
       - 'scripts/validate-year1-english-review.cjs'
       - 'scripts/validate_year1_english_student_facing.mjs'
       - '.github/workflows/validate-year1-english-reviewed-banks.yml'
   pull_request:
     paths:
-      - 'assets/assessment-banks/year1/english/ac9e1la0[12345].json'
-      - 'quiz/year-1/english/ac9e1la0[12345]/**'
+      - 'assets/assessment-banks/year1/english/ac9e1la*.json'
+      - 'assets/assessment-visuals/year1/english/ixl-review-2/**'
+      - 'quiz/year-1/english/ac9e1la*/**'
       - 'scripts/year1_english_ixl_review/**'
       - 'scripts/validate-year1-english-review.cjs'
       - 'scripts/validate_year1_english_student_facing.mjs'
@@ -30,7 +32,9 @@ jobs:
       - name: Install test-only DOM dependency
         run: npm install --prefix "$RUNNER_TEMP/english-bank-qa" --no-audit --no-fund jsdom@26.1.0
       - name: Check reviewed Practice and Test journeys
-        run: NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs
+        run: |
+          NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs
+          NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs --batch2
       - name: Check Year 1 English and review ledger
         run: |
           node scripts/validate_year1_english_student_facing.mjs

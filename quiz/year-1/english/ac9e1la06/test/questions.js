@@ -1,14 +1,14 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e1la06-t-001",
+    "id": "ac9e1la06-er2-t-001",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which is a complete sentence?",
-    "audioPrompt": "Which is a complete sentence?",
+    "question": "Which words form a complete sentence?",
+    "audioPrompt": "Which words form a complete sentence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,29 +16,61 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The frog.",
-      "The frog runs.",
-      "Very fast."
+      "The balloon burst.",
+      "The round balloon.",
+      "Above the balloon."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Burst completes an event about the balloon.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Burst completes an event about the balloon.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-t-002",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "test",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "In 'My sister laughed', which words name who laughed?",
+    "audioPrompt": "In 'My sister laughed', which words name who laughed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "sister laughed",
+      "My sister",
+      "laughed"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "The frog runs. is the best answer.",
+    "explanation": "My sister is the naming part of the sentence.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The frog runs. is the best answer."
+      "summary": "My sister is the naming part of the sentence.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-t-002",
+    "id": "ac9e1la06-er2-t-003",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Finish the sentence: “Max …”",
-    "audioPrompt": "Finish the sentence: “Max …”",
+    "question": "In 'The soup is hot', which word links the soup to its state?",
+    "audioPrompt": "In 'The soup is hot', which word links the soup to its state?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,29 +78,92 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "at the zoo.",
-      "jumps at the zoo.",
-      "and the."
+      "soup",
+      "hot",
+      "is"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Is links the naming part to the description hot.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Is links the naming part to the description hot.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-t-004",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "test",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "Finish 'A tiny seed ___.' with a complete action part.",
+    "audioPrompt": "Finish 'A tiny seed ___.' with a complete action part.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "sprouted",
+      "in the soil",
+      "small and brown"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Sprouted tells what happened to the seed.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Sprouted tells what happened to the seed.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-t-005",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "test",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "Which beginning completes '___ rolled across the floor'?",
+    "audioPrompt": "Which beginning completes '___ rolled across the floor'?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Very round",
+      "A marble",
+      "Across"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "jumps at the zoo. is the best answer.",
+    "explanation": "A marble supplies what rolled.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "jumps at the zoo. is the best answer."
+      "summary": "A marble supplies what rolled.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-t-003",
+    "id": "ac9e1la06-er2-t-006",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Who does the action in “The fish sleeps”?",
-    "audioPrompt": "Who does the action in “The fish sleeps”?",
+    "question": "How can you complete 'The empty nest' as a sentence?",
+    "audioPrompt": "How can you complete 'The empty nest' as a sentence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -76,29 +171,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sleeps",
-      "no one",
-      "the fish"
+      "The large empty nest.",
+      "The empty nest in the tree.",
+      "The empty nest fell."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "the fish is the best answer.",
+    "explanation": "Fell adds what happened, rather than just more description.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "the fish is the best answer."
+      "summary": "Fell adds what happened, rather than just more description.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-t-004",
+    "id": "ac9e1la06-er2-t-007",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "What happens in “Ben sings”?",
-    "audioPrompt": "What happens in “Ben sings”?",
+    "question": "Which statement tells who made the sound and what happened?",
+    "audioPrompt": "Which statement tells who made the sound and what happened?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -106,59 +202,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ben is a place.",
-      "Nothing happens.",
-      "Ben sings."
+      "A branch cracked.",
+      "A branch above us.",
+      "The loud cracking sound."
     ],
-    "correct": 2,
-    "explanation": "Ben sings. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Ben sings. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1la06-t-005",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence tells one idea?",
-    "audioPrompt": "Which sentence tells one idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Sam has a sock.",
-      "Has a sock.",
-      "Sam and a sock."
-    ],
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Sam has a sock. is the best answer.",
+    "explanation": "A branch cracked gives both what and an event.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sam has a sock. is the best answer."
+      "summary": "A branch cracked gives both what and an event.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-t-006",
+    "id": "ac9e1la06-er2-t-008",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which words make a sentence?",
-    "audioPrompt": "Which words make a sentence?",
+    "question": "'When the bus arrived.' Why does this feel unfinished as a sentence on its own?",
+    "audioPrompt": "'When the bus arrived.' Why does this feel unfinished as a sentence on its own?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -166,119 +233,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The dog is little.",
-      "little the dog",
-      "is little"
+      "Arrived cannot describe an event.",
+      "When makes us expect what happened at that time.",
+      "It has no word naming a vehicle."
     ],
-    "correct": 0,
-    "explanation": "The dog is little. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The dog is little. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1la06-t-007",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
-    "printable": true,
-    "type": "single",
-    "question": "Choose the sentence with a person and an action.",
-    "audioPrompt": "Choose the sentence with a person and an action.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Very big.",
-      "The school.",
-      "Ava eats."
-    ],
-    "correct": 2,
-    "explanation": "Ava eats. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Ava eats. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1la06-t-008",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence is complete?",
-    "audioPrompt": "Which sentence is complete?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Is a bag.",
-      "My blue.",
-      "My bag is blue."
-    ],
-    "correct": 2,
-    "explanation": "My bag is blue. is the best answer.",
-    "structuredExplanation": {
-      "summary": "My bag is blue. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1la06-t-009",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
-    "printable": true,
-    "type": "single",
-    "question": "Which is a complete sentence?",
-    "audioPrompt": "Which is a complete sentence?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Very fast.",
-      "The fish runs.",
-      "The fish."
-    ],
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "The fish runs. is the best answer.",
+    "explanation": "The opening when leaves a time clause waiting for a main idea.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The fish runs. is the best answer."
+      "summary": "The opening when leaves a time clause waiting for a main idea.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-t-010",
+    "id": "ac9e1la06-er2-t-009",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Finish the sentence: “Mia …”",
-    "audioPrompt": "Finish the sentence: “Mia …”",
+    "question": "Which choice adds how to the same event: 'The turtle moved'?",
+    "audioPrompt": "Which choice adds how to the same event: 'The turtle moved'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +264,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "and the.",
-      "at the school.",
-      "jumps at the school."
+      "The turtle moved. A fish splashed.",
+      "The slow turtle.",
+      "The turtle moved slowly."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "jumps at the school. is the best answer.",
+    "explanation": "Slowly adds detail about the movement without a second event.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "jumps at the school. is the best answer."
+      "summary": "Slowly adds detail about the movement without a second event.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-t-011",
+    "id": "ac9e1la06-er2-t-010",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Who does the action in “The cat sleeps”?",
-    "audioPrompt": "Who does the action in “The cat sleeps”?",
+    "question": "A writer needs a complete sentence describing a state. Which fits?",
+    "audioPrompt": "A writer needs a complete sentence describing a state. Which fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,89 +295,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "no one",
-      "sleeps",
-      "the cat"
+      "The room is quiet.",
+      "The quiet room.",
+      "In the quiet room."
     ],
-    "correct": 2,
-    "explanation": "the cat is the best answer.",
-    "structuredExplanation": {
-      "summary": "the cat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 11
-  },
-  {
-    "id": "ac9e1la06-t-012",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
-    "printable": true,
-    "type": "single",
-    "question": "What happens in “Sam sings”?",
-    "audioPrompt": "What happens in “Sam sings”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Sam is a place.",
-      "Nothing happens.",
-      "Sam sings."
-    ],
-    "correct": 2,
-    "explanation": "Sam sings. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Sam sings. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1la06-t-013",
-    "curriculumCode": "AC9E1LA06",
-    "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence tells one idea?",
-    "audioPrompt": "Which sentence tells one idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Kim has a bag.",
-      "Kim and a bag.",
-      "Has a bag."
-    ],
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Kim has a bag. is the best answer.",
+    "explanation": "The room is quiet is a complete statement about how the room is.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Kim has a bag. is the best answer."
+      "summary": "The room is quiet is a complete statement about how the room is.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-t-014",
+    "id": "ac9e1la06-er2-t-011",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which words make a sentence?",
-    "audioPrompt": "Which words make a sentence?",
+    "question": "Join the parts that make a complete idea about a train.",
+    "audioPrompt": "Join the parts that make a complete idea about a train.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +326,92 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The fox is little.",
-      "is little",
-      "little the fox"
+      "At the station + beside the train.",
+      "The train + stopped at the station.",
+      "The train + near the station."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Stopped at the station supplies the complete action part.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Stopped at the station supplies the complete action part.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-t-012",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "test",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "'In the morning, Dad watered the herbs.' What is the complete core idea?",
+    "audioPrompt": "'In the morning, Dad watered the herbs.' What is the complete core idea?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "In the morning.",
+      "The herbs in the morning.",
+      "Dad watered the herbs."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The time phrase adds detail to the complete idea about Dad's action.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The time phrase adds detail to the complete idea about Dad's action.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-t-013",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "test",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "Which repair keeps the topic and completes 'The children near the sandpit'?",
+    "audioPrompt": "Which repair keeps the topic and completes 'The children near the sandpit'?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The children near the sandpit waved.",
+      "The happy children near the sandpit.",
+      "Near the sandy sandpit."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "The fox is little. is the best answer.",
+    "explanation": "Waved tells what the children did; more description alone does not complete the statement.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The fox is little. is the best answer."
+      "summary": "Waved tells what the children did; more description alone does not complete the statement.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-t-015",
+    "id": "ac9e1la06-er2-t-014",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Choose the sentence with a person and an action.",
-    "audioPrompt": "Choose the sentence with a person and an action.",
+    "question": "A sentence has eleven words but only one complete clause. Can it still be a simple sentence?",
+    "audioPrompt": "A sentence has eleven words but only one complete clause. Can it still be a simple sentence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +419,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The shop.",
-      "Very big.",
-      "Leo eats."
+      "No; every added detail creates a new clause.",
+      "Yes; simple refers to its clause structure.",
+      "No; simple sentences must have exactly two words."
     ],
-    "correct": 2,
-    "explanation": "Leo eats. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Leo eats. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 15
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Length alone does not decide whether a sentence is simple.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Length alone does not decide whether a sentence is simple.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la06-t-016",
+    "id": "ac9e1la06-er2-t-015",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "skill": "complete simple sentences and their parts",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is complete?",
-    "audioPrompt": "Which sentence is complete?",
+    "question": "Which option contains two complete sentences rather than one?",
+    "audioPrompt": "Which option contains two complete sentences rather than one?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,18 +450,52 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "My blue.",
-      "Is a ball.",
-      "My ball is blue."
+      "The wind blew through the gate.",
+      "The windy afternoon.",
+      "The wind blew. The gate swung."
     ],
-    "correct": 2,
-    "explanation": "My ball is blue. is the best answer.",
-    "structuredExplanation": {
-      "summary": "My ball is blue. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 16
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "The first has two separate complete statements.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The first has two separate complete statements.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la06-er2-t-016",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "test",
+    "skill": "complete simple sentences and their parts",
+    "printable": true,
+    "type": "single",
+    "question": "You add 'under the bench' to 'The puppy slept'. What does the added phrase do?",
+    "audioPrompt": "You add 'under the bench' to 'The puppy slept'. What does the added phrase do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Adds a place to the same sleeping event.",
+      "Adds a second animal doing a new action.",
+      "Removes the complete idea."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "The sentence still has one complete event, now with a location.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The sentence still has one complete event, now with a location.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;
