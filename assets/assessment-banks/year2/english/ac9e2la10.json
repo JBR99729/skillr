@@ -35,7 +35,12 @@
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: The, Lost, Puppy. There are no commas. The text reads: The Lost Puppy",
+      "There are no capital words. There are no commas. The text reads: the lost puppy",
+      "Capital words: The. There are no commas. The text reads: The lost puppy"
+    ]
   },
   {
     "id": "AC9E2LA10-P-002",
@@ -73,7 +78,12 @@
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We bought apples pears and grapes.",
+      "Capital words: We. Commas come after: apples. The text ends with a full stop. The text reads: We bought apples, pears and grapes.",
+      "Capital words: We. Commas come after: We, bought. The text ends with a full stop. The text reads: We, bought, apples pears and grapes."
+    ]
   },
   {
     "id": "AC9E2LA10-P-003",
@@ -111,7 +121,12 @@
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "There are no capital words. There are no commas. The text reads: a trip to the moon",
+      "Capital words: A, To, The. There are no commas. The text reads: A trip To The moon",
+      "Capital words: A, Trip, Moon. There are no commas. The text reads: A Trip to the Moon"
+    ]
   },
   {
     "id": "AC9E2LA10-P-004",
@@ -149,7 +164,12 @@
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. Commas come after: hats, water. The text ends with a full stop. The text reads: We packed hats, water, snacks and towels.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We packed hats water snacks and towels.",
+      "Capital words: We. Commas come after: packed, hats. The text ends with a full stop. The text reads: We packed, hats, water snacks and towels."
+    ]
   },
   {
     "id": "AC9E2LA10-P-005",
@@ -187,7 +207,12 @@
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: farmyard friends — cows ducks and goats",
+      "Capital words: Farmyard, Friends. Commas come after: cows. There is a dash between the title and the list. The text reads: Farmyard Friends — cows, ducks and goats",
+      "Capital words: Farmyard. Commas come after: cows, ducks, and. There is a dash between the title and the list. The text reads: Farmyard friends — cows, ducks, and, goats"
+    ]
   },
   {
     "id": "AC9E2LA10-P-006",
@@ -225,7 +250,12 @@
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: On. Commas come after: On, desk. The text ends with a full stop. The text reads: On, the desk, were pencils rulers and glue.",
+      "Capital words: On. Commas come after: rulers. The text ends with a full stop. The text reads: On the desk were pencils rulers, and glue.",
+      "Capital words: On. Commas come after: pencils. The text ends with a full stop. The text reads: On the desk were pencils, rulers and glue."
+    ]
   },
   {
     "id": "AC9E2LA10-P-007",
@@ -263,7 +293,12 @@
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Life, Reef. There are no commas. The text reads: Life on the Reef",
+      "There are no capital words. There are no commas. The text reads: life on the reef",
+      "Capital words: Life, On, The. There are no commas. The text reads: Life On The reef"
+    ]
   },
   {
     "id": "AC9E2LA10-P-008",
@@ -301,7 +336,12 @@
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Our, Ava, Ben, Kai, Mia. There are no commas. The text ends with a full stop. The text reads: Our team has Ava Ben Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Ava, Ben. The text ends with a full stop. The text reads: Our team has Ava, Ben, Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Our, Ava, Kai. The text ends with a full stop. The text reads: Our, team has Ava, Ben Kai, and Mia."
+    ]
   },
   {
     "id": "AC9E2LA10-P-009",
@@ -339,7 +379,12 @@
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 9,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "There are no capital words. There are no commas. The text reads: the night train",
+      "Capital words: The. There are no commas. The text reads: The night train",
+      "Capital words: The, Night, Train. There are no commas. The text reads: The Night Train"
+    ]
   },
   {
     "id": "AC9E2LA10-P-010",
@@ -377,7 +422,12 @@
     "difficulty": 1,
     "difficulty_tier": "confidence",
     "sequence_priority": 10,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. Commas come after: birds. The text ends with a full stop. The text reads: We will sketch birds, label plants and photograph insects.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will sketch birds label plants and photograph insects.",
+      "Capital words: We. Commas come after: will, birds, plants. The text ends with a full stop. The text reads: We will, sketch birds, label plants, and photograph insects."
+    ]
   },
   {
     "id": "AC9E2LA10-P-011",
@@ -795,7 +845,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 21,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: A, Trip, Moon. There are no commas. The text reads: A Trip to the Moon",
+      "Capital words: A, To, The. There are no commas. The text reads: A trip To The moon",
+      "There are no capital words. There are no commas. The text reads: a trip to the moon"
+    ]
   },
   {
     "id": "AC9E2LA10-P-022",
@@ -833,7 +888,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 22,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We packed hats water snacks and towels.",
+      "Capital words: We. Commas come after: hats, water. The text ends with a full stop. The text reads: We packed hats, water, snacks and towels.",
+      "Capital words: We. Commas come after: packed, hats. The text ends with a full stop. The text reads: We packed, hats, water snacks and towels."
+    ]
   },
   {
     "id": "AC9E2LA10-P-023",
@@ -871,7 +931,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 23,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Farmyard, Friends. Commas come after: cows. There is a dash between the title and the list. The text reads: Farmyard Friends — cows, ducks and goats",
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: farmyard friends — cows ducks and goats",
+      "Capital words: Farmyard. Commas come after: cows, ducks, and. There is a dash between the title and the list. The text reads: Farmyard friends — cows, ducks, and, goats"
+    ]
   },
   {
     "id": "AC9E2LA10-P-024",
@@ -909,7 +974,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 24,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: On. Commas come after: pencils. The text ends with a full stop. The text reads: On the desk were pencils, rulers and glue.",
+      "Capital words: On. Commas come after: rulers. The text ends with a full stop. The text reads: On the desk were pencils rulers, and glue.",
+      "Capital words: On. Commas come after: On, desk. The text ends with a full stop. The text reads: On, the desk, were pencils rulers and glue."
+    ]
   },
   {
     "id": "AC9E2LA10-P-025",
@@ -947,7 +1017,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 25,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "There are no capital words. There are no commas. The text reads: life on the reef",
+      "Capital words: Life, Reef. There are no commas. The text reads: Life on the Reef",
+      "Capital words: Life, On, The. There are no commas. The text reads: Life On The reef"
+    ]
   },
   {
     "id": "AC9E2LA10-P-026",
@@ -985,7 +1060,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 26,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Ava, Ben. The text ends with a full stop. The text reads: Our team has Ava, Ben, Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. There are no commas. The text ends with a full stop. The text reads: Our team has Ava Ben Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Our, Ava, Kai. The text ends with a full stop. The text reads: Our, team has Ava, Ben Kai, and Mia."
+    ]
   },
   {
     "id": "AC9E2LA10-P-027",
@@ -1023,7 +1103,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 27,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: The, Night, Train. There are no commas. The text reads: The Night Train",
+      "Capital words: The. There are no commas. The text reads: The night train",
+      "There are no capital words. There are no commas. The text reads: the night train"
+    ]
   },
   {
     "id": "AC9E2LA10-P-028",
@@ -1061,7 +1146,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 28,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will sketch birds label plants and photograph insects.",
+      "Capital words: We. Commas come after: birds. The text ends with a full stop. The text reads: We will sketch birds, label plants and photograph insects.",
+      "Capital words: We. Commas come after: will, birds, plants. The text ends with a full stop. The text reads: We will, sketch birds, label plants, and photograph insects."
+    ]
   },
   {
     "id": "AC9E2LA10-P-029",
@@ -1099,7 +1189,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 29,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Sam, Sea, Dragon. There are no commas. The text reads: Sam and the Sea Dragon",
+      "There are no capital words. There are no commas. The text reads: sam and the sea dragon",
+      "Capital words: Sam, And, The, Dragon. There are no commas. The text reads: Sam And The sea Dragon"
+    ]
   },
   {
     "id": "AC9E2LA10-P-030",
@@ -1137,7 +1232,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 30,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Bring. Commas come after: paper, paint, brushes. The text ends with a full stop. The text reads: Bring paper, paint, brushes, tape and string.",
+      "Capital words: Bring. Commas come after: paper, brushes, and. The text ends with a full stop. The text reads: Bring paper, paint brushes, tape and, string.",
+      "Capital words: Bring. There are no commas. The text ends with a full stop. The text reads: Bring paper paint brushes tape and string."
+    ]
   },
   {
     "id": "AC9E2LA10-P-031",
@@ -1175,7 +1275,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 31,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: A, Trip, Moon. There are no commas. The text reads: A Trip to the Moon",
+      "Capital words: A, To, The. There are no commas. The text reads: A trip To The moon",
+      "There are no capital words. There are no commas. The text reads: a trip to the moon"
+    ]
   },
   {
     "id": "AC9E2LA10-P-032",
@@ -1213,7 +1318,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 32,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. Commas come after: packed, hats. The text ends with a full stop. The text reads: We packed, hats, water snacks and towels.",
+      "Capital words: We. Commas come after: hats, water. The text ends with a full stop. The text reads: We packed hats, water, snacks and towels.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We packed hats water snacks and towels."
+    ]
   },
   {
     "id": "AC9E2LA10-P-033",
@@ -1251,7 +1361,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 33,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Farmyard. Commas come after: cows, ducks, and. There is a dash between the title and the list. The text reads: Farmyard friends — cows, ducks, and, goats",
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: farmyard friends — cows ducks and goats",
+      "Capital words: Farmyard, Friends. Commas come after: cows. There is a dash between the title and the list. The text reads: Farmyard Friends — cows, ducks and goats"
+    ]
   },
   {
     "id": "AC9E2LA10-P-034",
@@ -1289,7 +1404,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 34,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: On. Commas come after: pencils. The text ends with a full stop. The text reads: On the desk were pencils, rulers and glue.",
+      "Capital words: On. Commas come after: rulers. The text ends with a full stop. The text reads: On the desk were pencils rulers, and glue.",
+      "Capital words: On. Commas come after: On, desk. The text ends with a full stop. The text reads: On, the desk, were pencils rulers and glue."
+    ]
   },
   {
     "id": "AC9E2LA10-P-035",
@@ -1327,7 +1447,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 35,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Life, On, The. There are no commas. The text reads: Life On The reef",
+      "Capital words: Life, Reef. There are no commas. The text reads: Life on the Reef",
+      "There are no capital words. There are no commas. The text reads: life on the reef"
+    ]
   },
   {
     "id": "AC9E2LA10-P-036",
@@ -1365,7 +1490,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 36,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Our, Ava, Kai. The text ends with a full stop. The text reads: Our, team has Ava, Ben Kai, and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. There are no commas. The text ends with a full stop. The text reads: Our team has Ava Ben Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Ava, Ben. The text ends with a full stop. The text reads: Our team has Ava, Ben, Kai and Mia."
+    ]
   },
   {
     "id": "AC9E2LA10-P-037",
@@ -1403,7 +1533,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 37,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: The, Night, Train. There are no commas. The text reads: The Night Train",
+      "Capital words: The. There are no commas. The text reads: The night train",
+      "There are no capital words. There are no commas. The text reads: the night train"
+    ]
   },
   {
     "id": "AC9E2LA10-P-038",
@@ -1441,7 +1576,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 38,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. Commas come after: will, birds, plants. The text ends with a full stop. The text reads: We will, sketch birds, label plants, and photograph insects.",
+      "Capital words: We. Commas come after: birds. The text ends with a full stop. The text reads: We will sketch birds, label plants and photograph insects.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will sketch birds label plants and photograph insects."
+    ]
   },
   {
     "id": "AC9E2LA10-P-039",
@@ -1479,7 +1619,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 39,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Sam, And, The, Dragon. There are no commas. The text reads: Sam And The sea Dragon",
+      "There are no capital words. There are no commas. The text reads: sam and the sea dragon",
+      "Capital words: Sam, Sea, Dragon. There are no commas. The text reads: Sam and the Sea Dragon"
+    ]
   },
   {
     "id": "AC9E2LA10-P-040",
@@ -1517,7 +1662,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 40,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Bring. Commas come after: paper, paint, brushes. The text ends with a full stop. The text reads: Bring paper, paint, brushes, tape and string.",
+      "Capital words: Bring. Commas come after: paper, brushes, and. The text ends with a full stop. The text reads: Bring paper, paint brushes, tape and, string.",
+      "Capital words: Bring. There are no commas. The text ends with a full stop. The text reads: Bring paper paint brushes tape and string."
+    ]
   },
   {
     "id": "AC9E2LA10-T-001",
@@ -1555,7 +1705,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 1,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Under, Old, Bridge. There are no commas. The text reads: Under the Old Bridge",
+      "There are no capital words. There are no commas. The text reads: under the old bridge",
+      "Capital words: Under, The. There are no commas. The text reads: Under The old bridge"
+    ]
   },
   {
     "id": "AC9E2LA10-T-002",
@@ -1593,7 +1748,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 2,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We need a cup soil seeds and water.",
+      "Capital words: We. Commas come after: cup, soil. The text ends with a full stop. The text reads: We need a cup, soil, seeds and water.",
+      "Capital words: We. Commas come after: need, cup, seeds. The text ends with a full stop. The text reads: We need, a cup, soil seeds, and water."
+    ]
   },
   {
     "id": "AC9E2LA10-T-003",
@@ -1631,7 +1791,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 3,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will play games make masks and sing songs.",
+      "Capital words: We. Commas come after: will, games, masks. The text ends with a full stop. The text reads: We will, play games, make masks, and sing songs.",
+      "Capital words: We. Commas come after: games. The text ends with a full stop. The text reads: We will play games, make masks and sing songs."
+    ]
   },
   {
     "id": "AC9E2LA10-T-004",
@@ -1669,7 +1834,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 4,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Journey, Red, Centre. There are no commas. The text reads: Journey to the Red Centre",
+      "There are no capital words. There are no commas. The text reads: journey to the red centre",
+      "Capital words: Journey, To, The, Centre. There are no commas. The text reads: Journey To The red Centre"
+    ]
   },
   {
     "id": "AC9E2LA10-T-005",
@@ -1707,7 +1877,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 5,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We saw bread cheese flowers and honey at the market.",
+      "Capital words: We. Commas come after: bread, cheese. The text ends with a full stop. The text reads: We saw bread, cheese, flowers and honey at the market.",
+      "Capital words: We. Commas come after: saw, bread, flowers. The text ends with a full stop. The text reads: We saw, bread, cheese flowers, and honey at the market."
+    ]
   },
   {
     "id": "AC9E2LA10-T-006",
@@ -1745,7 +1920,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 6,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: my weekend at the farm — horses sheep hens and pigs",
+      "Capital words: My, At, The. Commas come after: horses, hens. There is a dash between the title and the list. The text reads: My weekend At The farm — horses, sheep hens, and pigs",
+      "Capital words: My, Weekend, Farm. Commas come after: horses, sheep. There is a dash between the title and the list. The text reads: My Weekend at the Farm — horses, sheep, hens and pigs"
+    ]
   },
   {
     "id": "AC9E2LA10-T-007",
@@ -1783,7 +1963,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 7,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Across, Wide, River. There are no commas. The text reads: Across the Wide River",
+      "There are no capital words. There are no commas. The text reads: across the wide river",
+      "Capital words: Across, The, River. There are no commas. The text reads: Across The wide River"
+    ]
   },
   {
     "id": "AC9E2LA10-T-008",
@@ -1821,7 +2006,12 @@
     "difficulty": 3,
     "difficulty_tier": "application",
     "sequence_priority": 8,
-    "quality_schema": "student-facing-v3"
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: The. There are no commas. The text ends with a full stop. The text reads: The flag is red white and blue.",
+      "Capital words: The. Commas come after: red. The text ends with a full stop. The text reads: The flag is red, white and blue.",
+      "Capital words: The. Commas come after: flag, red, white. The text ends with a full stop. The text reads: The flag, is red, white, and blue."
+    ]
   },
   {
     "id": "AC9E2LA10-T-009",

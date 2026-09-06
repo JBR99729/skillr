@@ -29,7 +29,12 @@ window.skillrTestQuestions = [
       "summary": "Under, Old and Bridge are important title words and begin with capitals in this style.",
       "hint": "Capitalise the opening and main meaning words while keeping the small word the lower-case."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Under, Old, Bridge. There are no commas. The text reads: Under the Old Bridge",
+      "There are no capital words. There are no commas. The text reads: under the old bridge",
+      "Capital words: Under, The. There are no commas. The text reads: Under The old bridge"
+    ]
   },
   {
     "id": "ac9e2la10-t-002",
@@ -60,7 +65,12 @@ window.skillrTestQuestions = [
       "summary": "Commas separate cup, soil and seeds before the final item water.",
       "hint": "Identify each separate material, then punctuate the gaps between items."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We need a cup soil seeds and water.",
+      "Capital words: We. Commas come after: cup, soil. The text ends with a full stop. The text reads: We need a cup, soil, seeds and water.",
+      "Capital words: We. Commas come after: need, cup, seeds. The text ends with a full stop. The text reads: We need, a cup, soil seeds, and water."
+    ]
   },
   {
     "id": "ac9e2la10-t-003",
@@ -91,7 +101,12 @@ window.skillrTestQuestions = [
       "summary": "A comma separates the first activity from the second, and and introduces the final activity.",
       "hint": "Treat each whole activity as one list item."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will play games make masks and sing songs.",
+      "Capital words: We. Commas come after: will, games, masks. The text ends with a full stop. The text reads: We will, play games, make masks, and sing songs.",
+      "Capital words: We. Commas come after: games. The text ends with a full stop. The text reads: We will play games, make masks and sing songs."
+    ]
   },
   {
     "id": "ac9e2la10-t-004",
@@ -122,7 +137,12 @@ window.skillrTestQuestions = [
       "summary": "Journey, Red and Centre are important title words; to and the stay lower-case in this style.",
       "hint": "Find the main topic words and avoid capitalising every short joining word."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Journey, Red, Centre. There are no commas. The text reads: Journey to the Red Centre",
+      "There are no capital words. There are no commas. The text reads: journey to the red centre",
+      "Capital words: Journey, To, The, Centre. There are no commas. The text reads: Journey To The red Centre"
+    ]
   },
   {
     "id": "ac9e2la10-t-005",
@@ -153,7 +173,12 @@ window.skillrTestQuestions = [
       "summary": "The list commas separate bread, cheese, flowers and honey; the sentence ends with a full stop.",
       "hint": "Focus on the four things seen and keep commas between those items."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We saw bread cheese flowers and honey at the market.",
+      "Capital words: We. Commas come after: bread, cheese. The text ends with a full stop. The text reads: We saw bread, cheese, flowers and honey at the market.",
+      "Capital words: We. Commas come after: saw, bread, flowers. The text ends with a full stop. The text reads: We saw, bread, cheese flowers, and honey at the market."
+    ]
   },
   {
     "id": "ac9e2la10-t-006",
@@ -184,7 +209,12 @@ window.skillrTestQuestions = [
       "summary": "Important title words use capitals, while commas separate the four animals.",
       "hint": "Check the title and list as two separate editing jobs."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: my weekend at the farm — horses sheep hens and pigs",
+      "Capital words: My, At, The. Commas come after: horses, hens. There is a dash between the title and the list. The text reads: My weekend At The farm — horses, sheep hens, and pigs",
+      "Capital words: My, Weekend, Farm. Commas come after: horses, sheep. There is a dash between the title and the list. The text reads: My Weekend at the Farm — horses, sheep, hens and pigs"
+    ]
   },
   {
     "id": "ac9e2la10-t-007",
@@ -215,7 +245,12 @@ window.skillrTestQuestions = [
       "summary": "Across, Wide and River are important title words; the stays lower-case.",
       "hint": "Capitalise the first and main meaning words, not every small word."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: Across, Wide, River. There are no commas. The text reads: Across the Wide River",
+      "There are no capital words. There are no commas. The text reads: across the wide river",
+      "Capital words: Across, The, River. There are no commas. The text reads: Across The wide River"
+    ]
   },
   {
     "id": "ac9e2la10-t-008",
@@ -246,7 +281,12 @@ window.skillrTestQuestions = [
       "summary": "A comma separates red from white, and and introduces the final colour blue.",
       "hint": "The list begins after is, so place punctuation between the colours only."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "audioAnswers": [
+      "Capital words: The. There are no commas. The text ends with a full stop. The text reads: The flag is red white and blue.",
+      "Capital words: The. Commas come after: red. The text ends with a full stop. The text reads: The flag is red, white and blue.",
+      "Capital words: The. Commas come after: flag, red, white. The text ends with a full stop. The text reads: The flag, is red, white, and blue."
+    ]
   },
   {
     "id": "ac9e2la10-t-009",

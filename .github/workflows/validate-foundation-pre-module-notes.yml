@@ -12,9 +12,12 @@ on:
       - "quiz/grade-k/math/**/test/questions.js"
       - "quiz/grade-k/math/**/worksheet/**"
       - "assets/foundation-*.js"
+      - "foundation/english/**/index.html"
       - "scripts/validate_foundation_maths_pre_module_notes.mjs"
       - "scripts/validate_foundation_maths_pre_module_flow.mjs"
       - "scripts/validate_foundation_v11.mjs"
+      - "scripts/lib/static-curriculum-coverage.mjs"
+      - "scripts/tests/content-validation.test.mjs"
       - "scripts/validate_foundation_classroom_rollout.mjs"
       - "scripts/validate_pre_module_flow.mjs"
       - "scripts/validate_curriculum_read_aloud.mjs"
@@ -33,9 +36,12 @@ on:
       - "quiz/grade-k/math/**/test/questions.js"
       - "quiz/grade-k/math/**/worksheet/**"
       - "assets/foundation-*.js"
+      - "foundation/english/**/index.html"
       - "scripts/validate_foundation_maths_pre_module_notes.mjs"
       - "scripts/validate_foundation_maths_pre_module_flow.mjs"
       - "scripts/validate_foundation_v11.mjs"
+      - "scripts/lib/static-curriculum-coverage.mjs"
+      - "scripts/tests/content-validation.test.mjs"
       - "scripts/validate_foundation_classroom_rollout.mjs"
       - "scripts/validate_pre_module_flow.mjs"
       - "scripts/validate_curriculum_read_aloud.mjs"
@@ -72,6 +78,9 @@ jobs:
 
       - name: Validate read-aloud compatibility
         run: node scripts/validate_curriculum_read_aloud.mjs
+
+      - name: Check content validation regressions
+        run: node --test scripts/tests/content-validation.test.mjs
 
       - name: Re-run Foundation canonical release gates
         run: |

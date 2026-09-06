@@ -7,6 +7,7 @@ import { LA123_ITEMS } from "./year2_english_items_la123.mjs";
 import { LA_ITEMS } from "./year2_english_items_la.mjs";
 import { LE_ITEMS } from "./year2_english_items_le.mjs";
 import { LY_ITEMS } from "./year2_english_items_ly.mjs";
+import { editingChoiceSpeech, updateStudentFacingPracticeCopy } from "./lib/year2-english-bank.mjs";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const BANK_ROOT = path.join(ROOT, "assets", "assessment-banks", "year2", "english");
@@ -72,6 +73,7 @@ function make(code, unit, bank, stage, number, source, kind, sourceIndex) {
   } else throw new Error(`Unknown kind ${kind}`);
 
   const correctIndex = (number + codes.indexOf(code)) % 3;
+  const answers = orderedAnswers(correct,wrong,correctIndex);
   return {
     id:`${code}-${bank === "practice" ? "P" : "T"}-${String(number+1).padStart(3,"0")}`,
     subject:"english",
@@ -83,7 +85,8 @@ function make(code, unit, bank, stage, number, source, kind, sourceIndex) {
     question,
     audio_prompt:question,
     visual:{type:"none",alt_text:""},
-    answers:orderedAnswers(correct,wrong,correctIndex),
+    answers,
+    ...(code === "AC9E2LA10" && ["direct", "discriminate", "apply"].includes(kind) ? {audio_answers:answers.map((answer)=>editingChoiceSpeech(answer.text))} : {}),
     correct_index:correctIndex,
     explanation:{summary,hint},
     difficulty:stage === "recognise" ? 1 : stage === "explain" ? 2 : 3,
@@ -132,14 +135,14 @@ for(const code of codes){
     let html=fs.readFileSync(activityPath,"utf8");
     html=html.replace(/Practice draws from 24 questions, while Test uses a separate 16-question bank\./g,"Practice contains 40 progressive questions, while Test uses a separate 16-question bank.")
       .replace(/24 Practice questions/g,"40 Practice questions").replace(/24-question/gi,"40-question").replace(/24 questions/gi,"40 questions");
-    fs.writeFileSync(activityPath,html);
+    fs.writeFileSync(activityPath,updateStudentFacingPracticeCopy(html));
   }
   const practicePath=path.join(route,"practice","index.html");
   if(fs.existsSync(practicePath)){
     let html=fs.readFileSync(practicePath,"utf8");
     html=html.replace(/24-question/gi,"40-question").replace(/24 questions/gi,"40 questions").replace(/rotating questions/gi,"progressive questions")
       .replace(/"maxQuestions":\d+/,'"maxQuestions":40').replace(/"shuffleQuestions":true/,'"shuffleQuestions":false').replace(/"questionCycle":true/,'"questionCycle":false');
-    fs.writeFileSync(practicePath,html);
+    fs.writeFileSync(practicePath,updateStudentFacingPracticeCopy(html));
   }
 }
 
