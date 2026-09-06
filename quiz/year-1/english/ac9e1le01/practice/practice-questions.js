@@ -1,1162 +1,749 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1le01-p-001",
+    "id": "ac9e1le01-er3-p-001",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 01 recognise",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly find a character clue?",
-    "audioPrompt": "Which response would correctly find a character clue?",
-    "visual": "📖 Find a character clue; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a character clue; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001\"></use></svg>",
+    "question": "'Pip tucked a blanket around the shivering pup.' Which action helps create Pip as caring?",
+    "audioPrompt": "'Pip tucked a blanket around the shivering pup.' Which action helps create Pip as caring?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001",
-      "alt_text": "📖 Find a character clue; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Gently; it suggests care",
-      "Tara tucked the injured bird gently into a box",
-      "Give an opinion without evidence from the text."
+      "Tucking a blanket around the pup.",
+      "Naming the pup.",
+      "Saying that a blanket exists."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Gently; it suggests care This matches the task.\nHint: Point to words or image clues.",
+    "explanation": "The helpful action shows care for an animal that is cold.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Gently; it suggests care This matches the task.",
-      "hint": "Point to words or image clues."
+      "summary": "The helpful action shows care for an animal that is cold.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-002",
+    "id": "ac9e1le01-er3-p-002",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 02 recognise",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match choices and effects?",
-    "audioPrompt": "Which response would correctly match choices and effects?",
-    "visual": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match choices and effects; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003\"></use></svg>",
+    "question": "'The path was dark and silent.' Which words make the setting feel quiet and hard to see?",
+    "audioPrompt": "'The path was dark and silent.' Which words make the setting feel quiet and hard to see?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003",
-      "alt_text": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Mix event and setting.",
-      "Each visual choice matches its likely literary effect"
+      "was",
+      "dark and silent",
+      "The path"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The describing words build the reader's picture of the place.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The describing words build the reader's picture of the place.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le01-er3-p-003",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "language and images creating characters, settings and events",
+    "printable": true,
+    "type": "single",
+    "question": "'Crash! The tower fell.' What does Crash add?",
+    "audioPrompt": "'Crash! The tower fell.' What does Crash add?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The colour of the tower.",
+      "The builder's name.",
+      "The sound of the sudden event."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Each visual choice matches its likely literary effect This matches the task.\nHint: Use both language and image where available.",
+    "explanation": "The sound word makes the fall easier to imagine.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Each visual choice matches its likely literary effect This matches the task.",
-      "hint": "Use both language and image where available."
+      "summary": "The sound word makes the fall easier to imagine.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-003",
+    "id": "ac9e1le01-er3-p-004",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 03 recognise",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly perform dialogue clues?",
-    "audioPrompt": "Which response would correctly perform dialogue clues?",
-    "visual": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005\"></use></svg>",
+    "question": "'Come and share my seat,' said Fern. What do these words suggest about Fern?",
+    "audioPrompt": "'Come and share my seat,' said Fern. What do these words suggest about Fern?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005",
-      "alt_text": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I can do it",
-      "Uses clearly different voice and explains confidence versus uncertainty",
-      "Mix event and setting."
+      "She is welcoming.",
+      "She wants everyone to leave.",
+      "She is asking the time."
     ],
-    "correct": 1,
-    "explanation": "Uses clearly different voice and explains confidence versus uncertainty This matches the task.\nHint: Setting is where/when; event is what happens.",
-    "structuredExplanation": {
-      "summary": "Uses clearly different voice and explains confidence versus uncertainty This matches the task.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-004",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 04 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly describe a setting?",
-    "audioPrompt": "Which response would correctly describe a setting?",
-    "visual": "📖 Describe a setting; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Describe a setting; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007",
-      "alt_text": "📖 Describe a setting; 🔎 words; ✅ choose with evidence"
-    },
-    "answers": [
-      "A plausible lonely/eerie/windy feeling, supported by whistled and empty",
-      "Wind whistled between the empty sheds",
-      "Give an opinion without evidence from the text."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "A plausible lonely/eerie/windy feeling, supported by whistled and empty This matches the task.\nHint: Point to words or image clues.",
+    "explanation": "The invitation presents Fern as willing to include someone.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "A plausible lonely/eerie/windy feeling, supported by whistled and empty This matches the task.",
-      "hint": "Point to words or image clues."
+      "summary": "The invitation presents Fern as willing to include someone.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-005",
+    "id": "ac9e1le01-er3-p-005",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 05 recognise",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order event clues?",
-    "audioPrompt": "Which response would correctly order event clues?",
-    "visual": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order event clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009\"></use></svg>",
+    "question": "'A silver moon lit the empty beach.' Which phrase helps you picture the light?",
+    "audioPrompt": "'A silver moon lit the empty beach.' Which phrase helps you picture the light?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009",
-      "alt_text": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Mix event and setting.",
-      "A logical narrative order beginning with rain/footprints and ending with puppy found"
+      "lit the",
+      "A silver moon",
+      "the empty beach"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Silver moon gives a visual description of the light source.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Silver moon gives a visual description of the light source.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le01-er3-p-006",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "language and images creating characters, settings and events",
+    "printable": true,
+    "type": "single",
+    "question": "A story picture shows a character with a downturned mouth beside a broken toy. What might this add?",
+    "audioPrompt": "A story picture shows a character with a downturned mouth beside a broken toy. What might this add?",
+    "visual": "A child has a downturned mouth. Beside the child is a toy car with one wheel detached on the ground.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child has a downturned mouth. Beside the child is a toy car with one wheel detached on the ground.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-06.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "A child has a downturned mouth. Beside the child is a toy car with one wheel detached on the ground.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-06.svg#model"
+    },
+    "answers": [
+      "Proof of the toy's price.",
+      "The exact time it broke.",
+      "A clue that the character is upset."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "A logical narrative order beginning with rain/footprints and ending with puppy found This matches the task.\nHint: Use both language and image where available.",
+    "explanation": "Expression and context can suggest a feeling without naming it in the words.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "A logical narrative order beginning with rain/footprints and ending with puppy found This matches the task.",
-      "hint": "Use both language and image where available."
+      "summary": "Expression and context can suggest a feeling without naming it in the words.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-006",
+    "id": "ac9e1le01-er3-p-007",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 06 recognise",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw an added detail?",
-    "audioPrompt": "Which response would correctly draw an added detail?",
-    "visual": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw an added detail; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011\"></use></svg>",
+    "question": "'The mouse tiptoed past the sleeping cat.' Why is tiptoed more useful than went here?",
+    "audioPrompt": "'The mouse tiptoed past the sleeping cat.' Why is tiptoed more useful than went here?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011",
-      "alt_text": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The boat entered the bay",
-      "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect",
-      "Mix event and setting."
+      "It suggests careful, quiet movement.",
+      "It says the mouse moved loudly.",
+      "It tells the mouse's colour."
     ],
-    "correct": 1,
-    "explanation": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect This matches the task.\nHint: Setting is where/when; event is what happens.",
-    "structuredExplanation": {
-      "summary": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect This matches the task.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-007",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 07 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly compare word and image?",
-    "audioPrompt": "Which response would correctly compare word and image?",
-    "visual": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare word and image; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013",
-      "alt_text": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence"
-    },
-    "answers": [
-      "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative",
-      "quiet",
-      "Give an opinion without evidence from the text."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative This matches the task.\nHint: Point to words or image clues.",
+    "explanation": "The precise verb helps readers imagine how the mouse avoids waking the cat.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative This matches the task.",
-      "hint": "Point to words or image clues."
+      "summary": "The precise verb helps readers imagine how the mouse avoids waking the cat.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-008",
+    "id": "ac9e1le01-er3-p-008",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 08 recognise",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly discuss two character portrayals?",
-    "audioPrompt": "Which response would correctly discuss two character portrayals?",
-    "visual": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015\"></use></svg>",
+    "question": "'The wind howled around the hut.' What does howled help create?",
+    "audioPrompt": "'The wind howled around the hut.' What does howled help create?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015",
-      "alt_text": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "bounding ahead",
-      "waited and checked the map",
-      "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions"
+      "A brightly painted hut.",
+      "A strong, noisy wind.",
+      "A calm, silent afternoon."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The verb gives the wind a forceful sound.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The verb gives the wind a forceful sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le01-er3-p-009",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "language and images creating characters, settings and events",
+    "printable": true,
+    "type": "single",
+    "question": "'I'll try once more,' said Jo after the bridge fell. Which words show determination?",
+    "audioPrompt": "'I'll try once more,' said Jo after the bridge fell. Which words show determination?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "the bridge",
+      "said Jo",
+      "I'll try once more."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions This matches the task.\nHint: Use both language and image where available.",
+    "explanation": "Choosing to try again suggests persistence after failure.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions This matches the task.",
-      "hint": "Use both language and image where available."
+      "summary": "Choosing to try again suggests persistence after failure.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-009",
+    "id": "ac9e1le01-er3-p-010",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 09 recognise",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly interpret image position?",
-    "audioPrompt": "Which response would correctly interpret image position?",
-    "visual": "📖 Interpret image position; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Interpret image position; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017\"></use></svg>",
+    "question": "Compare 'The bear walked' and 'The bear stomped'. What does stomped add?",
+    "audioPrompt": "Compare 'The bear walked' and 'The bear stomped'. What does stomped add?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017",
-      "alt_text": "📖 Interpret image position; 🔎 words; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Mix event and setting.",
-      "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed",
-      "Give an opinion without evidence from the text."
+      "Heavy, forceful footsteps.",
+      "A softer colour for the bear.",
+      "A different name for the bear."
     ],
-    "correct": 1,
-    "explanation": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed This matches the task.\nHint: Setting is where/when; event is what happens.",
-    "structuredExplanation": {
-      "summary": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed This matches the task.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-010",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 10 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match fresh language clues?",
-    "audioPrompt": "Which response would correctly match fresh language clues?",
-    "visual": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019",
-      "alt_text": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence"
-    },
-    "answers": [
-      "All three language choices matched to supported effects",
-      "Give an opinion without evidence from the text.",
-      "Do not use both language and image where available."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "All three language choices matched to supported effects This matches the task.\nHint: Point to words or image clues.",
+    "explanation": "Stomped describes the way of moving more precisely than walked.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "All three language choices matched to supported effects This matches the task.",
-      "hint": "Point to words or image clues."
+      "summary": "Stomped describes the way of moving more precisely than walked.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-011",
+    "id": "ac9e1le01-er3-p-011",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 01 explain",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you find a character clue?",
-    "audioPrompt": "Which tip would help you find a character clue?",
-    "visual": "🧠 Find a character clue; ➡️ Notice words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find a character clue; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-002\"></use></svg>",
+    "question": "'The cave swallowed the last patch of sunlight.' What picture do the words help create?",
+    "audioPrompt": "'The cave swallowed the last patch of sunlight.' What picture do the words help create?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-002",
-      "alt_text": "🧠 Find a character clue; ➡️ Notice words; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Point to words or image clues.",
-      "Mix event and setting."
+      "A cave full of lamps.",
+      "A cave becoming very dark.",
+      "A cave eating a real meal."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Point to words or image clues.\nHint: Point to words or image clues.",
+    "explanation": "The imaginative language suggests the light disappears into darkness.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "The imaginative language suggests the light disappears into darkness.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-012",
+    "id": "ac9e1le01-er3-p-012",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 02 explain",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match choices and effects?",
-    "audioPrompt": "Which tip would help you match choices and effects?",
-    "visual": "🧠 Match choices and effects; ➡️ Notice images; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match choices and effects; ➡️ Notice images; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-004\"></use></svg>",
+    "question": "A picture shows muddy footprints leading from the door to a cupboard. The words say, 'Someone had been here.' What do the images add?",
+    "audioPrompt": "A picture shows muddy footprints leading from the door to a cupboard. The words say, 'Someone had been here.' What do the images add?",
+    "visual": "A door is on the left and a cupboard on the right. Brown footprints lead from the door towards the cupboard.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A door is on the left and a cupboard on the right. Brown footprints lead from the door towards the cupboard.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-12.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-004",
-      "alt_text": "🧠 Match choices and effects; ➡️ Notice images; 💡 helpful strategy"
+      "alt_text": "A door is on the left and a cupboard on the right. Brown footprints lead from the door towards the cupboard.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-12.svg#model"
     },
     "answers": [
-      "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "Mix event and setting.",
-      "Give an opinion without evidence from the text."
+      "The visitor's name for certain.",
+      "Proof that nobody entered.",
+      "A clue about where someone went."
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.\nHint: Use both language and image where available.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "hint": "Use both language and image where available."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-013",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 03 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you perform dialogue clues?",
-    "audioPrompt": "Which tip would help you perform dialogue clues?",
-    "visual": "🧠 Perform dialogue clues; ➡️ Name character/setting/event; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Perform dialogue clues; ➡️ Name character/setting/event; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-006",
-      "alt_text": "🧠 Perform dialogue clues; ➡️ Name character/setting/event; 💡 helpful strategy"
-    },
-    "answers": [
-      "Give an opinion without evidence from the text.",
-      "Do not use both language and image where available.",
-      "Look for event and check the whole example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Look for event and check the whole example.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "The footprints give a route that the words leave unspecified.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for event and check the whole example.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "The footprints give a route that the words leave unspecified.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-014",
+    "id": "ac9e1le01-er3-p-013",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 04 explain",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you describe a setting?",
-    "audioPrompt": "Which tip would help you describe a setting?",
-    "visual": "🧠 Describe a setting; ➡️ Explain effect; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Describe a setting; ➡️ Explain effect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-008\"></use></svg>",
+    "question": "Which description makes a garden seem lively?",
+    "audioPrompt": "Which description makes a garden seem lively?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-008",
-      "alt_text": "🧠 Describe a setting; ➡️ Explain effect; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Check that you can use word evidence.",
-      "Mix event and setting."
+      "Bees hummed and bright flowers nodded.",
+      "Nothing moved in the bare soil.",
+      "The locked gate stood in darkness."
     ],
-    "correct": 1,
-    "explanation": "Check that you can use word evidence.\nHint: Point to words or image clues.",
-    "structuredExplanation": {
-      "summary": "Check that you can use word evidence.",
-      "hint": "Point to words or image clues."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-015",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 05 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order event clues?",
-    "audioPrompt": "Which tip would help you order event clues?",
-    "visual": "🧠 Order event clues; ➡️ Notice words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order event clues; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-010",
-      "alt_text": "🧠 Order event clues; ➡️ Notice words; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing events from causal clues.",
-      "Mix event and setting.",
-      "Give an opinion without evidence from the text."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Sequencing events from causal clues.\nHint: Use both language and image where available.",
+    "explanation": "Sound and movement make the first garden seem full of activity.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sequencing events from causal clues.",
-      "hint": "Use both language and image where available."
+      "summary": "Sound and movement make the first garden seem full of activity.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-016",
+    "id": "ac9e1le01-er3-p-014",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 06 explain",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw an added detail?",
-    "audioPrompt": "Which tip would help you draw an added detail?",
-    "visual": "🧠 Draw an added detail; ➡️ Notice images; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw an added detail; ➡️ Notice images; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-012\"></use></svg>",
+    "question": "'Not mine!' snapped the fox, hiding the basket. Which action makes the fox's words seem doubtful?",
+    "audioPrompt": "'Not mine!' snapped the fox, hiding the basket. Which action makes the fox's words seem doubtful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-012",
-      "alt_text": "🧠 Draw an added detail; ➡️ Notice images; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Give an opinion without evidence from the text.",
-      "Do not use both language and image where available.",
-      "Setting is where/when; event is what happens."
+      "Being called a fox.",
+      "Hiding the basket.",
+      "Standing near the basket."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Concealing the object gives readers a reason to question the denial.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Concealing the object gives readers a reason to question the denial.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le01-er3-p-015",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "language and images creating characters, settings and events",
+    "printable": true,
+    "type": "single",
+    "question": "A writer changes whispered to shouted. What changes most directly?",
+    "audioPrompt": "A writer changes whispered to shouted. What changes most directly?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which character is speaking.",
+      "Where the story is printed.",
+      "How loudly the character speaks."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "The verb changes the voice the reader imagines.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "The verb changes the voice the reader imagines.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-017",
+    "id": "ac9e1le01-er3-p-016",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 07 explain",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you compare word and image?",
-    "audioPrompt": "Which tip would help you compare word and image?",
-    "visual": "🧠 Compare word and image; ➡️ Name character/setting/event; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare word and image; ➡️ Name character/setting/event; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-014\"></use></svg>",
+    "question": "'Warm bread smells drifted through the kitchen.' Which sense helps build this setting?",
+    "audioPrompt": "'Warm bread smells drifted through the kitchen.' Which sense helps build this setting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-014",
-      "alt_text": "🧠 Compare word and image; ➡️ Name character/setting/event; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "Mix event and setting."
+      "Smell.",
+      "Sight only.",
+      "Touch only."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.\nHint: Point to words or image clues.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "hint": "Point to words or image clues."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-018",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 08 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you discuss two character portrayals?",
-    "audioPrompt": "Which tip would help you discuss two character portrayals?",
-    "visual": "🧠 Discuss two character portrayals; ➡️ Explain effect; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Discuss two character portrayals; ➡️ Explain effect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-016",
-      "alt_text": "🧠 Discuss two character portrayals; ➡️ Explain effect; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for event and check the whole example.",
-      "Mix event and setting.",
-      "Give an opinion without evidence from the text."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Look for event and check the whole example.\nHint: Use both language and image where available.",
+    "explanation": "The description asks readers to imagine the scent of bread.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for event and check the whole example.",
-      "hint": "Use both language and image where available."
+      "summary": "The description asks readers to imagine the scent of bread.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-019",
+    "id": "ac9e1le01-er3-p-017",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 09 explain",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you interpret image position?",
-    "audioPrompt": "Which tip would help you interpret image position?",
-    "visual": "🧠 Interpret image position; ➡️ Notice words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Interpret image position; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-018\"></use></svg>",
+    "question": "'It was a small puddle.' An illustration shows a tiny mouse beside it, unable to cross. How can both contribute?",
+    "audioPrompt": "'It was a small puddle.' An illustration shows a tiny mouse beside it, unable to cross. How can both contribute?",
+    "visual": "A small mouse stands at the edge of a puddle many times wider than the mouse. The image has no measurement scale.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A small mouse stands at the edge of a puddle many times wider than the mouse. The image has no measurement scale.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-17.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-018",
-      "alt_text": "🧠 Interpret image position; ➡️ Notice words; 💡 helpful strategy"
+      "alt_text": "A small mouse stands at the edge of a puddle many times wider than the mouse. The image has no measurement scale.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-17.svg#model"
     },
     "answers": [
-      "Give an opinion without evidence from the text.",
-      "Do not use both language and image where available.",
-      "Check that you can use word evidence."
+      "The words mean the mouse must cross easily.",
+      "The words give size; the image shows its importance to the mouse.",
+      "The picture proves the puddle covers the whole world."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Something small to us can still be an obstacle for a small character.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Something small to us can still be an obstacle for a small character.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le01-er3-p-018",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "language and images creating characters, settings and events",
+    "printable": true,
+    "type": "single",
+    "question": "'A thin ribbon of smoke rose above the trees.' Which detail creates a clue that someone may be nearby?",
+    "audioPrompt": "'A thin ribbon of smoke rose above the trees.' Which detail creates a clue that someone may be nearby?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The word thin by itself.",
+      "The fact that trees exist.",
+      "The smoke rising."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Check that you can use word evidence.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "Smoke can suggest a fire or activity, although it does not identify a person for certain.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Check that you can use word evidence.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "Smoke can suggest a fire or activity, although it does not identify a person for certain.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-020",
+    "id": "ac9e1le01-er3-p-019",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 10 explain",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match fresh language clues?",
-    "audioPrompt": "Which tip would help you match fresh language clues?",
-    "visual": "🧠 Match fresh language clues; ➡️ Notice images; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match fresh language clues; ➡️ Notice images; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-020\"></use></svg>",
+    "question": "A character says 'I'm not worried' while the picture shows tightly clenched hands. What can a reader reasonably infer?",
+    "audioPrompt": "A character says 'I'm not worried' while the picture shows tightly clenched hands. What can a reader reasonably infer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-020",
-      "alt_text": "🧠 Match fresh language clues; ➡️ Notice images; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Interpreting verbs and phrases in literature.",
-      "Mix event and setting."
+      "The character may feel worried despite the words.",
+      "The character is certainly telling the whole truth.",
+      "The character has no feelings."
     ],
-    "correct": 1,
-    "explanation": "Interpreting verbs and phrases in literature.\nHint: Point to words or image clues.",
-    "structuredExplanation": {
-      "summary": "Interpreting verbs and phrases in literature.",
-      "hint": "Point to words or image clues."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-021",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 01 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find a character clue; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a character clue; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001",
-      "alt_text": "📖 Find a character clue; 🔎 character; ✅ choose with evidence"
-    },
-    "answers": [
-      "Tara tucked the injured bird gently into a box",
-      "Gently; it suggests care",
-      "Point to words or image clues."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "Tara tucked the injured bird gently into a box is the mix-up. Point to words or image clues.\nHint: Point to words or image clues.",
+    "explanation": "Body clues can complicate what a character claims.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Tara tucked the injured bird gently into a box is the mix-up. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "Body clues can complicate what a character claims.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-022",
+    "id": "ac9e1le01-er3-p-020",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 02 discriminate",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match choices and effects; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003\"></use></svg>",
+    "question": "Which revision makes an entrance feel sudden?",
+    "audioPrompt": "Which revision makes an entrance feel sudden?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003",
-      "alt_text": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each visual choice matches its likely literary effect",
-      "Do not use both language and image where available.",
-      "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect."
+      "The door had a handle.",
+      "The door burst open.",
+      "The door was there."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Do not use both language and image where available. is the mix-up. Use both language and image where available.\nHint: Use both language and image where available.",
+    "explanation": "Burst gives the event energy and suddenness.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Do not use both language and image where available. is the mix-up. Use both language and image where available.",
-      "hint": "Use both language and image where available."
+      "summary": "Burst gives the event energy and suddenness.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-023",
+    "id": "ac9e1le01-er3-p-021",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 03 discriminate",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005\"></use></svg>",
+    "question": "'The old dog waited beside the empty chair each evening.' What feeling might this detail invite?",
+    "audioPrompt": "'The old dog waited beside the empty chair each evening.' What feeling might this detail invite?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005",
-      "alt_text": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Uses clearly different voice and explains confidence versus uncertainty",
-      "Look for event and check the whole example.",
-      "I can do it"
+      "Certainty that the dog dislikes chairs.",
+      "Proof that the room is noisy.",
+      "A sense that the dog misses someone."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "I can do it is the mix-up. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "Waiting beside an empty place may suggest longing; it does not prove every detail of the past.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I can do it is the mix-up. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "Waiting beside an empty place may suggest longing; it does not prove every detail of the past.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-024",
+    "id": "ac9e1le01-er3-p-022",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 04 discriminate",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Describe a setting; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Describe a setting; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007\"></use></svg>",
+    "question": "A story image shows storm clouds behind a picnic scene. The words mention only packing food. What can the image add?",
+    "audioPrompt": "A story image shows storm clouds behind a picnic scene. The words mention only packing food. What can the image add?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007",
-      "alt_text": "📖 Describe a setting; 🔎 words; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Wind whistled between the empty sheds",
-      "A plausible lonely/eerie/windy feeling, supported by whistled and empty",
-      "Check that you can use word evidence."
+      "A possible problem that may be coming.",
+      "A guarantee that lunch is already over.",
+      "The exact names of everyone eating."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "Wind whistled between the empty sheds is the mix-up. Point to words or image clues.\nHint: Point to words or image clues.",
+    "explanation": "The clouds introduce a visual clue about possible weather trouble.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Wind whistled between the empty sheds is the mix-up. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "The clouds introduce a visual clue about possible weather trouble.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-025",
+    "id": "ac9e1le01-er3-p-023",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 05 discriminate",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order event clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009\"></use></svg>",
+    "question": "Which pair of details works together to create a cheerful setting?",
+    "audioPrompt": "Which pair of details works together to create a cheerful setting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009",
-      "alt_text": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A logical narrative order beginning with rain/footprints and ending with puppy found",
-      "Do not use both language and image where available.",
-      "Sequencing events from causal clues."
+      "The path was empty; the gate was locked.",
+      "Sunlight danced on water; children laughed.",
+      "The room was silent; the window was shut."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "Do not use both language and image where available. is the mix-up. Use both language and image where available.\nHint: Use both language and image where available.",
+    "explanation": "The light and happy sound support the same cheerful impression.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Do not use both language and image where available. is the mix-up. Use both language and image where available.",
-      "hint": "Use both language and image where available."
+      "summary": "The light and happy sound support the same cheerful impression.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-026",
+    "id": "ac9e1le01-er3-p-024",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 06 discriminate",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw an added detail; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011\"></use></svg>",
+    "question": "'Moss crept over the forgotten steps.' Which word suggests the place has not been used recently?",
+    "audioPrompt": "'Moss crept over the forgotten steps.' Which word suggests the place has not been used recently?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011",
-      "alt_text": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect",
-      "Setting is where/when; event is what happens.",
-      "The boat entered the bay"
+      "steps",
+      "over",
+      "forgotten"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "The boat entered the bay is the mix-up. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "Forgotten helps establish neglect, supported by the growing moss.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The boat entered the bay is the mix-up. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-027",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare word and image; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013",
-      "alt_text": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence"
-    },
-    "answers": [
-      "quiet",
-      "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative",
-      "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect."
-    ],
-    "correct": 0,
-    "explanation": "quiet is the mix-up. Point to words or image clues.\nHint: Point to words or image clues.",
-    "structuredExplanation": {
-      "summary": "quiet is the mix-up. Point to words or image clues.",
-      "hint": "Point to words or image clues."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-028",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015",
-      "alt_text": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence"
-    },
-    "answers": [
-      "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions",
-      "bounding ahead",
-      "Look for event and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "bounding ahead is the mix-up. Use both language and image where available.\nHint: Use both language and image where available.",
-    "structuredExplanation": {
-      "summary": "bounding ahead is the mix-up. Use both language and image where available.",
-      "hint": "Use both language and image where available."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-029",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Interpret image position; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Interpret image position; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017",
-      "alt_text": "📖 Interpret image position; 🔎 words; ✅ choose with evidence"
-    },
-    "answers": [
-      "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed",
-      "Check that you can use word evidence.",
-      "Mix event and setting."
-    ],
-    "correct": 2,
-    "explanation": "Mix event and setting. is the mix-up. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
-    "structuredExplanation": {
-      "summary": "Mix event and setting. is the mix-up. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-030",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019",
-      "alt_text": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence"
-    },
-    "answers": [
-      "Give an opinion without evidence from the text.",
-      "All three language choices matched to supported effects",
-      "Interpreting verbs and phrases in literature."
-    ],
-    "correct": 0,
-    "explanation": "Give an opinion without evidence from the text. is the mix-up. Point to words or image clues.\nHint: Point to words or image clues.",
-    "structuredExplanation": {
-      "summary": "Give an opinion without evidence from the text. is the mix-up. Point to words or image clues.",
-      "hint": "Point to words or image clues."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-031",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find a character clue; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a character clue; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001",
-      "alt_text": "📖 Find a character clue; 🔎 character; ✅ choose with evidence"
-    },
-    "answers": [
-      "Tara tucked the injured bird gently into a box",
-      "Gently; it suggests care",
-      "Give an opinion without evidence from the text."
-    ],
-    "correct": 1,
-    "explanation": "Gently; it suggests care uses the skill correctly. Point to words or image clues.\nHint: Point to words or image clues.",
-    "structuredExplanation": {
-      "summary": "Gently; it suggests care uses the skill correctly. Point to words or image clues.",
-      "hint": "Point to words or image clues."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-032",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match choices and effects; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003",
-      "alt_text": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use both language and image where available.",
-      "Mix event and setting.",
-      "Each visual choice matches its likely literary effect"
-    ],
-    "correct": 2,
-    "explanation": "Each visual choice matches its likely literary effect uses the skill correctly. Use both language and image where available.\nHint: Use both language and image where available.",
-    "structuredExplanation": {
-      "summary": "Each visual choice matches its likely literary effect uses the skill correctly. Use both language and image where available.",
-      "hint": "Use both language and image where available."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-033",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005",
-      "alt_text": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence"
-    },
-    "answers": [
-      "Uses clearly different voice and explains confidence versus uncertainty",
-      "I can do it",
-      "Mix event and setting."
-    ],
-    "correct": 0,
-    "explanation": "Uses clearly different voice and explains confidence versus uncertainty uses the skill correctly. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
-    "structuredExplanation": {
-      "summary": "Uses clearly different voice and explains confidence versus uncertainty uses the skill correctly. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-034",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Describe a setting; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Describe a setting; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007",
-      "alt_text": "📖 Describe a setting; 🔎 words; ✅ choose with evidence"
-    },
-    "answers": [
-      "Wind whistled between the empty sheds",
-      "A plausible lonely/eerie/windy feeling, supported by whistled and empty",
-      "Give an opinion without evidence from the text."
-    ],
-    "correct": 1,
-    "explanation": "A plausible lonely/eerie/windy feeling, supported by whistled and empty uses the skill correctly. Point to words or image clues.\nHint: Point to words or image clues.",
-    "structuredExplanation": {
-      "summary": "A plausible lonely/eerie/windy feeling, supported by whistled and empty uses the skill correctly. Point to words or image clues.",
-      "hint": "Point to words or image clues."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-035",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order event clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009",
-      "alt_text": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use both language and image where available.",
-      "Mix event and setting.",
-      "A logical narrative order beginning with rain/footprints and ending with puppy found"
-    ],
-    "correct": 2,
-    "explanation": "A logical narrative order beginning with rain/footprints and ending with puppy found uses the skill correctly. Use both language and image where available.\nHint: Use both language and image where available.",
-    "structuredExplanation": {
-      "summary": "A logical narrative order beginning with rain/footprints and ending with puppy found uses the skill correctly. Use both language and image where available.",
-      "hint": "Use both language and image where available."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-036",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw an added detail; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011",
-      "alt_text": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence"
-    },
-    "answers": [
-      "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect",
-      "The boat entered the bay",
-      "Mix event and setting."
-    ],
-    "correct": 0,
-    "explanation": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect uses the skill correctly. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
-    "structuredExplanation": {
-      "summary": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect uses the skill correctly. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-037",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare word and image; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013",
-      "alt_text": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence"
-    },
-    "answers": [
-      "quiet",
-      "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative",
-      "Give an opinion without evidence from the text."
-    ],
-    "correct": 1,
-    "explanation": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative uses the skill correctly. Point to words or image clues.\nHint: Point to words or image clues.",
-    "structuredExplanation": {
-      "summary": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative uses the skill correctly. Point to words or image clues.",
-      "hint": "Point to words or image clues."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-038",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015",
-      "alt_text": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence"
-    },
-    "answers": [
-      "bounding ahead",
-      "waited and checked the map",
-      "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions"
-    ],
-    "correct": 2,
-    "explanation": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions uses the skill correctly. Use both language and image where available.\nHint: Use both language and image where available.",
-    "structuredExplanation": {
-      "summary": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions uses the skill correctly. Use both language and image where available.",
-      "hint": "Use both language and image where available."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-039",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Interpret image position; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Interpret image position; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017",
-      "alt_text": "📖 Interpret image position; 🔎 words; ✅ choose with evidence"
-    },
-    "answers": [
-      "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed",
-      "Mix event and setting.",
-      "Give an opinion without evidence from the text."
-    ],
-    "correct": 0,
-    "explanation": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed uses the skill correctly. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
-    "structuredExplanation": {
-      "summary": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed uses the skill correctly. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le01-p-040",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019",
-      "alt_text": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence"
-    },
-    "answers": [
-      "Give an opinion without evidence from the text.",
-      "All three language choices matched to supported effects",
-      "Do not use both language and image where available."
-    ],
-    "correct": 1,
-    "explanation": "All three language choices matched to supported effects uses the skill correctly. Point to words or image clues.\nHint: Point to words or image clues.",
-    "structuredExplanation": {
-      "summary": "All three language choices matched to supported effects uses the skill correctly. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "Forgotten helps establish neglect, supported by the growing moss.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   }

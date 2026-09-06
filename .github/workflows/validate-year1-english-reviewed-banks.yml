@@ -4,8 +4,10 @@ on:
     branches: [main]
     paths:
       - 'assets/assessment-banks/year1/english/ac9e1la*.json'
-      - 'assets/assessment-visuals/year1/english/ixl-review-2/**'
+      - 'assets/assessment-banks/year1/english/ac9e1le*.json'
+      - 'assets/assessment-visuals/year1/english/ixl-review-*/**'
       - 'quiz/year-1/english/ac9e1la*/**'
+      - 'quiz/year-1/english/ac9e1le*/**'
       - 'scripts/year1_english_ixl_review/**'
       - 'scripts/validate-year1-english-review.cjs'
       - 'scripts/validate_year1_english_student_facing.mjs'
@@ -13,8 +15,10 @@ on:
   pull_request:
     paths:
       - 'assets/assessment-banks/year1/english/ac9e1la*.json'
-      - 'assets/assessment-visuals/year1/english/ixl-review-2/**'
+      - 'assets/assessment-banks/year1/english/ac9e1le*.json'
+      - 'assets/assessment-visuals/year1/english/ixl-review-*/**'
       - 'quiz/year-1/english/ac9e1la*/**'
+      - 'quiz/year-1/english/ac9e1le*/**'
       - 'scripts/year1_english_ixl_review/**'
       - 'scripts/validate-year1-english-review.cjs'
       - 'scripts/validate_year1_english_student_facing.mjs'
@@ -35,6 +39,7 @@ jobs:
         run: |
           NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs
           NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs --batch2
+          NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs --batch3
       - name: Check Year 1 English and review ledger
         run: |
           node scripts/validate_year1_english_student_facing.mjs

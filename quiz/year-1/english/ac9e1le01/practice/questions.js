@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1le01-p-001",
+    "id": "ac9e1le01-er3-p-001",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Mia smiling.] The picture shows Mia smiling. What does the picture tell us?",
-    "audioPrompt": "[Show Mia smiling.] The picture shows Mia smiling. What does the picture tell us?",
+    "question": "'Pip tucked a blanket around the shivering pup.' Which action helps create Pip as caring?",
+    "audioPrompt": "'Pip tucked a blanket around the shivering pup.' Which action helps create Pip as caring?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "nothing",
-      "sad",
-      "happy"
+      "Tucking a blanket around the pup.",
+      "Naming the pup.",
+      "Saying that a blanket exists."
     ],
-    "correct": 2,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1le01-p-002",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Ben crying.] The picture shows Ben crying. What does the picture tell us?",
-    "audioPrompt": "[Show Ben crying.] The picture shows Ben crying. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "happy",
-      "sad",
-      "nothing"
-    ],
-    "correct": 1,
-    "explanation": "sad is the best answer.",
-    "structuredExplanation": {
-      "summary": "sad is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1le01-p-003",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Sam shivering.] The picture shows Sam shivering. What does the picture tell us?",
-    "audioPrompt": "[Show Sam shivering.] The picture shows Sam shivering. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "nothing",
-      "cold",
-      "hot"
-    ],
-    "correct": 1,
-    "explanation": "cold is the best answer.",
-    "structuredExplanation": {
-      "summary": "cold is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1le01-p-004",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Kim yawning.] The picture shows Kim yawning. What does the picture tell us?",
-    "audioPrompt": "[Show Kim yawning.] The picture shows Kim yawning. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "angry",
-      "tired",
-      "nothing"
-    ],
-    "correct": 1,
-    "explanation": "tired is the best answer.",
-    "structuredExplanation": {
-      "summary": "tired is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1le01-p-005",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Ava running.] The picture shows Ava running. What does the picture tell us?",
-    "audioPrompt": "[Show Ava running.] The picture shows Ava running. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "asleep",
-      "in a hurry",
-      "nothing"
-    ],
-    "correct": 1,
-    "explanation": "in a hurry is the best answer.",
-    "structuredExplanation": {
-      "summary": "in a hurry is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1le01-p-006",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Leo waving.] The picture shows Leo waving. What does the picture tell us?",
-    "audioPrompt": "[Show Leo waving.] The picture shows Leo waving. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "nothing",
-      "hidden",
-      "friendly"
-    ],
-    "correct": 2,
-    "explanation": "friendly is the best answer.",
-    "structuredExplanation": {
-      "summary": "friendly is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1le01-p-007",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Zoe frowning.] The picture shows Zoe frowning. What does the picture tell us?",
-    "audioPrompt": "[Show Zoe frowning.] The picture shows Zoe frowning. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "glad",
-      "upset",
-      "nothing"
-    ],
-    "correct": 1,
-    "explanation": "upset is the best answer.",
-    "structuredExplanation": {
-      "summary": "upset is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1le01-p-008",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Max laughing.] The picture shows Max laughing. What does the picture tell us?",
-    "audioPrompt": "[Show Max laughing.] The picture shows Max laughing. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "afraid",
-      "amused",
-      "nothing"
-    ],
-    "correct": 1,
-    "explanation": "amused is the best answer.",
-    "structuredExplanation": {
-      "summary": "amused is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1le01-p-009",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Ben smiling.] The picture shows Ben smiling. What does the picture tell us?",
-    "audioPrompt": "[Show Ben smiling.] The picture shows Ben smiling. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "happy",
-      "sad",
-      "nothing"
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "happy is the best answer.",
+    "explanation": "The helpful action shows care for an animal that is cold.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "happy is the best answer."
+      "summary": "The helpful action shows care for an animal that is cold.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le01-er3-p-002",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "language and images creating characters, settings and events",
+    "printable": true,
+    "type": "single",
+    "question": "'The path was dark and silent.' Which words make the setting feel quiet and hard to see?",
+    "audioPrompt": "'The path was dark and silent.' Which words make the setting feel quiet and hard to see?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "was",
+      "dark and silent",
+      "The path"
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The describing words build the reader's picture of the place.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The describing words build the reader's picture of the place.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-010",
+    "id": "ac9e1le01-er3-p-003",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Sam crying.] The picture shows Sam crying. What does the picture tell us?",
-    "audioPrompt": "[Show Sam crying.] The picture shows Sam crying. What does the picture tell us?",
+    "question": "'Crash! The tower fell.' What does Crash add?",
+    "audioPrompt": "'Crash! The tower fell.' What does Crash add?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "nothing",
-      "happy",
-      "sad"
+      "The colour of the tower.",
+      "The builder's name.",
+      "The sound of the sudden event."
     ],
-    "correct": 2,
-    "explanation": "sad is the best answer.",
-    "structuredExplanation": {
-      "summary": "sad is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The sound word makes the fall easier to imagine.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The sound word makes the fall easier to imagine.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-011",
+    "id": "ac9e1le01-er3-p-004",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Kim shivering.] The picture shows Kim shivering. What does the picture tell us?",
-    "audioPrompt": "[Show Kim shivering.] The picture shows Kim shivering. What does the picture tell us?",
+    "question": "'Come and share my seat,' said Fern. What do these words suggest about Fern?",
+    "audioPrompt": "'Come and share my seat,' said Fern. What do these words suggest about Fern?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hot",
-      "cold",
-      "nothing"
+      "She is welcoming.",
+      "She wants everyone to leave.",
+      "She is asking the time."
     ],
-    "correct": 1,
-    "explanation": "cold is the best answer.",
-    "structuredExplanation": {
-      "summary": "cold is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "The invitation presents Fern as willing to include someone.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The invitation presents Fern as willing to include someone.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-012",
+    "id": "ac9e1le01-er3-p-005",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Ava yawning.] The picture shows Ava yawning. What does the picture tell us?",
-    "audioPrompt": "[Show Ava yawning.] The picture shows Ava yawning. What does the picture tell us?",
+    "question": "'A silver moon lit the empty beach.' Which phrase helps you picture the light?",
+    "audioPrompt": "'A silver moon lit the empty beach.' Which phrase helps you picture the light?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,59 +140,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "tired",
-      "angry",
-      "nothing"
+      "lit the",
+      "A silver moon",
+      "the empty beach"
     ],
-    "correct": 0,
-    "explanation": "tired is the best answer.",
-    "structuredExplanation": {
-      "summary": "tired is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Silver moon gives a visual description of the light source.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Silver moon gives a visual description of the light source.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-013",
+    "id": "ac9e1le01-er3-p-006",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Leo running.] The picture shows Leo running. What does the picture tell us?",
-    "audioPrompt": "[Show Leo running.] The picture shows Leo running. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A story picture shows a character with a downturned mouth beside a broken toy. What might this add?",
+    "audioPrompt": "A story picture shows a character with a downturned mouth beside a broken toy. What might this add?",
+    "visual": "A child has a downturned mouth. Beside the child is a toy car with one wheel detached on the ground.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child has a downturned mouth. Beside the child is a toy car with one wheel detached on the ground.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-06.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "A child has a downturned mouth. Beside the child is a toy car with one wheel detached on the ground.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-06.svg#model"
     },
     "answers": [
-      "nothing",
-      "asleep",
-      "in a hurry"
+      "Proof of the toy's price.",
+      "The exact time it broke.",
+      "A clue that the character is upset."
     ],
-    "correct": 2,
-    "explanation": "in a hurry is the best answer.",
-    "structuredExplanation": {
-      "summary": "in a hurry is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Expression and context can suggest a feeling without naming it in the words.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Expression and context can suggest a feeling without naming it in the words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-014",
+    "id": "ac9e1le01-er3-p-007",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Zoe waving.] The picture shows Zoe waving. What does the picture tell us?",
-    "audioPrompt": "[Show Zoe waving.] The picture shows Zoe waving. What does the picture tell us?",
+    "question": "'The mouse tiptoed past the sleeping cat.' Why is tiptoed more useful than went here?",
+    "audioPrompt": "'The mouse tiptoed past the sleeping cat.' Why is tiptoed more useful than went here?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +203,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hidden",
-      "friendly",
-      "nothing"
+      "It suggests careful, quiet movement.",
+      "It says the mouse moved loudly.",
+      "It tells the mouse's colour."
     ],
-    "correct": 1,
-    "explanation": "friendly is the best answer.",
-    "structuredExplanation": {
-      "summary": "friendly is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "The precise verb helps readers imagine how the mouse avoids waking the cat.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The precise verb helps readers imagine how the mouse avoids waking the cat.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-015",
+    "id": "ac9e1le01-er3-p-008",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Max frowning.] The picture shows Max frowning. What does the picture tell us?",
-    "audioPrompt": "[Show Max frowning.] The picture shows Max frowning. What does the picture tell us?",
+    "question": "'The wind howled around the hut.' What does howled help create?",
+    "audioPrompt": "'The wind howled around the hut.' What does howled help create?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +234,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "upset",
-      "glad",
-      "nothing"
+      "A brightly painted hut.",
+      "A strong, noisy wind.",
+      "A calm, silent afternoon."
     ],
-    "correct": 0,
-    "explanation": "upset is the best answer.",
-    "structuredExplanation": {
-      "summary": "upset is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The verb gives the wind a forceful sound.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The verb gives the wind a forceful sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-016",
+    "id": "ac9e1le01-er3-p-009",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Mia laughing.] The picture shows Mia laughing. What does the picture tell us?",
-    "audioPrompt": "[Show Mia laughing.] The picture shows Mia laughing. What does the picture tell us?",
+    "question": "'I'll try once more,' said Jo after the bridge fell. Which words show determination?",
+    "audioPrompt": "'I'll try once more,' said Jo after the bridge fell. Which words show determination?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +265,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "afraid",
-      "nothing",
-      "amused"
+      "the bridge",
+      "said Jo",
+      "I'll try once more."
     ],
-    "correct": 2,
-    "explanation": "amused is the best answer.",
-    "structuredExplanation": {
-      "summary": "amused is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1le01-p-017",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Sam smiling.] The picture shows Sam smiling. What does the picture tell us?",
-    "audioPrompt": "[Show Sam smiling.] The picture shows Sam smiling. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sad",
-      "nothing",
-      "happy"
-    ],
-    "correct": 2,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Choosing to try again suggests persistence after failure.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Choosing to try again suggests persistence after failure.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-018",
+    "id": "ac9e1le01-er3-p-010",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Kim crying.] The picture shows Kim crying. What does the picture tell us?",
-    "audioPrompt": "[Show Kim crying.] The picture shows Kim crying. What does the picture tell us?",
+    "question": "Compare 'The bear walked' and 'The bear stomped'. What does stomped add?",
+    "audioPrompt": "Compare 'The bear walked' and 'The bear stomped'. What does stomped add?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +296,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sad",
-      "nothing",
-      "happy"
+      "Heavy, forceful footsteps.",
+      "A softer colour for the bear.",
+      "A different name for the bear."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "sad is the best answer.",
+    "explanation": "Stomped describes the way of moving more precisely than walked.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "Stomped describes the way of moving more precisely than walked.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-019",
+    "id": "ac9e1le01-er3-p-011",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Ava shivering.] The picture shows Ava shivering. What does the picture tell us?",
-    "audioPrompt": "[Show Ava shivering.] The picture shows Ava shivering. What does the picture tell us?",
+    "question": "'The cave swallowed the last patch of sunlight.' What picture do the words help create?",
+    "audioPrompt": "'The cave swallowed the last patch of sunlight.' What picture do the words help create?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +327,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "nothing",
-      "cold",
-      "hot"
+      "A cave full of lamps.",
+      "A cave becoming very dark.",
+      "A cave eating a real meal."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "cold is the best answer.",
+    "explanation": "The imaginative language suggests the light disappears into darkness.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "cold is the best answer."
+      "summary": "The imaginative language suggests the light disappears into darkness.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-020",
+    "id": "ac9e1le01-er3-p-012",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Leo yawning.] The picture shows Leo yawning. What does the picture tell us?",
-    "audioPrompt": "[Show Leo yawning.] The picture shows Leo yawning. What does the picture tell us?",
+    "question": "A picture shows muddy footprints leading from the door to a cupboard. The words say, 'Someone had been here.' What do the images add?",
+    "audioPrompt": "A picture shows muddy footprints leading from the door to a cupboard. The words say, 'Someone had been here.' What do the images add?",
+    "visual": "A door is on the left and a cupboard on the right. Brown footprints lead from the door towards the cupboard.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A door is on the left and a cupboard on the right. Brown footprints lead from the door towards the cupboard.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-12.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "A door is on the left and a cupboard on the right. Brown footprints lead from the door towards the cupboard.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-12.svg#model"
+    },
+    "answers": [
+      "The visitor's name for certain.",
+      "Proof that nobody entered.",
+      "A clue about where someone went."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The footprints give a route that the words leave unspecified.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The footprints give a route that the words leave unspecified.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le01-er3-p-013",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "language and images creating characters, settings and events",
+    "printable": true,
+    "type": "single",
+    "question": "Which description makes a garden seem lively?",
+    "audioPrompt": "Which description makes a garden seem lively?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +390,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "tired",
-      "nothing",
-      "angry"
+      "Bees hummed and bright flowers nodded.",
+      "Nothing moved in the bare soil.",
+      "The locked gate stood in darkness."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "tired is the best answer.",
+    "explanation": "Sound and movement make the first garden seem full of activity.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "tired is the best answer."
+      "summary": "Sound and movement make the first garden seem full of activity.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-021",
+    "id": "ac9e1le01-er3-p-014",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Zoe running.] The picture shows Zoe running. What does the picture tell us?",
-    "audioPrompt": "[Show Zoe running.] The picture shows Zoe running. What does the picture tell us?",
+    "question": "'Not mine!' snapped the fox, hiding the basket. Which action makes the fox's words seem doubtful?",
+    "audioPrompt": "'Not mine!' snapped the fox, hiding the basket. Which action makes the fox's words seem doubtful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +421,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "nothing",
-      "in a hurry",
-      "asleep"
+      "Being called a fox.",
+      "Hiding the basket.",
+      "Standing near the basket."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "in a hurry is the best answer.",
+    "explanation": "Concealing the object gives readers a reason to question the denial.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "in a hurry is the best answer."
+      "summary": "Concealing the object gives readers a reason to question the denial.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-022",
+    "id": "ac9e1le01-er3-p-015",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Max waving.] The picture shows Max waving. What does the picture tell us?",
-    "audioPrompt": "[Show Max waving.] The picture shows Max waving. What does the picture tell us?",
+    "question": "A writer changes whispered to shouted. What changes most directly?",
+    "audioPrompt": "A writer changes whispered to shouted. What changes most directly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +452,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hidden",
-      "nothing",
-      "friendly"
+      "Which character is speaking.",
+      "Where the story is printed.",
+      "How loudly the character speaks."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "friendly is the best answer.",
+    "explanation": "The verb changes the voice the reader imagines.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "friendly is the best answer."
+      "summary": "The verb changes the voice the reader imagines.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-023",
+    "id": "ac9e1le01-er3-p-016",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Mia frowning.] The picture shows Mia frowning. What does the picture tell us?",
-    "audioPrompt": "[Show Mia frowning.] The picture shows Mia frowning. What does the picture tell us?",
+    "question": "'Warm bread smells drifted through the kitchen.' Which sense helps build this setting?",
+    "audioPrompt": "'Warm bread smells drifted through the kitchen.' Which sense helps build this setting?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,239 +483,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "glad",
-      "upset",
-      "nothing"
+      "Smell.",
+      "Sight only.",
+      "Touch only."
     ],
-    "correct": 1,
-    "explanation": "upset is the best answer.",
-    "structuredExplanation": {
-      "summary": "upset is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1le01-p-024",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Ben laughing.] The picture shows Ben laughing. What does the picture tell us?",
-    "audioPrompt": "[Show Ben laughing.] The picture shows Ben laughing. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "afraid",
-      "amused",
-      "nothing"
-    ],
-    "correct": 1,
-    "explanation": "amused is the best answer.",
-    "structuredExplanation": {
-      "summary": "amused is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1le01-p-025",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Kim smiling.] The picture shows Kim smiling. What does the picture tell us?",
-    "audioPrompt": "[Show Kim smiling.] The picture shows Kim smiling. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "nothing",
-      "sad",
-      "happy"
-    ],
-    "correct": 2,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1le01-p-026",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Ava crying.] The picture shows Ava crying. What does the picture tell us?",
-    "audioPrompt": "[Show Ava crying.] The picture shows Ava crying. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "happy",
-      "sad",
-      "nothing"
-    ],
-    "correct": 1,
-    "explanation": "sad is the best answer.",
-    "structuredExplanation": {
-      "summary": "sad is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1le01-p-027",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Leo shivering.] The picture shows Leo shivering. What does the picture tell us?",
-    "audioPrompt": "[Show Leo shivering.] The picture shows Leo shivering. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hot",
-      "nothing",
-      "cold"
-    ],
-    "correct": 2,
-    "explanation": "cold is the best answer.",
-    "structuredExplanation": {
-      "summary": "cold is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1le01-p-028",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Zoe yawning.] The picture shows Zoe yawning. What does the picture tell us?",
-    "audioPrompt": "[Show Zoe yawning.] The picture shows Zoe yawning. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tired",
-      "nothing",
-      "angry"
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "tired is the best answer.",
+    "explanation": "The description asks readers to imagine the scent of bread.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "tired is the best answer."
+      "summary": "The description asks readers to imagine the scent of bread.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-029",
+    "id": "ac9e1le01-er3-p-017",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Max running.] The picture shows Max running. What does the picture tell us?",
-    "audioPrompt": "[Show Max running.] The picture shows Max running. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "'It was a small puddle.' An illustration shows a tiny mouse beside it, unable to cross. How can both contribute?",
+    "audioPrompt": "'It was a small puddle.' An illustration shows a tiny mouse beside it, unable to cross. How can both contribute?",
+    "visual": "A small mouse stands at the edge of a puddle many times wider than the mouse. The image has no measurement scale.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A small mouse stands at the edge of a puddle many times wider than the mouse. The image has no measurement scale.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-17.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "A small mouse stands at the edge of a puddle many times wider than the mouse. The image has no measurement scale.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-3/ac9e1le01-17.svg#model"
     },
     "answers": [
-      "nothing",
-      "asleep",
-      "in a hurry"
+      "The words mean the mouse must cross easily.",
+      "The words give size; the image shows its importance to the mouse.",
+      "The picture proves the puddle covers the whole world."
     ],
-    "correct": 2,
-    "explanation": "in a hurry is the best answer.",
-    "structuredExplanation": {
-      "summary": "in a hurry is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1le01-p-030",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Mia waving.] The picture shows Mia waving. What does the picture tell us?",
-    "audioPrompt": "[Show Mia waving.] The picture shows Mia waving. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hidden",
-      "friendly",
-      "nothing"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "friendly is the best answer.",
+    "explanation": "Something small to us can still be an obstacle for a small character.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "friendly is the best answer."
+      "summary": "Something small to us can still be an obstacle for a small character.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-031",
+    "id": "ac9e1le01-er3-p-018",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Ben frowning.] The picture shows Ben frowning. What does the picture tell us?",
-    "audioPrompt": "[Show Ben frowning.] The picture shows Ben frowning. What does the picture tell us?",
+    "question": "'A thin ribbon of smoke rose above the trees.' Which detail creates a clue that someone may be nearby?",
+    "audioPrompt": "'A thin ribbon of smoke rose above the trees.' Which detail creates a clue that someone may be nearby?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +546,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "upset",
-      "nothing",
-      "glad"
+      "The word thin by itself.",
+      "The fact that trees exist.",
+      "The smoke rising."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "Smoke can suggest a fire or activity, although it does not identify a person for certain.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Smoke can suggest a fire or activity, although it does not identify a person for certain.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le01-er3-p-019",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "language and images creating characters, settings and events",
+    "printable": true,
+    "type": "single",
+    "question": "A character says 'I'm not worried' while the picture shows tightly clenched hands. What can a reader reasonably infer?",
+    "audioPrompt": "A character says 'I'm not worried' while the picture shows tightly clenched hands. What can a reader reasonably infer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The character may feel worried despite the words.",
+      "The character is certainly telling the whole truth.",
+      "The character has no feelings."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "upset is the best answer.",
+    "explanation": "Body clues can complicate what a character claims.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "upset is the best answer."
+      "summary": "Body clues can complicate what a character claims.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-032",
+    "id": "ac9e1le01-er3-p-020",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Sam laughing.] The picture shows Sam laughing. What does the picture tell us?",
-    "audioPrompt": "[Show Sam laughing.] The picture shows Sam laughing. What does the picture tell us?",
+    "question": "Which revision makes an entrance feel sudden?",
+    "audioPrompt": "Which revision makes an entrance feel sudden?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +608,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "afraid",
-      "nothing",
-      "amused"
+      "The door had a handle.",
+      "The door burst open.",
+      "The door was there."
     ],
-    "correct": 2,
-    "explanation": "amused is the best answer.",
-    "structuredExplanation": {
-      "summary": "amused is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1le01-p-033",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Ava smiling.] The picture shows Ava smiling. What does the picture tell us?",
-    "audioPrompt": "[Show Ava smiling.] The picture shows Ava smiling. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sad",
-      "happy",
-      "nothing"
-    ],
-    "correct": 1,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "Burst gives the event energy and suddenness.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Burst gives the event energy and suddenness.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-034",
+    "id": "ac9e1le01-er3-p-021",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Leo crying.] The picture shows Leo crying. What does the picture tell us?",
-    "audioPrompt": "[Show Leo crying.] The picture shows Leo crying. What does the picture tell us?",
+    "question": "'The old dog waited beside the empty chair each evening.' What feeling might this detail invite?",
+    "audioPrompt": "'The old dog waited beside the empty chair each evening.' What feeling might this detail invite?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,29 +639,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sad",
-      "nothing",
-      "happy"
+      "Certainty that the dog dislikes chairs.",
+      "Proof that the room is noisy.",
+      "A sense that the dog misses someone."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Waiting beside an empty place may suggest longing; it does not prove every detail of the past.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Waiting beside an empty place may suggest longing; it does not prove every detail of the past.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le01-er3-p-022",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "language and images creating characters, settings and events",
+    "printable": true,
+    "type": "single",
+    "question": "A story image shows storm clouds behind a picnic scene. The words mention only packing food. What can the image add?",
+    "audioPrompt": "A story image shows storm clouds behind a picnic scene. The words mention only packing food. What can the image add?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A possible problem that may be coming.",
+      "A guarantee that lunch is already over.",
+      "The exact names of everyone eating."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "sad is the best answer.",
+    "explanation": "The clouds introduce a visual clue about possible weather trouble.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "The clouds introduce a visual clue about possible weather trouble.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-035",
+    "id": "ac9e1le01-er3-p-023",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Zoe shivering.] The picture shows Zoe shivering. What does the picture tell us?",
-    "audioPrompt": "[Show Zoe shivering.] The picture shows Zoe shivering. What does the picture tell us?",
+    "question": "Which pair of details works together to create a cheerful setting?",
+    "audioPrompt": "Which pair of details works together to create a cheerful setting?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1036,29 +701,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "nothing",
-      "cold",
-      "hot"
+      "The path was empty; the gate was locked.",
+      "Sunlight danced on water; children laughed.",
+      "The room was silent; the window was shut."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "cold is the best answer.",
+    "explanation": "The light and happy sound support the same cheerful impression.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "cold is the best answer."
+      "summary": "The light and happy sound support the same cheerful impression.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le01-p-036",
+    "id": "ac9e1le01-er3-p-024",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "skill": "language and images creating characters, settings and events",
     "printable": true,
     "type": "single",
-    "question": "[Show Max yawning.] The picture shows Max yawning. What does the picture tell us?",
-    "audioPrompt": "[Show Max yawning.] The picture shows Max yawning. What does the picture tell us?",
+    "question": "'Moss crept over the forgotten steps.' Which word suggests the place has not been used recently?",
+    "audioPrompt": "'Moss crept over the forgotten steps.' Which word suggests the place has not been used recently?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1066,378 +732,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "nothing",
-      "tired",
-      "angry"
+      "steps",
+      "over",
+      "forgotten"
     ],
-    "correct": 1,
-    "explanation": "tired is the best answer.",
-    "structuredExplanation": {
-      "summary": "tired is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1le01-p-037",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Mia running.] The picture shows Mia running. What does the picture tell us?",
-    "audioPrompt": "[Show Mia running.] The picture shows Mia running. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "in a hurry",
-      "asleep",
-      "nothing"
-    ],
-    "correct": 0,
-    "explanation": "in a hurry is the best answer.",
-    "structuredExplanation": {
-      "summary": "in a hurry is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1le01-p-038",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Ben waving.] The picture shows Ben waving. What does the picture tell us?",
-    "audioPrompt": "[Show Ben waving.] The picture shows Ben waving. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "nothing",
-      "friendly",
-      "hidden"
-    ],
-    "correct": 1,
-    "explanation": "friendly is the best answer.",
-    "structuredExplanation": {
-      "summary": "friendly is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1le01-p-039",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Sam frowning.] The picture shows Sam frowning. What does the picture tell us?",
-    "audioPrompt": "[Show Sam frowning.] The picture shows Sam frowning. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "nothing",
-      "glad",
-      "upset"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "upset is the best answer.",
+    "explanation": "Forgotten helps establish neglect, supported by the growing moss.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "upset is the best answer."
+      "summary": "Forgotten helps establish neglect, supported by the growing moss.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1le01-p-040",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Kim laughing.] The picture shows Kim laughing. What does the picture tell us?",
-    "audioPrompt": "[Show Kim laughing.] The picture shows Kim laughing. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "afraid",
-      "amused",
-      "nothing"
-    ],
-    "correct": 1,
-    "explanation": "amused is the best answer.",
-    "structuredExplanation": {
-      "summary": "amused is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1le01-p-041",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Leo smiling.] The picture shows Leo smiling. What does the picture tell us?",
-    "audioPrompt": "[Show Leo smiling.] The picture shows Leo smiling. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "nothing",
-      "sad",
-      "happy"
-    ],
-    "correct": 2,
-    "explanation": "happy is the best answer.",
-    "structuredExplanation": {
-      "summary": "happy is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le01-p-042",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Zoe crying.] The picture shows Zoe crying. What does the picture tell us?",
-    "audioPrompt": "[Show Zoe crying.] The picture shows Zoe crying. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "happy",
-      "nothing",
-      "sad"
-    ],
-    "correct": 2,
-    "explanation": "sad is the best answer.",
-    "structuredExplanation": {
-      "summary": "sad is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le01-p-043",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Max shivering.] The picture shows Max shivering. What does the picture tell us?",
-    "audioPrompt": "[Show Max shivering.] The picture shows Max shivering. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "cold",
-      "nothing",
-      "hot"
-    ],
-    "correct": 0,
-    "explanation": "cold is the best answer.",
-    "structuredExplanation": {
-      "summary": "cold is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le01-p-044",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Mia yawning.] The picture shows Mia yawning. What does the picture tell us?",
-    "audioPrompt": "[Show Mia yawning.] The picture shows Mia yawning. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "angry",
-      "nothing",
-      "tired"
-    ],
-    "correct": 2,
-    "explanation": "tired is the best answer.",
-    "structuredExplanation": {
-      "summary": "tired is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le01-p-045",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Ben running.] The picture shows Ben running. What does the picture tell us?",
-    "audioPrompt": "[Show Ben running.] The picture shows Ben running. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "in a hurry",
-      "asleep",
-      "nothing"
-    ],
-    "correct": 0,
-    "explanation": "in a hurry is the best answer.",
-    "structuredExplanation": {
-      "summary": "in a hurry is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le01-p-046",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Sam waving.] The picture shows Sam waving. What does the picture tell us?",
-    "audioPrompt": "[Show Sam waving.] The picture shows Sam waving. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hidden",
-      "nothing",
-      "friendly"
-    ],
-    "correct": 2,
-    "explanation": "friendly is the best answer.",
-    "structuredExplanation": {
-      "summary": "friendly is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le01-p-047",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Kim frowning.] The picture shows Kim frowning. What does the picture tell us?",
-    "audioPrompt": "[Show Kim frowning.] The picture shows Kim frowning. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "nothing",
-      "upset",
-      "glad"
-    ],
-    "correct": 1,
-    "explanation": "upset is the best answer.",
-    "structuredExplanation": {
-      "summary": "upset is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le01-p-048",
-    "curriculumCode": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
-    "printable": true,
-    "type": "single",
-    "question": "[Show Ava laughing.] The picture shows Ava laughing. What does the picture tell us?",
-    "audioPrompt": "[Show Ava laughing.] The picture shows Ava laughing. What does the picture tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "nothing",
-      "afraid",
-      "amused"
-    ],
-    "correct": 2,
-    "explanation": "amused is the best answer.",
-    "structuredExplanation": {
-      "summary": "amused is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1le04-p-001",
+    "id": "ac9e1le04-er3-p-001",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Which word rhymes with cat?",
-    "audioPrompt": "Which word rhymes with cat?",
+    "question": "Say 'busy bees buzz'. Which beginning sound repeats?",
+    "audioPrompt": "Say 'busy bees buzz'. Which beginning sound repeats?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,29 +16,92 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "bag",
-      "sun",
-      "hat"
+      "The b sound.",
+      "The s sound.",
+      "The m sound."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "The words begin with the same b sound, creating alliteration.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The words begin with the same b sound, creating alliteration.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le04-er3-p-002",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which pair rhymes at the end?",
+    "audioPrompt": "Which pair rhymes at the end?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "hill and hand",
+      "hill and still",
+      "hill and hot"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Hill and still share ending sounds, unlike the other pairs.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Hill and still share ending sounds, unlike the other pairs.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le04-er3-p-003",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Finish the alliterative phrase: 'Tiny turtles ___.'",
+    "audioPrompt": "Finish the alliterative phrase: 'Tiny turtles ___.'",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "swim",
+      "rest",
+      "tiptoe"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "hat is the best answer.",
+    "explanation": "Tiptoe repeats the t sound at the start of tiny and turtles.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "hat is the best answer."
+      "summary": "Tiptoe repeats the t sound at the start of tiny and turtles.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-002",
+    "id": "ac9e1le04-er3-p-004",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read: “I see a log by a frog.” Which words rhyme?",
+    "question": "Complete the rhyme: 'A little goat / climbed in a ___.'",
+    "audioPrompt": "Complete the rhyme: 'A little goat / climbed in a ___.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,239 +109,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "log and see",
-      "log and frog",
-      "see and by"
-    ],
-    "correct": 1,
-    "explanation": "log and frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "log and frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1le04-p-003",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The hen can hop.",
-      "Sam makes muffins.",
-      "Sam sees a dog."
-    ],
-    "correct": 1,
-    "explanation": "Sam makes muffins. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Sam makes muffins. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1le04-p-004",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Clap the beat: “Run to the beach.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the beach.” Which word comes last?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "run",
-      "beach",
-      "the"
-    ],
-    "correct": 1,
-    "explanation": "beach is the best answer.",
-    "structuredExplanation": {
-      "summary": "beach is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1le04-p-005",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Finish the rhyme: “I see a bee in a …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "dog",
-      "tree",
+      "boat",
+      "barn",
       "box"
     ],
-    "correct": 1,
-    "explanation": "tree is the best answer.",
-    "structuredExplanation": {
-      "summary": "tree is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1le04-p-006",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which pair does not rhyme?",
-    "audioPrompt": "Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "kite – light",
-      "light – kite",
-      "light – cup"
-    ],
-    "correct": 2,
-    "explanation": "light – cup is the best answer.",
-    "structuredExplanation": {
-      "summary": "light – cup is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1le04-p-007",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "read",
-      "tap",
-      "aloud"
-    ],
-    "correct": 1,
-    "explanation": "tap is the best answer.",
-    "structuredExplanation": {
-      "summary": "tap is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1le04-p-008",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which line uses alliteration?",
-    "audioPrompt": "Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The snake is long.",
-      "Silly snakes slide.",
-      "I see two snakes."
-    ],
-    "correct": 1,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1le04-p-009",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which word rhymes with cat?",
-    "audioPrompt": "Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hat",
-      "sun",
-      "bag"
-    ],
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "hat is the best answer.",
+    "explanation": "Boat rhymes with goat and fits as something to climb into.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "hat is the best answer."
+      "summary": "Boat rhymes with goat and fits as something to climb into.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le04-er3-p-005",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Say 'seven slippery snails'. What pattern do you hear?",
+    "audioPrompt": "Say 'seven slippery snails'. What pattern do you hear?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Every word is the same word.",
+      "Repeated s sounds at the beginnings.",
+      "Every word ends in ail."
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The starting sounds repeat although the words differ.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The starting sounds repeat although the words differ.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-010",
+    "id": "ac9e1le04-er3-p-006",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read: “I see a log by a frog.” Which words rhyme?",
+    "question": "Which line repeats the same word as a chant?",
+    "audioPrompt": "Which line repeats the same word as a chant?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "see and by",
-      "log and see",
-      "log and frog"
+      "Roll the ball away.",
+      "The round ball rolled.",
+      "Roll, roll, roll along."
     ],
-    "correct": 2,
-    "explanation": "log and frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "log and frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Repeating roll three times creates the chant pattern.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Repeating roll three times creates the chant pattern.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-011",
+    "id": "ac9e1le04-er3-p-007",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
+    "question": "Choose a word that rhymes with deep.",
+    "audioPrompt": "Choose a word that rhymes with deep.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Kim sees a dog.",
-      "Kim makes muffins.",
-      "The frog can hop."
+      "sleep",
+      "drop",
+      "duck"
     ],
-    "correct": 1,
-    "explanation": "Kim makes muffins. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Kim makes muffins. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Sleep and deep have matching ending sounds.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Sleep and deep have matching ending sounds.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-012",
+    "id": "ac9e1le04-er3-p-008",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Clap the beat: “Run to the park.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the park.” Which word comes last?",
+    "question": "'Soft sand' and 'sand hand' show different patterns. Which pair repeats a beginning sound?",
+    "audioPrompt": "'Soft sand' and 'sand hand' show different patterns. Which pair repeats a beginning sound?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,89 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "park",
-      "run",
-      "the"
+      "Both repeat the same beginning sound.",
+      "Soft sand.",
+      "sand hand"
     ],
-    "correct": 0,
-    "explanation": "park is the best answer.",
-    "structuredExplanation": {
-      "summary": "park is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1le04-p-013",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Finish the rhyme: “I see a bee in a …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "box",
-      "dog",
-      "tree"
-    ],
-    "correct": 2,
-    "explanation": "tree is the best answer.",
-    "structuredExplanation": {
-      "summary": "tree is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
-  },
-  {
-    "id": "ac9e1le04-p-014",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which pair does not rhyme?",
-    "audioPrompt": "Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light – kite",
-      "light – cup",
-      "kite – light"
-    ],
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "light – cup is the best answer.",
+    "explanation": "Soft and sand start with s; sand and hand rhyme at the end.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "light – cup is the best answer."
+      "summary": "Soft and sand start with s; sand and hand rhyme at the end.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-015",
+    "id": "ac9e1le04-er3-p-009",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
+    "question": "Finish with a word that rhymes and makes sense: 'The bird flew high / across the open ___.'",
+    "audioPrompt": "Finish with a word that rhymes and makes sense: 'The bird flew high / across the open ___.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +264,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "tap",
-      "read",
-      "aloud"
+      "pie",
+      "sigh",
+      "sky"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Sky rhymes with high and names the space the bird crosses.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Sky rhymes with high and names the space the bird crosses.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le04-er3-p-010",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which line imitates the starting-sound pattern in 'Little lizards leap'?",
+    "audioPrompt": "Which line imitates the starting-sound pattern in 'Little lizards leap'?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Playful puppies pounce.",
+      "Puppies run outside.",
+      "Little birds sing."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "tap is the best answer.",
+    "explanation": "The first line uses three words beginning with the same sound.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "tap is the best answer."
+      "summary": "The first line uses three words beginning with the same sound.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-016",
+    "id": "ac9e1le04-er3-p-011",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Which line uses alliteration?",
-    "audioPrompt": "Which line uses alliteration?",
+    "question": "Say 'fish, fan, phone'. Why can these words share a beginning-sound pattern?",
+    "audioPrompt": "Say 'fish, fan, phone'. Why can these words share a beginning-sound pattern?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The snake is long.",
-      "I see two snakes.",
-      "Silly snakes slide."
+      "They all have the same number of letters.",
+      "They begin with the f sound despite different spellings.",
+      "They all end in the same sound."
     ],
-    "correct": 2,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1le04-p-017",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which word rhymes with cat?",
-    "audioPrompt": "Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sun",
-      "bag",
-      "hat"
-    ],
-    "correct": 2,
-    "explanation": "hat is the best answer.",
-    "structuredExplanation": {
-      "summary": "hat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Alliteration concerns sound; ph in phone represents the f sound.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Alliteration concerns sound; ph in phone represents the f sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-018",
+    "id": "ac9e1le04-er3-p-012",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read: “I see a log by a frog.” Which words rhyme?",
+    "question": "A poem ends a line with lake. Which ending continues the rhyme?",
+    "audioPrompt": "A poem ends a line with lake. Which ending continues the rhyme?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "log and frog",
-      "see and by",
-      "log and see"
+      "leaf",
+      "look",
+      "wake"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Wake matches lake's ending sound.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Wake matches lake's ending sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le04-er3-p-013",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision adds alliteration to 'The dog runs'?",
+    "audioPrompt": "Which revision adds alliteration to 'The dog runs'?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The daring dog dashes.",
+      "The dog runs quickly.",
+      "The dog goes home."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "log and frog is the best answer.",
+    "explanation": "The repeated d sound links daring, dog and dashes.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "log and frog is the best answer."
+      "summary": "The repeated d sound links daring, dog and dashes.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-019",
+    "id": "ac9e1le04-er3-p-014",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
+    "question": "Finish the chant's pattern: 'Clap and tap. Clap and tap. ___'",
+    "audioPrompt": "Finish the chant's pattern: 'Clap and tap. Clap and tap. ___'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The fish can hop.",
-      "Ava makes muffins.",
-      "Ava sees a dog."
+      "Sit beside the door.",
+      "Clap and tap.",
+      "Tap and run away."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "Ava makes muffins. is the best answer.",
+    "explanation": "Repeating the phrase continues the established chant.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Ava makes muffins. is the best answer."
+      "summary": "Repeating the phrase continues the established chant.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-020",
+    "id": "ac9e1le04-er3-p-015",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Clap the beat: “Run to the pond.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the pond.” Which word comes last?",
+    "question": "'Brown bears bounce.' Which word could replace bears while keeping the starting-sound pattern?",
+    "audioPrompt": "'Brown bears bounce.' Which word could replace bears while keeping the starting-sound pattern?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +450,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "pond",
-      "the",
-      "run"
+      "rabbits",
+      "hares",
+      "bunnies"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Bunnies starts with the same b sound as brown and bounce.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Bunnies starts with the same b sound as brown and bounce.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le04-er3-p-016",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A rhyme ends 'The tiny snail / left a silver trail.' Which word could replace trail and still rhyme with snail?",
+    "audioPrompt": "A rhyme ends 'The tiny snail / left a silver trail.' Which word could replace trail and still rhyme with snail?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "rail",
+      "road",
+      "path"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "pond is the best answer.",
+    "explanation": "Rail preserves the ending sound, though a rewritten line must also make sense.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "pond is the best answer."
+      "summary": "Rail preserves the ending sound, though a rewritten line must also make sense.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-021",
+    "id": "ac9e1le04-er3-p-017",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Finish the rhyme: “I see a bee in a …”",
+    "question": "A writer chooses 'The cat sat on a hat' instead of 'The cat sat on a chair'. What sound pattern is added?",
+    "audioPrompt": "A writer chooses 'The cat sat on a hat' instead of 'The cat sat on a chair'. What sound pattern is added?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "box",
-      "tree",
-      "dog"
+      "Every word has the same ending letter only.",
+      "Rhyme among cat, sat and hat.",
+      "All words begin with c."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "tree is the best answer.",
+    "explanation": "The repeated at sound creates rhyme through several words.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "tree is the best answer."
+      "summary": "The repeated at sound creates rhyme through several words.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-022",
+    "id": "ac9e1le04-er3-p-018",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Which pair does not rhyme?",
-    "audioPrompt": "Which pair does not rhyme?",
+    "question": "Which line keeps both alliteration and a sensible action?",
+    "audioPrompt": "Which line keeps both alliteration and a sensible action?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +543,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "light – kite",
-      "kite – light",
-      "light – cup"
+      "Drowsy ducks doors.",
+      "Drowsy ducks blue.",
+      "Drowsy ducks doze."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "light – cup is the best answer.",
+    "explanation": "Doze repeats d and supplies a sensible action; matching sounds alone are not enough.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "light – cup is the best answer."
+      "summary": "Doze repeats d and supplies a sensible action; matching sounds alone are not enough.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-023",
+    "id": "ac9e1le04-er3-p-019",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read and choose: Read aloud: “Tap, tap, tap.” Which word is repeated?",
+    "question": "Say 'city cat'. Why is this not the same repeated beginning sound?",
+    "audioPrompt": "Say 'city cat'. Why is this not the same repeated beginning sound?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +574,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "read",
-      "tap",
-      "aloud"
+      "City starts with s; cat starts with k.",
+      "Both start with exactly the same sound.",
+      "Neither word has a beginning sound."
     ],
-    "correct": 1,
-    "explanation": "tap is the best answer.",
-    "structuredExplanation": {
-      "summary": "tap is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1le04-p-024",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which line uses alliteration?",
-    "audioPrompt": "Read and choose: Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The snake is long.",
-      "Silly snakes slide.",
-      "I see two snakes."
-    ],
-    "correct": 1,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1le04-p-025",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word rhymes with cat?",
-    "audioPrompt": "Read and choose: Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bag",
-      "sun",
-      "hat"
-    ],
-    "correct": 2,
-    "explanation": "hat is the best answer.",
-    "structuredExplanation": {
-      "summary": "hat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1le04-p-026",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "log and see",
-      "log and frog",
-      "see and by"
-    ],
-    "correct": 1,
-    "explanation": "log and frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "log and frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1le04-p-027",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Leo sees a dog.",
-      "The cat can hop.",
-      "Leo makes muffins."
-    ],
-    "correct": 2,
-    "explanation": "Leo makes muffins. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Leo makes muffins. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1le04-p-028",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Clap the beat: “Run to the farm.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the farm.” Which word comes last?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "farm",
-      "the",
-      "run"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "farm is the best answer.",
+    "explanation": "The same first letter can represent different sounds.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "farm is the best answer."
+      "summary": "The same first letter can represent different sounds.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-029",
+    "id": "ac9e1le04-er3-p-020",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Read and choose: Finish the rhyme: “I see a bee in a …”",
+    "question": "Complete: 'The frog sat by the bog / beside a fallen ___.'",
+    "audioPrompt": "Complete: 'The frog sat by the bog / beside a fallen ___.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "box",
-      "dog",
-      "tree"
+      "doggy",
+      "log",
+      "fog"
     ],
-    "correct": 2,
-    "explanation": "tree is the best answer.",
-    "structuredExplanation": {
-      "summary": "tree is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1le04-p-030",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which pair does not rhyme?",
-    "audioPrompt": "Read and choose: Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light – kite",
-      "light – cup",
-      "kite – light"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "light – cup is the best answer.",
+    "explanation": "Log rhymes with bog and makes sense as a fallen object.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "light – cup is the best answer."
+      "summary": "Log rhymes with bog and makes sense as a fallen object.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-031",
+    "id": "ac9e1le04-er3-p-021",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
+    "question": "A poem changes 'whispering willows' to 'quiet trees'. What is lost?",
+    "audioPrompt": "A poem changes 'whispering willows' to 'quiet trees'. What is lost?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "tap",
-      "aloud",
-      "read"
+      "All meaning about trees.",
+      "The ability to read the words.",
+      "The repeated w sound."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "The meaning remains related, but the alliteration disappears.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The meaning remains related, but the alliteration disappears.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le04-er3-p-022",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which invented chant follows 'Hop, hop, stop' with the same short repeated-word pattern?",
+    "audioPrompt": "Which invented chant follows 'Hop, hop, stop' with the same short repeated-word pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Spin, spin, grin.",
+      "Spin around the playground.",
+      "We can spin together."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "tap is the best answer.",
+    "explanation": "The first repeats a short word twice then ends with another short rhyming word.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "tap is the best answer."
+      "summary": "The first repeats a short word twice then ends with another short rhyming word.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-032",
+    "id": "ac9e1le04-er3-p-023",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which line uses alliteration?",
-    "audioPrompt": "Read and choose: Which line uses alliteration?",
+    "question": "A child says 'blue shoe' is alliteration because it sounds alike. What is the better description?",
+    "audioPrompt": "A child says 'blue shoe' is alliteration because it sounds alike. What is the better description?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The snake is long.",
-      "I see two snakes.",
-      "Silly snakes slide."
+      "It repeats the exact same word.",
+      "It rhymes at the end.",
+      "It repeats the b sound at the beginning."
     ],
-    "correct": 2,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1le04-p-033",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which word rhymes with cat?",
-    "audioPrompt": "Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sun",
-      "hat",
-      "bag"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "hat is the best answer.",
+    "explanation": "Blue and shoe share ending sounds but begin differently.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "hat is the best answer."
+      "summary": "Blue and shoe share ending sounds but begin differently.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le04-p-034",
+    "id": "ac9e1le04-er3-p-024",
     "curriculumCode": "AC9E1LE04",
     "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read and choose: Read: “I see a log by a frog.” Which words rhyme?",
+    "question": "Which ending preserves rhyme and sense: 'We saw a star / above the hills so ___'?",
+    "audioPrompt": "Which ending preserves rhyme and sense: 'We saw a star / above the hills so ___'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,438 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "log and frog",
-      "see and by",
-      "log and see"
+      "car",
+      "jar",
+      "far"
     ],
-    "correct": 0,
-    "explanation": "log and frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "log and frog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
-  },
-  {
-    "id": "ac9e1le04-p-035",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The hen can hop.",
-      "Zoe makes muffins.",
-      "Zoe sees a dog."
-    ],
-    "correct": 1,
-    "explanation": "Zoe makes muffins. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Zoe makes muffins. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
-  },
-  {
-    "id": "ac9e1le04-p-036",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Clap the beat: “Run to the zoo.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the zoo.” Which word comes last?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the",
-      "zoo",
-      "run"
-    ],
-    "correct": 1,
-    "explanation": "zoo is the best answer.",
-    "structuredExplanation": {
-      "summary": "zoo is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1le04-p-037",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Finish the rhyme: “I see a bee in a …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tree",
-      "dog",
-      "box"
-    ],
-    "correct": 0,
-    "explanation": "tree is the best answer.",
-    "structuredExplanation": {
-      "summary": "tree is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1le04-p-038",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which pair does not rhyme?",
-    "audioPrompt": "Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "kite – light",
-      "light – cup",
-      "light – kite"
-    ],
-    "correct": 1,
-    "explanation": "light – cup is the best answer.",
-    "structuredExplanation": {
-      "summary": "light – cup is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1le04-p-039",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "aloud",
-      "read",
-      "tap"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "tap is the best answer.",
+    "explanation": "Far rhymes with star and fits the sentence meaning.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "tap is the best answer."
+      "summary": "Far rhymes with star and fits the sentence meaning.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1le04-p-040",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which line uses alliteration?",
-    "audioPrompt": "Look and choose: Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The snake is long.",
-      "Silly snakes slide.",
-      "I see two snakes."
-    ],
-    "correct": 1,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1le04-p-041",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which word rhymes with cat?",
-    "audioPrompt": "Look and choose: Which word rhymes with cat?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bag",
-      "sun",
-      "hat"
-    ],
-    "correct": 2,
-    "explanation": "hat is the best answer.",
-    "structuredExplanation": {
-      "summary": "hat is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le04-p-042",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “I see a log by a frog.” Which words rhyme?",
-    "audioPrompt": "Read: “I see a log by a frog.” Which words rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "log and see",
-      "see and by",
-      "log and frog"
-    ],
-    "correct": 2,
-    "explanation": "log and frog is the best answer.",
-    "structuredExplanation": {
-      "summary": "log and frog is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le04-p-043",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which line has words that start with the same sound?",
-    "audioPrompt": "Which line has words that start with the same sound?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Max makes muffins.",
-      "The frog can hop.",
-      "Max sees a dog."
-    ],
-    "correct": 0,
-    "explanation": "Max makes muffins. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Max makes muffins. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le04-p-044",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Clap the beat: “Run to the school.” Which word comes last?",
-    "audioPrompt": "Clap the beat: “Run to the school.” Which word comes last?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "run",
-      "the",
-      "school"
-    ],
-    "correct": 2,
-    "explanation": "school is the best answer.",
-    "structuredExplanation": {
-      "summary": "school is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le04-p-045",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Finish the rhyme: “I see a bee in a …”",
-    "audioPrompt": "Read and choose: Finish the rhyme: “I see a bee in a …”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tree",
-      "dog",
-      "box"
-    ],
-    "correct": 0,
-    "explanation": "tree is the best answer.",
-    "structuredExplanation": {
-      "summary": "tree is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le04-p-046",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which pair does not rhyme?",
-    "audioPrompt": "Read and choose: Which pair does not rhyme?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light – kite",
-      "kite – light",
-      "light – cup"
-    ],
-    "correct": 2,
-    "explanation": "light – cup is the best answer.",
-    "structuredExplanation": {
-      "summary": "light – cup is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le04-p-047",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "audioPrompt": "Read aloud: “Tap, tap, tap.” Which word is repeated?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "aloud",
-      "tap",
-      "read"
-    ],
-    "correct": 1,
-    "explanation": "tap is the best answer.",
-    "structuredExplanation": {
-      "summary": "tap is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le04-p-048",
-    "curriculumCode": "AC9E1LE04",
-    "bank": "practice",
-    "skill": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
-    "printable": true,
-    "type": "single",
-    "question": "Which line uses alliteration?",
-    "audioPrompt": "Which line uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I see two snakes.",
-      "The snake is long.",
-      "Silly snakes slide."
-    ],
-    "correct": 2,
-    "explanation": "Silly snakes slide. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Silly snakes slide. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

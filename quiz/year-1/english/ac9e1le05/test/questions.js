@@ -1,14 +1,14 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e1le05-t-001",
+    "id": "ac9e1le05-er3-t-001",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Retell: “Zoe found a seed. Zoe planted it. A flower grew.” What happened second?",
-    "audioPrompt": "Retell: “Zoe found a seed. Zoe planted it. A flower grew.” What happened second?",
+    "question": "Story: A moth follows a light, reaches a window and rests outside. Which retelling is accurate?",
+    "audioPrompt": "Story: A moth follows a light, reaches a window and rests outside. Which retelling is accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,29 +16,61 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The seed was found.",
-      "The seed was planted.",
-      "A flower grew."
+      "The moth follows the light and rests by the window.",
+      "The moth hides from every light and enters a cave.",
+      "The moth never moves from its first place."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "The retelling preserves the sequence and endpoint given.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The retelling preserves the sequence and endpoint given.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-t-002",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "test",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Story: A child loses a mitten, searches the path and finds it on a fence. Which event belongs in the middle?",
+    "audioPrompt": "Story: A child loses a mitten, searches the path and finds it on a fence. Which event belongs in the middle?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Going home before the search begins.",
+      "Searching the path.",
+      "Losing it after finding it."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "The seed was planted. is the best answer.",
+    "explanation": "The search connects the loss with the finding.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The seed was planted. is the best answer."
+      "summary": "The search connects the loss with the finding.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-t-002",
+    "id": "ac9e1le05-er3-t-003",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Look and choose: In a retell, what should come first?",
-    "audioPrompt": "Look and choose: In a retell, what should come first?",
+    "question": "A story ends when a turtle helps a beetle cross water. Which detail is essential to its retelling?",
+    "audioPrompt": "A story ends when a turtle helps a beetle cross water. Which detail is essential to its retelling?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,29 +78,92 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the ending",
-      "the beginning",
-      "a new story"
+      "The colour of an unrelated sign.",
+      "The spelling of water alone.",
+      "The turtle's help enables the crossing."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The helping action explains how the problem is resolved.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The helping action explains how the problem is resolved.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-t-004",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "test",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "You role-play a cautious character opening a mysterious door. Which action fits?",
+    "audioPrompt": "You role-play a cautious character opening a mysterious door. Which action fits?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Open it slowly and look before entering.",
+      "Rush in without looking while claiming to be cautious.",
+      "Ignore the door and end the story."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "The action should express the character trait in the scene.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The action should express the character trait in the scene.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-t-005",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "test",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A story repeats 'Who will help?' before each animal replies. How can you keep its pattern in a spoken retelling?",
+    "audioPrompt": "A story repeats 'Who will help?' before each animal replies. How can you keep its pattern in a spoken retelling?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Replace the animals' replies with unrelated dates.",
+      "Repeat the question before each reply.",
+      "Say only the final answer and call it the complete retelling."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "the beginning is the best answer.",
+    "explanation": "The recurring question organises the sequence of responses.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "the beginning is the best answer."
+      "summary": "The recurring question organises the sequence of responses.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-t-003",
+    "id": "ac9e1le05-er3-t-006",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which sentence could change the setting of a story?",
-    "audioPrompt": "Which sentence could change the setting of a story?",
+    "question": "A story's mouse returns a lion's kindness by freeing it. Which short retelling keeps the relationship?",
+    "audioPrompt": "A story's mouse returns a lion's kindness by freeing it. Which short retelling keeps the relationship?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -76,29 +171,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The story is over.",
-      "Mia can read.",
-      "The story happens at the park."
+      "The two characters never meet.",
+      "The mouse is replaced by a rock with no role.",
+      "The lion first helps the mouse; later the mouse helps the lion."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "The story happens at the park. is the best answer.",
+    "explanation": "The return of kindness is the connection between the events.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The story happens at the park. is the best answer."
+      "summary": "The return of kindness is the connection between the events.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-t-004",
+    "id": "ac9e1le05-er3-t-007",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "You act as the goat in a story. What could you use?",
-    "audioPrompt": "You act as the goat in a story. What could you use?",
+    "question": "Which drawing plan retells a seed growing into a plant?",
+    "audioPrompt": "Which drawing plan retells a seed growing into a plant?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -106,59 +202,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a maths sum",
-      "a page number",
-      "animal movements"
+      "Seed planted; shoot appears; leaves grow.",
+      "Leaves grow; seed planted; shoot disappears.",
+      "Three unrelated flowers with no sequence."
     ],
-    "correct": 2,
-    "explanation": "animal movements is the best answer.",
-    "structuredExplanation": {
-      "summary": "animal movements is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1le05-t-005",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
-    "printable": true,
-    "type": "single",
-    "question": "Which drawing would show the end of “The lost sock was found”?",
-    "audioPrompt": "Which drawing would show the end of “The lost sock was found”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Sam holding the sock",
-      "Sam looking sad",
-      "an empty road"
-    ],
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Sam holding the sock is the best answer.",
+    "explanation": "The panels follow the key growth events in order.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sam holding the sock is the best answer."
+      "summary": "The panels follow the key growth events in order.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-t-006",
+    "id": "ac9e1le05-er3-t-008",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which sentence keeps the same story order?",
-    "audioPrompt": "Which sentence keeps the same story order?",
+    "question": "You adapt a hungry bear to a hungry bird. Which detail should fit the new character?",
+    "audioPrompt": "You adapt a hungry bear to a hungry bird. Which detail should fit the new character?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -166,119 +233,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First wake, then eat.",
-      "First eat, then wake.",
-      "Only say the end."
+      "The bird keeps being called a bear without explanation.",
+      "The bird uses its beak to pick up food.",
+      "The bird uses bear paws throughout."
     ],
-    "correct": 0,
-    "explanation": "First wake, then eat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "First wake, then eat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1le05-t-007",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: To adapt a story, what may you change?",
-    "audioPrompt": "Read and choose: To adapt a story, what may you change?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the page number only",
-      "every letter sound",
-      "a character"
-    ],
-    "correct": 2,
-    "explanation": "a character is the best answer.",
-    "structuredExplanation": {
-      "summary": "a character is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1le05-t-008",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which opening helps retell a story?",
-    "audioPrompt": "Read and choose: Which opening helps retell a story?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Stop here.",
-      "The answer is 8.",
-      "One day …"
-    ],
-    "correct": 2,
-    "explanation": "One day … is the best answer.",
-    "structuredExplanation": {
-      "summary": "One day … is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1le05-t-009",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
-    "printable": true,
-    "type": "single",
-    "question": "Retell: “Max found a seed. Max planted it. A flower grew.” What happened second?",
-    "audioPrompt": "Retell: “Max found a seed. Max planted it. A flower grew.” What happened second?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A flower grew.",
-      "The seed was planted.",
-      "The seed was found."
-    ],
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "The seed was planted. is the best answer.",
+    "explanation": "Changed characters need consistent actions and descriptions.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The seed was planted. is the best answer."
+      "summary": "Changed characters need consistent actions and descriptions.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-t-010",
+    "id": "ac9e1le05-er3-t-009",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: In a retell, what should come first?",
-    "audioPrompt": "Read and choose: In a retell, what should come first?",
+    "question": "Story: A child shares a torch so both friends can find the path. Which ending keeps the cause and result?",
+    "audioPrompt": "Story: A child shares a torch so both friends can find the path. Which ending keeps the cause and result?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +264,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a new story",
-      "the ending",
-      "the beginning"
+      "They find the path because the torch is never used.",
+      "The torch is unrelated and the journey is omitted.",
+      "Using the shared light, they find their way."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "the beginning is the best answer.",
+    "explanation": "The shared light is the reason they can navigate in the original story.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "the beginning is the best answer."
+      "summary": "The shared light is the reason they can navigate in the original story.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-t-011",
+    "id": "ac9e1le05-er3-t-010",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which sentence could change the setting of a story?",
-    "audioPrompt": "Which sentence could change the setting of a story?",
+    "question": "A character speaks softly to avoid waking a baby. Which role-play choice preserves meaning?",
+    "audioPrompt": "A character speaks softly to avoid waking a baby. Which role-play choice preserves meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,89 +295,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ben can read.",
-      "The story is over.",
-      "The story happens at the pond."
+      "Use a quiet voice for that line.",
+      "Shout the line while keeping the baby asleep for no reason.",
+      "Say the line as a question about the weather."
     ],
-    "correct": 2,
-    "explanation": "The story happens at the pond. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The story happens at the pond. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 11
-  },
-  {
-    "id": "ac9e1le05-t-012",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
-    "printable": true,
-    "type": "single",
-    "question": "You act as the dog in a story. What could you use?",
-    "audioPrompt": "You act as the dog in a story. What could you use?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a maths sum",
-      "a page number",
-      "animal movements"
-    ],
-    "correct": 2,
-    "explanation": "animal movements is the best answer.",
-    "structuredExplanation": {
-      "summary": "animal movements is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1le05-t-013",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
-    "printable": true,
-    "type": "single",
-    "question": "Which drawing would show the end of “The lost bag was found”?",
-    "audioPrompt": "Which drawing would show the end of “The lost bag was found”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Kim holding the bag",
-      "an empty road",
-      "Kim looking sad"
-    ],
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Kim holding the bag is the best answer.",
+    "explanation": "Voice should match the character's intention in the scene.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Kim holding the bag is the best answer."
+      "summary": "Voice should match the character's intention in the scene.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-t-014",
+    "id": "ac9e1le05-er3-t-011",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which sentence keeps the same story order?",
-    "audioPrompt": "Which sentence keeps the same story order?",
+    "question": "You adapt a tale so a ladder breaks instead of a boat leaking. Which solution fits the new problem?",
+    "audioPrompt": "You adapt a tale so a ladder breaks instead of a boat leaking. Which solution fits the new problem?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +326,92 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First wake, then eat.",
-      "Only say the end.",
-      "First eat, then wake."
+      "They keep sailing without any ladder.",
+      "The characters repair or replace the ladder to climb safely.",
+      "They patch a boat that is no longer in the story."
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "The resolution must address the adapted obstacle.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The resolution must address the adapted obstacle.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-t-012",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "test",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A retelling includes the ending but omits why the characters left home. What might the listener miss?",
+    "audioPrompt": "A retelling includes the ending but omits why the characters left home. What might the listener miss?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The number of printed pages.",
+      "The author's handwriting.",
+      "The goal that explains their journey."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The beginning often establishes the motive for later events.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The beginning often establishes the motive for later events.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-t-013",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "test",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A story has a repeated warning that the hero ignores three times. What should an adaptation preserve if keeping that pattern?",
+    "audioPrompt": "A story has a repeated warning that the hero ignores three times. What should an adaptation preserve if keeping that pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Three warnings and connected choices before the consequence.",
+      "One warning with no response or consequence.",
+      "Only a repeated border around the pictures."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "First wake, then eat. is the best answer.",
+    "explanation": "The pattern belongs to the events and language, not the decoration.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "First wake, then eat. is the best answer."
+      "summary": "The pattern belongs to the events and language, not the decoration.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-t-015",
+    "id": "ac9e1le05-er3-t-014",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "To adapt a story, what may you change?",
-    "audioPrompt": "To adapt a story, what may you change?",
+    "question": "You replace a story's storm with bright sunshine but keep an ending about sheltering from the storm. What needs revising?",
+    "audioPrompt": "You replace a story's storm with bright sunshine but keep an ending about sheltering from the storm. What needs revising?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +419,30 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "every letter sound",
-      "the page number only",
-      "a character"
+      "The characters' names while leaving the contradiction.",
+      "The ending or the weather change so the events remain connected.",
+      "Only the length of the title."
     ],
-    "correct": 2,
-    "explanation": "a character is the best answer.",
-    "structuredExplanation": {
-      "summary": "a character is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 15
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Changes should remain consistent across the cause and outcome.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Changes should remain consistent across the cause and outcome.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-t-016",
+    "id": "ac9e1le05-er3-t-015",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Look and choose: Which opening helps retell a story?",
-    "audioPrompt": "Look and choose: Which opening helps retell a story?",
+    "question": "A child adds a new rescue scene and calls the work an adaptation. Why is that label useful?",
+    "audioPrompt": "A child adds a new rescue scene and calls the work an adaptation. Why is that label useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,18 +450,52 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The answer is 8.",
-      "Stop here.",
-      "One day …"
+      "It means the story must copy every word.",
+      "It means the original had no plot.",
+      "It signals a deliberate change from the original story."
     ],
-    "correct": 2,
-    "explanation": "One day … is the best answer.",
-    "structuredExplanation": {
-      "summary": "One day … is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 16
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "An adaptation reworks a familiar story rather than claiming an unchanged retelling.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "An adaptation reworks a familiar story rather than claiming an unchanged retelling.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-t-016",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "test",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which short version best retells 'The bird lost a feather, searched the nest and found it under a leaf'?",
+    "audioPrompt": "Which short version best retells 'The bird lost a feather, searched the nest and found it under a leaf'?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "After losing a feather, the bird searched and found it under a leaf.",
+      "A bird had feathers and leaves were green.",
+      "A leaf flew away before any bird arrived."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "The first keeps the main problem, search and solution.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The first keeps the main problem, search and solution.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

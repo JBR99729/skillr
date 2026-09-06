@@ -1,1162 +1,746 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1le05-p-001",
+    "id": "ac9e1le05-er3-p-001",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 01 recognise",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly name essential content?",
-    "audioPrompt": "Which response would correctly name essential content?",
-    "visual": "📖 Name essential content; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name essential content; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-001\"></use></svg>",
+    "question": "Story: A chick lost its way. It followed a bell and found the farm. Which retelling keeps the main events?",
+    "audioPrompt": "Story: A chick lost its way. It followed a bell and found the farm. Which retelling keeps the main events?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-001",
-      "alt_text": "📖 Name essential content; 🔎 retell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Main problem; it drives the plot, while incidental cup colour can be omitted",
-      "Main problem; it drives the characters, while incidental cup colour can be omitted",
-      "Main problem; it drives the structure, while incidental cup colour can be omitted"
+      "The chick got lost, followed a bell and returned to the farm.",
+      "The chick left the farm to buy a bell.",
+      "The chick stayed at the farm all day."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Main problem; it drives the plot, while incidental cup colour can be omitted This matches the task.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "The first retelling preserves the problem, action and ending.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Main problem; it drives the plot, while incidental cup colour can be omitted This matches the task.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "The first retelling preserves the problem, action and ending.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-002",
+    "id": "ac9e1le05-er3-p-002",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 02 recognise",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match retell parts?",
-    "audioPrompt": "Which response would correctly match retell parts?",
-    "visual": "📖 Match retell parts; 🔎 adapt; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match retell parts; 🔎 adapt; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-003\"></use></svg>",
+    "question": "Story: A child found a seed, planted it and grew a flower. What comes first in a retelling?",
+    "audioPrompt": "Story: A child found a seed, planted it and grew a flower. What comes first in a retelling?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-003",
-      "alt_text": "📖 Match retell parts; 🔎 adapt; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Beginning ↔ problem/attempts; middle ↔ resolution; ending ↔ introduce",
-      "Leave out ending.",
-      "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution"
+      "Picking the flower before it grew.",
+      "Finding the seed.",
+      "Seeing the flower."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The retelling should begin with the event that starts the sequence.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The retelling should begin with the event that starts the sequence.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-p-003",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A story's rabbit cannot reach an apple. A friend lifts it up. Which ending belongs in the retelling?",
+    "audioPrompt": "A story's rabbit cannot reach an apple. A friend lifts it up. Which ending belongs in the retelling?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The rabbit never sees an apple.",
+      "The friend hides before any help is given.",
+      "The rabbit reaches the apple with help."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution This matches the task.\nHint: A retell needs a clear ending.",
+    "explanation": "The original resolution depends on help reaching the apple.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution This matches the task.",
-      "hint": "A retell needs a clear ending."
+      "summary": "The original resolution depends on help reaching the apple.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-003",
+    "id": "ac9e1le05-er3-p-004",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 03 recognise",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly retell three events?",
-    "audioPrompt": "Which response would correctly retell three events?",
-    "visual": "📖 Retell three events; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Retell three events; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-005\"></use></svg>",
+    "question": "You retell a story about a timid owl using role-play. Which action fits timid at the start?",
+    "audioPrompt": "You retell a story about a timid owl using role-play. Which action fits timid at the start?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-005",
-      "alt_text": "📖 Retell three events; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change every part of the story at once.",
-      "Includes character and all three events in logical order with sequence words",
-      "Do not keep enough familiar structure for the story to make sense."
+      "Peep out slowly before joining others.",
+      "Stride in and boast loudly.",
+      "Sleep through every event."
     ],
-    "correct": 1,
-    "explanation": "Includes character and all three events in logical order with sequence words This matches the task.\nHint: Change one or two parts deliberately.",
-    "structuredExplanation": {
-      "summary": "Includes character and all three events in logical order with sequence words This matches the task.",
-      "hint": "Change one or two parts deliberately."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-004",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 04 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly choose an adaptation?",
-    "audioPrompt": "Which response would correctly choose an adaptation?",
-    "visual": "📖 Choose an adaptation; 🔎 characters; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose an adaptation; 🔎 characters; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-007",
-      "alt_text": "📖 Choose an adaptation; 🔎 characters; ✅ choose with evidence"
-    },
-    "answers": [
-      "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle",
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Leave out ending."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle This matches the task.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "A hesitant action helps convey the character trait being retold.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle This matches the task.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "A hesitant action helps convey the character trait being retold.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-005",
+    "id": "ac9e1le05-er3-p-005",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 05 recognise",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order a storyboard?",
-    "audioPrompt": "Which response would correctly order a storyboard?",
-    "visual": "📖 Order a storyboard; 🔎 structure; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a storyboard; 🔎 structure; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-009\"></use></svg>",
+    "question": "Story: A boat leaks. The sailor patches the hole and reaches shore. Which event must not be left out?",
+    "audioPrompt": "Story: A boat leaks. The sailor patches the hole and reaches shore. Which event must not be left out?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-009",
-      "alt_text": "📖 Order a storyboard; 🔎 structure; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "ending/result → attempt/solution → problem → Character introduced",
-      "Leave out ending.",
-      "Character introduced → problem → attempt/solution → ending/result"
+      "A cloud that is never mentioned.",
+      "Patching the hole.",
+      "The colour of the sailor's socks."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The patch explains how the boat can safely continue.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The patch explains how the boat can safely continue.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-p-006",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A familiar story repeats 'Not yet!' whenever a character is invited out. Which retelling preserves that language feature?",
+    "audioPrompt": "A familiar story repeats 'Not yet!' whenever a character is invited out. Which retelling preserves that language feature?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Replace every repeated line with a random number.",
+      "Omit all the invitations and responses.",
+      "Repeat Not yet at the matching moments."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Character introduced → problem → attempt/solution → ending/result This matches the task.\nHint: A retell needs a clear ending.",
+    "explanation": "The recurring words are part of the story's recognisable language pattern.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Character introduced → problem → attempt/solution → ending/result This matches the task.",
-      "hint": "A retell needs a clear ending."
+      "summary": "The recurring words are part of the story's recognisable language pattern.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-006",
+    "id": "ac9e1le05-er3-p-007",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 06 recognise",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw four retell frames?",
-    "audioPrompt": "Which response would correctly draw four retell frames?",
-    "visual": "📖 Draw four retell frames; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw four retell frames; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-011\"></use></svg>",
+    "question": "You adapt a story from a snowy forest to a beach. Which setting detail should change?",
+    "audioPrompt": "You adapt a story from a snowy forest to a beach. Which setting detail should change?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-011",
-      "alt_text": "📖 Draw four retell frames; 🔎 retell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change every part of the story at once.",
-      "Four coherent frames preserve character and causal plot order",
-      "Do not keep enough familiar structure for the story to make sense."
+      "Snowdrifts become sand dunes.",
+      "Every character must keep walking through deep snow.",
+      "The title must stay the only changed part."
     ],
-    "correct": 1,
-    "explanation": "Four coherent frames preserve character and causal plot order This matches the task.\nHint: Change one or two parts deliberately.",
-    "structuredExplanation": {
-      "summary": "Four coherent frames preserve character and causal plot order This matches the task.",
-      "hint": "Change one or two parts deliberately."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-007",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 07 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly use precise story words?",
-    "audioPrompt": "Which response would correctly use precise story words?",
-    "visual": "📖 Use precise story words; 🔎 adapt; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use precise story words; 🔎 adapt; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-013",
-      "alt_text": "📖 Use precise story words; 🔎 adapt; ✅ choose with evidence"
-    },
-    "answers": [
-      "Suitable verb such as hopped, bounded or crept, preserving meaning",
-      "The rabbit went through the grass",
-      "Do not keep enough familiar structure for the story to make sense."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Suitable verb such as hopped, bounded or crept, preserving meaning This matches the task.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "The setting details should fit the new place.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Suitable verb such as hopped, bounded or crept, preserving meaning This matches the task.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "The setting details should fit the new place.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-008",
+    "id": "ac9e1le05-er3-p-008",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 08 recognise",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "When adapting a character from child to alien, name two plot relationships or events that could stay the same.",
-    "audioPrompt": "When adapting a character from child to alien, name two plot relationships or events that could stay the same.",
-    "visual": "📖 Explain what to keep; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain what to keep; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-015\"></use></svg>",
+    "question": "Story: A girl lends a rope to free a trapped goat. Which character role is hers?",
+    "audioPrompt": "Story: A girl lends a rope to free a trapped goat. Which character role is hers?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-015",
-      "alt_text": "📖 Explain what to keep; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out ending.",
-      "Change every part of the story at once.",
-      "Any two important goals, problems, helpers, attempts or resolution links remain recognisable"
+      "A person who prevents every rescue.",
+      "The helper who provides the rope.",
+      "The goat that is trapped."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The retelling should preserve who performs the helping action.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The retelling should preserve who performs the helping action.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-p-009",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A retelling says 'They celebrated' before explaining that the missing dog was found. What should be moved earlier?",
+    "audioPrompt": "A retelling says 'They celebrated' before explaining that the missing dog was found. What should be moved earlier?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A new unrelated celebration.",
+      "The ending title.",
+      "The finding of the dog."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Any two important goals, problems, helpers, attempts or resolution links remain recognisable This matches the task.\nHint: A retell needs a clear ending.",
+    "explanation": "The event causing the celebration should appear before its result.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Any two important goals, problems, helpers, attempts or resolution links remain recognisable This matches the task.",
-      "hint": "A retell needs a clear ending."
+      "summary": "The event causing the celebration should appear before its result.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-009",
+    "id": "ac9e1le05-er3-p-010",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 09 recognise",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly summarise an opening?",
-    "audioPrompt": "Which response would correctly summarise an opening?",
-    "visual": "📖 Summarise an opening; 🔎 characters; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Summarise an opening; 🔎 characters; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-017\"></use></svg>",
+    "question": "You turn a story about a lost kitten into one about a lost duckling. Which detail best fits the new character?",
+    "audioPrompt": "You turn a story about a lost kitten into one about a lost duckling. Which detail best fits the new character?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-017",
-      "alt_text": "📖 Summarise an opening; 🔎 characters; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "At dawn, Suri packed water, checked the map and left to find the missing goat",
-      "Suri leaves at dawn prepared to search for a missing goat, retaining character, setting/time and goal",
-      "Change every part of the story at once."
+      "The duckling follows quacking towards the pond.",
+      "The duckling returns to its nest by meowing.",
+      "The duckling has fur and kitten whiskers."
     ],
-    "correct": 1,
-    "explanation": "Suri leaves at dawn prepared to search for a missing goat, retaining character, setting/time and goal This matches the task.\nHint: Change one or two parts deliberately.",
-    "structuredExplanation": {
-      "summary": "Suri leaves at dawn prepared to search for a missing goat, retaining character, setting/time and goal This matches the task.",
-      "hint": "Change one or two parts deliberately."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-010",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 10 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match delivery modes?",
-    "audioPrompt": "Which response would correctly match delivery modes?",
-    "visual": "📖 Match delivery modes; 🔎 structure; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match delivery modes; 🔎 structure; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-019",
-      "alt_text": "📖 Match delivery modes; 🔎 structure; ✅ choose with evidence"
-    },
-    "answers": [
-      "Each mode matches its useful retelling affordance",
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Leave out ending."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Each mode matches its useful retelling affordance This matches the task.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "An adaptation should make relevant details consistent with the changed character.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Each mode matches its useful retelling affordance This matches the task.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "An adaptation should make relevant details consistent with the changed character.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-011",
+    "id": "ac9e1le05-er3-p-011",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 01 explain",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you name essential content?",
-    "audioPrompt": "Which tip would help you name essential content?",
-    "visual": "🧠 Name essential content; ➡️ Remember story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Name essential content; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-002\"></use></svg>",
+    "question": "Story: A giant cannot thread a small needle. A tiny friend helps. Which retelling keeps the contrast?",
+    "audioPrompt": "Story: A giant cannot thread a small needle. A tiny friend helps. Which retelling keeps the contrast?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-002",
-      "alt_text": "🧠 Name essential content; ➡️ Remember story; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out ending.",
-      "Keep enough familiar structure for the story to make sense.",
-      "Change every part of the story at once."
+      "The needle is never used and nobody needs help.",
+      "A large character needs help with a small task, and a tiny friend succeeds.",
+      "The giant is tiny and the friend never appears."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "The size contrast and helpful action are central to the plot.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "The size contrast and helpful action are central to the plot.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-012",
+    "id": "ac9e1le05-er3-p-012",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 02 explain",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match retell parts?",
-    "audioPrompt": "Which tip would help you match retell parts?",
-    "visual": "🧠 Match retell parts; ➡️ Keep main parts; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match retell parts; ➡️ Keep main parts; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-004\"></use></svg>",
+    "question": "You draw three panels to retell a broken-bridge story. Which order fits?",
+    "audioPrompt": "You draw three panels to retell a broken-bridge story. Which order fits?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-004",
-      "alt_text": "🧠 Match retell parts; ➡️ Keep main parts; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
-      "Change every part of the story at once.",
-      "Do not keep enough familiar structure for the story to make sense."
+      "Safe crossing; broken bridge; beginning repairs.",
+      "Repairing it; safe crossing; first noticing it was broken.",
+      "Broken bridge; repairing it; safe crossing."
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.\nHint: A retell needs a clear ending.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
-      "hint": "A retell needs a clear ending."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-013",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 03 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you retell three events?",
-    "audioPrompt": "Which tip would help you retell three events?",
-    "visual": "🧠 Retell three events; ➡️ Change/adapt one part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Retell three events; ➡️ Change/adapt one part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-006",
-      "alt_text": "🧠 Retell three events; ➡️ Change/adapt one part; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Leave out ending.",
-      "Look for plot and check the whole example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Look for plot and check the whole example.\nHint: Change one or two parts deliberately.",
+    "explanation": "The images should preserve the order from problem to action to resolution.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for plot and check the whole example.",
-      "hint": "Change one or two parts deliberately."
+      "summary": "The images should preserve the order from problem to action to resolution.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-014",
+    "id": "ac9e1le05-er3-p-013",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 04 explain",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you choose an adaptation?",
-    "audioPrompt": "Which tip would help you choose an adaptation?",
-    "visual": "🧠 Choose an adaptation; ➡️ Retell clearly; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose an adaptation; ➡️ Retell clearly; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-008\"></use></svg>",
+    "question": "A story begins 'Long ago, beside a wide river...' Which opening keeps its setting in a retelling?",
+    "audioPrompt": "A story begins 'Long ago, beside a wide river...' Which opening keeps its setting in a retelling?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-008",
-      "alt_text": "🧠 Choose an adaptation; ➡️ Retell clearly; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out ending.",
-      "Check that you can adapt deliberately.",
-      "Change every part of the story at once."
+      "Long ago, a child lived near a wide river.",
+      "Tomorrow, inside a spaceship...",
+      "At the end of the story, everyone returned."
     ],
-    "correct": 1,
-    "explanation": "Check that you can adapt deliberately.\nHint: Keep enough familiar structure for the story to make sense.",
-    "structuredExplanation": {
-      "summary": "Check that you can adapt deliberately.",
-      "hint": "Keep enough familiar structure for the story to make sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-015",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 05 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order a storyboard?",
-    "audioPrompt": "Which tip would help you order a storyboard?",
-    "visual": "🧠 Order a storyboard; ➡️ Remember story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a storyboard; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-010",
-      "alt_text": "🧠 Order a storyboard; ➡️ Remember story; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing a retell structure.",
-      "Change every part of the story at once.",
-      "Do not keep enough familiar structure for the story to make sense."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Sequencing a retell structure.\nHint: A retell needs a clear ending.",
+    "explanation": "The retelling should keep the original time and place unless deliberately adapting them.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sequencing a retell structure.",
-      "hint": "A retell needs a clear ending."
+      "summary": "The retelling should keep the original time and place unless deliberately adapting them.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-016",
+    "id": "ac9e1le05-er3-p-014",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 06 explain",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw four retell frames?",
-    "audioPrompt": "Which tip would help you draw four retell frames?",
-    "visual": "🧠 Draw four retell frames; ➡️ Keep main parts; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw four retell frames; ➡️ Keep main parts; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-012\"></use></svg>",
+    "question": "You adapt a helpful dog into a helpful robot. Which change preserves the role?",
+    "audioPrompt": "You adapt a helpful dog into a helpful robot. Which change preserves the role?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-012",
-      "alt_text": "🧠 Draw four retell frames; ➡️ Keep main parts; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Leave out ending.",
-      "Change one or two parts deliberately."
+      "The robot becomes only a title with no action.",
+      "The robot carries the supplies to the stranded friends.",
+      "The robot refuses all help and the rescue vanishes."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "The character can change while the helpful action remains recognisable.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The character can change while the helpful action remains recognisable.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-p-015",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Story: A child is warned not to open a box, opens it and releases butterflies. Which retelling preserves the cause and result?",
+    "audioPrompt": "Story: A child is warned not to open a box, opens it and releases butterflies. Which retelling preserves the cause and result?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Butterflies fly out before the box exists.",
+      "The child never opens anything and nothing happens.",
+      "The child opens the box, so butterflies fly out."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
+    "explanation": "Opening the box causes the release in the original story.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Change one or two parts deliberately.",
-      "hint": "Change one or two parts deliberately."
+      "summary": "Opening the box causes the release in the original story.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-017",
+    "id": "ac9e1le05-er3-p-016",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 07 explain",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you use precise story words?",
-    "audioPrompt": "Which tip would help you use precise story words?",
-    "visual": "🧠 Use precise story words; ➡️ Change/adapt one part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Use precise story words; ➡️ Change/adapt one part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-014\"></use></svg>",
+    "question": "A character whispers because a dragon is sleeping. How should that line be spoken in a role-play?",
+    "audioPrompt": "A character whispers because a dragon is sleeping. How should that line be spoken in a role-play?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-014",
-      "alt_text": "🧠 Use precise story words; ➡️ Change/adapt one part; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out ending.",
-      "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
-      "Change every part of the story at once."
+      "Quietly, to preserve the reason for whispering.",
+      "As loudly as possible with no change to the scene.",
+      "Without saying any of the words."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.\nHint: Keep enough familiar structure for the story to make sense.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
-      "hint": "Keep enough familiar structure for the story to make sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-018",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 08 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you explain what to keep?",
-    "audioPrompt": "Which tip would help you explain what to keep?",
-    "visual": "🧠 Explain what to keep; ➡️ Retell clearly; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain what to keep; ➡️ Retell clearly; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-016",
-      "alt_text": "🧠 Explain what to keep; ➡️ Retell clearly; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for plot and check the whole example.",
-      "Change every part of the story at once.",
-      "Do not keep enough familiar structure for the story to make sense."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Look for plot and check the whole example.\nHint: A retell needs a clear ending.",
+    "explanation": "Voice should fit the original action and situation.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for plot and check the whole example.",
-      "hint": "A retell needs a clear ending."
+      "summary": "Voice should fit the original action and situation.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-019",
+    "id": "ac9e1le05-er3-p-017",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 09 explain",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you summarise an opening?",
-    "audioPrompt": "Which tip would help you summarise an opening?",
-    "visual": "🧠 Summarise an opening; ➡️ Remember story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Summarise an opening; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-018\"></use></svg>",
+    "question": "You adapt a story so the picnic is interrupted by wind instead of rain. Which linked event should change?",
+    "audioPrompt": "You adapt a story so the picnic is interrupted by wind instead of rain. Which linked event should change?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-018",
-      "alt_text": "🧠 Summarise an opening; ➡️ Remember story; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Leave out ending.",
-      "Check that you can adapt deliberately."
+      "The wind has no effect but the ending mentions drying clothes.",
+      "Food wrappers blow away instead of getting wet.",
+      "Everyone gets soaked by falling rain exactly as before."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "Changing the cause should lead to consistent changes in the events it causes.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Changing the cause should lead to consistent changes in the events it causes.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le05-er3-p-018",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "skill": "retelling and adapting plot, characters and language patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Story: A fox tries twice to lift a log, then asks friends and succeeds. Which short retelling keeps the important structure?",
+    "audioPrompt": "Story: A fox tries twice to lift a log, then asks friends and succeeds. Which short retelling keeps the important structure?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The fox lifts it easily at once.",
+      "Friends arrive, but the log is never part of the story.",
+      "After two failed tries, the fox asks for help and they lift it."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Check that you can adapt deliberately.\nHint: Change one or two parts deliberately.",
+    "explanation": "The attempts followed by cooperation explain the resolution.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Check that you can adapt deliberately.",
-      "hint": "Change one or two parts deliberately."
+      "summary": "The attempts followed by cooperation explain the resolution.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-020",
+    "id": "ac9e1le05-er3-p-019",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 10 explain",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match delivery modes?",
-    "audioPrompt": "Which tip would help you match delivery modes?",
-    "visual": "🧠 Match delivery modes; ➡️ Keep main parts; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match delivery modes; ➡️ Keep main parts; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-020\"></use></svg>",
+    "question": "A retelling changes a brave character into a fearful one but keeps 'I am never afraid' as an honest description. What needs checking?",
+    "audioPrompt": "A retelling changes a brave character into a fearful one but keeps 'I am never afraid' as an honest description. What needs checking?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-020",
-      "alt_text": "🧠 Match delivery modes; ➡️ Keep main parts; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out ending.",
-      "Selecting modes for retell and adaptation.",
-      "Change every part of the story at once."
+      "Whether the words fit the changed character.",
+      "Whether every name has the same length.",
+      "Whether the story contains a page number."
     ],
-    "correct": 1,
-    "explanation": "Selecting modes for retell and adaptation.\nHint: Keep enough familiar structure for the story to make sense.",
-    "structuredExplanation": {
-      "summary": "Selecting modes for retell and adaptation.",
-      "hint": "Keep enough familiar structure for the story to make sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-021",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 01 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Name essential content; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name essential content; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-001",
-      "alt_text": "📖 Name essential content; 🔎 retell; ✅ choose with evidence"
-    },
-    "answers": [
-      "Main problem; it drives the characters, while incidental cup colour can be omitted",
-      "Main problem; it drives the plot, while incidental cup colour can be omitted",
-      "Keep enough familiar structure for the story to make sense."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "Main problem; it drives the characters, while incidental cup colour can be omitted is the mix-up. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "Adapted character traits and dialogue should work together.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Main problem; it drives the characters, while incidental cup colour can be omitted is the mix-up. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "Adapted character traits and dialogue should work together.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-022",
+    "id": "ac9e1le05-er3-p-020",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 02 discriminate",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match retell parts; 🔎 adapt; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match retell parts; 🔎 adapt; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-003\"></use></svg>",
+    "question": "You create a new ending to a story about a lost map. Which ending still addresses the main problem?",
+    "audioPrompt": "You create a new ending to a story about a lost map. Which ending still addresses the main problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-003",
-      "alt_text": "📖 Match retell parts; 🔎 adapt; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution",
-      "Beginning ↔ problem/attempts; middle ↔ resolution; ending ↔ introduce",
-      "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly."
+      "The story ends by listing paint colours.",
+      "The friends draw a new map using landmarks they remember.",
+      "The friends discuss a cake while the journey disappears."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Beginning ↔ problem/attempts; middle ↔ resolution; ending ↔ introduce is the mix-up. A retell needs a clear ending.\nHint: A retell needs a clear ending.",
+    "explanation": "A changed ending should still connect to the problem the plot established.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Beginning ↔ problem/attempts; middle ↔ resolution; ending ↔ introduce is the mix-up. A retell needs a clear ending.",
-      "hint": "A retell needs a clear ending."
+      "summary": "A changed ending should still connect to the problem the plot established.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-023",
+    "id": "ac9e1le05-er3-p-021",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 03 discriminate",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Retell three events; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Retell three events; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-005\"></use></svg>",
+    "question": "A child retells only 'The bear was brown' from a story about rescuing a cub. What important content is missing?",
+    "audioPrompt": "A child retells only 'The bear was brown' from a story about rescuing a cub. What important content is missing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-005",
-      "alt_text": "📖 Retell three events; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Includes character and all three events in logical order with sequence words",
-      "Look for plot and check the whole example.",
-      "Change every part of the story at once."
+      "A longer description of brown.",
+      "The exact number of letters in bear.",
+      "The rescue events and who helped."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "Change every part of the story at once. is the mix-up. Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
+    "explanation": "A retelling needs key actions and characters, not only an incidental feature.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Change every part of the story at once. is the mix-up. Change one or two parts deliberately.",
-      "hint": "Change one or two parts deliberately."
+      "summary": "A retelling needs key actions and characters, not only an incidental feature.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-024",
+    "id": "ac9e1le05-er3-p-022",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 04 discriminate",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose an adaptation; 🔎 characters; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose an adaptation; 🔎 characters; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-007\"></use></svg>",
+    "question": "You adapt 'Three tries, then success' from building a tower to learning a dance. Which plan preserves the structure?",
+    "audioPrompt": "You adapt 'Three tries, then success' from building a tower to learning a dance. Which plan preserves the structure?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-007",
-      "alt_text": "📖 Choose an adaptation; 🔎 characters; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle",
-      "Check that you can adapt deliberately."
+      "Two unsuccessful attempts, then a successful third try.",
+      "Success before practising, followed by no attempts.",
+      "A list of dancers with no events."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "Do not keep enough familiar structure for the story to make sense. is the mix-up. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "The activity changes while the repeated-attempt structure remains.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Do not keep enough familiar structure for the story to make sense. is the mix-up. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "The activity changes while the repeated-attempt structure remains.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-025",
+    "id": "ac9e1le05-er3-p-023",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 05 discriminate",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order a storyboard; 🔎 structure; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a storyboard; 🔎 structure; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-009\"></use></svg>",
+    "question": "A story's refrain is 'Together we can'. Which adaptation preserves its purpose?",
+    "audioPrompt": "A story's refrain is 'Together we can'. Which adaptation preserves its purpose?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-009",
-      "alt_text": "📖 Order a storyboard; 🔎 structure; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Character introduced → problem → attempt/solution → ending/result",
-      "ending/result → attempt/solution → problem → Character introduced",
-      "Sequencing a retell structure."
+      "Only the book's colour is repeated.",
+      "New characters repeat it while solving a different shared problem.",
+      "The characters say it but never work together and no reason is given."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "ending/result → attempt/solution → problem → Character introduced is the mix-up. A retell needs a clear ending.\nHint: A retell needs a clear ending.",
+    "explanation": "The repeated phrase should connect with the cooperation it expresses.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "ending/result → attempt/solution → problem → Character introduced is the mix-up. A retell needs a clear ending.",
-      "hint": "A retell needs a clear ending."
+      "summary": "The repeated phrase should connect with the cooperation it expresses.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le05-p-026",
+    "id": "ac9e1le05-er3-p-024",
     "curriculumCode": "AC9E1LE05",
     "bank": "practice",
-    "skill": "ac9e1le05 06 discriminate",
+    "skill": "retelling and adapting plot, characters and language patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw four retell frames; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw four retell frames; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-011\"></use></svg>",
+    "question": "Your retelling says the helper took the key, although the original says the helper returned it. What should you repair for an accurate retelling?",
+    "audioPrompt": "Your retelling says the helper took the key, although the original says the helper returned it. What should you repair for an accurate retelling?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-011",
-      "alt_text": "📖 Draw four retell frames; 🔎 retell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Four coherent frames preserve character and causal plot order",
-      "Change one or two parts deliberately.",
-      "Change every part of the story at once."
+      "Change the original event without acknowledging an adaptation.",
+      "Remove the key from every event.",
+      "Keep the helper returning the key."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "Change every part of the story at once. is the mix-up. Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
+    "explanation": "An accurate retelling preserves the action; a deliberate adaptation should be identified as a change.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Change every part of the story at once. is the mix-up. Change one or two parts deliberately.",
-      "hint": "Change one or two parts deliberately."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-027",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Use precise story words; 🔎 adapt; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use precise story words; 🔎 adapt; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-013",
-      "alt_text": "📖 Use precise story words; 🔎 adapt; ✅ choose with evidence"
-    },
-    "answers": [
-      "The rabbit went through the grass",
-      "Suitable verb such as hopped, bounded or crept, preserving meaning",
-      "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly."
-    ],
-    "correct": 0,
-    "explanation": "The rabbit went through the grass is the mix-up. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
-    "structuredExplanation": {
-      "summary": "The rabbit went through the grass is the mix-up. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-028",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Explain what to keep; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain what to keep; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-015",
-      "alt_text": "📖 Explain what to keep; 🔎 plot; ✅ choose with evidence"
-    },
-    "answers": [
-      "Any two important goals, problems, helpers, attempts or resolution links remain recognisable",
-      "Leave out ending.",
-      "Look for plot and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "Leave out ending. is the mix-up. A retell needs a clear ending.\nHint: A retell needs a clear ending.",
-    "structuredExplanation": {
-      "summary": "Leave out ending. is the mix-up. A retell needs a clear ending.",
-      "hint": "A retell needs a clear ending."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-029",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Summarise an opening; 🔎 characters; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Summarise an opening; 🔎 characters; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-017",
-      "alt_text": "📖 Summarise an opening; 🔎 characters; ✅ choose with evidence"
-    },
-    "answers": [
-      "Suri leaves at dawn prepared to search for a missing goat, retaining character, setting/time and goal",
-      "Check that you can adapt deliberately.",
-      "At dawn, Suri packed water, checked the map and left to find the missing goat"
-    ],
-    "correct": 2,
-    "explanation": "At dawn, Suri packed water, checked the map and left to find the missing goat is the mix-up. Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
-    "structuredExplanation": {
-      "summary": "At dawn, Suri packed water, checked the map and left to find the missing goat is the mix-up. Change one or two parts deliberately.",
-      "hint": "Change one or two parts deliberately."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-030",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match delivery modes; 🔎 structure; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match delivery modes; 🔎 structure; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-019",
-      "alt_text": "📖 Match delivery modes; 🔎 structure; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Each mode matches its useful retelling affordance",
-      "Selecting modes for retell and adaptation."
-    ],
-    "correct": 0,
-    "explanation": "Do not keep enough familiar structure for the story to make sense. is the mix-up. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
-    "structuredExplanation": {
-      "summary": "Do not keep enough familiar structure for the story to make sense. is the mix-up. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-031",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Name essential content; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name essential content; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-001",
-      "alt_text": "📖 Name essential content; 🔎 retell; ✅ choose with evidence"
-    },
-    "answers": [
-      "Main problem; it drives the characters, while incidental cup colour can be omitted",
-      "Main problem; it drives the plot, while incidental cup colour can be omitted",
-      "Main problem; it drives the structure, while incidental cup colour can be omitted"
-    ],
-    "correct": 1,
-    "explanation": "Main problem; it drives the plot, while incidental cup colour can be omitted uses the skill correctly. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
-    "structuredExplanation": {
-      "summary": "Main problem; it drives the plot, while incidental cup colour can be omitted uses the skill correctly. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-032",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match retell parts; 🔎 adapt; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match retell parts; 🔎 adapt; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-003",
-      "alt_text": "📖 Match retell parts; 🔎 adapt; ✅ choose with evidence"
-    },
-    "answers": [
-      "Beginning ↔ problem/attempts; middle ↔ resolution; ending ↔ introduce",
-      "Leave out ending.",
-      "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution"
-    ],
-    "correct": 2,
-    "explanation": "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution uses the skill correctly. A retell needs a clear ending.\nHint: A retell needs a clear ending.",
-    "structuredExplanation": {
-      "summary": "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution uses the skill correctly. A retell needs a clear ending.",
-      "hint": "A retell needs a clear ending."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-033",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Retell three events; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Retell three events; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-005",
-      "alt_text": "📖 Retell three events; 🔎 plot; ✅ choose with evidence"
-    },
-    "answers": [
-      "Includes character and all three events in logical order with sequence words",
-      "Change every part of the story at once.",
-      "Do not keep enough familiar structure for the story to make sense."
-    ],
-    "correct": 0,
-    "explanation": "Includes character and all three events in logical order with sequence words uses the skill correctly. Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
-    "structuredExplanation": {
-      "summary": "Includes character and all three events in logical order with sequence words uses the skill correctly. Change one or two parts deliberately.",
-      "hint": "Change one or two parts deliberately."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-034",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose an adaptation; 🔎 characters; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose an adaptation; 🔎 characters; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-007",
-      "alt_text": "📖 Choose an adaptation; 🔎 characters; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle",
-      "Leave out ending."
-    ],
-    "correct": 1,
-    "explanation": "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle uses the skill correctly. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
-    "structuredExplanation": {
-      "summary": "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle uses the skill correctly. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-035",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order a storyboard; 🔎 structure; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a storyboard; 🔎 structure; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-009",
-      "alt_text": "📖 Order a storyboard; 🔎 structure; ✅ choose with evidence"
-    },
-    "answers": [
-      "ending/result → attempt/solution → problem → Character introduced",
-      "Leave out ending.",
-      "Character introduced → problem → attempt/solution → ending/result"
-    ],
-    "correct": 2,
-    "explanation": "Character introduced → problem → attempt/solution → ending/result uses the skill correctly. A retell needs a clear ending.\nHint: A retell needs a clear ending.",
-    "structuredExplanation": {
-      "summary": "Character introduced → problem → attempt/solution → ending/result uses the skill correctly. A retell needs a clear ending.",
-      "hint": "A retell needs a clear ending."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-036",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw four retell frames; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw four retell frames; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-011",
-      "alt_text": "📖 Draw four retell frames; 🔎 retell; ✅ choose with evidence"
-    },
-    "answers": [
-      "Four coherent frames preserve character and causal plot order",
-      "Change every part of the story at once.",
-      "Do not keep enough familiar structure for the story to make sense."
-    ],
-    "correct": 0,
-    "explanation": "Four coherent frames preserve character and causal plot order uses the skill correctly. Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
-    "structuredExplanation": {
-      "summary": "Four coherent frames preserve character and causal plot order uses the skill correctly. Change one or two parts deliberately.",
-      "hint": "Change one or two parts deliberately."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-037",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Use precise story words; 🔎 adapt; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use precise story words; 🔎 adapt; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-013",
-      "alt_text": "📖 Use precise story words; 🔎 adapt; ✅ choose with evidence"
-    },
-    "answers": [
-      "The rabbit went through the grass",
-      "Suitable verb such as hopped, bounded or crept, preserving meaning",
-      "Do not keep enough familiar structure for the story to make sense."
-    ],
-    "correct": 1,
-    "explanation": "Suitable verb such as hopped, bounded or crept, preserving meaning uses the skill correctly. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
-    "structuredExplanation": {
-      "summary": "Suitable verb such as hopped, bounded or crept, preserving meaning uses the skill correctly. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-038",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Explain what to keep; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain what to keep; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-015",
-      "alt_text": "📖 Explain what to keep; 🔎 plot; ✅ choose with evidence"
-    },
-    "answers": [
-      "Leave out ending.",
-      "Change every part of the story at once.",
-      "Any two important goals, problems, helpers, attempts or resolution links remain recognisable"
-    ],
-    "correct": 2,
-    "explanation": "Any two important goals, problems, helpers, attempts or resolution links remain recognisable uses the skill correctly. A retell needs a clear ending.\nHint: A retell needs a clear ending.",
-    "structuredExplanation": {
-      "summary": "Any two important goals, problems, helpers, attempts or resolution links remain recognisable uses the skill correctly. A retell needs a clear ending.",
-      "hint": "A retell needs a clear ending."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-039",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Summarise an opening; 🔎 characters; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Summarise an opening; 🔎 characters; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-017",
-      "alt_text": "📖 Summarise an opening; 🔎 characters; ✅ choose with evidence"
-    },
-    "answers": [
-      "Suri leaves at dawn prepared to search for a missing goat, retaining character, setting/time and goal",
-      "At dawn, Suri packed water, checked the map and left to find the missing goat",
-      "Change every part of the story at once."
-    ],
-    "correct": 0,
-    "explanation": "Suri leaves at dawn prepared to search for a missing goat, retaining character, setting/time and goal uses the skill correctly. Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
-    "structuredExplanation": {
-      "summary": "Suri leaves at dawn prepared to search for a missing goat, retaining character, setting/time and goal uses the skill correctly. Change one or two parts deliberately.",
-      "hint": "Change one or two parts deliberately."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le05-p-040",
-    "curriculumCode": "AC9E1LE05",
-    "bank": "practice",
-    "skill": "ac9e1le05 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match delivery modes; 🔎 structure; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match delivery modes; 🔎 structure; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-p-019",
-      "alt_text": "📖 Match delivery modes; 🔎 structure; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Each mode matches its useful retelling affordance",
-      "Leave out ending."
-    ],
-    "correct": 1,
-    "explanation": "Each mode matches its useful retelling affordance uses the skill correctly. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
-    "structuredExplanation": {
-      "summary": "Each mode matches its useful retelling affordance uses the skill correctly. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "An accurate retelling preserves the action; a deliberate adaptation should be identified as a change.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   }
