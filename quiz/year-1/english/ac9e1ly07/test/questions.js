@@ -1,483 +1,533 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e1ly07-t-001",
+    "id": "ac9e1ly07-er5-t-001",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Which opening tells the topic?",
-    "audioPrompt": "Which opening tells the topic?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a clear opening, two relevant details, conclusion and audible steady delivery. Different preferences are equally valid.",
+    "acceptanceNote": "Accept a clear opening, two relevant details, conclusion and audible steady delivery. Different preferences are equally valid.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Tell a listener about a favourite outdoor place. Introduce it, give two details and end with what you enjoy there.",
+    "audioPrompt": "Tell a listener about a favourite outdoor place. Introduce it, give two details and end with what you enjoy there.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "Thank you for listening.",
-      "Today I will talk about frogs.",
-      "And then."
-    ],
-    "correct": 1,
-    "explanation": "Today I will talk about frogs. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Today I will talk about frogs. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 1
+    "sequencePriority": 1,
+    "correct": "Accept a clear opening, two relevant details, conclusion and audible steady delivery. Different preferences are equally valid.",
+    "explanation": "Accept a clear opening, two relevant details, conclusion and audible steady delivery. Different preferences are equally valid.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept a clear opening, two relevant details, conclusion and audible steady delivery. Different preferences are equally valid.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-002",
+    "id": "ac9e1ly07-er5-t-002",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Which sentence belongs in the middle of a talk about the zoo?",
-    "audioPrompt": "Which sentence belongs in the middle of a talk about the zoo?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept accurate simple information, a clear introduction and ending, and relevant words such as fin or swim. No species-specific expert knowledge is required.",
+    "acceptanceNote": "Accept accurate simple information, a clear introduction and ending, and relevant words such as fin or swim. No species-specific expert knowledge is required.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Give a short talk about an animal that lives in water. Include a body-part word, an action and a closing statement.",
+    "audioPrompt": "Give a short talk about an animal that lives in water. Include a body-part word, an action and a closing statement.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "My talk is about cats.",
-      "You can play at the zoo.",
-      "Thank you."
-    ],
-    "correct": 1,
-    "explanation": "You can play at the zoo. is the best answer.",
-    "structuredExplanation": {
-      "summary": "You can play at the zoo. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 2
+    "sequencePriority": 2,
+    "correct": "Accept accurate simple information, a clear introduction and ending, and relevant words such as fin or swim. No species-specific expert knowledge is required.",
+    "explanation": "Accept accurate simple information, a clear introduction and ending, and relevant words such as fin or swim. No species-specific expert knowledge is required.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept accurate simple information, a clear introduction and ending, and relevant words such as fin or swim. No species-specific expert knowledge is required.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-003",
+    "id": "ac9e1ly07-er5-t-003",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which sentence can end a short talk?",
-    "audioPrompt": "Read and choose: Which sentence can end a short talk?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a coherent imagined design, a gesture linked to the explanation and a concluding statement. Check communication, not whether the design could be professionally built.",
+    "acceptanceNote": "Accept a coherent imagined design, a gesture linked to the explanation and a concluding statement. Check communication, not whether the design could be professionally built.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Show a drawing of something you would like to build. Name it, point to a useful part and explain it, then finish.",
+    "audioPrompt": "Show a drawing of something you would like to build. Name it, point to a useful part and explain it, then finish.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "My topic is …",
-      "First, I will …",
-      "Thank you for listening."
-    ],
-    "correct": 2,
-    "explanation": "Thank you for listening. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Thank you for listening. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 3
+    "sequencePriority": 3,
+    "correct": "Accept a coherent imagined design, a gesture linked to the explanation and a concluding statement. Check communication, not whether the design could be professionally built.",
+    "explanation": "Accept a coherent imagined design, a gesture linked to the explanation and a concluding statement. Check communication, not whether the design could be professionally built.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept a coherent imagined design, a gesture linked to the explanation and a concluding statement. Check communication, not whether the design could be professionally built.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-004",
+    "id": "ac9e1ly07-er5-t-004",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Read and choose: What helps the audience hear you?",
-    "audioPrompt": "Read and choose: What helps the audience hear you?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a relevant explanation and closing benefit, with clear speech. The child can choose a job they have observed rather than performed.",
+    "acceptanceNote": "Accept a relevant explanation and closing benefit, with clear speech. The child can choose a job they have observed rather than performed.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Talk about a helpful classroom job. Start by naming the job, explain what it involves, and end by saying how it helps.",
+    "audioPrompt": "Talk about a helpful classroom job. Start by naming the job, explain what it involves, and end by saying how it helps.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "face the wall",
-      "cover your mouth",
-      "speak clearly"
-    ],
-    "correct": 2,
-    "explanation": "speak clearly is the best answer.",
-    "structuredExplanation": {
-      "summary": "speak clearly is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 4
+    "sequencePriority": 4,
+    "correct": "Accept a relevant explanation and closing benefit, with clear speech. The child can choose a job they have observed rather than performed.",
+    "explanation": "Accept a relevant explanation and closing benefit, with clear speech. The child can choose a job they have observed rather than performed.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept a relevant explanation and closing benefit, with clear speech. The child can choose a job they have observed rather than performed.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-005",
+    "id": "ac9e1ly07-er5-t-005",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Which order is best for a talk?",
-    "audioPrompt": "Which order is best for a talk?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept relevant weather words, organised observations and an ending. The event may be real or imagined if presented consistently.",
+    "acceptanceNote": "Accept relevant weather words, organised observations and an ending. The event may be real or imagined if presented consistently.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Give a short presentation about a weather day. Open with the kind of weather, describe what you noticed, then close with what you did.",
+    "audioPrompt": "Give a short presentation about a weather day. Open with the kind of weather, describe what you noticed, then close with what you did.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "opening, facts, ending",
-      "facts only",
-      "ending, opening, facts"
-    ],
-    "correct": 0,
-    "explanation": "opening, facts, ending is the best answer.",
-    "structuredExplanation": {
-      "summary": "opening, facts, ending is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 5
+    "sequencePriority": 5,
+    "correct": "Accept relevant weather words, organised observations and an ending. The event may be real or imagined if presented consistently.",
+    "explanation": "Accept relevant weather words, organised observations and an ending. The event may be real or imagined if presented consistently.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept relevant weather words, organised observations and an ending. The event may be real or imagined if presented consistently.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-006",
+    "id": "ac9e1ly07-er5-t-006",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Which picture would help a talk about a dog?",
-    "audioPrompt": "Which picture would help a talk about a dog?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a clear opening, ordered actions and conclusion. Listen for useful material or action words and suitable pace.",
+    "acceptanceNote": "Accept a clear opening, ordered actions and conclusion. Listen for useful material or action words and suitable pace.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Tell a listener about a simple craft. Name it, explain two making actions in order, and give a final sentence.",
+    "audioPrompt": "Tell a listener about a simple craft. Name it, explain two making actions in order, and give a final sentence.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "a clear picture of a dog",
-      "a picture of a map",
-      "a blank page"
-    ],
-    "correct": 0,
-    "explanation": "a clear picture of a dog is the best answer.",
-    "structuredExplanation": {
-      "summary": "a clear picture of a dog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 6
+    "sequencePriority": 6,
+    "correct": "Accept a clear opening, ordered actions and conclusion. Listen for useful material or action words and suitable pace.",
+    "explanation": "Accept a clear opening, ordered actions and conclusion. Listen for useful material or action words and suitable pace.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept a clear opening, ordered actions and conclusion. Listen for useful material or action words and suitable pace.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-007",
+    "id": "ac9e1ly07-er5-t-007",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Read and choose: Where should you look while speaking?",
-    "audioPrompt": "Read and choose: Where should you look while speaking?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept features that match the object and a relevant use, with recognisable structure and understandable delivery.",
+    "acceptanceNote": "Accept features that match the object and a relevant use, with recognisable structure and understandable delivery.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Present a familiar object. Introduce it, describe two features, and finish by explaining a use.",
+    "audioPrompt": "Present a familiar object. Introduce it, describe two features, and finish by explaining a use.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "behind you",
-      "only at the floor",
-      "towards the audience"
-    ],
-    "correct": 2,
-    "explanation": "towards the audience is the best answer.",
-    "structuredExplanation": {
-      "summary": "towards the audience is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 7
+    "sequencePriority": 7,
+    "correct": "Accept features that match the object and a relevant use, with recognisable structure and understandable delivery.",
+    "explanation": "Accept features that match the object and a relevant use, with recognisable structure and understandable delivery.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept features that match the object and a relevant use, with recognisable structure and understandable delivery.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-008",
+    "id": "ac9e1ly07-er5-t-008",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Which sentence gives one learnt fact?",
-    "audioPrompt": "Which sentence gives one learnt fact?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept relevant story information and an opinion linked to the action. The child's opinion is not required to match an adult's.",
+    "acceptanceNote": "Accept relevant story information and an opinion linked to the action. The child's opinion is not required to match an adult's.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Talk about a story character. Introduce the character, describe one action, and finish with what you think about that action.",
+    "audioPrompt": "Talk about a story character. Introduce the character, describe one action, and finish with what you think about that action.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "Wow, a fox!",
-      "This animal is the best!",
-      "A fox needs water."
-    ],
-    "correct": 2,
-    "explanation": "A fox needs water. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A fox needs water. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 8
+    "sequencePriority": 8,
+    "correct": "Accept relevant story information and an opinion linked to the action. The child's opinion is not required to match an adult's.",
+    "explanation": "Accept relevant story information and an opinion linked to the action. The child's opinion is not required to match an adult's.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept relevant story information and an opinion linked to the action. The child's opinion is not required to match an adult's.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-009",
+    "id": "ac9e1ly07-er5-t-009",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Which opening tells the topic?",
-    "audioPrompt": "Which opening tells the topic?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a meaningful link between visual support and speech, relevant middle detail and a closing statement. Assess the child's explanation, not drawing skill.",
+    "acceptanceNote": "Accept a meaningful link between visual support and speech, relevant middle detail and a closing statement. Assess the child's explanation, not drawing skill.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Give a short talk about a class project. Use a drawing or object to explain one detail and include an opening and conclusion.",
+    "audioPrompt": "Give a short talk about a class project. Use a drawing or object to explain one detail and include an opening and conclusion.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "And then.",
-      "Today I will talk about fishs.",
-      "Thank you for listening."
-    ],
-    "correct": 1,
-    "explanation": "Today I will talk about fishs. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Today I will talk about fishs. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 9
+    "sequencePriority": 9,
+    "correct": "Accept a meaningful link between visual support and speech, relevant middle detail and a closing statement. Assess the child's explanation, not drawing skill.",
+    "explanation": "Accept a meaningful link between visual support and speech, relevant middle detail and a closing statement. Assess the child's explanation, not drawing skill.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept a meaningful link between visual support and speech, relevant middle detail and a closing statement. Assess the child's explanation, not drawing skill.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-010",
+    "id": "ac9e1ly07-er5-t-010",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Which sentence belongs in the middle of a talk about the school?",
-    "audioPrompt": "Which sentence belongs in the middle of a talk about the school?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a coherent problem-step-result structure and clear pace. A plausible imagined solution is acceptable.",
+    "acceptanceNote": "Accept a coherent problem-step-result structure and clear pace. A plausible imagined solution is acceptable.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Tell a listener about a small problem you solved or could solve. Begin with the problem, explain a step, and end with the result.",
+    "audioPrompt": "Tell a listener about a small problem you solved or could solve. Begin with the problem, explain a step, and end with the result.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "Thank you.",
-      "My talk is about cats.",
-      "You can play at the school."
-    ],
-    "correct": 2,
-    "explanation": "You can play at the school. is the best answer.",
-    "structuredExplanation": {
-      "summary": "You can play at the school. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 10
+    "sequencePriority": 10,
+    "correct": "Accept a coherent problem-step-result structure and clear pace. A plausible imagined solution is acceptable.",
+    "explanation": "Accept a coherent problem-step-result structure and clear pace. A plausible imagined solution is acceptable.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept a coherent problem-step-result structure and clear pace. A plausible imagined solution is acceptable.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-011",
+    "id": "ac9e1ly07-er5-t-011",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Which sentence can end a short talk?",
-    "audioPrompt": "Which sentence can end a short talk?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept accurate simple vocabulary, an opening, relevant middle and conclusion. Suggested concepts include seed, leaf, soil and water, without requiring all four.",
+    "acceptanceNote": "Accept accurate simple vocabulary, an opening, relevant middle and conclusion. Suggested concepts include seed, leaf, soil and water, without requiring all four.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Give a short talk about growing a plant. Use two useful plant words and finish with one important care idea.",
+    "audioPrompt": "Give a short talk about growing a plant. Use two useful plant words and finish with one important care idea.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "First, I will …",
-      "My topic is …",
-      "Thank you for listening."
-    ],
-    "correct": 2,
-    "explanation": "Thank you for listening. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Thank you for listening. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 11
+    "sequencePriority": 11,
+    "correct": "Accept accurate simple vocabulary, an opening, relevant middle and conclusion. Suggested concepts include seed, leaf, soil and water, without requiring all four.",
+    "explanation": "Accept accurate simple vocabulary, an opening, relevant middle and conclusion. Suggested concepts include seed, leaf, soil and water, without requiring all four.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept accurate simple vocabulary, an opening, relevant middle and conclusion. Suggested concepts include seed, leaf, soil and water, without requiring all four.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-012",
+    "id": "ac9e1ly07-er5-t-012",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Look and choose: What helps the audience hear you?",
-    "audioPrompt": "Look and choose: What helps the audience hear you?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a structured talk and appropriate use of feedback. If the original pace was suitable, accept maintaining it and explaining why.",
+    "acceptanceNote": "Accept a structured talk and appropriate use of feedback. If the original pace was suitable, accept maintaining it and explaining why.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Deliver a short talk about a hobby. Ask your listener whether the pace was easy to follow. Repeat one part with a useful adjustment if needed.",
+    "audioPrompt": "Deliver a short talk about a hobby. Ask your listener whether the pace was easy to follow. Repeat one part with a useful adjustment if needed.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "face the wall",
-      "cover your mouth",
-      "speak clearly"
-    ],
-    "correct": 2,
-    "explanation": "speak clearly is the best answer.",
-    "structuredExplanation": {
-      "summary": "speak clearly is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 12
+    "sequencePriority": 12,
+    "correct": "Accept a structured talk and appropriate use of feedback. If the original pace was suitable, accept maintaining it and explaining why.",
+    "explanation": "Accept a structured talk and appropriate use of feedback. If the original pace was suitable, accept maintaining it and explaining why.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept a structured talk and appropriate use of feedback. If the original pace was suitable, accept maintaining it and explaining why.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-013",
+    "id": "ac9e1ly07-er5-t-013",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which order is best for a talk?",
-    "audioPrompt": "Look and choose: Which order is best for a talk?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a correct comparison, gesture matched to the picture and clear ending. No preference for either place is required.",
+    "acceptanceNote": "Accept a correct comparison, gesture matched to the picture and clear ending. No preference for either place is required.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Introduce two pictures of places. Explain one difference using a pointing gesture, then finish with a sentence about the comparison.",
+    "audioPrompt": "Introduce two pictures of places. Explain one difference using a pointing gesture, then finish with a sentence about the comparison.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "opening, facts, ending",
-      "ending, opening, facts",
-      "facts only"
-    ],
-    "correct": 0,
-    "explanation": "opening, facts, ending is the best answer.",
-    "structuredExplanation": {
-      "summary": "opening, facts, ending is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 13
+    "sequencePriority": 13,
+    "correct": "Accept a correct comparison, gesture matched to the picture and clear ending. No preference for either place is required.",
+    "explanation": "Accept a correct comparison, gesture matched to the picture and clear ending. No preference for either place is required.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept a correct comparison, gesture matched to the picture and clear ending. No preference for either place is required.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-014",
+    "id": "ac9e1ly07-er5-t-014",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Which picture would help a talk about a fox?",
-    "audioPrompt": "Which picture would help a talk about a fox?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept relevant information and a conclusion that stays with the topic. The listener should be able to identify the talk's main idea.",
+    "acceptanceNote": "Accept relevant information and a conclusion that stays with the topic. The listener should be able to identify the talk's main idea.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Give a short presentation about something you learned this week. Start with the topic, give two related details and finish without introducing a new topic.",
+    "audioPrompt": "Give a short presentation about something you learned this week. Start with the topic, give two related details and finish without introducing a new topic.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "a clear picture of a fox",
-      "a blank page",
-      "a picture of a cup"
-    ],
-    "correct": 0,
-    "explanation": "a clear picture of a fox is the best answer.",
-    "structuredExplanation": {
-      "summary": "a clear picture of a fox is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 14
+    "sequencePriority": 14,
+    "correct": "Accept relevant information and a conclusion that stays with the topic. The listener should be able to identify the talk's main idea.",
+    "explanation": "Accept relevant information and a conclusion that stays with the topic. The listener should be able to identify the talk's main idea.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept relevant information and a conclusion that stays with the topic. The listener should be able to identify the talk's main idea.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-015",
+    "id": "ac9e1ly07-er5-t-015",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Where should you look while speaking?",
-    "audioPrompt": "Where should you look while speaking?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a clear opening, ordered middle and conclusion with a useful pause. Do not judge by speed alone or require theatrical performance.",
+    "acceptanceNote": "Accept a clear opening, ordered middle and conclusion with a useful pause. Do not judge by speed alone or require theatrical performance.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Tell a short event in order. Use a brief pause when moving from the middle to the ending, and keep your voice easy to hear.",
+    "audioPrompt": "Tell a short event in order. Use a brief pause when moving from the middle to the ending, and keep your voice easy to hear.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "only at the floor",
-      "behind you",
-      "towards the audience"
-    ],
-    "correct": 2,
-    "explanation": "towards the audience is the best answer.",
-    "structuredExplanation": {
-      "summary": "towards the audience is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 15
+    "sequencePriority": 15,
+    "correct": "Accept a clear opening, ordered middle and conclusion with a useful pause. Do not judge by speed alone or require theatrical performance.",
+    "explanation": "Accept a clear opening, ordered middle and conclusion with a useful pause. Do not judge by speed alone or require theatrical performance.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept a clear opening, ordered middle and conclusion with a useful pause. Do not judge by speed alone or require theatrical performance.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly07-t-016",
+    "id": "ac9e1ly07-er5-t-016",
     "curriculumCode": "AC9E1LY07",
     "bank": "test",
-    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "skill": "creating and delivering short presentations",
     "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which sentence gives one learnt fact?",
-    "audioPrompt": "Read and choose: Which sentence gives one learnt fact?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept all named elements when they support understanding. Check audible volume and manageable pace; allow notes, communication supports and a familiar topic.",
+    "acceptanceNote": "Accept all named elements when they support understanding. Check audible volume and manageable pace; allow notes, communication supports and a familiar topic.",
+    "responseInstructions": "Deliver your short talk to a grown-up.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Give a short talk of your choice using a simple object or drawing. Include an opening, relevant middle, topic word and closing statement. Use one helpful gesture.",
+    "audioPrompt": "Give a short talk of your choice using a simple object or drawing. Include an opening, relevant middle, topic word and closing statement. Use one helpful gesture.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "This animal is the best!",
-      "Wow, a duck!",
-      "A duck needs water."
-    ],
-    "correct": 2,
-    "explanation": "A duck needs water. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A duck needs water. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 16
+    "sequencePriority": 16,
+    "correct": "Accept all named elements when they support understanding. Check audible volume and manageable pace; allow notes, communication supports and a familiar topic.",
+    "explanation": "Accept all named elements when they support understanding. Check audible volume and manageable pace; allow notes, communication supports and a familiar topic.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Accept all named elements when they support understanding. Check audible volume and manageable pace; allow notes, communication supports and a familiar topic.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

@@ -1,1162 +1,794 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly08-p-001",
+    "id": "ac9e1ly08-er5-p-001",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 01 recognise",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which letter should begin the name maya when written correctly?",
-    "audioPrompt": "Which letter should begin the name maya when written correctly?",
-    "visual": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.",
+    "acceptanceNote": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "On paper, copy 'cat' in separate lower-case letters. Leave the letters unjoined.",
+    "audioPrompt": "On paper, copy 'cat' in separate lower-case letters. Leave the letters unjoined.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001",
-      "alt_text": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Upper-case M",
-      "Do not use clear spaces between words.",
-      "Do not use capitals only where needed."
-    ],
-    "correct": 0,
-    "explanation": "Upper-case M This matches the task.\nHint: Use clear spaces between words.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.",
+    "explanation": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Upper-case M This matches the task.",
-      "hint": "Use clear spaces between words."
+      "summary": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-002",
+    "id": "ac9e1ly08-er5-p-002",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 02 recognise",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match upper and lower case?",
-    "audioPrompt": "Which response would correctly match upper and lower case?",
-    "visual": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.",
+    "acceptanceNote": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "On paper, copy 'SUN' in separate upper-case letters.",
+    "audioPrompt": "On paper, copy 'SUN' in separate upper-case letters.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003",
-      "alt_text": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "A ↔ g; G ↔ t; T ↔ a",
-      "Do not use capitals only where needed.",
-      "A ↔ a; G ↔ g; T ↔ t"
-    ],
-    "correct": 2,
-    "explanation": "A ↔ a; G ↔ g; T ↔ t This matches the task.\nHint: Use capitals only where needed.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.",
+    "explanation": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "A ↔ a; G ↔ g; T ↔ t This matches the task.",
-      "hint": "Use capitals only where needed."
+      "summary": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-003",
+    "id": "ac9e1ly08-er5-p-003",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 03 recognise",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Write the word map using separate lower-case letters on the line.",
-    "audioPrompt": "Write the word map using separate lower-case letters on the line.",
-    "visual": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write a clear word; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.",
+    "acceptanceNote": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'map' in lower-case print on a line. Keep the letters separate.",
+    "audioPrompt": "Write 'map' in lower-case print on a line. Keep the letters separate.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005",
-      "alt_text": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Reverse a letter.",
-      "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently",
-      "Do not use clear spaces between words."
-    ],
-    "correct": 1,
-    "explanation": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently This matches the task.\nHint: Practise start point and direction.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.",
+    "explanation": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently This matches the task.",
-      "hint": "Practise start point and direction."
+      "summary": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-004",
+    "id": "ac9e1ly08-er5-p-004",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 04 recognise",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly add word spacing?",
-    "audioPrompt": "Which response would correctly add word spacing?",
-    "visual": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add word spacing; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.",
+    "acceptanceNote": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'TOP' in upper-case print. Keep a small space between its separate letters without splitting the word.",
+    "audioPrompt": "Copy 'TOP' in upper-case print. Keep a small space between its separate letters without splitting the word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007",
-      "alt_text": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "the red dog, with clear spaces and recognisable letters",
-      "Do not use clear spaces between words.",
-      "Do not use capitals only where needed."
-    ],
-    "correct": 0,
-    "explanation": "the red dog, with clear spaces and recognisable letters This matches the task.\nHint: Use clear spaces between words.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.",
+    "explanation": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "the red dog, with clear spaces and recognisable letters This matches the task.",
-      "hint": "Use clear spaces between words."
+      "summary": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-005",
+    "id": "ac9e1ly08-er5-p-005",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 05 recognise",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly order letter formation checks?",
-    "audioPrompt": "Which response would correctly order letter formation checks?",
-    "visual": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.",
+    "acceptanceNote": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'dog' in lower-case print. Check that d and g face the way you have been taught.",
+    "audioPrompt": "Write 'dog' in lower-case print. Check that d and g face the way you have been taught.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009",
-      "alt_text": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "reread → check spacing → form separate letters → Choose case",
-      "Do not use capitals only where needed.",
-      "Choose case → form separate letters → check spacing → reread"
-    ],
-    "correct": 2,
-    "explanation": "Choose case → form separate letters → check spacing → reread This matches the task.\nHint: Use capitals only where needed.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.",
+    "explanation": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Choose case → form separate letters → check spacing → reread This matches the task.",
-      "hint": "Use capitals only where needed."
+      "summary": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-006",
+    "id": "ac9e1ly08-er5-p-006",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 06 recognise",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly copy with case?",
-    "audioPrompt": "Which response would correctly copy with case?",
-    "visual": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Copy with case; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.",
+    "acceptanceNote": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'BAG' in upper-case letters on paper.",
+    "audioPrompt": "Copy 'BAG' in upper-case letters on paper.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011",
-      "alt_text": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Ben has a kite",
-      "Accurate case, unjoined legible forms and three word spaces",
-      "Reverse a letter."
-    ],
-    "correct": 1,
-    "explanation": "Accurate case, unjoined legible forms and three word spaces This matches the task.\nHint: Practise start point and direction.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.",
+    "explanation": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Accurate case, unjoined legible forms and three word spaces This matches the task.",
-      "hint": "Practise start point and direction."
+      "summary": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-007",
+    "id": "ac9e1ly08-er5-p-007",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 07 recognise",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly find a case error?",
-    "audioPrompt": "Which response would correctly find a case error?",
-    "visual": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a case error; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.",
+    "acceptanceNote": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'hen' in lower-case print. Compare the height of h with e and n.",
+    "audioPrompt": "Write 'hen' in lower-case print. Compare the height of h with e and n.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013",
-      "alt_text": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals",
-      "Do not use clear spaces between words.",
-      "Do not use capitals only where needed."
-    ],
-    "correct": 0,
-    "explanation": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals This matches the task.\nHint: Use clear spaces between words.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.",
+    "explanation": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals This matches the task.",
-      "hint": "Use clear spaces between words."
+      "summary": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-008",
+    "id": "ac9e1ly08-er5-p-008",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 08 recognise",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly compare readability?",
-    "audioPrompt": "Which response would correctly compare readability?",
-    "visual": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare readability; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.",
+    "acceptanceNote": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'FISH' in separate upper-case letters.",
+    "audioPrompt": "Copy 'FISH' in separate upper-case letters.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015",
-      "alt_text": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use capitals only where needed.",
-      "Reverse a letter.",
-      "They distinguish letters/words, prevent crowding or splitting and make recognition easier"
-    ],
-    "correct": 2,
-    "explanation": "They distinguish letters/words, prevent crowding or splitting and make recognition easier This matches the task.\nHint: Use capitals only where needed.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.",
+    "explanation": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "They distinguish letters/words, prevent crowding or splitting and make recognition easier This matches the task.",
-      "hint": "Use capitals only where needed."
+      "summary": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-009",
+    "id": "ac9e1ly08-er5-p-009",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 09 recognise",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Write ACT in separate upper-case letters.",
-    "audioPrompt": "Write ACT in separate upper-case letters.",
-    "visual": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.",
+    "acceptanceNote": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'cup' and 'CUP' on separate lines. Use the matching case in each word.",
+    "audioPrompt": "Copy 'cup' and 'CUP' on separate lines. Use the matching case in each word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017",
-      "alt_text": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Reverse a letter.",
-      "A-C-T, all recognisable and unjoined with consistent size",
-      "Do not use clear spaces between words."
-    ],
-    "correct": 1,
-    "explanation": "A-C-T, all recognisable and unjoined with consistent size This matches the task.\nHint: Practise start point and direction.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.",
+    "explanation": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "A-C-T, all recognisable and unjoined with consistent size This matches the task.",
-      "hint": "Practise start point and direction."
+      "summary": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-010",
+    "id": "ac9e1ly08-er5-p-010",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 10 recognise",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match case uses?",
-    "audioPrompt": "Which response would correctly match case uses?",
-    "visual": "📖 Match case uses; 🔎 readable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match case uses; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.",
+    "acceptanceNote": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write the word 'bed' in lower-case print. Check that the first and last letters are different.",
+    "audioPrompt": "Write the word 'bed' in lower-case print. Check that the first and last letters are different.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019",
-      "alt_text": "📖 Match case uses; 🔎 readable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "All three matched correctly",
-      "Do not use clear spaces between words.",
-      "Do not use capitals only where needed."
-    ],
-    "correct": 0,
-    "explanation": "All three matched correctly This matches the task.\nHint: Use clear spaces between words.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.",
+    "explanation": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "All three matched correctly This matches the task.",
-      "hint": "Use clear spaces between words."
+      "summary": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-011",
+    "id": "ac9e1ly08-er5-p-011",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 01 explain",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you choose the capital?",
-    "audioPrompt": "Which tip would help you choose the capital?",
-    "visual": "🧠 Choose the capital; ➡️ Start point; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose the capital; ➡️ Start point; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-002\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.",
+    "acceptanceNote": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'milk jug' in lower-case print. Leave a clear gap between the two words.",
+    "audioPrompt": "Copy 'milk jug' in lower-case print. Leave a clear gap between the two words.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-002",
-      "alt_text": "🧠 Choose the capital; ➡️ Start point; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use capitals only where needed.",
-      "Use clear spaces between words.",
-      "Reverse a letter."
-    ],
-    "correct": 1,
-    "explanation": "Use clear spaces between words.\nHint: Use clear spaces between words.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.",
+    "explanation": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Use clear spaces between words.",
-      "hint": "Use clear spaces between words."
+      "summary": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-012",
+    "id": "ac9e1ly08-er5-p-012",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 02 explain",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match upper and lower case?",
-    "audioPrompt": "Which tip would help you match upper and lower case?",
-    "visual": "🧠 Match upper and lower case; ➡️ Form letter; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match upper and lower case; ➡️ Form letter; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-004\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.",
+    "acceptanceNote": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'Sam' on paper exactly as shown, with a capital first letter and lower-case letters after it.",
+    "audioPrompt": "Write 'Sam' on paper exactly as shown, with a capital first letter and lower-case letters after it.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-004",
-      "alt_text": "🧠 Match upper and lower case; ➡️ Form letter; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Use this routine: Start point → Form letter → Space word → Re-read.",
-      "Reverse a letter.",
-      "Do not use clear spaces between words."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: Start point → Form letter → Space word → Re-read.\nHint: Use capitals only where needed.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.",
+    "explanation": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
-      "hint": "Use capitals only where needed."
+      "summary": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-013",
+    "id": "ac9e1ly08-er5-p-013",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 03 explain",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you write a clear word?",
-    "audioPrompt": "Which tip would help you write a clear word?",
-    "visual": "🧠 Write a clear word; ➡️ Space word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Write a clear word; ➡️ Space word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-006\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.",
+    "acceptanceNote": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'red box' in lower-case print. Keep each word together and leave a word space.",
+    "audioPrompt": "Copy 'red box' in lower-case print. Keep each word together and leave a word space.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-006",
-      "alt_text": "🧠 Write a clear word; ➡️ Space word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "Do not use capitals only where needed.",
-      "Look for spacing and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for spacing and check the whole example.\nHint: Practise start point and direction.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.",
+    "explanation": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Look for spacing and check the whole example.",
-      "hint": "Practise start point and direction."
+      "summary": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-014",
+    "id": "ac9e1ly08-er5-p-014",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 04 explain",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you add word spacing?",
-    "audioPrompt": "Which tip would help you add word spacing?",
-    "visual": "🧠 Add word spacing; ➡️ Re-read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Add word spacing; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-008\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.",
+    "acceptanceNote": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'STOP' in upper-case print for a small sign on paper.",
+    "audioPrompt": "Write 'STOP' in upper-case print for a small sign on paper.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-008",
-      "alt_text": "🧠 Add word spacing; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use capitals only where needed.",
-      "Check that you can use spaces.",
-      "Reverse a letter."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can use spaces.\nHint: Use clear spaces between words.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.",
+    "explanation": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Check that you can use spaces.",
-      "hint": "Use clear spaces between words."
+      "summary": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-015",
+    "id": "ac9e1ly08-er5-p-015",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 05 explain",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order letter formation checks?",
-    "audioPrompt": "Which tip would help you order letter formation checks?",
-    "visual": "🧠 Order letter formation checks; ➡️ Start point; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order letter formation checks; ➡️ Start point; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-010\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.",
+    "acceptanceNote": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'pink' in lower-case print on a line. Check the p and k carefully.",
+    "audioPrompt": "Copy 'pink' in lower-case print on a line. Check the p and k carefully.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-010",
-      "alt_text": "🧠 Order letter formation checks; ➡️ Start point; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Sequencing a handwriting self-check.",
-      "Reverse a letter.",
-      "Do not use clear spaces between words."
-    ],
-    "correct": 0,
-    "explanation": "Sequencing a handwriting self-check.\nHint: Use capitals only where needed.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.",
+    "explanation": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Sequencing a handwriting self-check.",
-      "hint": "Use capitals only where needed."
+      "summary": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-016",
+    "id": "ac9e1ly08-er5-p-016",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 06 explain",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you copy with case?",
-    "audioPrompt": "Which tip would help you copy with case?",
-    "visual": "🧠 Copy with case; ➡️ Form letter; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Copy with case; ➡️ Form letter; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-012\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.",
+    "acceptanceNote": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'Mia' and 'TOM' on paper, preserving the letter case shown.",
+    "audioPrompt": "Write 'Mia' and 'TOM' on paper, preserving the letter case shown.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-012",
-      "alt_text": "🧠 Copy with case; ➡️ Form letter; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "Do not use capitals only where needed.",
-      "Practise start point and direction."
-    ],
-    "correct": 2,
-    "explanation": "Practise start point and direction.\nHint: Practise start point and direction.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.",
+    "explanation": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Practise start point and direction.",
-      "hint": "Practise start point and direction."
+      "summary": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-017",
+    "id": "ac9e1ly08-er5-p-017",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 07 explain",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you find a case error?",
-    "audioPrompt": "Which tip would help you find a case error?",
-    "visual": "🧠 Find a case error; ➡️ Space word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find a case error; ➡️ Space word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.",
+    "acceptanceNote": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'big dig' in lower-case print. Re-read your handwriting and repair any b or d that faces the wrong way.",
+    "audioPrompt": "Write 'big dig' in lower-case print. Re-read your handwriting and repair any b or d that faces the wrong way.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-014",
-      "alt_text": "🧠 Find a case error; ➡️ Space word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use capitals only where needed.",
-      "Use this routine: Start point → Form letter → Space word → Re-read.",
-      "Reverse a letter."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: Start point → Form letter → Space word → Re-read.\nHint: Use clear spaces between words.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.",
+    "explanation": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
-      "hint": "Use clear spaces between words."
+      "summary": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-018",
+    "id": "ac9e1ly08-er5-p-018",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 08 explain",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you compare readability?",
-    "audioPrompt": "Which tip would help you compare readability?",
-    "visual": "🧠 Compare readability; ➡️ Re-read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare readability; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.",
+    "acceptanceNote": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'play' in lower-case print. Check which letters extend below the line and improve any unclear letter.",
+    "audioPrompt": "Copy 'play' in lower-case print. Check which letters extend below the line and improve any unclear letter.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-016",
-      "alt_text": "🧠 Compare readability; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Look for spacing and check the whole example.",
-      "Reverse a letter.",
-      "Do not use clear spaces between words."
-    ],
-    "correct": 0,
-    "explanation": "Look for spacing and check the whole example.\nHint: Use capitals only where needed.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.",
+    "explanation": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Look for spacing and check the whole example.",
-      "hint": "Use capitals only where needed."
+      "summary": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-019",
+    "id": "ac9e1ly08-er5-p-019",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 09 explain",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you write an upper-case word?",
-    "audioPrompt": "Which tip would help you write an upper-case word?",
-    "visual": "🧠 Write an upper-case word; ➡️ Start point; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Write an upper-case word; ➡️ Start point; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-018\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.",
+    "acceptanceNote": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'OPEN' in capitals and then 'open' in lower-case letters beneath it.",
+    "audioPrompt": "Write 'OPEN' in capitals and then 'open' in lower-case letters beneath it.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-018",
-      "alt_text": "🧠 Write an upper-case word; ➡️ Start point; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "Do not use capitals only where needed.",
-      "Check that you can use spaces."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can use spaces.\nHint: Practise start point and direction.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.",
+    "explanation": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Check that you can use spaces.",
-      "hint": "Practise start point and direction."
+      "summary": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-020",
+    "id": "ac9e1ly08-er5-p-020",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 10 explain",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match case uses?",
-    "audioPrompt": "Which tip would help you match case uses?",
-    "visual": "🧠 Match case uses; ➡️ Form letter; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match case uses; ➡️ Form letter; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-020\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.",
+    "acceptanceNote": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'little hill' in lower-case print. Check that tall letters and short letters are easy to tell apart.",
+    "audioPrompt": "Copy 'little hill' in lower-case print. Check that tall letters and short letters are easy to tell apart.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-020",
-      "alt_text": "🧠 Match case uses; ➡️ Form letter; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use capitals only where needed.",
-      "Connecting handwriting features with functions.",
-      "Reverse a letter."
-    ],
-    "correct": 1,
-    "explanation": "Connecting handwriting features with functions.\nHint: Use clear spaces between words.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.",
+    "explanation": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Connecting handwriting features with functions.",
-      "hint": "Use clear spaces between words."
+      "summary": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-021",
+    "id": "ac9e1ly08-er5-p-021",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 01 discriminate",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.",
+    "acceptanceNote": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write two short words you know in lower-case print. Re-read them and rewrite one unclear letter if needed.",
+    "audioPrompt": "Write two short words you know in lower-case print. Re-read them and rewrite one unclear letter if needed.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001",
-      "alt_text": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "Upper-case M",
-      "Use clear spaces between words."
-    ],
-    "correct": 0,
-    "explanation": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.\nHint: Use clear spaces between words.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.",
+    "explanation": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
-      "hint": "Use clear spaces between words."
+      "summary": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-022",
+    "id": "ac9e1ly08-er5-p-022",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 02 discriminate",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.",
+    "acceptanceNote": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write your first name in print, using its usual capital and lower-case letters. Check that all letters are separate.",
+    "audioPrompt": "Write your first name in print, using its usual capital and lower-case letters. Check that all letters are separate.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003",
-      "alt_text": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "A ↔ a; G ↔ g; T ↔ t",
-      "A ↔ g; G ↔ t; T ↔ a",
-      "Use this routine: Start point → Form letter → Space word → Re-read."
-    ],
-    "correct": 1,
-    "explanation": "A ↔ g; G ↔ t; T ↔ a is the mix-up. Use capitals only where needed.\nHint: Use capitals only where needed.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.",
+    "explanation": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "A ↔ g; G ↔ t; T ↔ a is the mix-up. Use capitals only where needed.",
-      "hint": "Use capitals only where needed."
+      "summary": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-023",
+    "id": "ac9e1ly08-er5-p-023",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 03 discriminate",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write a clear word; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.",
+    "acceptanceNote": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'frog pond' in lower-case print. Check the letters that go below the line and the gap between words.",
+    "audioPrompt": "Copy 'frog pond' in lower-case print. Check the letters that go below the line and the gap between words.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005",
-      "alt_text": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently",
-      "Look for spacing and check the whole example.",
-      "Reverse a letter."
-    ],
-    "correct": 2,
-    "explanation": "Reverse a letter. is the mix-up. Practise start point and direction.\nHint: Practise start point and direction.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.",
+    "explanation": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Reverse a letter. is the mix-up. Practise start point and direction.",
-      "hint": "Practise start point and direction."
+      "summary": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-024",
+    "id": "ac9e1ly08-er5-p-024",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08 04 discriminate",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add word spacing; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.",
+    "acceptanceNote": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Make a two-word handwritten label for a drawing, using unjoined letters. Re-read it and make an unclear letter easier to recognise.",
+    "audioPrompt": "Make a two-word handwritten label for a drawing, using unjoined letters. Re-read it and make an unclear letter easier to recognise.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007",
-      "alt_text": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "the red dog, with clear spaces and recognisable letters",
-      "Check that you can use spaces."
-    ],
-    "correct": 0,
-    "explanation": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.\nHint: Use clear spaces between words.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.",
+    "explanation": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
-      "hint": "Use clear spaces between words."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-025",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 05 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009",
-      "alt_text": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence"
-    },
-    "answers": [
-      "Choose case → form separate letters → check spacing → reread",
-      "reread → check spacing → form separate letters → Choose case",
-      "Sequencing a handwriting self-check."
-    ],
-    "correct": 1,
-    "explanation": "reread → check spacing → form separate letters → Choose case is the mix-up. Use capitals only where needed.\nHint: Use capitals only where needed.",
-    "structuredExplanation": {
-      "summary": "reread → check spacing → form separate letters → Choose case is the mix-up. Use capitals only where needed.",
-      "hint": "Use capitals only where needed."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-026",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 06 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Copy with case; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011",
-      "alt_text": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence"
-    },
-    "answers": [
-      "Accurate case, unjoined legible forms and three word spaces",
-      "Practise start point and direction.",
-      "Ben has a kite"
-    ],
-    "correct": 2,
-    "explanation": "Ben has a kite is the mix-up. Practise start point and direction.\nHint: Practise start point and direction.",
-    "structuredExplanation": {
-      "summary": "Ben has a kite is the mix-up. Practise start point and direction.",
-      "hint": "Practise start point and direction."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-027",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a case error; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013",
-      "alt_text": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals",
-      "Use this routine: Start point → Form letter → Space word → Re-read."
-    ],
-    "correct": 0,
-    "explanation": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.\nHint: Use clear spaces between words.",
-    "structuredExplanation": {
-      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
-      "hint": "Use clear spaces between words."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-028",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare readability; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015",
-      "alt_text": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence"
-    },
-    "answers": [
-      "They distinguish letters/words, prevent crowding or splitting and make recognition easier",
-      "Do not use capitals only where needed.",
-      "Look for spacing and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "Do not use capitals only where needed. is the mix-up. Use capitals only where needed.\nHint: Use capitals only where needed.",
-    "structuredExplanation": {
-      "summary": "Do not use capitals only where needed. is the mix-up. Use capitals only where needed.",
-      "hint": "Use capitals only where needed."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-029",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017",
-      "alt_text": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence"
-    },
-    "answers": [
-      "A-C-T, all recognisable and unjoined with consistent size",
-      "Check that you can use spaces.",
-      "Reverse a letter."
-    ],
-    "correct": 2,
-    "explanation": "Reverse a letter. is the mix-up. Practise start point and direction.\nHint: Practise start point and direction.",
-    "structuredExplanation": {
-      "summary": "Reverse a letter. is the mix-up. Practise start point and direction.",
-      "hint": "Practise start point and direction."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-030",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match case uses; 🔎 readable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match case uses; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019",
-      "alt_text": "📖 Match case uses; 🔎 readable; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "All three matched correctly",
-      "Connecting handwriting features with functions."
-    ],
-    "correct": 0,
-    "explanation": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.\nHint: Use clear spaces between words.",
-    "structuredExplanation": {
-      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
-      "hint": "Use clear spaces between words."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-031",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001",
-      "alt_text": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "Upper-case M",
-      "Do not use capitals only where needed."
-    ],
-    "correct": 1,
-    "explanation": "Upper-case M uses the skill correctly. Use clear spaces between words.\nHint: Use clear spaces between words.",
-    "structuredExplanation": {
-      "summary": "Upper-case M uses the skill correctly. Use clear spaces between words.",
-      "hint": "Use clear spaces between words."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-032",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003",
-      "alt_text": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence"
-    },
-    "answers": [
-      "A ↔ g; G ↔ t; T ↔ a",
-      "Do not use capitals only where needed.",
-      "A ↔ a; G ↔ g; T ↔ t"
-    ],
-    "correct": 2,
-    "explanation": "A ↔ a; G ↔ g; T ↔ t uses the skill correctly. Use capitals only where needed.\nHint: Use capitals only where needed.",
-    "structuredExplanation": {
-      "summary": "A ↔ a; G ↔ g; T ↔ t uses the skill correctly. Use capitals only where needed.",
-      "hint": "Use capitals only where needed."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-033",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write a clear word; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005",
-      "alt_text": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence"
-    },
-    "answers": [
-      "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently",
-      "Reverse a letter.",
-      "Do not use clear spaces between words."
-    ],
-    "correct": 0,
-    "explanation": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently uses the skill correctly. Practise start point and direction.\nHint: Practise start point and direction.",
-    "structuredExplanation": {
-      "summary": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently uses the skill correctly. Practise start point and direction.",
-      "hint": "Practise start point and direction."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-034",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add word spacing; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007",
-      "alt_text": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "the red dog, with clear spaces and recognisable letters",
-      "Do not use capitals only where needed."
-    ],
-    "correct": 1,
-    "explanation": "the red dog, with clear spaces and recognisable letters uses the skill correctly. Use clear spaces between words.\nHint: Use clear spaces between words.",
-    "structuredExplanation": {
-      "summary": "the red dog, with clear spaces and recognisable letters uses the skill correctly. Use clear spaces between words.",
-      "hint": "Use clear spaces between words."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-035",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009",
-      "alt_text": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence"
-    },
-    "answers": [
-      "reread → check spacing → form separate letters → Choose case",
-      "Do not use capitals only where needed.",
-      "Choose case → form separate letters → check spacing → reread"
-    ],
-    "correct": 2,
-    "explanation": "Choose case → form separate letters → check spacing → reread uses the skill correctly. Use capitals only where needed.\nHint: Use capitals only where needed.",
-    "structuredExplanation": {
-      "summary": "Choose case → form separate letters → check spacing → reread uses the skill correctly. Use capitals only where needed.",
-      "hint": "Use capitals only where needed."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-036",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Copy with case; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011",
-      "alt_text": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence"
-    },
-    "answers": [
-      "Accurate case, unjoined legible forms and three word spaces",
-      "Ben has a kite",
-      "Reverse a letter."
-    ],
-    "correct": 0,
-    "explanation": "Accurate case, unjoined legible forms and three word spaces uses the skill correctly. Practise start point and direction.\nHint: Practise start point and direction.",
-    "structuredExplanation": {
-      "summary": "Accurate case, unjoined legible forms and three word spaces uses the skill correctly. Practise start point and direction.",
-      "hint": "Practise start point and direction."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-037",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a case error; 🔎 lower-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013",
-      "alt_text": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals",
-      "Do not use capitals only where needed."
-    ],
-    "correct": 1,
-    "explanation": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals uses the skill correctly. Use clear spaces between words.\nHint: Use clear spaces between words.",
-    "structuredExplanation": {
-      "summary": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals uses the skill correctly. Use clear spaces between words.",
-      "hint": "Use clear spaces between words."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-038",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare readability; 🔎 spacing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015",
-      "alt_text": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use capitals only where needed.",
-      "Reverse a letter.",
-      "They distinguish letters/words, prevent crowding or splitting and make recognition easier"
-    ],
-    "correct": 2,
-    "explanation": "They distinguish letters/words, prevent crowding or splitting and make recognition easier uses the skill correctly. Use capitals only where needed.\nHint: Use capitals only where needed.",
-    "structuredExplanation": {
-      "summary": "They distinguish letters/words, prevent crowding or splitting and make recognition easier uses the skill correctly. Use capitals only where needed.",
-      "hint": "Use capitals only where needed."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-039",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017",
-      "alt_text": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence"
-    },
-    "answers": [
-      "A-C-T, all recognisable and unjoined with consistent size",
-      "Reverse a letter.",
-      "Do not use clear spaces between words."
-    ],
-    "correct": 0,
-    "explanation": "A-C-T, all recognisable and unjoined with consistent size uses the skill correctly. Practise start point and direction.\nHint: Practise start point and direction.",
-    "structuredExplanation": {
-      "summary": "A-C-T, all recognisable and unjoined with consistent size uses the skill correctly. Practise start point and direction.",
-      "hint": "Practise start point and direction."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-040",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match case uses; 🔎 readable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match case uses; 🔎 readable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019",
-      "alt_text": "📖 Match case uses; 🔎 readable; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not use clear spaces between words.",
-      "All three matched correctly",
-      "Do not use capitals only where needed."
-    ],
-    "correct": 1,
-    "explanation": "All three matched correctly uses the skill correctly. Use clear spaces between words.\nHint: Use clear spaces between words.",
-    "structuredExplanation": {
-      "summary": "All three matched correctly uses the skill correctly. Use clear spaces between words.",
-      "hint": "Use clear spaces between words."
+      "summary": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   }

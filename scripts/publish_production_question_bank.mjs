@@ -74,7 +74,8 @@ function liveItem(item) {
     bank: item.bank,
     skill: item.skill.replace(/_/g, " "),
     printable: true,
-    type: "single",
+    type: item.grading_mode === "adult-review" ? "self-check" : "single",
+    ...(item.grading_mode === "adult-review" ? {gradingMode: "adult-review", responseType: "short_answer", modelAnswer: item.model_answer, acceptanceNote: item.acceptance_note, responseInstructions: item.response_instructions, completionLabel: item.completion_label} : {}),
     question: item.question,
     audioPrompt: item.audio_prompt,
     visual: alt,
@@ -85,7 +86,7 @@ function liveItem(item) {
     ...(item.difficulty ? { difficulty: item.difficulty } : {}),
     ...(item.difficulty_tier ? { difficultyTier: item.difficulty_tier } : {}),
     ...(item.sequence_priority ? { sequencePriority: item.sequence_priority } : {}),
-    correct: item.correct_index,
+    correct: item.grading_mode === "adult-review" ? item.model_answer : item.correct_index,
     explanation: `${item.explanation.summary}\nHint: ${item.explanation.hint}`,
     structuredExplanation: item.explanation,
     qualitySchema: "production-v1"

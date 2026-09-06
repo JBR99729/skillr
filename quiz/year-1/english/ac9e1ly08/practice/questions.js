@@ -1,1443 +1,796 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly08-p-001",
+    "id": "ac9e1ly08-er5-p-001",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which is the lower-case letter for A?",
-    "audioPrompt": "Which is the lower-case letter for A?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.",
+    "acceptanceNote": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "On paper, copy 'cat' in separate lower-case letters. Leave the letters unjoined.",
+    "audioPrompt": "On paper, copy 'cat' in separate lower-case letters. Leave the letters unjoined.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "b",
-      "A",
-      "a"
-    ],
-    "correct": 1,
-    "explanation": "a is the best answer.",
-    "structuredExplanation": {
-      "summary": "a is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
+    "sequencePriority": 1,
+    "correct": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.",
+    "explanation": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check c, a and t in order, recognisable and unjoined. Accept the school's taught print letter forms.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-002",
+    "id": "ac9e1ly08-er5-p-002",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which is the upper-case letter for b?",
-    "audioPrompt": "Which is the upper-case letter for b?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.",
+    "acceptanceNote": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "On paper, copy 'SUN' in separate upper-case letters.",
+    "audioPrompt": "On paper, copy 'SUN' in separate upper-case letters.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "b",
-      "B",
-      "G"
-    ],
-    "correct": 0,
-    "explanation": "B is the best answer.",
-    "structuredExplanation": {
-      "summary": "B is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 2
+    "sequencePriority": 2,
+    "correct": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.",
+    "explanation": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check upper-case S, U and N, correctly ordered and unjoined; do not accept lower-case letters for this task.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-003",
+    "id": "ac9e1ly08-er5-p-003",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which letter starts the name Sam?",
-    "audioPrompt": "Which letter starts the name Sam?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.",
+    "acceptanceNote": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'map' in lower-case print on a line. Keep the letters separate.",
+    "audioPrompt": "Write 'map' in lower-case print on a line. Keep the letters separate.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "K",
-      "S",
-      "s"
-    ],
-    "correct": 1,
-    "explanation": "S is the best answer.",
-    "structuredExplanation": {
-      "summary": "S is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 3
+    "sequencePriority": 3,
+    "correct": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.",
+    "explanation": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check m, a and p in order; the p descends below the writing line in the taught form. Letters should be recognisable and unjoined.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-004",
+    "id": "ac9e1ly08-er5-p-004",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which word should begin with a capital letter?",
-    "audioPrompt": "Which word should begin with a capital letter?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.",
+    "acceptanceNote": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'TOP' in upper-case print. Keep a small space between its separate letters without splitting the word.",
+    "audioPrompt": "Copy 'TOP' in upper-case print. Keep a small space between its separate letters without splitting the word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "monday",
-      "Monday",
-      "ball"
-    ],
-    "correct": 0,
-    "explanation": "Monday is the best answer.",
-    "structuredExplanation": {
-      "summary": "Monday is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 4
+    "sequencePriority": 4,
+    "correct": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.",
+    "explanation": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check T, O and P in order and recognisable as one word. Accept reasonable spacing and the school's print forms.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-005",
+    "id": "ac9e1ly08-er5-p-005",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.",
+    "acceptanceNote": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'dog' in lower-case print. Check that d and g face the way you have been taught.",
+    "audioPrompt": "Write 'dog' in lower-case print. Check that d and g face the way you have been taught.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "ava",
-      "Ava",
-      "AVA"
-    ],
-    "correct": 0,
-    "explanation": "Ava is the best answer.",
-    "structuredExplanation": {
-      "summary": "Ava is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 5
+    "sequencePriority": 5,
+    "correct": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.",
+    "explanation": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check d, o and g in order, unjoined and recognisable. Accept taught one-storey or two-storey g forms; do not require the website font.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-006",
+    "id": "ac9e1ly08-er5-p-006",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which pair matches?",
-    "audioPrompt": "Which pair matches?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.",
+    "acceptanceNote": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'BAG' in upper-case letters on paper.",
+    "audioPrompt": "Copy 'BAG' in upper-case letters on paper.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "p and t",
-      "P and s",
-      "P and p"
-    ],
-    "correct": 2,
-    "explanation": "P and p is the best answer.",
-    "structuredExplanation": {
-      "summary": "P and p is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 6
+    "sequencePriority": 6,
+    "correct": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.",
+    "explanation": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check B, A and G in order, upper-case and unjoined. Judge recognisability rather than decorative neatness.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-007",
+    "id": "ac9e1ly08-er5-p-007",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which letter has been written as a capital?",
-    "audioPrompt": "Which letter has been written as a capital?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.",
+    "acceptanceNote": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'hen' in lower-case print. Compare the height of h with e and n.",
+    "audioPrompt": "Write 'hen' in lower-case print. Compare the height of h with e and n.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "s",
-      "S",
-      "t"
-    ],
-    "correct": 0,
-    "explanation": "S is the best answer.",
-    "structuredExplanation": {
-      "summary": "S is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 7
+    "sequencePriority": 7,
+    "correct": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.",
+    "explanation": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check a taller h and recognisable e and n, with unjoined letters in order. Use the child's taught ruling and letter forms.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-008",
+    "id": "ac9e1ly08-er5-p-008",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which letter has been written as lower case?",
-    "audioPrompt": "Which letter has been written as lower case?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.",
+    "acceptanceNote": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'FISH' in separate upper-case letters.",
+    "audioPrompt": "Copy 'FISH' in separate upper-case letters.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "T",
-      "t",
-      "D"
-    ],
-    "correct": 0,
-    "explanation": "t is the best answer.",
-    "structuredExplanation": {
-      "summary": "t is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 8
+    "sequencePriority": 8,
+    "correct": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.",
+    "explanation": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check F, I, S and H in order, upper-case and unjoined. Accept the taught form of upper-case I with or without short crossbars.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-009",
+    "id": "ac9e1ly08-er5-p-009",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which is the lower-case letter for A?",
-    "audioPrompt": "Which is the lower-case letter for A?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.",
+    "acceptanceNote": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'cup' and 'CUP' on separate lines. Use the matching case in each word.",
+    "audioPrompt": "Copy 'cup' and 'CUP' on separate lines. Use the matching case in each word.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "a",
-      "A",
-      "b"
-    ],
-    "correct": 0,
-    "explanation": "a is the best answer.",
-    "structuredExplanation": {
-      "summary": "a is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
-  },
-  {
-    "id": "ac9e1ly08-p-010",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the upper-case letter for b?",
-    "audioPrompt": "Which is the upper-case letter for b?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "G",
-      "b",
-      "B"
-    ],
-    "correct": 1,
-    "explanation": "B is the best answer.",
-    "structuredExplanation": {
-      "summary": "B is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10
-  },
-  {
-    "id": "ac9e1ly08-p-011",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter starts the name Kim?",
-    "audioPrompt": "Which letter starts the name Kim?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "k",
-      "K",
-      "M"
-    ],
-    "correct": 0,
-    "explanation": "K is the best answer.",
-    "structuredExplanation": {
-      "summary": "K is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
-  },
-  {
-    "id": "ac9e1ly08-p-012",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which word should begin with a capital letter?",
-    "audioPrompt": "Which word should begin with a capital letter?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Monday",
-      "monday",
-      "ball"
-    ],
-    "correct": 0,
-    "explanation": "Monday is the best answer.",
-    "structuredExplanation": {
-      "summary": "Monday is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1ly08-p-013",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "LEO",
-      "leo",
-      "Leo"
-    ],
-    "correct": 0,
-    "explanation": "Leo is the best answer.",
-    "structuredExplanation": {
-      "summary": "Leo is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
-  },
-  {
-    "id": "ac9e1ly08-p-014",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which pair matches?",
-    "audioPrompt": "Which pair matches?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "P and s",
-      "P and p",
-      "p and t"
-    ],
-    "correct": 1,
-    "explanation": "P and p is the best answer.",
-    "structuredExplanation": {
-      "summary": "P and p is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
-  },
-  {
-    "id": "ac9e1ly08-p-015",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter has been written as a capital?",
-    "audioPrompt": "Which letter has been written as a capital?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "S",
-      "s",
-      "t"
-    ],
-    "correct": 0,
-    "explanation": "S is the best answer.",
-    "structuredExplanation": {
-      "summary": "S is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
-  },
-  {
-    "id": "ac9e1ly08-p-016",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter has been written as lower case?",
-    "audioPrompt": "Which letter has been written as lower case?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "T",
-      "D",
-      "t"
-    ],
-    "correct": 0,
-    "explanation": "t is the best answer.",
-    "structuredExplanation": {
-      "summary": "t is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1ly08-p-017",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the lower-case letter for A?",
-    "audioPrompt": "Which is the lower-case letter for A?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A",
-      "b",
-      "a"
-    ],
-    "correct": 0,
-    "explanation": "a is the best answer.",
-    "structuredExplanation": {
-      "summary": "a is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.",
+    "explanation": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check lower-case c, u, p and upper-case C, U, P in order. Letters remain unjoined; p descends appropriately in the lower-case word.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-018",
+    "id": "ac9e1ly08-er5-p-010",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which is the upper-case letter for b?",
-    "audioPrompt": "Which is the upper-case letter for b?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.",
+    "acceptanceNote": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write the word 'bed' in lower-case print. Check that the first and last letters are different.",
+    "audioPrompt": "Write the word 'bed' in lower-case print. Check that the first and last letters are different.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "B",
-      "G",
-      "b"
-    ],
-    "correct": 0,
-    "explanation": "B is the best answer.",
-    "structuredExplanation": {
-      "summary": "B is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.",
+    "explanation": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check b-e-d in order, with correctly oriented b and d. Recognisable separate letters matter; do not substitute an oral spelling answer.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-019",
+    "id": "ac9e1ly08-er5-p-011",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which letter starts the name Ava?",
-    "audioPrompt": "Which letter starts the name Ava?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.",
+    "acceptanceNote": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'milk jug' in lower-case print. Leave a clear gap between the two words.",
+    "audioPrompt": "Copy 'milk jug' in lower-case print. Leave a clear gap between the two words.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "K",
-      "A",
-      "a"
-    ],
-    "correct": 1,
-    "explanation": "A is the best answer.",
-    "structuredExplanation": {
-      "summary": "A is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.",
+    "explanation": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check both words, unjoined letters and a word gap larger than within-word gaps. Check the descending j and g in the taught forms.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-020",
+    "id": "ac9e1ly08-er5-p-012",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which word should begin with a capital letter?",
-    "audioPrompt": "Which word should begin with a capital letter?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.",
+    "acceptanceNote": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'Sam' on paper exactly as shown, with a capital first letter and lower-case letters after it.",
+    "audioPrompt": "Write 'Sam' on paper exactly as shown, with a capital first letter and lower-case letters after it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "Monday",
-      "ball",
-      "monday"
-    ],
-    "correct": 0,
-    "explanation": "Monday is the best answer.",
-    "structuredExplanation": {
-      "summary": "Monday is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.",
+    "explanation": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check S-a-m in order with the case pattern preserved. The task assesses the handwritten forms, not just naming the letters.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-021",
+    "id": "ac9e1ly08-er5-p-013",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.",
+    "acceptanceNote": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'red box' in lower-case print. Keep each word together and leave a word space.",
+    "audioPrompt": "Copy 'red box' in lower-case print. Keep each word together and leave a word space.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "ZOE",
-      "Zoe",
-      "zoe"
-    ],
-    "correct": 0,
-    "explanation": "Zoe is the best answer.",
-    "structuredExplanation": {
-      "summary": "Zoe is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.",
+    "explanation": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check r-e-d and b-o-x in order, distinguish b from d and keep letters unjoined with a visible word gap.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-022",
+    "id": "ac9e1ly08-er5-p-014",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which pair matches?",
-    "audioPrompt": "Which pair matches?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.",
+    "acceptanceNote": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'STOP' in upper-case print for a small sign on paper.",
+    "audioPrompt": "Write 'STOP' in upper-case print for a small sign on paper.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "P and s",
-      "p and t",
-      "P and p"
-    ],
-    "correct": 2,
-    "explanation": "P and p is the best answer.",
-    "structuredExplanation": {
-      "summary": "P and p is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.",
+    "explanation": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check all four upper-case letters, separate and legible as one word. No drawing or colour is required.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-023",
+    "id": "ac9e1ly08-er5-p-015",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which letter has been written as a capital?",
-    "audioPrompt": "Read and choose: Which letter has been written as a capital?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.",
+    "acceptanceNote": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'pink' in lower-case print on a line. Check the p and k carefully.",
+    "audioPrompt": "Copy 'pink' in lower-case print on a line. Check the p and k carefully.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "s",
-      "S",
-      "t"
-    ],
-    "correct": 0,
-    "explanation": "S is the best answer.",
-    "structuredExplanation": {
-      "summary": "S is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.",
+    "explanation": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check p-i-n-k, the p descender, the i dot and recognisable k. Allow the child's taught print style.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-024",
+    "id": "ac9e1ly08-er5-p-016",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which letter has been written as lower case?",
-    "audioPrompt": "Read and choose: Which letter has been written as lower case?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.",
+    "acceptanceNote": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'Mia' and 'TOM' on paper, preserving the letter case shown.",
+    "audioPrompt": "Write 'Mia' and 'TOM' on paper, preserving the letter case shown.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "T",
-      "t",
-      "D"
-    ],
-    "correct": 0,
-    "explanation": "t is the best answer.",
-    "structuredExplanation": {
-      "summary": "t is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.",
+    "explanation": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check M-i-a and T-O-M with correct case, order and unjoined forms. Use a visible space or separate lines between names.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-025",
+    "id": "ac9e1ly08-er5-p-017",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which is the lower-case letter for A?",
-    "audioPrompt": "Read and choose: Which is the lower-case letter for A?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.",
+    "acceptanceNote": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'big dig' in lower-case print. Re-read your handwriting and repair any b or d that faces the wrong way.",
+    "audioPrompt": "Write 'big dig' in lower-case print. Re-read your handwriting and repair any b or d that faces the wrong way.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "b",
-      "A",
-      "a"
-    ],
-    "correct": 1,
-    "explanation": "a is the best answer.",
-    "structuredExplanation": {
-      "summary": "a is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1ly08-p-026",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which is the upper-case letter for b?",
-    "audioPrompt": "Read and choose: Which is the upper-case letter for b?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "b",
-      "B",
-      "G"
-    ],
-    "correct": 0,
-    "explanation": "B is the best answer.",
-    "structuredExplanation": {
-      "summary": "B is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1ly08-p-027",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter starts the name Leo?",
-    "audioPrompt": "Which letter starts the name Leo?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "l",
-      "K",
-      "L"
-    ],
-    "correct": 0,
-    "explanation": "L is the best answer.",
-    "structuredExplanation": {
-      "summary": "L is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1ly08-p-028",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which word should begin with a capital letter?",
-    "audioPrompt": "Read and choose: Which word should begin with a capital letter?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Monday",
-      "ball",
-      "monday"
-    ],
-    "correct": 0,
-    "explanation": "Monday is the best answer.",
-    "structuredExplanation": {
-      "summary": "Monday is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
-  },
-  {
-    "id": "ac9e1ly08-p-029",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "MAX",
-      "max",
-      "Max"
-    ],
-    "correct": 0,
-    "explanation": "Max is the best answer.",
-    "structuredExplanation": {
-      "summary": "Max is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1ly08-p-030",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which pair matches?",
-    "audioPrompt": "Read and choose: Which pair matches?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "P and s",
-      "P and p",
-      "p and t"
-    ],
-    "correct": 1,
-    "explanation": "P and p is the best answer.",
-    "structuredExplanation": {
-      "summary": "P and p is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
-  },
-  {
-    "id": "ac9e1ly08-p-031",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter has been written as a capital?",
-    "audioPrompt": "Which letter has been written as a capital?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "S",
-      "t",
-      "s"
-    ],
-    "correct": 0,
-    "explanation": "S is the best answer.",
-    "structuredExplanation": {
-      "summary": "S is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
-  },
-  {
-    "id": "ac9e1ly08-p-032",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which letter has been written as lower case?",
-    "audioPrompt": "Read and choose: Which letter has been written as lower case?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "T",
-      "D",
-      "t"
-    ],
-    "correct": 0,
-    "explanation": "t is the best answer.",
-    "structuredExplanation": {
-      "summary": "t is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1ly08-p-033",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the lower-case letter for A?",
-    "audioPrompt": "Which is the lower-case letter for A?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A",
-      "a",
-      "b"
-    ],
-    "correct": 0,
-    "explanation": "a is the best answer.",
-    "structuredExplanation": {
-      "summary": "a is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.",
+    "explanation": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check both words with recognisable correctly oriented b and d, word spacing and unjoined letters. A corrected version is acceptable.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-034",
+    "id": "ac9e1ly08-er5-p-018",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which is the upper-case letter for b?",
-    "audioPrompt": "Read and choose: Which is the upper-case letter for b?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.",
+    "acceptanceNote": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'play' in lower-case print. Check which letters extend below the line and improve any unclear letter.",
+    "audioPrompt": "Copy 'play' in lower-case print. Check which letters extend below the line and improve any unclear letter.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "B",
-      "G",
-      "b"
-    ],
-    "correct": 0,
-    "explanation": "B is the best answer.",
-    "structuredExplanation": {
-      "summary": "B is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.",
+    "explanation": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check p and y descend in the taught forms, with l taller than a. Letters should be in order, recognisable and unjoined.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-035",
+    "id": "ac9e1ly08-er5-p-019",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which letter starts the name Zoe?",
-    "audioPrompt": "Which letter starts the name Zoe?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.",
+    "acceptanceNote": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write 'OPEN' in capitals and then 'open' in lower-case letters beneath it.",
+    "audioPrompt": "Write 'OPEN' in capitals and then 'open' in lower-case letters beneath it.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "K",
-      "Z",
-      "z"
-    ],
-    "correct": 1,
-    "explanation": "Z is the best answer.",
-    "structuredExplanation": {
-      "summary": "Z is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.",
+    "explanation": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check both case versions with O/o, P/p, E/e and N/n correctly formed. The lower-case p has a descender in the taught form.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-036",
+    "id": "ac9e1ly08-er5-p-020",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which word should begin with a capital letter?",
-    "audioPrompt": "Which word should begin with a capital letter?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.",
+    "acceptanceNote": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'little hill' in lower-case print. Check that tall letters and short letters are easy to tell apart.",
+    "audioPrompt": "Copy 'little hill' in lower-case print. Check that tall letters and short letters are easy to tell apart.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "ball",
-      "Monday",
-      "monday"
-    ],
-    "correct": 1,
-    "explanation": "Monday is the best answer.",
-    "structuredExplanation": {
-      "summary": "Monday is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.",
+    "explanation": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check recognisable l, i, t, t, l, e and h, i, l, l in order, unjoined, with a word gap. Use taught height conventions without demanding exact measurements.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-037",
+    "id": "ac9e1ly08-er5-p-021",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.",
+    "acceptanceNote": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write two short words you know in lower-case print. Re-read them and rewrite one unclear letter if needed.",
+    "audioPrompt": "Write two short words you know in lower-case print. Re-read them and rewrite one unclear letter if needed.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "Mia",
-      "mia",
-      "MIA"
-    ],
-    "correct": 0,
-    "explanation": "Mia is the best answer.",
-    "structuredExplanation": {
-      "summary": "Mia is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.",
+    "explanation": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check actual handwriting of two identifiable words, unjoined lower-case letters and useful spacing. Help with spelling separately so the judgement stays on letter formation.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-038",
+    "id": "ac9e1ly08-er5-p-022",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which pair matches?",
-    "audioPrompt": "Which pair matches?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.",
+    "acceptanceNote": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write your first name in print, using its usual capital and lower-case letters. Check that all letters are separate.",
+    "audioPrompt": "Write your first name in print, using its usual capital and lower-case letters. Check that all letters are separate.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "p and t",
-      "P and p",
-      "P and s"
-    ],
-    "correct": 1,
-    "explanation": "P and p is the best answer.",
-    "structuredExplanation": {
-      "summary": "P and p is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.",
+    "explanation": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check the correct personal name and its usual case pattern, with recognisable unjoined letters. Respect the child's name spelling and naming conventions.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-039",
+    "id": "ac9e1ly08-er5-p-023",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Which letter has been written as a capital?",
-    "audioPrompt": "Which letter has been written as a capital?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.",
+    "acceptanceNote": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Copy 'frog pond' in lower-case print. Check the letters that go below the line and the gap between words.",
+    "audioPrompt": "Copy 'frog pond' in lower-case print. Check the letters that go below the line and the gap between words.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "t",
-      "s",
-      "S"
-    ],
-    "correct": 1,
-    "explanation": "S is the best answer.",
-    "structuredExplanation": {
-      "summary": "S is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.",
+    "explanation": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check both words, especially descending g and p in the taught forms, and clear word separation. Do not mark spelling independently when the model is supplied.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly08-p-040",
+    "id": "ac9e1ly08-er5-p-024",
     "curriculumCode": "AC9E1LY08",
     "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
+    "skill": "handwriting words with unjoined letters",
     "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which letter has been written as lower case?",
-    "audioPrompt": "Look and choose: Which letter has been written as lower case?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.",
+    "acceptanceNote": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.",
+    "responseInstructions": "Do the task on paper.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Make a two-word handwritten label for a drawing, using unjoined letters. Re-read it and make an unclear letter easier to recognise.",
+    "audioPrompt": "Make a two-word handwritten label for a drawing, using unjoined letters. Re-read it and make an unclear letter easier to recognise.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "T",
-      "t",
-      "D"
-    ],
-    "correct": 0,
-    "explanation": "t is the best answer.",
-    "structuredExplanation": {
-      "summary": "t is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly08-p-041",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Which is the lower-case letter for A?",
-    "audioPrompt": "Look and choose: Which is the lower-case letter for A?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "b",
-      "A",
-      "a"
-    ],
-    "correct": 1,
-    "explanation": "a is the best answer.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.",
+    "explanation": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "a is the best answer."
+      "summary": "Accept a meaningful two-word label with recognisable unjoined letters and a clear word gap. Drawing quality is not assessed; a supplied spelling model is allowed.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-042",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the upper-case letter for b?",
-    "audioPrompt": "Which is the upper-case letter for b?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "b",
-      "G",
-      "B"
-    ],
-    "correct": 0,
-    "explanation": "B is the best answer.",
-    "structuredExplanation": {
-      "summary": "B is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-043",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter starts the name Max?",
-    "audioPrompt": "Which letter starts the name Max?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "M",
-      "K",
-      "m"
-    ],
-    "correct": 0,
-    "explanation": "M is the best answer.",
-    "structuredExplanation": {
-      "summary": "M is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-044",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which word should begin with a capital letter?",
-    "audioPrompt": "Which word should begin with a capital letter?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "monday",
-      "ball",
-      "Monday"
-    ],
-    "correct": 0,
-    "explanation": "Monday is the best answer.",
-    "structuredExplanation": {
-      "summary": "Monday is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-045",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Choose the correctly written name.",
-    "audioPrompt": "Choose the correctly written name.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Ben",
-      "ben",
-      "BEN"
-    ],
-    "correct": 0,
-    "explanation": "Ben is the best answer.",
-    "structuredExplanation": {
-      "summary": "Ben is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-046",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which pair matches?",
-    "audioPrompt": "Read and choose: Which pair matches?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "P and s",
-      "p and t",
-      "P and p"
-    ],
-    "correct": 2,
-    "explanation": "P and p is the best answer.",
-    "structuredExplanation": {
-      "summary": "P and p is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-047",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter has been written as a capital?",
-    "audioPrompt": "Which letter has been written as a capital?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "t",
-      "S",
-      "s"
-    ],
-    "correct": 1,
-    "explanation": "S is the best answer.",
-    "structuredExplanation": {
-      "summary": "S is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly08-p-048",
-    "curriculumCode": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "write words using unjoined lower-case and upper-case letters",
-    "printable": true,
-    "type": "single",
-    "question": "Which letter has been written as lower case?",
-    "audioPrompt": "Which letter has been written as lower case?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "D",
-      "T",
-      "t"
-    ],
-    "correct": 1,
-    "explanation": "t is the best answer.",
-    "structuredExplanation": {
-      "summary": "t is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

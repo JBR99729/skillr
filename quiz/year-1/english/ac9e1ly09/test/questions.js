@@ -1,483 +1,533 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e1ly09-t-001",
+    "id": "ac9e1ly09-er5-t-001",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Zoe says “ship”. Which shows its sounds?",
-    "audioPrompt": "Zoe says “ship”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.",
+    "acceptanceNote": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'jam'. Ask the child to say every sound separately.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'jam'. Ask the child to say every sound separately.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/s/ /h/ /i/ /p/",
-      "/sh/ /i/ /p/",
-      "/ship/"
-    ],
-    "correct": 1,
-    "explanation": "/sh/ /i/ /p/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/sh/ /i/ /p/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 1
+    "sequencePriority": 1,
+    "correct": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.",
+    "explanation": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-002",
+    "id": "ac9e1ly09-er5-t-002",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Max says “frog”. Which shows its sounds?",
-    "audioPrompt": "Max says “frog”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.",
+    "acceptanceNote": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'web'. Ask for the separate sounds in order, using one counter each.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'web'. Ask for the separate sounds in order, using one counter each.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/fr/ /o/ /g/",
-      "/f/ /r/ /o/ /g/",
-      "/frog/"
-    ],
-    "correct": 1,
-    "explanation": "/f/ /r/ /o/ /g/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/f/ /r/ /o/ /g/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 2
+    "sequencePriority": 2,
+    "correct": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.",
+    "explanation": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-003",
+    "id": "ac9e1ly09-er5-t-003",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Mia says “clap”. Which shows its sounds?",
-    "audioPrompt": "Mia says “clap”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.",
+    "acceptanceNote": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'chin'. Ask the child to segment the word and count its sounds.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'chin'. Ask the child to segment the word and count its sounds.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/cl/ /a/ /p/",
-      "/clap/",
-      "/c/ /l/ /a/ /p/"
-    ],
-    "correct": 2,
-    "explanation": "/c/ /l/ /a/ /p/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/c/ /l/ /a/ /p/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 3
+    "sequencePriority": 3,
+    "correct": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.",
+    "explanation": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-004",
+    "id": "ac9e1ly09-er5-t-004",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Ben says “nest”. Which shows its sounds?",
-    "audioPrompt": "Ben says “nest”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.",
+    "acceptanceNote": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'thin'. Ask the child to say the separate sounds.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'thin'. Ask the child to say the separate sounds.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/n/ /e/ /st/",
-      "/nest/",
-      "/n/ /e/ /s/ /t/"
-    ],
-    "correct": 2,
-    "explanation": "/n/ /e/ /s/ /t/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/n/ /e/ /s/ /t/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 4
+    "sequencePriority": 4,
+    "correct": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.",
+    "explanation": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-005",
+    "id": "ac9e1ly09-er5-t-005",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Sam says “brush”. Which shows its sounds?",
-    "audioPrompt": "Sam says “brush”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.",
+    "acceptanceNote": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'step'. Ask the child to segment the whole word, keeping the initial sounds separate.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'step'. Ask the child to segment the whole word, keeping the initial sounds separate.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/b/ /r/ /u/ /sh/",
-      "/brush/",
-      "/br/ /u/ /s/ /h/"
-    ],
-    "correct": 0,
-    "explanation": "/b/ /r/ /u/ /sh/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/b/ /r/ /u/ /sh/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 5
+    "sequencePriority": 5,
+    "correct": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.",
+    "explanation": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-006",
+    "id": "ac9e1ly09-er5-t-006",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Kim says “flag”. Which shows its sounds?",
-    "audioPrompt": "Kim says “flag”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.",
+    "acceptanceNote": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'plug'. Ask for all the sounds in order.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'plug'. Ask for all the sounds in order.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/f/ /l/ /a/ /g/",
-      "/fl/ /a/ /g/",
-      "/flag/"
-    ],
-    "correct": 0,
-    "explanation": "/f/ /l/ /a/ /g/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/f/ /l/ /a/ /g/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 6
+    "sequencePriority": 6,
+    "correct": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.",
+    "explanation": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-007",
+    "id": "ac9e1ly09-er5-t-007",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Ava says “chest”. Which shows its sounds?",
-    "audioPrompt": "Ava says “chest”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.",
+    "acceptanceNote": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'belt'. Ask the child to separate the sounds, including the ending.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'belt'. Ask the child to separate the sounds, including the ending.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/chest/",
-      "/c/ /h/ /e/ /s/ /t/",
-      "/ch/ /e/ /s/ /t/"
-    ],
-    "correct": 2,
-    "explanation": "/ch/ /e/ /s/ /t/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/ch/ /e/ /s/ /t/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 7
+    "sequencePriority": 7,
+    "correct": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.",
+    "explanation": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-008",
+    "id": "ac9e1ly09-er5-t-008",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Leo says “milk”. Which shows its sounds?",
-    "audioPrompt": "Leo says “milk”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.",
+    "acceptanceNote": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'lamp'. Ask the child to move a counter for each spoken sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'lamp'. Ask the child to move a counter for each spoken sound.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/milk/",
-      "/m/ /i/ /lk/",
-      "/m/ /i/ /l/ /k/"
-    ],
-    "correct": 2,
-    "explanation": "/m/ /i/ /l/ /k/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/m/ /i/ /l/ /k/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 8
+    "sequencePriority": 8,
+    "correct": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.",
+    "explanation": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-009",
+    "id": "ac9e1ly09-er5-t-009",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Max says “ship”. Which shows its sounds?",
-    "audioPrompt": "Max says “ship”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.",
+    "acceptanceNote": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'clap'. Ask the child to say every sound slowly.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'clap'. Ask the child to say every sound slowly.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/ship/",
-      "/sh/ /i/ /p/",
-      "/s/ /h/ /i/ /p/"
-    ],
-    "correct": 1,
-    "explanation": "/sh/ /i/ /p/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/sh/ /i/ /p/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 9
+    "sequencePriority": 9,
+    "correct": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.",
+    "explanation": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-010",
+    "id": "ac9e1ly09-er5-t-010",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Mia says “frog”. Which shows its sounds?",
-    "audioPrompt": "Mia says “frog”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.",
+    "acceptanceNote": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'desk'. Ask the child to segment the word and repeat just the last two sounds.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'desk'. Ask the child to segment the word and repeat just the last two sounds.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/frog/",
-      "/fr/ /o/ /g/",
-      "/f/ /r/ /o/ /g/"
-    ],
-    "correct": 2,
-    "explanation": "/f/ /r/ /o/ /g/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/f/ /r/ /o/ /g/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 10
+    "sequencePriority": 10,
+    "correct": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.",
+    "explanation": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-011",
+    "id": "ac9e1ly09-er5-t-011",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Ben says “clap”. Which shows its sounds?",
-    "audioPrompt": "Ben says “clap”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.",
+    "acceptanceNote": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'top' and then 'stomp'. Ask the child to segment both words with counters.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'top' and then 'stomp'. Ask the child to segment both words with counters.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/clap/",
-      "/cl/ /a/ /p/",
-      "/c/ /l/ /a/ /p/"
-    ],
-    "correct": 2,
-    "explanation": "/c/ /l/ /a/ /p/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/c/ /l/ /a/ /p/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 11
+    "sequencePriority": 11,
+    "correct": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.",
+    "explanation": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-012",
+    "id": "ac9e1ly09-er5-t-012",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Sam says “nest”. Which shows its sounds?",
-    "audioPrompt": "Sam says “nest”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.",
+    "acceptanceNote": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'glad'. A puppet says only /g/ /a/ /d/. Ask the child to say all the sounds and identify what was missed.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'glad'. A puppet says only /g/ /a/ /d/. Ask the child to say all the sounds and identify what was missed.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/n/ /e/ /st/",
-      "/nest/",
-      "/n/ /e/ /s/ /t/"
-    ],
-    "correct": 2,
-    "explanation": "/n/ /e/ /s/ /t/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/n/ /e/ /s/ /t/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 12
+    "sequencePriority": 12,
+    "correct": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.",
+    "explanation": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-013",
+    "id": "ac9e1ly09-er5-t-013",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Kim says “brush”. Which shows its sounds?",
-    "audioPrompt": "Kim says “brush”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.",
+    "acceptanceNote": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'string'. Ask the child to say all the sounds and count them.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'string'. Ask the child to say all the sounds and count them.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/b/ /r/ /u/ /sh/",
-      "/br/ /u/ /s/ /h/",
-      "/brush/"
-    ],
-    "correct": 0,
-    "explanation": "/b/ /r/ /u/ /sh/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/b/ /r/ /u/ /sh/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 13
+    "sequencePriority": 13,
+    "correct": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.",
+    "explanation": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-014",
+    "id": "ac9e1ly09-er5-t-014",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Ava says “flag”. Which shows its sounds?",
-    "audioPrompt": "Ava says “flag”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.",
+    "acceptanceNote": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'spent'. Ask the child to segment it, checking the sounds at both ends.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'spent'. Ask the child to segment it, checking the sounds at both ends.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/f/ /l/ /a/ /g/",
-      "/flag/",
-      "/fl/ /a/ /g/"
-    ],
-    "correct": 0,
-    "explanation": "/f/ /l/ /a/ /g/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/f/ /l/ /a/ /g/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 14
+    "sequencePriority": 14,
+    "correct": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.",
+    "explanation": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-015",
+    "id": "ac9e1ly09-er5-t-015",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Leo says “chest”. Which shows its sounds?",
-    "audioPrompt": "Leo says “chest”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.",
+    "acceptanceNote": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'wing' and 'wind'. Ask the child to segment each and compare the number of sounds.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'wing' and 'wind'. Ask the child to segment each and compare the number of sounds.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/c/ /h/ /e/ /s/ /t/",
-      "/chest/",
-      "/ch/ /e/ /s/ /t/"
-    ],
-    "correct": 2,
-    "explanation": "/ch/ /e/ /s/ /t/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/ch/ /e/ /s/ /t/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 15
+    "sequencePriority": 15,
+    "correct": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.",
+    "explanation": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-t-016",
+    "id": "ac9e1ly09-er5-t-016",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Zoe says “milk”. Which shows its sounds?",
-    "audioPrompt": "Zoe says “milk”. Which shows its sounds?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.",
+    "acceptanceNote": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'smell'. Ask for every sound, then ask whether its ending needs one counter or two.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'smell'. Ask for every sound, then ask whether its ending needs one counter or two.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "/m/ /i/ /lk/",
-      "/milk/",
-      "/m/ /i/ /l/ /k/"
-    ],
-    "correct": 2,
-    "explanation": "/m/ /i/ /l/ /k/ is the best answer.",
-    "structuredExplanation": {
-      "summary": "/m/ /i/ /l/ /k/ is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 16
+    "sequencePriority": 16,
+    "correct": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.",
+    "explanation": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

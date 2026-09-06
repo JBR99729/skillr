@@ -31,15 +31,17 @@ for (const code of codes) {
   const items = JSON.parse(fs.readFileSync(bankFile,"utf8"));
   const practice = items.filter((item) => item.bank === "practice");
   const test = items.filter((item) => item.bank === "test");
-  const reviewed = items.every(item => ['20260906-english-review-1','20260906-english-review-2','20260906-english-review-3','20260906-english-review-4'].includes(item.review?.version));
+  const reviewed = items.every(item => ['20260906-english-review-1','20260906-english-review-2','20260906-english-review-3','20260906-english-review-4','20260906-english-review-5'].includes(item.review?.version));
   if (practice.length !== (reviewed ? 24 : 40)) errors.push(`${code}: unexpected practice bank size: ${practice.length}`);
   if (test.length !== 16) errors.push(`${code}: expected 16 test questions, found ${test.length}`);
   const expected = reviewed ? [["recognise",0],["apply",8],["reason",16]] : [["recognise",0],["explain",10],["discriminate",20],["apply",30]];
   const blockSize = reviewed ? 8 : 10;
   for (const [stage,start] of expected) if (practice.slice(start,start+blockSize).some((item) => item.stage !== stage)) errors.push(`${code}: ${stage} stage has an invalid block`);
   for (const item of practice) {
-    if (!Array.isArray(item.answers) || item.answers.length !== 3) errors.push(`${code}/${item.id}: practice item must have 3 answers`);
-    if (item.answers?.filter((answer) => answer.is_correct).length !== 1) errors.push(`${code}/${item.id}: practice item must have exactly 1 correct answer`);
+    const adult = item.grading_mode === "adult-review";
+    if (adult && (!item.model_answer || !item.acceptance_note || item.answers?.length !== 0)) errors.push(`${code}/${item.id}: incomplete performance task`);
+    if (!adult && (!Array.isArray(item.answers) || item.answers.length !== 3)) errors.push(`${code}/${item.id}: practice item must have 3 answers`);
+    if (!adult && item.answers?.filter((answer) => answer.is_correct).length !== 1) errors.push(`${code}/${item.id}: practice item must have exactly 1 correct answer`);
     const text = `${item.question || ""} ${item.explanation?.summary || ""} ${item.explanation?.hint || ""}`;
     if (teacherFacing.test(text)) errors.push(`${code}/${item.id}: teacher/rubric language found`);
   }

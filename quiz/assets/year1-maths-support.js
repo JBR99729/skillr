@@ -70,14 +70,14 @@
 
   function renderAdultResponse(question, container, submit) {
     const instructions = document.createElement("p");
-    instructions.textContent = "Write your answer here, or do the task on paper or with objects. A grown-up will check this task after you finish.";
+    instructions.textContent = question.responseInstructions || "Write your answer here, or do the task on paper or with objects. A grown-up will check this task after you finish.";
     const label = document.createElement("label");
     label.htmlFor = "adultReviewAnswer"; label.textContent = "Your answer or explanation";
     const input = document.createElement("textarea");
     input.id = "adultReviewAnswer"; input.className = "quiz-input"; input.rows = 4;
     const paper = document.createElement("label"); paper.className = "y1-paper-confirmation";
     const checkbox = document.createElement("input"); checkbox.id = "adultReviewPaper"; checkbox.type = "checkbox";
-    paper.append(checkbox, "I have done the task on paper or with objects.");
+    paper.append(checkbox, question.completionLabel || "I have done the task on paper or with objects.");
     const update = () => {submit.disabled = !input.value.trim() && !checkbox.checked;};
     input.addEventListener("input", update); checkbox.addEventListener("change", update);
     container.append(instructions, label, input, paper); submit.textContent = "Save response";
@@ -87,7 +87,7 @@
     const input = document.getElementById("adultReviewAnswer");
     const paper = document.getElementById("adultReviewPaper");
     return {isCorrect:null, pendingReview:true,
-      selectedAnswer: [input?.value.trim(), paper?.checked ? "Completed on paper or with objects; please check the work." : ""].filter(Boolean).join("\n"),
+      selectedAnswer: [input?.value.trim(), paper?.checked ? (question.completionLabel || "Completed on paper or with objects; please check the work.") : ""].filter(Boolean).join("\n"),
       correctAnswer:question.modelAnswer || question.correct};
   }
 

@@ -1,1162 +1,794 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly09-p-001",
+    "id": "ac9e1ly09-er5-p-001",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 01 recognise",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly segment a cvc word?",
-    "audioPrompt": "Which response would correctly segment a cvc word?",
-    "visual": "📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-001\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.",
+    "acceptanceNote": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'cat' normally. Ask the child to say every sound separately, moving one counter for each sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'cat' normally. Ask the child to say every sound separately, moving one counter for each sound.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-001",
-      "alt_text": "📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "/m/ /a/ /p/ — 3 phonemes",
-      "/m/ /a/ /p/ — 4 phonemes",
-      "/m/ /a/ /p/ — 2 phonemes"
-    ],
-    "correct": 0,
-    "explanation": "/m/ /a/ /p/ — 3 phonemes This matches the task.\nHint: Listen for phonemes, not letter count.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.",
+    "explanation": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "/m/ /a/ /p/ — 3 phonemes This matches the task.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-002",
+    "id": "ac9e1ly09-er5-p-002",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 02 recognise",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match words and sound counts?",
-    "audioPrompt": "Which response would correctly match words and sound counts?",
-    "visual": "📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-003\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.",
+    "acceptanceNote": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'map'. Ask the child to stretch it into its separate sounds in order.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'map'. Ask the child to stretch it into its separate sounds in order.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-003",
-      "alt_text": "📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Sun ↔ 4; stop ↔ 3; fish ↔ 3",
-      "Sun ↔ 4; stop ↔ 4; fish ↔ 3",
-      "Sun ↔ 3; stop ↔ 4; fish ↔ 3"
-    ],
-    "correct": 2,
-    "explanation": "Sun ↔ 3; stop ↔ 4; fish ↔ 3 This matches the task.\nHint: /fr/ has /f/ and /r/.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.",
+    "explanation": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Sun ↔ 3; stop ↔ 4; fish ↔ 3 This matches the task.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-003",
+    "id": "ac9e1ly09-er5-p-003",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 03 recognise",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly move sound counters?",
-    "audioPrompt": "Which response would correctly move sound counters?",
-    "visual": "📖 Move sound counters; 🔎 cluster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Move sound counters; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-005\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.",
+    "acceptanceNote": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'fish'. Ask the child to say each sound and count them with fingers.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'fish'. Ask the child to say each sound and count them with fingers.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-005",
-      "alt_text": "📖 Move sound counters; 🔎 cluster; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "/f/ /r/ /o/ /g/ with 5 counters in order",
-      "/f/ /r/ /o/ /g/ with 4 counters in order",
-      "/f/ /r/ /o/ /g/ with 3 counters in order"
-    ],
-    "correct": 1,
-    "explanation": "/f/ /r/ /o/ /g/ with 4 counters in order This matches the task.\nHint: Always say the word again after segmenting.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.",
+    "explanation": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "/f/ /r/ /o/ /g/ with 4 counters in order This matches the task.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-004",
+    "id": "ac9e1ly09-er5-p-004",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 04 recognise",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly hear a final cluster?",
-    "audioPrompt": "Which response would correctly hear a final cluster?",
-    "visual": "📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-007\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.",
+    "acceptanceNote": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'ship'. Ask the child to move a counter for each separate sound they say.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'ship'. Ask the child to move a counter for each separate sound they say.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-007",
-      "alt_text": "📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "/t/ /e/ /n/ /t/; final sounds /n/ /t/",
-      "Do not listen for phonemes, not letter count.",
-      "Treat blend as one sound."
-    ],
-    "correct": 0,
-    "explanation": "/t/ /e/ /n/ /t/; final sounds /n/ /t/ This matches the task.\nHint: Listen for phonemes, not letter count.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.",
+    "explanation": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "/t/ /e/ /n/ /t/; final sounds /n/ /t/ This matches the task.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-005",
+    "id": "ac9e1ly09-er5-p-005",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 05 recognise",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly order spoken sounds?",
-    "audioPrompt": "Which response would correctly order spoken sounds?",
-    "visual": "📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-009\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.",
+    "acceptanceNote": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'sock'. Ask the child to say its sounds slowly and separately.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'sock'. Ask the child to say its sounds slowly and separately.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-009",
-      "alt_text": "📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Treat blend as one sound.",
-      "Do not blend back.",
-      "/m/ /i/ /l/ /k/"
-    ],
-    "correct": 2,
-    "explanation": "/m/ /i/ /l/ /k/ This matches the task.\nHint: /fr/ has /f/ and /r/.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.",
+    "explanation": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "/m/ /i/ /l/ /k/ This matches the task.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-006",
+    "id": "ac9e1ly09-er5-p-006",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 06 recognise",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly draw sound boxes?",
-    "audioPrompt": "Which response would correctly draw sound boxes?",
-    "visual": "📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-011\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.",
+    "acceptanceNote": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'duck'. Ask for all the sounds in order, with one tap for each.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'duck'. Ask for all the sounds in order, with one tap for each.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-011",
-      "alt_text": "📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not blend back.",
-      "Four boxes/dots for /k/ /l/ /a/ /p/",
-      "Do not listen for phonemes, not letter count."
-    ],
-    "correct": 1,
-    "explanation": "Four boxes/dots for /k/ /l/ /a/ /p/ This matches the task.\nHint: Always say the word again after segmenting.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.",
+    "explanation": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Four boxes/dots for /k/ /l/ /a/ /p/ This matches the task.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-007",
+    "id": "ac9e1ly09-er5-p-007",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 07 recognise",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Why does wish have three phonemes even though it has four letters?",
-    "audioPrompt": "Why does wish have three phonemes even though it has four letters?",
-    "visual": "📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-013\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.",
+    "acceptanceNote": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'bell'. Ask the child to separate the sounds without naming letters.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'bell'. Ask the child to separate the sounds without naming letters.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-013",
-      "alt_text": "📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "sh works together to represent one /sh/ sound: /w/ /i/ /sh/",
-      "Do not listen for phonemes, not letter count.",
-      "Treat blend as one sound."
-    ],
-    "correct": 0,
-    "explanation": "sh works together to represent one /sh/ sound: /w/ /i/ /sh/ This matches the task.\nHint: Listen for phonemes, not letter count.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.",
+    "explanation": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "sh works together to represent one /sh/ sound: /w/ /i/ /sh/ This matches the task.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-008",
+    "id": "ac9e1ly09-er5-p-008",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 08 recognise",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly compare two blends?",
-    "audioPrompt": "Which response would correctly compare two blends?",
-    "visual": "📖 Compare two blends; 🔎 cluster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two blends; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.",
+    "acceptanceNote": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'ring'. Ask the child to say each sound and move a counter for each.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'ring'. Ask the child to say each sound and move a counter for each.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-015",
-      "alt_text": "📖 Compare two blends; 🔎 cluster; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Treat blend as one sound.",
-      "Do not blend back.",
-      "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/"
-    ],
-    "correct": 2,
-    "explanation": "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/ This matches the task.\nHint: /fr/ has /f/ and /r/.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.",
+    "explanation": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/ This matches the task.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-009",
+    "id": "ac9e1ly09-er5-p-009",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 09 recognise",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly segment a digraph word?",
-    "audioPrompt": "Which response would correctly segment a digraph word?",
-    "visual": "📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-017\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.",
+    "acceptanceNote": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'stop'. Ask the child to say every sound, keeping the two beginning consonant sounds separate.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'stop'. Ask the child to say every sound, keeping the two beginning consonant sounds separate.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-017",
-      "alt_text": "📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "/ch/ /o/ /p/ — 4 phonemes",
-      "/ch/ /o/ /p/ — 3 phonemes",
-      "/ch/ /o/ /p/ — 2 phonemes"
-    ],
-    "correct": 1,
-    "explanation": "/ch/ /o/ /p/ — 3 phonemes This matches the task.\nHint: Always say the word again after segmenting.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.",
+    "explanation": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "/ch/ /o/ /p/ — 3 phonemes This matches the task.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-010",
+    "id": "ac9e1ly09-er5-p-010",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 10 recognise",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match clusters and words?",
-    "audioPrompt": "Which response would correctly match clusters and words?",
-    "visual": "📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-019\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.",
+    "acceptanceNote": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'flag'. Ask the child to segment the whole word and count the sounds.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'flag'. Ask the child to segment the whole word and count the sounds.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-019",
-      "alt_text": "📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand",
-      "/b//l/ ↔ star; /s//t/ ↔ hand; /n//d/ ↔ blue",
-      "Do not listen for phonemes, not letter count."
-    ],
-    "correct": 0,
-    "explanation": "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand This matches the task.\nHint: Listen for phonemes, not letter count.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.",
+    "explanation": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand This matches the task.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-011",
+    "id": "ac9e1ly09-er5-p-011",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 01 explain",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you segment a CVC word?",
-    "audioPrompt": "Which tip would help you segment a CVC word?",
-    "visual": "🧠 Segment a CVC word; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Segment a CVC word; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-002\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.",
+    "acceptanceNote": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'drum'. Ask the child to say the sounds in order, slowly enough to hear the beginning blend.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'drum'. Ask the child to say the sounds in order, slowly enough to hear the beginning blend.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-002",
-      "alt_text": "🧠 Segment a CVC word; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Treat blend as one sound.",
-      "Listen for phonemes, not letter count.",
-      "Do not blend back."
-    ],
-    "correct": 1,
-    "explanation": "Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.",
+    "explanation": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-012",
+    "id": "ac9e1ly09-er5-p-012",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 02 explain",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match words and sound counts?",
-    "audioPrompt": "Which tip would help you match words and sound counts?",
-    "visual": "🧠 Match words and sound counts; ➡️ Stretch sounds; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match words and sound counts; ➡️ Stretch sounds; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-004\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.",
+    "acceptanceNote": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'nest'. Ask the child to separate all the sounds, especially at the end.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'nest'. Ask the child to separate all the sounds, especially at the end.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-004",
-      "alt_text": "🧠 Match words and sound counts; ➡️ Stretch sounds; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "Do not blend back.",
-      "Do not listen for phonemes, not letter count."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.\nHint: /fr/ has /f/ and /r/.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.",
+    "explanation": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-013",
+    "id": "ac9e1ly09-er5-p-013",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 03 explain",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you move sound counters?",
-    "audioPrompt": "Which tip would help you move sound counters?",
-    "visual": "🧠 Move sound counters; ➡️ Tap phonemes; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Move sound counters; ➡️ Tap phonemes; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-006\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.",
+    "acceptanceNote": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'hand'. Ask the child to move one counter for each sound they say.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'hand'. Ask the child to move one counter for each sound they say.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-006",
-      "alt_text": "🧠 Move sound counters; ➡️ Tap phonemes; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "Treat blend as one sound.",
-      "Look for cluster and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for cluster and check the whole example.\nHint: Always say the word again after segmenting.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.",
+    "explanation": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Look for cluster and check the whole example.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-014",
+    "id": "ac9e1ly09-er5-p-014",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 04 explain",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you hear a final cluster?",
-    "audioPrompt": "Which tip would help you hear a final cluster?",
-    "visual": "🧠 Hear a final cluster; ➡️ Blend back; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Hear a final cluster; ➡️ Blend back; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-008\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.",
+    "acceptanceNote": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'milk'. Ask the child to say each sound in order.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'milk'. Ask the child to say each sound in order.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-008",
-      "alt_text": "🧠 Hear a final cluster; ➡️ Blend back; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Treat blend as one sound.",
-      "Check that you can use sound boxes.",
-      "Do not blend back."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can use sound boxes.\nHint: Listen for phonemes, not letter count.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.",
+    "explanation": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Check that you can use sound boxes.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-015",
+    "id": "ac9e1ly09-er5-p-015",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 05 explain",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order spoken sounds?",
-    "audioPrompt": "Which tip would help you order spoken sounds?",
-    "visual": "🧠 Order spoken sounds; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order spoken sounds; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-010\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.",
+    "acceptanceNote": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'tent'. Ask the child to tap for each sound and say them separately.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'tent'. Ask the child to tap for each sound and say them separately.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-010",
-      "alt_text": "🧠 Order spoken sounds; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Sequencing phonemes in a word with final blend.",
-      "Do not blend back.",
-      "Do not listen for phonemes, not letter count."
-    ],
-    "correct": 0,
-    "explanation": "Sequencing phonemes in a word with final blend.\nHint: /fr/ has /f/ and /r/.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.",
+    "explanation": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Sequencing phonemes in a word with final blend.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-016",
+    "id": "ac9e1ly09-er5-p-016",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 06 explain",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you draw sound boxes?",
-    "audioPrompt": "Which tip would help you draw sound boxes?",
-    "visual": "🧠 Draw sound boxes; ➡️ Stretch sounds; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw sound boxes; ➡️ Stretch sounds; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-012\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.",
+    "acceptanceNote": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'frog'. Ask the child to segment the whole word, keeping the beginning sounds separate.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'frog'. Ask the child to segment the whole word, keeping the beginning sounds separate.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-012",
-      "alt_text": "🧠 Draw sound boxes; ➡️ Stretch sounds; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "Treat blend as one sound.",
-      "Always say the word again after segmenting."
-    ],
-    "correct": 2,
-    "explanation": "Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.",
+    "explanation": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Always say the word again after segmenting.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-017",
+    "id": "ac9e1ly09-er5-p-017",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 07 explain",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you explain letters versus sounds?",
-    "audioPrompt": "Which tip would help you explain letters versus sounds?",
-    "visual": "🧠 Explain letters versus sounds; ➡️ Tap phonemes; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain letters versus sounds; ➡️ Tap phonemes; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.",
+    "acceptanceNote": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'pin' and then 'spin'. Ask the child to segment both and tell which has an extra sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'pin' and then 'spin'. Ask the child to segment both and tell which has an extra sound.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-014",
-      "alt_text": "🧠 Explain letters versus sounds; ➡️ Tap phonemes; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Treat blend as one sound.",
-      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "Do not blend back."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.\nHint: Listen for phonemes, not letter count.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.",
+    "explanation": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-018",
+    "id": "ac9e1ly09-er5-p-018",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 08 explain",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you compare two blends?",
-    "audioPrompt": "Which tip would help you compare two blends?",
-    "visual": "🧠 Compare two blends; ➡️ Blend back; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare two blends; ➡️ Blend back; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.",
+    "acceptanceNote": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'lip' and then 'slip'. Ask for every sound in both words, using separate rows of counters.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'lip' and then 'slip'. Ask for every sound in both words, using separate rows of counters.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-016",
-      "alt_text": "🧠 Compare two blends; ➡️ Blend back; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Look for cluster and check the whole example.",
-      "Do not blend back.",
-      "Do not listen for phonemes, not letter count."
-    ],
-    "correct": 0,
-    "explanation": "Look for cluster and check the whole example.\nHint: /fr/ has /f/ and /r/.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.",
+    "explanation": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Look for cluster and check the whole example.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-019",
+    "id": "ac9e1ly09-er5-p-019",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 09 explain",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you segment a digraph word?",
-    "audioPrompt": "Which tip would help you segment a digraph word?",
-    "visual": "🧠 Segment a digraph word; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Segment a digraph word; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-018\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.",
+    "acceptanceNote": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'stamp'. Ask the child to segment the word, paying attention to both ends.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'stamp'. Ask the child to segment the word, paying attention to both ends.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-018",
-      "alt_text": "🧠 Segment a digraph word; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "Treat blend as one sound.",
-      "Check that you can use sound boxes."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can use sound boxes.\nHint: Always say the word again after segmenting.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.",
+    "explanation": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Check that you can use sound boxes.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-020",
+    "id": "ac9e1ly09-er5-p-020",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 10 explain",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match clusters and words?",
-    "audioPrompt": "Which tip would help you match clusters and words?",
-    "visual": "🧠 Match clusters and words; ➡️ Stretch sounds; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match clusters and words; ➡️ Stretch sounds; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-020\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.",
+    "acceptanceNote": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'split'. Ask the child to separate every beginning sound, then finish the word's sounds.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'split'. Ask the child to separate every beginning sound, then finish the word's sounds.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-020",
-      "alt_text": "🧠 Match clusters and words; ➡️ Stretch sounds; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Treat blend as one sound.",
-      "Recognising consonant clusters in spoken words.",
-      "Do not blend back."
-    ],
-    "correct": 1,
-    "explanation": "Recognising consonant clusters in spoken words.\nHint: Listen for phonemes, not letter count.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.",
+    "explanation": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Recognising consonant clusters in spoken words.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-021",
+    "id": "ac9e1ly09-er5-p-021",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 01 discriminate",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-001\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.",
+    "acceptanceNote": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'spring'. Ask the child to segment it and count the sounds.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'spring'. Ask the child to segment it and count the sounds.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-001",
-      "alt_text": "📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "/m/ /a/ /p/ — 4 phonemes",
-      "/m/ /a/ /p/ — 3 phonemes",
-      "Listen for phonemes, not letter count."
-    ],
-    "correct": 0,
-    "explanation": "/m/ /a/ /p/ — 4 phonemes is the mix-up. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.",
+    "explanation": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "/m/ /a/ /p/ — 4 phonemes is the mix-up. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-022",
+    "id": "ac9e1ly09-er5-p-022",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 02 discriminate",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-003\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.",
+    "acceptanceNote": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'best'. A puppet counts only /b/ /e/ /s/. Ask the child to segment the whole word and show the missing sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'best'. A puppet counts only /b/ /e/ /s/. Ask the child to segment the whole word and show the missing sound.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-003",
-      "alt_text": "📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Sun ↔ 3; stop ↔ 4; fish ↔ 3",
-      "Sun ↔ 4; stop ↔ 3; fish ↔ 3",
-      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back."
-    ],
-    "correct": 1,
-    "explanation": "Sun ↔ 4; stop ↔ 3; fish ↔ 3 is the mix-up. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.",
+    "explanation": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Sun ↔ 4; stop ↔ 3; fish ↔ 3 is the mix-up. /fr/ has /f/ and /r/.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-023",
+    "id": "ac9e1ly09-er5-p-023",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 03 discriminate",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Move sound counters; 🔎 cluster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Move sound counters; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-005\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.",
+    "acceptanceNote": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'shop' and 'spot'. Ask the child to segment both and explain why they need different numbers of counters.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'shop' and 'spot'. Ask the child to segment both and explain why they need different numbers of counters.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-005",
-      "alt_text": "📖 Move sound counters; 🔎 cluster; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "/f/ /r/ /o/ /g/ with 4 counters in order",
-      "Look for cluster and check the whole example.",
-      "/f/ /r/ /o/ /g/ with 5 counters in order"
-    ],
-    "correct": 2,
-    "explanation": "/f/ /r/ /o/ /g/ with 5 counters in order is the mix-up. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.",
+    "explanation": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "/f/ /r/ /o/ /g/ with 5 counters in order is the mix-up. Always say the word again after segmenting.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-024",
+    "id": "ac9e1ly09-er5-p-024",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 04 discriminate",
+    "skill": "segmenting spoken phonemes including clusters",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-007\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.",
+    "acceptanceNote": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'crisp'. Ask for all the sounds, then ask the child to repeat the ending sounds on their own.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'crisp'. Ask for all the sounds, then ask the child to repeat the ending sounds on their own.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-007",
-      "alt_text": "📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "/t/ /e/ /n/ /t/; final sounds /n/ /t/",
-      "Check that you can use sound boxes."
-    ],
-    "correct": 0,
-    "explanation": "Do not listen for phonemes, not letter count. is the mix-up. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.",
+    "explanation": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Do not listen for phonemes, not letter count. is the mix-up. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-025",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 05 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-009",
-      "alt_text": "📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence"
-    },
-    "answers": [
-      "/m/ /i/ /l/ /k/",
-      "Treat blend as one sound.",
-      "Sequencing phonemes in a word with final blend."
-    ],
-    "correct": 1,
-    "explanation": "Treat blend as one sound. is the mix-up. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
-    "structuredExplanation": {
-      "summary": "Treat blend as one sound. is the mix-up. /fr/ has /f/ and /r/.",
-      "hint": "/fr/ has /f/ and /r/."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-026",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 06 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-011",
-      "alt_text": "📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence"
-    },
-    "answers": [
-      "Four boxes/dots for /k/ /l/ /a/ /p/",
-      "Always say the word again after segmenting.",
-      "Do not blend back."
-    ],
-    "correct": 2,
-    "explanation": "Do not blend back. is the mix-up. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
-    "structuredExplanation": {
-      "summary": "Do not blend back. is the mix-up. Always say the word again after segmenting.",
-      "hint": "Always say the word again after segmenting."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-027",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-013",
-      "alt_text": "📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "sh works together to represent one /sh/ sound: /w/ /i/ /sh/",
-      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back."
-    ],
-    "correct": 0,
-    "explanation": "Do not listen for phonemes, not letter count. is the mix-up. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
-    "structuredExplanation": {
-      "summary": "Do not listen for phonemes, not letter count. is the mix-up. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-028",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare two blends; 🔎 cluster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two blends; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-015",
-      "alt_text": "📖 Compare two blends; 🔎 cluster; ✅ choose with evidence"
-    },
-    "answers": [
-      "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/",
-      "Treat blend as one sound.",
-      "Look for cluster and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "Treat blend as one sound. is the mix-up. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
-    "structuredExplanation": {
-      "summary": "Treat blend as one sound. is the mix-up. /fr/ has /f/ and /r/.",
-      "hint": "/fr/ has /f/ and /r/."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-029",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-017",
-      "alt_text": "📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence"
-    },
-    "answers": [
-      "/ch/ /o/ /p/ — 3 phonemes",
-      "Check that you can use sound boxes.",
-      "/ch/ /o/ /p/ — 4 phonemes"
-    ],
-    "correct": 2,
-    "explanation": "/ch/ /o/ /p/ — 4 phonemes is the mix-up. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
-    "structuredExplanation": {
-      "summary": "/ch/ /o/ /p/ — 4 phonemes is the mix-up. Always say the word again after segmenting.",
-      "hint": "Always say the word again after segmenting."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-030",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-019",
-      "alt_text": "📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence"
-    },
-    "answers": [
-      "/b//l/ ↔ star; /s//t/ ↔ hand; /n//d/ ↔ blue",
-      "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand",
-      "Recognising consonant clusters in spoken words."
-    ],
-    "correct": 0,
-    "explanation": "/b//l/ ↔ star; /s//t/ ↔ hand; /n//d/ ↔ blue is the mix-up. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
-    "structuredExplanation": {
-      "summary": "/b//l/ ↔ star; /s//t/ ↔ hand; /n//d/ ↔ blue is the mix-up. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-031",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-001",
-      "alt_text": "📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence"
-    },
-    "answers": [
-      "/m/ /a/ /p/ — 4 phonemes",
-      "/m/ /a/ /p/ — 3 phonemes",
-      "/m/ /a/ /p/ — 2 phonemes"
-    ],
-    "correct": 1,
-    "explanation": "/m/ /a/ /p/ — 3 phonemes uses the skill correctly. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
-    "structuredExplanation": {
-      "summary": "/m/ /a/ /p/ — 3 phonemes uses the skill correctly. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-032",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-003",
-      "alt_text": "📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence"
-    },
-    "answers": [
-      "Sun ↔ 4; stop ↔ 3; fish ↔ 3",
-      "Sun ↔ 4; stop ↔ 4; fish ↔ 3",
-      "Sun ↔ 3; stop ↔ 4; fish ↔ 3"
-    ],
-    "correct": 2,
-    "explanation": "Sun ↔ 3; stop ↔ 4; fish ↔ 3 uses the skill correctly. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
-    "structuredExplanation": {
-      "summary": "Sun ↔ 3; stop ↔ 4; fish ↔ 3 uses the skill correctly. /fr/ has /f/ and /r/.",
-      "hint": "/fr/ has /f/ and /r/."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-033",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Move sound counters; 🔎 cluster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Move sound counters; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-005",
-      "alt_text": "📖 Move sound counters; 🔎 cluster; ✅ choose with evidence"
-    },
-    "answers": [
-      "/f/ /r/ /o/ /g/ with 4 counters in order",
-      "/f/ /r/ /o/ /g/ with 5 counters in order",
-      "/f/ /r/ /o/ /g/ with 3 counters in order"
-    ],
-    "correct": 0,
-    "explanation": "/f/ /r/ /o/ /g/ with 4 counters in order uses the skill correctly. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
-    "structuredExplanation": {
-      "summary": "/f/ /r/ /o/ /g/ with 4 counters in order uses the skill correctly. Always say the word again after segmenting.",
-      "hint": "Always say the word again after segmenting."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-034",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-007",
-      "alt_text": "📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "/t/ /e/ /n/ /t/; final sounds /n/ /t/",
-      "Treat blend as one sound."
-    ],
-    "correct": 1,
-    "explanation": "/t/ /e/ /n/ /t/; final sounds /n/ /t/ uses the skill correctly. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
-    "structuredExplanation": {
-      "summary": "/t/ /e/ /n/ /t/; final sounds /n/ /t/ uses the skill correctly. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-035",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-009",
-      "alt_text": "📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence"
-    },
-    "answers": [
-      "Treat blend as one sound.",
-      "Do not blend back.",
-      "/m/ /i/ /l/ /k/"
-    ],
-    "correct": 2,
-    "explanation": "/m/ /i/ /l/ /k/ uses the skill correctly. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
-    "structuredExplanation": {
-      "summary": "/m/ /i/ /l/ /k/ uses the skill correctly. /fr/ has /f/ and /r/.",
-      "hint": "/fr/ has /f/ and /r/."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-036",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-011",
-      "alt_text": "📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence"
-    },
-    "answers": [
-      "Four boxes/dots for /k/ /l/ /a/ /p/",
-      "Do not blend back.",
-      "Do not listen for phonemes, not letter count."
-    ],
-    "correct": 0,
-    "explanation": "Four boxes/dots for /k/ /l/ /a/ /p/ uses the skill correctly. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
-    "structuredExplanation": {
-      "summary": "Four boxes/dots for /k/ /l/ /a/ /p/ uses the skill correctly. Always say the word again after segmenting.",
-      "hint": "Always say the word again after segmenting."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-037",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-013",
-      "alt_text": "📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "sh works together to represent one /sh/ sound: /w/ /i/ /sh/",
-      "Treat blend as one sound."
-    ],
-    "correct": 1,
-    "explanation": "sh works together to represent one /sh/ sound: /w/ /i/ /sh/ uses the skill correctly. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
-    "structuredExplanation": {
-      "summary": "sh works together to represent one /sh/ sound: /w/ /i/ /sh/ uses the skill correctly. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-038",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare two blends; 🔎 cluster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two blends; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-015",
-      "alt_text": "📖 Compare two blends; 🔎 cluster; ✅ choose with evidence"
-    },
-    "answers": [
-      "Treat blend as one sound.",
-      "Do not blend back.",
-      "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/"
-    ],
-    "correct": 2,
-    "explanation": "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/ uses the skill correctly. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
-    "structuredExplanation": {
-      "summary": "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/ uses the skill correctly. /fr/ has /f/ and /r/.",
-      "hint": "/fr/ has /f/ and /r/."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-039",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-017",
-      "alt_text": "📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence"
-    },
-    "answers": [
-      "/ch/ /o/ /p/ — 3 phonemes",
-      "/ch/ /o/ /p/ — 4 phonemes",
-      "/ch/ /o/ /p/ — 2 phonemes"
-    ],
-    "correct": 0,
-    "explanation": "/ch/ /o/ /p/ — 3 phonemes uses the skill correctly. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
-    "structuredExplanation": {
-      "summary": "/ch/ /o/ /p/ — 3 phonemes uses the skill correctly. Always say the word again after segmenting.",
-      "hint": "Always say the word again after segmenting."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-040",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-019",
-      "alt_text": "📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence"
-    },
-    "answers": [
-      "/b//l/ ↔ star; /s//t/ ↔ hand; /n//d/ ↔ blue",
-      "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand",
-      "Do not listen for phonemes, not letter count."
-    ],
-    "correct": 1,
-    "explanation": "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand uses the skill correctly. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
-    "structuredExplanation": {
-      "summary": "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand uses the skill correctly. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   }
